@@ -87,6 +87,129 @@
    ]
   },
   {
+   "kind": "flow",
+   "title": "Where $914.5M of cash went",
+   "subtitle": "Cash that came in from 1998 through 2000, and where it stood on December 31, 2000, six months before the shutdown. From the cash-flow statement in the 2000 annual report.",
+   "from": {
+    "label": "cash in, 1998 to 2000: $382.9M of preferred stock and $402.6M from the IPO (both net of costs), $101.1M of cash that came with HomeGrocer, and $27.9M of loans, leases and other stock sales (sum derived)",
+    "value": 914.5
+   },
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "to": [
+    {
+     "label": "Warehouses, vans and equipment",
+     "value": 356.7,
+     "color": "blue",
+     "note": "Purchases of property, equipment and leasehold improvements: $32.7M in 1998, $64.3M in 1999 and $259.8M in 2000 (sum derived).[^3]"
+    },
+    {
+     "label": "Running the business",
+     "value": 324.1,
+     "color": "red",
+     "note": "Net cash used in operating activities: $2.2M in 1998, $58.8M in 1999 and $263.1M in 2000 (sum derived).[^3]"
+    },
+    {
+     "label": "Still in the bank",
+     "value": 211.9,
+     "color": "green",
+     "note": "$40.3M of cash and $171.6M of marketable securities on December 31, 2000.[^3] By March 31, 2001 this was reported as $115M.[^15]"
+    },
+    {
+     "label": "Everything else (derived remainder)",
+     "value": 21.8,
+     "color": "grey",
+     "note": "What is left after the three reported figures: repayments of loans and leases, deposits, loans to shareholders and small investments, less the $2.9M of cash on hand at the start of 1998. We did not itemise it."
+    }
+   ],
+   "source": "Webvan 10-K for 2000, consolidated statements of cash flows and liquidity discussion[^3]. The total, the three-year sums and the remainder are derived. The 10-K counts 28,750,000 shares sold in the IPO for $431.3M gross and $402.6M net; the prospectus covers 25 million shares, or $375M[^1]. The $1.04B paid for HomeGrocer was stock, not cash, and is not in this figure."
+  },
+  {
+   "kind": "arc",
+   "title": "Sales peaked at $81.8M a quarter, with a loss more than twice as large",
+   "subtitle": "Net sales and net loss by quarter, in $ millions, from the first orders to the last full quarter reported.",
+   "labels": [
+    "Q2 ’99",
+    "Q3 ’99",
+    "Q4 ’99",
+    "Q1 ’00",
+    "Q2 ’00",
+    "Q3 ’00",
+    "Q4 ’00",
+    "Q1 ’01"
+   ],
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "xLabel": "Quarter",
+   "series": [
+    {
+     "label": "Net loss",
+     "data": [
+      23.44,
+      60.44,
+      49.0,
+      57.81,
+      74.36,
+      147.97,
+      173.13,
+      216.97
+     ],
+     "color": "brand"
+    },
+    {
+     "label": "Net sales",
+     "data": [
+      0.38,
+      3.84,
+      9.07,
+      16.27,
+      28.3,
+      52.06,
+      81.83,
+      77.23
+     ],
+     "color": "ink"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "s": 1,
+     "title": "the store opens",
+     "text": "The Bay Area Webstore launches on June 2, 1999. The first quarter brings in $0.4M.[^1][^3]"
+    },
+    {
+     "i": 2,
+     "s": 1,
+     "title": "the IPO",
+     "text": "Webvan goes public at $15 in November 1999 with $13.3M of sales for the whole year.[^1][^3]"
+    },
+    {
+     "i": 5,
+     "title": "the merger",
+     "text": "HomeGrocer joins on September 5, 2000. The quarterly loss roughly doubles, from $74.4M to $148.0M.[^3][^6]"
+    },
+    {
+     "i": 6,
+     "s": 1,
+     "title": "the peak",
+     "text": "$81.8M of sales in the first full quarter with HomeGrocer (derived), against a $173.1M loss (derived).[^3][^6]"
+    },
+    {
+     "i": 7,
+     "title": "the retreat",
+     "text": "Dallas closes in February 2001 and sales slip to $77.2M. The loss reaches $217.0M, including $73.9M of restructuring charges.[^7]"
+    }
+   ],
+   "source": "Quarterly 10-Qs and 10-K405/10-K[^3][^4][^5][^6][^7]. Q4 1999 and Q4 2000 are derived by subtracting nine-month results from full-year totals. Q4 2000 and Q1 2001 include HomeGrocer."
+  },
+  {
    "kind": "chart",
    "id": "stockChart",
    "title": "WBVN share price, quarterly high and low",
@@ -173,6 +296,45 @@
     ]
    },
    "source": "Quarterly ranges from the 10-K[^3]. Apr 26, 2001 price from CNNfn[^15]; Jul 6, 2001 price from the Los Angeles Times[^13]. A 1-for-25 reverse split was proposed in April 2001[^15]; prices shown are as reported, not adjusted."
+  },
+  {
+   "kind": "bars",
+   "title": "$827M of losses, period by period",
+   "subtitle": "Net loss as reported, in $ millions. More than half of it came in 2000.",
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "itemLabel": "Period",
+   "valueLabel": "Net loss",
+   "items": [
+    {
+     "label": "1998",
+     "value": 12.0,
+     "color": "grey",
+     "note": "Before the first order."
+    },
+    {
+     "label": "1999",
+     "value": 144.6,
+     "color": "brand",
+     "note": "The store opens in June; the IPO is in November."
+    },
+    {
+     "label": "2000",
+     "value": 453.3,
+     "color": "red",
+     "note": "Atlanta, Chicago and the HomeGrocer merger."
+    },
+    {
+     "label": "Q1 2001",
+     "value": 217.0,
+     "color": "brand",
+     "note": "One quarter, including $73.9M of restructuring charges."
+    }
+   ],
+   "source": "Annual net losses from the 10-K[^3]; Q1 2001 from the 10-Q[^7]. The four periods sum to $826.9M (derived), in line with the $827M cumulative loss cited above[^3][^7]."
   },
   {
    "kind": "keyfacts",

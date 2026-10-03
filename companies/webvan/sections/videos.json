@@ -1,0 +1,71 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "What Webvan looked like on television",
+ "lede": "Webvan advertised far less than Pets.com, but its commercials survive, and so do two TechTV news reports from its last months. Dates for the commercials come from the people who uploaded them; where that is the only evidence, the caption says so.",
+ "videos": [
+  {
+   "id": "manifesto",
+   "title": "“Manifesto,” a one-minute Webvan commercial",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "gOw5i1PJ3vs",
+   "caption": "The uploader dates this spot to 1999, the year the Bay Area store opened and the company went public.[^1] It shows the earlier truck livery, a beige van with a round grocery-bag logo. We could not confirm the air date independently."
+  },
+  {
+   "id": "theline",
+   "title": "“The line”",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "hlYAR2UY9eU",
+   "caption": "One of a series that the uploader dates to 2000 and describes as pointing up “how unpleasant the grocery store experience is.” The pitch was convenience; the price promise was in the prospectus.[^1]"
+  },
+  {
+   "id": "may2001",
+   "title": "A Webvan commercial from the final weeks",
+   "year": 2001,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "Jjue_uM5kH8",
+   "caption": "Labeled May 2001 by the uploader, which we could not confirm. If the date is right, it aired about two months before deliveries stopped on July 9, 2001.[^10]"
+  },
+  {
+   "id": "dc",
+   "title": "Inside a Webvan distribution center",
+   "year": 2010,
+   "type": "film",
+   "provider": "youtube",
+   "embedId": "os66TTScS1o",
+   "caption": "Seven minutes of footage of the carousels, conveyors and totes that each center was built around. It was uploaded in 2010 with no description, so 2010 is the upload year: we do not know who filmed it or when. Each center was designed for 8,000 orders a day.[^3]"
+  },
+  {
+   "id": "delisting",
+   "title": "TechTV news: Webvan and the Nasdaq’s $1 rule",
+   "year": 2001,
+   "type": "news",
+   "provider": "archive",
+   "embedId": "g4tv.com-video2458",
+   "caption": "A TechTV news report on the threat of delisting, preserved by the Internet Archive with the description “Delisting Webvan.” The archive gives no air date; the stock chart on screen ends in April at $0.24, and the file name carries the date April 25, 2001, the day before Webvan quit Atlanta and proposed a 1-for-25 reverse split.[^15]"
+  },
+  {
+   "id": "selloff",
+   "title": "TechTV news: “Webvan sells off assets”",
+   "year": 2001,
+   "type": "news",
+   "provider": "archive",
+   "embedId": "g4tv.com-video3079",
+   "caption": "A Tech Live report from the week of the shutdown, with interviews filmed in a supermarket. The archive gives no air date; the file name carries the date July 13, 2001, the day of the Chapter 11 filing.[^8]"
+  },
+  {
+   "id": "retro",
+   "title": "Bit of Business: “The Collapse of Webvan”",
+   "year": 2021,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "FYbyC4-9pOk",
+   "caption": "A four-minute independent retrospective. Its figures, including the valuation in its title, are the uploader’s; ours are in the sections above."
+  }
+ ],
+ "note": "Videos are embedded from YouTube and the Internet Archive and are not hosted here. Nothing loads from either until you press play."
+}

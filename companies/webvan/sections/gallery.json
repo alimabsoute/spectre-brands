@@ -7,17 +7,41 @@
   {
    "image": "img/logo-2000.avif",
    "date": "Nov 2000",
-   "caption": "The W mark and wordmark, cropped from the archived home page."
+   "caption": "The W mark and wordmark, cropped from the archived home page.",
+   "credit": "Cropped from an Internet Archive capture of webvan.com (Nov 9, 2000). Shown for commentary; trademarks belong to their owners."
   },
   {
    "image": "img/van-2000.avif",
    "date": "Nov 2000",
-   "caption": "The delivery truck livery, cropped from the photo on the same page."
+   "caption": "The delivery truck livery, cropped from the photo on the same page.",
+   "credit": "Cropped from an Internet Archive capture of webvan.com (Nov 9, 2000). Shown for commentary; trademarks belong to their owners."
   },
   {
    "image": "img/archive-2010-02-amazon.avif",
    "date": "Feb 2010",
-   "caption": "The name revived by Amazon for shelf-stable groceries."
+   "caption": "The name revived by Amazon for shelf-stable groceries.",
+   "credit": "Internet Archive capture of webvan.com (Feb 4, 2010). Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/photo-van.avif",
+   "date": "Undated",
+   "caption": "Two trucks, two liveries: the earlier round grocery-bag logo on the right and the later W on the left. The photographer’s caption calls Webvan defunct; the picture was posted in 2005.",
+   "alt": "Black and white photo of two parked Webvan delivery trucks seen from behind",
+   "credit": "Photo: Mark Coggins, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Webvan.jpg), CC BY 2.0."
+  },
+  {
+   "image": "img/photo-totes.avif",
+   "date": "2007",
+   "caption": "Three of the plastic totes that orders were picked into, with the earlier logo, photographed in a former customer’s garage in 2007.",
+   "alt": "A stack of one green and two yellow plastic Webvan totes",
+   "credit": "Photo: Binksternet, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Webvan_tubs.png), public domain."
+  },
+  {
+   "image": "img/photo-2001-09-hq.avif",
+   "date": "Sep 2001",
+   "caption": "The Webvan Group headquarters at 310 Lakeside Drive, Foster City, two months after the shutdown.",
+   "alt": "A low white office building behind a temporary fence, with a Webvan Group sign at the driveway",
+   "credit": "Photo: Pal Danyi, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Webvan_HQ_in_Foster_City,_CA_-_Sept_2001.jpg), CC BY-SA 4.0."
   }
  ],
  "drawings": [
@@ -108,5 +132,25 @@
    "label": "Sidebar tint"
   }
  ],
- "disclaimer": "Colors were sampled from pixels in the archived Nov 2000 page and are approximate because of image compression. Logos appear here in historical and editorial context; Webvan and its marks belong to their owners. Drawings are original recreations."
+ "disclaimer": "Colors were sampled from pixels in the archived Nov 2000 page and are approximate because of image compression. Logos appear here in historical and editorial context; Webvan and its marks belong to their owners. Drawings are original recreations.",
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, nine years apart",
+   "ratio": "4/3",
+   "before": {
+    "label": "November 2000",
+    "image": "img/archive-2000-11-cities.avif",
+    "caption": "Webvan’s own front door: pick one of nine markets and start shopping.[^28]",
+    "alt": "Webvan home page in November 2000 with a list of cities and a photo of a delivery truck"
+   },
+   "after": {
+    "label": "February 2010",
+    "image": "img/archive-2010-02-amazon.avif",
+    "caption": "The name under Amazon: packaged groceries by mail, “part of the Amazon family.”[^21][^28]",
+    "alt": "webvan.com in February 2010, an Amazon-run shop for packaged groceries"
+   },
+   "source": "Internet Archive Wayback Machine captures of webvan.com, November 9, 2000 and February 4, 2010[^28]."
+  }
+ ]
 }

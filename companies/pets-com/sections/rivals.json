@@ -50,6 +50,56 @@
    "highlight": 0
   },
   {
+   "kind": "multiples",
+   "title": "Four pet stores raised money in 1999. None survived as an independent company.",
+   "subtitle": "Money raised by each dot-com pet retailer, and what became of it.",
+   "metric": "Money raised",
+   "items": [
+    {
+     "name": "Pets.com",
+     "status": "dead",
+     "self": true,
+     "value": "$191.7M",
+     "text": "$109.2M private plus an $82.5M IPO.[^1] Shut down November 2000 and liquidated."
+    },
+    {
+     "name": "Petopia",
+     "status": "acquired",
+     "value": "$101M",
+     "text": "Two rounds in 1999.[^28] Assets sold to Petco in December 2000.[^30]"
+    },
+    {
+     "name": "Petstore.com",
+     "status": "merged",
+     "value": "$97M",
+     "text": "Second round reported in November 1999.[^31] Sold to Pets.com for stock in July 2000.[^7]"
+    },
+    {
+     "name": "PetSmart.com",
+     "status": "acquired",
+     "statusLabel": "Absorbed",
+     "value": "$50M+",
+     "text": "Second round, September 1999.[^33] Pulled its IPO in November 2000 and was absorbed by PetSmart.[^34]"
+    },
+    {
+     "name": "Chewy (founded 2011)",
+     "status": "alive",
+     "value": "$11.86B",
+     "text": "FY2024 net sales, built on subscriptions and positive gross margins.[^19]",
+     "data": [
+      26,
+      900,
+      11861
+     ],
+     "range": [
+      "2012: $26M",
+      "FY2024"
+     ]
+    }
+   ],
+   "source": "Company figures as cited. The Pets.com total ($191.7M) is the derived sum of its private rounds and gross IPO proceeds. Chewy revenue: 2012[^22], 2016 “nearly $900 million”[^20], FY2024[^19]."
+  },
+  {
    "kind": "chart",
    "id": "rivalChart",
    "title": "Reported funding, by company",
@@ -222,24 +272,24 @@
     ],
     "y": {
      "log": true,
-     "min": 10000000.0,
-     "max": 20000000000.0,
+     "min": 10000000,
+     "max": 20000000000,
      "format": "usdAuto",
      "ticks": [
-      10000000.0,
-      100000000.0,
-      1000000000.0,
-      10000000000.0
+      10000000,
+      100000000,
+      1000000000,
+      10000000000
      ]
     },
     "series": [
      {
       "label": "Revenue",
       "data": [
-       31555000.0,
-       26000000.0,
-       900000000.0,
-       11861000000.0
+       31555000,
+       26000000,
+       900000000,
+       11861000000
       ],
       "colors": [
        "red",

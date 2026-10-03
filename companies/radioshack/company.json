@@ -2,8 +2,29 @@
  "name": "RadioShack",
  "number": "003",
  "tier": "ghost",
- "category": "consumer",
+ "tierWhy": "RadioShack Corporation went into Chapter 11 in 2015 and its successor General Wireless did the same in 2017, but the name is still in use: Unicomer Group has owned the brand since 2023, and it sells online and through dealer and franchise stores.[^15][^26][^30][^31]",
+ "category": "electronics",
+ "cause": "disruption",
  "years": "1921 – 2015",
+ "died": 2015,
+ "dates": [
+  {
+   "date": "2015-02-05",
+   "text": "filed for Chapter 11 in Delaware, with a plan to sell up to 2,400 stores"
+  },
+  {
+   "date": "2014-02-02",
+   "text": "ran “The ’80s called” during Super Bowl XLVIII, a year before bankruptcy"
+  },
+  {
+   "date": "2017-03-08",
+   "text": "went bankrupt a second time, as General Wireless Operations"
+  },
+  {
+   "date": "2020-11-19",
+   "text": "was announced as the latest purchase of Retail Ecommerce Ventures, its third owner in five years"
+  }
+ ],
  "place": "Electronics retail · Fort Worth, Texas",
  "title": "RadioShack (1921–2015): post-mortem · Spectre Brands",
  "description": "How RadioShack went from 5,289 stores to two bankruptcies, and why the name still lives on. Sourced charts, a store map with a linked timeline, and archived screenshots.",
@@ -62,7 +83,8 @@
     "image": "img/archive-2014-11-home.avif",
     "caption": "Last redesign, 2014"
    }
-  ]
+  ],
+  "motion": "flicker"
  },
  "keyNumbers": {
   "caption": "The company in four numbers",
@@ -106,5 +128,7 @@
    "title": "The name never died.",
    "text": "It has since passed through a hedge-fund affiliate, a second bankruptcy, an e-commerce roll-up that used it for a crypto token, and a Salvadoran retailer that has been a franchisee since 1998.[^26][^28][^30]"
   }
- ]
+ ],
+ "published": "2026-09-20",
+ "updated": "2026-10-03"
 }

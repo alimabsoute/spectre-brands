@@ -2,10 +2,23 @@
  "kicker": "Sources",
  "title": "Sources and data notes",
  "list": [
-  { "id": 1, "text": "Example Co., Form 10-K for fiscal 2000, SEC accession 0000000000-01-000000. [EDGAR](https://www.sec.gov/)" }
+  {
+   "id": 1,
+   "text": "Example Co., Form 10-K for fiscal 2000, SEC accession 0000000000-01-000000. [EDGAR](https://www.sec.gov/)"
+  }
  ],
  "notes": [
-  { "label": "Derived", "text": "List every calculated figure and how it was calculated." },
-  { "label": "Unverified", "text": "List any claim we could not confirm, or say there are none." }
+  {
+   "label": "Derived",
+   "text": "List every calculated figure and how it was calculated."
+  },
+  {
+   "label": "Estimate",
+   "text": "List any estimate and who made it."
+  },
+  {
+   "label": "Unverified",
+   "text": "List any claim we could not confirm, or say there are none."
+  }
  ]
 }

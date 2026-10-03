@@ -3,13 +3,16 @@
 (function () {
   const D = (window.BO && BO.data) || {}, specs = D.charts || {};
   if (typeof Chart === 'undefined' || !Object.keys(specs).length) return;
-  const C = { ink: '#1d1b18', red: '#a8321f', gold: '#93743a', green: '#4f7a4a', blue: '#3d5f86', plum: '#8a5a9a', tan: '#c9b48a', sand: '#ddd3c2', grid: '#e6dfcf', mute: '#6b6457', paper: '#fffdf8', hand: '#1f2a44' };
+  // Palette mirrors tokens.css. "tan" and "sand" are kept as names for older data files but are neutral greys now.
+  const C = { ink: '#16161A', red: '#C2412D', gold: '#A9781F', green: '#3F8A5A', blue: '#3B6EA8', plum: '#7B5EA7', teal: '#2C8C8C', grey: '#8B8B94', tan: '#B9B8B2', sand: '#DDDCD8', light: '#DDDCD8', grid: '#ECEAE5', mute: '#63636B', paper: '#FFFFFF', hand: '#1F2A44' };
+  C.brand = getComputedStyle(document.querySelector('main')).getPropertyValue('--brand').trim() || C.red;
   const col = v => (v && C[v]) || v || C.ink;
   const mob = () => innerWidth < 640;
   Chart.defaults.font.family = 'Inter, system-ui, sans-serif'; Chart.defaults.font.size = 12; Chart.defaults.color = C.mute;
   Chart.defaults.plugins.legend.labels.boxWidth = 12; Chart.defaults.plugins.legend.labels.boxHeight = 12;
-  Chart.defaults.maintainAspectRatio = false; Chart.defaults.animation.duration = 800;
-  const tip = { backgroundColor: '#fff', titleColor: C.ink, bodyColor: C.ink, footerColor: C.mute, borderColor: C.ink, borderWidth: 1, padding: 10, cornerRadius: 0, titleFont: { weight: '600' }, footerFont: { weight: '400' } };
+  Chart.defaults.maintainAspectRatio = false; Chart.defaults.animation.duration = 900;
+  if (BO.reduce) Chart.defaults.animation = false;
+  const tip = { backgroundColor: '#fff', titleColor: C.ink, bodyColor: C.ink, footerColor: C.mute, borderColor: '#D6D3CC', borderWidth: 1, padding: 10, cornerRadius: 6, titleFont: { weight: '600' }, footerFont: { weight: '400' } };
 
   const FMT = {
     usd: v => '$' + (+v).toLocaleString(), usd2: v => '$' + (+v).toFixed(2), usdK: v => '$' + v + 'K', usdM: v => '$' + v + 'M', usdB: v => '$' + v + 'B',
@@ -44,12 +47,12 @@
       const ds = { type: t, label: s.label, data, yAxisID: s.axis || 'y', backgroundColor: c, borderColor: t === 'line' ? c : (t === 'doughnut' ? C.paper : c), order: s.order ?? (t === 'line' ? 0 : 1) };
       if (sp.horizontal && t !== 'line') { ds.xAxisID = s.axis === 'y1' ? 'x1' : 'x'; delete ds.yAxisID; }
       if (s.stack) ds.stack = s.stack;
-      if (t === 'bar') { ds.borderRadius = 2; if (s.barPercentage) ds.barPercentage = s.barPercentage; }
+      if (t === 'bar') { ds.borderRadius = 3; if (s.barPercentage) ds.barPercentage = s.barPercentage; }
       if (t === 'doughnut') { ds.borderWidth = 3; ds.hoverOffset = 10; }
       if (t === 'line') {
-        Object.assign(ds, { borderWidth: s.width || 2.2, tension: s.tension ?? .25, pointRadius: s.points ?? (s.events ? 7 : (labels.length > 40 ? 0 : 3.5)), spanGaps: !!s.spanGaps });
+        Object.assign(ds, { pointStyle: ['circle', 'rectRot', 'triangle', 'rect'][k % 4], borderWidth: s.width || 2.2, tension: s.tension ?? .25, pointRadius: s.points ?? (s.events ? 7 : (labels.length > 40 ? 0 : 3.5)), spanGaps: !!s.spanGaps });
         if (s.dashed) ds.borderDash = [5, 4];
-        if (s.fill) { ds.fill = 'origin'; ds.backgroundColor = s.fillColor || 'rgba(29,27,24,.05)'; }
+        if (s.fill) { ds.fill = 'origin'; ds.backgroundColor = s.fillColor || 'rgba(22,22,26,.05)'; }
         if (s.events) Object.assign(ds, { showLine: false, pointBackgroundColor: C.paper, pointBorderColor: c, pointBorderWidth: 2.5, pointHoverRadius: 9 });
         if (s.pointColors) ds.pointBackgroundColor = s.pointColors.map(col);
         if (s.showLine === false) ds.showLine = false;
@@ -78,7 +81,7 @@
     }
     const tf = sp.tooltip || {};
     const plugins = {
-      legend: sp.legend === false ? { display: false } : { position: 'bottom', labels: { filter: l => !(sp.series[l.datasetIndex] || {}).hideLegend } },
+      legend: sp.legend === false ? { display: false } : { position: 'bottom', labels: { usePointStyle: true, filter: l => !(sp.series[l.datasetIndex] || {}).hideLegend } },
       tooltip: { ...tip, filter: c => c.raw != null, callbacks: {
         label: c => {
           const s = sp.series[c.datasetIndex] || {};
@@ -145,5 +148,5 @@
       seg.querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b)); draw(seg.dataset.chart, +b.dataset.v);
     })));
   };
-  (document.fonts && document.fonts.load ? Promise.all([document.fonts.load('600 17px Caveat')]).catch(() => 0) : Promise.resolve()).then(go, go);
+  (document.fonts && document.fonts.load ? Promise.all([document.fonts.load('600 17px Caveat'), document.fonts.load('12px Inter')]).catch(() => 0) : Promise.resolve()).then(go, go);
 })();

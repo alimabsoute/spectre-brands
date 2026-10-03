@@ -38,5 +38,48 @@
    "title": "The alumni",
    "text": "Doug Herrington, from Webvan’s executive team, became CEO of Worldwide Amazon Stores.[^22]"
   }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who got the name and the assets",
+   "subtitle": "The equipment was auctioned in 2001. The name resurfaced at Amazon eight years later and has since gone dark.",
+   "nodes": [
+    {
+     "when": "Dec 1996",
+     "owner": "Webvan Group, Inc.",
+     "what": "Founded by Louis Borders.[^1] The webvan.com address was registered on June 29, 1998.[^32]"
+    },
+    {
+     "when": "Jul 2001",
+     "owner": "Chapter 11",
+     "what": "Deliveries stop on July 9. The company files in Delaware on July 13 to sell its assets.[^8][^10]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Oct 2001",
+     "owner": "Great American Group and DoveBid",
+     "what": "Court-approved auctions of the equipment at ten facility sites, the Foster City headquarters and a San Jose co-location site.[^28] Prices are not in our sources."
+    },
+    {
+     "when": "By Sep 2009",
+     "owner": "Amazon",
+     "what": "Reported to own the Webvan site and to be using it to sell food by mail.[^20] How and when Amazon acquired the name is not in our sources.",
+     "price": "not disclosed"
+    },
+    {
+     "when": "2009 – 2016",
+     "owner": "webvan.com, “part of the Amazon family”",
+     "what": "A shop for non-perishable groceries that checked out with Amazon accounts. The last capture we cite is from March 2016.[^21]"
+    },
+    {
+     "when": "Today",
+     "owner": "A parked address",
+     "what": "webvan.com is still registered, through the corporate registrar MarkMonitor, but it has no web address record and loads no site. The registrant is not shown in the public record. Checked October 3, 2026.[^32]",
+     "status": "current"
+    }
+   ],
+   "source": "SEC filings, press and Internet Archive captures as cited[^1][^8][^10][^20][^21][^28]; registry record and DNS lookup for webvan.com[^32]."
+  }
  ]
 }

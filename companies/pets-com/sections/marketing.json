@@ -158,6 +158,93 @@
    "source": "S-1/424B4[^1] and 10-Qs[^2][^3][^4]. *Q2 ’99 runs from inception (Feb 17) to Jun 30, 1999. Its marketing & sales figure is derived from period totals."
   },
   {
+   "kind": "arc",
+   "title": "Marketing peaked two quarters before the cash ran out",
+   "subtitle": "Marketing & sales expense against net sales, by quarter, in $ millions.",
+   "labels": [
+    "Q2 ’99",
+    "Q3 ’99",
+    "Q4 ’99",
+    "Q1 ’00",
+    "Q2 ’00",
+    "Q3 ’00"
+   ],
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "xLabel": "Quarter",
+   "series": [
+    {
+     "label": "Marketing & sales",
+     "data": [
+      1.12,
+      10.69,
+      30.68,
+      28.86,
+      17.09,
+      14.71
+     ],
+     "color": "brand"
+    },
+    {
+     "label": "Net sales",
+     "data": [
+      0.04,
+      0.57,
+      5.17,
+      7.65,
+      8.76,
+      9.37
+     ],
+     "color": "ink"
+    }
+   ],
+   "points": [
+    {
+     "i": 1,
+     "title": "the puppet arrives",
+     "text": "The television campaign launches in August 1999.[^16]"
+    },
+    {
+     "i": 2,
+     "title": "the peak",
+     "text": "$30.7M of marketing & sales against $5.2M of sales: $5.94 spent per $1 sold. The balloon flies in the Macy’s parade.[^2][^13]"
+    },
+    {
+     "i": 3,
+     "title": "Super Bowl and IPO",
+     "text": "The Super Bowl spot airs on January 30 and the IPO prices on February 11.[^1][^16]"
+    },
+    {
+     "i": 5,
+     "title": "the last full quarter",
+     "text": "Spending is half the peak, sales have nearly doubled, and marketing & sales is still $1.57 per $1 of sales.[^4]"
+    }
+   ],
+   "source": "S-1/424B4[^1] and 10-Qs[^2][^3][^4]. Q2 ’99 runs from inception (Feb 17) to Jun 30, 1999; its marketing & sales figure is derived from period totals."
+  },
+  {
+   "kind": "video",
+   "video": "medley"
+  },
+  {
+   "kind": "scale",
+   "title": "Six quarters of marketing, counted in Super Bowl spots",
+   "icon": "tv",
+   "count": 86,
+   "left": {
+    "value": "$103.1M",
+    "label": "marketing & sales expense, February 1999 to September 2000[^4]"
+   },
+   "unit": {
+    "value": "about $1.2M",
+    "label": "Super Bowl XXXIV spots"
+   },
+   "equation": "$103.1M ÷ $1.2M ≈ 86. The $1.2M price of the spot is from press reports, not a filing.[^16] Marketing & sales also includes fulfillment and distribution costs, so this is a comparison of scale, not a media plan."
+  },
+  {
    "kind": "chart",
    "id": "mixChart",
    "title": "1999 marketing & sales mix",

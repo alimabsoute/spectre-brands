@@ -18,7 +18,8 @@ const problems = [];
 const bad = (where, msg) => problems.push(`${where}: ${msg}`);
 
 console.log('1/3 build');
-execFileSync(process.execPath, ['build.mjs'], { cwd: ROOT, stdio: 'inherit' });
+const only = process.argv.indexOf('--only');
+execFileSync(process.execPath, ['build.mjs', ...(only > 0 ? ['--only', process.argv[only + 1]] : [])], { cwd: ROOT, stdio: 'inherit' });
 
 console.log('2/3 links');
 const pages = [];

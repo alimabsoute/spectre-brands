@@ -38,7 +38,7 @@
        3.1,
        1.8,
        25.4,
-       10.0
+       10
       ],
       "colors": [
        "#1d1b18",
@@ -114,17 +114,17 @@
           "events": [
            [
             "2000-02-11",
-            100.0,
+            100,
             "IPO price $11"
            ],
            [
             "2000-11-06",
-            6.0,
+            6,
             "Prior close $0.66 (derived)"
            ],
            [
             "2000-11-07",
-            2.0,
+            2,
             "Wind-down announced, $0.22"
            ],
            [
@@ -179,17 +179,17 @@
           "events": [
            [
             "2000-02-11",
-            100.0,
+            100,
             "IPO price $11"
            ],
            [
             "2000-11-06",
-            6.0,
+            6,
             "Prior close $0.66 (derived)"
            ],
            [
             "2000-11-07",
-            2.0,
+            2,
             "Wind-down announced, $0.22"
            ],
            [
@@ -339,6 +339,41 @@
      "label": "actually returned in three distributions, 2001–04[^8][^9][^10]"
     }
    ]
+  },
+  {
+   "kind": "flow",
+   "title": "Where $187.5M of capital went",
+   "subtitle": "Money raised from investors, and where it stood on September 30, 2000, five weeks before the shutdown.",
+   "from": {
+    "label": "raised: $109.2M of private preferred stock, $75.3M of net IPO proceeds and $3M of cash from the Petstore.com deal (sum derived)",
+    "value": 187.5
+   },
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "to": [
+    {
+     "label": "Cumulative net loss",
+     "value": 146.6,
+     "color": "red",
+     "note": "Losses from February 17, 1999 to September 30, 2000.[^4]"
+    },
+    {
+     "label": "Cash still in the bank",
+     "value": 23.1,
+     "color": "green",
+     "note": "Cash and equivalents on September 30, 2000.[^4]"
+    },
+    {
+     "label": "Everything else (derived remainder)",
+     "value": 17.8,
+     "color": "grey",
+     "note": "What is left after the two reported figures: inventory, warehouse equipment and other assets, offset by non-cash charges inside the net loss. We did not itemise it."
+    }
+   ],
+   "source": "Private rounds and IPO net proceeds[^1][^6], Petstore.com cash[^7], cumulative net loss and cash at September 30, 2000[^4]. The total and the remainder are derived."
   }
  ],
  "label": "The numbers"

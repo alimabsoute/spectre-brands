@@ -4,8 +4,8 @@
 import sharp from 'sharp';
 const [src, out, cw = 380, cols = 5] = process.argv.slice(2);
 const m = await sharp(src).metadata();
-const scale = +cw / m.width, H = Math.round(m.height * scale), colH = Math.ceil(H / +cols);
 const buf = await sharp(src).resize({ width: +cw }).toBuffer();
+const H = (await sharp(buf).metadata()).height, colH = Math.ceil(H / +cols);
 const parts = [];
 for (let i = 0; i < +cols; i++) {
   const top = i * colH, h = Math.min(colH, H - top); if (h <= 0) break;

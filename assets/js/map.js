@@ -5,7 +5,8 @@
   const svg = document.getElementById('mapOv'), base = document.getElementById('mapBase');
   if (!M || !svg) return;
   const NS = 'http://www.w3.org/2000/svg', HAND = '#1f2a44';
-  const PAL = { a: ['#f6b8a8', '#c4644d'], b: ['#cdbcea', '#7b62a8'], c: ['#aecdec', '#43709f'], d: ['#bfe0b5', '#4f8a45'], e: ['#f7dc9c', '#b08a2e'] };
+  const PAL = { a: ['#F6B8A8', '#C4644D'], b: ['#CDBCEA', '#7B62A8'], c: ['#AECDEC', '#43709F'], d: ['#BFE0B5', '#4F8A45'], e: ['#F7DC9C', '#B08A2E'] };
+  const LAND = '#ECEBE7', EDGE = '#FFFFFF';
   const el = (t, a, p) => { const e = document.createElementNS(NS, t); for (const k in a) e.setAttribute(k, a[k]); p && p.appendChild(e); return e; };
   const $ = id => document.getElementById(id);
   const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;');
@@ -61,7 +62,7 @@
     const L = k && M.choropleth && M.choropleth.layers[k], leg = $('choroLegend');
     base.querySelectorAll('.st').forEach(p => {
       const n = p.dataset.n, v = L ? L.values[n] : null;
-      let c = '#ebe4d6';
+      let c = LAND;
       if (L && v != null) { let j = 0; while (j < L.scale.length && v >= L.scale[j]) j++; c = L.colors[j]; }
       p.style.fill = c;
     });
@@ -84,7 +85,7 @@
     n.text.forEach((ln, j) => { const ts = el('tspan', { x: n.box[0] + 12, dy: j ? fs * 1.1 : 0 }, t); ts.textContent = ln; });
     let bb = t.getBBox(); if (!bb.width) bb = { width: Math.max(...n.text.map(l => l.length)) * fs * .42, height: n.text.length * fs * 1.1 };
     const [x, y] = n.box, w = bb.width + 24, h = bb.height + 16;
-    g.insertBefore(rc.rectangle(x, y, w, h, { roughness: 1.2, stroke: HAND, strokeWidth: 1.4, fill: '#fffdf6', fillStyle: 'solid', seed: 11 + cur * 7 }), t);
+    g.insertBefore(rc.rectangle(x, y, w, h, { roughness: 1.2, stroke: HAND, strokeWidth: 1.4, fill: '#FFFFFF', fillStyle: 'solid', seed: 11 + cur * 7 }), t);
     let tg = null;
     if (n.at) { const p = pins.find(q => q.id === n.at); tg = p ? pinXY(p) : null; }
     else if (n.ll) tg = P(n.ll);
@@ -122,11 +123,13 @@
 
   function init(us) {
     P = d3.geoAlbersUsa().scale(1300).translate([487.5, 305]);
-    const path = d3.geoPath(P), gb = d3.select(base);
+    const path = d3.geoPath(P);
     if (us) {
-      const feats = topojson.feature(us, us.objects.states).features;
-      gb.append('g').selectAll('path').data(feats).join('path').attr('class', 'st').attr('d', path).attr('data-n', d => d.properties.name)
-        .attr('fill', '#ebe4d6').attr('stroke', '#fbf8f2').attr('stroke-width', 1.1);
+      const gb = el('g', {}, base);
+      topojson.feature(us, us.objects.states).features.forEach(f => {
+        const p = el('path', { class: 'st', d: path(f) || '', 'data-n': f.properties.name, fill: LAND, stroke: EDGE, 'stroke-width': 1.1 }, gb);
+        p.dataset.n = f.properties.name;
+      });
       states = true;
       if (M.choropleth) {
         base.style.pointerEvents = 'auto';
@@ -140,10 +143,9 @@
     go(0);
   }
   const start = () => {
-    if (typeof d3 === 'undefined') return;
-    fetch('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json').then(r => r.json()).then(init, () => init(null));
+    if (typeof d3 === 'undefined' || !d3.geoAlbersUsa) return;
+    fetch('/assets/vendor/states-10m.json').then(r => r.json()).then(init, () => init(null));
   };
-  const io = new IntersectionObserver(es => { if (es[0].isIntersecting) { io.disconnect(); const f = document.fonts && document.fonts.load ? document.fonts.load('600 20px Caveat').catch(() => 0) : Promise.resolve(); f.then(start, start); } }, { rootMargin: '400px 0px' });
-  io.observe(svg);
+  (document.fonts && document.fonts.load ? document.fonts.load('600 20px Caveat').catch(() => 0) : Promise.resolve()).then(start, start);
   let rw; addEventListener('resize', () => { clearTimeout(rw); rw = setTimeout(() => P && drawNote(steps[cur]), 200); });
 })();

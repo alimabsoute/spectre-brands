@@ -486,6 +486,89 @@
    "source": "Quarterly price ranges from the market-information section of each 10-K[^2][^4][^6][^9][^11][^13]. 1996–1997 values are halved by us for the split. We don’t have a sourced 2014 range."
   },
   {
+   "kind": "arc",
+   "title": "Company stores, 1996–2014: one big cut before the end",
+   "subtitle": "Company-operated U.S. stores at year end. 2014 is the November 1 count.",
+   "labels": [
+    "1996",
+    "1997",
+    "1998",
+    "1999",
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014"
+   ],
+   "format": "num",
+   "xLabel": "Year",
+   "series": [
+    {
+     "label": "Company-operated stores",
+     "data": [
+      4942,
+      4972,
+      5039,
+      5087,
+      5109,
+      5289,
+      5161,
+      5121,
+      5046,
+      4972,
+      4467,
+      4447,
+      4453,
+      4476,
+      4486,
+      4476,
+      4395,
+      4297,
+      4216
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 5,
+     "title": "the peak",
+     "text": "5,289 company stores at the end of 2001, plus 2,119 dealer outlets.[^6]"
+    },
+    {
+     "i": 10,
+     "title": "the one big cut",
+     "text": "Stores fall from 4,972 to 4,467 during 2006, a net 505 (derived), in Julian Day’s first months as CEO.[^9][^10]"
+    },
+    {
+     "i": 13,
+     "title": "“The Shack”",
+     "text": "4,476 stores at the end of 2009, the year of the nickname campaign. The count has barely moved in three years.[^11][^23]"
+    },
+    {
+     "i": 17,
+     "title": "still 4,297",
+     "text": "After net losses of $139.4M and $400.2M, the chain is only 179 stores smaller than in 2009 (derived).[^13]"
+    },
+    {
+     "i": 18,
+     "title": "the last count",
+     "text": "4,216 stores on November 1, 2014, with $43.3M in cash. Chapter 11 follows on February 5, 2015.[^14][^15]"
+    }
+   ],
+   "source": "10-K store tables[^4][^6][^8][^10][^13] and the Q3 2014 10-Q[^14], the same series as the chart in the map section, which also shows 1995. The 1996 figure includes 53 McDuff stores."
+  },
+  {
    "kind": "row",
    "blocks": [
     {
@@ -617,6 +700,22 @@
    ]
   },
   {
+   "kind": "scale",
+   "title": "Five years of cash, counted in what was left",
+   "icon": "coin",
+   "count": 21,
+   "left": {
+    "value": "$908.2M",
+    "label": "cash at the end of 2009[^12]"
+   },
+   "unit": {
+    "value": "$43.3M",
+    "label": "the cash left on November 1, 2014[^14]"
+   },
+   "equation": "$908.2M ÷ $43.3M ≈ 21. Both figures are cash and cash equivalents as reported in the filings.[^12][^14]",
+   "source": "2010 10-K[^12] and Q3 2014 10-Q[^14]."
+  },
+  {
    "kind": "keyfacts",
    "caption": "The bankruptcy balance sheet",
    "compact": true,
@@ -642,6 +741,65 @@
      "text": "paid by Sprint under a settlement in the second, General Wireless bankruptcy[^27]"
     }
    ]
+  },
+  {
+   "kind": "bars",
+   "title": "The February 2015 filing: more owed than owned",
+   "subtitle": "Assets and debts as listed in the Chapter 11 petition, $ billions.",
+   "format": {
+    "pre": "$",
+    "suf": "B",
+    "dec": 2
+   },
+   "itemLabel": "Item",
+   "valueLabel": "$ billions",
+   "items": [
+    {
+     "label": "Debts listed",
+     "value": 1.38,
+     "color": "red",
+     "note": "As reported from the filing.[^25]"
+    },
+    {
+     "label": "Assets listed",
+     "value": 1.2,
+     "display": "$1.2B",
+     "color": "ink",
+     "note": "As reported from the filing.[^25]"
+    },
+    {
+     "label": "Shortfall (derived)",
+     "value": 0.18,
+     "color": "grey",
+     "note": "$1.38B − $1.2B, from rounded figures."
+    }
+   ],
+   "source": "Reuters report on the Chapter 11 filing[^25]. The shortfall is our subtraction of two rounded figures."
+  },
+  {
+   "kind": "flow",
+   "title": "What happened to the stores in 2015",
+   "subtitle": "Company-operated stores at the last count before bankruptcy, and how many survived the sale.",
+   "from": {
+    "label": "company-operated U.S. stores on November 1, 2014, the last count in our sources",
+    "value": 4216
+   },
+   "format": "num",
+   "to": [
+    {
+     "label": "Sold to General Wireless",
+     "value": 1743,
+     "color": "green",
+     "note": "Bought by the Standard General affiliate in the sale completed in April 2015; many were co-branded with Sprint.[^16][^21]"
+    },
+    {
+     "label": "Not in the sale (derived remainder)",
+     "value": 2473,
+     "color": "red",
+     "note": "4,216 − 1,743. Closed and liquidated in the bankruptcy, or closed between November 2014 and the sale. We do not have a store count for the filing date itself."
+    }
+   ],
+   "source": "Q3 2014 10-Q[^14], April 2015 8-K[^16] and the buyer’s announcement[^21]. The remainder is derived."
   }
  ],
  "label": "The numbers"

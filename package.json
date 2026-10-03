@@ -5,13 +5,19 @@
   "scripts": {
     "build": "node build.mjs",
     "dev": "node scripts/dev.mjs",
+    "serve": "node scripts/dev.mjs",
     "check": "node scripts/check.mjs",
-    "serve": "node scripts/dev.mjs"
+    "media": "node scripts/verify-media.mjs",
+    "sources": "node scripts/check-sources.mjs",
+    "lighthouse": "node scripts/lighthouse.mjs",
+    "shots": "node scripts/shots.mjs docs/qa",
+    "og": "node scripts/og.mjs"
   },
   "engines": {
     "node": ">=18"
   },
   "devDependencies": {
+    "lighthouse": "^13.5.0",
     "playwright": "^1.63.0",
     "sharp": "^0.35.5"
   }

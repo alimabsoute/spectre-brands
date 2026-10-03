@@ -4,6 +4,16 @@
  "lede": "Optional summary.",
  "blocks": [
   {
+   "kind": "arc", "title": "Rise and fall: revenue by year", "subtitle": "$ millions, fiscal years.",
+   "labels": ["1998", "1999", "2000", "2001"], "format": "usdM", "xLabel": "Fiscal year",
+   "series": [ { "label": "Revenue", "data": [1, 10, 40, 12], "color": "brand" } ],
+   "points": [
+    { "i": 2, "title": "the peak", "text": "What happened at the top.[^1]" },
+    { "i": 3, "title": "the end", "text": "What happened at the bottom.[^1]" }
+   ],
+   "source": "10-K filings[^1]."
+  },
+  {
    "kind": "chart", "id": "revChart",
    "title": "Revenue and net loss", "subtitle": "$ millions, fiscal years.",
    "chart": {
@@ -14,6 +24,21 @@
     ]
    },
    "source": "10-K[^1]."
+  },
+  {
+   "kind": "flow", "title": "Where the money went", "subtitle": "Capital raised, and what it was spent on.",
+   "from": { "label": "raised from investors", "value": 300 }, "format": "usdM",
+   "to": [
+    { "label": "Marketing", "value": 120, "color": "red", "note": "Advertising and promotion.[^1]" },
+    { "label": "Warehouses and equipment", "value": 100, "color": "blue", "note": "Capital expenditure.[^1]" },
+    { "label": "Everything else (derived remainder)", "value": 80, "color": "grey", "note": "The destinations must add up to the source." }
+   ],
+   "source": "10-K[^1]. The remainder is derived."
+  },
+  {
+   "kind": "scale", "title": "The marketing budget, in Super Bowl spots", "icon": "tv", "count": 60,
+   "left": { "value": "$120M", "label": "marketing spend[^1]" }, "unit": { "value": "$2M", "label": "Super Bowl spots" },
+   "equation": "$120M ÷ $2M = 60.[^1]"
   },
   { "kind": "keyfacts", "caption": "Per order", "rows": [ { "value": "$-12", "text": "loss per order (**derived**: net loss ÷ orders)[^1]" } ] },
   { "kind": "note", "body": "Any number we calculated is labeled **derived**." }

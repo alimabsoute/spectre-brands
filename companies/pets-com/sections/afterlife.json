@@ -38,5 +38,48 @@
    "title": "The idea",
    "text": "Chewy did $11.86B in FY2024 net sales, nearly 80% of it from Autoship subscriptions.[^19]"
   }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who got what when the estate was sold",
+   "subtitle": "The brand was split in two: the address went to a rival, the mascot to a licensing company.",
+   "nodes": [
+    {
+     "when": "Feb 1999",
+     "owner": "Pets.com, Inc.",
+     "what": "Buys the Pets.com domain and web store from a third party and begins operating.[^1]"
+    },
+    {
+     "when": "Nov 2000",
+     "owner": "Wind-down",
+     "what": "The board votes to close. The site stops taking orders on November 9.[^5][^36]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Dec 2000",
+     "owner": "PetSmart.com",
+     "what": "Buys the domain names, trademarks and related IP. The sock puppet is excluded.[^6]",
+     "price": "$375,000"
+    },
+    {
+     "when": "2001",
+     "owner": "Hakan Enterprises",
+     "what": "Buys the rights to the sock puppet.[^17]",
+     "price": "$125,000"
+    },
+    {
+     "when": "2002",
+     "owner": "1-800-BarNone",
+     "what": "The puppet reappears as a spokes-dog for car loans.[^18]"
+    },
+    {
+     "when": "Today",
+     "owner": "PetSmart",
+     "what": "pets.com forwards to PetSmart’s store, as it has since early 2001.[^36]",
+     "status": "current"
+    }
+   ]
+  }
  ]
 }

@@ -46,6 +46,69 @@
    "highlight": 0
   },
   {
+   "kind": "multiples",
+   "title": "Four kinds of rival, and what became of each",
+   "subtitle": "RadioShack’s store count is the only series here; our sources do not give comparable figures for the others, so they are shown by outcome only.",
+   "metric": "Company stores",
+   "items": [
+    {
+     "name": "RadioShack",
+     "status": "ghost",
+     "self": true,
+     "value": "5,289",
+     "text": "company stores at the 2001 peak and 4,216 in November 2014.[^6][^14] Two bankruptcies; the name survives under new owners.[^15][^26][^31]",
+     "data": [
+      4831,
+      4942,
+      4972,
+      5039,
+      5087,
+      5109,
+      5289,
+      5161,
+      5121,
+      5046,
+      4972,
+      4467,
+      4447,
+      4453,
+      4476,
+      4486,
+      4476,
+      4395,
+      4297,
+      4216
+     ],
+     "range": [
+      "1995",
+      "Nov 2014"
+     ]
+    },
+    {
+     "name": "Best Buy",
+     "status": "alive",
+     "text": "Big-box selection and price on TVs, computers and appliances. Still operating (general knowledge, not from our sources)."
+    },
+    {
+     "name": "Circuit City",
+     "status": "dead",
+     "statusLabel": "Liquidated",
+     "text": "The other big-box chain. Liquidated in 2009 (general knowledge, not from our sources), six years before RadioShack filed."
+    },
+    {
+     "name": "Carriers’ own stores",
+     "status": "alive",
+     "text": "The carriers controlled plans, subsidies and commissions. In 2015 Sprint moved inside the stores General Wireless bought.[^20][^21]"
+    },
+    {
+     "name": "Amazon and online parts sellers",
+     "status": "alive",
+     "text": "Range, price and no trip to the mall. The shift online is general context; our sources do not quantify it."
+    }
+   ],
+   "source": "RadioShack store counts from the 10-K store tables and the Q3 2014 10-Q[^6][^13][^14]. Outcomes for Best Buy, Circuit City and Amazon are general knowledge and are flagged as such."
+  },
+  {
    "kind": "note",
    "body": "RadioShack’s 10-Ks name competitors in general terms. The fates of Best Buy and Circuit City are well known but aren’t covered by the sources on this page, so we flag them."
   }

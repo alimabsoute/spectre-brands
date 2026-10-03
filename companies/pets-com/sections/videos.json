@@ -1,0 +1,61 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The campaign that outlived the company",
+ "lede": "The sock puppet was on television for about fifteen months. These are the spots as they aired, a promotional reel the company’s PR agency sent out, the puppet’s second job, and two later looks back.",
+ "videos": [
+  {
+   "id": "superbowl",
+   "title": "“If You Leave Me Now,” the Super Bowl XXXIV spot",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "DUoWcYoOjFQ",
+   "caption": "Aired January 30, 2000, twelve days before the IPO. The buy was widely reported at about $1.2 million.[^16] Uploaded by a collector from a higher-quality copy."
+  },
+  {
+   "id": "medley",
+   "title": "A reel of Pets.com commercials, 1999–2000",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "sICSyC9u5iI",
+   "caption": "According to the uploader, this is from a promotional tape sent out by the company’s PR agency. It includes the balloon in the 1999 Macy’s Thanksgiving Day Parade.[^13]"
+  },
+  {
+   "id": "dontgo",
+   "title": "“Please Don’t Go”",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "nXHrlm5Nk5w",
+   "caption": "The puppet sings to departing owners. The slogan closes every spot: “Because pets can’t drive.”"
+  },
+  {
+   "id": "barnone",
+   "title": "The puppet’s second job: 1-800-BarNone",
+   "year": 2002,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "NSt5PlxN_m4",
+   "caption": "After Hakan Enterprises bought the rights for $125,000, the puppet sold car loans: “Everyone deserves a second chance.”[^17][^18]"
+  },
+  {
+   "id": "msnbc",
+   "title": "MSNBC: “The Pets.com Phenomenon”",
+   "year": 2016,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "NHu_PFKIJxw",
+   "caption": "A short MSNBC retrospective on the shutdown, which was announced on November 7, 2000, the day of the U.S. presidential election.[^5]"
+  },
+  {
+   "id": "companyman",
+   "title": "Company Man: “Pets.com: The Rapid Rise and Fall”",
+   "year": 2024,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "-WGjMaeOkVg",
+   "caption": "An eleven-minute independent retrospective. Its figures are the uploader’s; ours are in the sections above."
+  }
+ ]
+}

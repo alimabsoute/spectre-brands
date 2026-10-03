@@ -39,6 +39,10 @@
    ]
   },
   {
+   "kind": "video",
+   "video": "questions"
+  },
+  {
    "kind": "chart",
    "id": "adChart",
    "title": "Advertising expense, 1999–2013",

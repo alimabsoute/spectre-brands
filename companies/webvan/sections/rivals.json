@@ -52,6 +52,55 @@
    "highlight": 0
   },
   {
+   "kind": "multiples",
+   "title": "Four delivery start-ups raised money in 1999 and 2000. None was operating by the end of 2001.",
+   "subtitle": "Money raised by each company, and what became of it. The survivor is a later company, shown by its revenue.",
+   "metric": "Money raised",
+   "items": [
+    {
+     "name": "Webvan",
+     "status": "dead",
+     "self": true,
+     "value": "$768M",
+     "text": "$393.3M of private preferred stock plus the $375M IPO.[^1] Shut down July 9, 2001.[^10]"
+    },
+    {
+     "name": "HomeGrocer",
+     "status": "merged",
+     "value": "$288M",
+     "text": "IPO in March 2000, as reported by a secondary source.[^26] Merged into Webvan in September 2000 for about $1.04B in stock.[^3]"
+    },
+    {
+     "name": "Kozmo.com",
+     "status": "dead",
+     "value": "$250M–$280M",
+     "text": "Reported total raised. Ceased operations in April 2001.[^24]"
+    },
+    {
+     "name": "Streamline.com",
+     "status": "dead",
+     "value": "$42M",
+     "text": "IPO in June 1999. Closed in November 2000, citing losses and tight capital.[^25]"
+    },
+    {
+     "name": "Instacart (public since 2023)",
+     "status": "alive",
+     "value": "$3.74B",
+     "text": "2025 revenue, on 338.8 million orders.[^33] Webvan’s 2000 sales were $178.5M.[^3]",
+     "data": [
+      3042,
+      3378,
+      3742
+     ],
+     "range": [
+      "2023: $3.04B",
+      "2025"
+     ]
+    }
+   ],
+   "source": "Company figures as cited. The Webvan total is the derived sum of its private rounds ($118.3M and $275.0M, net) and the gross proceeds of the 25 million shares in its prospectus[^1]. HomeGrocer’s and Kozmo’s figures are from secondary and press sources[^24][^26]. Instacart’s figure is annual revenue from its 10-K, not money raised[^33]. Peapod and GrocerWorks are left out because we have no sourced figures for them."
+  },
+  {
    "kind": "note",
    "body": "Peapod’s and GrocerWorks’ later histories are context we didn’t source in detail, so we don’t give figures for them."
   }

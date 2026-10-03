@@ -1,0 +1,71 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "From the TRS-80 to “the ’80s called”",
+ "lede": "Two commercials from the Tandy years, a 1991 television episode about the company’s computers, the Super Bowl spot that made fun of its own stores, the news from the day of the bankruptcy, and a later look back.",
+ "videos": [
+  {
+   "id": "superbowl",
+   "title": "“The ’80s called,” the Super Bowl XLVIII spot",
+   "year": 2014,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "YpkixVDFpcI",
+   "caption": "Aired February 2, 2014: 1980s characters arrive to take an old-style RadioShack store back.[^24] This 72-second cut was uploaded by a viewer on the day of the game. Chapter 11 followed a year later.[^15]"
+  },
+  {
+   "id": "trs80",
+   "title": "Radio Shack introduces the TRS-80",
+   "year": 1978,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "gas3RFpjP_8",
+   "caption": "A 30-second spot for Tandy’s own personal computer, sold through the stores. The 1978 date comes from the uploader; we could not confirm when it aired."
+  },
+  {
+   "id": "questions",
+   "title": "“You’ve got questions. We’ve got answers.”: cellular phones",
+   "year": 1995,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "rTvS2NavAYE",
+   "caption": "The service slogan, attached to the product line that would be about half of sales by 2013.[^13] According to the uploader it was recorded on September 22, 1995 from WJBK in Detroit. The trademark was still among the assets sold in 2020.[^28]"
+  },
+  {
+   "id": "chronicles",
+   "title": "Computer Chronicles: “Tandy / Radio Shack Computers”",
+   "year": 1991,
+   "type": "documentary",
+   "provider": "archive",
+   "embedId": "episode_921",
+   "caption": "A full episode of the television series, first broadcast in 1991, on the role Radio Shack played in early personal computing. A Tandy vice president is a guest and the original TRS-80 is shown.[^37]"
+  },
+  {
+   "id": "cnbc",
+   "title": "CNBC: “RadioShack Files for Chapter 11 Bankruptcy”",
+   "year": 2015,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "gxo_zdc8sAY",
+   "caption": "A one-minute report posted by CNBC on February 6, 2015, the day after the filing in Delaware.[^15]"
+  },
+  {
+   "id": "dmn",
+   "title": "The Dallas Morning News: “RadioShack declares bankruptcy”",
+   "year": 2015,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "brABo4GaQvE",
+   "caption": "The home-town paper’s business columnist and a business writer discuss the filing, posted on February 5, 2015. RadioShack was run from Fort Worth.[^18]"
+  },
+  {
+   "id": "companyman",
+   "title": "Company Man: “The Decline of RadioShack...What Happened?”",
+   "year": 2017,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "JFivtOmXPPM",
+   "caption": "A fourteen-minute independent retrospective published in August 2017, after the second bankruptcy. Its figures are the uploader’s; ours are in the sections above."
+  }
+ ],
+ "note": "Video titles and upload dates are as shown by the host. Where a commercial’s year comes only from the uploader, the caption says so."
+}

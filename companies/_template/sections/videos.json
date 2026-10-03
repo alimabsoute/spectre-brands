@@ -1,0 +1,9 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "As seen on TV",
+ "lede": "One or two sentences on what the footage shows. At least 2 videos are required; 3 to 5 is ideal: commercials, a launch event, news coverage of the collapse, a retrospective.",
+ "videos": [
+  { "id": "launch-ad", "title": "“Title of the spot” (launch commercial)", "year": 2000, "type": "commercial", "provider": "youtube", "embedId": "dQw4w9WgXcQ", "caption": "When and where it aired, who made it, and why it matters.[^1]" },
+  { "id": "news", "title": "Network news report on the bankruptcy", "year": 2001, "type": "news", "provider": "archive", "embedId": "prelinger-example-identifier", "caption": "Internet Archive items use the identifier from archive.org/details/<identifier>." }
+ ]
+}

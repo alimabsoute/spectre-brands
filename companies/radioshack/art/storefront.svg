@@ -10,7 +10,7 @@
 <path d="M20 98 L340 98" fill="none"/>
 <rect x="36" y="112" width="120" height="112" fill="#cfe0ee"/><rect x="204" y="112" width="120" height="112" fill="#cfe0ee"/>
 <rect x="164" y="112" width="32" height="128" fill="#e4dccb"/><path d="M190 172 L190 184" stroke-width="3"/>
-<g stroke-width="2.4"><rect x="48" y="170" width="44" height="30" fill="#3d3a35"/><rect x="53" y="175" width="26" height="20" fill="#9cc1a1"/><circle cx="85" cy="185" r="3" fill="#d6cfc1"/>
+<g stroke-width="2.4"><rect x="48" y="170" width="44" height="30" fill="#3d3a35"/><rect class="screen" x="53" y="175" width="26" height="20" fill="#9cc1a1"/><circle cx="85" cy="185" r="3" fill="#d6cfc1"/>
 <rect x="100" y="156" width="46" height="44" fill="#c7c2b8"/><circle cx="114" cy="178" r="9" fill="#3d3a35"/><circle cx="134" cy="178" r="9" fill="#3d3a35"/><rect x="117" y="160" width="12" height="6" fill="#3d3a35"/>
 <rect x="214" y="160" width="20" height="40" rx="4" fill="#3d3a35"/><rect x="218" y="166" width="12" height="9" fill="#9cc1a1"/>
 <rect x="244" y="150" width="70" height="50" fill="#fbfaf6"/><text x="279" y="172" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="13" fill="#d71e28" stroke="none">SALE</text><text x="279" y="190" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#1d1b18" stroke="none">Batteries</text></g>

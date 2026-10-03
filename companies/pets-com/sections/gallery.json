@@ -7,17 +7,20 @@
   {
    "image": "img/logo-2000.avif",
    "date": "Feb 2000",
-   "caption": "The pets.com logo, cropped from the archived home page."
+   "caption": "The pets.com logo, cropped from the archived home page.",
+   "credit": "Cropped from an Internet Archive capture of pets.com. Shown for commentary; trademarks belong to their owners."
   },
   {
    "image": "img/ad-2000-sock-puppet.avif",
    "date": "Mar 2000",
-   "caption": "The sock puppet as it appeared on the site."
+   "caption": "The sock puppet as it appeared on the site.",
+   "credit": "Cropped from an Internet Archive capture of pets.com. Shown for commentary; trademarks belong to their owners."
   },
   {
    "image": "img/archive-2000-03-puppet-gear.avif",
    "date": "Mar 2000",
-   "caption": "The mascot had its own store department, “sock puppet gear.”"
+   "caption": "The mascot had its own store department, “sock puppet gear.”",
+   "credit": "Cropped from an Internet Archive capture of pets.com. Shown for commentary; trademarks belong to their owners."
   }
  ],
  "drawings": [
@@ -108,5 +111,25 @@
    "label": "Puppet mouth (drawing)"
   }
  ],
- "disclaimer": "Colors were sampled from archived captures[^36]; the navy is approximate because of JPEG compression. Pets.com and the sock puppet were trademarks of their respective owners and appear here in historical and editorial context. Drawings are original recreations, not the trademarked character."
+ "disclaimer": "Colors were sampled from archived captures[^36]; the navy is approximate because of JPEG compression. Pets.com and the sock puppet were trademarks of their respective owners and appear here in historical and editorial context. Drawings are original recreations, not the trademarked character.",
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, nine months apart",
+   "ratio": "4/3",
+   "before": {
+    "label": "February 2000",
+    "image": "img/archive-2000-02-anniversary.avif",
+    "caption": "An anniversary sale, 10% off everything, eighteen days after the IPO.[^36]",
+    "alt": "Pets.com home page, February 2000"
+   },
+   "after": {
+    "label": "November 2000",
+    "image": "img/archive-2000-11-farewell.avif",
+    "caption": "A farewell letter to customers, three days after the wind-down announcement.[^36]",
+    "alt": "Pets.com farewell page, November 2000"
+   },
+   "source": "Internet Archive Wayback Machine captures of pets.com[^36]."
+  }
+ ]
 }

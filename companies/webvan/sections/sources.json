@@ -126,6 +126,14 @@
   {
    "id": 31,
    "text": "Jay R. Ritter, “Initial Public Offerings: Updated Statistics,” University of Florida. [ufl.edu](https://site.warrington.ufl.edu/ritter/ipo-data/)"
+  },
+  {
+   "id": 32,
+   "text": "Registry record for webvan.com (Verisign RDAP: created Jun 29, 1998; registrar MarkMonitor Inc.; registrant shown as a proxy service in the registrar’s record), and a public DNS lookup that returned no address record. Both retrieved Oct 3, 2026. [rdap.verisign.com](https://rdap.verisign.com/com/v1/domain/WEBVAN.COM)"
+  },
+  {
+   "id": 33,
+   "text": "Maplebear Inc. (Instacart), Annual report for 2025 (Form 10-K), filed Feb 26, 2026. EDGAR 0001579091-26-000018. [sec.gov](https://www.sec.gov/Archives/edgar/data/1579091/000157909126000018/0001579091-26-000018-index.htm)"
   }
  ],
  "notes": [
@@ -148,6 +156,38 @@
   {
    "label": "Note",
    "text": "Weights in the cause-of-death section and all what-if text are editorial judgment."
+  },
+  {
+   "label": "Note",
+   "text": "The cash flow figure in The numbers is derived from the cash-flow statement in the 2000 10-K. Cash in ($914.5M) is the sum of net preferred stock proceeds ($382.9M), net IPO proceeds ($402.6M), cash acquired with HomeGrocer ($101.1M) and loans, capital leases and other stock sales ($27.9M) for 1998 to 2000. Operating cash use ($324.1M) and capital spending ($356.7M) are three-year sums. The remainder ($21.8M) is $914.5M minus those two figures and the $211.9M of cash and marketable securities reported at Dec 31, 2000."
+  },
+  {
+   "label": "Note",
+   "text": "IPO size: the prospectus covers 25 million shares at $15 ($375M), the figure used in most of this page. The 2000 10-K reports 28,750,000 shares sold in all, for $431.3M gross and $402.6M net. The cash flow figure uses the 10-K’s net amount."
+  },
+  {
+   "label": "Note",
+   "text": "The losses-by-period bars sum to $826.9M (derived: $12.0M + $144.6M + $453.3M + $217.0M)."
+  },
+  {
+   "label": "Note",
+   "text": "The overhead-in-orders figure is derived: $292.3M ÷ 365 = $801K a day; $104 × 26.5% = $27.56; $801K ÷ $27.56 ≈ 29,057 orders, drawn as 291 icons of 100 orders."
+  },
+  {
+   "label": "Note",
+   "text": "In the rivals figure, Webvan’s $768M is the derived sum of $118.3M, $275.0M and $375M. Instacart’s figure is revenue, not capital raised, and is shown only to mark the survivor."
+  },
+  {
+   "label": "Note",
+   "text": "Video dates: the years of the three commercials come from their uploaders and are unverified. The distribution-center footage is undated; 2010 is its upload year. The two TechTV clips carry no air date at the Internet Archive; their dates are inferred from the file names (April 25 and July 13, 2001) and from what is on screen."
+  },
+  {
+   "label": "Note",
+   "text": "The current state of webvan.com (registered, no website) is what the registry and DNS returned on Oct 3, 2026. We found no source for how or when Amazon acquired the name, or for who controls it now. The photo of the two trucks is undated; the Commons record gives only the 2005 posting date."
+  },
+  {
+   "label": "General knowledge",
+   "text": "Instacart’s listing on the Nasdaq in 2023 is uncited general knowledge."
   }
  ]
 }

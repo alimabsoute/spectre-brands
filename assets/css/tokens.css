@@ -1,0 +1,34 @@
+/* Spectre Brands design tokens. Every colour, size, radius, shadow and duration used on the site is
+   defined here; the other stylesheets only reference these variables. See docs/DESIGN_RESEARCH.md. */
+@font-face {font-family: 'Caveat';font-style: normal;font-weight: 500 700;font-display: swap;src: url(/assets/fonts/caveat.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face {font-family: 'Inter';font-style: normal;font-weight: 400 700;font-display: swap;src: url(/assets/fonts/inter.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face {font-family: 'Source Serif 4';font-style: normal;font-weight: 400 700;font-display: swap;src: url(/assets/fonts/source-serif-4.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face {font-family: 'Varela Round';font-style: normal;font-weight: 400;font-display: swap;src: url(/assets/fonts/varela-round.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+:root{
+/* surfaces: off-white page, pure white cards, light grey hairlines (no cream, no tan) */
+--bg:#FCFBF8;--card:#FFFFFF;--line:#E8E6E1;--line-2:#D6D3CC;--wash:#F5F4F0;
+/* ink */
+--ink:#16161A;--ink-2:#3B3B42;--mute:#63636B;--inv:#FFFFFF;--inv-2:#E9E9EE;--inv-3:#C9C9D2;--inv-accent:#F0B7B2;--media:#101014;
+/* one accent per brand: each company page sets --brand and --brand-soft from its real palette */
+--site:#B3261E;--brand:var(--site);--brand-soft:#F6EFEE;
+/* status */
+--dead:#16161A;--ghost:#6A6A75;--alive:#2F7A4B;--warn-bg:#FFF6DD;--warn-ink:#6B4E12;--warn-line:#E3C26B;
+/* chart palette (text-safe on white) and the pastel pin palette used by maps */
+--c-red:#C2412D;--c-blue:#3B6EA8;--c-green:#3F8A5A;--c-gold:#A9781F;--c-plum:#7B5EA7;--c-teal:#2C8C8C;--c-grey:#8B8B94;--c-light:#D9D8D3;
+--pin-a:#F6B8A8;--pin-a2:#C4644D;--pin-b:#CDBCEA;--pin-b2:#7B62A8;--pin-c:#AECDEC;--pin-c2:#43709F;--pin-d:#BFE0B5;--pin-d2:#4F8A45;--pin-e:#F7DC9C;--pin-e2:#B08A2E;
+--hand:#1F2A44;--closed:#DDDCD8;--closed-ink:#75757E;--pin-ink:#1D1D1D;
+/* short aliases used by data files (afterlife status colours, older chart specs) */
+--red:var(--c-red);--gold:#8A6212;--green:var(--c-green);--blue:var(--c-blue);--plum:var(--c-plum);
+/* type */
+--serif:'Source Serif 4','Iowan Old Style',Georgia,serif;--sans:'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;--script:'Caveat','Segoe Print','Bradley Hand',cursive;
+--t-xs:.75rem;--t-sm:.8125rem;--t-md:.9375rem;--t-base:1.125rem;--t-lg:1.3125rem;--t-xl:1.625rem;--t-2xl:clamp(1.75rem,1.2rem + 1.9vw,2.5rem);--t-3xl:clamp(2.25rem,1.3rem + 3.6vw,3.75rem);--t-4xl:clamp(2.75rem,1.2rem + 6vw,5.25rem);
+/* spacing: a 4px base scale */
+--s-1:.25rem;--s-2:.5rem;--s-3:.75rem;--s-4:1rem;--s-5:1.5rem;--s-6:2rem;--s-7:3rem;--s-8:4rem;--s-9:6rem;
+--wrap:1160px;--measure:42rem;--gutter:clamp(1.25rem,4vw,2.5rem);
+/* shape */
+--r-1:4px;--r-2:10px;--r-3:16px;--r-pill:999px;
+--shadow-1:0 1px 2px rgba(22,22,26,.05);--shadow-2:0 1px 2px rgba(22,22,26,.05),0 8px 24px -12px rgba(22,22,26,.16);--shadow-3:0 2px 4px rgba(22,22,26,.06),0 18px 40px -16px rgba(22,22,26,.24);
+/* motion */
+--ease:cubic-bezier(.2,.7,.2,1);--ease-in-out:cubic-bezier(.65,0,.35,1);--d-1:.15s;--d-2:.3s;--d-3:.6s;--d-4:1.1s;
+--nav-h:3rem;
+}

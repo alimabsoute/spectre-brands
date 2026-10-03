@@ -2,8 +2,25 @@
  "name": "Pets.com",
  "number": "001",
  "tier": "dead",
+ "tierWhy": "Pets.com, Inc. was dissolved and liquidated in 2001–2004; pets.com only redirects to PetSmart and nothing trades under the name.[^6][^10][^36]",
  "category": "dotcom",
+ "cause": "unit-economics",
  "years": "1998 – 2000",
+ "died": 2000,
+ "dates": [
+  {
+   "date": "2000-02-11",
+   "text": "went public on the Nasdaq at $11 a share"
+  },
+  {
+   "date": "2000-11-07",
+   "text": "announced it was winding down and laid off about 255 of 320 employees"
+  },
+  {
+   "date": "2000-01-30",
+   "text": "ran its sock puppet commercial during Super Bowl XXXIV"
+  }
+ ],
  "place": "Online pet retail · San Francisco",
  "title": "Pets.com (1998–2000): post-mortem · Spectre Brands",
  "description": "The sock puppet, the Super Bowl ad and the business model underneath: a sourced post-mortem of Pets.com, with charts, a linked map and timeline, and archived screenshots.",
@@ -48,7 +65,8 @@
     "image": "img/archive-2000-11-farewell.avif",
     "caption": "Farewell letter, Nov 2000"
    }
-  ]
+  ],
+  "motion": "bob"
  },
  "keyNumbers": {
   "caption": "The company in four numbers",
@@ -92,5 +110,7 @@
    "title": "The idea wasn’t wrong.",
    "text": "Chewy did $11.86B in sales in FY2024, built on subscriptions and positive gross margins.[^19]"
   }
- ]
+ ],
+ "published": "2026-09-20",
+ "updated": "2026-10-03"
 }

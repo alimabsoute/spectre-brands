@@ -2,9 +2,9 @@
  "kicker": "The story",
  "title": "From launch to liquidation in N chapters",
  "lede": "Optional one-paragraph summary.",
- "stageArt": "art/hero.svg",
  "chapters": [
-  { "when": "1998", "title": "The idea", "big": "1998", "cap": "Short caption for the sticky stage", "color": "#305a90", "body": "First paragraph.[^1]\n\nSecond paragraph.", "pull": { "text": "An optional pull quote.", "who": "Speaker, outlet, date[^1]" } },
-  { "when": "2001", "title": "The end", "big": "$0", "cap": "What shareholders received", "body": "Paragraph.[^1]" }
+  { "when": "1998 · The idea", "title": "The idea", "big": "1998", "cap": "What the big figure is, in one line", "color": "#305a90", "art": "art/hero.svg", "artCaption": "Original illustration.", "body": "First paragraph.[^1]\n\nSecond paragraph.", "pull": { "text": "An optional pull quote.", "who": "Speaker, outlet, date[^1]" } },
+  { "when": "2000 · The campaign", "title": "The ad everyone remembers", "big": "$40M", "cap": "advertising in fiscal 2000[^1]", "video": "launch-ad", "body": "Put the commercial next to the chapter that discusses it.[^1]" },
+  { "when": "2001 · The end", "title": "The end", "big": "$0", "cap": "What shareholders received", "image": { "image": "img/archive-2000-01-home.png", "caption": "The home page as archived in January 2000.", "alt": "Example Co. home page in January 2000" }, "body": "Paragraph.[^1]" }
  ]
 }

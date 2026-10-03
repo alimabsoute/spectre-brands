@@ -289,6 +289,23 @@
    "source": "Derived from the 2000 10-K[^3]: G&A of $292.3M, a 26.5% gross margin and the $104 average order. The order estimate is $178.5M of sales ÷ $104 ÷ 365. These are our calculations, not company figures."
   },
   {
+   "kind": "scale",
+   "title": "What one day of overhead cost, counted in grocery orders",
+   "icon": "cart",
+   "count": 291,
+   "per": "100 orders",
+   "left": {
+    "value": "$801K",
+    "label": "of general and administrative cost for every day of 2000 (derived)[^3]"
+   },
+   "unit": {
+    "value": "$27.56",
+    "label": "batches of 100 orders, each order leaving $27.56 of gross profit after paying for the groceries (derived)"
+   },
+   "equation": "$292.3M of G&A ÷ 365 days = $801K a day. $104 average order × 26.5% gross margin = $27.56. $801K ÷ $27.56 ≈ 29,057 orders a day, drawn as 291 carts of 100 orders each. Our estimate of actual volume in 2000 is about 4,700 orders a day, or 47 of these carts. All inputs are from the 10-K[^3]; Webvan did not disclose order counts.",
+   "source": "Derived from the 2000 10-K[^3]: G&A of $292.3M, a 26.5% gross margin and the $104 average order. These are our calculations, not company figures."
+  },
+  {
    "kind": "keyfacts",
    "caption": "Scale against design, 2000",
    "compact": true,

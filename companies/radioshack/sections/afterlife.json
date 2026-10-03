@@ -39,5 +39,58 @@
    "title": "The new owner",
    "text": "Unicomer Group of El Salvador, a RadioShack franchisee in Latin America and the Caribbean, bought the IP in about 70 countries. RadioShack-branded stores today are dealer or franchise locations, and the brand sells online.[^30][^31][^33]"
   }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the name",
+   "subtitle": "Three corporate eras before the bankruptcy, and three owners in the eight years after it.",
+   "nodes": [
+    {
+     "when": "1921",
+     "owner": "The Deutschmann brothers",
+     "what": "Theodore and Milton Deutschmann open a radio-parts store in Boston, according to the brand’s 2020 owner.[^28]"
+    },
+    {
+     "when": "1963",
+     "owner": "Tandy Corporation",
+     "what": "Charles Tandy’s Fort Worth company buys the struggling chain and makes it profitable within two years.[^18]"
+    },
+    {
+     "when": "2000",
+     "owner": "RadioShack Corporation",
+     "what": "Tandy, by then a single chain, takes the name of its stores.[^5][^18]"
+    },
+    {
+     "when": "Feb 2015",
+     "owner": "Chapter 11",
+     "what": "RadioShack Corporation files in Delaware.[^15]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Apr 2015",
+     "owner": "General Wireless (Standard General)",
+     "what": "The hedge fund’s affiliate buys 1,743 stores, many co-branded with Sprint. The rest are liquidated.[^16][^21]"
+    },
+    {
+     "when": "Mar 2017",
+     "owner": "Second Chapter 11",
+     "what": "General Wireless files and begins closing hundreds of stores.[^26][^27]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Nov 2020",
+     "owner": "Retail Ecommerce Ventures",
+     "what": "Buys the brands, the websites and the “You’ve got questions” trademark, and in 2022 uses the name for a cryptocurrency project.[^28][^29][^32]"
+    },
+    {
+     "when": "May 2023",
+     "owner": "Unicomer Group",
+     "what": "The Salvadoran retailer, a RadioShack franchisee, buys the IP in about 70 countries.[^30][^31]",
+     "status": "current"
+    }
+   ],
+   "source": "Sources as cited on each step. Purchase prices are not in our sources, so none are shown."
+  }
  ]
 }

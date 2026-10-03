@@ -2,7 +2,14 @@
  "kicker": "Afterlife",
  "title": "What happened to the pieces",
  "items": [
-  { "status": "Sold", "color": "#4f7a4a", "title": "The domain", "text": "Who bought it and when.[^1]" },
-  { "status": "Gone", "title": "The company", "text": "Dissolved." }
+  { "status": "Sold", "color": "var(--green)", "title": "The domain", "text": "Who bought it and when.[^1]" },
+  { "status": "Gone", "color": "var(--mute)", "title": "The company", "text": "Dissolved." }
+ ],
+ "blocks": [
+  { "kind": "chain", "title": "Who has owned the name", "nodes": [
+   { "when": "1998", "owner": "Example Co.", "what": "Founded." },
+   { "when": "2001", "owner": "Bankruptcy estate", "what": "Chapter 11, then liquidation.[^1]", "status": "bankrupt" },
+   { "when": "2002", "owner": "Buyer Inc.", "what": "Bought the name and domain at auction.[^1]", "price": "$1.2M", "status": "current" }
+  ] }
  ]
 }

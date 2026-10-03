@@ -5,6 +5,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import http from 'node:http';
+import zlib from 'node:zlib';
 import { spawn } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 
@@ -44,7 +45,10 @@ export function serve(port = PORT, { reload = false } = {}) {
     const ext = path.extname(file).slice(1);
     let body = fs.readFileSync(file);
     if (reload && ext === 'html') body = Buffer.from(body.toString().replace('</body>', RELOAD + '</body>'));
-    res.writeHead(status, { 'content-type': TYPES[ext] || 'application/octet-stream', 'cache-control': 'no-store' }).end(body);
+    const headers = { 'content-type': TYPES[ext] || 'application/octet-stream', 'cache-control': reload ? 'no-store' : 'public, max-age=3600' };
+    // compress text like the production host does, so local Lighthouse numbers are realistic
+    if (/^(html|css|js|json|svg|xml|txt)$/.test(ext) && /\bgzip\b/.test(req.headers['accept-encoding'] || '')) { headers['content-encoding'] = 'gzip'; body = zlib.gzipSync(body); }
+    res.writeHead(status, headers).end(body);
   }).listen(port);
 }
 

@@ -32,6 +32,8 @@ await Promise.all(Array.from({ length: 4 }, async () => {
     const ctx = await browser.newContext({ viewport: { width: w, height: 900 }, deviceScaleFactor: 1 });
     const page = await ctx.newPage();
     await page.goto('http://localhost:4174' + u, { waitUntil: 'load' });
+    // sections use content-visibility:auto (skipped until near the viewport); force them on for a full-page capture
+    await page.addStyleTag({ content: '.sec,.more{content-visibility:visible!important}' });
     await page.evaluate(async () => { const h = document.documentElement.scrollHeight; for (let y = 0; y < h; y += 500) { scrollTo({ top: y, behavior: 'instant' }); await new Promise(r => setTimeout(r, 90)); } scrollTo({ top: 0, behavior: 'instant' }); });
     await page.waitForLoadState('networkidle').catch(() => {});
     await page.waitForTimeout(900);

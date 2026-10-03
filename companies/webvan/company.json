@@ -51,7 +51,8 @@
     "image": "img/archive-2001-10-auction.avif",
     "caption": "Auction notice, Oct 2001"
    }
-  ]
+  ],
+  "motion": "drive"
  },
  "keyNumbers": {
   "caption": "The company in four numbers",
@@ -95,5 +96,28 @@
    "title": "The idea survived.",
    "text": "Four former Webvan executives later helped build Amazon’s grocery business, and Amazon bought the webvan.com name.[^19][^20]"
   }
- ]
+ ],
+ "tierWhy": "Webvan Group stopped all deliveries on July 9, 2001, filed for Chapter 11 four days later and was sold off at auction;[^8][^10][^28] Amazon later owned the name and ran webvan.com as a shop for packaged groceries from 2009 until at least 2016,[^20][^21] but the address no longer loads a website and nothing operates under the name today, so we file it as dead and not as a ghost.[^32]",
+ "cause": "overexpansion",
+ "died": 2001,
+ "dates": [
+  {
+   "date": "1999-06-02",
+   "text": "opened its first online store, in the San Francisco Bay Area"
+  },
+  {
+   "date": "2000-09-05",
+   "text": "completed its $1.04 billion all-stock merger with rival HomeGrocer"
+  },
+  {
+   "date": "2001-07-09",
+   "text": "stopped all deliveries and let about 2,000 workers go"
+  },
+  {
+   "date": "2001-07-13",
+   "text": "filed for Chapter 11 bankruptcy in Delaware"
+  }
+ ],
+ "published": "2026-09-20",
+ "updated": "2026-10-03"
 }

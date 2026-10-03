@@ -7,17 +7,41 @@
   {
    "image": "img/logo-1996.avif",
    "date": "Dec 1996",
-   "caption": "The circle-R and wordmark on the first website."
+   "caption": "The circle-R and wordmark on the first website.",
+   "credit": "Cropped from an Internet Archive capture of radioshack.com.[^33] Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/photo-trs80-model-i.avif",
+   "date": "1977 model",
+   "caption": "A TRS-80 Model I with its video display, badged Radio Shack. Photographed in 2014; the launch year is general knowledge.",
+   "alt": "A TRS-80 Model I keyboard unit in front of its Radio Shack video display",
+   "credit": "Photo: Dave Jones, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Radio_Shack_Tandy_TRS-80_Model_I_System.JPG), CC BY-SA 4.0. Resized.[^38]"
   },
   {
    "image": "img/archive-2000-12-home.avif",
    "date": "Dec 2000",
-   "caption": "The red catalog page at the profit peak."
+   "caption": "The red catalog page at the profit peak.",
+   "credit": "Internet Archive capture of radioshack.com.[^33] Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/photo-2006-storefront-texarkana.avif",
+   "date": "Aug 2006",
+   "caption": "A free-standing store in Texarkana with the circle-R sign, in the year the chain cut 505 stores.[^9][^10]",
+   "alt": "A small free-standing RadioShack store seen from across a lawn",
+   "credit": "Photo: freakofnurture, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RadioShack_exterior.jpg), public domain. Resized.[^38]"
   },
   {
    "image": "img/logo-2014.avif",
    "date": "Nov 2014",
-   "caption": "The last refresh, three months before Chapter 11."
+   "caption": "The last refresh, three months before Chapter 11.",
+   "credit": "Cropped from an Internet Archive capture of radioshack.com.[^33] Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/photo-2015-closing-south-beach.avif",
+   "date": "Apr 2015",
+   "caption": "“Store closing” signs on a RadioShack in South Beach, Miami Beach, dated April 14, 2015 in the file’s metadata, the month the store sale was completed.[^16]",
+   "alt": "A RadioShack storefront with yellow store closing and discount posters in the windows",
+   "credit": "Photo: Phillip Pessar, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Another_Radio_Shack_Closing_South_Beach_%2817162057831%29.jpg), CC BY 2.0. Resized.[^38]"
   }
  ],
  "drawings": [
@@ -111,5 +135,25 @@
    "label": "Wordmark black"
   }
  ],
- "disclaimer": "Colors were sampled from pixels in archived captures and are approximate because of image compression. RadioShack, Realistic, TRS-80 and Tandy are trademarks of their owners and appear here in historical and editorial context. Drawings are original recreations."
+ "disclaimer": "Colors were sampled from pixels in archived captures and are approximate because of image compression. RadioShack, Realistic, TRS-80 and Tandy are trademarks of their owners and appear here in historical and editorial context. Drawings are original recreations.",
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, eighteen years apart",
+   "ratio": "4/3",
+   "before": {
+    "label": "December 1996",
+    "image": "img/archive-1996-12-home.avif",
+    "caption": "A corporate brochure with a big round logo, a store locator and “Steve’s Workbench.”[^33]",
+    "alt": "RadioShack home page, December 1996"
+   },
+   "after": {
+    "label": "November 2014",
+    "image": "img/archive-2014-11-home.avif",
+    "caption": "A photo-led shop built around projects and services, three months before Chapter 11.[^33]",
+    "alt": "RadioShack home page, November 2014"
+   },
+   "source": "Internet Archive Wayback Machine captures of radioshack.com, December 29, 1996 and November 4, 2014[^33]."
+  }
+ ]
 }

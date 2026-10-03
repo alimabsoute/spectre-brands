@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a 1920s tabletop radio receiver with a horn loudspeaker and loose parts">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 214 L312 214" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<rect x="24" y="112" width="180" height="96" rx="4" fill="#8a5a3c"/>
+<rect x="34" y="122" width="160" height="76" rx="2" fill="#2a2724"/>
+<circle cx="66" cy="160" r="20" fill="#e9e5dd"/><path d="M66 160 L78 148" fill="none"/>
+<circle cx="114" cy="160" r="20" fill="#e9e5dd"/><path d="M114 160 L114 143" fill="none"/>
+<circle cx="162" cy="160" r="20" fill="#e9e5dd"/><path d="M162 160 L150 150" fill="none"/>
+<g stroke-width="2"><circle cx="50" cy="132" r="3" fill="#c9a24a"/><circle cx="90" cy="132" r="3" fill="#c9a24a"/><circle cx="138" cy="132" r="3" fill="#c9a24a"/><circle cx="178" cy="132" r="3" fill="#c9a24a"/></g>
+<g stroke-width="2.4"><path d="M52 112 L52 86 C52 70 76 70 76 86 L76 112 Z" fill="#f3e7c4" class="glow"/><path d="M58 96 L70 96 M64 88 L64 104" fill="none" stroke-width="1.6"/>
+<path d="M100 112 L100 86 C100 70 124 70 124 86 L124 112 Z" fill="#f3e7c4" class="glow"/><path d="M106 96 L118 96 M112 88 L112 104" fill="none" stroke-width="1.6"/>
+<path d="M148 112 L148 86 C148 70 172 70 172 86 L172 112 Z" fill="#f3e7c4" class="glow"/><path d="M154 96 L166 96 M160 88 L160 104" fill="none" stroke-width="1.6"/></g>
+<path d="M222 208 L262 208 L254 190 L230 190 Z" fill="#3d3a35"/>
+<path d="M242 190 L242 120 C242 96 262 92 268 78" fill="none" stroke-width="9"/><path d="M242 190 L242 120 C242 96 262 92 268 78" fill="none" stroke="#c9a24a" stroke-width="4"/>
+<path d="M246 70 C250 30 296 22 306 56 C312 80 288 100 270 88 Z" fill="#c9a24a"/><path d="M262 66 C266 46 290 42 294 58 C296 70 284 78 274 74 Z" fill="#3d3a35"/>
+<path d="M204 150 C214 150 214 200 232 200" fill="none" stroke-width="2"/>
+<path d="M30 30 L120 30 M30 30 L30 46 M120 30 L120 46" fill="none" stroke-width="2"/><path d="M75 30 L64 70" fill="none" stroke-width="2"/>
+</g></svg>

@@ -8,41 +8,55 @@
    "title": "An Amazon-backed bet on the pet aisle",
    "big": "$109.2M",
    "cap": "raised privately in 1999 across three preferred stock rounds",
-   "color": "#4f7a4a",
-   "body": "Pets.com was incorporated in California on October 7, 1998. It began operating on February 17, 1999, when it bought the Pets.com domain and a web store from a third party.[^1] An archived page from May 1999 still described the site as “a division of WebMagic™… headed by Greg McLemore.”[^36] Julie Wainwright, who had just been CEO of Reel.com, took over as CEO in March 1999.[^1]\n\nMoney arrived fast: a $10.0M Series A in April, a $50.0M Series B in June and another $49.2M in November–December.[^1] Just before the IPO, Amazon.com owned **40.7%** of the company and Hummer Winblad Venture Partners 21.2%.[^1] Headcount went from 4 people in March 1999 to 270 by December.[^1]"
+   "color": "#3F8A5A",
+   "body": "Pets.com was incorporated in California on October 7, 1998. It began operating on February 17, 1999, when it bought the Pets.com domain and a web store from a third party.[^1] An archived page from May 1999 still described the site as “a division of WebMagic™… headed by Greg McLemore.”[^36] Julie Wainwright, who had just been CEO of Reel.com, took over as CEO in March 1999.[^1]\n\nMoney arrived fast: a $10.0M Series A in April, a $50.0M Series B in June and another $49.2M in November–December.[^1] Just before the IPO, Amazon.com owned **40.7%** of the company and Hummer Winblad Venture Partners 21.2%.[^1] Headcount went from 4 people in March 1999 to 270 by December.[^1]",
+   "image": {
+    "image": "img/archive-2000-02-anniversary.avif",
+    "caption": "The store as customers saw it: the home page captured on Feb 29, 2000.[^36]",
+    "alt": "Pets.com home page in February 2000 with a lime green header and an anniversary sale banner"
+   }
   },
   {
    "when": "Aug 1999 – Jan 2000 · The sock",
    "title": "The mascot that outlived the company",
    "big": "$5.94",
    "cap": "spent on marketing & sales for every $1 of revenue in Q4 1999",
-   "color": "#93743a",
-   "body": "TBWA\\Chiat\\Day[^16] created a wisecracking sock puppet, performed by comedian Michael Ian Black.[^13] It floated as a 36-foot balloon in the 1999 Macy’s Thanksgiving Day Parade[^13], did Good Morning America and Time[^14], and on January 30, 2000 got its own Super Bowl XXXIV spot, a buy widely reported at about $1.2 million.[^16]\n\nThe filings show the bill. Advertising expense alone was **$26.9M** from inception to December 31, 1999[^1]. In Q4 1999, marketing & sales was **$30.7M** against **$5.2M** in net sales.[^2]"
+   "color": "#8A6212",
+   "body": "TBWA\\Chiat\\Day[^16] created a wisecracking sock puppet, performed by comedian Michael Ian Black.[^13] It floated as a 36-foot balloon in the 1999 Macy’s Thanksgiving Day Parade[^13], did Good Morning America and Time[^14], and on January 30, 2000 got its own Super Bowl XXXIV spot, a buy widely reported at about $1.2 million.[^16]\n\nThe filings show the bill. Advertising expense alone was **$26.9M** from inception to December 31, 1999[^1]. In Q4 1999, marketing & sales was **$30.7M** against **$5.2M** in net sales.[^2]",
+   "video": "superbowl"
   },
   {
    "when": "Feb 11, 2000 · The IPO",
    "title": "Public, four weeks before the top",
    "big": "$11.00",
    "cap": "IPO price on Feb 11, 2000 (Nasdaq: IPET). The high for the quarter was $14.00",
-   "color": "#1d1b18",
-   "body": "Merrill Lynch led the sale of 7.5 million shares at $11, raising $82.5M gross and about $75.3M net.[^6] The stock opened at $13½ and was back near $11 by midday. CNET’s headline was “Pets.com IPO is a dog.”[^12]\n\nOn March 10 the Nasdaq closed at its all-time bubble high.[^26] The prospectus had already warned that the company might “provide our customers with shipping below our actual costs to attract customers.”[^1]"
+   "color": "#16161A",
+   "body": "Merrill Lynch led the sale of 7.5 million shares at $11, raising $82.5M gross and about $75.3M net.[^6] The stock opened at $13½ and was back near $11 by midday. CNET’s headline was “Pets.com IPO is a dog.”[^12]\n\nOn March 10 the Nasdaq closed at its all-time bubble high.[^26] The prospectus had already warned that the company might “provide our customers with shipping below our actual costs to attract customers.”[^1]",
+   "art": "art/sock-puppet-mic.svg",
+   "artCaption": "Original illustration, not the trademarked character."
   },
   {
    "when": "Mar – Nov 2000 · Collapse",
    "title": "“Fewer than 8 were even prepared to visit”",
    "big": "$0.22",
    "cap": "closing price on Nov 7, 2000, down 98% from the IPO price",
-   "color": "#a8321f",
-   "body": "Cutting marketing narrowed the losses, from $39.1M in Q1 2000 to $21.7M in Q3. Gross margin improved from −64% to −3% once the Indianapolis-area warehouse took over its share of shipping.[^4] But by September 30 only $23.1M in cash was left.[^4] In July it absorbed rival Petstore.com in an all-stock deal that brought in just $3M of cash.[^7]\n\nMerrill Lynch approached more than 50 potential buyers and investors. “Out of the more than 50 prospects contacted, fewer than 8 were even prepared to visit with the company.”[^5] On November 7, 2000, about 255 of the 320 employees were laid off.[^5]"
+   "color": "#C2412D",
+   "body": "Cutting marketing narrowed the losses, from $39.1M in Q1 2000 to $21.7M in Q3. Gross margin improved from −64% to −3% once the Indianapolis-area warehouse took over its share of shipping.[^4] But by September 30 only $23.1M in cash was left.[^4] In July it absorbed rival Petstore.com in an all-stock deal that brought in just $3M of cash.[^7]\n\nMerrill Lynch approached more than 50 potential buyers and investors. “Out of the more than 50 prospects contacted, fewer than 8 were even prepared to visit with the company.”[^5] On November 7, 2000, about 255 of the 320 employees were laid off.[^5]",
+   "art": "art/shipping-box.svg",
+   "artCaption": "Forty pounds of dog food in a box, shipped below cost. Original illustration."
   },
   {
    "when": "2000 – 2005 · The estate",
    "title": "Sold for parts",
    "big": "$0.172",
    "cap": "total liquidation payout per share, 2001–2004, on an $11 IPO price",
-   "color": "#a8321f",
-   "body": "The site stopped taking orders at 11am Pacific on November 9, 2000.[^36] PetSmart.com paid **$375,000** for the domain names and related IP. The sock puppet was explicitly excluded from the deal.[^6] In its December proxy, the board estimated stockholders might receive “up to approximately $0.25 per share.”[^24]\n\nThey got less. Three liquidating distributions followed: $0.09 in 2001, $0.075 in 2002 and a final $0.00747 in 2004.[^8][^9][^10]"
+   "color": "#C2412D",
+   "body": "The site stopped taking orders at 11am Pacific on November 9, 2000.[^36] PetSmart.com paid **$375,000** for the domain names and related IP. The sock puppet was explicitly excluded from the deal.[^6] In its December proxy, the board estimated stockholders might receive “up to approximately $0.25 per share.”[^24]\n\nThey got less. Three liquidating distributions followed: $0.09 in 2001, $0.075 in 2002 and a final $0.00747 in 2004.[^8][^9][^10]",
+   "image": {
+    "image": "img/archive-2000-11-farewell.avif",
+    "caption": "The farewell letter that replaced the store, captured Nov 10, 2000.[^36]",
+    "alt": "Pets.com farewell letter page from November 2000"
+   }
   }
- ],
- "stageArt": "art/sock-puppet.svg"
+ ]
 }

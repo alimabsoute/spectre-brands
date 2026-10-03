@@ -2,7 +2,7 @@
 <g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
 <path d="M8 232 L312 232" fill="none" stroke="#b8ad97" stroke-width="2"/>
 <path d="M72 20 L248 20 C254 20 258 24 258 30 L258 138 L62 138 L62 30 C62 24 66 20 72 20 Z" fill="#c9c6c0"/>
-<rect x="80" y="34" width="160" height="92" rx="10" fill="#22302a"/>
+<rect class="screen" x="80" y="34" width="160" height="92" rx="10" fill="#22302a"/>
 <text x="94" y="62" font-family="'Courier New', monospace" font-size="14" fill="#b7f0c4" stroke="none">MEM SIZE?</text>
 <text x="94" y="80" font-family="'Courier New', monospace" font-size="14" fill="#b7f0c4" stroke="none">RADIO SHACK</text>
 <text x="94" y="98" font-family="'Courier New', monospace" font-size="14" fill="#b7f0c4" stroke="none">LEVEL I BASIC</text>
