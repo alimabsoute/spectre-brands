@@ -1,0 +1,20 @@
+{
+ "kicker": "The map",
+ "title": "Where it operated",
+ "lede": "Optional module: delete this file and the map and its menu entry disappear.",
+ "figure": {
+  "title": "Locations, 1999–2001",
+  "whatItShows": "every site and when it opened and closed. Press play or pick a date.",
+  "caption": "Pins are placed at city level. Base map: U.S. Census Bureau via us-atlas.[^1]"
+ },
+ "legend": [ { "cat": "a", "label": "Warehouses" }, { "cat": "c", "label": "Offices" } ],
+ "pins": [
+  { "id": "hq", "label": "HQ", "cat": "c", "ll": [-122.27, 37.80], "title": "Headquarters", "text": "Sentence.", "src": [1], "from": "1998-12-01", "to": "2001-11-09", "when": "1998 – 2001" },
+  { "id": "w1", "label": "1", "cat": "a", "ll": [-87.63, 41.88], "offset": [20, -10], "title": "Chicago warehouse", "text": "Sentence.", "src": [1], "from": "2000-03-01", "to": "2001-11-09", "when": "2000 – 2001" }
+ ],
+ "steps": [
+  { "date": "1998-12-01", "label": "Dec 1998", "title": "Founded", "text": "Sentence.", "src": [1], "pins": ["hq"], "stat": { "value": "1", "label": "site" } },
+  { "date": "2000-03-01", "label": "Mar 2000", "title": "Expansion", "text": "Sentence.", "src": [1], "pins": ["w1"], "note": { "box": [520, 120], "text": ["A short hand-drawn note,", "one line per string."], "at": "w1" }, "estimate": "Opening date is an **estimate** from press coverage." },
+  { "date": "2001-11-09", "label": "Nov 2001", "title": "Closed", "text": "Every site closed.", "src": [1], "pins": [] }
+ ]
+}

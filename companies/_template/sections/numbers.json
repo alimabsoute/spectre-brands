@@ -1,0 +1,21 @@
+{
+ "kicker": "The money",
+ "title": "Revenue never caught up with the losses",
+ "lede": "Optional summary.",
+ "blocks": [
+  {
+   "kind": "chart", "id": "revChart",
+   "title": "Revenue and net loss", "subtitle": "$ millions, fiscal years.",
+   "chart": {
+    "type": "bar", "labels": ["1999", "2000"], "y": { "format": "usdM" },
+    "series": [
+     { "label": "Revenue", "data": [10, 40], "color": "green" },
+     { "label": "Net loss", "data": [-50, -150], "color": "red" }
+    ]
+   },
+   "source": "10-K[^1]."
+  },
+  { "kind": "keyfacts", "caption": "Per order", "rows": [ { "value": "$-12", "text": "loss per order (**derived**: net loss ÷ orders)[^1]" } ] },
+  { "kind": "note", "body": "Any number we calculated is labeled **derived**." }
+ ]
+}

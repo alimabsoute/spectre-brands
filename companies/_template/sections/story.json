@@ -1,0 +1,10 @@
+{
+ "kicker": "The story",
+ "title": "From launch to liquidation in N chapters",
+ "lede": "Optional one-paragraph summary.",
+ "stageArt": "art/hero.svg",
+ "chapters": [
+  { "when": "1998", "title": "The idea", "big": "1998", "cap": "Short caption for the sticky stage", "color": "#305a90", "body": "First paragraph.[^1]\n\nSecond paragraph.", "pull": { "text": "An optional pull quote.", "who": "Speaker, outlet, date[^1]" } },
+  { "when": "2001", "title": "The end", "big": "$0", "cap": "What shareholders received", "body": "Paragraph.[^1]" }
+ ]
+}

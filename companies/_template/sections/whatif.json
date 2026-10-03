@@ -1,0 +1,7 @@
+{
+ "kicker": "What if",
+ "title": "Three forks in the road",
+ "forks": [
+  { "tab": "Raise less", "actual": "What actually happened.[^1]", "whatif": "A clearly speculative alternative." }
+ ]
+}

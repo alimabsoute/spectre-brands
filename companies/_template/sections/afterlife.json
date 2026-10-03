@@ -1,0 +1,8 @@
+{
+ "kicker": "Afterlife",
+ "title": "What happened to the pieces",
+ "items": [
+  { "status": "Sold", "color": "#4f7a4a", "title": "The domain", "text": "Who bought it and when.[^1]" },
+  { "status": "Gone", "title": "The company", "text": "Dissolved." }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "kicker": "Cause of death",
+ "title": "Why it failed",
+ "causes": [
+  { "weight": 50, "title": "Primary cause", "text": "Explanation.[^1]" },
+  { "weight": 30, "title": "Contributing cause", "text": "Explanation." },
+  { "weight": 20, "title": "Bad timing", "text": "Explanation." }
+ ],
+ "disclaimer": "the weights are our judgment, not a measurement."
+}
