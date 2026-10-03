@@ -1,0 +1,246 @@
+{
+ "kicker": "Timeline",
+ "title": "From founding to auction, with the market alongside",
+ "lede": "Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "ops": {
+   "label": "Operations",
+   "color": "#8db446"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "market": {
+   "label": "Market",
+   "color": "#888888"
+  },
+  "death": {
+   "label": "Death & estate",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "Dec 1996",
+   "year": "",
+   "cat": "corporate",
+   "title": "Founded",
+   "text": "Louis Borders, founder of Borders Books, starts the company.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun 2",
+   "year": "1999",
+   "cat": "ops",
+   "title": "The Bay Area store opens",
+   "text": "Commercial launch, served from the 340,000 sq ft Oakland center.",
+   "src": [
+    1,
+    3
+   ]
+  },
+  {
+   "date": "Jul 1999",
+   "year": "",
+   "cat": "ops",
+   "title": "Bechtel contract",
+   "text": "Agreement for the construction of up to 26 more distribution centers over three years.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jul – Aug",
+   "year": "1999",
+   "cat": "money",
+   "title": "$275.0M Series D",
+   "text": "21.7 million preferred shares, just before the IPO filing.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Sep 1999",
+   "year": "",
+   "cat": "corporate",
+   "title": "George Shaheen becomes CEO",
+   "text": "He leaves the top job at Andersen Consulting.",
+   "src": [
+    1,
+    17
+   ]
+  },
+  {
+   "date": "Nov 1999",
+   "year": "",
+   "cat": "money",
+   "title": "IPO at $15",
+   "text": "25 million shares on Nasdaq as WBVN, $375M gross. Goldman Sachs leads.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Q4 1999",
+   "year": "",
+   "cat": "market",
+   "title": "$34 high",
+   "text": "The stock's high in its first quarter of trading.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Mar 10",
+   "year": "2000",
+   "cat": "market",
+   "title": "The Nasdaq peaks",
+   "text": "The index closes at 5,048.62, its bubble high.",
+   "src": [
+    27
+   ]
+  },
+  {
+   "date": "May 2000",
+   "year": "",
+   "cat": "ops",
+   "title": "Atlanta opens",
+   "text": "A 350,000 sq ft center in Suwanee, Georgia.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Aug 2000",
+   "year": "",
+   "cat": "ops",
+   "title": "Chicago opens",
+   "text": "A 355,000 sq ft center in Carol Stream, Illinois.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Sep 5",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "HomeGrocer merger closes",
+   "text": "138.3M new shares; about $1.04B total, $901.6M of it goodwill.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Q4 2000",
+   "year": "",
+   "cat": "market",
+   "title": "Low of $0.28",
+   "text": "The stock trades between $2.28 and $0.28 in the quarter.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Feb 2001",
+   "year": "",
+   "cat": "ops",
+   "title": "Dallas closes",
+   "text": "The ex-HomeGrocer Carrollton, Texas facility shuts. Louis Borders leaves the board.",
+   "src": [
+    3,
+    14
+   ]
+  },
+  {
+   "date": "Early 2001",
+   "year": "",
+   "cat": "ops",
+   "title": "Sacramento dropped",
+   "text": "Service ends there too.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "Apr 13",
+   "year": "2001",
+   "cat": "corporate",
+   "title": "Shaheen resigns",
+   "text": "COO Robert Swan takes over, and is named CEO on Apr 26.",
+   "src": [
+    14,
+    15
+   ]
+  },
+  {
+   "date": "Apr 26",
+   "year": "2001",
+   "cat": "ops",
+   "title": "Atlanta closes",
+   "text": "About 485 jobs there and 400 at headquarters. Cash is down to $115M. A 1-for-25 reverse split is planned.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "Jul 9",
+   "year": "2001",
+   "cat": "death",
+   "title": "Shutdown",
+   "text": "All deliveries stop in seven markets. About 2,000 workers are let go and 750,000 active customers lose the service.",
+   "src": [
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "date": "Jul 13",
+   "year": "2001",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "Filed in Delaware, case 01-2404, to pursue a sale of the assets.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Oct 2001",
+   "year": "",
+   "cat": "death",
+   "title": "The auctions",
+   "text": "Court-approved auctions at ten facility sites and headquarters.",
+   "src": [
+    28
+   ]
+  },
+  {
+   "date": "Sep 2009",
+   "year": "",
+   "cat": "death",
+   "title": "The name returns",
+   "text": "Amazon is reported to own webvan.com and uses it to sell groceries by mail.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "2012",
+   "year": "",
+   "cat": "death",
+   "title": "Kiva sold to Amazon",
+   "text": "$775M for the robotics company founded by ex-Webvan logistics manager Mick Mountz.",
+   "src": [
+    19,
+    23
+   ]
+  }
+ ]
+}
