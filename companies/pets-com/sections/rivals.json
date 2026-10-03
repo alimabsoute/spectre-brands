@@ -1,0 +1,257 @@
+{
+ "kicker": "The rivals",
+ "title": "The dot-com pet cemetery",
+ "lede": "Pets.com was not alone. In 1999 at least three other venture-funded pet e-tailers were chasing the same customers, and none survived as independents.",
+ "blocks": [
+  {
+   "kind": "table",
+   "columns": [
+    "Company",
+    "Base",
+    "Backers",
+    "Money raised",
+    "Fulfillment",
+    "Fate"
+   ],
+   "rows": [
+    [
+     "Pets.com",
+     "San Francisco",
+     "Amazon, Hummer Winblad, Disney",
+     "$109.2M private, plus an $82.5M IPO[^1]",
+     "Own DCs: Union City, CA and Greenwood, IN[^6]",
+     "Shut down Nov 2000. Liquidated"
+    ],
+    [
+     "Petopia",
+     "San Francisco",
+     "Petco, VCs",
+     "$66M (Jul ’99) + $35M (Dec ’99)[^28]",
+     "Petco distribution centers[^28]",
+     "Laid off staff in Oct 2000. Assets sold to Petco Dec 2000[^30]. Cancelled a $100M IPO in Feb 2001[^29]"
+    ],
+    [
+     "Petstore.com",
+     "Emeryville, CA",
+     "Discovery Communications, VCs",
+     "$97M second round (Nov ’99)[^31]",
+     "Not found in sources",
+     "Sold to Pets.com Jul 2000 for 5.8M shares plus preferred stock[^7]"
+    ],
+    [
+     "PetSmart.com",
+     "Pasadena, CA",
+     "PetSmart, Idealab (50/50 JV)[^32]",
+     "$50M+ second round (Sep ’99)[^33]",
+     "PetSmart catalog fulfillment[^32]",
+     "Filed a $115M IPO[^35] and pulled it Nov 2000[^34]. Absorbed by PetSmart. Bought the pets.com URL[^6]"
+    ]
+   ],
+   "highlight": 0
+  },
+  {
+   "kind": "chart",
+   "id": "rivalChart",
+   "title": "Reported funding, by company",
+   "subtitle": "$ millions. The bases aren’t comparable: the figures mix cumulative totals, single rounds and IPO proceeds.",
+   "chart": {
+    "type": "bar",
+    "horizontal": true,
+    "stacked": true,
+    "labels": [
+     "Pets.com",
+     "Petopia",
+     "Petstore.com",
+     "PetSmart.com"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "Private rounds",
+      "data": [
+       109.2,
+       null,
+       97,
+       50
+      ],
+      "colors": [
+       "red",
+       "plum",
+       "plum",
+       "plum"
+      ],
+      "stack": "a"
+     },
+     {
+      "label": "Petopia: Jul ’99 round",
+      "data": [
+       null,
+       66,
+       null,
+       null
+      ],
+      "color": "#b796c2",
+      "stack": "a"
+     },
+     {
+      "label": "Petopia: Dec ’99 round",
+      "data": [
+       null,
+       35,
+       null,
+       null
+      ],
+      "color": "plum",
+      "stack": "a"
+     },
+     {
+      "label": "Parent cash contributions",
+      "data": [
+       null,
+       null,
+       null,
+       20
+      ],
+      "color": "#b796c2",
+      "stack": "a"
+     },
+     {
+      "label": "IPO gross proceeds",
+      "data": [
+       82.5,
+       null,
+       null,
+       null
+      ],
+      "color": "#d98d7c",
+      "stack": "a"
+     }
+    ]
+   },
+   "source": "Pets.com private rounds and IPO[^1]. Petopia’s two 1999 rounds[^28]. Petstore.com’s round as reported by Variety[^31]. PetSmart.com’s second round (“more than $50M”) plus each parent’s $10M cash contribution[^32][^33]. These are reported minimums."
+  },
+  {
+   "kind": "text",
+   "title": "Pets.com vs. Chewy",
+   "body": "The same idea, a decade later. Chewy (founded 2011) built on subscriptions (Autoship) and positive gross margins."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Dead",
+    "name": "Pets.com",
+    "alive": false,
+    "rows": [
+     [
+      "Founded",
+      "1998 / ops Feb 1999[^1]"
+     ],
+     [
+      "Lifetime revenue (to Sep 2000)",
+      "$31.6M[^4]"
+     ],
+     [
+      "Gross margin",
+      "−46% (lifetime)"
+     ],
+     [
+      "Customers",
+      "~570,000 (Nov 2000)[^5]"
+     ],
+     [
+      "Repeat orders",
+      ">59% of orders (Q2 2000)[^3]"
+     ],
+     [
+      "Outcome",
+      "Liquidated; $0.172/sh returned"
+     ]
+    ]
+   },
+   "right": {
+    "tag": "Alive",
+    "name": "Chewy",
+    "alive": true,
+    "rows": [
+     [
+      "Founded",
+      "2011[^20]"
+     ],
+     [
+      "First full-year sales (2012)",
+      "$26M[^22]"
+     ],
+     [
+      "FY2024 net sales",
+      "$11.86B[^19]"
+     ],
+     [
+      "FY2024 gross margin",
+      "29.2%[^19]"
+     ],
+     [
+      "Active customers",
+      "20.5M[^19]"
+     ],
+     [
+      "Repeat engine",
+      "Autoship = 79.2% of sales[^19]"
+     ],
+     [
+      "Outcome",
+      "Sold to PetSmart (~$3.35B reported, 2017)[^20]; IPO at $22 (2019)[^21]"
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "chart",
+   "id": "vsChart",
+   "title": "Revenue, on a log scale",
+   "subtitle": "Chewy’s revenue in a single year is several hundred times Pets.com’s entire lifetime revenue.",
+   "chart": {
+    "type": "bar",
+    "legend": false,
+    "labels": [
+     "Pets.com|lifetime",
+     "Chewy|2012",
+     "Chewy|2016",
+     "Chewy|FY2024"
+    ],
+    "y": {
+     "log": true,
+     "min": 10000000.0,
+     "max": 20000000000.0,
+     "format": "usdAuto",
+     "ticks": [
+      10000000.0,
+      100000000.0,
+      1000000000.0,
+      10000000000.0
+     ]
+    },
+    "series": [
+     {
+      "label": "Revenue",
+      "data": [
+       31555000.0,
+       26000000.0,
+       900000000.0,
+       11861000000.0
+      ],
+      "colors": [
+       "red",
+       "green",
+       "green",
+       "green"
+      ],
+      "barPercentage": 0.6
+     }
+    ]
+   },
+   "source": "Pets.com: sum of reported quarterly net sales, Feb 1999–Sep 2000[^4]. Chewy 2012[^22]; 2016 “nearly $900 million”[^20]; FY2024[^19]."
+  }
+ ]
+}

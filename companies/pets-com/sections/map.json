@@ -1,0 +1,474 @@
+{
+ "kicker": "The map",
+ "title": "Where Pets.com operated, and who surrounded it",
+ "lede": "Pets.com ran its business from two warehouses, one in the Bay Area and one in Indiana. Its rivals and the retail chains behind them were mostly a few hours’ drive away in California.",
+ "figure": {
+  "title": "Pets.com, its rivals and its backers, 1999–2000",
+  "whatItShows": "where Pets.com leased offices and warehouses, where its rivals were, and who stood behind it. Step through the timeline: sites appear when they were leased and gray out when they closed.",
+  "caption": "Pins are placed at city level and nudged apart so they don’t overlap; a thin line joins a moved pin to its true location. Dashed rings show 1,000 miles straight-line from each warehouse. They aren’t carrier shipping zones, which the filings don’t disclose. Leases are from the S-1 and 10-K exhibits[^1][^6]. Base map: U.S. Census Bureau via us-atlas[^39]."
+ },
+ "legend": [
+  {
+   "cat": "a",
+   "label": "Pets.com sites"
+  },
+  {
+   "cat": "b",
+   "label": "Rival pet e-tailers"
+  },
+  {
+   "cat": "c",
+   "label": "Investors, underwriter and retail parents"
+  }
+ ],
+ "rings": [
+  {
+   "ll": [
+    -122.04,
+    37.6
+   ],
+   "miles": 1000,
+   "cat": "a"
+  },
+  {
+   "ll": [
+    -86.11,
+    39.61
+   ],
+   "miles": 1000,
+   "cat": "a"
+  }
+ ],
+ "pins": [
+  {
+   "id": "sf",
+   "label": "1",
+   "cat": "a",
+   "ll": [
+    -122.397,
+    37.778
+   ],
+   "title": "San Francisco offices",
+   "text": "435 Brannan St (the S-1 address, leased Apr 8, 1999), 945 Bryant St (Sep 1999) and a King St warehouse (Sep 1999).",
+   "src": [
+    1,
+    6
+   ],
+   "from": "1999-04-08",
+   "to": "2000-11-09",
+   "offset": [
+    56,
+    -46
+   ],
+   "when": "Apr 1999 – Nov 2000"
+  },
+  {
+   "id": "uc",
+   "label": "2",
+   "cat": "a",
+   "ll": [
+    -122.04,
+    37.6
+   ],
+   "title": "Union City distribution center",
+   "text": "33201 Dowe Ave: 143,232 sq ft, subleased Jul 1, 1999, plus an 84,000 sq ft Hayward satellite (Nov 1999).",
+   "src": [
+    1,
+    6
+   ],
+   "from": "1999-07-01",
+   "to": "2000-11-09",
+   "offset": [
+    62,
+    18
+   ],
+   "when": "Jul 1999 – Nov 2000"
+  },
+  {
+   "id": "gw",
+   "label": "3",
+   "cat": "a",
+   "ll": [
+    -86.11,
+    39.61
+   ],
+   "title": "Greenwood, Indiana: second warehouse",
+   "text": "Leased Dec 7, 1999 near Indianapolis. Once it “reached its full load of U.S. shipping” in mid-2000, gross margin improved from −20% to −3%.",
+   "src": [
+    4,
+    6
+   ],
+   "from": "1999-12-07",
+   "to": "2000-11-09",
+   "when": "Dec 1999 – Nov 2000"
+  },
+  {
+   "id": "ps",
+   "label": "4",
+   "cat": "b",
+   "ll": [
+    -122.29,
+    37.83
+   ],
+   "title": "Petstore.com, Emeryville",
+   "text": "Discovery-backed rival, bought by Pets.com in Jul 2000 for stock plus $3M cash.",
+   "src": [
+    7,
+    31
+   ],
+   "to": "2000-07-01",
+   "offset": [
+    40,
+    -96
+   ],
+   "when": "until Jul 2000"
+  },
+  {
+   "id": "pm",
+   "label": "5",
+   "cat": "b",
+   "ll": [
+    -118.14,
+    34.15
+   ],
+   "title": "PetSmart.com, Pasadena",
+   "text": "A PetSmart/Idealab joint venture that used PetSmart’s catalog fulfillment. It pulled its $115M IPO in Nov 2000, then bought the pets.com domain.",
+   "src": [
+    32,
+    34,
+    6
+   ],
+   "offset": [
+    36,
+    -26
+   ]
+  },
+  {
+   "id": "amz",
+   "label": "6",
+   "cat": "c",
+   "ll": [
+    -122.33,
+    47.61
+   ],
+   "title": "Amazon.com, Seattle",
+   "text": "Largest shareholder: 40.7% before the IPO and 30.4% after. It later said the stake was worth “down to zero.”",
+   "src": [
+    1,
+    11
+   ]
+  },
+  {
+   "id": "dis",
+   "label": "7",
+   "cat": "c",
+   "ll": [
+    -118.31,
+    34.18
+   ],
+   "title": "Disney / Catalyst Investments, Burbank",
+   "text": "A Disney affiliate with 3.7%. ABC airtime worth $11.02M was paid for in Pets.com stock.",
+   "src": [
+    1
+   ],
+   "offset": [
+    -26,
+    -34
+   ]
+  },
+  {
+   "id": "phx",
+   "label": "8",
+   "cat": "c",
+   "ll": [
+    -112.07,
+    33.45
+   ],
+   "title": "PetSmart, Phoenix",
+   "text": "Parent of PetSmart.com. It raised its stake from 48% to 81% after the IPO was withdrawn.",
+   "src": [
+    34
+   ]
+  },
+  {
+   "id": "sd",
+   "label": "9",
+   "cat": "c",
+   "ll": [
+    -117.16,
+    32.72
+   ],
+   "title": "Petco, San Diego",
+   "text": "Backed Petopia and shipped its orders from Petco distribution centers, then bought Petopia’s assets in Dec 2000.",
+   "src": [
+    28,
+    30
+   ],
+   "offset": [
+    10,
+    32
+   ]
+  },
+  {
+   "id": "ml",
+   "label": "10",
+   "cat": "c",
+   "ll": [
+    -74.0,
+    40.71
+   ],
+   "title": "Merrill Lynch, New York",
+   "text": "Led the Feb 2000 IPO, then approached 50+ potential buyers in 2000. Fewer than 8 would even visit.",
+   "src": [
+    1,
+    5
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "date": "1999-02-17",
+   "label": "Feb 1999",
+   "title": "Pets.com begins operating",
+   "text": "It buys the pets.com domain and a web store from WebMagic. The backers and rivals that will shape its life are already on the map.",
+   "src": [
+    1,
+    36
+   ],
+   "pins": [
+    "amz",
+    "ps",
+    "pm"
+   ],
+   "note": {
+    "box": [
+     180,
+     30
+    ],
+    "text": [
+     "Amazon: 40.7% owner before the IPO,",
+     "30.4% after. Later: “down to zero.”"
+    ],
+    "at": "amz"
+   },
+   "stat": {
+    "value": "4",
+    "label": "employees, Mar 1999"
+   }
+  },
+  {
+   "date": "1999-04-08",
+   "label": "Apr 1999",
+   "title": "Offices in San Francisco",
+   "text": "435 Brannan St becomes the address in the S-1; Bryant St offices and a King St warehouse follow in September.",
+   "src": [
+    1,
+    6
+   ],
+   "pins": [
+    "sf"
+   ],
+   "note": {
+    "box": [
+     150,
+     120
+    ],
+    "text": [
+     "SoMa, 1999: two office leases",
+     "plus a King St warehouse."
+    ],
+    "at": "sf"
+   }
+  },
+  {
+   "date": "1999-07-01",
+   "label": "Jul 1999",
+   "title": "Union City distribution center",
+   "text": "143,232 sq ft in the East Bay. Goods plus shipping cost more than sales in every quarter reported.",
+   "src": [
+    1,
+    6,
+    4
+   ],
+   "pins": [
+    "uc"
+   ],
+   "note": {
+    "box": [
+     150,
+     330
+    ],
+    "text": [
+     "Bay Area warehouse (143,232 sq ft).",
+     "Goods + shipping cost more",
+     "than sales in every quarter."
+    ],
+    "at": "uc"
+   },
+   "stat": {
+    "value": "$50.0M",
+    "label": "Series B, Jun 1999"
+   }
+  },
+  {
+   "date": "1999-12-07",
+   "label": "Dec 1999",
+   "title": "A second warehouse in Indiana",
+   "text": "Greenwood, near Indianapolis. Once at full load in mid-2000, gross margin went from −20% to −3%.",
+   "src": [
+    4,
+    6
+   ],
+   "pins": [
+    "gw"
+   ],
+   "note": {
+    "box": [
+     540,
+     420
+    ],
+    "text": [
+     "Greenwood, IN warehouse (Dec ’99).",
+     "Once at full load, gross margin",
+     "went from −20% to −3%."
+    ],
+    "at": "gw"
+   },
+   "stat": {
+    "value": "270",
+    "label": "employees, Dec 1999"
+   }
+  },
+  {
+   "date": "2000-02-11",
+   "label": "Feb 2000",
+   "title": "IPO at $11",
+   "text": "Merrill Lynch leads the IPO, raising $82.5M gross. Disney’s Catalyst already holds stock issued for ABC airtime.",
+   "src": [
+    1
+   ],
+   "pins": [
+    "ml",
+    "dis"
+   ],
+   "note": {
+    "box": [
+     600,
+     40
+    ],
+    "text": [
+     "Merrill Lynch led the IPO, then pitched",
+     "50+ buyers. Fewer than 8 would visit."
+    ],
+    "at": "ml"
+   },
+   "stat": {
+    "value": "$82.5M",
+    "label": "raised in the IPO"
+   }
+  },
+  {
+   "date": "2000-07-01",
+   "label": "Jul 2000",
+   "title": "Pets.com buys Petstore.com",
+   "text": "The Emeryville rival is acquired for stock plus $3M cash, a consolidation that came late.",
+   "src": [
+    7,
+    31
+   ],
+   "pins": [
+    "ps"
+   ],
+   "note": {
+    "box": [
+     150,
+     40
+    ],
+    "text": [
+     "Rival Petstore.com, Emeryville.",
+     "Bought in July 2000."
+    ],
+    "at": "ps"
+   }
+  },
+  {
+   "date": "2000-11-09",
+   "label": "Nov 2000",
+   "title": "Closed virtual doors",
+   "text": "The wind-down is announced Nov 7; about 255 of 320 employees are laid off. PetSmart.com later buys the pets.com domain.",
+   "src": [
+    5,
+    6
+   ],
+   "pins": [
+    "sf",
+    "uc",
+    "gw",
+    "pm"
+   ],
+   "note": {
+    "box": [
+     30,
+     450
+    ],
+    "text": [
+     "Retail chains next door: PetSmart",
+     "and Petco backed rival e-tailers",
+     "and lent them their warehouses."
+    ],
+    "at": "pm"
+   },
+   "stat": {
+    "value": "~255",
+    "label": "laid off on Nov 7"
+   }
+  },
+  {
+   "date": "2000-12-15",
+   "label": "Dec 2000",
+   "title": "Petco buys Petopia’s assets",
+   "text": "The San Diego retail chain picks up the rival it had backed. The independents are gone.",
+   "src": [
+    28,
+    30
+   ],
+   "pins": [
+    "sd"
+   ],
+   "note": {
+    "box": [
+     200,
+     500
+    ],
+    "text": [
+     "Petco: backed Petopia, then",
+     "bought its assets."
+    ],
+    "at": "sd"
+   }
+  },
+  {
+   "date": "2001-01-18",
+   "label": "Jan 2001",
+   "title": "Dissolved and delisted",
+   "text": "Stockholders approve the dissolution; the remaining staff resigned on Jan 16. Shareholders eventually got $0.172 a share back.",
+   "src": [
+    6,
+    8,
+    9,
+    10
+   ],
+   "pins": [],
+   "stat": {
+    "value": "$0.172",
+    "label": "returned per $11 share"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "note",
+   "body": "In 2000 the company said it had moved headquarters to a “new, larger facility”.[^4] We couldn’t confirm the address, so only leased addresses are shown. After dissolution, the company’s address was Diablo Management Group in Danville, CA.[^6]"
+  }
+ ]
+}
