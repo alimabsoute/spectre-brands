@@ -1,0 +1,115 @@
+{
+ "kicker": "Brand gallery",
+ "title": "From Radio Shack to The Shack",
+ "label": "Brand gallery",
+ "lede": "The brand went from a red block-letter sign to a circle-R and one-word wordmark in the 1990s, an orange-red refresh by 2014, and a nickname campaign in 2009. These are the marks as they appeared in archived pages, and our drawings of the products and stores that made the name.",
+ "archive": [
+  {
+   "image": "img/logo-1996.avif",
+   "date": "Dec 1996",
+   "caption": "The circle-R and wordmark on the first website."
+  },
+  {
+   "image": "img/archive-2000-12-home.avif",
+   "date": "Dec 2000",
+   "caption": "The red catalog page at the profit peak."
+  },
+  {
+   "image": "img/logo-2014.avif",
+   "date": "Nov 2014",
+   "caption": "The last refresh, three months before Chapter 11."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/storefront.svg",
+   "title": "The storefront.",
+   "caption": "A mall-strip store of the late 1990s with the circle-R sign."
+  },
+  {
+   "art": "art/trs80.svg",
+   "title": "The TRS-80.",
+   "caption": "Tandy’s own computer, sold through the stores from 1977 (year from general knowledge)."
+  },
+  {
+   "art": "art/realistic-radio.svg",
+   "title": "Realistic.",
+   "caption": "The house brand on radios, stereos and scanners."
+  },
+  {
+   "art": "art/the-shack.svg",
+   "title": "The Shack.",
+   "caption": "The 2009 nickname campaign; the signs stayed the same."
+  }
+ ],
+ "recreation": {
+  "title": "The look, rebuilt (circa 2000)",
+  "font": "Inter, Arial, sans-serif",
+  "bar": {
+   "bg": "#cc0000",
+   "fg": "#ffffff",
+   "word": "RadioShack",
+   "sub": "you’ve got questions · a recreation"
+  },
+  "nav": {
+   "bg": "#333333",
+   "fg": "#eeeeee",
+   "items": [
+    "Batteries",
+    "Parts",
+    "Phones",
+    "Computers",
+    "Satellite TV",
+    "Gifts",
+    "Store locator"
+   ]
+  },
+  "side": {
+   "bg": "#f2f2f2",
+   "items": [
+    "Parts & accessories",
+    "Resistors",
+    "Capacitors",
+    "Cables",
+    "Adapters",
+    "Batteries"
+   ]
+  },
+  "buttons": {
+   "bg": "#ffffff",
+   "fg": "#cc0000",
+   "items": [
+    "cart",
+    "account",
+    "help"
+   ]
+  },
+  "art": "art/realistic-radio.svg",
+  "headline": "Holiday gifts and parts",
+  "subhead": "Computers, satellite TV and phones up front.",
+  "body": "Layout paraphrased from the archived Dec 2000 home page. This is our recreation, not a copy of the original site."
+ },
+ "swatches": [
+  {
+   "hex": "#ff1a20",
+   "label": "1996 circle-R red"
+  },
+  {
+   "hex": "#cc0000",
+   "label": "2000 site red"
+  },
+  {
+   "hex": "#333333",
+   "label": "2000 nav charcoal"
+  },
+  {
+   "hex": "#f9634c",
+   "label": "2014 orange-red"
+  },
+  {
+   "hex": "#1d1b18",
+   "label": "Wordmark black"
+  }
+ ],
+ "disclaimer": "Colors were sampled from pixels in archived captures and are approximate because of image compression. RadioShack, Realistic, TRS-80 and Tandy are trademarks of their owners and appear here in historical and editorial context. Drawings are original recreations."
+}

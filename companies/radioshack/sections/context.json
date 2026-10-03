@@ -1,0 +1,196 @@
+{
+ "kicker": "Before the fall",
+ "title": "A parts store that became a computer company, then a phone store",
+ "lede": "RadioShack wasn’t born in a bubble. It was a 1921 Boston radio-parts shop that a Fort Worth leather company turned into a national electronics chain. Its trouble began when the things people needed from it stopped being small parts.",
+ "blocks": [
+  {
+   "kind": "keyfacts",
+   "caption": "The chain before the decline",
+   "compact": true,
+   "rows": [
+    {
+     "value": "1921",
+     "text": "founded in Boston by brothers Theodore and Milton Deutschmann, according to the brand’s later owner[^28]"
+    },
+    {
+     "value": "1963",
+     "text": "Tandy Corporation of Fort Worth bought the struggling chain and made it profitable within two years[^18]"
+    },
+    {
+     "value": "7,000+",
+     "text": "locations by 1988, counting company stores and dealers[^18]"
+    },
+    {
+     "value": "~43,600",
+     "text": "employees at the end of 2000[^5]"
+    }
+   ]
+  },
+  {
+   "kind": "chart",
+   "id": "revChart",
+   "title": "Sales and net income, 1995–2014",
+   "subtitle": "$ billions for sales, $ millions for net income. Hover for the year. The 1995–1998 bars are Tandy Corporation, which still included other chains.",
+   "chart": {
+    "type": "bar",
+    "labels": [
+     "1995",
+     "1996",
+     "1997",
+     "1998",
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014*"
+    ],
+    "y": {
+     "min": 0,
+     "max": 7,
+     "format": "usdB"
+    },
+    "y1": {
+     "min": -500,
+     "max": 500,
+     "format": "usdM"
+    },
+    "refLines": [],
+    "series": [
+     {
+      "type": "line",
+      "label": "Net income ($M, right)",
+      "data": [
+       null,
+       null,
+       null,
+       null,
+       297.9,
+       368.0,
+       166.7,
+       263.4,
+       298.5,
+       337.2,
+       267.0,
+       73.4,
+       236.8,
+       192.4,
+       205.0,
+       206.1,
+       72.2,
+       -139.4,
+       -400.2,
+       -396.8
+      ],
+      "color": "red",
+      "axis": "y1"
+     },
+     {
+      "label": "Net sales ($B, left)",
+      "data": [
+       5.839,
+       6.286,
+       5.372,
+       4.788,
+       4.126,
+       4.795,
+       4.776,
+       4.577,
+       4.649,
+       4.841,
+       5.082,
+       4.778,
+       4.252,
+       4.225,
+       4.066,
+       4.201,
+       4.032,
+       3.831,
+       3.434,
+       2.061
+      ],
+      "colors": [
+       "sand",
+       "sand",
+       "sand",
+       "sand",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "#d9d4ca"
+      ]
+     }
+    ],
+    "tooltip": {
+     "footers": [
+      "Tandy Corporation",
+      "Tandy Corporation",
+      "Tandy Corporation",
+      "Tandy Corporation",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "First 39 weeks only"
+     ]
+    },
+    "notes": [
+     {
+      "s": 0,
+      "i": 18,
+      "text": [
+       "2013: a $400.2M loss, the",
+       "worst full year in our data."
+      ],
+      "dx": -300,
+      "dy": -20
+     },
+     {
+      "s": 0,
+      "i": 5,
+      "text": [
+       "2000: $368.0M profit,",
+       "the high point."
+      ],
+      "dx": 30,
+      "dy": -30
+     }
+    ]
+   },
+   "source": "10-K filings for each year[^1][^4][^9][^13]. 2009–2013 use the figures as restated in the 2013 10-K. 2014 is the first 39 weeks only, from the Q3 10-Q[^14]. Earlier years are as first reported."
+  }
+ ]
+}

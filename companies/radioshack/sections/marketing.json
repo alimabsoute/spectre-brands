@@ -1,0 +1,144 @@
+{
+ "kicker": "Marketing",
+ "title": "Three ways of saying “we’re not your dad’s RadioShack”",
+ "lede": "For most of its life the pitch was service: “You’ve got questions. We’ve got answers.” Later campaigns tried to escape the image of a dusty parts store, and spent less money each time.",
+ "blocks": [
+  {
+   "kind": "table",
+   "columns": [
+    "Campaign",
+    "Years",
+    "What it said",
+    "What happened"
+   ],
+   "rows": [
+    [
+     "“You’ve got questions. We’ve got answers.”",
+     "Tandy era onward",
+     "The store clerk as expert. The trademark was still among the assets sold in 2020[^28]",
+     "Became the brand’s best-remembered line"
+    ],
+    [
+     "Partners: Microsoft, Compaq, RCA, Sprint",
+     "c. 1999–2001",
+     "Store-within-a-store alliances shown on the home page[^33]",
+     "Wireless kept growing, computers did not (no sales split in our sources)"
+    ],
+    [
+     "“The Shack”",
+     "Aug 2009",
+     "An advertising nickname to modernize the image. Signs and the legal name stayed RadioShack[^23][^36]",
+     "Advertising spend fell to $193.0M that year[^11]"
+    ],
+    [
+     "“The ’80s called. They want their store back.”",
+     "Feb 2014",
+     "Super Bowl XLVIII ad in which 1980s celebrities empty an old-style store[^24]",
+     "Chapter 11 followed a year later[^15]"
+    ]
+   ]
+  },
+  {
+   "kind": "chart",
+   "id": "adChart",
+   "title": "Advertising expense, 1999–2013",
+   "subtitle": "$ millions (bars) and as a share of net sales (line, derived). As first reported in each 10-K.",
+   "chart": {
+    "type": "bar",
+    "labels": [
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013"
+    ],
+    "y": {
+     "min": 0,
+     "max": 300,
+     "format": "usdM"
+    },
+    "y1": {
+     "min": 0,
+     "max": 7,
+     "format": "pct"
+    },
+    "series": [
+     {
+      "type": "line",
+      "label": "Share of net sales (derived)",
+      "data": [
+       4.84,
+       4.74,
+       5.32,
+       5.27,
+       5.47,
+       5.61,
+       5.18,
+       4.53,
+       4.91,
+       5.08,
+       4.75,
+       4.91,
+       5.18,
+       4.77,
+       5.13
+      ],
+      "color": "red",
+      "axis": "y1"
+     },
+     {
+      "label": "Advertising expense ($M)",
+      "data": [
+       199.9,
+       227.1,
+       253.9,
+       241.0,
+       254.4,
+       271.5,
+       263.1,
+       216.3,
+       208.8,
+       214.5,
+       193.0,
+       206.1,
+       208.9,
+       182.9,
+       176.2
+      ],
+      "color": "tan"
+     }
+    ],
+    "notes": [
+     {
+      "s": 1,
+      "i": 10,
+      "text": [
+       "2009: “The Shack” launches",
+       "as spending drops to $193M."
+      ],
+      "dx": -90,
+      "dy": -120
+     }
+    ]
+   },
+   "source": "Advertising expense from the 10-K notes for each year[^4][^5][^6][^8][^9][^11][^13]. 2001 and 2003 are computed from the year-on-year changes the filings state."
+  },
+  {
+   "kind": "drawing",
+   "art": "art/the-shack.svg",
+   "caption": "Original drawing of the 2009 campaign mark. Not an official asset.",
+   "title": "“The Shack,” 2009",
+   "body": "In August 2009 the company began calling itself “The Shack” in advertising while the store signs stayed the same.[^23][^36] Ad spending that year fell to $193.0M, the lowest since 1999 at the time (derived from the 10-K series above)."
+  }
+ ]
+}

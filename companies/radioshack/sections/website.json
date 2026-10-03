@@ -1,0 +1,52 @@
+{
+ "kicker": "The old website",
+ "title": "Thirty years of radioshack.com",
+ "lede": "These are screenshots of the Internet Archive’s captures of radioshack.com, stored as images; click one to open the original capture. The front page tracks the company’s identity: parts, then partners, then phones, then a liquidation, a crypto token and a web shop.[^33]",
+ "note": "Screenshots of Internet Archive captures, saved as images; click one to open the original capture. Later captures show the afterlife: a clearance store in [Jul 2017](https://web.archive.org/web/20170701003943/http://www.radioshack.com/), a crypto waitlist in [Jan 2022](https://web.archive.org/web/20220101093831/https://www.radioshack.com/) and a conventional shop under Unicomer in [Apr 2025](https://web.archive.org/web/20250401012431/https://www.radioshack.com/).",
+ "captures": [
+  {
+   "date": "Dec 1996",
+   "label": "The first storefront",
+   "url": "http://www.radioshack.com/",
+   "wayback": "https://web.archive.org/web/19961229094151/http://www.radioshack.com:80/",
+   "image": "img/archive-1996-12-home.avif",
+   "h": 480,
+   "captured": "Dec 29, 1996 · 4:41 AM ET",
+   "title": "The first storefront",
+   "text": "A corporate brochure more than a shop: a big round logo over a tiled background, buttons for Store Locator, Future Activities, Contacts, Press Releases and History & Info, and links to “Steve’s Workbench,” a hobbyist help page, and the company’s “United Against Crime” program."
+  },
+  {
+   "date": "Dec 2000",
+   "label": "Parts, partners and gifts",
+   "url": "http://radioshack.com/",
+   "wayback": "https://web.archive.org/web/20001203142000/http://radioshack.com:80/",
+   "image": "img/archive-2000-12-home.avif",
+   "h": 480,
+   "captured": "Dec 3, 2000 · 9:20 AM ET",
+   "title": "Parts, partners and gifts",
+   "text": "The first real catalog, at the height of the company’s profits. The left column lists the parts business; the partner logos say where management was looking: computers, satellite TV and phones."
+  },
+  {
+   "date": "Mar 2005",
+   "label": "The phone store",
+   "url": "http://www.radioshack.com/",
+   "wayback": "https://web.archive.org/web/20050301085318/http://www.radioshack.com/",
+   "image": "img/archive-2005-03-home.avif",
+   "h": 480,
+   "captured": "Mar 1, 2005 · 3:53 AM ET",
+   "title": "The phone store",
+   "text": "The year sales peaked at $5.08B. The home page leads with “Now you can buy wireless online!” and a carrier-plan picker. Parts and accessories sit in the left-hand category list."
+  },
+  {
+   "date": "Nov 2014",
+   "label": "The last redesign",
+   "url": "http://www.radioshack.com/",
+   "wayback": "https://web.archive.org/web/20141104182216/http://www.radioshack.com/",
+   "image": "img/archive-2014-11-home.avif",
+   "h": 480,
+   "captured": "Nov 4, 2014 · 1:22 PM ET",
+   "title": "The last redesign",
+   "text": "Three months before Chapter 11. A modern, photo-led site built around “projects” and “services,” the company’s pitch to makers and to people who needed help with their phones."
+  }
+ ]
+}
