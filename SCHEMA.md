@@ -124,7 +124,7 @@ Rendered by `assets/js/charts.js` (Chart.js 4).
 - `y`, `y1` (second axis), `x`: { `format`, `min`, `max`, `log`, `ticks` [only these values get labels], `title`, `noGrid` }
 - `format`: `usd`, `usd2`, `usdK`, `usdM`, `usdB`, `usdAuto`, `pct`, `num`, `x`, or `{ "pre": "$", "suf": "M", "dec": 1 }`
 - `series` [{ `label`, `data` (a `null` gap; `[low, high]` pairs make floating bars), `type` (mix line into bar), `color` / `colors` (named: ink, red, gold, green, blue, plum, tan, sand, or hex), `axis: "y1"`, `stack`, `dashed`, `fill`, `points`, `showLine`, `tension`, `spanGaps`, `barPercentage`, `order`, `format`, `hideLegend` }]
-- Nasdaq reference: a series with `"ref": "nasdaq"` pulls `data/nasdaq.json` (FRED NASDAQCOM) between spec `from`/`to` (ISO); `indexTo` (ISO date) rebases to 100. A series with `events` [{`date`, `label`, `value`}] plots points snapped to the nearest week (`value: null` uses the index value).
+- Nasdaq reference: a series with `"ref": "nasdaq"` pulls `data/nasdaq.json` (FRED NASDAQCOM) between spec `from`/`to` (ISO); `indexTo` (ISO date) rebases to 100. A series with `events` [[`"YYYY-MM-DD"`, value or `null`, `"label"`]] plots points snapped to the nearest week (`null` uses the index value).
 - `refLines` [{`value`, `label`, `axis`}]: dashed reference lines
 - `notes` [{`text` [lines], `s` (series index) + `i` (point index, or `"ev:YYYY-MM-DD"`), or `x`/`y`, `dx`, `dy`}]: hand-drawn rough.js annotations (hidden under 560px)
 - `tooltip` { `format`, `footers` [per-label footer text] }
