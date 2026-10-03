@@ -1,0 +1,67 @@
+{
+ "kicker": "The old website",
+ "title": "What customers actually saw",
+ "lede": "These are screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. Captures were found with the CDX API in October 2026. Archived pages from 1999–2000 are often incomplete.[^36]",
+ "snips": [
+  {
+   "text": "**Booda dog chews** Retail Price: $11.29–$13.69 **Our Price: $8.29**",
+   "when": "www2.pets.com homepage · May 8, 1999[^36]"
+  },
+  {
+   "text": "**Nutro MAX Mini Chunk** Regular $26.49 · **Sale $19.99** **Cat gift basket** $29.99 → **$18.99**",
+   "when": "Holiday homepage · Nov 28, 1999[^36]"
+  },
+  {
+   "text": "**Pedigree canned dog food** Retail: $17.99–$23.99 **Our price: $15.98–$21.98**",
+   "when": "Product page · Jun 7, 2000[^36]"
+  },
+  {
+   "text": "“We have closed our virtual doors effective November 9, 2000.… Orders placed before 11am PT on November 9 will be shipped.”",
+   "when": "Farewell letter · Nov 10, 2000 capture[^36]"
+  },
+  {
+   "text": "“Welcome Pets.com Customers! PETsMART.com has purchased the www.pets.com URL.” The welcome coupon’s $25 minimum excluded dog food, cat food and cat litter.",
+   "when": "pets.com · Feb 2, 2001 capture[^36]"
+  },
+  {
+   "text": "“Pets.com is a division of WebMagic™… headed by Greg McLemore.”",
+   "when": "About Us · May 8, 1999[^36]"
+  }
+ ],
+ "note": "Screenshots of Internet Archive captures, saved as images; click one to open the original capture. Other captures worth opening: the [May 1999 WebMagic-era home page](https://web.archive.org/web/19990508060549/http://www2.pets.com:80/), the [Nov 1999 holiday home page](https://web.archive.org/web/19991128201851/http://www.pets.com:80/cgi-bin/puppy/home/home.jsp?BV_UseBVCookie=YES&animal=Home) and the [Feb 2001 PETsMART.com redirect](https://web.archive.org/web/20010202130700/http://pets.com:80/). Many 1999 images were never archived.",
+ "captures": [
+  {
+   "date": "Feb 2000",
+   "label": "Anniversary sale",
+   "url": "http://www.pets.com/cgi-bin/puppy/home/home.jsp?BV_UseBVCookie=YES&sourceid=00093048810421705111",
+   "wayback": "https://web.archive.org/web/20000229050138/http://www.pets.com:80/cgi-bin/puppy/home/home.jsp?BV_UseBVCookie=YES&sourceid=00093048810421705111",
+   "image": "img/archive-2000-02-anniversary.avif",
+   "h": 480,
+   "captured": "Feb 29, 2000 · 12:01 AM ET",
+   "title": "Anniversary sale",
+   "text": "Eighteen days after the IPO: “Celebrate our Anniversary with 10% off Everything.” The sock puppet appears in the right column."
+  },
+  {
+   "date": "Mar 2000",
+   "label": "Sock puppet gear",
+   "url": "http://www.pets.com/cgi-bin/puppy/products/category_home.jsp?BV_UseBVCookie=YES&animal=Puppet&oid=-12422",
+   "wayback": "https://web.archive.org/web/20000301053925/http://www.pets.com:80/cgi-bin/puppy/products/category_home.jsp?BV_UseBVCookie=YES&animal=Puppet&oid=-12422",
+   "image": "img/archive-2000-03-puppet-gear.avif",
+   "h": 480,
+   "captured": "Mar 1, 2000 · 12:39 AM ET",
+   "title": "Sock puppet gear",
+   "text": "The mascot had its own store category, “sock puppet gear”, alongside Dogs, Cats, Fish, Birds, Reptiles and Small Pets. Slate reported $20 puppets shipping in June 2000."
+  },
+  {
+   "date": "Nov 2000",
+   "label": "The farewell letter",
+   "url": "http://pets.com/",
+   "wayback": "https://web.archive.org/web/20001110064700/http://pets.com:80/",
+   "image": "img/archive-2000-11-farewell.avif",
+   "h": 480,
+   "captured": "Nov 10, 2000 · 1:47 AM ET",
+   "title": "The farewell letter",
+   "text": "The day after the shutdown, the homepage was replaced by a letter: “We have closed our virtual doors effective November 9, 2000.”"
+  }
+ ]
+}

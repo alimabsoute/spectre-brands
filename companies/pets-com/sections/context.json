@@ -1,0 +1,324 @@
+{
+ "kicker": "The bubble it was born into",
+ "title": "Born in a market that paid for losses",
+ "lede": "Pets.com was founded and floated at the peak of the dot-com bubble. In 1999 investors were buying unprofitable IPOs at a rate never seen before or since.",
+ "blocks": [
+  {
+   "kind": "keyfacts",
+   "caption": "The market Pets.com was born into",
+   "compact": true,
+   "rows": [
+    {
+     "value": "476",
+     "text": "U.S. IPOs in 1999[^25]"
+    },
+    {
+     "value": "71.2%",
+     "text": "average first-day gain for a 1999 IPO, up from 21.9% in 1998[^25]"
+    },
+    {
+     "value": "76%",
+     "text": "of 1999 IPOs had negative trailing earnings. In 2000 it was 81%[^25]"
+    },
+    {
+     "value": "$19.9B",
+     "text": "of 1999 venture money went to Internet companies, up from $3.4B in 1998[^27]"
+    }
+   ]
+  },
+  {
+   "kind": "chart",
+   "id": "ipoChart",
+   "title": "The IPO window, 1990–2003",
+   "subtitle": "The number of U.S. IPOs each year, against the average first-day return or the share of IPOs that were losing money.",
+   "views": [
+    {
+     "label": "First-day return",
+     "chart": {
+      "type": "bar",
+      "labels": [
+       "1990",
+       "1991",
+       "1992",
+       "1993",
+       "1994",
+       "1995",
+       "1996",
+       "1997",
+       "1998",
+       "1999",
+       "2000",
+       "2001",
+       "2002",
+       "2003"
+      ],
+      "y": {
+       "format": "num",
+       "title": "IPOs per year"
+      },
+      "y1": {
+       "min": 0,
+       "max": 80,
+       "format": "pct"
+      },
+      "tooltip": {
+       "footers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pets.com founded and funded",
+        "Pets.com IPO: Feb 11, 2000",
+        "",
+        "",
+        ""
+       ]
+      },
+      "series": [
+       {
+        "type": "line",
+        "label": "Avg. first-day return (%)",
+        "data": [
+         10.8,
+         11.9,
+         10.3,
+         12.7,
+         9.6,
+         21.4,
+         17.2,
+         14.0,
+         21.9,
+         71.2,
+         56.3,
+         14.0,
+         9.1,
+         11.7
+        ],
+        "color": "red",
+        "axis": "y1"
+       },
+       {
+        "label": "Number of IPOs",
+        "data": [
+         110,
+         286,
+         412,
+         510,
+         402,
+         462,
+         677,
+         474,
+         283,
+         476,
+         380,
+         80,
+         66,
+         63
+        ],
+        "colors": [
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#c9b48a",
+         "#c9b48a",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "label": "% unprofitable",
+     "chart": {
+      "type": "bar",
+      "labels": [
+       "1990",
+       "1991",
+       "1992",
+       "1993",
+       "1994",
+       "1995",
+       "1996",
+       "1997",
+       "1998",
+       "1999",
+       "2000",
+       "2001",
+       "2002",
+       "2003"
+      ],
+      "y": {
+       "format": "num",
+       "title": "IPOs per year"
+      },
+      "y1": {
+       "min": 0,
+       "max": 100,
+       "format": "pct"
+      },
+      "tooltip": {
+       "footers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pets.com founded and funded",
+        "Pets.com IPO: Feb 11, 2000",
+        "",
+        "",
+        ""
+       ]
+      },
+      "series": [
+       {
+        "type": "line",
+        "label": "% of IPOs with negative EPS",
+        "data": [
+         15,
+         24,
+         29,
+         28,
+         26,
+         30,
+         41,
+         36,
+         46,
+         76,
+         81,
+         49,
+         45,
+         44
+        ],
+        "color": "red",
+        "axis": "y1"
+       },
+       {
+        "label": "Number of IPOs",
+        "data": [
+         110,
+         286,
+         412,
+         510,
+         402,
+         462,
+         677,
+         474,
+         283,
+         476,
+         380,
+         80,
+         66,
+         63
+        ],
+        "colors": [
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#c9b48a",
+         "#c9b48a",
+         "#ddd3c2",
+         "#ddd3c2",
+         "#ddd3c2"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "source": "Source: Jay R. Ritter, “Initial Public Offerings: Updated Statistics,” University of Florida, Tables 1 and 9[^25]. The “% unprofitable” series is the share of IPOs with negative trailing-12-month EPS."
+  },
+  {
+   "kind": "chart",
+   "id": "nasdaqChart",
+   "title": "The Nasdaq Composite, with Pets.com’s life marked",
+   "subtitle": "Daily closes are sampled weekly. Hover over a marker for the event.",
+   "chart": {
+    "type": "line",
+    "from": "1999-01-01",
+    "to": "2001-02-28",
+    "y": {
+     "min": 1500,
+     "format": "num"
+    },
+    "series": [
+     {
+      "label": "Nasdaq Composite (weekly close)",
+      "ref": "nasdaq",
+      "color": "ink",
+      "fill": true,
+      "width": 1.8
+     },
+     {
+      "label": "Pets.com milestones",
+      "color": "red",
+      "events": [
+       [
+        "1999-02-17",
+        null,
+        "Pets.com begins operations"
+       ],
+       [
+        "2000-02-11",
+        null,
+        "IPET IPO at $11"
+       ],
+       [
+        "2000-03-10",
+        null,
+        "Nasdaq peak: 5,048.62"
+       ],
+       [
+        "2000-11-07",
+        null,
+        "Wind-down announced"
+       ],
+       [
+        "2001-01-18",
+        null,
+        "Dissolved, delisted"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     {
+      "s": 1,
+      "i": "ev:2000-02-11",
+      "text": [
+       "IPO priced Feb 11, 2000:",
+       "four weeks before the Nasdaq peaked."
+      ],
+      "dx": -330,
+      "dy": -40
+     }
+    ]
+   },
+   "source": "Index data: NASDAQ OMX Group via FRED, series NASDAQCOM[^26]. Events: SEC filings[^1][^5][^6]. Peak close: 5,048.62 on Mar 10, 2000."
+  }
+ ],
+ "label": "The bubble"
+}
