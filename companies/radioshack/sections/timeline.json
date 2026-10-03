@@ -1,0 +1,294 @@
+{
+ "kicker": "Timeline",
+ "title": "From Boston radio parts to a brand without stores",
+ "lede": "Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "ops": {
+   "label": "Stores",
+   "color": "#c8102e"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "death": {
+   "label": "Death & estate",
+   "color": "#1d1b18"
+  }
+ },
+ "events": [
+  {
+   "date": "1921",
+   "year": "Boston",
+   "cat": "corporate",
+   "title": "A radio-parts store opens",
+   "text": "Theodore and Milton Deutschmann open the first store, according to the brand’s 2020 owner.",
+   "src": [
+    28
+   ]
+  },
+  {
+   "date": "1963",
+   "year": "Fort Worth",
+   "cat": "corporate",
+   "title": "Tandy buys the chain",
+   "text": "Charles Tandy’s company acquires the struggling Boston chain and makes it profitable within two years.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "1977",
+   "year": "",
+   "cat": "ops",
+   "title": "The TRS-80",
+   "text": "Tandy sells its own personal computer through the stores (year from general knowledge).",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "1988",
+   "year": "",
+   "cat": "ops",
+   "title": "More than 7,000 locations",
+   "text": "Company stores and dealers combined pass 7,000.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "1999",
+   "year": "Q4",
+   "cat": "money",
+   "title": "Stock peaks",
+   "text": "Shares trade as high as $79.50, split-adjusted.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "2000",
+   "year": "",
+   "cat": "corporate",
+   "title": "Tandy becomes RadioShack Corporation",
+   "text": "Net income reaches $368.0M, the most in our data.",
+   "src": [
+    5,
+    18
+   ]
+  },
+  {
+   "date": "2001",
+   "year": "Dec 31",
+   "cat": "ops",
+   "title": "5,289 company stores",
+   "text": "The most the chain ever operated, plus 2,119 dealer outlets.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "2005",
+   "year": "",
+   "cat": "money",
+   "title": "Sales peak at $5.08B",
+   "text": "Net income has already fallen to $267.0M.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "2006",
+   "year": "Feb",
+   "cat": "corporate",
+   "title": "CEO resigns over résumé",
+   "text": "David Edmondson steps down after questions about degrees he claimed.",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "2006",
+   "year": "Jul",
+   "cat": "corporate",
+   "title": "Julian Day becomes CEO",
+   "text": "He takes over as chairman and chief executive.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "2006",
+   "year": "Aug",
+   "cat": "corporate",
+   "title": "Layoffs by email",
+   "text": "About 400 headquarters employees are told by email that their jobs are gone.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "2006",
+   "year": "Dec 31",
+   "cat": "ops",
+   "title": "505 fewer stores",
+   "text": "Company stores fall from 4,972 to 4,467, the only large cut before bankruptcy.",
+   "src": [
+    9,
+    10
+   ]
+  },
+  {
+   "date": "2009",
+   "year": "Aug",
+   "cat": "corporate",
+   "title": "“The Shack”",
+   "text": "The company starts calling itself The Shack in advertising.",
+   "src": [
+    23,
+    36
+   ]
+  },
+  {
+   "date": "2011",
+   "year": "May",
+   "cat": "corporate",
+   "title": "James Gooch becomes CEO",
+   "text": "The former CFO is promoted from president.",
+   "src": [
+    19
+   ]
+  },
+  {
+   "date": "2012",
+   "year": "",
+   "cat": "money",
+   "title": "First annual loss in our data",
+   "text": "A net loss of $139.4M. The share price falls below $3.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "2013",
+   "year": "Feb",
+   "cat": "corporate",
+   "title": "Joseph Magnacca becomes CEO",
+   "text": "He arrives from Walgreens.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "2013",
+   "year": "Mar",
+   "cat": "ops",
+   "title": "Out of Target",
+   "text": "All 1,522 Target Mobile centers are closed or handed off by March 31.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "2013",
+   "year": "",
+   "cat": "money",
+   "title": "A $400.2M loss",
+   "text": "Equity falls to $206.4M.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "2014",
+   "year": "Feb 2",
+   "cat": "corporate",
+   "title": "“The ’80s called”",
+   "text": "A Super Bowl ad mocks the company’s own old stores.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "2014",
+   "year": "Nov 1",
+   "cat": "money",
+   "title": "$43.3M in cash",
+   "text": "Down from $908.2M at the end of 2009.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "2015",
+   "year": "Feb 5",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "Filed in Delaware with a plan to sell up to 2,400 stores to a Standard General affiliate.",
+   "src": [
+    15,
+    20,
+    25
+   ]
+  },
+  {
+   "date": "2015",
+   "year": "Apr",
+   "cat": "death",
+   "title": "1,743 stores sold",
+   "text": "General Wireless buys them; many are co-branded with Sprint. The rest close.",
+   "src": [
+    16,
+    21
+   ]
+  },
+  {
+   "date": "2017",
+   "year": "Mar",
+   "cat": "death",
+   "title": "Second bankruptcy",
+   "text": "General Wireless files for Chapter 11 and starts closing stores.",
+   "src": [
+    26
+   ]
+  },
+  {
+   "date": "2020",
+   "year": "Nov",
+   "cat": "death",
+   "title": "Sold to an e-commerce roll-up",
+   "text": "Retail Ecommerce Ventures buys the brands.",
+   "src": [
+    28,
+    29
+   ]
+  },
+  {
+   "date": "2022",
+   "year": "",
+   "cat": "death",
+   "title": "A crypto token",
+   "text": "radioshack.com becomes a waitlist for a cryptocurrency project.",
+   "src": [
+    32,
+    33
+   ]
+  },
+  {
+   "date": "2023",
+   "year": "May",
+   "cat": "death",
+   "title": "Unicomer buys the brand",
+   "text": "The Salvadoran retailer acquires the IP in about 70 countries.",
+   "src": [
+    30,
+    31
+   ]
+  }
+ ]
+}
