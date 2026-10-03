@@ -1,0 +1,809 @@
+{
+ "kicker": "The map",
+ "title": "Everywhere, and too many",
+ "lede": "At the end of 2013, a year before bankruptcy, RadioShack still operated 4,297 company stores in every state but Alaska, plus 901 dealer outlets that reached the smallest towns. Two years of losses had closed only 179 company stores since 2009.",
+ "figure": {
+  "title": "RadioShack’s footprint, from one store to 5,289 and back",
+  "whatItShows": "where the chain began, where it was run from, and how many company stores and dealer outlets each state had before the end. Step through the timeline: the states shade in when we have state-level store counts (2009 and 2013).",
+  "caption": "Store counts by state are from the store tables in the 2013 and 2009 10-Ks[^11][^13]. Puerto Rico (58 stores) and the U.S. Virgin Islands (4) are not drawn. Base map: U.S. Census Bureau via us-atlas[^34]."
+ },
+ "legend": [
+  {
+   "cat": "e",
+   "label": "Where it began"
+  },
+  {
+   "cat": "c",
+   "label": "Headquarters"
+  }
+ ],
+ "pins": [
+  {
+   "id": "bos",
+   "label": "1",
+   "cat": "e",
+   "ll": [
+    -71.06,
+    42.36
+   ],
+   "offset": [
+    34,
+    22
+   ],
+   "title": "Boston, MA: where it began",
+   "text": "The first store opened here in 1921.",
+   "src": [
+    28
+   ],
+   "from": "1921",
+   "when": "1921"
+  },
+  {
+   "id": "fw",
+   "label": "2",
+   "cat": "c",
+   "ll": [
+    -97.33,
+    32.75
+   ],
+   "offset": [
+    -30,
+    -26
+   ],
+   "title": "Fort Worth, TX: headquarters",
+   "text": "Tandy bought the chain in 1963 and ran it from here. The last head office was at 300 RadioShack Circle.",
+   "src": [
+    18,
+    13
+   ],
+   "from": "1963",
+   "when": "from 1963"
+  }
+ ],
+ "choropleth": {
+  "layers": {
+   "s09": {
+    "title": "Company stores, Dec 31, 2009",
+    "values": {
+     "Alabama": 48,
+     "Alaska": 0,
+     "Arizona": 79,
+     "Arkansas": 25,
+     "California": 550,
+     "Colorado": 63,
+     "Connecticut": 70,
+     "Delaware": 19,
+     "Florida": 299,
+     "Georgia": 100,
+     "Hawaii": 24,
+     "Idaho": 19,
+     "Illinois": 173,
+     "Indiana": 98,
+     "Iowa": 35,
+     "Kansas": 37,
+     "Kentucky": 56,
+     "Louisiana": 67,
+     "Maine": 22,
+     "Maryland": 98,
+     "Massachusetts": 113,
+     "Michigan": 120,
+     "Minnesota": 62,
+     "Mississippi": 37,
+     "Missouri": 72,
+     "Montana": 7,
+     "Nebraska": 21,
+     "Nevada": 38,
+     "New Hampshire": 32,
+     "New Jersey": 159,
+     "New Mexico": 32,
+     "New York": 333,
+     "North Carolina": 124,
+     "North Dakota": 6,
+     "Ohio": 187,
+     "Oklahoma": 39,
+     "Oregon": 51,
+     "Pennsylvania": 210,
+     "Rhode Island": 21,
+     "South Carolina": 53,
+     "South Dakota": 11,
+     "Tennessee": 68,
+     "Texas": 374,
+     "Utah": 28,
+     "Vermont": 9,
+     "Virginia": 124,
+     "Washington": 91,
+     "West Virginia": 28,
+     "Wisconsin": 70,
+     "Wyoming": 7,
+     "District of Columbia": 13
+    },
+    "scale": [
+     10,
+     25,
+     50,
+     100,
+     200,
+     300
+    ],
+    "colors": [
+     "#f8f1ea",
+     "#f6e1d6",
+     "#f1cbb9",
+     "#e9ad95",
+     "#de8b70",
+     "#c96a50",
+     "#a8452f"
+    ],
+    "labels": [
+     "<10",
+     "10–24",
+     "25–49",
+     "50–99",
+     "100–199",
+     "200–299",
+     "300+"
+    ],
+    "tip": "{v} company stores"
+   },
+   "s13": {
+    "title": "Company stores, Dec 31, 2013",
+    "values": {
+     "Alabama": 48,
+     "Alaska": 0,
+     "Arizona": 61,
+     "Arkansas": 27,
+     "California": 532,
+     "Colorado": 60,
+     "Connecticut": 67,
+     "Delaware": 18,
+     "Florida": 283,
+     "Georgia": 98,
+     "Hawaii": 24,
+     "Idaho": 17,
+     "Illinois": 161,
+     "Indiana": 92,
+     "Iowa": 30,
+     "Kansas": 35,
+     "Kentucky": 52,
+     "Louisiana": 68,
+     "Maine": 22,
+     "Maryland": 95,
+     "Massachusetts": 110,
+     "Michigan": 118,
+     "Minnesota": 52,
+     "Mississippi": 36,
+     "Missouri": 70,
+     "Montana": 5,
+     "Nebraska": 18,
+     "Nevada": 35,
+     "New Hampshire": 31,
+     "New Jersey": 152,
+     "New Mexico": 31,
+     "New York": 328,
+     "North Carolina": 116,
+     "North Dakota": 6,
+     "Ohio": 180,
+     "Oklahoma": 37,
+     "Oregon": 51,
+     "Pennsylvania": 210,
+     "Rhode Island": 20,
+     "South Carolina": 56,
+     "South Dakota": 10,
+     "Tennessee": 66,
+     "Texas": 356,
+     "Utah": 27,
+     "Vermont": 9,
+     "Virginia": 117,
+     "Washington": 88,
+     "West Virginia": 28,
+     "Wisconsin": 64,
+     "Wyoming": 6,
+     "District of Columbia": 12
+    },
+    "scale": [
+     10,
+     25,
+     50,
+     100,
+     200,
+     300
+    ],
+    "colors": [
+     "#f8f1ea",
+     "#f6e1d6",
+     "#f1cbb9",
+     "#e9ad95",
+     "#de8b70",
+     "#c96a50",
+     "#a8452f"
+    ],
+    "labels": [
+     "<10",
+     "10–24",
+     "25–49",
+     "50–99",
+     "100–199",
+     "200–299",
+     "300+"
+    ],
+    "tip": "{v} company stores",
+    "also": [
+     {
+      "layer": "d13",
+      "tip": "{v} dealer outlets"
+     }
+    ]
+   },
+   "ch": {
+    "title": "Change in company stores, 2009–2013",
+    "values": {
+     "Alabama": 0,
+     "Alaska": 0,
+     "Arizona": -18,
+     "Arkansas": 2,
+     "California": -18,
+     "Colorado": -3,
+     "Connecticut": -3,
+     "Delaware": -1,
+     "Florida": -16,
+     "Georgia": -2,
+     "Hawaii": 0,
+     "Idaho": -2,
+     "Illinois": -12,
+     "Indiana": -6,
+     "Iowa": -5,
+     "Kansas": -2,
+     "Kentucky": -4,
+     "Louisiana": 1,
+     "Maine": 0,
+     "Maryland": -3,
+     "Massachusetts": -3,
+     "Michigan": -2,
+     "Minnesota": -10,
+     "Mississippi": -1,
+     "Missouri": -2,
+     "Montana": -2,
+     "Nebraska": -3,
+     "Nevada": -3,
+     "New Hampshire": -1,
+     "New Jersey": -7,
+     "New Mexico": -1,
+     "New York": -5,
+     "North Carolina": -8,
+     "North Dakota": 0,
+     "Ohio": -7,
+     "Oklahoma": -2,
+     "Oregon": 0,
+     "Pennsylvania": 0,
+     "Rhode Island": -1,
+     "South Carolina": 3,
+     "South Dakota": -1,
+     "Tennessee": -2,
+     "Texas": -18,
+     "Utah": -1,
+     "Vermont": 0,
+     "Virginia": -7,
+     "Washington": -3,
+     "West Virginia": 0,
+     "Wisconsin": -6,
+     "Wyoming": -1,
+     "District of Columbia": -1
+    },
+    "scale": [
+     -15,
+     -8,
+     -3,
+     0,
+     1
+    ],
+    "colors": [
+     "#c96a50",
+     "#e9ad95",
+     "#f6e1d6",
+     "#efebe4",
+     "#e3eedd",
+     "#bfe0b5"
+    ],
+    "labels": [
+     "−15 or more",
+     "−8 to −14",
+     "−3 to −7",
+     "−1 to −2",
+     "0",
+     "+1 or more"
+    ],
+    "tip": "{v} company stores, 2009 to 2013"
+   },
+   "d13": {
+    "title": "Dealer outlets, Dec 31, 2013",
+    "values": {
+     "Alabama": 17,
+     "Alaska": 20,
+     "Arizona": 15,
+     "Arkansas": 26,
+     "California": 33,
+     "Colorado": 22,
+     "Connecticut": 1,
+     "Delaware": 0,
+     "Florida": 26,
+     "Georgia": 29,
+     "Hawaii": 0,
+     "Idaho": 11,
+     "Illinois": 36,
+     "Indiana": 30,
+     "Iowa": 38,
+     "Kansas": 21,
+     "Kentucky": 23,
+     "Louisiana": 13,
+     "Maine": 11,
+     "Maryland": 4,
+     "Massachusetts": 5,
+     "Michigan": 37,
+     "Minnesota": 29,
+     "Mississippi": 11,
+     "Missouri": 27,
+     "Montana": 23,
+     "Nebraska": 15,
+     "Nevada": 5,
+     "New Hampshire": 5,
+     "New Jersey": 4,
+     "New Mexico": 10,
+     "New York": 14,
+     "North Carolina": 23,
+     "North Dakota": 3,
+     "Ohio": 23,
+     "Oklahoma": 22,
+     "Oregon": 19,
+     "Pennsylvania": 22,
+     "Rhode Island": 0,
+     "South Carolina": 13,
+     "South Dakota": 12,
+     "Tennessee": 22,
+     "Texas": 52,
+     "Utah": 14,
+     "Vermont": 7,
+     "Virginia": 27,
+     "Washington": 23,
+     "West Virginia": 8,
+     "Wisconsin": 37,
+     "Wyoming": 13,
+     "District of Columbia": 0
+    },
+    "scale": [
+     5,
+     10,
+     20,
+     30,
+     40
+    ],
+    "colors": [
+     "#f3f4f7",
+     "#dde7f2",
+     "#c3d7ec",
+     "#a2c0e0",
+     "#7fa4cf",
+     "#5a83b0"
+    ],
+    "labels": [
+     "<5",
+     "5–9",
+     "10–19",
+     "20–29",
+     "30–39",
+     "40+"
+    ],
+    "tip": "{v} dealer outlets",
+    "also": [
+     {
+      "layer": "s13",
+      "tip": "{v} company stores"
+     }
+    ]
+   }
+  }
+ },
+ "steps": [
+  {
+   "date": "1921",
+   "label": "1921",
+   "title": "A radio-parts store opens in Boston",
+   "text": "Theodore and Milton Deutschmann open the first store, according to the brand’s 2020 owner.",
+   "src": [
+    28
+   ],
+   "pins": [
+    "bos"
+   ],
+   "note": {
+    "box": [
+     640,
+     60
+    ],
+    "text": [
+     "1921: the first store,",
+     "downtown Boston."
+    ],
+    "at": "bos"
+   },
+   "stat": {
+    "value": "1",
+    "label": "store"
+   }
+  },
+  {
+   "date": "1963",
+   "label": "1963",
+   "title": "Tandy buys the chain",
+   "text": "Charles Tandy’s Fort Worth company buys the struggling Boston chain and makes it profitable within two years.",
+   "src": [
+    18
+   ],
+   "pins": [
+    "fw"
+   ],
+   "note": {
+    "box": [
+     470,
+     470
+    ],
+    "text": [
+     "1963: Tandy buys it and runs",
+     "it from Fort Worth."
+    ],
+    "at": "fw"
+   }
+  },
+  {
+   "date": "1988",
+   "label": "1988",
+   "title": "More than 7,000 locations",
+   "text": "Company stores and dealers combined pass 7,000, a store within a short drive of almost every American.",
+   "src": [
+    18
+   ],
+   "pins": [],
+   "stat": {
+    "value": "7,000+",
+    "label": "locations"
+   }
+  },
+  {
+   "date": "2001-12-31",
+   "label": "2001",
+   "title": "The peak: 5,289 company stores",
+   "text": "The most the chain ever operated, plus 2,119 dealer outlets. State-level counts for 2001 are not in our sources, so the map stays unshaded.",
+   "src": [
+    6
+   ],
+   "pins": [],
+   "stat": {
+    "value": "5,289",
+    "label": "company stores"
+   }
+  },
+  {
+   "date": "2009-12-31",
+   "label": "2009",
+   "title": "Company stores by state, 2009",
+   "text": "The first year we have state-level counts: 4,476 company stores, with California, Texas, New York and Florida the biggest.",
+   "src": [
+    9,
+    13
+   ],
+   "pins": [],
+   "note": {
+    "box": [
+     14,
+     420
+    ],
+    "text": [
+     "California: 550 company",
+     "stores in 2009."
+    ],
+    "ll": [
+     -119.6,
+     37.3
+    ]
+   },
+   "stat": {
+    "value": "4,476",
+    "label": "company stores"
+   },
+   "layer": "s09"
+  },
+  {
+   "date": "2013-12-30",
+   "label": "2013",
+   "title": "Company stores by state, 2013",
+   "text": "A year before bankruptcy, 4,297 company stores were still open. Hover over a state for its count of stores and dealer outlets.",
+   "src": [
+    13
+   ],
+   "pins": [],
+   "note": {
+    "box": [
+     250,
+     520
+    ],
+    "text": [
+     "Texas: 356, and",
+     "the head office."
+    ],
+    "ll": [
+     -99.5,
+     31.6
+    ]
+   },
+   "stat": {
+    "value": "4,297",
+    "label": "company stores"
+   },
+   "layer": "s13"
+  },
+  {
+   "date": "2013-12-31",
+   "label": "2009→13",
+   "title": "Four years of closures",
+   "text": "Net closures of 179 stores between 2009 and 2013, about 4% of the chain. Arizona, California and Texas lost 18 each, the most.",
+   "src": [
+    9,
+    13
+   ],
+   "pins": [],
+   "note": {
+    "box": [
+     14,
+     440
+    ],
+    "text": [
+     "Arizona, California and Texas",
+     "lost 18 stores each, the most."
+    ],
+    "ll": [
+     -111.7,
+     34.3
+    ]
+   },
+   "stat": {
+    "value": "−179",
+    "label": "net store closures (derived)"
+   },
+   "layer": "ch"
+  },
+  {
+   "date": "2014-01-01",
+   "label": "Dealers",
+   "title": "Where the dealers were",
+   "text": "Dealer outlets filled in where company stores were thin: Alaska had no company stores but 20 dealers; Iowa had 38.",
+   "src": [
+    13
+   ],
+   "pins": [],
+   "note": {
+    "box": [
+     300,
+     30
+    ],
+    "text": [
+     "Dealers filled in where company",
+     "stores were thin: Montana 23, Iowa 38."
+    ],
+    "ll": [
+     -109.6,
+     47
+    ]
+   },
+   "stat": {
+    "value": "1,788",
+    "label": "dealer outlets, 2013"
+   },
+   "layer": "d13"
+  },
+  {
+   "date": "2015-02-05",
+   "label": "2015",
+   "title": "Chapter 11, and 1,743 stores sold",
+   "text": "RadioShack files in Delaware. General Wireless buys 1,743 stores, many co-branded with Sprint; the rest close.",
+   "src": [
+    15,
+    16,
+    21
+   ],
+   "pins": [
+    "fw"
+   ],
+   "stat": {
+    "value": "1,743",
+    "label": "stores sold"
+   }
+  },
+  {
+   "date": "2017-03-01",
+   "label": "2017",
+   "title": "A second bankruptcy",
+   "text": "General Wireless files for Chapter 11 and starts closing the stores it bought.",
+   "src": [
+    26
+   ],
+   "pins": [
+    "fw"
+   ],
+   "stat": {
+    "value": "2nd",
+    "label": "bankruptcy"
+   }
+  },
+  {
+   "date": "2023-05-01",
+   "label": "2023",
+   "title": "The brand leaves the U.S. map",
+   "text": "Unicomer, a Salvadoran retailer, buys the RadioShack IP for about 70 countries. What remains in the U.S. is mostly independent dealer stores and online sales.",
+   "src": [
+    30,
+    31
+   ],
+   "pins": [],
+   "note": {
+    "box": [
+     560,
+     480
+    ],
+    "text": [
+     "2023: owned from El Salvador.",
+     "The map is no longer the story."
+    ],
+    "ll": [
+     -89.2,
+     25.5
+    ]
+   },
+   "stat": {
+    "value": "~70",
+    "label": "countries, under Unicomer"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chart",
+   "id": "countChart",
+   "title": "U.S. company stores and dealer outlets, 1995–2014",
+   "subtitle": "At year end. Dealer counts stop after 2004 in our extracted data. 2014 is November 1.",
+   "chart": {
+    "type": "bar",
+    "stacked": true,
+    "labels": [
+     "1995",
+     "1996",
+     "1997",
+     "1998",
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014*"
+    ],
+    "y": {
+     "min": 0,
+     "max": 8000,
+     "format": "num"
+    },
+    "series": [
+     {
+      "label": "Company-operated stores",
+      "data": [
+       4831,
+       4942,
+       4972,
+       5039,
+       5087,
+       5109,
+       5289,
+       5161,
+       5121,
+       5046,
+       4972,
+       4467,
+       4447,
+       4453,
+       4476,
+       4486,
+       4476,
+       4395,
+       4297,
+       4216
+      ],
+      "colors": [
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "red",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink",
+       "ink"
+      ],
+      "stack": "s"
+     },
+     {
+      "label": "Dealer and franchise outlets",
+      "data": [
+       2005,
+       1927,
+       1934,
+       1991,
+       2099,
+       2090,
+       2119,
+       2052,
+       1921,
+       1788,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "color": "sand",
+      "stack": "s"
+     }
+    ],
+    "notes": [
+     {
+      "s": 0,
+      "i": 6,
+      "text": [
+       "2001: 5,289 company stores,",
+       "the peak."
+      ],
+      "dx": -40,
+      "dy": -150
+     },
+     {
+      "s": 0,
+      "i": 18,
+      "text": [
+       "2013: 4,297, a year before",
+       "bankruptcy. 1,743 were sold in 2015."
+      ],
+      "dx": -260,
+      "dy": -150
+     }
+    ]
+   },
+   "source": "10-K store tables[^1][^4][^6][^8][^10][^13], Q3 2014 10-Q[^14], April 2015 8-K[^16]. The 1996 figure includes 53 McDuff stores."
+  },
+  {
+   "kind": "note",
+   "body": "After April 2015 we have no reliable count of RadioShack-branded stores. General Wireless’s 2017 filing planned to close or hand over 552 stores in its first month, and later RadioShack locations in the U.S. are dealer or franchise stores.[^26][^27]"
+  }
+ ]
+}
