@@ -49,7 +49,7 @@ sections, missing drawings or images, unknown tiers or categories, and unknown b
 
 ## Deploy
 
-Vercel project `spectre-brands`, connected to this repo; every push to `main` deploys to production.
+Vercel project `spectre-brands` (live at https://spectre-brands.vercel.app), connected to this repo; every push to `main` deploys to production.
 `vercel.json` sets `buildCommand: node build.mjs`, `outputDirectory: dist`, `trailingSlash: true`.
 
 ## Images
