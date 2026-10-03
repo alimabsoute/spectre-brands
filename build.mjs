@@ -16,11 +16,9 @@ const rd = p => fs.readFileSync(p, 'utf8');
 const readJSON = p => { try { return JSON.parse(rd(p)); } catch (e) { throw new Error(`Invalid JSON in ${path.relative(ROOT, p)}: ${e.message}`); } };
 const errors = [], warnings = [];
 
-// Copy a file; files stored as <name>.b64 (base64 text) are decoded to <name>.
 function copyAsset(src, dst) {
   fs.mkdirSync(path.dirname(dst), { recursive: true });
-  if (src.endsWith('.b64')) fs.writeFileSync(dst.slice(0, -4), Buffer.from(rd(src).replace(/\s+/g, ''), 'base64'));
-  else fs.copyFileSync(src, dst);
+  fs.copyFileSync(src, dst);
 }
 function copyDir(src, dst) {
   if (!fs.existsSync(src)) return;
@@ -60,7 +58,7 @@ function makeCtx(c) {
   };
   ctx.img = file => {
     const p = path.join(c.dir, file);
-    if (!fs.existsSync(p) && !fs.existsSync(p + '.b64')) errors.push(`${c.slug}: missing image ${file}`);
+    if (!fs.existsSync(p)) errors.push(`${c.slug}: missing image ${file}`);
     return `/${c.slug}/${file}`;
   };
   return ctx;
