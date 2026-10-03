@@ -1,0 +1,379 @@
+{
+ "kicker": "Timeline",
+ "title": "Seven years, 34 moments",
+ "lede": "From incorporation to the final filing, with the market and the rivals alongside. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "marketing": {
+   "label": "Marketing",
+   "color": "#93743a"
+  },
+  "market": {
+   "label": "Market",
+   "color": "#888888"
+  },
+  "death": {
+   "label": "Death & estate",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "Oct 7",
+   "year": "1998",
+   "cat": "corporate",
+   "title": "Incorporated",
+   "text": "Pets.com, Inc. is incorporated in California.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Feb 17",
+   "year": "1999",
+   "cat": "corporate",
+   "title": "Operations begin",
+   "text": "Buys the Pets.com domain and web store from a third party. The founding-era site described itself as “a division of WebMagic™”.",
+   "src": [
+    1,
+    36
+   ]
+  },
+  {
+   "date": "Mar 1999",
+   "year": "",
+   "cat": "corporate",
+   "title": "Julie Wainwright named CEO",
+   "text": "The former Reel.com chief executive joins as CEO and director. Chris Deyo follows as president in April.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Apr 1999",
+   "year": "",
+   "cat": "money",
+   "title": "$10.0M Series A and an Amazon ad deal",
+   "text": "5,781,862 Series A preferred shares. An advertising agreement with Amazon.com is dated Apr 22.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "May 14",
+   "year": "1999",
+   "cat": "rivals",
+   "title": "PetSmart and Idealab form PetSmart.com",
+   "text": "A 50/50 joint venture in Pasadena. Each parent contributes $10M in cash.",
+   "src": [
+    32
+   ]
+  },
+  {
+   "date": "Jun 1999",
+   "year": "",
+   "cat": "money",
+   "title": "$50.0M Series B",
+   "text": "Amazon becomes the largest shareholder.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jul 1",
+   "year": "1999",
+   "cat": "corporate",
+   "title": "Union City distribution center",
+   "text": "Sublease of 143,232 sq ft at 33201 Dowe Ave. Web store version 2 launches in July.",
+   "src": [
+    1,
+    6
+   ]
+  },
+  {
+   "date": "Jul 1999",
+   "year": "",
+   "cat": "rivals",
+   "title": "Petopia raises $66M",
+   "text": "The Petco-backed rival closes a large round.",
+   "src": [
+    28
+   ]
+  },
+  {
+   "date": "Sep 27",
+   "year": "1999",
+   "cat": "rivals",
+   "title": "PetSmart.com raises $50M+",
+   "text": "A second round for the PetSmart/Idealab venture.",
+   "src": [
+    33
+   ]
+  },
+  {
+   "date": "Nov 1999",
+   "year": "",
+   "cat": "rivals",
+   "title": "Petstore.com raises $97M",
+   "text": "Discovery Communications becomes its largest shareholder.",
+   "src": [
+    31
+   ]
+  },
+  {
+   "date": "Nov 25",
+   "year": "1999",
+   "cat": "marketing",
+   "title": "Macy’s parade balloon",
+   "text": "A sock-puppet balloon flies in the Thanksgiving Day Parade.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Dec 1999",
+   "year": "",
+   "cat": "corporate",
+   "title": "Indiana DC leased; S-1 filed",
+   "text": "A distribution center in Greenwood, near Indianapolis, is leased Dec 7. Another $49.2M of preferred stock is raised in Nov–Dec, and the S-1 is filed.",
+   "src": [
+    1,
+    6
+   ]
+  },
+  {
+   "date": "Dec 1999",
+   "year": "",
+   "cat": "rivals",
+   "title": "Petopia adds $35M",
+   "text": "Total funding is reported at about $114M.",
+   "src": [
+    28
+   ]
+  },
+  {
+   "date": "Jan 18",
+   "year": "2000",
+   "cat": "marketing",
+   "title": "Disney/ABC airtime for stock",
+   "text": "1,378,000 Series C shares are issued for ABC network media time valued at $11.02M.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jan 30",
+   "year": "2000",
+   "cat": "marketing",
+   "title": "Super Bowl XXXIV ad",
+   "text": "The sock puppet gets its own spot on ABC, widely reported at about $1.2M (secondary source).",
+   "src": [
+    38
+   ]
+  },
+  {
+   "date": "Feb 2000",
+   "year": "",
+   "cat": "rivals",
+   "title": "PetSmart.com files a $115M IPO",
+   "text": "The stock market is still open to e-tailers.",
+   "src": [
+    35
+   ]
+  },
+  {
+   "date": "Feb 11",
+   "year": "2000",
+   "cat": "money",
+   "title": "IPO at $11",
+   "text": "7.5M shares on Nasdaq as IPET: $82.5M gross, about $75.3M net.",
+   "src": [
+    1,
+    6
+   ]
+  },
+  {
+   "date": "Mar 10",
+   "year": "2000",
+   "cat": "market",
+   "title": "The Nasdaq peaks",
+   "text": "It closes at 5,048.62, its bubble high. By year-end it is 2,470.52.",
+   "src": [
+    26
+   ]
+  },
+  {
+   "date": "Jun 13",
+   "year": "2000",
+   "cat": "marketing",
+   "title": "$20 sock puppets ship",
+   "text": "Slate calls it “The Puppet That Ate a Dot-Com.”",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Jul 2000",
+   "year": "",
+   "cat": "corporate",
+   "title": "Buys Petstore.com",
+   "text": "All stock: 5.8M common shares plus preferred stock. It brings in $3M of cash.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Sep 30",
+   "year": "2000",
+   "cat": "money",
+   "title": "$23.1M cash left",
+   "text": "Cumulative net loss: $146.6M. Merrill Lynch is shopping the company.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Oct 2000",
+   "year": "",
+   "cat": "rivals",
+   "title": "Petopia lays off most staff",
+   "text": "About 60% of employees are cut.",
+   "src": [
+    30
+   ]
+  },
+  {
+   "date": "Nov 7",
+   "year": "2000",
+   "cat": "death",
+   "title": "Wind-down announced",
+   "text": "About 255 of 320 staff are laid off and IPET closes at $0.22. “No party was prepared to provide capital or acquire the company.”",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Nov 9",
+   "year": "2000",
+   "cat": "death",
+   "title": "The store closes",
+   "text": "“We have closed our virtual doors.” Orders placed before 11am PT ship.",
+   "src": [
+    36
+   ]
+  },
+  {
+   "date": "Nov 30",
+   "year": "2000",
+   "cat": "rivals",
+   "title": "PetSmart.com pulls its IPO",
+   "text": "PetSmart later raises its stake to 81%.",
+   "src": [
+    34
+   ]
+  },
+  {
+   "date": "Dec 2000",
+   "year": "",
+   "cat": "rivals",
+   "title": "Petco buys Petopia’s assets",
+   "text": "Petopia cancels its planned IPO in Feb 2001.",
+   "src": [
+    30,
+    29
+   ]
+  },
+  {
+   "date": "Dec 2000",
+   "year": "",
+   "cat": "death",
+   "title": "Domain sold to PetSmart.com",
+   "text": "$375,000 for the domain names and IP. The sock puppet is excluded.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Dec 28",
+   "year": "2000",
+   "cat": "death",
+   "title": "Proxy: “up to approximately $0.25”",
+   "text": "The board asks stockholders to approve dissolution.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "Jan 18",
+   "year": "2001",
+   "cat": "death",
+   "title": "Dissolved and delisted",
+   "text": "Renamed IPET Holdings. Last close: $0.125. The remaining staff resign.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Sep 28",
+   "year": "2001",
+   "cat": "death",
+   "title": "Payout #1: $0.09",
+   "text": "Initial liquidating distribution.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "May 2002",
+   "year": "",
+   "cat": "marketing",
+   "title": "Puppet joins 1-800-BarNone",
+   "text": "The rights were bought for $125,000. New slogan: “Everyone deserves a second chance.”",
+   "src": [
+    17,
+    18
+   ]
+  },
+  {
+   "date": "Sep 27",
+   "year": "2002",
+   "cat": "death",
+   "title": "Payout #2: $0.075",
+   "text": "Second liquidating distribution.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Jun 22",
+   "year": "2004",
+   "cat": "death",
+   "title": "Final payout: $0.00747",
+   "text": "The shares are declared worthless.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Jun 3",
+   "year": "2005",
+   "cat": "death",
+   "title": "Registration ends",
+   "text": "Form 15 filed. The company leaves the public record.",
+   "src": [
+    23
+   ]
+  }
+ ]
+}

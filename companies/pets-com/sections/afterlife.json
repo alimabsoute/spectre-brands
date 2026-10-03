@@ -1,0 +1,42 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Reincarnated",
+   "color": "var(--gold)",
+   "title": "The sock puppet",
+   "text": "Hakan Enterprises bought the rights for **$125,000** in 2001.[^17] In May 2002 it became the spokes-dog for 1-800-BarNone, a car-loan company for people with bad credit: “Everyone deserves a second chance.”[^18]"
+  },
+  {
+   "status": "Acquired",
+   "color": "var(--blue)",
+   "title": "The domain",
+   "text": "PetSmart.com paid **$375,000** for the domain names, trademarks and related IP: $225K on signing and $150K at closing.[^6] By February 2001, pets.com welcomed visitors to PETsMART.com.[^36]"
+  },
+  {
+   "status": "Buried",
+   "color": "var(--red)",
+   "title": "The company",
+   "text": "Renamed IPET Holdings, with Richard G. Couch as sole director, based in Danville, CA.[^6] The proxy had estimated “up to approximately $0.25” a share[^24]. Holders got $0.172 in total, and the registration ended in 2005.[^23]"
+  },
+  {
+   "status": "Written off",
+   "color": "var(--mute)",
+   "title": "Amazon’s stake",
+   "text": "About 30% as of Oct 31, 2000. A spokeswoman said its value was “down to zero.”[^11]"
+  },
+  {
+   "status": "Dispersed",
+   "color": "var(--mute)",
+   "title": "The 320 employees",
+   "text": "About 255 were laid off on Nov 7, 2000.[^5] The 26 who were left at year-end resigned after the January 2001 vote.[^6]"
+  },
+  {
+   "status": "Vindicated",
+   "color": "var(--green)",
+   "title": "The idea",
+   "text": "Chewy did $11.86B in FY2024 net sales, nearly 80% of it from Autoship subscriptions.[^19]"
+  }
+ ]
+}

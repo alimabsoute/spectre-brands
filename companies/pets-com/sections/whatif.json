@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Price for profit",
+   "actual": "Pets.com sold products below their delivered cost. Cost of goods sold, which by the company’s definition includes outbound and inbound shipping, ran above net sales every quarter, peaking at a −211% gross margin in Q3 1999.[^4] The prospectus acknowledged it might offer “shipping below our actual costs to attract customers.”[^1]",
+   "whatif": "Pricing heavy, low-margin goods like litter and kibble at or above landed cost, or adding a shipping threshold, would have meant slower growth but positive unit economics. By Q3 2000 the gross margin was −3%, almost break-even.[^4] Getting there a year earlier might have stretched the runway past the 2000 funding freeze."
+  },
+  {
+   "tab": "Skip the Super Bowl",
+   "actual": "Marketing and sales spend hit $30.7M in Q4 1999 and $28.9M in Q1 2000, the Super Bowl quarter, while quarterly sales were $5.2M and $7.7M.[^2] eCompany Now, citing PC Data Online, reported that site traffic actually fell the month after the Super Bowl ad.[^15]",
+   "whatif": "Spending in channels aimed at pet owners (vets, plus the Amazon cross-promotion it already had[^1]) instead of mass-market TV could have kept tens of millions in the bank. That would have been enough to cover the roughly $20M an analyst said it needed to keep going.[^11]"
+  },
+  {
+   "tab": "Consolidate early",
+   "actual": "Four VC-funded online pet stores fought each other on price (see Section 08). Pets.com didn’t absorb Petstore.com until July 2000[^7], after the IPO window had closed.",
+   "whatif": "A merger in 1999, while private capital was still plentiful, could have removed a price war and combined marketing budgets. Chewy’s later dominance suggests the category could support one well-run leader, but probably not four money-losing ones."
+  }
+ ]
+}
