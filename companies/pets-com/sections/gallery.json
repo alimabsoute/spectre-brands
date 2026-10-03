@@ -1,0 +1,112 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Lime green, a black tab bar, and a sock puppet",
+ "label": "Brand gallery",
+ "lede": "Pets.com was a brand before it was a business: a talking sock puppet with a microphone, a lime-green storefront, a Super Bowl spot and a balloon in the 1999 Macy’s Thanksgiving Day Parade. Here are the marks as they survive in the archive, and our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/logo-2000.avif",
+   "date": "Feb 2000",
+   "caption": "The pets.com logo, cropped from the archived home page."
+  },
+  {
+   "image": "img/ad-2000-sock-puppet.avif",
+   "date": "Mar 2000",
+   "caption": "The sock puppet as it appeared on the site."
+  },
+  {
+   "image": "img/archive-2000-03-puppet-gear.avif",
+   "date": "Mar 2000",
+   "caption": "The mascot had its own store department, “sock puppet gear.”"
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/sock-puppet-mic.svg",
+   "title": "The spokes-puppet.",
+   "caption": "Microphone in hand, slogan in the air: “Because pets can’t drive.”"
+  },
+  {
+   "art": "art/parade-balloon.svg",
+   "title": "The parade.",
+   "caption": "The puppet flew as a 36-foot balloon in the 1999 Macy’s Thanksgiving Day Parade.[^13]"
+  },
+  {
+   "art": "art/shipping-box.svg",
+   "title": "The problem.",
+   "caption": "Forty pounds of dog food in a box, shipped below cost."
+  }
+ ],
+ "recreation": {
+  "title": "The look, rebuilt (circa 2000)",
+  "font": "'Varela Round', Verdana, sans-serif",
+  "bar": {
+   "bg": "#99cc33",
+   "fg": "#111111",
+   "word": "pets.com",
+   "sub": "because pets can’t drive · a recreation"
+  },
+  "nav": {
+   "bg": "#111111",
+   "fg": "#1d3f8a",
+   "tab": "#ffffff",
+   "tabs": true,
+   "items": [
+    "home",
+    "dogs",
+    "cats",
+    "fish",
+    "birds",
+    "reptiles",
+    "small pets",
+    "sock puppet"
+   ]
+  },
+  "side": {
+   "bg": "#ffffcc",
+   "items": [
+    "Today’s Features",
+    "Holiday gift baskets",
+    "Anniversary sale",
+    "Ask the Vet",
+    "Potty Prompts"
+   ]
+  },
+  "buttons": {
+   "bg": "#1d3f8a",
+   "fg": "#ffffff",
+   "items": [
+    "shopping cart",
+    "my account",
+    "help"
+   ]
+  },
+  "art": "art/sock-puppet.svg",
+  "headline": "10% off everything",
+  "subhead": "Celebrate our anniversary",
+  "body": "Text paraphrased from the Feb 2000 archived home page. The layout is our recreation, not a copy of the original site."
+ },
+ "swatches": [
+  {
+   "hex": "#99cc33",
+   "label": "Header lime"
+  },
+  {
+   "hex": "#111111",
+   "label": "Tab bar"
+  },
+  {
+   "hex": "#1d3f8a",
+   "label": "Pill buttons (approx.)"
+  },
+  {
+   "hex": "#ffffcc",
+   "label": "Sidebar yellow"
+  },
+  {
+   "hex": "#a8321f",
+   "label": "Puppet mouth (drawing)"
+  }
+ ],
+ "disclaimer": "Colors were sampled from archived captures[^36]; the navy is approximate because of JPEG compression. Pets.com and the sock puppet were trademarks of their respective owners and appear here in historical and editorial context. Drawings are original recreations, not the trademarked character."
+}

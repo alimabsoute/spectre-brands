@@ -1,0 +1,345 @@
+{
+ "kicker": "The money",
+ "title": "Who owned it, and how fast the cash went",
+ "lede": "Pets.com raised about $188M in cash in under 20 months. Amazon was its largest owner. At the rate the company lost money, the tank never held more than about two quarters of runway.",
+ "blocks": [
+  {
+   "kind": "chart",
+   "id": "capChart",
+   "title": "The cap table after the IPO",
+   "subtitle": "Beneficial ownership on 29,544,737 shares outstanding after the offering. Hover over or tap a holder.",
+   "chart": {
+    "type": "doughnut",
+    "labels": [
+     "Amazon.com",
+     "Hummer Winblad",
+     "Greg McLemore",
+     "Bowman Capital",
+     "Catalyst (Disney)",
+     "Julie Wainwright",
+     "Chris Deyo",
+     "IPO public float (derived)",
+     "All other holders (derived)"
+    ],
+    "cutout": "58%",
+    "height": 340,
+    "y": {
+     "format": "pct"
+    },
+    "series": [
+     {
+      "label": "Ownership after the IPO",
+      "data": [
+       30.4,
+       15.8,
+       5.1,
+       4.7,
+       3.7,
+       3.1,
+       1.8,
+       25.4,
+       10.0
+      ],
+      "colors": [
+       "#1d1b18",
+       "#3d5f86",
+       "#93743a",
+       "#6f8f6a",
+       "#8a5a9a",
+       "#a8321f",
+       "#c9553f",
+       "#c9b48a",
+       "#ddd3c2"
+      ]
+     }
+    ]
+   },
+   "source": "424B4 prospectus, principal stockholders table[^1]. Percentages are beneficial ownership and include exercisable options, so they don’t sum exactly. “IPO public float” (7.5M shares) and “All other holders” are derived. Catalyst Investments is a Disney affiliate. Before the IPO, Amazon held 40.7%."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The runway countdown: cash at quarter end, and quarters of runway at that quarter’s loss rate (derived)",
+   "rows": [
+    {
+     "value": "$30.2M",
+     "text": "Dec 31, 1999: **0.7 quarters** at the Q4 ’99 loss of $42.4M[^1]"
+    },
+    {
+     "value": "$70.1M",
+     "text": "Mar 31, 2000: **1.8 quarters** after the IPO, at the Q1 loss of $39.1M[^2]"
+    },
+    {
+     "value": "$37.2M",
+     "text": "Jun 30, 2000: **1.5 quarters** at the Q2 loss of $24.1M[^3]"
+    },
+    {
+     "value": "$23.1M",
+     "text": "Sep 30, 2000: **1.1 quarters** at the Q3 loss of $21.7M. Shut down 38 days later.[^4]"
+    }
+   ],
+   "source": "Runway (derived) = cash ÷ that quarter’s net loss. Net loss includes non-cash charges, so actual cash burn was somewhat lower."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "chart",
+     "id": "stkChart",
+     "title": "IPET vs. the Nasdaq",
+     "subtitle": "Both indexed to 100 on IPO day, Feb 11, 2000. Shaded bars show IPET’s quarterly high–low range.",
+     "views": [
+      {
+       "label": "Linear",
+       "chart": {
+        "type": "line",
+        "from": "2000-02-11",
+        "to": "2001-01-26",
+        "y": {
+         "log": false,
+         "min": 0,
+         "max": 140,
+         "format": "num"
+        },
+        "series": [
+         {
+          "label": "Nasdaq (indexed to 100 on IPO day)",
+          "ref": "nasdaq",
+          "indexTo": "2000-02-11",
+          "color": "ink",
+          "width": 1.8
+         },
+         {
+          "label": "IPET documented closes (indexed)",
+          "color": "red",
+          "events": [
+           [
+            "2000-02-11",
+            100.0,
+            "IPO price $11"
+           ],
+           [
+            "2000-11-06",
+            6.0,
+            "Prior close $0.66 (derived)"
+           ],
+           [
+            "2000-11-07",
+            2.0,
+            "Wind-down announced, $0.22"
+           ],
+           [
+            "2000-12-29",
+            0.9,
+            "Last trading day of 2000, $0.09"
+           ],
+           [
+            "2001-01-18",
+            1.1,
+            "Dissolution; delisted, $0.125"
+           ]
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "label": "Log",
+       "chart": {
+        "type": "line",
+        "from": "2000-02-11",
+        "to": "2001-01-26",
+        "y": {
+         "log": true,
+         "min": 0.5,
+         "max": 200,
+         "format": "num",
+         "ticks": [
+          0.5,
+          1,
+          2,
+          5,
+          10,
+          20,
+          50,
+          100,
+          200
+         ]
+        },
+        "series": [
+         {
+          "label": "Nasdaq (indexed to 100 on IPO day)",
+          "ref": "nasdaq",
+          "indexTo": "2000-02-11",
+          "color": "ink",
+          "width": 1.8
+         },
+         {
+          "label": "IPET documented closes (indexed)",
+          "color": "red",
+          "events": [
+           [
+            "2000-02-11",
+            100.0,
+            "IPO price $11"
+           ],
+           [
+            "2000-11-06",
+            6.0,
+            "Prior close $0.66 (derived)"
+           ],
+           [
+            "2000-11-07",
+            2.0,
+            "Wind-down announced, $0.22"
+           ],
+           [
+            "2000-12-29",
+            0.9,
+            "Last trading day of 2000, $0.09"
+           ],
+           [
+            "2001-01-18",
+            1.1,
+            "Dissolution; delisted, $0.125"
+           ]
+          ]
+         }
+        ]
+       }
+      }
+     ],
+     "source": "IPET closes are from the 8-K, 10-K and press coverage[^5][^6][^11], and the quarterly ranges from the 10-K[^6]. No daily IPET series was available, so IPET is plotted only at the dates we could source. Nasdaq data is from FRED[^26]."
+    },
+    {
+     "kind": "chart",
+     "id": "hcChart",
+     "title": "Headcount",
+     "subtitle": "Employees at each reported date.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "Mar 31, ’99",
+       "Sep 30, ’99",
+       "Dec 31, ’99",
+       "Nov 7, ’00",
+       "Dec 31, ’00",
+       "Jan 16, ’01"
+      ],
+      "y": {
+       "format": "num"
+      },
+      "tooltip": {
+       "footers": [
+        "",
+        "",
+        "",
+        "~255 laid off that day",
+        "After layoffs",
+        "All remaining staff resigned"
+       ]
+      },
+      "series": [
+       {
+        "label": "Employees",
+        "data": [
+         4,
+         123,
+         270,
+         320,
+         26,
+         0
+        ],
+        "colors": [
+         "#c9b48a",
+         "#c9b48a",
+         "#c9b48a",
+         "ink",
+         "red",
+         "red"
+        ]
+       }
+      ]
+     },
+     "source": "S-1[^1], Nov 7, 2000 release (320 employees, ~255 laid off)[^5], and 10-K (26 at Dec 31, 2000; all remaining employees resigned Jan 16, 2001)[^6]."
+    }
+   ]
+  },
+  {
+   "kind": "chart",
+   "id": "capLossChart",
+   "title": "Capital in vs. losses out",
+   "subtitle": "$ millions, from founding to Sep 30, 2000.",
+   "chart": {
+    "type": "bar",
+    "horizontal": true,
+    "stacked": true,
+    "labels": [
+     "Cash raised",
+     "Net losses"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "height": 260,
+    "series": [
+     {
+      "label": "Private preferred (1999)",
+      "data": [
+       109.2,
+       0
+      ],
+      "color": "green",
+      "stack": "a"
+     },
+     {
+      "label": "IPO net proceeds",
+      "data": [
+       75.3,
+       0
+      ],
+      "color": "#9db894",
+      "stack": "a"
+     },
+     {
+      "label": "Petstore.com cash",
+      "data": [
+       3,
+       0
+      ],
+      "color": "#c9d8c3",
+      "stack": "a"
+     },
+     {
+      "label": "Cumulative net loss to Sep 30, 2000",
+      "data": [
+       0,
+       146.6
+      ],
+      "color": "red",
+      "stack": "a"
+     }
+    ]
+   },
+   "source": "Private rounds of $109.2M and net IPO proceeds of $75.3M[^1][^6], plus $3M cash from the Petstore.com deal[^7]. Cumulative net loss through Q3 2000 was $146.6M (sum of quarters)[^4]. The Disney/ABC airtime ($11.0M) was paid in stock and is excluded."
+  },
+  {
+   "kind": "stats",
+   "items": [
+    {
+     "value": "$11.00",
+     "label": "IPO price, Feb 11, 2000[^1]"
+    },
+    {
+     "value": "~$0.25",
+     "label": "“up to approximately” per share, proxy of Dec 28, 2000[^24]"
+    },
+    {
+     "value": "$0.172",
+     "label": "actually returned in three distributions, 2001–04[^8][^9][^10]"
+    }
+   ]
+  }
+ ],
+ "label": "The numbers"
+}
