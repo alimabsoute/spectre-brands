@@ -72,7 +72,7 @@ if (!args.has('--no-browser')) {
     page.on('response', r => { if (r.status() >= 400) bad(where, `HTTP ${r.status()}: ${r.url()}`); });
     await page.goto('http://localhost:4173' + u, { waitUntil: 'load' });
     // scroll through the page so lazy images, charts and the map initialise
-    await page.evaluate(async () => { const h = document.documentElement.scrollHeight; for (let y = 0; y < h; y += 700) { scrollTo(0, y); await new Promise(r => setTimeout(r, 60)); } scrollTo(0, 0); });
+    await page.evaluate(async () => { const h = document.documentElement.scrollHeight; for (let y = 0; y < h; y += 700) { scrollTo({ top: y, behavior: 'instant' }); await new Promise(r => setTimeout(r, 60)); } scrollTo({ top: 0, behavior: 'instant' }); });
     await page.waitForLoadState('networkidle').catch(() => {});
     const r = await page.evaluate(() => ({
       overflow: document.documentElement.scrollWidth - document.documentElement.clientWidth,
