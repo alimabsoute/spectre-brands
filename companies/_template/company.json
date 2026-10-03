@@ -1,0 +1,39 @@
+{
+ "name": "Example Co.",
+ "number": "000",
+ "tier": "dead",
+ "category": "dotcom",
+ "years": "1998 – 2001",
+ "place": "What it sold · Headquarters city, State",
+ "title": "Example Co. (1998–2001): post-mortem · Spectre Brands",
+ "description": "One or two sentences for search results and link previews (about 150–160 characters).",
+ "theme": { "accent": "#305a90", "soft": "#e7eef3" },
+ "card": {
+  "blurb": "One sentence for the homepage card.",
+  "stat": { "value": "$100M", "label": "the single number that defines the failure" },
+  "spark": [1, 4, 9, 6, 0],
+  "peak": 2,
+  "logo": "img/logo-2000.png",
+  "logoYear": "2000"
+ },
+ "hero": {
+  "dates": "Founded Month YYYY. Closed Month D, YYYY.",
+  "standfirst": "One sentence: what the company promised.",
+  "deck": "Two or three sentences on what happened, ending with what this post-mortem is built from.[^1]",
+  "art": "art/hero.svg",
+  "artCaption": "Original drawing. Not an official asset.",
+  "archive": [
+   { "image": "img/archive-2000-01-home.png", "caption": "Home page, Jan 2000" }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   { "value": "$100M", "text": "raised in the IPO[^1]" },
+   { "value": "~1,000", "text": "employees at the peak (**derived** from two filings)[^1]" }
+  ]
+ },
+ "findings": [
+  { "title": "Finding one.", "text": "One or two sourced sentences.[^1]" }
+ ]
+}
