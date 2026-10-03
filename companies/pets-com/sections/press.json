@@ -1,0 +1,44 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "This is a company’s dream… We’re happy because he’s captured their pocketbooks, too.",
+   "who": "**Julie Wainwright**, to Forbes, on the sock puppet, as quoted in Slate, Jun 2000[^14]",
+   "big": true
+  },
+  {
+   "q": "It looks an awful lot like they’ve built that brand for a lousy business.",
+   "who": "**Slate**, “The Puppet That Ate a Dot-Com,” Jun 6, 2000[^14]"
+  },
+  {
+   "q": "Pets.com IPO is a dog",
+   "who": "**CNET News.com** headline on IPO day, Feb 2000[^12]"
+  },
+  {
+   "q": "Shipping huge bags of dog food doesn’t sound like a great profit opportunity.",
+   "who": "**Slate**, Jun 2000[^14]"
+  },
+  {
+   "q": "Out of the more than 50 prospects contacted, fewer than 8 were even prepared to visit with the company.",
+   "who": "**Pets.com press release**, Nov 7, 2000[^5]",
+   "big": true
+  },
+  {
+   "q": "I am deeply saddened by this event and regret that we will not be able to continue our commitment to our customers…",
+   "who": "**Julie Wainwright**, Nov 7, 2000[^5]"
+  },
+  {
+   "q": "The company spent a hideous amount of money to reach a lot of customers… who adore the ads but don’t have pets.",
+   "who": "**eCompany Now**, 2001[^15]"
+  },
+  {
+   "q": "Down to zero.",
+   "who": "**Amazon.com spokeswoman**, on the value of its stake, LA Times, Nov 8, 2000[^11]"
+  },
+  {
+   "q": "Dig another grave in the dot-com pet cemetery.",
+   "who": "**Los Angeles Times**, on Petopia, Feb 3, 2001[^29]"
+  }
+ ]
+}

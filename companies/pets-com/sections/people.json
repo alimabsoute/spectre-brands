@@ -1,0 +1,49 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it",
+ "lede": "Ages and titles are from the IPO prospectus. Later careers are included only where we found a source.",
+ "people": [
+  {
+   "name": "Julie Wainwright",
+   "role": "Chairman & CEO, Mar 1999 – 2001",
+   "text": "Age 42 in the prospectus. She had been CEO of Reel.com and Berkeley Systems, and started in brand management at Clorox. She holds a BS from Purdue.[^1]",
+   "later": "Founded the luxury consignment company The RealReal (2011).[^37]"
+  },
+  {
+   "name": "Chris Deyo",
+   "role": "President, from Apr 1999",
+   "text": "Age 40. Previously president of Reel.com and earlier at Procter & Gamble. Owned 1.8% after the IPO.[^1]"
+  },
+  {
+   "name": "Paul Manca",
+   "role": "CFO, from Sep 1999",
+   "text": "Age 41. Previously CFO of CellNet Data Systems and a banker at BZW/Barclays. He took the company through its IPO and the Merrill Lynch sale process.[^1]"
+  },
+  {
+   "name": "John Hommeyer",
+   "role": "VP Marketing, from May 1999",
+   "text": "Age 33. Previously Marketing Director for global baby care at Procter & Gamble. He ran the marketing push that made the sock puppet famous.[^1]"
+  },
+  {
+   "name": "Greg McLemore",
+   "role": "Founder, WebMagic",
+   "text": "The archived 1999 About page says the site was “headed by Greg McLemore”. He held 5.1% after the IPO.[^1][^36]"
+  },
+  {
+   "name": "John Hummer",
+   "role": "Director; Hummer Winblad",
+   "text": "His venture firm owned 21.2% before the IPO and 15.8% after, making it the second-largest holder after Amazon.[^1]"
+  },
+  {
+   "name": "Michael Ian Black",
+   "role": "Voice of the sock puppet",
+   "text": "The comedian performed the puppet in the TBWA\\Chiat\\Day campaign.[^13][^16]",
+   "later": "The puppet outlived the company and was relaunched by 1-800-BarNone in 2002.[^18]"
+  },
+  {
+   "name": "Richard G. Couch",
+   "role": "Sole director, IPET Holdings",
+   "text": "After dissolution he ran the wind-down from Danville, CA, overseeing three liquidating distributions totaling $0.172 a share.[^6][^10]"
+  }
+ ]
+}
