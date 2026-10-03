@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "Contributing factors, weighted",
+ "lede": "The weights are our editorial judgment, not a calculation. Click a factor for the evidence.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "Capacity built years ahead of demand",
+   "text": "Each distribution center was designed for 8,000 orders a day, and the 10-K admits volumes in every facility were “significantly below” that. Even if all of 2000’s estimated orders had gone through one center, it would have run at about 59% of design. Webvan had several.[^1][^3]"
+  },
+  {
+   "weight": 25,
+   "title": "Fixed costs that grocery margins could not carry",
+   "text": "Gross margin was a respectable 26.5% in 2000, but G&A, which held fulfillment, delivery and real estate, was $292.3M, or 164% of sales. Gross profit covered about a sixth of it.[^3]"
+  },
+  {
+   "weight": 20,
+   "title": "Expansion and a merger before the model worked",
+   "text": "Atlanta and Chicago opened in 2000 while the Bay Area still lost money, and the $1.04B HomeGrocer merger added five markets on a different technology platform. Dallas closed within six months, with up to $60M in charges.[^3][^7]"
+  },
+  {
+   "weight": 15,
+   "title": "The capital window closed",
+   "text": "The auditors raised going-concern doubt in early 2001. In April Webvan was discussing only about $25M of new money with existing investors, and in July it cited “the tough climate for raising new funds.”[^7][^11][^15]"
+  },
+  {
+   "weight": 10,
+   "title": "A generous service promise",
+   "text": "Free delivery over $50, no tipping, 30-minute windows and salaried, trained couriers made every order expensive to fulfill at the volumes it actually had.[^1][^3][^28]"
+  }
+ ],
+ "disclaimer": "How we weight: each factor is scored by how directly the filings tie it to the losses and to the failure to raise money in 2001. Reasonable analysts could weight these differently."
+}

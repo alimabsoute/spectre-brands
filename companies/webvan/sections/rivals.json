@@ -1,0 +1,59 @@
+{
+ "kicker": "The rivals",
+ "title": "The online grocery class of 1999",
+ "lede": "Webvan’s 10-K named its online competitors: Peapod, PDQuick and Albertsons.com, plus GrocerWorks, Safeway’s affiliate. Only the ones attached to a grocery chain lasted.",
+ "blocks": [
+  {
+   "kind": "table",
+   "columns": [
+    "Company",
+    "Model",
+    "Backing",
+    "Fate"
+   ],
+   "rows": [
+    [
+     "Webvan",
+     "Own automated distribution centers, own vans and couriers",
+     "Benchmark, Sequoia, SOFTBANK; $375M IPO[^1]",
+     "Shut down Jul 9, 2001. Chapter 11 on Jul 13[^8]"
+    ],
+    [
+     "HomeGrocer",
+     "Smaller centers (CFCs) designed for 2,500 orders a day[^3]",
+     "IPO in March 2000, reported at $288M (secondary source)[^26]",
+     "Merged into Webvan Sep 5, 2000 for about $1.04B in stock[^3]"
+    ],
+    [
+     "Peapod",
+     "Online ordering tied to a grocery chain’s stores",
+     "Royal Ahold[^3]",
+     "Survived as Ahold’s online grocery business"
+    ],
+    [
+     "GrocerWorks.com",
+     "Online arm of a supermarket chain",
+     "Safeway[^3]",
+     "Folded into Safeway’s own online service (not covered in our sources)"
+    ],
+    [
+     "Kozmo.com",
+     "One-hour delivery of convenience goods by courier",
+     "Reported $250M–$280M raised[^24]",
+     "Ceased operations April 2001[^24]"
+    ],
+    [
+     "Streamline.com",
+     "Subscription delivery to a refrigerated box at the home",
+     "$42M IPO, June 1999[^25]",
+     "Closed November 2000, citing losses and tight capital[^25]"
+    ]
+   ],
+   "highlight": 0
+  },
+  {
+   "kind": "note",
+   "body": "Peapod’s and GrocerWorks’ later histories are context we didn’t source in detail, so we don’t give figures for them."
+  }
+ ]
+}

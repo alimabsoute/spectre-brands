@@ -1,0 +1,112 @@
+{
+ "kicker": "Brand gallery",
+ "title": "A white truck with a blue and lime W",
+ "label": "Brand gallery",
+ "lede": "Webvan’s brand lived on its trucks: a white box with a big blue and lime W and the wordmark running up the side. These are the brand assets that survive in archived pages, and our own drawings of the van, the totes and the warehouse.",
+ "archive": [
+  {
+   "image": "img/logo-2000.avif",
+   "date": "Nov 2000",
+   "caption": "The W mark and wordmark, cropped from the archived home page."
+  },
+  {
+   "image": "img/van-2000.avif",
+   "date": "Nov 2000",
+   "caption": "The delivery truck livery, cropped from the photo on the same page."
+  },
+  {
+   "image": "img/archive-2010-02-amazon.avif",
+   "date": "Feb 2010",
+   "caption": "The name revived by Amazon for shelf-stable groceries."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/van.svg",
+   "title": "The van.",
+   "caption": "Salaried, trained couriers delivered in 30-minute windows, free over $50, no tipping."
+  },
+  {
+   "art": "art/totes.svg",
+   "title": "The totes.",
+   "caption": "Orders were picked into plastic totes that rode conveyors to the trucks."
+  },
+  {
+   "art": "art/warehouse.svg",
+   "title": "The warehouse.",
+   "caption": "Oakland: 340,000 sq ft, designed for 8,000 orders a day."
+  }
+ ],
+ "recreation": {
+  "title": "The look, rebuilt",
+  "font": "Verdana, 'Varela Round', sans-serif",
+  "bar": {
+   "bg": "#ffffff",
+   "fg": "#305a90",
+   "word": "webvan",
+   "sub": "groceries delivered · a recreation"
+  },
+  "nav": {
+   "bg": "#6699cc",
+   "fg": "#ffffff",
+   "items": [
+    "Produce",
+    "Meat & Seafood",
+    "Bakery",
+    "Dairy",
+    "Pantry",
+    "Drugstore",
+    "Pet",
+    "My Lists"
+   ]
+  },
+  "side": {
+   "bg": "#eef4dc",
+   "items": [
+    "Why Shop at Webvan?",
+    "Selection",
+    "Quality",
+    "Value",
+    "Convenience",
+    "",
+    "Delivery window: 30 min"
+   ]
+  },
+  "buttons": {
+   "bg": "#9cc464",
+   "fg": "#1d3a5f",
+   "items": [
+    "cart",
+    "my account",
+    "help"
+   ]
+  },
+  "art": "art/van.svg",
+  "headline": "Free delivery over $50",
+  "subhead": "No tipping. Pick a 30-minute window.",
+  "body": "Text paraphrased from archived 1999–2000 pages. The layout is our recreation, not a copy of the original site."
+ },
+ "swatches": [
+  {
+   "hex": "#305a90",
+   "label": "W blue"
+  },
+  {
+   "hex": "#9cc464",
+   "label": "W lime"
+  },
+  {
+   "hex": "#6699cc",
+   "label": "Panel blue"
+  },
+  {
+   "hex": "#ffffff",
+   "label": "Truck white"
+  },
+  {
+   "hex": "#eef4dc",
+   "label": "Sidebar tint"
+  }
+ ],
+ "disclaimer": "Colors were sampled from pixels in the archived Nov 2000 page and are approximate because of image compression. Logos appear here in historical and editorial context; Webvan and its marks belong to their owners. Drawings are original recreations."
+}

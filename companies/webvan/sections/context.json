@@ -1,0 +1,114 @@
+{
+ "kicker": "The bubble it was born into",
+ "title": "Public at the peak, priced like a platform",
+ "lede": "Webvan went public in November 1999, four months before the Nasdaq’s all-time bubble high, as a company with $13.3M in annual sales.",
+ "label": "The bubble",
+ "blocks": [
+  {
+   "kind": "keyfacts",
+   "caption": "The market Webvan was born into",
+   "compact": true,
+   "rows": [
+    {
+     "value": "476",
+     "text": "U.S. IPOs in 1999, with an average first-day gain of 71.2%[^31]"
+    },
+    {
+     "value": "$34",
+     "text": "Webvan’s high in its first quarter of trading, against a $15 IPO price[^2]"
+    },
+    {
+     "value": ">$10B",
+     "text": "the market value that $34 a share implied, as reported by the Los Angeles Times[^13]"
+    },
+    {
+     "value": "$13.3M",
+     "text": "Webvan’s net sales for all of 1999[^3]"
+    }
+   ]
+  },
+  {
+   "kind": "chart",
+   "id": "nasdaqChart",
+   "title": "The Nasdaq Composite, with Webvan’s life marked",
+   "subtitle": "Weekly averages of daily closes. Hover over a marker for the event.",
+   "chart": {
+    "type": "line",
+    "from": "1999-01-01",
+    "to": "2001-09-30",
+    "legend": false,
+    "y": {
+     "min": 1000,
+     "format": "num"
+    },
+    "series": [
+     {
+      "label": "Nasdaq Composite (weekly close)",
+      "ref": "nasdaq",
+      "color": "ink",
+      "fill": true,
+      "width": 1.8
+     },
+     {
+      "label": "Webvan milestones",
+      "color": "red",
+      "events": [
+       [
+        "1999-06-02",
+        null,
+        "Bay Area store opens"
+       ],
+       [
+        "1999-11-05",
+        null,
+        "IPO at $15"
+       ],
+       [
+        "2000-03-10",
+        null,
+        "Nasdaq peak"
+       ],
+       [
+        "2000-09-05",
+        null,
+        "HomeGrocer merger closes"
+       ],
+       [
+        "2001-04-13",
+        null,
+        "Shaheen resigns"
+       ],
+       [
+        "2001-07-09",
+        null,
+        "Shutdown"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     {
+      "s": 1,
+      "i": "ev:1999-11-05",
+      "text": [
+       "IPO Nov 1999 at $15. The Nasdaq",
+       "peaked four months later."
+      ],
+      "dx": -260,
+      "dy": -110
+     },
+     {
+      "s": 1,
+      "i": "ev:2001-07-09",
+      "text": [
+       "Jul 9, 2001: deliveries stop."
+      ],
+      "dx": -240,
+      "dy": -90
+     }
+    ]
+   },
+   "source": "Index data: NASDAQ OMX Group via FRED, series NASDAQCOM, weekly average[^27]. Events: SEC filings and press[^1][^3][^10]."
+  }
+ ]
+}

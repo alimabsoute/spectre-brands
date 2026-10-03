@@ -1,0 +1,22 @@
+{
+ "kicker": "What if",
+ "title": "Three forks in the road",
+ "lede": "Counterfactuals are speculation by definition. Each one starts from a documented decision.",
+ "forks": [
+  {
+   "tab": "One city first",
+   "actual": "Webvan signed for up to 26 more distribution centers in July 1999, a month after its first one opened, and opened Atlanta and Chicago in 2000 while the Bay Area was still losing money.[^1][^3]",
+   "whatif": "Holding to one or two Bay Area centers until volume approached the 8,000-order design would have kept 2000 capex far below $259.8M and left a smaller, testable business when the funding window shut in 2001. It might still have failed, but slowly enough to learn whether the model worked."
+  },
+  {
+   "tab": "No HomeGrocer",
+   "actual": "Webvan paid about $1.04B in stock for HomeGrocer in September 2000, inherited five more markets on a different technology platform, and closed the Dallas operation within six months.[^3]",
+   "whatif": "Without the merger Webvan would have had fewer markets to convert and no $46M Dallas goodwill write-down. It would also have kept a well-funded rival, so the effect on survival is unclear."
+  },
+  {
+   "tab": "Partner with a grocer",
+   "actual": "Webvan built everything itself, from warehouses to vans to couriers. The rivals that lasted, Peapod and Safeway’s GrocerWorks, had grocery chains behind them.[^3]",
+   "whatif": "Picking from an existing chain’s stores would have cost far less up front and given Webvan a supplier with buying power. It would also have given up the automation advantage that was the whole thesis. A decade later, Instacart built a large business on store-based picking."
+  }
+ ]
+}

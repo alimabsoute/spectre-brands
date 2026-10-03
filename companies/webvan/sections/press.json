@@ -1,0 +1,36 @@
+{
+ "kicker": "Press",
+ "title": "What was said at the time",
+ "clips": [
+  {
+   "q": "In light of the tough climate for raising new funds and our second-quarter order volume, we have made the difficult decision to end all operations effective immediately.",
+   "who": "**Webvan statement**, Jul 9, 2001, via UPI[^11]",
+   "big": true
+  },
+  {
+   "q": "A different kind of executive is needed to lead the company at this time.",
+   "who": "**George Shaheen**, resigning, Apr 13, 2001[^14]"
+  },
+  {
+   "q": "I am convinced, as I have been from the outset, that Webvan has a solid business model, which over time will alter retailing and the way people shop.",
+   "who": "**George Shaheen**, same statement, via Supermarket News[^18]"
+  },
+  {
+   "q": "The company has no plans to resume operations, and it will pursue an orderly wind-down of its operations and sale of its assets and business.",
+   "who": "**Webvan**, via E-Commerce Times, Jul 9, 2001[^30]"
+  },
+  {
+   "q": "Webvan’s stock soared as high as $34 in November 1999, giving the firm a value of more than $10 billion. By Friday, Webvan’s shares had sunk to 6 cents.",
+   "who": "**Los Angeles Times**, Jul 10, 2001[^13]"
+  },
+  {
+   "q": "The online grocery start-up Webvan may have been the single most expensive flame-out of the dot-com era.",
+   "who": "**Reuters**, Jun 2013[^19]",
+   "big": true
+  },
+  {
+   "q": "We had a lot of Webvan DNA in the room and we drew on that experience a lot.",
+   "who": "**Tom Furphy**, co-founder of AmazonFresh, to Reuters, 2013[^19]"
+  }
+ ]
+}

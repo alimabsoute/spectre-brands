@@ -1,0 +1,49 @@
+{
+ "kicker": "The people",
+ "title": "Who built it, and where they went",
+ "lede": "Ages and titles are from the prospectus. Later careers are included only where we found a source.",
+ "people": [
+  {
+   "name": "Louis Borders",
+   "role": "Founder; chairman until early 2001",
+   "text": "Age 51 in the prospectus. Founded Borders Books in 1971 and Webvan in December 1996. Owned 28.3% before the IPO, the largest stake. He left the board in February 2001.[^1][^14]"
+  },
+  {
+   "name": "George Shaheen",
+   "role": "CEO, Sep 1999 – Apr 2001",
+   "text": "Age 55. Ran Andersen Consulting, later Accenture, for ten years before joining. Became chairman in February 2001 and resigned two months later, saying “a different kind of executive is needed.”[^1][^14][^18]"
+  },
+  {
+   "name": "Robert Swan",
+   "role": "COO, then CEO from Apr 2001",
+   "text": "Joined in October 1999 and was named CEO on April 26, 2001. He presided over the Atlanta closure and the July shutdown.[^15][^16]"
+  },
+  {
+   "name": "Kevin Czinger",
+   "role": "Senior VP, former CFO",
+   "text": "Age 40 in the prospectus, listed as a senior vice president who had earlier served as chief financial officer.[^1]"
+  },
+  {
+   "name": "Michael Moritz",
+   "role": "Director; Sequoia Capital",
+   "text": "Sequoia held 13.6% before the IPO.[^1]"
+  },
+  {
+   "name": "David Beirne",
+   "role": "Director; Benchmark Capital",
+   "text": "Benchmark held 12.3% before the IPO. Directors also included Tim Koogle of Yahoo and Christos Cotsakos of E*Trade.[^1]"
+  },
+  {
+   "name": "Doug Herrington",
+   "role": "Webvan executive team",
+   "text": "Served on Webvan’s executive team before founding KeepMedia.[^22]",
+   "later": "Joined Amazon in 2005, led the teams that launched Amazon Fresh, and became CEO of Worldwide Amazon Stores in 2022.[^22]"
+  },
+  {
+   "name": "Mick Mountz",
+   "role": "Director of business process, logistics",
+   "text": "Saw at Webvan how inefficient pallet-and-case fulfillment was, and left in 2000.[^23]",
+   "later": "Founded Kiva Systems, which Amazon bought for $775M in 2012 and turned into Amazon Robotics.[^19][^23]"
+  }
+ ]
+}
