@@ -1,0 +1,277 @@
+{
+ "kicker": "Unit economics",
+ "title": "Every box lost money",
+ "lede": "Pet food is heavy, bulky and cheap per pound. Customers could buy it at any supermarket. Shipping it to them one order at a time was the problem the company never solved.",
+ "blocks": [
+  {
+   "kind": "chart",
+   "id": "econChart",
+   "title": "What $100 of sales cost to deliver",
+   "subtitle": "Costs per $100 of revenue: the prospectus description, the prospectus target, and reported quarterly actuals.",
+   "views": [
+    {
+     "label": "Goods + shipping",
+     "chart": {
+      "type": "bar",
+      "horizontal": true,
+      "stacked": true,
+      "labels": [
+       "S-1: shipping as|described, late 1999",
+       "S-1: stated|target",
+       "Actual|Q4 1999",
+       "Actual|Q1 2000",
+       "Actual|Q3 2000"
+      ],
+      "y": {
+       "min": 0,
+       "max": 250,
+       "format": "usd"
+      },
+      "height": 400,
+      "refLines": [
+       {
+        "value": 100,
+        "label": "$100 = revenue"
+       }
+      ],
+      "tooltip": {
+       "format": {
+        "pre": "$",
+        "suf": " per $100 of sales"
+       }
+      },
+      "series": [
+       {
+        "label": "Product cost (S-1 midpoint)",
+        "data": [
+         77.5,
+         77.5,
+         null,
+         null,
+         null
+        ],
+        "color": "#c9b48a",
+        "stack": "s"
+       },
+       {
+        "label": "Shipping (S-1 midpoint)",
+        "data": [
+         105,
+         22.5,
+         null,
+         null,
+         null
+        ],
+        "color": "gold",
+        "stack": "s"
+       },
+       {
+        "label": "Goods + shipping (actual COGS)",
+        "data": [
+         null,
+         null,
+         224,
+         164,
+         103
+        ],
+        "color": "#7a5a2c",
+        "stack": "s"
+       }
+      ],
+      "notes": [
+       {
+        "s": 2,
+        "i": 2,
+        "text": [
+         "Anything past the dashed line:",
+         "each $100 of sales cost more",
+         "than $100 to deliver."
+        ],
+        "dx": 20,
+        "dy": 10
+       }
+      ]
+     }
+    },
+    {
+     "label": "+ Marketing",
+     "chart": {
+      "type": "bar",
+      "horizontal": true,
+      "stacked": true,
+      "labels": [
+       "S-1: shipping as|described, late 1999",
+       "S-1: stated|target",
+       "Actual|Q4 1999",
+       "Actual|Q1 2000",
+       "Actual|Q3 2000"
+      ],
+      "y": {
+       "min": 0,
+       "max": 850,
+       "format": "usd"
+      },
+      "height": 400,
+      "refLines": [
+       {
+        "value": 100,
+        "label": "$100 = revenue"
+       }
+      ],
+      "tooltip": {
+       "format": {
+        "pre": "$",
+        "suf": " per $100 of sales"
+       }
+      },
+      "series": [
+       {
+        "label": "Product cost (S-1 midpoint)",
+        "data": [
+         77.5,
+         77.5,
+         null,
+         null,
+         null
+        ],
+        "color": "#c9b48a",
+        "stack": "s"
+       },
+       {
+        "label": "Shipping (S-1 midpoint)",
+        "data": [
+         105,
+         22.5,
+         null,
+         null,
+         null
+        ],
+        "color": "gold",
+        "stack": "s"
+       },
+       {
+        "label": "Goods + shipping (actual COGS)",
+        "data": [
+         null,
+         null,
+         224,
+         164,
+         103
+        ],
+        "color": "#7a5a2c",
+        "stack": "s"
+       },
+       {
+        "label": "Marketing & sales",
+        "data": [
+         null,
+         null,
+         594,
+         377,
+         157
+        ],
+        "color": "red",
+        "stack": "s"
+       }
+      ]
+     }
+    }
+   ],
+   "source": "S-1 rows use the midpoints of stated ranges: product margins of 20–25% (product cost 75–80) and shipping costs of 100–110% of revenue, expected to fall to 20–25% once the Indianapolis center was at target volume[^1]. Actual rows are cost of goods sold and marketing & sales ÷ net sales from the 10-Qs[^2][^4]. In the filings, cost of goods sold includes outbound shipping. The dashed line marks $100, the break-even point."
+  },
+  {
+   "kind": "drawing",
+   "art": "art/shipping-box.svg",
+   "title": "Heavy, cheap, bulky",
+   "caption": "Original drawing. Not an official asset.",
+   "body": "Litter and kibble are cheap to buy and expensive to ship. The prospectus put shipping at 100–110% of revenue in late 1999 and listed “shipping below our actual costs” as a risk.[^1] In the filings, cost of goods sold includes outbound shipping, and it ran above net sales in every quarter reported.[^2][^4]\n\nWe don’t repeat the widely told 40-lb-bag anecdotes: we found no order-level data behind them."
+  },
+  {
+   "kind": "stats",
+   "items": [
+    {
+     "value": "−$287",
+     "label": "profit (loss) on a hypothetical $40 order at Q4 1999 ratios, after marketing (derived)"
+    },
+    {
+     "value": "−$64",
+     "label": "the same $40 order at Q3 2000 ratios (derived)"
+    },
+    {
+     "value": "$0",
+     "label": "S-1 target: about break-even on goods + shipping, before marketing"
+    }
+   ],
+   "source": "Model, not order data: Q4 1999 COGS of 224% and M&S of 594% of sales[^2]; Q3 2000 COGS 103% and M&S 157%[^4]; S-1 target 22.5% shipping + 77.5% product cost[^1]. M&S includes distribution and fulfillment, not just advertising."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "text",
+     "title": "",
+     "body": "The prospectus put shipping at **100–110% of revenue**[^1], before the cost of the food itself. Gross margin was **−64%** in Q1 2000 and **−20%** in Q2. It only reached **−3%** in Q3, “as our second distribution center in Indianapolis reached its full load.”[^4] When PETsMART.com took over the customers, its coupon excluded dog food, cat food and litter from the $25 minimum.[^36]\n\nWe found no primary source for the often-repeated story of a specific 40-lb bag being sold at a set loss, so we don’t print one."
+    },
+    {
+     "kind": "chart",
+     "id": "custChart",
+     "title": "Customers grew, and kept coming back",
+     "subtitle": "Cumulative customers (bars) and the share of orders from repeat customers (line).",
+     "chart": {
+      "type": "bar",
+      "labels": [
+       "Dec 31, ’99",
+       "Mar 31, ’00",
+       "Jun 30, ’00",
+       "Nov ’00 (approx.)"
+      ],
+      "y": {
+       "format": {
+        "suf": "K"
+       }
+      },
+      "y1": {
+       "min": 0,
+       "max": 100,
+       "format": "pct"
+      },
+      "series": [
+       {
+        "type": "line",
+        "label": "Repeat-customer share of orders",
+        "data": [
+         39,
+         50,
+         59,
+         null
+        ],
+        "color": "red",
+        "axis": "y1",
+        "format": "pct"
+       },
+       {
+        "label": "Customers (thousands)",
+        "data": [
+         144,
+         264,
+         443,
+         570
+        ],
+        "colors": [
+         "#c9b48a",
+         "#c9b48a",
+         "#c9b48a",
+         "#ddd3c2"
+        ],
+        "format": {
+         "suf": "K"
+        }
+       }
+      ]
+     },
+     "source": "10-Q filings and the Nov 7, 2000 press release[^2][^3][^5]. Repeat rates were reported as “more than” 50% (Q1 ’00) and 59% (Q2 ’00). Nov 2000 is “approximately 570,000”, and no repeat rate was given for it."
+    }
+   ]
+  }
+ ]
+}

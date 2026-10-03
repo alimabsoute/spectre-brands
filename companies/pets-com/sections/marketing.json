@@ -1,0 +1,217 @@
+{
+ "kicker": "The marketing machine",
+ "title": "Famous first, profitable never",
+ "lede": "Pets.com spent more on marketing & sales than it took in from sales in every quarter it reported. At the peak, it spent $5.94 for every dollar of revenue.",
+ "blocks": [
+  {
+   "kind": "chart",
+   "id": "plChart",
+   "title": "The quarterly P&L",
+   "subtitle": "Net sales against cost of goods, marketing & sales, and net loss, in $ thousands.",
+   "views": [
+    {
+     "label": "$ thousands",
+     "chart": {
+      "type": "bar",
+      "labels": [
+       "Q2'99*",
+       "Q3'99",
+       "Q4'99",
+       "Q1'00",
+       "Q2'00",
+       "Q3'00"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "tooltip": {
+       "footers": [
+        "Inception (Feb 17) – Jun 30, 1999",
+        "TV campaign launches; store v2",
+        "Macy’s parade; holiday push",
+        "Super Bowl (Jan 30); IPO (Feb 11)",
+        "Marketing cut ~41% vs Q1",
+        "Last full quarter"
+       ]
+      },
+      "series": [
+       {
+        "type": "line",
+        "label": "Net loss",
+        "data": [
+         3.5,
+         15.85,
+         42.42,
+         39.09,
+         24.06,
+         21.73
+        ],
+        "color": "ink"
+       },
+       {
+        "label": "Net sales",
+        "data": [
+         0.04,
+         0.57,
+         5.17,
+         7.65,
+         8.76,
+         9.37
+        ],
+        "color": "green"
+       },
+       {
+        "label": "Cost of goods sold",
+        "data": [
+         0.08,
+         1.77,
+         11.57,
+         12.52,
+         10.51,
+         9.64
+        ],
+        "color": "tan"
+       },
+       {
+        "label": "Marketing & sales",
+        "data": [
+         1.12,
+         10.69,
+         30.68,
+         28.86,
+         17.09,
+         14.71
+        ],
+        "color": "red"
+       }
+      ]
+     }
+    },
+    {
+     "label": "Per $1 of sales",
+     "chart": {
+      "type": "bar",
+      "labels": [
+       "Q3'99",
+       "Q4'99",
+       "Q1'00",
+       "Q2'00",
+       "Q3'00"
+      ],
+      "y": {
+       "log": true,
+       "min": 0.5,
+       "max": 40,
+       "format": "usd2",
+       "ticks": [
+        0.5,
+        1,
+        2,
+        5,
+        10,
+        20,
+        40
+       ]
+      },
+      "tooltip": {
+       "footers": [
+        "TV campaign launches; store v2",
+        "Macy’s parade; holiday push",
+        "Super Bowl (Jan 30); IPO (Feb 11)",
+        "Marketing cut ~41% vs Q1",
+        "Last full quarter"
+       ]
+      },
+      "refLines": [
+       {
+        "value": 1,
+        "label": "$1 = break-even"
+       }
+      ],
+      "series": [
+       {
+        "label": "COGS per $1 of sales",
+        "data": [
+         3.11,
+         2.24,
+         1.64,
+         1.2,
+         1.03
+        ],
+        "color": "tan"
+       },
+       {
+        "label": "Marketing & sales per $1 of sales",
+        "data": [
+         18.83,
+         5.94,
+         3.77,
+         1.95,
+         1.57
+        ],
+        "color": "red"
+       }
+      ]
+     }
+    }
+   ],
+   "source": "S-1/424B4[^1] and 10-Qs[^2][^3][^4]. *Q2 ’99 runs from inception (Feb 17) to Jun 30, 1999. Its marketing & sales figure is derived from period totals."
+  },
+  {
+   "kind": "chart",
+   "id": "mixChart",
+   "title": "1999 marketing & sales mix",
+   "subtitle": "Feb 17 – Dec 31, 1999. Total: $42.5M.",
+   "chart": {
+    "type": "doughnut",
+    "labels": [
+     "Advertising",
+     "Other M&S (derived)"
+    ],
+    "cutout": "62%",
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "1999 marketing & sales",
+      "data": [
+       26.9,
+       15.6
+      ],
+      "colors": [
+       "red",
+       "#c9b48a"
+      ]
+     }
+    ]
+   },
+   "source": "Advertising expense of $26.934M is from the S-1 notes[^1]. “Other” ($15.56M, derived) covers the rest of marketing & sales, including fulfillment and distribution."
+  },
+  {
+   "kind": "text",
+   "title": "Marketing per new customer",
+   "body": "Quarterly M&S ÷ net new customers (derived).\n\nThis overstates acquisition cost, because M&S also pays for distribution and serves existing customers. Q4 ’99 can’t be computed because no Sep 30, 1999 customer count was published.[^2][^3]"
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "Marketing & sales per net new customer (derived)",
+   "compact": true,
+   "rows": [
+    {
+     "value": "≈$240",
+     "text": "Q1 2000: $28.9M M&S, 120K net new"
+    },
+    {
+     "value": "≈$95",
+     "text": "Q2 2000: $17.1M M&S, 179K net new"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "title": "The media deals",
+   "body": "Advertising, partly paid for in stock.\n\n**Disney / ABC:** 1,378,000 Series C shares issued on Jan 18, 2000 for ABC network airtime valued at $11.02M.[^1]\n\n**GO Network:** a commitment to buy at least $9M of online ads. It was later disputed and terminated.[^1][^6]\n\n**Amazon.com:** an advertising agreement dated Apr 22, 1999, running to Oct 2000.[^1]\n\n**Super Bowl XXXIV** (ABC, Jan 30, 2000): the sock puppet’s spot, widely reported at about $1.2M (secondary source).[^38]"
+  }
+ ]
+}
