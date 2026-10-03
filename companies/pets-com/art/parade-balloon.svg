@@ -1,0 +1,15 @@
+<svg viewBox="0 0 300 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of the sock puppet as a parade balloon held by handlers on tethers">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 300 L290 300" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<path d="M110 196 C80 150 84 76 130 46 C170 22 236 30 256 70 C272 100 260 124 236 130 L216 134 C210 156 196 180 186 196 Z" fill="#fbf9f5"/>
+<path d="M256 104 C240 118 214 124 190 126 C194 148 222 160 244 146 C256 136 260 118 256 104Z" fill="#a8321f"/>
+<path d="M132 52 C110 30 84 22 66 34 C58 62 80 92 106 86" fill="#5c4a3b"/>
+<circle cx="170" cy="84" r="15" fill="#fbf9f5"/><circle cx="170" cy="84" r="8"/>
+<ellipse cx="216" cy="76" rx="12" ry="16" fill="#5c4a3b" stroke-width="2.4"/><circle cx="216" cy="76" r="7" fill="#fbf9f5"/>
+<path d="M248 70 C258 74 262 82 256 88 C248 90 242 84 244 76Z" fill="#1d1b18"/>
+<path d="M112 160 C140 172 168 172 192 160" stroke="#93743a" stroke-width="8" fill="none"/>
+<path d="M120 196 L76 280 M150 196 L150 280 M182 196 L222 280" fill="none" stroke-width="1.6"/>
+<g fill="#2f5f9f"><circle cx="72" cy="270" r="8"/><circle cx="150" cy="270" r="8"/><circle cx="226" cy="270" r="8"/></g>
+<path d="M72 278 L72 300 M150 278 L150 300 M226 278 L226 300" fill="none"/>
+<path d="M20 24 c8 -6 18 -6 24 0 M250 200 c8 -6 18 -6 24 0" fill="none" stroke="#b8ad97" stroke-width="2"/>
+</g></svg>

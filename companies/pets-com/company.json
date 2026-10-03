@@ -1,0 +1,96 @@
+{
+ "name": "Pets.com",
+ "number": "001",
+ "tier": "dead",
+ "category": "dotcom",
+ "years": "1998 – 2000",
+ "place": "Online pet retail · San Francisco",
+ "title": "Pets.com (1998–2000): post-mortem · Spectre Brands",
+ "description": "The sock puppet, the Super Bowl ad and the business model underneath: a sourced post-mortem of Pets.com, with charts, a linked map and timeline, and archived screenshots.",
+ "theme": {
+  "accent": "#a8321f",
+  "soft": "#eef3dc"
+ },
+ "card": {
+  "blurb": "The most famous mascot of the dot-com era, Amazon as its biggest shareholder, and a Super Bowl ad. It never sold a quarter’s goods for more than they cost to deliver.",
+  "stat": {
+   "value": "270 days",
+   "label": "from IPO to wind-down"
+  },
+  "spark": [
+   11,
+   3.88,
+   1.88,
+   0.59,
+   0.06,
+   0
+  ],
+  "peak": 0,
+  "logo": "img/logo-2000.avif",
+  "logoYear": "2000"
+ },
+ "hero": {
+  "dates": "Began operating Feb 17, 1999. Announced its wind-down Nov 7, 2000.",
+  "standfirst": "The company’s slogan was “Because pets can’t drive.” Its business model didn’t get far either.",
+  "deck": "It had the most famous mascot of the dot-com era, Amazon as its biggest shareholder, and a Super Bowl ad. In 270 days as a public company it never sold a single quarter’s goods for more than they cost to buy and ship. This is the full post-mortem, built from the company’s own SEC filings, contemporary press and the archived website.",
+  "art": "art/sock-puppet-mic.svg",
+  "artCaption": "Original illustration in the spirit of the mascot, with the company’s slogan. Not the trademarked character.",
+  "archive": [
+   {
+    "image": "img/archive-2000-02-anniversary.avif",
+    "caption": "Anniversary sale, Feb 2000"
+   },
+   {
+    "image": "img/logo-2000.avif",
+    "caption": "The logo, 2000"
+   },
+   {
+    "image": "img/archive-2000-11-farewell.avif",
+    "caption": "Farewell letter, Nov 2000"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "$82.5M",
+    "text": "raised in the Feb 11, 2000 IPO at $11 a share[^1]"
+   },
+   {
+    "value": "270 days",
+    "text": "from IPO to the wind-down announcement[^5]"
+   },
+   {
+    "value": "$146.6M",
+    "text": "cumulative net loss by Sep 30, 2000[^4]"
+   },
+   {
+    "value": "$0.172",
+    "text": "total paid back per share in liquidation, 2001–04[^8][^9][^10]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It lost money before marketing.",
+   "text": "Cost of goods sold, including shipping, was higher than sales in every quarter it reported. Its prospectus put shipping costs at 100–110% of revenue.[^1]"
+  },
+  {
+   "title": "It bought fame, not loyalty.",
+   "text": "It spent $103.1M on marketing & sales over six quarters against $31.6M in sales.[^4]"
+  },
+  {
+   "title": "It went public weeks before the crash.",
+   "text": "The IPO priced on Feb 11, 2000. The Nasdaq peaked on Mar 10.[^26]"
+  },
+  {
+   "title": "No one would refinance it.",
+   "text": "Fewer than 8 of the 50+ buyers and investors Merrill Lynch approached would even visit.[^5]"
+  },
+  {
+   "title": "The idea wasn’t wrong.",
+   "text": "Chewy did $11.86B in sales in FY2024, built on subscriptions and positive gross margins.[^19]"
+  }
+ ]
+}

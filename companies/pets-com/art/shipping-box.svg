@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a 40-pound dog food bag sticking out of a Pets.com shipping box">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 224 L312 224" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<path d="M104 30 L196 30 L204 150 L96 150 Z" fill="#efe6d6"/>
+<path d="M104 30 Q115 20 126 30 Q138 20 150 30 Q162 20 174 30 Q185 20 196 30" fill="none"/>
+<rect x="112" y="56" width="76" height="48" fill="#a8321f"/>
+<text x="150" y="80" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="17" fill="#fff" stroke="none">40 LB</text>
+<text x="150" y="97" text-anchor="middle" font-family="Inter, sans-serif" font-size="8.5" fill="#fff" stroke="none" letter-spacing="1">DOG FOOD</text>
+<path d="M54 120 L246 120 L262 216 L38 216 Z" fill="#d9b98a"/>
+<path d="M54 120 L20 96 L96 96 L130 120 Z" fill="#e6c99c"/><path d="M246 120 L282 96 L206 96 L170 120 Z" fill="#e6c99c"/>
+<path d="M140 120 L136 216" stroke="#b08a5a" stroke-width="2"/>
+<rect x="164" y="150" width="78" height="40" fill="#fffef8" stroke-width="2"/>
+<text x="203" y="168" text-anchor="middle" font-family="Varela Round, Inter, sans-serif" font-size="14" fill="#1d3f8a" stroke="none">pets.com</text>
+<text x="203" y="183" text-anchor="middle" font-family="Inter, sans-serif" font-size="8" fill="#6d665c" stroke="none">SHIP TO: YOUR DOOR</text>
+<text x="60" y="200" font-family="Caveat, cursive" font-size="19" fill="#1f2a44" stroke="none">heavy, cheap, bulky</text>
+</g></svg>
