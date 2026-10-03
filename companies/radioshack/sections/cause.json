@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "Contributing factors, weighted",
+ "lede": "The weights are our editorial judgment, not a calculation. Click a factor for the evidence.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "Dependence on phones sold on carriers’ terms",
+   "text": "Wireless went from 28.7% of sales in 2003 to a 52.4% mobility share in 2013. In 2012 and 2013 the company sold fewer postpaid phones, paid more for each, and repaid commissions when customers dropped service. The 10-K calls the result a “substantial decrease in consolidated gross profit.”[^9][^13]"
+  },
+  {
+   "weight": 25,
+   "title": "A footprint that never shrank to fit",
+   "text": "Company stores peaked at 5,289 in 2001 and were still 4,297 at the end of 2013. Apart from 2006, store counts barely moved while sales per store fell by about a fifth between 2005 and 2013 (derived).[^6][^10][^13]"
+  },
+  {
+   "weight": 20,
+   "title": "The reason to visit moved elsewhere",
+   "text": "The chain was built on batteries, parts and advice. The archived home pages show the parts business shrinking to a sidebar as phones took over. Online competition is general context; our sources don’t quantify it.[^33]"
+  },
+  {
+   "weight": 15,
+   "title": "Five chief executives in eight years",
+   "text": "Edmondson resigned over his résumé in 2006; Day, Gooch and Magnacca followed, each with a new strategy, including “The Shack” in 2009 and the ’80s ad in 2014.[^17][^10][^19][^13]"
+  },
+  {
+   "weight": 10,
+   "title": "No cushion when it mattered",
+   "text": "Equity fell from $1,048.3M in 2009 to $206.4M in 2013, and cash from $908.2M to $43.3M by November 2014. There was no room left to close stores in an orderly way.[^13][^14]"
+  }
+ ],
+ "disclaimer": "How we weight: each factor is scored by how directly the filings tie it to falling gross profit and to the cash drain of 2012–2014. Reasonable analysts could weight these differently."
+}

@@ -1,0 +1,22 @@
+{
+ "kicker": "What if",
+ "title": "Three forks in the road",
+ "lede": "Counterfactuals are speculation by definition. Each one starts from a documented decision.",
+ "forks": [
+  {
+   "tab": "Shrink in 2006",
+   "actual": "After cutting 505 company stores in 2006, RadioShack held its footprint near 4,450 for six years. It still had 4,297 at the end of 2013, while sales per store kept falling.[^10][^13]",
+   "whatif": "Closing another thousand of the weakest stores in 2007–2009, when the company earned about $200M a year and held $500M–$900M in cash, would have cut rent and payroll while there was money to pay lease exit costs. A smaller chain might have reached 2014 without needing a lender’s rescue."
+  },
+  {
+   "tab": "Stay the parts store",
+   "actual": "Wireless rose from 28.7% of sales in 2003 to a 52.4% “mobility” share in 2013, and the 2013 10-K blamed postpaid phones for the drop in gross profit.[^9][^13]",
+   "whatif": "Leaning into parts, repair and the hobbyist market it was founded on would have meant a much smaller company. But it would have sold goods that carriers and big-box stores didn’t, at margins near the 50% it earned in 2004."
+  },
+  {
+   "tab": "Sell while it was worth something",
+   "actual": "The share price fell below $3 in 2012 and stayed there. By the end of 2013 equity was $206.4M, down from $1,048.3M in 2009.[^13]",
+   "whatif": "A sale or merger in 2009–2010, while the shares traded near $20 and the balance sheet was solid, could have returned far more to shareholders than the bankruptcy did. Whether any buyer wanted 4,500 small leases is another question."
+  }
+ ]
+}

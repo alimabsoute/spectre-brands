@@ -1,0 +1,43 @@
+{
+ "kicker": "Afterlife",
+ "title": "Why this one is a ghost",
+ "lede": "The company is gone. The name has had four owners since 2015 and still sells electronics.",
+ "items": [
+  {
+   "status": "Apr 2015",
+   "color": "",
+   "title": "The stores",
+   "text": "General Wireless, a Standard General affiliate, bought 1,743 stores, many co-branded with Sprint. The rest were liquidated.[^16][^21]"
+  },
+  {
+   "status": "2015",
+   "color": "",
+   "title": "Mexico",
+   "text": "The Mexican subsidiaries went to Office Depot de México for $31.9M.[^16]"
+  },
+  {
+   "status": "Mar 2017",
+   "color": "",
+   "title": "Second bankruptcy",
+   "text": "General Wireless filed for Chapter 11 and began closing hundreds of stores. Sprint later paid $12M in a settlement.[^26][^27]"
+  },
+  {
+   "status": "Nov 2020",
+   "color": "",
+   "title": "The brand, online",
+   "text": "Retail Ecommerce Ventures bought the brands, websites and the “You’ve got questions” trademark.[^28][^29]"
+  },
+  {
+   "status": "2022",
+   "color": "",
+   "title": "The crypto detour",
+   "text": "REV turned radioshack.com into a waitlist for a cryptocurrency project, warning visitors about impostor accounts.[^32][^33]"
+  },
+  {
+   "status": "May 2023 – today",
+   "color": "",
+   "title": "The new owner",
+   "text": "Unicomer Group of El Salvador, a RadioShack franchisee in Latin America and the Caribbean, bought the IP in about 70 countries. RadioShack-branded stores today are dealer or franchise locations, and the brand sells online.[^30][^31][^33]"
+  }
+ ]
+}

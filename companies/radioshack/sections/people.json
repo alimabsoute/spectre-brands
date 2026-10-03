@@ -1,0 +1,48 @@
+{
+ "kicker": "The people",
+ "title": "Founders, owners and five chief executives",
+ "lede": "Titles and dates are from the 10-Ks and 8-Ks unless noted. We include only what a source supports.",
+ "people": [
+  {
+   "name": "Theodore and Milton Deutschmann",
+   "role": "Founders, 1921",
+   "text": "Opened the first store in Boston, according to the 2020 release from the brand’s owner.[^28]"
+  },
+  {
+   "name": "Charles Tandy",
+   "role": "Bought the chain, 1963",
+   "text": "Head of Tandy Corporation of Fort Worth, which turned the struggling Boston chain profitable within two years.[^18]"
+  },
+  {
+   "name": "David Edmondson",
+   "role": "CEO until Feb 2006",
+   "text": "Resigned in February 2006 after it emerged that he had claimed degrees he didn’t hold.[^17]"
+  },
+  {
+   "name": "Julian Day",
+   "role": "Chairman and CEO from Jul 2006",
+   "text": "Took over after Edmondson. Company stores fell by 505 in 2006, and about 400 headquarters staff were laid off by email that August.[^10][^22]"
+  },
+  {
+   "name": "James Gooch",
+   "role": "CEO, May 2011 – 2012",
+   "text": "Joined as an executive in 2006, served as CFO and became president in January 2011 and CEO in May 2011.[^19]"
+  },
+  {
+   "name": "Joseph Magnacca",
+   "role": "CEO, Feb 2013 – 2015",
+   "text": "Came from Walgreens. Led the final turnaround attempt, including the 2014 Super Bowl ad, and the company into Chapter 11.[^13][^24][^15]"
+  },
+  {
+   "name": "Standard General",
+   "role": "Buyer of 1,743 stores, 2015",
+   "text": "Its affiliate General Wireless bought the stores and co-branded many with Sprint, then filed its own Chapter 11 in March 2017.[^21][^26]"
+  },
+  {
+   "name": "Retail Ecommerce Ventures",
+   "role": "Owner of the brand, 2020–2023",
+   "text": "Founded by Alex Mehr and Tai Lopez, REV bought the RadioShack brands in November 2020 to run them online-first.[^28][^29]",
+   "later": "Then: sold the IP in about 70 countries to Unicomer in 2023.[^30][^31]"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "kicker": "The rivals",
+ "title": "Squeezed from both sides",
+ "lede": "Big-box stores beat RadioShack on selection and price, the carriers opened their own stores, and the internet took the parts business. Its own partners were also its competitors.",
+ "blocks": [
+  {
+   "kind": "table",
+   "columns": [
+    "Company",
+    "Model",
+    "Edge over RadioShack",
+    "Fate"
+   ],
+   "rows": [
+    [
+     "RadioShack",
+     "About 4,300–5,300 small company stores plus dealers[^6][^13]",
+     "Proximity, parts, batteries, service",
+     "Chapter 11 in 2015 and a second, as General Wireless, in 2017[^15][^26]"
+    ],
+    [
+     "Best Buy",
+     "Big-box consumer electronics",
+     "Selection and price on TVs, computers and appliances",
+     "Still operating (general knowledge, not from our sources)"
+    ],
+    [
+     "Circuit City",
+     "Big-box consumer electronics",
+     "Same as Best Buy",
+     "Liquidated in 2009 (general knowledge, not from our sources)"
+    ],
+    [
+     "Wireless carriers’ own stores",
+     "Branded stores selling phones and plans",
+     "Control of plans, subsidies and commissions",
+     "Sprint ended up inside RadioShack’s own surviving stores in 2015[^20][^21]"
+    ],
+    [
+     "Amazon and online parts sellers",
+     "Online catalog, home delivery",
+     "Range, price and no trip to the mall",
+     "The online shift is general context; our sources don’t quantify it"
+    ]
+   ],
+   "highlight": 0
+  },
+  {
+   "kind": "note",
+   "body": "RadioShack’s 10-Ks name competitors in general terms. The fates of Best Buy and Circuit City are well known but aren’t covered by the sources on this page, so we flag them."
+  }
+ ]
+}

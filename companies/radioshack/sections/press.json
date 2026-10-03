@@ -1,0 +1,37 @@
+{
+ "kicker": "Press",
+ "title": "Headlines along the way",
+ "lede": "These are headlines as published, not quotations from people.",
+ "clips": [
+  {
+   "q": "RadioShack Layoff Notices Are Sent by E-Mail",
+   "who": "**The New York Times**, Aug 31, 2006[^22]",
+   "big": true
+  },
+  {
+   "q": "RadioShack would like you to call it ‘The Shack’",
+   "who": "**USA Today**, Aug 5, 2009[^23]"
+  },
+  {
+   "q": "The ’80s called. They want their store back.",
+   "who": "**RadioShack Super Bowl ad**, Feb 2, 2014[^24]"
+  },
+  {
+   "q": "RadioShack files for bankruptcy; Sprint to take over some stores",
+   "who": "**Reuters**, Feb 2015[^25]"
+  },
+  {
+   "q": "RadioShack files for second bankruptcy in 2 years",
+   "who": "**AP**, Mar 2017[^26]"
+  },
+  {
+   "q": "Left for dead, twice, RadioShack gets another shot online",
+   "who": "**AP**, Nov 2020[^29]"
+  },
+  {
+   "q": "RadioShack under new ownership again",
+   "who": "**Retail Dive**, Aug 2023[^30]",
+   "big": true
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "kicker": "The story",
+ "title": "Ninety-four years, five chapters",
+ "lede": "The chain survived the end of radio kits, the end of CB radio and the end of its own computer business. It didn’t survive the smartphone and its own lease book.",
+ "chapters": [
+  {
+   "when": "1921 – 1963 · Boston",
+   "title": "Parts for people who built their own radios",
+   "big": "1921",
+   "cap": "a radio-parts store opens in Boston",
+   "color": "#93743a",
+   "body": "The company’s later owner dates RadioShack to 1921, when Theodore and Milton Deutschmann opened a store in Boston selling radio equipment.[^28] By the early 1960s the Boston chain was in financial trouble.[^18]\n\nIn 1963 Charles Tandy, whose Fort Worth company sold leather-craft supplies, bought it. The Handbook of Texas says he made it profitable within two years.[^18]"
+  },
+  {
+   "when": "1963 – 1999 · The Tandy years",
+   "title": "A store in every town",
+   "big": "7,000+",
+   "cap": "company stores and dealers by 1988",
+   "color": "#3d5f86",
+   "body": "Under Tandy the chain spread through company stores and independent dealers in small towns, passing 7,000 locations by 1988.[^18] Tandy also sold its own computers through the stores, starting with the TRS-80 in 1977 (date from general knowledge, not our sources).[^18]\n\nIn the 1990s Tandy tried bigger formats, including Computer City and Incredible Universe, then exited them. By the 1999 10-K it was a single chain, and in 2000 it renamed itself RadioShack Corporation.[^3][^4][^18]"
+  },
+  {
+   "when": "2000 – 2005 · The peak",
+   "title": "Phones, partners and record profits",
+   "big": "5,289",
+   "cap": "company-operated stores at the end of 2001, the most ever",
+   "color": "#1d1b18",
+   "body": "Net income reached $368.0M in 2000.[^5] The website of the time sold “Batteries & Adapters,” “Electronic Components” and “Wire, Cable, Hardware & Tools,” and advertised partners: Microsoft, RCA, Compaq and Sprint.[^33] Company stores peaked at 5,289 at the end of 2001.[^6]\n\nWireless grew from 28.7% of sales in 2003 to 34.3% in 2005, when sales reached $5.08B.[^9] Profit was already falling: net income was $267.0M in 2005, down from $337.2M.[^9]"
+  },
+  {
+   "when": "2006 – 2011 · Turnaround attempts",
+   "title": "A résumé, an email and a nickname",
+   "big": "−505",
+   "cap": "net change in company stores during 2006, the only large cut before bankruptcy (derived)",
+   "color": "#a8321f",
+   "body": "CEO David Edmondson resigned in February 2006 after questions about academic degrees he had claimed.[^17] Julian Day became CEO in July. Company stores fell from 4,972 to 4,467 that year, and in August about 400 headquarters employees were told by email that their jobs were gone.[^9][^10][^22]\n\nProfits recovered to about $200M a year. In 2009 the company began calling itself “The Shack” in advertising, while the signs stayed the same.[^11][^23] James Gooch, the former CFO, became CEO in May 2011.[^19]"
+  },
+  {
+   "when": "2012 – 2015 · Collapse",
+   "title": "Losing money on the phones",
+   "big": "$43.3M",
+   "cap": "cash on November 1, 2014, down from $908.2M at the end of 2009",
+   "color": "#a8321f",
+   "body": "RadioShack lost $139.4M in 2012 and $400.2M in 2013.[^13] Joseph Magnacca, from Walgreens, became CEO in February 2013, and the company’s 2014 Super Bowl ad joked that “the ’80s called” and wanted their store back.[^13][^24]\n\nSales in the first 39 weeks of 2014 fell to $2.06B from $2.49B.[^14] On February 5, 2015 the company filed for Chapter 11 in Delaware, with a plan to sell up to 2,400 stores to an affiliate of the hedge fund Standard General and close most of the rest.[^15][^20]"
+  }
+ ],
+ "stageArt": "art/storefront.svg"
+}
