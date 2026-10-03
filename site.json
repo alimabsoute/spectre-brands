@@ -1,0 +1,26 @@
+{
+ "title": "Spectre Brands · Post-mortems of dead and ghost brands",
+ "description": "Sourced, illustrated post-mortems of companies and brands that died, or live on only as a name: Pets.com, Webvan, RadioShack and more.",
+ "headline": "Every brand dies twice: once when the money runs out, and again when people forget it.",
+ "intro": "Spectre Brands writes the second obituary. Each post-mortem rebuilds a company from its SEC filings, contemporary press and archived web pages, with charts you can check, a map and timeline you can scrub, and original drawings of what the brand looked like.",
+ "soon": "Restaurant chains, film studios and game makers are in research. Each category opens with its first post-mortem.",
+ "categories": [
+  {"id": "dotcom", "label": "Dot-com", "blurb": "Internet companies of the 1995–2001 bubble."},
+  {"id": "consumer", "label": "Retail & consumer", "blurb": "Store chains and consumer brands."},
+  {"id": "restaurants", "label": "Restaurants", "blurb": "Chains that closed their last location, or survive as one."},
+  {"id": "film", "label": "Film & media", "blurb": "Studios, rental chains and networks."},
+  {"id": "games", "label": "Games", "blurb": "Console makers, publishers and arcades."}
+ ],
+ "method": [
+  "Every figure links to a numbered source: SEC filings first, then contemporary press, then the archive.",
+  "Numbers we calculate are labeled **derived**. Claims we couldn't confirm are labeled **unverified**, or left out.",
+  "Old websites are shown as screenshots of Internet Archive captures, each linked to the original capture.",
+  "Logos and ads appear in historical and editorial context. Drawings are original recreations, not official assets.",
+  "Cause-of-death weights and what-if scenarios are editorial judgment and are marked as such."
+ ],
+ "schema": [
+  "**Core:** Overview, Story, Timeline, The numbers, Cause of death, What if, Afterlife, Sources.",
+  "**Optional modules:** Context, Map (with a linked timeline), Unit economics, Marketing, Rivals, Old website, Brand gallery, People, Press.",
+  "The section menu on each page lists only the sections that page has."
+ ]
+}
