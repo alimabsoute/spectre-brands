@@ -1,0 +1,48 @@
+{
+ "kicker": "The story",
+ "title": "A warehouse company that sold groceries",
+ "lede": "Webvan’s founder built bookstores. His bet was that automation could make home delivery cheaper than the supermarket. The bet needed scale, and scale needed time the market didn’t give it.",
+ "chapters": [
+  {
+   "when": "1996 – mid 1999 · Birth",
+   "title": "A bookseller’s logistics machine",
+   "big": "$118.3M",
+   "cap": "raised in private preferred stock before June 30, 1999",
+   "color": "#4f7a4a",
+   "body": "Louis Borders, who founded Borders Books in 1971, founded Webvan in December 1996.[^1] The plan was a network of highly automated distribution centers, each designed to fill 8,000 orders a day, feeding vans that delivered inside a customer-chosen 30-minute window.[^1][^3]\n\nBy June 30, 1999 it had raised $118.3M in private preferred stock, net of costs.[^1] Benchmark, Sequoia and SOFTBANK were among the largest holders.[^1] The Webstore launched in the San Francisco Bay Area in June 1999, served from a 340,000 sq ft center in Oakland.[^1][^3]"
+  },
+  {
+   "when": "Jul – Sep 1999 · The build-out",
+   "title": "Ordering warehouses in bulk",
+   "big": "26",
+   "cap": "more distribution centers Bechtel agreed to build over three years, July 1999",
+   "color": "#93743a",
+   "body": "In July 1999 Webvan signed an agreement with Bechtel for the construction of up to 26 additional distribution centers over three years.[^1] The prospectus named Atlanta for 2000, then Chicago and Seattle, then Dallas, Washington, D.C. and five other markets in 2001.[^1]\n\nThat summer it sold $275.0M of Series D preferred stock.[^1] In September George Shaheen left the top job at Andersen Consulting, reported as a $4M-a-year post, to become CEO.[^1][^17]"
+  },
+  {
+   "when": "Nov 1999 · The IPO",
+   "title": "Worth more than the grocers it meant to replace",
+   "big": "$34.00",
+   "cap": "high in the first quarter of trading, after a $15 IPO in November 1999",
+   "color": "#1d1b18",
+   "body": "Goldman Sachs led the sale of 25 million shares at $15, raising $375M gross.[^1] The stock traded as high as $34 that quarter, which the Los Angeles Times later said gave the company “a value of more than $10 billion.”[^2][^13]\n\nWebvan had $13.3M in sales that year and a net loss of $144.6M.[^3] Its average order was $78.[^3]"
+  },
+  {
+   "when": "2000 · Expansion and merger",
+   "title": "More cities, before the first one worked",
+   "big": "$1.04B",
+   "cap": "paid in Webvan stock for rival HomeGrocer, September 2000. $901.6M of it was goodwill",
+   "color": "#a8321f",
+   "body": "Atlanta opened in May 2000 and Chicago in August.[^3] On September 5, 2000 Webvan completed its merger with Kirkland, Washington-based HomeGrocer, issuing 138.3 million shares at 1.07605 per HomeGrocer share. The total purchase price was about $1,044.0M, of which $901.6M was recorded as goodwill.[^3]\n\nSales rose to $178.5M for the year, but the net loss rose to $453.3M.[^3] By the fourth quarter the stock traded as low as $0.28.[^3]"
+  },
+  {
+   "when": "2001 · Collapse",
+   "title": "Closing cities, then everything",
+   "big": "~2,000",
+   "cap": "workers let go on July 9, 2001. Chapter 11 followed on July 13",
+   "color": "#a8321f",
+   "body": "The 2000 annual report carried a going-concern warning.[^7] Webvan closed Dallas in February 2001 and Sacramento soon after, then Atlanta in April, cutting about 485 jobs there and about 400 at headquarters. Cash fell from $212M at the end of 2000 to $115M by March 31.[^7][^15] Shaheen resigned on April 13 and COO Robert Swan became CEO.[^14][^15]\n\nOn July 9, 2001 Webvan stopped taking and delivering orders in all seven remaining markets and let about 2,000 workers go.[^10][^11] It filed for Chapter 11 in Delaware on July 13 and pursued a sale of its assets.[^8]"
+  }
+ ],
+ "stageArt": "art/van.svg"
+}

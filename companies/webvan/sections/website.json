@@ -1,0 +1,41 @@
+{
+ "kicker": "The old website",
+ "title": "What customers actually saw",
+ "lede": "These are screenshots of the Internet Archive’s captures of webvan.com, stored as images. Click one to open the original capture. Captures were found with the CDX API in October 2026. Pages from 1999–2001 are often incomplete.[^28]",
+ "note": "Screenshots were taken from the Internet Archive’s Wayback Machine captures and saved as images, so the page loads without contacting the archive. Click a screenshot to open the original capture. An earlier capture of the Thanksgiving 1999 storefront ([Nov 27, 1999](https://web.archive.org/web/19991127213601/http://www03.webvan.com:80/default.asp)) promised “Delivery in our vans within the 30-minute window you choose” and “Free delivery and no tipping.”",
+ "captures": [
+  {
+   "date": "Nov 2000",
+   "label": "Pick your city",
+   "url": "http://www.webvan.com/",
+   "wayback": "https://web.archive.org/web/20001109064100/http://www.webvan.com:80/",
+   "image": "img/archive-2000-11-cities.avif",
+   "h": 530,
+   "captured": "Nov 9, 2000 · 1:41 AM ET",
+   "title": "Pick your city",
+   "text": "After the HomeGrocer merger the front door became a market picker: Atlanta, Chicago, Sacramento, San Diego and the Bay Area under one customer-service number, and Los Angeles, Orange County/Inland Empire, Portland and Seattle under another, a sign the two systems hadn’t yet been merged. The truck photo shows the real livery: white box, blue and lime W."
+  },
+  {
+   "date": "Oct 2001",
+   "label": "The asset auction",
+   "url": "http://www.webvan.com/",
+   "wayback": "https://web.archive.org/web/20011009235100/http://www.webvan.com:80/",
+   "image": "img/archive-2001-10-auction.avif",
+   "h": 480,
+   "captured": "Oct 9, 2001 · 7:51 PM ET",
+   "title": "The asset auction",
+   "text": "Three months after the shutdown, webvan.com announced court approval to auction everything. Great American Group handled ten former facility sites, including Glen Burnie, Maryland, and DoveBid handled the Foster City headquarters and a San Jose co-location site."
+  },
+  {
+   "date": "Feb 2010",
+   "label": "The name, under Amazon",
+   "url": "http://www.webvan.com/",
+   "wayback": "https://web.archive.org/web/20100205042650/http://www.webvan.com:80/",
+   "image": "img/archive-2010-02-amazon.avif",
+   "h": 420,
+   "captured": "Feb 4, 2010 · 11:26 PM ET",
+   "title": "The name, under Amazon",
+   "text": "Amazon revived the name in 2009 as a shop for non-perishable groceries that checked out with Amazon accounts."
+  }
+ ]
+}

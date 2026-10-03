@@ -1,0 +1,202 @@
+{
+ "kicker": "The money",
+ "title": "$768M in, almost nothing out",
+ "lede": "Webvan raised about $393M privately and $375M at its IPO, then paid for HomeGrocer with more than a billion dollars of its own stock. Shareholders received nothing in the bankruptcy.",
+ "blocks": [
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "chart",
+     "id": "capChart",
+     "title": "Who owned Webvan before the IPO",
+     "subtitle": "Share of 296.8 million shares outstanding, Oct 20, 1999.",
+     "chart": {
+      "type": "doughnut",
+      "labels": [
+       "Louis Borders",
+       "SOFTBANK",
+       "Sequoia Capital",
+       "Benchmark Capital",
+       "All other holders"
+      ],
+      "height": 300,
+      "y": {
+       "format": "pct"
+      },
+      "series": [
+       {
+        "label": "Ownership before the IPO",
+        "data": [
+         28.3,
+         15.6,
+         13.6,
+         12.3,
+         30.2
+        ],
+        "colors": [
+         "#1d1b18",
+         "#a8321f",
+         "#93743a",
+         "#3d5f86",
+         "#ddd3c2"
+        ]
+       }
+      ]
+     },
+     "source": "Prospectus, principal stockholders table[^1]. Directors and officers as a group held 60.5%, including the venture funds represented on the board."
+    },
+    {
+     "kind": "chart",
+     "id": "raiseChart",
+     "title": "Money raised, by source",
+     "subtitle": "$ millions. The HomeGrocer stock was not cash.",
+     "chart": {
+      "type": "bar",
+      "horizontal": true,
+      "legend": false,
+      "labels": [
+       "Private preferred, to Jun 1999",
+       "Series D, Jul–Aug 1999",
+       "IPO, Nov 1999",
+       "HomeGrocer, paid in stock (Sep 2000)"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Raised",
+        "data": [
+         118.3,
+         275.0,
+         375.0,
+         1044.0
+        ],
+        "colors": [
+         "green",
+         "green",
+         "ink",
+         "#d9cfbd"
+        ]
+       }
+      ]
+     },
+     "source": "Prospectus[^1] and 10-K[^3]. Private rounds are net of issuance costs; the IPO figure is gross. Reuters later put the total at “more than $800 million in venture capital and IPO proceeds”[^19]."
+    }
+   ]
+  },
+  {
+   "kind": "chart",
+   "id": "stockChart",
+   "title": "WBVN share price, quarterly high and low",
+   "subtitle": "Nasdaq, $ per share. The 2001 points are single reported prices, not ranges.",
+   "chart": {
+    "type": "bar",
+    "labels": [
+     "Q4 1999",
+     "Q1 2000",
+     "Q2 2000",
+     "Q3 2000",
+     "Q4 2000",
+     "Apr 26, 2001",
+     "Jul 6, 2001"
+    ],
+    "y": {
+     "log": true,
+     "min": 0.05,
+     "max": 50,
+     "format": "usd2",
+     "ticks": [
+      0.05,
+      0.1,
+      0.5,
+      1,
+      5,
+      10,
+      15,
+      50
+     ]
+    },
+    "refLines": [
+     {
+      "value": 15,
+      "label": "IPO price $15"
+     }
+    ],
+    "series": [
+     {
+      "label": "Quarterly low–high range",
+      "data": [
+       [
+        15.0625,
+        34
+       ],
+       [
+        7.6875,
+        18.25
+       ],
+       [
+        4.5312,
+        7.5
+       ],
+       [
+        2.3125,
+        9.3125
+       ],
+       [
+        0.2812,
+        2.2812
+       ],
+       null,
+       null
+      ],
+      "color": "tan",
+      "barPercentage": 0.5
+     },
+     {
+      "type": "line",
+      "label": "Single reported price",
+      "data": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       0.16,
+       0.06
+      ],
+      "color": "red",
+      "points": 6,
+      "showLine": false
+     }
+    ]
+   },
+   "source": "Quarterly ranges from the 10-K[^3]. Apr 26, 2001 price from CNNfn[^15]; Jul 6, 2001 price from the Los Angeles Times[^13]. A 1-for-25 reverse split was proposed in April 2001[^15]; prices shown are as reported, not adjusted."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The cash runway",
+   "compact": true,
+   "rows": [
+    {
+     "value": "$212M",
+     "text": "cash and investments at Dec 31, 2000, as reported by CNNfn[^15]"
+    },
+    {
+     "value": "$115M",
+     "text": "at Mar 31, 2001, after a quarter with a $217.0M net loss[^7][^15]"
+    },
+    {
+     "value": "~$25M",
+     "text": "of new debt or equity under discussion with existing investors in April 2001[^15]"
+    },
+    {
+     "value": "Q1 2002",
+     "text": "how long Webvan said its cash would last, in May 2001. It lasted until July[^7][^10]"
+    }
+   ]
+  }
+ ],
+ "label": "The numbers"
+}

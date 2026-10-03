@@ -1,0 +1,131 @@
+{
+ "kicker": "The promise",
+ "title": "A service priced like a supermarket and run like FedEx",
+ "lede": "Unlike Pets.com, Webvan didn’t spend its way into fame. Its marketing budget was modest. The expensive part was what it promised every customer for free.",
+ "blocks": [
+  {
+   "kind": "table",
+   "columns": [
+    "What Webvan promised",
+    "Where it said so",
+    "What it cost to keep"
+   ],
+   "rows": [
+    [
+     "Delivery inside a 30-minute window you choose, same day",
+     "Prospectus[^1]; 1999 homepage[^28]",
+     "Dense routing, a fleet of vans and salaried couriers. Couriers were Webvan employees who got two weeks of training, including 36 hours in a classroom[^3]"
+    ],
+    [
+     "Free delivery on orders over $50, and no tipping",
+     "Prospectus[^1]; 1999 homepage[^28]",
+     "Delivery cost sat inside G&A, which was 164% of sales in 2000[^3]. In late 1999 the site extended free delivery to all orders through Dec 31[^28]"
+    ],
+    [
+     "Prices “generally at or below everyday supermarket prices”",
+     "Prospectus[^1]",
+     "Capped gross margin at grocery levels: 26.5% in 2000[^3]"
+    ],
+    [
+     "A store designed to carry over 50,000 items, with hand-cut meat and live lobsters",
+     "Prospectus[^1]",
+     "Large automated centers of 100,000–355,000 sq ft, built before demand[^3]"
+    ],
+    [
+     "No membership or service fees",
+     "Prospectus[^1]",
+     "No second revenue line to subsidize delivery"
+    ]
+   ]
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "chart",
+     "id": "mktChart",
+     "title": "Marketing as a share of sales",
+     "subtitle": "Sales and marketing expense divided by net sales, by year. Pets.com is shown for scale.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "Webvan 1999",
+       "Webvan 2000",
+       "Webvan Q1 2001",
+       "Pets.com, 6 quarters"
+      ],
+      "y": {
+       "format": "pct"
+      },
+      "series": [
+       {
+        "label": "Marketing as % of sales",
+        "data": [
+         88.3,
+         27.5,
+         21.1,
+         326
+        ],
+        "colors": [
+         "tan",
+         "tan",
+         "tan",
+         "red"
+        ]
+       }
+      ]
+     },
+     "source": "Webvan 10-K[^3]. Pets.com figure is marketing & sales over net sales for Q2 1999 – Q3 2000 from its filings, as published in our Pets.com post-mortem."
+    },
+    {
+     "kind": "chart",
+     "id": "aosChart",
+     "title": "Customers came back",
+     "subtitle": "Average order size, as reported.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "1999",
+       "Q4 1999",
+       "Launch to Mar 2000",
+       "Launch to Jun 2000",
+       "2000",
+       "Q4 2000"
+      ],
+      "y": {
+       "min": 0,
+       "format": "usd"
+      },
+      "tooltip": {
+       "format": "usd2"
+      },
+      "series": [
+       {
+        "label": "Average order",
+        "data": [
+         78,
+         81,
+         84.33,
+         87.6,
+         104,
+         112
+        ],
+        "colors": [
+         "sand",
+         "sand",
+         "sand",
+         "sand",
+         "tan",
+         "tan"
+        ]
+       }
+      ]
+     },
+     "source": "10-K and 10-Qs[^3][^4][^5]. Cumulative averages are from inception to the date shown. The 10-Q for Q2 2000 said more than 75% of orders came from repeat customers[^5]."
+    }
+   ]
+  }
+ ]
+}
