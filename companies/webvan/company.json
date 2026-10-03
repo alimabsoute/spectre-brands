@@ -1,0 +1,99 @@
+{
+ "name": "Webvan",
+ "number": "002",
+ "tier": "dead",
+ "category": "dotcom",
+ "years": "1996 – 2001",
+ "place": "Online grocery delivery · Foster City, California",
+ "title": "Webvan (1996–2001): post-mortem · Spectre Brands",
+ "description": "How Webvan raised $1.2B, built warehouses for demand that never came, and shut down in 2001. Sourced charts, a linked map and timeline, and archived screenshots.",
+ "theme": {
+  "accent": "#305a90",
+  "soft": "#e7eef3"
+ },
+ "card": {
+  "blurb": "Raised more than $1.2 billion, built warehouses for millions of orders, and stopped delivering on a Monday in July 2001.",
+  "stat": {
+   "value": "$827M",
+   "label": "cumulative net loss, 1998 to Mar 2001"
+  },
+  "spark": [
+   0.4,
+   3.8,
+   9.1,
+   16.3,
+   28.3,
+   52.1,
+   81.8,
+   77.2,
+   0
+  ],
+  "peak": 6,
+  "logo": "img/logo-2000.avif",
+  "logoYear": "2000"
+ },
+ "hero": {
+  "dates": "Founded December 1996. Stopped delivering July 9, 2001.",
+  "standfirst": "Webvan promised groceries at your door inside a 30-minute window you chose. It built the warehouses first and waited for the customers.",
+  "deck": "It raised about $393M privately and $375M in one of the largest IPOs of 1999, signed a deal with Bechtel to build up to 26 more distribution centers, and merged with its closest rival. Its gross margins were positive from late 1999. Its warehouses never ran anywhere near full. This post-mortem is built from Webvan’s prospectus, 10-Ks, 10-Qs and bankruptcy filing, contemporary press and the archived website.",
+  "art": "art/van.svg",
+  "artCaption": "Original drawing of a Webvan truck in the blue and lime livery seen in archived photos. Not an official asset.",
+  "archive": [
+   {
+    "image": "img/archive-2000-11-cities.avif",
+    "caption": "Home page, Nov 2000"
+   },
+   {
+    "image": "img/van-2000.avif",
+    "caption": "Truck livery, 2000"
+   },
+   {
+    "image": "img/archive-2001-10-auction.avif",
+    "caption": "Auction notice, Oct 2001"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "$375M",
+    "text": "raised in the November 1999 IPO: 25 million shares at $15[^1]"
+   },
+   {
+    "value": "8,000",
+    "text": "orders a day each distribution center was designed to handle. Actual volumes were “significantly below”[^3]"
+   },
+   {
+    "value": "$827M",
+    "text": "cumulative net loss from 1998 through March 2001[^3][^7]"
+   },
+   {
+    "value": "~2,000",
+    "text": "employees let go on July 9, 2001, when it stopped all deliveries[^10][^11]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It made money on the groceries.",
+   "text": "Gross margin was 25–28% in every quarter from Q1 2000. The losses came from fulfillment, delivery, real estate and technology, booked as general and administrative costs.[^3][^6]"
+  },
+  {
+   "title": "It built for demand that never arrived.",
+   "text": "In 2000 G&A was $292.3M, 1.6 times sales. Distribution centers designed for 8,000 orders a day never came close.[^3]"
+  },
+  {
+   "title": "It expanded before it worked.",
+   "text": "Atlanta opened in May 2000 and Chicago in August, and the Bechtel contract covered up to 26 more centers, while the Bay Area still lost money.[^1][^3]"
+  },
+  {
+   "title": "The merger doubled the problem.",
+   "text": "The all-stock HomeGrocer deal cost about $1.04B, $901.6M of it goodwill, and added more cities to fix.[^3]"
+  },
+  {
+   "title": "The idea survived.",
+   "text": "Four former Webvan executives later helped build Amazon’s grocery business, and Amazon bought the webvan.com name.[^19][^20]"
+  }
+ ]
+}

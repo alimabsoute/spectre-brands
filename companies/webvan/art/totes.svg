@@ -1,0 +1,11 @@
+<svg viewBox="0 0 300 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of stacked Webvan grocery totes on a hand truck">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M14 222 C80 216 220 216 290 222" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<path d="M60 28 L60 206 L120 206" fill="none" stroke-width="4"/><circle cx="72" cy="208" r="12" fill="#2a2724"/>
+<g><path d="M70 150 L222 150 L214 204 L78 204 Z" fill="#8db446"/><path d="M70 150 L222 150 L222 160 L70 160 Z" fill="#9cc464"/><rect x="128" y="168" width="36" height="9" rx="4.5" fill="#5f7f2c"/><text x="146" y="196" text-anchor="middle" font-family="Varela Round, Inter, sans-serif" font-size="13" fill="#fff" stroke="none">webvan</text></g>
+<g><path d="M74 96 L226 96 L218 150 L82 150 Z" fill="#305a90"/><path d="M74 96 L226 96 L226 106 L74 106 Z" fill="#6699cc"/><rect x="132" y="114" width="36" height="9" rx="4.5" fill="#1f3f6c"/><text x="150" y="142" text-anchor="middle" font-family="Varela Round, Inter, sans-serif" font-size="13" fill="#fff" stroke="none">webvan</text></g>
+<g><path d="M70 42 L222 42 L214 96 L78 96 Z" fill="#8db446"/><path d="M70 42 L222 42 L222 52 L70 52 Z" fill="#9cc464"/><rect x="128" y="60" width="36" height="9" rx="4.5" fill="#5f7f2c"/></g>
+<path d="M96 42 C98 22 112 14 120 26 C126 10 146 12 146 30 C156 18 172 24 168 42" fill="#f3d27a"/>
+<path d="M150 42 L158 8 L170 12 L162 42" fill="#fbfaf6"/><path d="M182 42 C182 28 200 24 204 42" fill="#c4644d"/>
+<path d="M118 22 C116 12 122 6 126 4" fill="none" stroke="#4f8a45"/>
+</g></svg>

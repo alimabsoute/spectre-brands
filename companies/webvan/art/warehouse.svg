@@ -1,0 +1,17 @@
+<svg viewBox="0 0 360 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a Webvan automated distribution center with conveyors and totes">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 222 L350 222" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<path d="M20 222 L20 88 L80 60 L140 88 L200 60 L260 88 L340 88 L340 222 Z" fill="#efe9dc"/>
+<path d="M20 88 L80 60 L140 88 L200 60 L260 88" fill="none"/>
+<path d="M60 74 L60 88 M100 74 L100 88 M180 70 L180 88 M220 70 L220 88" stroke="#9a9184" stroke-width="2"/>
+<rect x="210" y="98" width="118" height="30" rx="3" fill="#fbfaf6"/>
+<text x="269" y="120" text-anchor="middle" font-family="Varela Round, Inter, sans-serif" font-size="20" fill="#305a90" stroke="none">web<tspan fill="#8db446">van</tspan></text>
+<path d="M40 150 L300 150" fill="none" stroke-width="2.4"/><path d="M40 162 L300 162" fill="none" stroke-width="2.4"/>
+<g fill="#d6cfc1" stroke-width="2"><circle cx="60" cy="168" r="5"/><circle cx="110" cy="168" r="5"/><circle cx="160" cy="168" r="5"/><circle cx="210" cy="168" r="5"/><circle cx="260" cy="168" r="5"/></g>
+<path d="M50 172 L50 222 M290 172 L290 222" fill="none" stroke-width="2.4"/>
+<g><rect x="56" y="128" width="36" height="22" fill="#8db446"/><rect x="112" y="128" width="36" height="22" fill="#305a90"/><rect x="168" y="128" width="36" height="22" fill="#8db446"/><rect x="236" y="128" width="36" height="22" fill="#305a90"/></g>
+<path d="M150 98 L150 128 M150 98 L196 98" fill="none" stroke-width="2.4"/><path d="M140 104 L160 104 L156 92 L144 92 Z" fill="#f3d27a"/>
+<rect x="34" y="184" width="44" height="38" fill="#3d3a35"/><path d="M34 194 H78 M34 204 H78 M34 214 H78" stroke="#6d665c" stroke-width="2"/>
+<rect x="300" y="186" width="30" height="36" fill="#cfe0ee"/>
+<text x="180" y="210" text-anchor="middle" font-family="Caveat, cursive" font-size="20" fill="#1f2a44" stroke="none">340,000 sq ft · Oakland</text>
+</g></svg>
