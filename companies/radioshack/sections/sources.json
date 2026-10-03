@@ -1,0 +1,177 @@
+{
+ "kicker": "Sources",
+ "title": "Where every number comes from",
+ "lede": "SEC filings are cited by accession number and were retrieved from EDGAR in October 2026. Press items are cited as published. Links open in a new tab.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Tandy Corporation, Annual report for 1995 (Form 10-K). EDGAR 0000096289-96-000004. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-96-000004.txt)"
+  },
+  {
+   "id": 2,
+   "text": "Tandy Corporation, Annual report for 1996 (Form 10-K). EDGAR 0000096289-97-000006. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-97-000006.txt)"
+  },
+  {
+   "id": 3,
+   "text": "Tandy Corporation, Annual report for 1998 (Form 10-K). EDGAR 0000096289-99-000008. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-99-000008.txt)"
+  },
+  {
+   "id": 4,
+   "text": "Tandy Corporation, Annual report for 1999 (Form 10-K). EDGAR 0000096289-00-000005. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-00-000005.txt)"
+  },
+  {
+   "id": 5,
+   "text": "RadioShack Corporation, Annual report for 2000 (Form 10-K). EDGAR 0000096289-01-000006. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-01-000006.txt)"
+  },
+  {
+   "id": 6,
+   "text": "RadioShack, Annual report for 2001 (Form 10-K). EDGAR 0000096289-02-000002. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-02-000002.txt)"
+  },
+  {
+   "id": 7,
+   "text": "RadioShack, Annual report for 2003 (Form 10-K). EDGAR 0000096289-04-000069. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-04-000069.txt)"
+  },
+  {
+   "id": 8,
+   "text": "RadioShack, Annual report for 2004 (Form 10-K). EDGAR 0000096289-05-000016. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-05-000016.txt)"
+  },
+  {
+   "id": 9,
+   "text": "RadioShack, Annual report for 2005 (Form 10-K). EDGAR 0000096289-06-000013. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-06-000013.txt)"
+  },
+  {
+   "id": 10,
+   "text": "RadioShack, Annual report for 2006 (Form 10-K). EDGAR 0000096289-07-000007. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-07-000007.txt)"
+  },
+  {
+   "id": 11,
+   "text": "RadioShack, Annual report for 2009 (Form 10-K). EDGAR 0000096289-10-000004. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-10-000004.txt)"
+  },
+  {
+   "id": 12,
+   "text": "RadioShack, Annual report for 2010 (Form 10-K). EDGAR 0000096289-11-000010. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-11-000010.txt)"
+  },
+  {
+   "id": 13,
+   "text": "RadioShack, Annual report for 2013 (Form 10-K). EDGAR 0000096289-14-000005. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-14-000005.txt)"
+  },
+  {
+   "id": 14,
+   "text": "RadioShack, Quarterly report for the period ended Nov 1, 2014 (Form 10-Q). EDGAR 0000096289-14-000045. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-14-000045.txt)"
+  },
+  {
+   "id": 15,
+   "text": "RadioShack, Current report on the Chapter 11 filing (Form 8-K), Feb 6, 2015. EDGAR 0000096289-15-000007. Case No. 15-10197 (Bankr. D. Del.). [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-15-000007.txt)"
+  },
+  {
+   "id": 16,
+   "text": "RadioShack, Current report on the completed store sale (Form 8-K), Apr 2, 2015. EDGAR 0001193125-15-117783. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/000119312515117783/d902146d8k.htm)"
+  },
+  {
+   "id": 17,
+   "text": "RadioShack, Current report on the CEO’s resignation (Form 8-K), Feb 2006. EDGAR 0000950134-06-003357. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/000095013406003357/)"
+  },
+  {
+   "id": 18,
+   "text": "Texas State Historical Association, “RadioShack Corporation,” Handbook of Texas Online. [tshaonline.org](https://www.tshaonline.org/handbook/entries/radioshack-corporation)"
+  },
+  {
+   "id": 19,
+   "text": "RadioShack, Annual report for 2011 (Form 10-K). EDGAR 0000096289-12-000009. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-12-000009.txt)"
+  },
+  {
+   "id": 20,
+   "text": "PR Newswire, “RadioShack Reaches Asset Purchase Agreement with Affiliate of Standard General To Acquire up to 2,400 Stores,” Feb 2015. [prnewswire.com](https://www.prnewswire.com/news-releases/radioshack-reaches-asset-purchase-agreement-with-affiliate-of-standard-general-to-acquire-up-to-2400-stores-300031940.html)"
+  },
+  {
+   "id": 21,
+   "text": "PR Newswire, “Standard General Affiliate Acquires 1,743 RadioShack Stores,” Apr 2015. [prnewswire.com](https://www.prnewswire.com/news-releases/standard-general-affiliate-acquires-1743-radioshack-stores-300060064.html)"
+  },
+  {
+   "id": 22,
+   "text": "The New York Times, “RadioShack Layoff Notices Are Sent by E-Mail,” Aug 31, 2006. [nytimes.com](https://www.nytimes.com/2006/08/31/business/31radio.html)"
+  },
+  {
+   "id": 23,
+   "text": "USA Today, “RadioShack would like you to call it ‘The Shack’,” Aug 5, 2009. [usatoday30.usatoday.com](http://usatoday30.usatoday.com/money/advertising/2009-08-05-ads-rebrand-radioshack_N.htm)"
+  },
+  {
+   "id": 24,
+   "text": "Ad Age, “The Phone Call” (RadioShack Super Bowl XLVIII spot), Feb 2014; Wikipedia, “The ’80s Called” (secondary). [adage.com](https://adage.com/creativity/work/phone-call-60/33734/)"
+  },
+  {
+   "id": 25,
+   "text": "Reuters, “RadioShack files for bankruptcy; Sprint to take over some stores,” Feb 2015. [reuters.com](https://www.reuters.com/article/technology/radioshack-files-for-bankruptcy-sprint-to-take-over-some-stores-idUSKBN0L92XC/)"
+  },
+  {
+   "id": 26,
+   "text": "AP, “RadioShack files for second bankruptcy in 2 years,” Mar 2017. [apnews.com](https://apnews.com/general-news-1deedf9e908a4682886beb997d3ec461)"
+  },
+  {
+   "id": 27,
+   "text": "U.S. Bankruptcy Court, D. Del., In re General Wireless Operations Inc., No. 17-10506, docket and opinion and order on the Sprint settlement. [courtlistener.com](https://www.courtlistener.com/docket/4616269/general-wireless-operations-inc/)"
+  },
+  {
+   "id": 28,
+   "text": "Business Wire, “Retail Ecommerce Ventures (REV) Acquires RadioShack Brands,” Nov 19, 2020. [businesswire.com](https://www.businesswire.com/news/home/20201119005153/en/Retail-Ecommerce-Ventures-REV-Acquires-RadioShack-Brands)"
+  },
+  {
+   "id": 29,
+   "text": "AP, “Left for dead, twice, RadioShack gets another shot online,” Nov 2020. [apnews.com](https://apnews.com/article/lifestyle-coronavirus-pandemic-42eee6f3d679db0ca78e1e2a41e8108a)"
+  },
+  {
+   "id": 30,
+   "text": "Retail Dive, “RadioShack under new ownership again,” Aug 2023. [retaildive.com](https://www.retaildive.com/news/radioshack-new-ownership-unicomer-REV-retail-ecommerce-ventures-crypto/691133/)"
+  },
+  {
+   "id": 31,
+   "text": "Unicomer Group, “Unicomer Group Acquires the Global RadioShack Brand,” 2023. [grupounicomer.com](https://grupounicomer.com/en/unicomer-group-acquires-the-global-radioshack-brand/)"
+  },
+  {
+   "id": 32,
+   "text": "The Wall Street Journal, “RadioShack’s NSFW Period Appears Over, as New Owner Plots a Brand Expansion,” 2023. [wsj.com](https://www.wsj.com/articles/radioshacks-nsfw-period-appears-over-as-new-owner-plots-a-brand-expansion-dc7d6ae2)"
+  },
+  {
+   "id": 33,
+   "text": "Internet Archive Wayback Machine, captures of radioshack.com, 1996–2025, located via the CDX API in October 2026. [web.archive.org](https://web.archive.org/web/*/radioshack.com)"
+  },
+  {
+   "id": 34,
+   "text": "U.S. Census Bureau cartographic boundaries via us-atlas v3 (states-10m). [github.com](https://github.com/topojson/us-atlas)"
+  },
+  {
+   "id": 35,
+   "text": "RadioShack, Annual report for 2007 (Form 10-K). EDGAR 0000096289-08-000008. [sec.gov](https://www.sec.gov/Archives/edgar/data/96289/0000096289-08-000008.txt)"
+  },
+  {
+   "id": 36,
+   "text": "RadioShack press release, “RadioShack Invites Consumers to Rediscover ‘THE SHACK’,” Aug 4, 2009, via Franchising.com. [franchising.com](https://www.franchising.com/news/20090804_radioshack_invites_consumers_to_rediscover_the_sha.html)"
+  }
+ ],
+ "notes": [
+  {
+   "label": "Note",
+   "text": "Sales per store, the 2011–2013 gross margins and advertising as a share of sales are our calculations from reported totals."
+  },
+  {
+   "label": "Note",
+   "text": "1995–1998 sales and earnings are Tandy Corporation’s, which still included other chains, so they aren’t comparable with later years."
+  },
+  {
+   "label": "Note",
+   "text": "The 2013 10-K restated 2009–2012 sales. We use the restated figures for those years and first-reported figures before 2009."
+  },
+  {
+   "label": "Note",
+   "text": "We don’t have a sourced share price for 2014, or a reliable count of RadioShack-branded stores after April 2015."
+  },
+  {
+   "label": "Note",
+   "text": "Facts about rivals marked “general knowledge” and the TRS-80’s launch year are not from the sources listed here."
+  },
+  {
+   "label": "Note",
+   "text": "Weights in the cause-of-death section and all what-if text are editorial judgment."
+  }
+ ]
+}
