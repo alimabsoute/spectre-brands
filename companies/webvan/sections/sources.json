@@ -1,0 +1,153 @@
+{
+ "kicker": "Sources",
+ "title": "Where every number comes from",
+ "lede": "SEC filings are cited by accession number and were retrieved from EDGAR in October 2026. Press items are cited as published.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Webvan Group, Inc., Prospectus (Form 424B1), Nov 1999. EDGAR 0000891618-99-004914. [sec.gov](https://www.sec.gov/Archives/edgar/data/1092657/0000891618-99-004914.txt)"
+  },
+  {
+   "id": 2,
+   "text": "Webvan, Annual report for 1999 (Form 10-K405). EDGAR 0000891618-00-001877. [sec.gov](https://www.sec.gov/Archives/edgar/data/1092657/0000891618-00-001877.txt)"
+  },
+  {
+   "id": 3,
+   "text": "Webvan, Annual report for 2000 (Form 10-K). EDGAR 0001012870-01-001485. [sec.gov](https://www.sec.gov/Archives/edgar/data/1092657/0001012870-01-001485.txt)"
+  },
+  {
+   "id": 4,
+   "text": "Webvan, Quarterly report, Q1 2000 (10-Q). EDGAR 0000891618-00-002826. [sec.gov](https://www.sec.gov/Archives/edgar/data/1092657/0000891618-00-002826.txt)"
+  },
+  {
+   "id": 5,
+   "text": "Webvan, Quarterly report, Q2 2000 (10-Q). EDGAR 0001095811-00-002108. [sec.gov](https://www.sec.gov/Archives/edgar/data/1092657/0001095811-00-002108.txt)"
+  },
+  {
+   "id": 6,
+   "text": "Webvan, Quarterly report, Q3 2000 (10-Q). EDGAR 0000891618-00-005126. [sec.gov](https://www.sec.gov/Archives/edgar/data/1092657/0000891618-00-005126.txt)"
+  },
+  {
+   "id": 7,
+   "text": "Webvan, Quarterly report, Q1 2001 (10-Q). EDGAR 0001012870-01-500862. [sec.gov](https://www.sec.gov/Archives/edgar/data/1092657/0001012870-01-500862.txt)"
+  },
+  {
+   "id": 8,
+   "text": "Webvan, Current report (8-K), Item 3 Bankruptcy, Chapter 11 filed Jul 13, 2001, case 01-2404 (D. Del.). EDGAR 0001021408-01-504054. [sec.gov](https://www.sec.gov/Archives/edgar/data/1092657/0001021408-01-504054.txt)"
+  },
+  {
+   "id": 9,
+   "text": "Webvan, Current report (8-K) on the HomeGrocer merger, Sep 2000. EDGAR 0000891618-00-004583. [sec.gov](https://www.sec.gov/Archives/edgar/data/1092657/0000891618-00-004583.txt)"
+  },
+  {
+   "id": 10,
+   "text": "CNNfn, “Webvan shuts down,” Jul 9, 2001. [money.cnn.com](https://money.cnn.com/2001/07/09/technology/webvan/)"
+  },
+  {
+   "id": 11,
+   "text": "UPI, “Webvan to cease operations,” Jul 9, 2001. [upi.com](https://www.upi.com/Archives/2001/07/09/Webvan-to-cease-operations/4298994651200/)"
+  },
+  {
+   "id": 12,
+   "text": "CBS News, “Grocery Dot-Com Folds,” Jul 2001. Reports 750,000 active customers in seven markets. [cbsnews.com](https://www.cbsnews.com/news/grocery-dot-com-folds/)"
+  },
+  {
+   "id": 13,
+   "text": "Charles Piller, “Online Grocer Webvan Shuts Operations,” Los Angeles Times, Jul 10, 2001. [latimes.com](https://www.latimes.com/archives/la-xpm-2001-jul-10-mn-20432-story.html)"
+  },
+  {
+   "id": 14,
+   "text": "Jon Weisman, “Webvan CEO Shaheen Resigns,” E-Commerce Times, Apr 13, 2001. [ecommercetimes.com](https://www.ecommercetimes.com/story/webvan-ceo-shaheen-resigns-8974.html)"
+  },
+  {
+   "id": 15,
+   "text": "CNNfn, “Webvan quits Atlanta, names new CEO,” Apr 26, 2001. [money.cnn.com](https://money.cnn.com/2001/04/26/technology/webvan/index.htm)"
+  },
+  {
+   "id": 16,
+   "text": "Greg Sandoval, “Webvan scales back, names CEO,” CNET, Apr 26, 2001. [cnet.com](https://www.cnet.com/tech/tech-industry/webvan-scales-back-names-ceo/)"
+  },
+  {
+   "id": 17,
+   "text": "“Webvan’s CEO resigns,” The Seattle Times, Apr 14, 2001. [seattletimes.com](https://archive.seattletimes.com/archive/20010414/webvan14/webvans-ceo-resigns)"
+  },
+  {
+   "id": 18,
+   "text": "“Shaheen exits Webvan; COO Swan named temporary boss,” Supermarket News, Apr 23, 2001. [supermarketnews.com](https://www.supermarketnews.com/grocery-operations/shaheen-exits-webvan-coo-swan-named-temporary-boss)"
+  },
+  {
+   "id": 19,
+   "text": "Reuters, “From the ashes of Webvan, Amazon builds a grocery business,” Jun 2013. [reuters.com](https://www.reuters.com/article/technology/from-the-ashes-of-webvan-amazon-builds-a-grocery-business-idUSBRE95H1CC/)"
+  },
+  {
+   "id": 20,
+   "text": "Lori Preuitt, “Webvan Making a Comeback,” NBC Bay Area, Sep 22, 2009. [nbcbayarea.com](https://www.nbcbayarea.com/news/local/webvan-making-a-comeback/2088991/)"
+  },
+  {
+   "id": 21,
+   "text": "webvan.com “About Us” page, Amazon era, Wayback Machine capture of Mar 1, 2016. [web.archive.org](https://web.archive.org/web/20160301114421/www.webvan.com/content/AboutUs.htm)"
+  },
+  {
+   "id": 22,
+   "text": "Amazon, “10 things to know about Amazon Stores CEO Doug Herrington,” and Amazon IR officer biography. [aboutamazon.com](https://www.aboutamazon.com/news/retail/amazon-stores-ceo-doug-herrington-things-to-know)"
+  },
+  {
+   "id": 23,
+   "text": "“Kiva Systems Founders Share Company’s Story at Robotics Invest Event in Boston,” Robotics 24/7. [robotics247.com](https://www.robotics247.com/article/kiva_systems_founders_share_companys_story_during_robotics_invest_event_boston/Amazon_Robotics)"
+  },
+  {
+   "id": 24,
+   "text": "CNNfn, “Kozmo.com ceases operations,” Apr 12, 2001. [money.cnn.com](https://money.cnn.com/2001/04/12/technology/kozmo/index.htm)"
+  },
+  {
+   "id": 25,
+   "text": "“Streamline to close, victim of losses, tight capital,” Supermarket News, Nov 2000. [supermarketnews.com](https://www.supermarketnews.com/grocery-operations/streamline-to-close-victim-of-losses-tight-capital)"
+  },
+  {
+   "id": 26,
+   "text": "“HomeGrocer,” Wikipedia (secondary source; used only for HomeGrocer’s IPO size). [wikipedia.org](https://en.wikipedia.org/wiki/HomeGrocer)"
+  },
+  {
+   "id": 27,
+   "text": "Federal Reserve Bank of St. Louis, FRED, NASDAQ Composite Index (NASDAQCOM), weekly. [fred.stlouisfed.org](https://fred.stlouisfed.org/series/NASDAQCOM)"
+  },
+  {
+   "id": 28,
+   "text": "Internet Archive, Wayback Machine captures of webvan.com, 1999–2016, located via the CDX API. Capture links are given with each view. [web.archive.org](https://web.archive.org/web/*/webvan.com)"
+  },
+  {
+   "id": 29,
+   "text": "U.S. Census Bureau cartographic boundaries via the us-atlas project (states-10m). [github.com/topojson/us-atlas](https://github.com/topojson/us-atlas)"
+  },
+  {
+   "id": 30,
+   "text": "Nora Macaluso, “Webvan Shuts Down, Plans Bankruptcy Filing,” E-Commerce Times, Jul 9, 2001. [ecommercetimes.com](https://www.ecommercetimes.com/story/webvan-shuts-down-plans-bankruptcy-filing-11830.html)"
+  },
+  {
+   "id": 31,
+   "text": "Jay R. Ritter, “Initial Public Offerings: Updated Statistics,” University of Florida. [ufl.edu](https://site.warrington.ufl.edu/ritter/ipo-data/)"
+  }
+ ],
+ "notes": [
+  {
+   "label": "Note",
+   "text": "Quarterly figures for Q4 1999 and Q4 2000 are derived by subtraction from annual and nine-month totals."
+  },
+  {
+   "label": "Note",
+   "text": "Order counts, per-order costs and the break-even calculator are derived from reported totals and the reported average order size. Webvan did not disclose order counts."
+  },
+  {
+   "label": "Note",
+   "text": "The cash balances for Dec 2000 and Mar 2001 are as reported by CNNfn. We did not reconcile them to the balance sheet, which splits cash, short-term investments and restricted cash."
+  },
+  {
+   "label": "Note",
+   "text": "HomeGrocer’s IPO size and Kozmo’s funding come from secondary or press sources and are labeled as such."
+  },
+  {
+   "label": "Note",
+   "text": "Weights in the cause-of-death section and all what-if text are editorial judgment."
+  }
+ ]
+}

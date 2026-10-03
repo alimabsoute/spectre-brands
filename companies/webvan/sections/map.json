@@ -1,0 +1,648 @@
+{
+ "kicker": "The map",
+ "title": "Ten metro areas in two years",
+ "lede": "Webvan operated in one market for eleven months before opening a second. After the HomeGrocer merger it ran distribution centers in ten metro areas, and closed three of them in the first half of 2001.",
+ "figure": {
+  "title": "Webvan’s distribution network, 1999–2001",
+  "whatItShows": "every market Webvan served, the facility that served it, and when it closed. Press play or pick a date on the timeline: pins appear when a site opened and gray out when it closed.",
+  "caption": "Pins are placed at city level, and some are nudged apart so they don’t overlap; a thin line joins a moved pin to its true location. Facility sizes are from the 2000 10-K[^3]. Launch and closing dates are from the 10-K, 10-Q and press[^3][^7][^15]. Base map: U.S. Census Bureau via us-atlas[^29]."
+ },
+ "legend": [
+  {
+   "cat": "a",
+   "label": "Distribution centers and markets"
+  },
+  {
+   "cat": "c",
+   "label": "Offices and customer service"
+  },
+  {
+   "cat": "e",
+   "label": "On the 2001 auction list, never opened"
+  }
+ ],
+ "pins": [
+  {
+   "id": "oak",
+   "label": "1",
+   "cat": "a",
+   "ll": [
+    -122.2711,
+    37.8044
+   ],
+   "title": "Oakland, CA: the first distribution center",
+   "text": "340,000 sq ft, serving the Bay Area from June 1999, and Sacramento until early 2001.",
+   "src": [
+    1,
+    3,
+    15
+   ],
+   "from": "1999-06-02",
+   "to": "2001-07-09",
+   "offset": [
+    40,
+    4
+   ],
+   "when": "Jun 1999 – Jul 2001"
+  },
+  {
+   "id": "sac",
+   "label": "2",
+   "cat": "a",
+   "ll": [
+    -121.4944,
+    38.5816
+   ],
+   "title": "Sacramento, CA",
+   "text": "Served from Oakland. Listed on the Nov 2000 home page; service ended in early 2001.",
+   "src": [
+    3,
+    15
+   ],
+   "from": "2000-09-05",
+   "to": "2001-02-15",
+   "offset": [
+    34,
+    -30
+   ],
+   "when": "by Nov 2000 – early 2001"
+  },
+  {
+   "id": "atl",
+   "label": "3",
+   "cat": "a",
+   "ll": [
+    -84.0713,
+    34.0515
+   ],
+   "title": "Suwanee, GA: Atlanta",
+   "text": "350,000 sq ft. Opened May 2000; closed April 2001 with about 485 jobs cut.",
+   "src": [
+    3,
+    15
+   ],
+   "from": "2000-05-01",
+   "to": "2001-04-26",
+   "when": "May 2000 – Apr 2001"
+  },
+  {
+   "id": "chi",
+   "label": "4",
+   "cat": "a",
+   "ll": [
+    -88.1348,
+    41.9125
+   ],
+   "title": "Carol Stream, IL: Chicago",
+   "text": "355,000 sq ft, the largest center. Opened August 2000.",
+   "src": [
+    3
+   ],
+   "from": "2000-08-01",
+   "to": "2001-07-09",
+   "when": "Aug 2000 – Jul 2001"
+  },
+  {
+   "id": "sea",
+   "label": "5",
+   "cat": "a",
+   "ll": [
+    -122.2171,
+    47.4829
+   ],
+   "title": "Renton, WA: Seattle",
+   "text": "110,000 sq ft, from HomeGrocer, which began in Seattle in June 1998.",
+   "src": [
+    3
+   ],
+   "from": "2000-09-05",
+   "to": "2001-07-09",
+   "offset": [
+    -38,
+    14
+   ],
+   "when": "Webvan from Sep 2000"
+  },
+  {
+   "id": "pdx",
+   "label": "6",
+   "cat": "a",
+   "ll": [
+    -122.6765,
+    45.5231
+   ],
+   "title": "Portland, OR",
+   "text": "A HomeGrocer market from May 1999, served with Seattle.",
+   "src": [
+    3
+   ],
+   "from": "2000-09-05",
+   "to": "2001-07-09",
+   "offset": [
+    -30,
+    18
+   ],
+   "when": "Webvan from Sep 2000"
+  },
+  {
+   "id": "la",
+   "label": "7",
+   "cat": "a",
+   "ll": [
+    -118.282,
+    33.8317
+   ],
+   "title": "Carson, CA: Los Angeles",
+   "text": "100,000 sq ft, from HomeGrocer (Sep 1999).",
+   "src": [
+    3
+   ],
+   "from": "2000-09-05",
+   "to": "2001-07-09",
+   "offset": [
+    -34,
+    -4
+   ],
+   "when": "Webvan from Sep 2000"
+  },
+  {
+   "id": "oc",
+   "label": "8",
+   "cat": "a",
+   "ll": [
+    -117.9243,
+    33.8704
+   ],
+   "title": "Fullerton, CA: Orange County",
+   "text": "100,000 sq ft, from HomeGrocer (Sep 1999).",
+   "src": [
+    3
+   ],
+   "from": "2000-09-05",
+   "to": "2001-07-09",
+   "offset": [
+    30,
+    -22
+   ],
+   "when": "Webvan from Sep 2000"
+  },
+  {
+   "id": "sd",
+   "label": "9",
+   "cat": "a",
+   "ll": [
+    -117.1611,
+    32.7157
+   ],
+   "title": "San Diego, CA",
+   "text": "102,000 sq ft, from HomeGrocer (May 2000). First site moved to Webvan’s platform, Jan 2001.",
+   "src": [
+    3
+   ],
+   "from": "2000-09-05",
+   "to": "2001-07-09",
+   "offset": [
+    -14,
+    30
+   ],
+   "when": "Webvan from Sep 2000"
+  },
+  {
+   "id": "dal",
+   "label": "10",
+   "cat": "a",
+   "ll": [
+    -96.89,
+    32.9537
+   ],
+   "title": "Carrollton, TX: Dallas",
+   "text": "From HomeGrocer, operating from May 2000. Closed February 2001; charge of up to $60.0M.",
+   "src": [
+    3
+   ],
+   "from": "2000-09-05",
+   "to": "2001-02-01",
+   "when": "Webvan Sep 2000 – Feb 2001"
+  },
+  {
+   "id": "hq",
+   "label": "11",
+   "cat": "c",
+   "ll": [
+    -122.2711,
+    37.5585
+   ],
+   "title": "Foster City, CA: headquarters",
+   "text": "About 113,000 sq ft of offices at 1241 E. Hillsdale Blvd.",
+   "src": [
+    1,
+    3
+   ],
+   "from": "1999-06-02",
+   "to": "2001-07-09",
+   "offset": [
+    30,
+    36
+   ]
+  },
+  {
+   "id": "kir",
+   "label": "12",
+   "cat": "c",
+   "ll": [
+    -122.2087,
+    47.6815
+   ],
+   "title": "Kirkland, WA: offices",
+   "text": "HomeGrocer’s home; about 82,000 sq ft. About 400 jobs here and in Foster City were cut in April 2001.",
+   "src": [
+    3,
+    15
+   ],
+   "from": "2000-09-05",
+   "to": "2001-07-09",
+   "offset": [
+    34,
+    -8
+   ]
+  },
+  {
+   "id": "lv",
+   "label": "13",
+   "cat": "c",
+   "ll": [
+    -115.1398,
+    36.1699
+   ],
+   "title": "Las Vegas, NV: customer service",
+   "text": "The National Customer Service Center, 33,500 sq ft, listed in the 2000 10-K.",
+   "src": [
+    3
+   ],
+   "from": "2000-09-05",
+   "to": "2001-07-09"
+  },
+  {
+   "id": "gb",
+   "label": "14",
+   "cat": "e",
+   "ll": [
+    -76.6247,
+    39.1626
+   ],
+   "title": "Glen Burnie, MD",
+   "text": "On the October 2001 auction list. The prospectus planned a Washington, D.C. market; we found no record that it opened.",
+   "src": [
+    1,
+    28
+   ],
+   "from": "2001-10-01"
+  }
+ ],
+ "steps": [
+  {
+   "date": "1999-06-02",
+   "label": "Jun 1999",
+   "title": "The Bay Area store opens",
+   "text": "Commercial launch from the 340,000 sq ft Oakland center, designed for 8,000 orders a day. Headquarters is in Foster City.",
+   "src": [
+    1,
+    3
+   ],
+   "pins": [
+    "oak",
+    "hq"
+   ],
+   "note": {
+    "box": [
+     150,
+     150
+    ],
+    "text": [
+     "Jun 1999: Oakland opens. 340,000 sq ft,",
+     "designed for 8,000 orders a day."
+    ],
+    "at": "oak"
+   },
+   "stat": {
+    "value": "1",
+    "label": "market"
+   }
+  },
+  {
+   "date": "1999-11-05",
+   "label": "Nov 1999",
+   "title": "IPO at $15",
+   "text": "Still one market. The IPO raises $375M gross, and Bechtel is already contracted to build up to 26 more centers.",
+   "src": [
+    1
+   ],
+   "pins": [
+    "oak"
+   ],
+   "note": {
+    "box": [
+     170,
+     60
+    ],
+    "text": [
+     "Five months in, one market,",
+     "and $375M from the IPO."
+    ],
+    "at": "oak"
+   },
+   "stat": {
+    "value": "$375M",
+    "label": "IPO, gross"
+   }
+  },
+  {
+   "date": "2000-05-01",
+   "label": "May 2000",
+   "title": "Atlanta opens",
+   "text": "A 350,000 sq ft center in Suwanee, Georgia, the second market, while the Bay Area still loses money.",
+   "src": [
+    3
+   ],
+   "pins": [
+    "atl"
+   ],
+   "note": {
+    "box": [
+     600,
+     470
+    ],
+    "text": [
+     "Atlanta: opened May 2000,",
+     "closed Apr 2001. ~485 jobs."
+    ],
+    "at": "atl"
+   },
+   "stat": {
+    "value": "2",
+    "label": "markets"
+   }
+  },
+  {
+   "date": "2000-08-01",
+   "label": "Aug 2000",
+   "title": "Chicago opens",
+   "text": "A 355,000 sq ft center in Carol Stream, Illinois, the biggest in the network.",
+   "src": [
+    3
+   ],
+   "pins": [
+    "chi"
+   ],
+   "note": {
+    "box": [
+     470,
+     96
+    ],
+    "text": [
+     "Chicago: 355,000 sq ft. Opened Aug 2000,",
+     "eleven months before the end."
+    ],
+    "at": "chi"
+   },
+   "stat": {
+    "value": "3",
+    "label": "markets"
+   }
+  },
+  {
+   "date": "2000-09-05",
+   "label": "Sep 2000",
+   "title": "HomeGrocer merger closes",
+   "text": "About $1.04B in stock adds Seattle, Portland, Los Angeles, Orange County, San Diego and Dallas, on a different technology platform. Sacramento also appears on the Nov 2000 city list.",
+   "src": [
+    3
+   ],
+   "pins": [
+    "sea",
+    "pdx",
+    "la",
+    "oc",
+    "sd",
+    "dal",
+    "kir",
+    "lv",
+    "sac"
+   ],
+   "note": {
+    "box": [
+     180,
+     48
+    ],
+    "text": [
+     "HomeGrocer’s home turf: Seattle since",
+     "Jun 1998. Merged in Sep 2000 for ~$1.04B."
+    ],
+    "at": "sea"
+   },
+   "stat": {
+    "value": "10",
+    "label": "metro areas"
+   },
+   "estimate": "Sacramento’s launch date is not in our sources; it is shown from the merger, the first date we can place it."
+  },
+  {
+   "date": "2001-02-01",
+   "label": "Feb 2001",
+   "title": "Dallas closes",
+   "text": "The ex-HomeGrocer Carrollton facility shuts after about nine months, with up to $60M in charges. Sacramento service ends in early 2001.",
+   "src": [
+    3,
+    15
+   ],
+   "pins": [
+    "dal",
+    "sac"
+   ],
+   "note": {
+    "box": [
+     360,
+     500
+    ],
+    "text": [
+     "Dallas: May 2000 – Feb 2001.",
+     "Up to $60M in charges."
+    ],
+    "at": "dal"
+   },
+   "stat": {
+    "value": "8",
+    "label": "markets left"
+   }
+  },
+  {
+   "date": "2001-04-26",
+   "label": "Apr 2001",
+   "title": "Atlanta closes",
+   "text": "About 485 jobs there and 400 at headquarters and Kirkland. Cash is down to $115M.",
+   "src": [
+    15
+   ],
+   "pins": [
+    "atl",
+    "hq",
+    "kir"
+   ],
+   "note": {
+    "box": [
+     600,
+     470
+    ],
+    "text": [
+     "Atlanta: closed Apr 2001.",
+     "About 485 jobs."
+    ],
+    "at": "atl"
+   },
+   "stat": {
+    "value": "$115M",
+    "label": "cash left"
+   }
+  },
+  {
+   "date": "2001-07-09",
+   "label": "Jul 9, 2001",
+   "title": "Shutdown",
+   "text": "All deliveries stop in seven markets. About 2,000 workers are let go and 750,000 active customers lose the service.",
+   "src": [
+    10,
+    11,
+    12
+   ],
+   "pins": [
+    "oak",
+    "chi",
+    "sea",
+    "pdx",
+    "la",
+    "oc",
+    "sd"
+   ],
+   "note": {
+    "box": [
+     150,
+     468
+    ],
+    "text": [
+     "Three ex-HomeGrocer centers in Southern",
+     "California, all shut on Jul 9, 2001."
+    ],
+    "at": "la"
+   },
+   "stat": {
+    "value": "750,000",
+    "label": "customers lose service"
+   }
+  },
+  {
+   "date": "2001-10-01",
+   "label": "Oct 2001",
+   "title": "The auctions",
+   "text": "Court-approved auctions at ten facility sites and headquarters, including a Glen Burnie, Maryland site with no record of ever opening.",
+   "src": [
+    28
+   ],
+   "pins": [
+    "gb"
+   ],
+   "note": {
+    "box": [
+     620,
+     300
+    ],
+    "text": [
+     "Glen Burnie, MD: on the 2001",
+     "auction list. No record it opened."
+    ],
+    "at": "gb"
+   },
+   "stat": {
+    "value": "0",
+    "label": "markets"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "table",
+   "columns": [
+    "Facility",
+    "Sq ft",
+    "Market",
+    "Opened",
+    "Fate"
+   ],
+   "rows": [
+    [
+     "Oakland, CA",
+     "340,000",
+     "Bay Area and Sacramento",
+     "Jun 1999",
+     "Sacramento dropped early 2001; Bay Area shut Jul 9, 2001"
+    ],
+    [
+     "Suwanee, GA",
+     "350,000",
+     "Atlanta",
+     "May 2000",
+     "Closed Apr 2001, about 485 jobs"
+    ],
+    [
+     "Carol Stream, IL",
+     "355,000",
+     "Chicago",
+     "Aug 2000",
+     "Shut Jul 9, 2001"
+    ],
+    [
+     "Renton, WA",
+     "110,000",
+     "Seattle and Portland",
+     "HomeGrocer, Jun 1998 (Seattle)",
+     "Shut Jul 9, 2001"
+    ],
+    [
+     "Fullerton, CA",
+     "100,000",
+     "Orange County",
+     "HomeGrocer, Sep 1999",
+     "Shut Jul 9, 2001"
+    ],
+    [
+     "Carson, CA",
+     "100,000",
+     "Los Angeles",
+     "HomeGrocer, Sep 1999",
+     "Shut Jul 9, 2001"
+    ],
+    [
+     "San Diego, CA",
+     "102,000",
+     "San Diego",
+     "HomeGrocer, May 2000",
+     "Shut Jul 9, 2001"
+    ],
+    [
+     "Carrollton, TX",
+     "n/a",
+     "Dallas",
+     "HomeGrocer, May 2000",
+     "Closed Feb 2001; restructuring charge up to $60.0M"
+    ]
+   ],
+   "numeric": [
+    1
+   ],
+   "title": "Operating facilities in the 2000 10-K"
+  },
+  {
+   "kind": "note",
+   "body": "Smaller “station” sites fed the large centers, and the 10-K doesn’t list them. The October 2001 auction list adds Azusa, Irvine and Kent, plus Glen Burnie, Maryland, which fits the planned Washington, D.C. market.[^1][^28] We found no evidence that Glen Burnie ever served customers."
+  }
+ ]
+}
