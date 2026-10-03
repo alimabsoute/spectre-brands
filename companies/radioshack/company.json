@@ -1,0 +1,110 @@
+{
+ "name": "RadioShack",
+ "number": "003",
+ "tier": "ghost",
+ "category": "consumer",
+ "years": "1921 – 2015",
+ "place": "Electronics retail · Fort Worth, Texas",
+ "title": "RadioShack (1921–2015): post-mortem · Spectre Brands",
+ "description": "How RadioShack went from 5,289 stores to two bankruptcies, and why the name still lives on. Sourced charts, a store map with a linked timeline, and archived screenshots.",
+ "theme": {
+  "accent": "#c8102e",
+  "soft": "#f6e3df"
+ },
+ "card": {
+  "blurb": "Once a store within a short drive of almost every American. It kept the stores long after the reason to visit them had moved online.",
+  "stat": {
+   "value": "5,289",
+   "label": "company stores at the 2001 peak"
+  },
+  "spark": [
+   4831,
+   4942,
+   4972,
+   5039,
+   5087,
+   5109,
+   5289,
+   5161,
+   5121,
+   5046,
+   4972,
+   4467,
+   4447,
+   4453,
+   4476,
+   4486,
+   4476,
+   4395,
+   4297,
+   4216
+  ],
+  "peak": 6,
+  "logo": "img/logo-1996.avif",
+  "logoYear": "1996"
+ },
+ "hero": {
+  "dates": "Founded in Boston in 1921. Filed for Chapter 11 on February 5, 2015. The name is still for sale on shelves.",
+  "standfirst": "For decades RadioShack was the store within a short drive of almost every American, selling batteries, cables and a part for anything. It kept the stores long after the reason to visit them had moved online and into phone carriers’ hands.",
+  "deck": "At its peak in 2001 it ran 5,289 company stores in the U.S. and about 2,100 more dealer outlets. By 2013 it had lost $400.2M in a year, and its stockholders’ equity had fallen by four-fifths in four years. Two bankruptcies later the brand belongs to a Central American retailer and lives on through dealer stores and a website. This post-mortem is built from 20 years of RadioShack’s 10-Ks, its bankruptcy filings, contemporary press and the archived website.",
+  "art": "art/storefront.svg",
+  "artCaption": "Original drawing of a late-1990s RadioShack storefront with the circle-R sign. Not an official asset.",
+  "archive": [
+   {
+    "image": "img/archive-1996-12-home.avif",
+    "caption": "First website, 1996"
+   },
+   {
+    "image": "img/archive-2005-03-home.avif",
+    "caption": "The phone store, 2005"
+   },
+   {
+    "image": "img/archive-2014-11-home.avif",
+    "caption": "Last redesign, 2014"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "5,289",
+    "text": "company-operated U.S. stores at the end of 2001, the peak[^6]"
+   },
+   {
+    "value": "$5.08B",
+    "text": "net sales and operating revenues in 2005, the highest as RadioShack Corporation[^9]"
+   },
+   {
+    "value": "−$400.2M",
+    "text": "net loss in 2013, after a $139.4M loss in 2012[^13]"
+   },
+   {
+    "value": "1,743",
+    "text": "stores sold to a Standard General affiliate in the April 2015 bankruptcy sale. The rest closed[^16][^21]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The footprint outlived the business.",
+   "text": "Company stores peaked at 5,289 in 2001 and were still 4,297 at the end of 2013, while sales per store fell by about a fifth between 2005 and 2013 (derived).[^6][^13]"
+  },
+  {
+   "title": "Phones became half the company, on someone else’s terms.",
+   "text": "Wireless was 28.7% of sales in 2003 and the mobility platform 52.4% in 2013. In 2013 the 10-K blamed falling postpaid phone sales and rising handset costs for a “substantial decrease” in gross profit.[^9][^13]"
+  },
+  {
+   "title": "Margins went first.",
+   "text": "Gross margin was 50.3% in 2004. By our calculation from the 10-K it was 34.1% in 2013.[^8][^13]"
+  },
+  {
+   "title": "The cash ran out quickly at the end.",
+   "text": "Cash fell from $908.2M at the end of 2009 to $43.3M by November 1, 2014. Chapter 11 followed three months later.[^14][^15]"
+  },
+  {
+   "title": "The name never died.",
+   "text": "It has since passed through a hedge-fund affiliate, a second bankruptcy, an e-commerce roll-up that used it for a crypto token, and a Salvadoran retailer that has been a franchisee since 1998.[^26][^28][^30]"
+  }
+ ]
+}

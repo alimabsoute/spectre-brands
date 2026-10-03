@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a 2009 &quot;The Shack&quot; campaign sign beside a smartphone">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 214 L312 214" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<path d="M60 214 L60 160 M180 214 L180 160" fill="none" stroke-width="4"/>
+<rect x="24" y="28" width="196" height="132" rx="18" fill="#e3342f"/>
+<circle cx="64" cy="70" r="22" fill="#fff"/>
+<path d="M56 82 L56 58 L66 58 C74 58 76 70 66 70 L58 70 M64 70 L74 82" fill="none" stroke="#e3342f" stroke-width="4"/>
+<text x="96" y="66" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="17" fill="#fff" stroke="none" letter-spacing="1">THE</text>
+<text x="44" y="130" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="46" fill="#fff" stroke="none" letter-spacing="-1.5">SHACK</text>
+<rect x="236" y="62" width="64" height="116" rx="10" fill="#2a2724"/><rect x="243" y="74" width="50" height="86" rx="3" fill="#cfe0ee"/>
+<g fill="#fff" stroke-width="1.5"><rect x="249" y="82" width="12" height="12" rx="3" fill="#8db446"/><rect x="265" y="82" width="12" height="12" rx="3" fill="#e3342f"/><rect x="249" y="100" width="12" height="12" rx="3" fill="#2f5f9f"/><rect x="265" y="100" width="12" height="12" rx="3" fill="#f3d27a"/></g>
+<circle cx="268" cy="168" r="4" fill="#6d665c"/>
+<text x="268" y="204" text-anchor="middle" font-family="Caveat, cursive" font-size="18" fill="#1f2a44" stroke="none">2009 rebrand</text>
+</g></svg>

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a TRS-80 Model I computer with monitor and cassette recorder">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 232 L312 232" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<path d="M72 20 L248 20 C254 20 258 24 258 30 L258 138 L62 138 L62 30 C62 24 66 20 72 20 Z" fill="#c9c6c0"/>
+<rect x="80" y="34" width="160" height="92" rx="10" fill="#22302a"/>
+<text x="94" y="62" font-family="'Courier New', monospace" font-size="14" fill="#b7f0c4" stroke="none">MEM SIZE?</text>
+<text x="94" y="80" font-family="'Courier New', monospace" font-size="14" fill="#b7f0c4" stroke="none">RADIO SHACK</text>
+<text x="94" y="98" font-family="'Courier New', monospace" font-size="14" fill="#b7f0c4" stroke="none">LEVEL I BASIC</text>
+<text x="94" y="116" font-family="'Courier New', monospace" font-size="14" fill="#b7f0c4" stroke="none">READY</text><rect x="148" y="106" width="8" height="12" fill="#b7f0c4" stroke="none"/>
+<path d="M100 138 L92 152 L228 152 L220 138" fill="#8f8b84"/>
+<path d="M30 168 L230 168 L246 220 L18 220 Z" fill="#3d3a35"/>
+<path d="M30 168 L230 168 L232 176 L28 176 Z" fill="#c9c6c0"/>
+<g fill="#e9e5dd" stroke-width="1.6"><rect x="40" y="184" width="14" height="10" rx="1.5"/><rect x="58" y="184" width="14" height="10" rx="1.5"/><rect x="76" y="184" width="14" height="10" rx="1.5"/><rect x="94" y="184" width="14" height="10" rx="1.5"/><rect x="112" y="184" width="14" height="10" rx="1.5"/><rect x="130" y="184" width="14" height="10" rx="1.5"/><rect x="148" y="184" width="14" height="10" rx="1.5"/><rect x="166" y="184" width="14" height="10" rx="1.5"/><rect x="184" y="184" width="14" height="10" rx="1.5"/><rect x="202" y="184" width="14" height="10" rx="1.5"/>
+<rect x="44" y="198" width="14" height="10" rx="1.5"/><rect x="62" y="198" width="104" height="10" rx="1.5"/><rect x="170" y="198" width="14" height="10" rx="1.5"/><rect x="188" y="198" width="14" height="10" rx="1.5"/><rect x="206" y="198" width="14" height="10" rx="1.5"/></g>
+<text x="210" y="216" font-family="Inter, sans-serif" font-weight="700" font-size="8" fill="#e9e5dd" stroke="none">TRS-80</text>
+<rect x="254" y="178" width="56" height="42" rx="3" fill="#2a2724"/><rect x="262" y="186" width="40" height="16" rx="2" fill="#6d665c"/><circle cx="273" cy="194" r="4" fill="#c9c6c0"/><circle cx="291" cy="194" r="4" fill="#c9c6c0"/>
+<g fill="#c9c6c0" stroke-width="1.5"><rect x="260" y="208" width="8" height="6"/><rect x="272" y="208" width="8" height="6"/><rect x="284" y="208" width="8" height="6"/><rect x="296" y="208" width="8" height="6"/></g>
+</g></svg>

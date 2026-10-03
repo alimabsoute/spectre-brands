@@ -1,0 +1,19 @@
+<svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a 1990s mall-strip RadioShack storefront with its red circle-R sign">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 240 L352 240" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<rect x="20" y="40" width="320" height="200" fill="#efe9dc"/>
+<rect x="20" y="40" width="320" height="58" fill="#fbfaf6"/>
+<circle cx="74" cy="69" r="20" fill="#d71e28"/>
+<path d="M66 81 L66 57 L76 57 C84 57 86 69 76 69 L68 69 M74 69 L84 81" fill="none" stroke="#fff" stroke-width="4"/>
+<text x="102" y="80" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="31" fill="#1d1b18" stroke="none" letter-spacing="-1">RadioShack</text>
+<text x="104" y="93" font-family="Inter, Arial, sans-serif" font-size="8" fill="#6d665c" stroke="none" letter-spacing="1">YOU'VE GOT QUESTIONS. WE'VE GOT ANSWERS.</text>
+<path d="M20 98 L340 98" fill="none"/>
+<rect x="36" y="112" width="120" height="112" fill="#cfe0ee"/><rect x="204" y="112" width="120" height="112" fill="#cfe0ee"/>
+<rect x="164" y="112" width="32" height="128" fill="#e4dccb"/><path d="M190 172 L190 184" stroke-width="3"/>
+<g stroke-width="2.4"><rect x="48" y="170" width="44" height="30" fill="#3d3a35"/><rect x="53" y="175" width="26" height="20" fill="#9cc1a1"/><circle cx="85" cy="185" r="3" fill="#d6cfc1"/>
+<rect x="100" y="156" width="46" height="44" fill="#c7c2b8"/><circle cx="114" cy="178" r="9" fill="#3d3a35"/><circle cx="134" cy="178" r="9" fill="#3d3a35"/><rect x="117" y="160" width="12" height="6" fill="#3d3a35"/>
+<rect x="214" y="160" width="20" height="40" rx="4" fill="#3d3a35"/><rect x="218" y="166" width="12" height="9" fill="#9cc1a1"/>
+<rect x="244" y="150" width="70" height="50" fill="#fbfaf6"/><text x="279" y="172" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="13" fill="#d71e28" stroke="none">SALE</text><text x="279" y="190" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#1d1b18" stroke="none">Batteries</text></g>
+<path d="M44 124 L70 150 M216 124 L250 158" stroke="#fff" stroke-width="3" opacity=".8"/>
+<path d="M36 224 L156 224 M204 224 L324 224" fill="none"/>
+</g></svg>
