@@ -1,0 +1,818 @@
+[
+ {
+  "slug": "aol",
+  "id": 18,
+  "url": "https://web.archive.org/web/20250809114011/https://help.aol.com/articles/dial-up-internet-to-be-discontinued",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 1,
+  "url": "https://www.nytimes.com/1982/12/19/business/the-game-turns-serious-at-atari.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 2,
+  "url": "https://www.nytimes.com/1982/12/24/business/warner-reports-atari-insider-case.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "aol",
+  "id": 37,
+  "url": "https://web.archive.org/web/19961220154856/http://www.aol.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 3,
+  "url": "https://www.nytimes.com/1983/07/08/business/chief-is-replaced-at-troubled-atari.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "aol",
+  "id": 37,
+  "url": "https://web.archive.org/web/20001019042752/http://www.aol.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "aol",
+  "id": 37,
+  "url": "https://web.archive.org/web/20060913084931/http://www.aol.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 4,
+  "url": "https://www.nytimes.com/1983/09/28/business/atari-parts-are-dumped.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 5,
+  "url": "https://www.nytimes.com/1983/10/17/business/video-games-industry-comes-down-to-earth.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "aol",
+  "id": 37,
+  "url": "https://web.archive.org/web/20250929235150/https://www.aol.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 7,
+  "url": "https://www.nytimes.com/1984/07/03/business/warner-sells-atari-to-tramiel.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 6,
+  "url": "https://www.nytimes.com/1984/01/08/business/the-battle-for-survival-at-warner.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 8,
+  "url": "https://www.nytimes.com/1982/12/07/business/a-squeeze-in-video-games.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 12,
+  "url": "https://www.nytimes.com/1996/02/14/business/company-news-atari-agrees-to-merge-with-disk-drive-maker.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 14,
+  "url": "https://www.nytimes.com/2001/01/30/business/company-news-hasbro-completes-sale-of-interactive-business.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 31,
+  "url": "https://www.nytimes.com/1989/07/13/business/company-news-hasbro-s-purchase-of-coleco-s-assets.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 32,
+  "url": "https://web.archive.org/web/20070531134256/http://www.atari.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 32,
+  "url": "https://web.archive.org/web/20100206063948/http://www.atari.com:80/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 32,
+  "url": "https://web.archive.org/web/20031004143813/http://atari.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "atari",
+  "id": 32,
+  "url": "https://web.archive.org/web/20250301032554/https://atari.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "burger-chef",
+  "id": 1,
+  "url": "https://www.nytimes.com/1972/06/11/archives/at-general-foods-did-success-breed-failure-hamburger-chain-other.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "blockbuster",
+  "id": 33,
+  "url": "https://web.archive.org/web/20001017141409/http://www.blockbuster.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "blockbuster",
+  "id": 33,
+  "url": "https://web.archive.org/web/20140109220134/http://www.blockbuster.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "blockbuster",
+  "id": 33,
+  "url": "https://web.archive.org/web/19971110005804/http://www.blockbuster.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "burger-chef",
+  "id": 2,
+  "url": "https://www.nytimes.com/1981/03/02/business/strategy-shift-at-general-foods.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "burger-chef",
+  "id": 3,
+  "url": "https://www.nytimes.com/1981/12/10/business/hardee-s-to-buy-burger-chef.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "burger-chef",
+  "id": 1,
+  "url": "https://web.archive.org/web/20241216095521/https://www.nytimes.com/1972/06/11/archives/at-general-foods-did-success-breed-failure-hamburger-chain-other.html",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "burger-chef",
+  "id": 2,
+  "url": "https://web.archive.org/web/20150524075522/http://www.nytimes.com/1981/03/02/business/strategy-shift-at-general-foods.html",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "burger-chef",
+  "id": 7,
+  "url": "https://web.archive.org/web/20220121061228/https://www.indystar.com/story/news/history/retroindy/2017/09/05/retroindy-burger-chef-incrediburgible/609456001/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "burger-chef",
+  "id": 11,
+  "url": "https://web.archive.org/web/2014/http://www.prnewswire.com/news-releases/hardeesr-brings-back-burger-chefr-big-sheftm-hamburger-for-a-limited-time-in-select-markets-58710217.html",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "circuit-city",
+  "id": 38,
+  "url": "https://web.archive.org/web/20100104070726/http://www.circuitcity.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "circuit-city",
+  "id": 38,
+  "url": "https://web.archive.org/web/20000815053607/http://www.circuitcity.com/init.jsp",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "crystal-pepsi",
+  "id": 18,
+  "url": "https://web.archive.org/web/2020/https://www.nytimes.com/1994/03/31/business/media-business-advertising-pepsi-cola-stamp-dates-for-freshness-soda-cans.html",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "dreamcast",
+  "id": 17,
+  "url": "https://archive.rpgamer.com/news/Q3-1999/092399b.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "dreamcast",
+  "id": 24,
+  "url": "https://web.archive.org/web/20060908045026/http://www.xbox.com/zh-SG/community/news/2006/20060510.htm",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "dreamcast",
+  "id": 27,
+  "url": "https://web.archive.org/web/20000817093731/http://www.sega.net/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "howard-johnsons",
+  "id": 3,
+  "url": "https://www.upi.com/Archives/1985/09/24/Marriott-to-buy-Howard-Johnson/9000496382400/",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "groupon",
+  "id": 29,
+  "url": "https://web.archive.org/web/20081105124847/http://groupon.thepoint.com:80/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "groupon",
+  "id": 29,
+  "url": "https://web.archive.org/web/20080705025305/http://thepoint.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "groupon",
+  "id": 29,
+  "url": "https://web.archive.org/web/*/groupon.com",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "howard-johnsons",
+  "id": 8,
+  "url": "https://web.archive.org/web/20230320201613/http://www.timesunion.com/local/article/Restaurants-served-a-slice-of-Americana-3694523.php",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kb-toys",
+  "id": 13,
+  "url": "https://web.archive.org/web/20021008190723/http://money.cnn.com/2000/06/13/deals/kbkids/index.htm",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kb-toys",
+  "id": 14,
+  "url": "https://web.archive.org/web/20181010215101/https://money.cnn.com/2000/12/08/deals/kbtoys/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kb-toys",
+  "id": 10,
+  "url": "https://web.archive.org/web/20011210021218/http://money.cnn.com/1999/05/19/deals/consolidated/index.htm",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kb-toys",
+  "id": 30,
+  "url": "https://www.masslive.com/business-news/2018/03/kb_toys.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kb-toys",
+  "id": 24,
+  "url": "https://web.archive.org/web/20180516014819/http://www.berkshireeagle.com/stories/massive-layoffs-at-kb,72176",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 2,
+  "url": "https://openjurist.org/722/f2d/1063",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 1,
+  "url": "https://www.nytimes.com/1982/02/25/business/ill-timed-acquisitions-helped-force-lionel-into-chapter-11.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 3,
+  "url": "https://www.nytimes.com/1982/07/12/business/2-lionel-chiefs-are-replaced.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 4,
+  "url": "https://www.nytimes.com/1983/03/17/business/business-people-lionel-officer-promoted-to-chairman-and-chief.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 5,
+  "url": "https://www.nytimes.com/1983/03/23/business/unsecured-credit-pact-with-lionel.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 6,
+  "url": "https://www.nytimes.com/1983/06/21/business/a-creditor-plan-filed-by-lionel.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 7,
+  "url": "https://www.nytimes.com/1983/09/27/business/lionel-corp-to-sell-82-stake-in-dale.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 8,
+  "url": "https://www.nytimes.com/1983/09/04/business/the-new-game-at-toys-r-us.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 9,
+  "url": "https://www.nytimes.com/1986/04/17/business/business-people-a-toy-train-collector-finds-a-niche-at-lionel.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 11,
+  "url": "https://www.nytimes.com/1989/02/14/business/company-news-toussie-seeks-to-acquire-lionel.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 10,
+  "url": "https://www.nytimes.com/1988/11/13/business/kiddie-city-tests-discount-toys-in-manhattan.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 13,
+  "url": "https://www.nytimes.com/1989/11/23/business/toussie-to-review-offer-to-buy-lionel.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 12,
+  "url": "https://www.nytimes.com/1989/09/12/business/company-news-lionel-receives-takeover-offer.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 14,
+  "url": "https://www.nytimes.com/1990/01/23/business/briefs-988190.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 17,
+  "url": "https://www.upi.com/Archives/1991/06/14/Lionel-one-time-trainmaker-files-for-bankruptcy/3411676872000/",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 15,
+  "url": "https://www.nytimes.com/1990/04/06/business/company-news-lionel-is-urged-to-sell-big-stake.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 16,
+  "url": "https://www.nytimes.com/1991/06/15/business/lionel-seeks-chapter-11-protection.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 19,
+  "url": "https://www.nytimes.com/1992/05/08/business/company-news-child-world-files-for-bankruptcy.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 20,
+  "url": "https://www.nytimes.com/1992/06/12/business/company-news-child-world-and-lionel-in-merger-talks.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 24,
+  "url": "https://www.upi.com/Archives/1993/06/02/Lionel-the-toy-merchant-going-out-of-business/8677738993600/",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 21,
+  "url": "https://www.nytimes.com/1992/08/05/business/company-news-child-world-will-close-as-talks-with-lionel-fail.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 22,
+  "url": "https://www.nytimes.com/1992/10/14/business/company-news-court-allows-lionel-to-increase-borrowing.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 29,
+  "url": "https://openjurist.org/29/f3d/88",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 25,
+  "url": "https://www.nytimes.com/1993/06/03/business/company-news-lionel-will-liquidate-closing-kiddie-city-toy-chain.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 30,
+  "url": "https://www.nytimes.com/1991/02/21/business/market-place-another-offer-for-child-world.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 23,
+  "url": "https://web.archive.org/web/20120322165900/http://findarticles.com/p/articles/mi_m3092/is_n3_v32/ai_13456769/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "pets-com",
+  "id": 21,
+  "url": "https://investor.chewy.com/news-and-events/news/news-details/2019/Chewy-Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "pets-com",
+  "id": 18,
+  "url": "https://web.archive.org/web/20020602084525/www.barnone.com/sockpuppetrelease.htm",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "pets-com",
+  "id": 15,
+  "url": "https://web.archive.org/web/20010211182748/www.ecompany.com/articles/mag/print/0,1643,6586,00.html",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "quibi",
+  "id": 5,
+  "url": "https://www.nytimes.com/2020/05/11/business/media/jeffrey-katzenberg-quibi-coronavirus.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "quibi",
+  "id": 8,
+  "url": "https://www.techspot.com/community/topics/quibi-is-missing-the-mark-so-far-forecasts-30-of-paying-subscriber-goal-in-its-first.263267/",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "quibi",
+  "id": 7,
+  "url": "https://www.tubefilter.com/2020/06/15/quibi-first-year-subscribers-coronavirus-budget-wsj/",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "quibi",
+  "id": 24,
+  "url": "https://qz.com/1795999/quibis-super-bowl-ad-launched-its-quest-to-be-understood",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "quibi",
+  "id": 31,
+  "url": "https://www.streamtvinsider.com/video/struggling-streaming-video-service-quibi-may-already-be-for-sale",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "quibi",
+  "id": 36,
+  "url": "https://web.archive.org/web/20200401010418/https://quibi.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "quibi",
+  "id": 36,
+  "url": "https://web.archive.org/web/20210612151129/https://www.quibi.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "kiddie-city",
+  "id": 28,
+  "url": "https://www.democratandchronicle.com/story/news/local/rocroots/places/2017/12/02/whatever-happened-kiddie-city-stores/915549001/",
+  "status": 0,
+  "state": "dead",
+  "note": "TypeError"
+ },
+ {
+  "slug": "radioshack",
+  "id": 25,
+  "url": "https://www.reuters.com/article/technology/radioshack-files-for-bankruptcy-sprint-to-take-over-some-stores-idUSKBN0L92XC/",
+  "status": 401,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "radioshack",
+  "id": 26,
+  "url": "https://apnews.com/general-news-1deedf9e908a4682886beb997d3ec461",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "radioshack",
+  "id": 29,
+  "url": "https://apnews.com/article/lifestyle-coronavirus-pandemic-42eee6f3d679db0ca78e1e2a41e8108a",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "radioshack",
+  "id": 28,
+  "url": "https://www.businesswire.com/news/home/20201119005153/en/Retail-Ecommerce-Ventures-REV-Acquires-RadioShack-Brands",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "radioshack",
+  "id": 22,
+  "url": "https://www.nytimes.com/2006/08/31/business/31radio.html",
+  "status": 403,
+  "state": "blocked",
+  "note": "TypeError"
+ },
+ {
+  "slug": "radioshack",
+  "id": 33,
+  "url": "https://web.archive.org/web/*/radioshack.com",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "toys-r-us",
+  "id": 38,
+  "url": "https://web.archive.org/web/20031201073712/http://www9.toysrus.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "toys-r-us",
+  "id": 38,
+  "url": "https://web.archive.org/web/20180702003114/http://www.toysrus.com:80/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "webvan",
+  "id": 11,
+  "url": "https://www.upi.com/Archives/2001/07/09/Webvan-to-cease-operations/4298994651200/",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "webvan",
+  "id": 14,
+  "url": "https://www.ecommercetimes.com/story/webvan-ceo-shaheen-resigns-8974.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "webvan",
+  "id": 19,
+  "url": "https://www.reuters.com/article/technology/from-the-ashes-of-webvan-amazon-builds-a-grocery-business-idUSBRE95H1CC/",
+  "status": 401,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "webvan",
+  "id": 10,
+  "url": "https://web.archive.org/web/20250616130544/https://money.cnn.com/2001/07/09/technology/webvan/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "webvan",
+  "id": 15,
+  "url": "https://web.archive.org/web/20250212010448/https://money.cnn.com/2001/04/26/technology/webvan/index.htm",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "webvan",
+  "id": 30,
+  "url": "https://www.ecommercetimes.com/story/webvan-shuts-down-plans-bankruptcy-filing-11830.html",
+  "status": 403,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "webvan",
+  "id": 24,
+  "url": "https://web.archive.org/web/20230610034846/https://money.cnn.com/2001/04/12/technology/kozmo/index.htm",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "radioshack",
+  "id": 23,
+  "url": "http://usatoday30.usatoday.com/money/advertising/2009-08-05-ads-rebrand-radioshack_N.htm",
+  "status": 0,
+  "state": "dead",
+  "note": "TypeError"
+ },
+ {
+  "slug": "zima",
+  "id": 33,
+  "url": "https://web.archive.org/web/19961012170857/http://zima.com/openfr.html",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "zima",
+  "id": 33,
+  "url": "https://web.archive.org/web/19961012163611/http://zima.com/",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ },
+ {
+  "slug": "zima",
+  "id": 33,
+  "url": "https://web.archive.org/web/19961012183046/http://zima.com/re.html",
+  "status": 429,
+  "state": "blocked",
+  "note": ""
+ }
+]

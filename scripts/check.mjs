@@ -88,8 +88,37 @@ if (!args.has('--no-browser')) {
   const jobs = urls.flatMap(u => [375, 1280].map(w => [u, w]));
   let j = 0;
   await Promise.all(Array.from({ length: 4 }, async () => { while (j < jobs.length) { const [u, w] = jobs[j++]; await run(u, w); } }));
-  await browser.close(); server.close();
   console.log(`   ${urls.length} pages × 2 widths`);
+  // interaction tests: keyboard, search, reduced motion, video facade
+  {
+    const ctx = await browser.newContext({ viewport: { width: 1280, height: 800 }, reducedMotion: 'reduce' });
+    const page = await ctx.newPage();
+    await page.goto('http://localhost:4173/', { waitUntil: 'load' });
+    await page.keyboard.press('Tab');
+    if (!(await page.evaluate(() => document.activeElement?.classList.contains('skip')))) bad('/ keyboard', 'first Tab stop is not the skip link');
+    const outline = await page.evaluate(() => getComputedStyle(document.activeElement).outlineStyle);
+    if (outline === 'none') bad('/ keyboard', 'focused element has no visible outline');
+    await page.keyboard.press('/');
+    if (!(await page.evaluate(() => document.getElementById('cmdk').open))) bad('/ search', 'pressing "/" did not open search');
+    await page.keyboard.type('radio'); await page.waitForTimeout(400); await page.keyboard.press('Enter');
+    await page.waitForURL('**/radioshack/', { timeout: 5000 }).catch(() => bad('/ search', 'typing "radio" + Enter did not open /radioshack/'));
+    const hidden = await page.evaluate(() => [...document.querySelectorAll('.rv, .info')].filter(e => getComputedStyle(e).opacity !== '1').length);
+    if (hidden) bad('/radioshack/ reduced motion', `${hidden} elements are still hidden when motion is reduced`);
+    const anim = await page.evaluate(() => document.getAnimations().filter(a => a.playState === 'running' && (a.effect?.getComputedTiming().duration || 0) > 50).length);
+    if (anim) bad('/radioshack/ reduced motion', `${anim} animations still running when motion is reduced`);
+    const frames = await page.evaluate(() => document.querySelectorAll('iframe').length);
+    if (frames) bad('/radioshack/ video', 'an iframe loaded before play was pressed');
+    await page.locator('#videos .vid-btn').first().scrollIntoViewIfNeeded(); await page.locator('#videos .vid-btn').first().focus(); await page.keyboard.press('Enter');
+    const src = await page.evaluate(() => document.querySelector('.vid-frame iframe')?.src || '');
+    if (!/youtube-nocookie\.com\/embed|archive\.org\/embed/.test(src)) bad('/radioshack/ video', `play did not create a privacy-enhanced embed (${src})`);
+    const nojs = await browser.newContext({ javaScriptEnabled: false, viewport: { width: 1280, height: 800 } });
+    const p2 = await nojs.newPage(); await p2.goto('http://localhost:4173/pets-com/');
+    const inv = await p2.evaluate(() => [...document.querySelectorAll('.rv, .info, .chap')].filter(e => getComputedStyle(e).opacity !== '1').length);
+    if (inv) bad('/pets-com/ no JavaScript', `${inv} content blocks are invisible without JavaScript`);
+    await nojs.close(); await ctx.close();
+    console.log('   keyboard, search, reduced motion, video facade and no-JS tests');
+  }
+  await browser.close(); server.close();
 }
 
 if (problems.length) { console.error(`\n${problems.length} problem(s):`); [...new Set(problems)].forEach(p => console.error('  ✗ ' + p)); process.exit(1); }

@@ -13,7 +13,7 @@ for (const slug of fs.readdirSync(path.join(ROOT, 'companies'))) {
   const f = path.join(ROOT, 'companies', slug, 'sections/sources.json');
   if (!fs.existsSync(f)) continue;
   for (const s of JSON.parse(fs.readFileSync(f, 'utf8')).list)
-    for (const m of String(s.text).matchAll(/\]\((https?:[^)\s]+)\)/g)) jobs.push({ slug, id: s.id, url: m[1] });
+    for (const m of String(s.text).matchAll(/\]\((https?:(?:[^()\s]|\([^()\s]*\))+)\)/g)) jobs.push({ slug, id: s.id, url: m[1] });
 }
 const UA = u => /sec\.gov/.test(u) ? 'Spectre Brands research contact@spectrebrands.com' : 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36';
 const res = []; let i = 0;

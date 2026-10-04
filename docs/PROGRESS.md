@@ -8,32 +8,33 @@ Updated after every commit so a resumed session can pick up where the last one s
 - [x] Phase 2: design research (`docs/DESIGN_RESEARCH.md`, raw notes in `docs/DESIGN_RESEARCH_NOTES.md`)
 - [x] Phase 3: redesign (tokens, story rows, #FCFBF8), videos module, 9 infographic blocks, gallery credits, then-vs-now
 - [x] Phase 4: animation (CSS + IntersectionObserver; counters, draw-in, idle illustrations, flip stones, view transitions)
-- [ ] Phase 5: content expansion (see table)
+- [x] Phase 5: content expansion (17 brands, see table)
 - [x] Phase 6: homepage, category pages, About, search, SEO files, favicon (OG images: run `node scripts/og.mjs` when all brands are in)
-- [ ] Phase 7: data honesty pass (`npm run media`, `npm run sources`, read every tierWhy)
-- [ ] Phase 8: QA (`npm run check`, `npm run lighthouse`, `npm run shots`, review `docs/qa/`), CHANGELOG_REDESIGN.md
+- [x] Phase 7: data honesty pass (111 videos verified, 674 source URLs checked, tier justifications on /about/)
+- [x] Phase 8: QA (check, Lighthouse on 26 pages, 104 screenshots in `docs/qa/`), CHANGELOG_REDESIGN.md
+- [ ] Push to `main` and confirm the Vercel deployment (not possible from the headless box)
 
 ## Brands
 
 | # | slug | category | tier | state |
 |---|---|---|---|---|
-| 001 | pets-com | dotcom | dead | upgraded (videos, infographics, per-chapter visuals) |
-| 002 | webvan | dotcom | dead | being upgraded |
-| 003 | radioshack | electronics | ghost | upgraded |
-| 004 | circuit-city | electronics | dead | in research |
-| 005 | toys-r-us | retail | ghost | in research |
-| 006 | kb-toys | retail | tbd | in research |
-| 007 | kiddie-city | retail | dead | in research |
-| 008 | groupon | dotcom | ghost | in research |
-| 009 | aol | dotcom | ghost | in research |
-| 010 | zima | consumer | ghost | in research |
-| 011 | crystal-pepsi | consumer | ghost | in research |
-| 012 | dreamcast | games | dead | in research |
-| 013 | atari | games | ghost | in research |
-| 014 | blockbuster | film | ghost | in research |
-| 015 | quibi | film | dead | in research |
-| 016 | howard-johnsons | restaurants | ghost | in research |
-| 017 | burger-chef | restaurants | dead | in research |
+| 001 | pets-com | dotcom | dead | done, committed |
+| 002 | webvan | dotcom | dead | done, committed |
+| 003 | radioshack | electronics | ghost | done, committed |
+| 004 | circuit-city | electronics | ghost | done, committed |
+| 005 | toys-r-us | retail | ghost | done, committed |
+| 006 | kb-toys | retail | ghost | done, committed |
+| 007 | kiddie-city | retail | dead | done, committed |
+| 008 | groupon | dotcom | ghost | done, committed |
+| 009 | aol | dotcom | ghost | done, committed |
+| 010 | zima | consumer | ghost | done, committed |
+| 011 | crystal-pepsi | consumer | ghost | done, committed |
+| 012 | dreamcast | games | dead | done, committed |
+| 013 | atari | games | ghost | done, committed |
+| 014 | blockbuster | film | ghost | done, committed |
+| 015 | quibi | film | dead | done, committed |
+| 016 | howard-johnsons | restaurants | ghost | done, committed |
+| 017 | burger-chef | restaurants | dead | done, committed |
 
 ## Session notes
 - 2026-10-03 evening: all 14 brand-research agents were cut off together by the account's session rate
@@ -42,9 +43,7 @@ Updated after every commit so a resumed session can pick up where the last one s
 - Order of resumption: kb-toys, zima, aol, toys-r-us, groupon; then circuit-city, kiddie-city, crystal-pepsi,
   blockbuster, quibi; then dreamcast, atari, howard-johnsons, burger-chef.
 
-## How to resume
-1. `node build.mjs` and fix whatever a half-finished brand folder reports (a folder without all core
-   sections fails the build; finish it following `docs/ADD_A_BRAND.md`, or move it out of `companies/`).
-2. `node scripts/verify-media.mjs`, `node scripts/og.mjs`, `npm run check`, `npm run lighthouse`.
-3. `npm run shots` and review `docs/qa/` at all four widths.
-4. Write `docs/CHANGELOG_REDESIGN.md`, commit. Do not push from the headless box (no credentials).
+## What is left
+Everything is committed locally. Remaining work is listed in `docs/CHANGELOG_REDESIGN.md` section 11:
+push and confirm the deployment, the Mobbin / 21st.dev follow-up pass, a third brand per category, and
+the human checks in section 9.
