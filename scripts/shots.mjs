@@ -52,7 +52,7 @@ await Promise.all(Array.from({ length: 4 }, async () => {
       return { height: de.scrollHeight, horizontalOverflow: de.scrollWidth - vw, background: getComputedStyle(document.body).backgroundColor, emptyChapterVisuals: emptyVisuals, emptyBoxes: emptyCells, elementsPastViewport: wide, brokenImages: [...document.images].filter(i => i.complete && !i.naturalWidth && i.currentSrc).length };
     })) });
     if (sections) {
-      const ids = await page.evaluate(() => [...document.querySelectorAll('main > section[id], main > header[id]')].map(s => s.id));
+      const ids = await page.evaluate(() => [...document.querySelectorAll('main > [id]')].map(s => s.id));
       for (const id of ids.filter(i => !secIds || secIds.includes(i))) {
         const el = page.locator('#' + id).first();
         await el.scrollIntoViewIfNeeded(); await page.waitForTimeout(250);

@@ -228,3 +228,49 @@ page with no card and take their own proportions.
   overflowed (a 24-column grid with gaps is wider than a phone); the phone layout was changed to two columns and
   the re-capture reported no layout problems.
 - `npm run check` passed.
+
+## 6. Section rhythm on brand pages
+
+### Research
+
+Mobbin (`search_screens`, web):
+
+| Query | Top hits |
+| --- | --- |
+| longform article page with a full-width photograph between text sections and a large pull quote | [ZARA editorial wall](https://mobbin.com/screens/08deb7b1-447c-4f5c-88ce-aa31f3f3eebf), [AirOps Brand Kit: a full-width banner, then numbered sections](https://mobbin.com/screens/25153dfa-7e60-4232-abcf-463a8c52a4f0), [GetYourGuide article: photo between text blocks, progress line, contents rail](https://mobbin.com/screens/fa287971-5bec-46e6-9845-f398d4ba85c9) |
+| scrollytelling story page with a sticky chapter navigation and reading progress bar | [Microsoft Copilot research report](https://mobbin.com/screens/d77fe48b-77a6-4da7-a14a-54d00682b7dc), [Telegram story viewer with segmented progress](https://mobbin.com/screens/fd061f59-bef4-4339-a176-8f51e0855ef2), [Descript transcript with a timeline of markers](https://mobbin.com/screens/b6ea2099-ac98-4570-a035-0f31b762a90b) |
+| feature story layout with a dark section containing videos between light text sections | [Variant boards (dark)](https://mobbin.com/screens/cb345a4f-ff18-4a6e-b429-84a5f009a136), GetYourGuide article cards, [Microsoft Copilot story card](https://mobbin.com/screens/8f98a7e7-e9a9-4033-89e4-08f98e9481e1) |
+
+21st.dev (`search`, components):
+
+| Query | Top hits |
+| --- | --- |
+| scroll progress chapters | [cnippet-dev Scroll Progress](https://21st.dev/@cnippet-dev/components/scroll-progress), [designali-in Scroll Progress](https://21st.dev/@designali-in/components/scroll-progress-1), [ibelick Scroll Progress](https://21st.dev/@ibelick/components/scroll-progress) |
+| longform article layout | [olewandowski1 Article With Author Sidebar](https://21st.dev/@olewandowski1/components/article-5); the other two hits were form layouts. |
+
+shadcn (CLI `view`): `@shadcn/collapsible` and `@shadcn/accordion` (a trigger and a content region with an open
+state; done here with native `<details>`), `@shadcn/progress` (an indicator scaled along a track; the act
+progress line is six of them).
+
+### Measured and verified
+
+Full page height (`node scripts/measure.mjs`, viewport height 800):
+
+| | 1280 | 375 |
+| --- | --- | --- |
+| Before, range across 17 brands | 28,039 to 39,437 px | 50,426 to 62,524 px |
+| After, range | 27,297 to 36,908 px | 40,155 to 52,133 px |
+
+Desktop length barely moved: the timeline is about 3,000 px shorter, but the act breaks add 170 to 715 px each
+and the opener is taller because the images are larger. The length that remains is content (story, numbers,
+gallery and sources are 2,000 to 4,300 px each at 1280). The phone is about 10,000 px shorter.
+
+Probed in a browser on `/circuit-city/`:
+
+- At 375 the People, Press and Data notes modules load closed (People section 371 px, Press 233 px) and open on tap.
+  At 1280 they are open and have no summary row.
+- The nav label read "Part 1 of 6" to "Part 6 of 6" at the six act starts, and the progress segments filled in
+  order (for example at the start of part 4: `1.00 1.00 1.00 0.24 0.00 0.00`).
+- Act breaks: Circuit City gets two photographs (before Business and before Verdict). Pets.com and Webvan get
+  none, because they have no spare photograph 900 px or wider; their breaks are type only.
+- `npm run check` passed.

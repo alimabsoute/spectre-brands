@@ -7,9 +7,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
-import { SECTIONS, ORDER, TIERS } from './lib/registry.mjs';
+import { SECTIONS, ORDER, TIERS, GROUPS } from './lib/registry.mjs';
 import { head, masthead, pageNav, footer, scripts } from './lib/layout.mjs';
-import { overview, section, heroImages } from './lib/sections.mjs';
+import { overview, section, heroImages, actImages, actBreak } from './lib/sections.mjs';
 import { home } from './lib/home.mjs';
 import { categoryPage, aboutPage } from './lib/pages.mjs';
 import { row, ledgerHead, decadeOf } from './lib/cards.mjs';
@@ -107,7 +107,14 @@ function renderCompany(c, all, site, V) {
   const labels = Object.fromEntries(used.filter(id => c.sections[id]).map(id => [id, c.sections[id].label || SECTIONS[id].label]));
   for (const id of used.slice(1)) c.sections[id].label = labels[id];
   let body = overview(c, ctx, site);
+  // acts are the nav groups; each one after the first opens with a break, two of them with a photograph
+  const acts = GROUPS.filter(g => used.some(id => SECTIONS[id].group === g.id)), photos = actImages(c, ctx);
+  // an act of one section needs no header of its own (Sources, usually); photographs go to the first and last headers
+  const many = g => used.filter(x => SECTIONS[x].group === g).length > 1, headed = acts.filter(a => a.id !== 'story' && many(a.id)).map(a => a.id);
+  const photoFor = Object.fromEntries([...new Set([headed[0], headed.at(-1)])].filter(Boolean).map((g, i) => [g, photos[i]]));
   for (const id of used.slice(1)) {
+    const g = SECTIONS[id].group, opens = headed.includes(g) && used.find(x => SECTIONS[x].group === g) === id;
+    if (opens) body += actBreak(ctx, { id: g, label: acts.find(a => a.id === g).label, n: acts.findIndex(a => a.id === g) + 1, total: acts.length, parts: used.filter(x => SECTIONS[x].group === g).map(x => labels[x]), image: photoFor[g] });
     try { body += section(id, c.sections[id], ctx); } catch (e) { errors.push(`${c.slug}/${id}: ${e.message}`); }
   }
   c.stats = { infographics: ctx.count.infographics + (c.sections.cause?.causes?.reduce((a, x) => a + x.weight, 0) === 100 ? 1 : 0), videos: Object.keys(ctx.videos).length, inlineVideos: ctx.inlineVideos.size, charts: Object.keys(ctx.data.charts).length };

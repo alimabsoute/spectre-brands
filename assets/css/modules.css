@@ -7,7 +7,7 @@
 .chap{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:var(--s-7);align-items:start}
 .chap+.chap{padding-top:var(--s-7);border-top:1px solid var(--line)}
 .chap-vis-in{position:sticky;top:calc(var(--nav-h) + var(--s-5));display:grid;gap:var(--s-4)}
-.chap-fig{background:var(--card);border:1px solid var(--line);border-radius:var(--r-2);padding:var(--s-5);box-shadow:var(--shadow-1);border-top:3px solid var(--c)}
+.chap-fig{border-top:3px solid var(--c);padding-top:var(--s-4)}
 .chap-n{display:flex;justify-content:space-between;align-items:center;gap:var(--s-3);font:500 var(--t-sm) var(--sans);color:var(--mute)}
 .chap-dots{display:inline-flex;gap:.3rem}
 .chap-dots i{width:1.1rem;height:.25rem;border-radius:2px;background:var(--line-2)}
@@ -24,6 +24,10 @@
 .pull{margin:var(--s-5) 0;padding-left:var(--s-5);border-left:3px solid var(--brand)}
 .pull p{font:400 var(--t-lg)/1.4 var(--serif);color:var(--ink)}
 .pull footer{font:var(--t-sm) var(--sans);color:var(--mute);margin-top:var(--s-2)}
+/* a quote that stands alone runs as a wide spread between two rules */
+.pull.wide{border:solid var(--ink);border-width:1px 0;padding:var(--s-6) 0;margin:var(--s-7) 0}
+.pull.wide p{font-size:var(--t-2xl);line-height:1.2;letter-spacing:-.018em;max-width:56rem;text-wrap:balance}
+.pull.wide footer{font-size:var(--t-md);margin-top:var(--s-4)}
 
 /* timeline: one compact, time-scaled view built by timeline.js. Top: the whole life with era bands and
    a draggable year range. Middle: one lane per thread. Bottom: a fixed panel for the selected event. */
@@ -116,7 +120,7 @@ table.kf .kv{font:600 var(--t-lg)/1.15 var(--serif);letter-spacing:-.02em;color:
 .drawcard p{color:var(--ink-2);margin-bottom:var(--s-3)}
 .imgcard img{width:100%;border:1px solid var(--line);border-radius:var(--r-1);background:var(--card)}
 .vs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--s-5);margin-top:var(--s-6)}
-.vs-col{background:var(--card);border:1px solid var(--line);border-radius:var(--r-2);padding:var(--s-5)}
+.vs-col{border-top:1px solid var(--ink);padding-top:var(--s-4)}
 .vs-col h3{font:600 var(--t-xl)/1.2 var(--serif);margin:var(--s-2) 0 var(--s-3)}
 .vs-row{display:flex;justify-content:space-between;gap:var(--s-4);border-top:1px solid var(--line);padding:.6rem 0;font:var(--t-md) var(--sans)}
 .vs-row dt{color:var(--mute)}
@@ -161,7 +165,7 @@ table.kf .kv{font:600 var(--t-lg)/1.15 var(--serif);letter-spacing:-.02em;color:
 .wb-cap .arch{font:500 var(--t-md) var(--sans)}
 .warn{font:var(--t-sm)/1.45 var(--sans);color:var(--warn-ink);background:var(--warn-bg);border-left:2px solid var(--warn-line);padding:.5rem .7rem;margin-bottom:var(--s-3);border-radius:0 var(--r-1) var(--r-1) 0}
 .snips-g{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--s-4)}
-.snip{background:var(--card);border:1px solid var(--line);border-radius:var(--r-2);padding:var(--s-4);font:.8125rem/1.55 Verdana,Geneva,sans-serif;color:#222}
+.snip{border-left:2px solid var(--line-2);padding:0 0 0 var(--s-4);font:.8125rem/1.55 Verdana,Geneva,sans-serif;color:#222}
 .snip .when{font:var(--t-xs) var(--sans);color:var(--mute);margin-top:var(--s-2)}
 
 /* brand gallery */
@@ -251,9 +255,9 @@ table.kf .kv{font:600 var(--t-lg)/1.15 var(--serif);letter-spacing:-.02em;color:
 .fork-tabs button.on{background:var(--ink);color:var(--inv);border-color:var(--ink)}
 .fork-panel{display:none;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--s-5)}
 .fork-panel.on{display:grid}
-.fork-panel>div{background:var(--card);border:1px solid var(--line);border-radius:var(--r-2);padding:var(--s-5)}
+.fork-panel>div{border-top:1px solid var(--ink);padding-top:var(--s-4)}
 .fork-panel .lbl{font:600 var(--t-md) var(--sans);margin-bottom:var(--s-3);display:flex;gap:var(--s-2);align-items:center}
-.fork-panel .whatif{border-style:dashed;border-color:var(--line-2);background:transparent}
+.fork-panel .whatif{border-top-style:dashed}
 .fork-panel p:not(.lbl){font-size:1.0625rem;color:var(--ink-2);margin-bottom:var(--s-3)}
 
 /* afterlife + sources */
@@ -274,7 +278,6 @@ ol.sources li:target{background:var(--brand-soft);box-shadow:inset 3px 0 0 var(-
 @media (max-width:900px){
 .chap{grid-template-columns:minmax(0,1fr);gap:var(--s-5)}
 .chap-vis-in{position:static}
-.chap-fig{padding:var(--s-4)}
 .chap-art svg{max-height:11rem}
 .now-grid,.fork-panel,.vs,.wb-view,.snips-g{grid-template-columns:minmax(0,1fr)}
 .tlx{--lane-h:1.3rem}

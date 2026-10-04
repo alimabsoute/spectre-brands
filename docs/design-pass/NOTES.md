@@ -149,3 +149,33 @@ bar was the Pets.com sock puppet: it keeps its shapes and its speech bubble and 
   a drawing keep it inline.
 - Done at build time rather than in the browser, so the hand-made line shows without JavaScript and costs no
   runtime work. The cost is page weight (see the log).
+
+## 6. Section rhythm on brand pages
+
+References:
+
+- **AirOps Brand Kit** (Mobbin): a full-width image band, then numbered sections with the number in the margin.
+  The model for the act break: photograph, "Part 2 of 6", the act name, what is in it.
+- **GetYourGuide article** (Mobbin): a photograph between runs of text and a progress line under the header.
+  The model for image breaks and for keeping the progress line.
+- **Telegram story viewer** (Mobbin) with `@shadcn/progress`: progress cut into segments, one per part.
+  The model for the act indicator in the sticky nav.
+
+Approach: the page is in acts (the six nav groups). Each act after the first opens with a break; two of them
+carry a full-bleed photograph. Between breaks the sections change register instead of repeating one template.
+
+- **Dark room:** the footage section is the only dark section on the page.
+- **Wide spread:** a quote that stands alone as a block runs large between two rules across the full width.
+- **Narrow column:** Cause of death and What if are text-led, so they sit in a 58rem column.
+- **Rules, not cards:** charts, tables, the chapter figures, the versus columns and the what-if panels lose their
+  border, radius and shadow; a rule above each does the job.
+- **Folded on a phone:** People, Press and Data notes load closed at 700 px and below (a tap opens them). They
+  stay open on larger screens and when JavaScript is off.
+- **Act indicator:** the progress line in the sticky nav has one segment per act, and the nav reads
+  "Part 3 of 6" beside the section name.
+- Photographs for breaks must be 900 px wide or more and not already leading the page. Only two per page, at the
+  first and last act headers, so the same few photographs are not repeated a third time. An act with a single
+  section (Sources) gets no header.
+- **Gap:** brands without a spare large photograph (Pets.com, Webvan and others) get type-only act breaks.
+- **Not done:** the page is not much shorter on desktop. The remaining length is content, and cutting it is
+  outside "presentation only".

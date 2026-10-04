@@ -76,9 +76,22 @@
     });
   }
 
-  // ---- reading progress + section spy ----
-  const pr = $('#prog');
-  if (pr) { let raf = 0; addEventListener('scroll', () => { if (raf) return; raf = requestAnimationFrame(() => { raf = 0; const h = document.documentElement; pr.style.transform = `scaleX(${Math.min(1, h.scrollTop / (h.scrollHeight - h.clientHeight))})`; }); }, { passive: true }); }
+  // ---- reading progress, one segment per act, + section spy ----
+  const segs = $$('#prog i');
+  if (segs.length) {
+    const starts = segs.map(s => document.getElementById(s.dataset.at));
+    let raf = 0;
+    const paint = () => {
+      raf = 0;
+      const y = scrollY + innerHeight * .4, tops = starts.map(e => e ? e.getBoundingClientRect().top + scrollY : Infinity), end = document.documentElement.scrollHeight - innerHeight * .6;
+      segs.forEach((s, i) => { s.firstChild.style.transform = `scaleX(${Math.max(0, Math.min(1, (y - tops[i]) / ((tops[i + 1] ?? end) - tops[i])))})`; });
+      $('#pnAct').textContent = `Part ${Math.max(1, tops.filter(t => y >= t).length)} of ${segs.length}`;
+    };
+    addEventListener('scroll', () => { if (!raf) raf = requestAnimationFrame(paint); }, { passive: true });
+    paint();
+  }
+  // people, press and data notes fold away on a phone; they stay open on larger screens and without JS
+  if (matchMedia('(max-width:700px)').matches) $$('details.fold').forEach(d => { d.open = false; });
   if ($('#pagenav')) {
     const label = { overview: 'Overview' }; $$('#pagenav a[data-sec]').forEach(a => label[a.dataset.sec] = a.textContent);
     const spy = new IntersectionObserver(es => es.forEach(e => {
