@@ -179,3 +179,30 @@ carry a full-bleed photograph. Between breaks the sections change register inste
 - **Gap:** brands without a spare large photograph (Pets.com, Webvan and others) get type-only act breaks.
 - **Not done:** the page is not much shorter on desktop. The remaining length is content, and cutting it is
   outside "presentation only".
+
+## 7. Secondary modules
+
+References:
+
+- **Calendly organization directory** (Mobbin) with `@shadcn/item`: a small portrait and name, then role, on one
+  row. The model for the roster.
+- **Astryx Blockquote** and **Editorial Testimonial** (21st.dev): a quote set large with its citation beneath,
+  and nothing else. Used for the lead quotes, without the testimonial furniture (stars, avatars, cards).
+- **DoorDash Merchant figures** (Mobbin): numbers under small labels with no boxes around them. The model for
+  the numbers row.
+
+What changed:
+
+- **Who ran it** is a roster table: name and role, what they did, afterwards. A portrait is shown only where
+  the gallery already has a licensed photograph whose file is named for that person; the credit is printed under
+  the table. That is three people across two brands today.
+- **What they said**: the one or two quotes marked `big` in the data run large; the rest are a clippings list
+  with the source and date first and the quote beside it. If no quote is marked, the first one leads.
+- **Afterlife** is a "where the pieces went" diagram: the brand is the trunk and each piece branches off it
+  with what became of it. No coloured dots; the status is plain text after an arrow.
+- **Key findings**: numbered prose with plain serif numerals, no circles.
+- **Numbers**: a typographic row under one rule. No cell borders or dividers.
+- **Gap: the clippings are not sorted by date.** The date is part of each quote's free-text attribution, so it
+  is shown but cannot be sorted or set in its own column without editing the data.
+- **Gap: portraits.** `people.json` has no image field. Matching by file name is a stopgap that only finds the
+  three photographs already in galleries.

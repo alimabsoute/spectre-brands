@@ -274,3 +274,35 @@ Probed in a browser on `/circuit-city/`:
 - Act breaks: Circuit City gets two photographs (before Business and before Verdict). Pets.com and Webvan get
   none, because they have no spare photograph 900 px or wider; their breaks are type only.
 - `npm run check` passed.
+
+## 7. Secondary modules (people, press, afterlife, key findings, numbers)
+
+### Research
+
+Mobbin (`search_screens`, web):
+
+| Query | Top hits |
+| --- | --- |
+| team directory page listing people in a compact table with a small portrait, name, role and note | [Square team members](https://mobbin.com/screens/42858659-a933-4138-8494-a62a18d078d3), [Calendly organization directory: avatar and name, then role](https://mobbin.com/screens/4be5c2e5-5478-4b3d-97af-b4e0fbd288d7), [Klaviyo profiles table](https://mobbin.com/screens/c4006505-8637-4785-922e-d78471727183) |
+| large pull quote set in serif type with the speaker name and source beneath | [ZARA lookbook](https://mobbin.com/screens/b1d5eb25-ab1f-4898-8e91-136f24093100), [Microsoft Copilot document](https://mobbin.com/screens/144f636f-ec65-497e-9319-32091b7c6593), [Delphi home](https://mobbin.com/screens/4fdc62c3-54d9-49b2-b97b-1d908d1333c9). No pull quote came back. |
+| press coverage list with publication name, date and headline in rows | GetYourGuide article cards, [Klaviyo activity feed: who, what, when in rows](https://mobbin.com/screens/f509ead5-2779-4937-b9fd-b0ad4760ba5a), Microsoft Copilot stories |
+| row of large key statistics as plain numbers with small captions and no cards | [Square key metrics (boxed)](https://mobbin.com/screens/5177a33a-3723-4681-ae9b-00fdde7ba677), [DoorDash Merchant cancellations: plain figures under small labels, no boxes](https://mobbin.com/screens/632bea0a-a4ed-4621-be98-b7a6b677b45f) |
+
+21st.dev (`search`, components):
+
+| Query | Top hits |
+| --- | --- |
+| testimonial editorial | [jatin-yadav05 Editorial Testimonial](https://21st.dev/@jatin-yadav05/components/editorial-testimonial), Editorial Hero, [uilayout testimonial](https://21st.dev/@uilayout.contact/components/testimonial) |
+| pull quote | [designali-in dot-pattern quote](https://21st.dev/@designali-in/components/dot-pattern-1), [Astryx Blockquote: `<blockquote>` with a cited footer](https://21st.dev/@Astryxdesign/components/astryx-blockquote), [danielpetho Text Rotate](https://21st.dev/@danielpetho/components/text-rotate) |
+| stat row | [originui Table](https://21st.dev/@originui/components/table), [rmahammad Streaming Data Rows](https://21st.dev/@rmahammad/components/streaming-data-rows), [Reshaped Table](https://21st.dev/@reshaped/components/reshaped-table) |
+
+shadcn (CLI `view`): `@shadcn/item` (media, content, title, description: the anatomy of a roster row).
+`@shadcn/separator` and `@shadcn/hover-card` were viewed in areas 3 and 1; rules separate the rows, and no hover
+card was added.
+
+### Verified
+
+- Portraits (read back from the built HTML): Quibi has two (Katzenberg, Whitman) and Groupon one (Mason). No
+  other brand has a licensed photograph of a person in its data, so the other 14 rosters have no portrait column.
+- Screenshots reviewed at 1280 and 375: `docs/design-pass/after/07-modules/`.
+- `npm run check` passed.

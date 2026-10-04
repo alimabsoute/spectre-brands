@@ -212,21 +212,31 @@ table.kf .kv{font:600 var(--t-lg)/1.15 var(--serif);letter-spacing:-.02em;color:
 .sw .chip-c{display:block;height:3rem;border:1px solid var(--line);border-radius:var(--r-1);margin-bottom:.4rem}
 .sw b{display:block;color:var(--ink)}
 
-/* people + press */
-.people{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--s-5)}
-.person{background:var(--card);border:1px solid var(--line);border-radius:var(--r-2);padding:var(--s-5);display:flex;flex-direction:column}
-.person h3{margin-bottom:.15rem}
-.person .role{font:500 var(--t-sm)/1.4 var(--sans);color:var(--brand);margin-bottom:var(--s-3)}
-.person p{font-size:1rem;color:var(--ink-2);line-height:1.5}
-.person .then{font:var(--t-sm)/1.45 var(--sans);color:var(--mute);margin-top:auto;padding-top:var(--s-3)}
-.person .then b{color:var(--ink-2)}
-.press{columns:3;column-gap:var(--s-5)}
-.clip{break-inside:avoid;background:var(--card);border:1px solid var(--line);border-radius:var(--r-2);padding:var(--s-5);margin-bottom:var(--s-5)}
-.clip blockquote{font:400 var(--t-base)/1.42 var(--serif);color:var(--ink);quotes:"\201C" "\201D"}
-.clip blockquote::before{content:open-quote}.clip blockquote::after{content:close-quote}
-.clip figcaption{margin-top:var(--s-3)}
-.clip.big blockquote{font-size:var(--t-lg)}
-.clip.big{border-top:3px solid var(--brand)}
+/* people: a roster table. Portraits only where a licensed photograph exists. */
+.roster{width:100%;border-collapse:collapse;border-top:1px solid var(--ink)}
+.roster thead th{font:600 var(--t-xs)/1.3 var(--sans);color:var(--mute);text-align:left;padding:var(--s-2) var(--s-5) var(--s-2) 0;border-bottom:1px solid var(--line)}
+.roster tbody th,.roster tbody td{vertical-align:top;text-align:left;padding:var(--s-4) var(--s-5) var(--s-4) 0;border-bottom:1px solid var(--line);font-weight:400}
+.roster tbody th{width:24%}
+.r-name{display:block;font:600 var(--t-lg)/1.2 var(--serif);letter-spacing:-.012em}
+.roster .role{display:block;font:500 var(--t-sm)/1.4 var(--sans);color:var(--brand);margin-top:.15rem}
+.roster td p{font-size:1rem;line-height:1.5;color:var(--ink-2)}
+.roster .then{width:27%;font:var(--t-sm)/1.5 var(--sans);color:var(--mute);padding-right:0}
+.r-face{width:4.5rem}
+.r-face img{width:3.5rem;height:3.5rem;object-fit:cover;object-position:top center;border:1px solid var(--line);filter:grayscale(1)}
+/* press: one or two quotes run large; the rest are clippings, source first */
+.lead-qs{display:grid;gap:var(--s-6) var(--s-7);border-top:1px solid var(--ink);padding-top:var(--s-5)}
+.lead-qs.n2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.lead-q blockquote,.clips blockquote{quotes:"\201C" "\201D"}
+.lead-q blockquote::before,.clips blockquote::before{content:open-quote}
+.lead-q blockquote::after,.clips blockquote::after{content:close-quote}
+.lead-q blockquote{font:400 var(--t-2xl)/1.2 var(--serif);letter-spacing:-.018em;text-wrap:balance;max-width:52rem}
+.n2 .lead-q blockquote{font-size:var(--t-xl);line-height:1.28}
+.lead-q figcaption{margin-top:var(--s-3);font-size:var(--t-md)}
+.clips{list-style:none;margin-top:var(--s-6);border-top:1px solid var(--line)}
+.clips li{display:grid;grid-template-columns:minmax(0,4fr) minmax(0,8fr);gap:var(--s-2) var(--s-6);padding:var(--s-4) 0;border-bottom:1px solid var(--line)}
+.clip-who{font:var(--t-sm)/1.5 var(--sans);color:var(--mute)}
+.clip-who b{color:var(--ink)}
+.clips blockquote{font:400 1.0625rem/1.5 var(--serif);color:var(--ink)}
 
 /* cause of death */
 .cod{margin-top:var(--s-6);border-top:1px solid var(--ink)}
@@ -260,13 +270,18 @@ table.kf .kv{font:600 var(--t-lg)/1.15 var(--serif);letter-spacing:-.02em;color:
 .fork-panel .whatif{border-top-style:dashed}
 .fork-panel p:not(.lbl){font-size:1.0625rem;color:var(--ink-2);margin-bottom:var(--s-3)}
 
-/* afterlife + sources */
-.now-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--s-5)}
-.now{background:var(--card);border:1px solid var(--line);border-radius:var(--r-2);padding:var(--s-5)}
-.now .st{font:600 var(--t-sm) var(--sans);color:var(--c);display:flex;align-items:center;gap:.45rem;margin-bottom:var(--s-2)}
-.now .st::before{content:"";width:.55rem;height:.55rem;border-radius:50%;background:currentColor}
-.now h3{margin-bottom:var(--s-2)}
-.now p:not(.st){font-size:1rem;color:var(--ink-2);margin-bottom:var(--s-2)}
+/* afterlife: where the pieces went. The brand is the trunk, each piece a branch, with what became of it. */
+.pieces-root{display:inline-block;font:600 var(--t-md)/1 var(--sans);background:var(--ink);color:var(--inv);padding:.5rem .8rem}
+.pieces ol{list-style:none;margin-left:1rem;border-left:2px solid var(--ink)}
+.pieces li{position:relative;display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr) minmax(0,7fr);gap:var(--s-2) var(--s-5);padding:var(--s-4) 0 var(--s-4) 2.25rem;border-bottom:1px solid var(--line);align-items:baseline}
+.pieces li::before{content:"";position:absolute;left:0;top:1.75rem;width:1.5rem;border-top:2px solid var(--ink)}
+.pieces li:last-child{border-bottom:0}
+.pieces li:last-child::after{content:"";position:absolute;left:-2px;top:calc(1.75rem + 2px);bottom:0;width:2px;background:var(--bg)}
+.pieces h3{font:600 var(--t-lg)/1.2 var(--serif);letter-spacing:-.012em}
+.pieces .st{font:600 var(--t-sm)/1.4 var(--sans);color:var(--ink)}
+.pieces .st::before{content:"\2192\00a0";color:var(--mute);font-weight:400}
+.p-text p{font-size:1rem;line-height:1.5;color:var(--ink-2)}
+.p-text p+p{margin-top:var(--s-2)}
 ol.sources{list-style:none;columns:2;column-gap:var(--s-7);font-family:var(--sans)}
 ol.sources li{break-inside:avoid;font-size:var(--t-md);color:var(--ink-2);padding:.55rem .4rem .55rem 2.2rem;position:relative;border-top:1px solid var(--line);line-height:1.45;overflow-wrap:anywhere;scroll-margin-top:calc(var(--nav-h) + 1rem)}
 ol.sources li::before{content:attr(value);position:absolute;left:.2rem;color:var(--brand);font-weight:600;font-variant-numeric:tabular-nums}
@@ -274,12 +289,19 @@ ol.sources li:target{background:var(--brand-soft);box-shadow:inset 3px 0 0 var(-
 .flags{margin-top:var(--s-6);max-width:54rem}
 .flags p{font:var(--t-md)/1.55 var(--sans);color:var(--ink-2);padding:var(--s-3) 0;border-top:1px solid var(--line)}
 
-@media (max-width:1040px){.people{grid-template-columns:repeat(2,minmax(0,1fr))}.vid-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.press{columns:2}}
+@media (max-width:1040px){.vid-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:900px){
 .chap{grid-template-columns:minmax(0,1fr);gap:var(--s-5)}
 .chap-vis-in{position:static}
 .chap-art svg{max-height:11rem}
-.now-grid,.fork-panel,.vs,.wb-view,.snips-g{grid-template-columns:minmax(0,1fr)}
+.fork-panel,.vs,.wb-view,.snips-g,.lead-qs.n2,.clips li{grid-template-columns:minmax(0,1fr)}
+.pieces li{grid-template-columns:minmax(0,1fr);gap:var(--s-1)}
+.roster thead{display:none}
+.roster,.roster tbody,.roster tr,.roster tbody th,.roster tbody td{display:block;width:auto}
+.roster tr{padding:var(--s-4) 0;border-bottom:1px solid var(--line)}
+.roster tbody th,.roster tbody td{padding:0;border:0}
+.roster tbody td{margin-top:var(--s-2)}
+.roster .then:empty,.r-face:empty{display:none}
 .tlx{--lane-h:1.3rem}
 .tlx-plot,.tlx-detail,.tlx-panel{grid-template-columns:minmax(0,1fr)}
 .tlx-labels{display:none}
@@ -297,7 +319,7 @@ ol.sources li:target{background:var(--brand-soft);box-shadow:inset 3px 0 0 var(-
 .shot{max-height:27rem}
 }
 @media (max-width:620px){
-.people,.vid-grid{grid-template-columns:minmax(0,1fr)}.press{columns:1}
+.vid-grid{grid-template-columns:minmax(0,1fr)}
 .gl-row{flex-wrap:wrap;gap:var(--s-5) var(--s-4)}
 .gl-fig{flex-basis:calc(var(--ar) * 8rem);min-width:7.5rem;max-width:calc(var(--ar) * 30rem)}
 .solo .gl-fig{grid-template-columns:minmax(0,1fr);gap:var(--s-2);max-width:none}
