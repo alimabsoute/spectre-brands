@@ -1,0 +1,20 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a sofa facing a large television, with a small phone left on the cushion">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 268 H420" stroke="#9a9184"/>
+<rect x="250" y="40" width="170" height="104" rx="6" fill="#1d1b18"/>
+<rect x="260" y="50" width="150" height="84" rx="2" fill="#fbf9f5"/>
+<path d="M322 76 L352 92 L322 108Z" fill="#c2412d" stroke-width="2.4"/>
+<path d="M335 144 V164 M300 166 H370"/>
+<path d="M40 268 V176 C40 150 60 140 80 140 H220 C240 140 260 150 260 176 V268Z" fill="#e7dcf8"/>
+<path d="M28 268 V200 C28 186 40 180 52 180 C64 180 74 186 74 200 V268Z" fill="#cdb9ee"/>
+<path d="M226 268 V200 C226 186 238 180 250 180 C262 180 272 186 272 200 V268Z" fill="#cdb9ee"/>
+<path d="M74 222 H226" />
+<path d="M74 222 V268 M226 222 V268 M150 222 V268" stroke-width="2.4"/>
+<g transform="rotate(-14 176 208)">
+<rect x="160" y="184" width="30" height="52" rx="5" fill="#1d1b18"/>
+<rect x="165" y="191" width="20" height="36" rx="2" fill="#7a1fd6" stroke-width="1.6"/>
+<path d="M172 204 L180 209 L172 214Z" fill="#fbf9f5" stroke-width="1.2"/>
+</g>
+<path d="M96 110 c0 -14 18 -14 18 0 M114 110 c0 -14 18 -14 18 0" stroke="#9a9184" stroke-width="2"/>
+<path d="M92 124 h44" stroke="#9a9184" stroke-width="2" stroke-dasharray="2 6"/>
+</g></svg>

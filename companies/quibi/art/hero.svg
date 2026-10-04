@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a phone tilted between portrait and landscape, with a play button on a purple screen">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="200" cy="350" rx="110" ry="12" fill="#e7dcf8" stroke="none"/>
+<rect x="60" y="150" width="280" height="140" rx="20" fill="#fbf9f5" stroke-dasharray="3 9" stroke="#9a9184"/>
+<g transform="rotate(-24 200 190)">
+<rect x="130" y="50" width="140" height="280" rx="22" fill="#1d1b18"/>
+<rect x="142" y="74" width="116" height="226" rx="8" fill="#7a1fd6"/>
+<path d="M142 230 C170 200 200 250 258 214 L258 292 Q258 300 250 300 L150 300 Q142 300 142 292Z" fill="#5a12a6" stroke-width="2"/>
+<circle cx="200" cy="168" r="34" fill="#fbf9f5"/>
+<path d="M190 150 L218 168 L190 186Z" fill="#7a1fd6"/>
+<path d="M156 276 H244" stroke="#fbf9f5" stroke-width="5"/>
+<path d="M156 276 H190" stroke="#f2c14e" stroke-width="5"/>
+<path d="M184 62 H216" stroke="#fbf9f5" stroke-width="4"/>
+<circle cx="200" cy="315" r="6" fill="#fbf9f5" stroke-width="2"/>
+</g>
+<path d="M318 96 C348 120 356 156 344 188" stroke-width="3.4"/>
+<path d="M352 170 L344 190 L328 176" stroke-width="3.4"/>
+<path d="M82 284 C52 260 44 224 56 192" stroke-width="3.4"/>
+<path d="M48 210 L56 190 L72 204" stroke-width="3.4"/>
+<path d="M40 70 l10 0 M45 65 l0 10 M352 300 l10 0 M357 295 l0 10 M70 120 l6 0" stroke="#7a1fd6" stroke-width="2.6"/>
+</g></svg>

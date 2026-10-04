@@ -1,0 +1,37 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Purple, a letter Q and a phone on its side",
+ "label": "Brand gallery",
+ "lede": "Quibi’s identity was built in a little over a year: a round, heavy wordmark, a bright violet, and a Q whose tail doubled as a speech bubble. Here are the marks as they survive in the archive, the two people behind them, and our drawings in the same spirit.",
+ "archive": [
+  {"image": "img/logo-2018.avif", "date": "Oct 2018", "caption": "The first wordmark, in black, from the holding page that went up when the name was announced.", "alt": "Quibi wordmark in black", "credit": "Cropped from an Internet Archive capture of quibi.com. Shown for commentary; trademarks belong to their owners."},
+  {"image": "img/logo-2020.avif", "date": "Apr 2020", "caption": "The launch logo: a white Q mark and wordmark over video, enlarged from the home page header.", "alt": "Quibi logo in white on a dark background", "credit": "Cropped from an Internet Archive capture of quibi.com. Shown for commentary; trademarks belong to their owners."},
+  {"image": "img/archive-2020-11-home.avif", "date": "Nov 2020", "caption": "The home page in its last month of service, with the app shown on a phone.", "alt": "Quibi home page in November 2020 showing a phone and the words Quick Bites, Big Stories", "credit": "Internet Archive capture of quibi.com. Shown for commentary; trademarks belong to their owners."},
+  {"image": "img/katzenberg-2014.avif", "date": "2014", "caption": "Jeffrey Katzenberg, Quibi’s founder and chairman, photographed in 2014 while chief executive of DreamWorks Animation.", "alt": "Jeffrey Katzenberg speaking at an event in 2014", "credit": "Photo: Gage Skidmore, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jeffrey_Katzenberg_%2814513937721%29.jpg), CC BY-SA 2.0."},
+  {"image": "img/whitman-2022.avif", "date": "2022", "caption": "Meg Whitman, Quibi’s chief executive, in her official portrait as United States ambassador to Kenya.", "alt": "Official portrait of Meg Whitman", "credit": "Photo: United States Department of State, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Meg_Whitman,_U.S._Ambassador.jpg), public domain."}
+ ],
+ "drawings": [
+  {"art": "art/hero.svg", "title": "The turn.", "caption": "A phone between portrait and landscape. Turnstyle was the feature Quibi built its shows around.[^26]"},
+  {"art": "art/turnstyle.svg", "title": "One scene, two frames.", "caption": "Every show was delivered in both orientations and kept in sync by its audio track.[^26]"},
+  {"art": "art/couch.svg", "title": "The wrong room.", "caption": "A service made for the commute launched to an audience on the sofa.[^6]"},
+  {"art": "art/big-screen.svg", "title": "The second life.", "caption": "The same shows on a television, free with advertising, as Roku Originals.[^17]"}
+ ],
+ "swatches": [
+  {"hex": "#8b2bf5", "label": "Button violet (approx.)"},
+  {"hex": "#000000", "label": "Page black"},
+  {"hex": "#ffffff", "label": "Headline white"},
+  {"hex": "#3a39bd", "label": "2018 sign-up blue (approx.)"},
+  {"hex": "#7a1fd6", "label": "Our accent, darkened for text"}
+ ],
+ "disclaimer": "Colours were sampled by eye from archived captures and are approximate[^36]. Quibi and its logo were trademarks of their owner and appear here in historical and editorial context. Drawings are original illustrations, not official assets.",
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, fourteen months apart",
+   "ratio": "16/10",
+   "before": {"label": "April 2020", "image": "img/archive-2020-04-prelaunch.avif", "caption": "Five days before launch: a 90-day free trial, for phones.[^36]", "alt": "Quibi home page, April 2020"},
+   "after": {"label": "June 2021", "image": "img/archive-2021-06-end.avif", "caption": "After the sale to Roku: “Big stories. Big screen. Coming soon. For free.”[^36]", "alt": "quibi.com, June 2021, pointing to The Roku Channel"},
+   "source": "Internet Archive Wayback Machine captures of quibi.com[^36]."
+  }
+ ]
+}

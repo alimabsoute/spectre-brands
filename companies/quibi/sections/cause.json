@@ -1,0 +1,38 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced, and because Quibi was private much of it is press reporting.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "A paid product in a free category",
+   "text": "Quibi asked $4.99 to $7.99 a month for short video on a phone, where YouTube and TikTok were free and Netflix and Disney+ already held the monthly budget.[^11][^27] The founders’ letter conceded the possibility that “the idea itself wasn’t strong enough to justify a standalone streaming service.”[^1] Sensor Tower estimated that about 8% of the first sign-ups paid once the trial ended; Quibi disputed the figure and never published its own.[^9]"
+  },
+  {
+   "weight": 25,
+   "title": "Strategy: phone-only, unshareable, platform-first",
+   "text": "These were decisions, not accidents. Whitman told Deadline the team considered television apps and chose to be “mobile only.”[^2] The app blocked screenshots, so its shows could not travel on social media.[^4][^11] Marketing sold the word Quibi before it sold a show.[^4] Television apps shipped on October 20, 2020, one day before the closure was announced.[^10]"
+  },
+  {
+   "weight": 20,
+   "title": "The pandemic removed the use case",
+   "text": "The product was designed for commutes and queues, and launched weeks into stay-at-home orders.[^6] Katzenberg told the New York Times: “I attribute everything that has gone wrong to coronavirus.”[^5] The letter was more careful: other businesses “have found their way through it. We were not able to do so.”[^1] In the same months Disney+ reached 73.7 million paid subscribers.[^33]"
+  },
+  {
+   "weight": 15,
+   "title": "A cost base that needed scale at once",
+   "text": "Programming cost up to $100,000 a minute and the planned first-year marketing budget was $470 million.[^4][^5] By June the company reportedly expected to have spent $1 billion by the third quarter and to need at least $200 million more in 2021.[^7] Whitman said in October that reaching scale would take “a lot more capital” and that the data would not support raising it.[^2]"
+  },
+  {
+   "weight": 7,
+   "title": "Leadership friction and departures",
+   "text": "The Wall Street Journal reported that Whitman threatened to resign before launch over Katzenberg’s treatment of her.[^11] Vulture documented the exits of the head of Daily Essentials, the executive who led advertising sales and the creative-marketing lead, the last of them two weeks after launch.[^4]"
+  },
+  {
+   "weight": 3,
+   "title": "The Eko lawsuit",
+   "text": "Quibi’s one proprietary feature was in litigation from March 2020, with Elliott Management funding the other side and damages of more than $100 million sought.[^21][^22] It did not close the company, but it clouded the value of the technology Quibi hoped to sell, and Turnstyle ended up with Eko.[^21]"
+  }
+ ],
+ "disclaimer": "the weights are our judgment, not a measurement. Quibi’s founders said they would “never know” how much was the idea and how much the timing.[^1] We give more weight to the idea and the strategy because the services that launched beside it grew through the same pandemic."
+}

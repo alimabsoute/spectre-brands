@@ -1,0 +1,75 @@
+{
+ "kicker": "The story",
+ "title": "Quick bites, big money, eight months",
+ "lede": "Quibi did not fail quietly or slowly. It raised more money than almost any media start-up before it, signed most of Hollywood, bought a Super Bowl ad, and announced its own closure 198 days after launch with hundreds of millions of dollars still in the bank.",
+ "chapters": [
+  {
+   "when": "2017 – 2018 · The pitch",
+   "title": "Every studio in town writes a cheque",
+   "big": "$1B",
+   "cap": "first funding round, announced August 2018, before the company had a name",
+   "color": "#3F8A5A",
+   "body": "After selling DreamWorks Animation in 2016, Jeffrey Katzenberg formed a holding company, WndrCo, and by July 2017 was promoting a venture he called NewTV: premium, Hollywood-made video in short chapters, built for phones.[^4] He recruited Meg Whitman, who had just announced her retirement from Hewlett Packard Enterprise, as chief executive.[^4]\n\nIn August 2018 NewTV announced $1 billion of funding. The round was led by Madrone Capital Partners, and the investors included Disney, NBCUniversal, Sony Pictures, Viacom, WarnerMedia, Lionsgate, MGM, ITV, Entertainment One, Alibaba, Goldman Sachs, JPMorgan and Liberty Global.[^3] Vulture later quoted a studio executive who put the individual studio stakes “in the $20 million range.”[^4]\n\nOn October 10, 2018 the company got its name. Quibi, the founders said, was a portmanteau of “quick bites.”[^28]",
+   "image": {
+    "image": "img/archive-2018-10-name.avif",
+    "caption": "quibi.com a week after the name was announced, captured Oct 17, 2018: “Something cool is coming from Hollywood and Silicon Valley.”[^36]",
+    "alt": "Quibi holding page from October 2018 with a black wordmark and an email sign-up box"
+   }
+  },
+  {
+   "when": "2019 – Jan 2020 · The build",
+   "title": "$100,000 a minute, and a phone that turns",
+   "big": "$100K",
+   "cap": "per minute of programming, the budget Katzenberg quoted to Vulture",
+   "color": "#7a1fd6",
+   "body": "Quibi paid for television at film prices. “People on Quibi have $100,000 a minute to make content,” Katzenberg told Vulture. “That doesn’t exist on other platforms.”[^4] Variety put it at up to $6 million per hour.[^3] Steven Spielberg, Guillermo del Toro, Antoine Fuqua and Reese Witherspoon were among those who signed on.[^3] The company said it had sold out its first year of advertising, with $150 million in commitments.[^3]\n\nAt its CES keynote on January 8, 2020, Quibi showed its one piece of new technology. Turnstyle let a viewer rotate the phone between portrait and landscape while the show kept playing, reframed for each.[^26] Whitman announced the price, $4.99 a month with ads or $7.99 without, the launch date of April 6, and a first year of more than 175 shows and 8,500 episodes.[^27]\n\nIn March 2020 a second round of $750 million closed, taking the total to $1.75 billion. The chief financial officer said it would give Quibi “a strong cash runway.”[^3]",
+   "video": "keynote"
+  },
+  {
+   "when": "Feb – Apr 2020 · The launch",
+   "title": "“I’ll be there in a Quibi”",
+   "big": "1.7M",
+   "cap": "downloads in the first week, according to the company",
+   "color": "#16161A",
+   "body": "Quibi introduced itself to the country during Super Bowl LIV. In the spot, a getaway driver radios a waiting bank-robbery crew: “I’ll be there in a Quibi.” “A what?!” “A Quibi. Less than ten minutes.”[^24] USA Today’s Ad Meter ranked it fourth from bottom of 62 ads.[^25]\n\nThe service went live on April 6, 2020, with a 90-day free trial and a deal that gave some T-Mobile customers a free year.[^29] By then stay-at-home orders covered much of the country, and the commute and the coffee queue that the product was designed for had gone.[^6]\n\nA week later Whitman told CNBC the app had been downloaded 1.7 million times and that the lockdown “didn’t hurt us at all.”[^6][^29] Disney+ had announced more than 10 million sign-ups the day after its own launch five months earlier.[^6]",
+   "video": "superbowl"
+  },
+  {
+   "when": "Apr – Sep 2020 · The summer",
+   "title": "Stuck on the sofa with a phone-only app",
+   "big": "7.4M",
+   "cap": "paying subscribers targeted for year one; by June the reported projection was under 2 million",
+   "color": "#C2412D",
+   "body": "The app could not send video to a television, and it blocked screenshots, so nothing from its shows could be shared.[^4][^11] On launch day it reached No. 3 in Apple’s App Store. By mid-June it was No. 284.[^4]\n\nOn May 11 Katzenberg told the New York Times: “I attribute everything that has gone wrong to coronavirus. Everything. But we own it.”[^5] AirPlay support arrived on May 27 and Chromecast was promised for June.[^30] In June senior executives took a 10% pay cut.[^7]\n\nThe Wall Street Journal then reported the plan and the reality side by side: a first-year target of 7.4 million paying subscribers, and a pace that would deliver fewer than 2 million.[^7][^8] When the first free trials expired in July, Sensor Tower estimated that about 72,000 of the first 910,000 sign-ups had become paying customers. Quibi called the figure “incorrect by an order of magnitude” and did not give its own.[^9]",
+   "art": "art/couch.svg",
+   "artCaption": "The use case was the commute. The audience was at home, in front of a television the app could not reach. Original illustration."
+  },
+  {
+   "when": "Mar 2020 – Sep 2021 · The lawsuit",
+   "title": "The one new thing it built was claimed by someone else",
+   "big": "$100M+",
+   "cap": "in damages sought by Eko over Turnstyle, as reported by Variety",
+   "color": "#8A6212",
+   "body": "A month before launch, the interactive-video company Eko and Quibi sued each other over Turnstyle. Eko said the technology had been taken from it through meetings and through engineers who had seen its work under a non-disclosure agreement; Quibi asked the court to declare that it had not infringed.[^4][^22] The hedge fund Elliott Management financed Eko’s case.[^21]\n\nIn July 2020 a federal judge in California denied Eko’s request to switch the feature off and dismissed three of its nine claims, but let the patent and trade-secret claims proceed. Quibi called it “a meritless case.”[^22]\n\nThe case outlived the service. In September 2021 the two sides dropped all claims, and Quibi’s successor company handed the Turnstyle technology and its intellectual property to Eko. Variety’s source said no money changed hands.[^21]",
+   "art": "art/turnstyle.svg",
+   "artCaption": "One scene, framed twice: the idea behind Turnstyle. Original illustration."
+  },
+  {
+   "when": "Oct 2020 – 2021 · The end",
+   "title": "“A profound apology”",
+   "big": "$350M",
+   "cap": "reportedly returned to investors, out of $1.75B raised",
+   "color": "#C2412D",
+   "body": "In September the Wall Street Journal reported that Quibi was exploring a sale, a new fundraising or a merger with a blank-cheque company.[^31] None happened. On October 20 it released apps for Apple TV, Android TV and Fire TV. On October 21 it announced it was closing.[^10][^13]\n\nWhitman told Deadline the arithmetic: “In order to get to scale we would have to raise more capital, a lot more capital,” and the data would not support another raise.[^2] About $350 million was still in the bank, and about 200 people worked there.[^2] Streaming ended on or about December 1.[^15]\n\nOn January 8, 2021 Roku agreed to buy the rights to more than 75 shows, for a sum Variety’s source described as “significantly” less than $100 million.[^16][^17] They returned in May 2021, free with ads and on televisions, as Roku Originals.[^17]",
+   "pull": {
+    "text": "All that is left now is to offer a profound apology for disappointing you and, ultimately, for letting you down.",
+    "who": "Jeffrey Katzenberg and Meg Whitman, open letter, October 21, 2020[^1]"
+   },
+   "image": {
+    "image": "img/archive-2021-06-end.avif",
+    "caption": "quibi.com on Jun 12, 2021: “Big stories. Big screen. Coming soon. For free.”[^36]",
+    "alt": "quibi.com in June 2021 with The Roku Channel logo and the words Big Stories, Big Screen"
+   }
+  }
+ ]
+}

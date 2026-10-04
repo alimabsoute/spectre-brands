@@ -1,0 +1,69 @@
+{
+ "kicker": "The old website",
+ "title": "quibi.com, from teaser to tombstone",
+ "lede": "The app is gone from the stores, so the website is the best surviving record of how Quibi presented itself. These are screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. Captures were found with the CDX API in October 2026.[^36]",
+ "snips": [
+  {"text": "“Something cool is coming from Hollywood and Silicon Valley — quick bites of captivating entertainment, created for mobile by the best talent, designed to fit perfectly into any moment of your day.”", "when": "Holding page · Oct 17, 2018 capture[^36]"},
+  {"text": "**QUICK BITES. BIG STORIES.** 90 DAY FREE TRIAL. LAUNCHING APRIL 6.", "when": "Home page · Apr 1, 2020 capture[^36]"},
+  {"text": "“Watch movie-quality shows designed for your phone. New episodes every day.” **14 days free, then plans starting at $4.99**", "when": "Home page · Nov 1, 2020 capture, eleven days after the shutdown announcement[^36]"},
+  {"text": "**The Roku Channel. BIG STORIES. BIG SCREEN.** COMING SOON. FOR FREE.", "when": "Home page · Jun 12, 2021 capture[^36]"}
+ ],
+ "note": "Screenshots of Internet Archive captures at 1280 pixels wide, saved as images. Capture times are UTC. Background video on the 2020 pages is shown as the still frame the archive preserved. Our request to the live quibi.com in October 2026 was refused, so the current state of the domain is unknown.",
+ "captures": [
+  {
+   "date": "Oct 2018",
+   "label": "The name",
+   "url": "https://www.quibi.com/",
+   "wayback": "https://web.archive.org/web/20181017222749/https://www.quibi.com/",
+   "image": "img/archive-2018-10-name.avif",
+   "h": 480,
+   "captured": "Oct 17, 2018 · 22:27 UTC",
+   "title": "A wordmark and an email box",
+   "text": "One week after NewTV became Quibi: a black wordmark, one sentence of promise and a sign-up form. The purple arrived later."
+  },
+  {
+   "date": "Apr 2020",
+   "label": "Five days to launch",
+   "url": "https://quibi.com/",
+   "wayback": "https://web.archive.org/web/20200401010418/https://quibi.com/",
+   "image": "img/archive-2020-04-prelaunch.avif",
+   "h": 480,
+   "captured": "Apr 1, 2020 · 01:04 UTC",
+   "title": "90 day free trial",
+   "text": "The pre-launch home page: “Quick bites. Big stories,” a pre-order button and the 90-day free trial that every early subscriber joined on."
+  },
+  {
+   "date": "Nov 2020",
+   "label": "Still selling",
+   "url": "https://quibi.com/",
+   "wayback": "https://web.archive.org/web/20201101021356/https://quibi.com/",
+   "image": "img/archive-2020-11-home.avif",
+   "h": 480,
+   "captured": "Nov 1, 2020 · 02:13 UTC",
+   "title": "“Sign up for Quibi now!”",
+   "text": "Eleven days after the closure was announced and a month before streaming ended, the home page still offered 14 days free and plans from $4.99."
+  },
+  {
+   "date": "Jan 2021",
+   "label": "After the lights went out",
+   "url": "https://quibi.com/",
+   "wayback": "https://web.archive.org/web/20210102043235/https://quibi.com/",
+   "image": "img/archive-2021-01-home.avif",
+   "h": 480,
+   "captured": "Jan 2, 2021 · 04:32 UTC",
+   "title": "A download button for a dead app",
+   "text": "A month after the service stopped, the page had lost its Shows menu and its price but kept the phone and the “Download Now” button."
+  },
+  {
+   "date": "Jun 2021",
+   "label": "Handed to Roku",
+   "url": "https://www.quibi.com/",
+   "wayback": "https://web.archive.org/web/20210612151129/https://www.quibi.com/",
+   "image": "img/archive-2021-06-end.avif",
+   "h": 480,
+   "captured": "Jun 12, 2021 · 15:11 UTC",
+   "title": "Big stories, big screen",
+   "text": "The slogan rewritten for its new owner. The phone is gone from the page, and so is the price: “Coming soon. For free.”"
+  }
+ ]
+}

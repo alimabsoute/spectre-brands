@@ -1,0 +1,51 @@
+{
+ "kicker": "Marketing",
+ "title": "Selling a word nobody knew",
+ "lede": "Quibi had to explain a new name, a new format and a new habit at the same time. It chose the two most expensive stages in American television to do it, and promoted the platform more than the shows on it.",
+ "blocks": [
+  {
+   "kind": "text",
+   "title": "The Super Bowl and the Oscars",
+   "body": "The first national advertisement ran during Super Bowl LIV on February 2, 2020, two months before anyone could use the product. Quartz put the price of 30 seconds of that game at $5.6 million and reported that viewers said afterwards that they still did not know what Quibi was.[^24] Whitman had said a week earlier: “We have to build a brand—no one’s heard of Quibi—and we have to build the use case.”[^24]\n\nVulture reported that Quibi also advertised on the Oscars broadcast, and that its marketing “pushed the platform rather than the shows on it.” The magazine’s sources described market research in which 70% of respondents took Quibi for a food-delivery service; a Quibi executive denied that account, and we treat it as unverified.[^4]\n\nThe company planned to spend $470 million on marketing in its first year and cut that back once the country was at home.[^5] In late June it switched to promoting individual shows.[^4]"
+  },
+  {"kind": "video", "video": "superbowl"},
+  {
+   "kind": "scale",
+   "title": "The money not returned, in Super Bowl ads",
+   "subtitle": "One icon is one 30-second spot at the 2020 rate.",
+   "left": {"value": "$1.4B", "label": "raised and not returned to investors (derived)"},
+   "unit": {"value": "$5.6M", "label": "30 seconds of Super Bowl LIV"},
+   "count": 250,
+   "icon": "tv",
+   "equation": "$1,750M raised[^3] − $350M reportedly returned[^16] = $1,400M. $1,400M ÷ $5.6M per 30-second spot[^24] = 250 spots.",
+   "source": "Funding from Variety[^3], the returned amount as reported by Variety and Deadline[^2][^16], the cost of a spot from Quartz[^24]. Quibi did not disclose what it paid for its own spot."
+  },
+  {
+   "kind": "chart",
+   "id": "planChart",
+   "title": "The first-year plan, in dollars",
+   "subtitle": "$ millions. Planned and committed amounts reported before and just after launch.",
+   "chart": {
+    "type": "bar",
+    "horizontal": true,
+    "legend": false,
+    "height": 280,
+    "labels": ["Marketing budget (plan)", "Budget cuts announced by June", "Subscriber revenue (plan)", "Advertising commitments"],
+    "y": {"format": "usdM"},
+    "series": [{"label": "$ millions", "data": [470, 300, 250, 150], "colors": ["brand", "red", "ink", "grey"]}]
+   },
+   "source": "Marketing plan of $470M and subscriber-revenue plan of $250M from the New York Times[^5]. The $300M cut to first-year content and marketing budgets from the Wall Street Journal via Tubefilter[^7]. Advertising commitments of $150M as stated by the company[^3]; Vulture gives $100M[^4]. All are plans or press reports, not results."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The App Store told the story faster than the company did",
+   "rows": [
+    {"value": "No. 3", "text": "in Apple’s App Store on launch day, April 6, 2020[^4]"},
+    {"value": "No. 284", "text": "by mid-June[^4]"},
+    {"value": "No. 1,477", "text": "when marketing was paused during the Black Lives Matter protests[^4]"},
+    {"value": "4th worst", "text": "of 62 Super Bowl LIV ads on USA Today’s Ad Meter, with a rating of 4.4[^25]"}
+   ],
+   "source": "App Store rankings as reported by Vulture[^4]; Ad Meter result from MediaPost[^25]."
+  }
+ ]
+}

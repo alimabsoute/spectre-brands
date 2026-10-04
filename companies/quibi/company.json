@@ -1,0 +1,79 @@
+{
+ "name": "Quibi",
+ "number": "015",
+ "tier": "dead",
+ "tierWhy": "The service stopped streaming on or about December 1, 2020, its shows were sold to Roku and rebranded Roku Originals, and its Turnstyle technology went to Eko in 2021; we found nothing that operates under the Quibi name.[^15][^17][^21]",
+ "category": "film",
+ "cause": "management",
+ "years": "2018 – 2020",
+ "died": 2020,
+ "dates": [
+  {"date": "2020-04-06", "text": "launched its phone-only streaming service with a 90-day free trial"},
+  {"date": "2020-10-21", "text": "announced it was winding down, 198 days after launch"},
+  {"date": "2020-12-01", "text": "stopped streaming, on or about this date"},
+  {"date": "2021-01-08", "text": "sold its content rights to Roku"}
+ ],
+ "place": "Short-form streaming for phones · Los Angeles",
+ "title": "Quibi (2018–2020): post-mortem · Spectre Brands",
+ "description": "$1.75 billion, two famous executives and a phone-only streaming service that lasted 198 days from launch to wind-down: a sourced post-mortem of Quibi, with charts, the commercials and archived screenshots.",
+ "theme": {
+  "accent": "#7a1fd6",
+  "soft": "#f3ecfd"
+ },
+ "card": {
+  "blurb": "Hollywood’s studios and Wall Street put $1.75 billion into ten-minute shows for phones. The service launched into a lockdown, charged for what rivals gave away, and was gone in eight months.",
+  "stat": {
+   "value": "198 days",
+   "label": "from launch to wind-down"
+  },
+  "spark": [0, 1000, 1750, 750, 350, 0],
+  "peak": 2,
+  "logo": "img/logo-2018.avif",
+  "logoYear": "2018"
+ },
+ "hero": {
+  "dates": "Launched Apr 6, 2020. Announced its wind-down Oct 21, 2020. Dark by Dec 1, 2020.",
+  "standfirst": "The name meant “quick bites.” The company turned out to be one.",
+  "deck": "Jeffrey Katzenberg and Meg Whitman raised $1.75 billion to make premium shows in chapters of ten minutes or less, watchable only on a phone. The app arrived a few weeks into the pandemic lockdowns, could not be cast to a television or screenshotted, and cost $4.99 a month in a market full of free short video. This is the full post-mortem, built from the founders’ own letter, Roku’s filings, contemporary reporting and the archived website. Quibi was private, so most of its numbers are press reports or estimates, and are labelled as such.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration: a phone turning between portrait and landscape, the feature Quibi called Turnstyle. Not an official asset.",
+  "motion": "float",
+  "archive": [
+   {"image": "img/archive-2018-10-name.avif", "caption": "The name appears, Oct 2018", "alt": "Quibi holding page from October 2018 with a black wordmark"},
+   {"image": "img/archive-2020-04-prelaunch.avif", "caption": "Five days before launch, Apr 2020", "alt": "Quibi home page offering a 90 day free trial, launching April 6"},
+   {"image": "img/archive-2021-06-end.avif", "caption": "Handed to Roku, Jun 2021", "alt": "quibi.com in June 2021 pointing to The Roku Channel"}
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {"value": "$1.75B", "text": "raised in two rounds before a single episode had streamed[^3]"},
+   {"value": "198 days", "text": "from launch to the wind-down announcement (derived)[^10]"},
+   {"value": "7.4M", "text": "paying subscribers targeted for year one, as reported by the Wall Street Journal[^8]"},
+   {"value": "$350M", "text": "reportedly returned to investors when it closed[^16]"}
+  ]
+ },
+ "findings": [
+  {
+   "title": "It charged for something the phone already gave away.",
+   "text": "Quibi cost $4.99 a month with ads or $7.99 without, against free short video on YouTube and TikTok. The founders’ own letter allowed that “the idea itself wasn’t strong enough to justify a standalone streaming service.”[^1][^10]"
+  },
+  {
+   "title": "Phone-only was a choice, and it was reversed too late.",
+   "text": "Whitman said the team considered television apps and decided against them. AirPlay arrived seven weeks after launch; apps for Apple TV, Android TV and Fire TV arrived the day before the shutdown was announced.[^2][^10][^30]"
+  },
+  {
+   "title": "The pandemic hurt, but it helped everyone else.",
+   "text": "Katzenberg said “I attribute everything that has gone wrong to coronavirus.” In the same year Disney+ reached 73.7 million paid subscribers.[^5][^33]"
+  },
+  {
+   "title": "The plan needed scale immediately.",
+   "text": "The reported first-year target was 7.4 million paying subscribers. By June the Wall Street Journal reported the company was on course for fewer than 2 million and expected to need another $200M.[^7][^8]"
+  },
+  {
+   "title": "It stopped with money left.",
+   "text": "The founders closed the company rather than spend the remainder, and reportedly returned about $350M of the $1.75B. Roku bought the shows for a reported sum under $100M.[^2][^16]"
+  }
+ ],
+ "published": "2026-10-03"
+}

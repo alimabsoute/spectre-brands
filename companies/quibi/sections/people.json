@@ -1,0 +1,15 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it",
+ "lede": "Two of the best-known executives in their industries, and a senior team that changed around them. Later careers are included only where we found a source.",
+ "people": [
+  {"name": "Jeffrey Katzenberg", "role": "Founder and chairman", "text": "Aged 69 at launch. Former chairman of Walt Disney Studios and co-founder of DreamWorks; he sold DreamWorks Animation in 2016 and formed the holding company WndrCo, where the idea began as NewTV.[^4][^5] He chose the programming and, by Vulture’s account, gave notes on individual scenes.[^4]", "later": "Signed the Eko settlement statement as “founder and chairman of Quibi” in September 2021.[^21]"},
+  {"name": "Meg Whitman", "role": "Chief executive, 2018 – 2020", "text": "Aged 63 at launch. Former chief executive of eBay and of Hewlett-Packard, recruited by Katzenberg as she left Hewlett Packard Enterprise.[^4][^5] She told Vulture that Quibi was the premium version of a free product, like bottled water.[^4]", "later": "Confirmed as United States ambassador to Kenya in July 2022.[^37]"},
+  {"name": "Tom Conrad", "role": "Chief product officer", "text": "Demonstrated Turnstyle at CES in January 2020; Engadget identified him as a founder of Pandora.[^26] He announced AirPlay support in May 2020 with the line that “these days visiting the family room is like a day trip.”[^30]"},
+  {"name": "Ambereen Toubassy", "role": "Chief financial officer", "text": "Announced the $750 million second round in March 2020: “This round of $750 million gives us tremendous flexibility and the financial wherewithal to build content and technology that consumers embrace.”[^3]"},
+  {"name": "Janice Min", "role": "Head of Daily Essentials (left before launch)", "text": "The former editor of The Hollywood Reporter oversaw the daily news and lifestyle programming and left after reportedly clashing with Katzenberg over its direction.[^4]"},
+  {"name": "Tim Connelly", "role": "Advertising executive (left before launch)", "text": "Led the team that secured the first-year advertising commitments, then “left abruptly,” according to Vulture.[^4]"},
+  {"name": "Megan Imbres", "role": "Creative-marketing lead", "text": "Her departure was announced two weeks after launch.[^4]"},
+  {"name": "Yoni Bloch", "role": "Founder and chief executive of Eko (the plaintiff)", "text": "Met Katzenberg in March 2017 and later sued over Turnstyle. After the settlement he said the result “will help ensure that Eko remains the undisputed leader in interactive storytelling technology.”[^21][^22]"}
+ ]
+}

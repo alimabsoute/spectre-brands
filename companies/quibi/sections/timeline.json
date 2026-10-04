@@ -1,0 +1,323 @@
+{
+ "kicker": "Timeline",
+ "title": "Four years, 28 moments",
+ "lede": "From the first pitch to the last lawsuit. The service itself occupies eight months in the middle. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "product": {
+   "label": "Product",
+   "color": "#7a1fd6"
+  },
+  "marketing": {
+   "label": "Marketing",
+   "color": "#93743a"
+  },
+  "legal": {
+   "label": "Eko lawsuit",
+   "color": "#888888"
+  },
+  "death": {
+   "label": "Death & afterlife",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "Jul 2017",
+   "year": "2017",
+   "cat": "corporate",
+   "title": "Katzenberg pitches “NewTV”",
+   "text": "A year after selling DreamWorks Animation, Katzenberg is on the cover of Variety promoting premium short-form video for phones, to be built by his holding company WndrCo.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Early 2018",
+   "year": "2018",
+   "cat": "corporate",
+   "title": "Meg Whitman joins as CEO",
+   "text": "Katzenberg calls Whitman on the day she announces her retirement from Hewlett Packard Enterprise; she signs on a few weeks later.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Aug 2018",
+   "year": "",
+   "cat": "money",
+   "title": "$1 billion raised",
+   "text": "The first round is led by Madrone Capital Partners. Disney, NBCUniversal, Sony, Viacom, WarnerMedia, Lionsgate, MGM, ITV, Entertainment One and Alibaba all invest.",
+   "src": [
+    3,
+    4
+   ]
+  },
+  {
+   "date": "Oct 10",
+   "year": "",
+   "cat": "corporate",
+   "title": "NewTV becomes Quibi",
+   "text": "The name, short for “quick bites,” is announced at the Vanity Fair New Establishment Summit in Los Angeles.",
+   "src": [
+    28
+   ]
+  },
+  {
+   "date": "2019",
+   "year": "",
+   "cat": "money",
+   "title": "First-year advertising sold out",
+   "text": "Quibi says it has $150 million in commitments from advertisers including Google, P&G and PepsiCo.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Jan 8",
+   "year": "2020",
+   "cat": "product",
+   "title": "CES keynote: Turnstyle, prices, launch date",
+   "text": "$4.99 a month with ads, $7.99 without, launching April 6 with more than 175 shows and 8,500 episodes promised in year one.",
+   "src": [
+    26,
+    27
+   ]
+  },
+  {
+   "date": "Feb 2",
+   "year": "",
+   "cat": "marketing",
+   "title": "Super Bowl LIV ad",
+   "text": "“Bank Heist” is Quibi’s first national advertisement. USA Today’s Ad Meter ranks it fourth from bottom of 62.",
+   "src": [
+    24,
+    25
+   ]
+  },
+  {
+   "date": "Mar 4",
+   "year": "",
+   "cat": "money",
+   "title": "$750 million second round",
+   "text": "Upsized from $500 million. Total raised reaches $1.75 billion. Investors in the round are not named.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Early Mar",
+   "year": "",
+   "cat": "legal",
+   "title": "Quibi and Eko sue each other",
+   "text": "Eko claims Turnstyle was built on its technology. Quibi seeks a declaration that it did not infringe.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Apr 6",
+   "year": "",
+   "cat": "product",
+   "title": "Launch",
+   "text": "The app goes live in North America with a 90-day free trial and a free year for some T-Mobile customers. It reaches No. 3 in Apple’s App Store.",
+   "src": [
+    4,
+    29
+   ]
+  },
+  {
+   "date": "Apr 13",
+   "year": "",
+   "cat": "product",
+   "title": "“1.7 million downloads”",
+   "text": "Whitman tells CNBC the first week beat expectations and that the company will speed up work on casting to televisions.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "May 11",
+   "year": "",
+   "cat": "corporate",
+   "title": "“I attribute everything that has gone wrong to coronavirus”",
+   "text": "Katzenberg to the New York Times. Sensor Tower estimates 2.9 million installs; Quibi says 3.5 million, with 1.3 million active users.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "May 27",
+   "year": "",
+   "cat": "product",
+   "title": "AirPlay support",
+   "text": "Seven weeks after launch, iPhone users can send shows to a television. Chromecast is promised for June.",
+   "src": [
+    30
+   ]
+  },
+  {
+   "date": "Early Jun",
+   "year": "",
+   "cat": "money",
+   "title": "Executives take a 10% pay cut",
+   "text": "The company also plans to cut $300 million from first-year content and marketing budgets, the Wall Street Journal reports.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Jun 14",
+   "year": "",
+   "cat": "money",
+   "title": "The Journal publishes the gap",
+   "text": "A reported target of 7.4 million paying subscribers in year one; a pace that would deliver fewer than 2 million. Advertisers are asking to renegotiate.",
+   "src": [
+    7,
+    8
+   ]
+  },
+  {
+   "date": "Mid-Jun",
+   "year": "",
+   "cat": "product",
+   "title": "No. 284 in the App Store",
+   "text": "Down from No. 3 on launch day. Vulture reports it fell to No. 1,477 when marketing was paused.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Jul 8",
+   "year": "",
+   "cat": "product",
+   "title": "The first free trials expire",
+   "text": "Sensor Tower estimates that 72,000 of the first 910,000 sign-ups became paying subscribers. Quibi says the estimate is “incorrect by an order of magnitude.”",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Jul 2020",
+   "year": "",
+   "cat": "legal",
+   "title": "Judge refuses to switch Turnstyle off",
+   "text": "Eko’s request for a preliminary injunction is denied and three of its nine claims are dismissed; the patent and trade-secret claims go on.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Jul 2020",
+   "year": "",
+   "cat": "product",
+   "title": "Ten Emmy nominations",
+   "text": "All in the short-form categories.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Sep 17",
+   "year": "",
+   "cat": "product",
+   "title": "Two Emmys",
+   "text": "Laurence Fishburne and Jasmine Cephas Jones win the short-form acting awards for #FreeRayshawn.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Sep 21",
+   "year": "",
+   "cat": "corporate",
+   "title": "Strategic options",
+   "text": "The Wall Street Journal reports Quibi is exploring a sale, a new fundraising or a merger with a special-purpose acquisition company.",
+   "src": [
+    31
+   ]
+  },
+  {
+   "date": "Oct 20",
+   "year": "",
+   "cat": "product",
+   "title": "Television apps, at last",
+   "text": "Apps for Apple TV, Android TV and Fire TV are released.",
+   "src": [
+    10,
+    13
+   ]
+  },
+  {
+   "date": "Oct 21",
+   "year": "",
+   "cat": "death",
+   "title": "Wind-down announced",
+   "text": "Katzenberg and Whitman publish an open letter: the company will close, sell its content and technology, and return cash to shareholders.",
+   "src": [
+    1,
+    10
+   ]
+  },
+  {
+   "date": "Dec 1",
+   "year": "",
+   "cat": "death",
+   "title": "The app goes dark",
+   "text": "Quibi’s support page had said streaming would end “on or about December 1, 2020.”",
+   "src": [
+    15,
+    16
+   ]
+  },
+  {
+   "date": "Jan 8",
+   "year": "2021",
+   "cat": "death",
+   "title": "Roku buys the shows",
+   "text": "Roku acquires the content rights, more than 75 shows. The price is not disclosed; it is reported as under $100 million.",
+   "src": [
+    16,
+    17
+   ]
+  },
+  {
+   "date": "May 2021",
+   "year": "",
+   "cat": "death",
+   "title": "Relaunched as Roku Originals",
+   "text": "The shows return free, with advertising, on The Roku Channel.",
+   "src": [
+    17,
+    19
+   ]
+  },
+  {
+   "date": "Jul 2021",
+   "year": "",
+   "cat": "death",
+   "title": "Eight Emmy nominations, for Roku",
+   "text": "Former Quibi shows including Reno 911!, Die Hart and Mapleworth Murders are nominated under their new owner.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Sep 15",
+   "year": "",
+   "cat": "legal",
+   "title": "Eko gets Turnstyle",
+   "text": "QBI Holdings and Eko drop all claims. The Turnstyle technology and its intellectual property are transferred to Eko.",
+   "src": [
+    21
+   ]
+  }
+ ]
+}

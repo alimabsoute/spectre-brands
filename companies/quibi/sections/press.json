@@ -1,0 +1,14 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {"q": "And yet, Quibi is not succeeding. Likely for one of two reasons: because the idea itself wasn’t strong enough to justify a standalone streaming service or because of our timing.", "who": "**Jeffrey Katzenberg and Meg Whitman**, open letter, Oct 21, 2020[^1]", "big": true},
+  {"q": "I attribute everything that has gone wrong to coronavirus. Everything. But we own it.", "who": "**Jeffrey Katzenberg**, to the New York Times, May 11, 2020[^5]"},
+  {"q": "It turns out people have in-between moments at home. We don’t actually think it hurt us.", "who": "**Meg Whitman**, on the pandemic, as reported from her CNBC interview of Apr 13, 2020[^6]"},
+  {"q": "People on Quibi have $100,000 a minute to make content. That doesn’t exist on other platforms.", "who": "**Jeffrey Katzenberg**, to Vulture, 2020[^4]"},
+  {"q": "The streamer that was doomed to fail before it launched has died", "who": "**The Verge**, sub-headline, Oct 22, 2020[^11]"},
+  {"q": "Most entrepreneurs just keep on going because they literally run out of money and we just didn’t think that was the right thing to do.", "who": "**Meg Whitman**, to Deadline, Oct 21, 2020[^2]"},
+  {"q": "We’re pivoting from Quibi’s SVOD model to an ad-supported model, and this type of new, original content is not usually available for free.", "who": "**Rob Holmes**, Roku vice-president of programming, to Variety, Jan 8, 2021[^16]"},
+  {"q": "I’m going to Disneyland.", "who": "**Jeffrey Katzenberg**, asked by Deadline what was next, Oct 21, 2020[^2]"}
+ ]
+}

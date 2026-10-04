@@ -1,0 +1,62 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The pitch, the ad and the morning after",
+ "lede": "Quibi’s own channels and shows are gone from the app stores, but the sales pitch survives: the founders on CNBC a year before launch, the CES keynote, the Super Bowl spot, and the same two people explaining the shutdown nine months later.",
+ "videos": [
+  {
+   "id": "superbowl",
+   "title": "“Bank Heist,” the Super Bowl LIV spot",
+   "year": 2020,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "cBlKObT5dv0",
+   "caption": "Aired February 2, 2020, two months before the service existed. A getaway driver promises to arrive “in a Quibi,” meaning less than ten minutes.[^24] USA Today’s Ad Meter ranked it fourth from bottom of 62 ads.[^25] A third-party upload made on the day of the game."
+  },
+  {
+   "id": "keynote",
+   "title": "The Quibi keynote at CES 2020",
+   "year": 2020,
+   "type": "event",
+   "provider": "youtube",
+   "embedId": "F8uW12uKoDQ",
+   "caption": "Whitman and Katzenberg’s full presentation in Las Vegas on January 8, 2020, where Turnstyle, the prices and the April 6 launch date were announced.[^26][^27] From the CES channel, uploaded January 15, 2020."
+  },
+  {
+   "id": "cnbc2019",
+   "title": "CNBC: Whitman and Katzenberg explain Quibi, a year early",
+   "year": 2019,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "sjP8G1Rdg20",
+   "caption": "A ten-minute interview on “Squawk on the Street,” uploaded by CNBC on June 19, 2019, ten months before launch. The case for paid short-form video, in the founders’ own words."
+  },
+  {
+   "id": "cnbcshut",
+   "title": "CNBC: “Shutting down operations was most honorable choice for shareholders”",
+   "year": 2020,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "2EjrShc3eug",
+   "caption": "The founders on CNBC’s “Squawk Alley” on October 22, 2020, the morning after the announcement, explaining why they chose to stop and return cash.[^1]"
+  },
+  {
+   "id": "gma",
+   "title": "Good Morning America: “Billion dollar short form streaming start up Quibi shuts down”",
+   "year": 2020,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "tEfx_MxEXq4",
+   "caption": "ABC’s morning-show report on the closure, uploaded October 22, 2020."
+  },
+  {
+   "id": "retro",
+   "title": "Ordinary Things: “The Dumpster Fire Failure of Quibi”",
+   "year": 2020,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "WZ4lR0G3ytE",
+   "caption": "A fourteen-minute independent retrospective, uploaded November 12, 2020, while the app was still running out its last weeks. Its figures and opinions are the uploader’s; ours are in the sections above."
+  }
+ ],
+ "note": "No official launch trailer for the service could be found on a channel we could verify; the CES keynote is the fullest surviving record of how Quibi presented itself."
+}

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 420 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of the same scene shown on a phone held upright and a phone held sideways">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="30" y="30" width="120" height="240" rx="18" fill="#1d1b18"/>
+<rect x="40" y="50" width="100" height="196" rx="6" fill="#e7dcf8"/>
+<circle cx="90" cy="110" r="22" fill="#f2c14e"/>
+<path d="M56 246 C56 190 74 150 90 150 C106 150 124 190 124 246Z" fill="#7a1fd6"/>
+<path d="M80 108 h2 M98 108 h2 M82 120 c5 5 11 5 16 0" stroke-width="2.4"/>
+<rect x="220" y="100" width="180" height="110" rx="16" fill="#1d1b18"/>
+<rect x="238" y="110" width="144" height="90" rx="6" fill="#e7dcf8"/>
+<circle cx="286" cy="146" r="16" fill="#f2c14e"/>
+<path d="M262 200 C262 176 274 166 286 166 C298 166 310 176 310 200Z" fill="#7a1fd6"/>
+<path d="M330 200 L346 160 L362 200Z M344 200 L356 174 L370 200Z" fill="#5a12a6" stroke-width="2.4"/>
+<circle cx="360" cy="128" r="8" fill="#fbf9f5" stroke-width="2.4"/>
+<path d="M162 120 C176 96 196 88 214 92" stroke-width="3.4"/>
+<path d="M200 80 L216 92 L204 108" stroke-width="3.4"/>
+<path d="M214 232 C196 244 176 240 162 222" stroke-width="3.4"/>
+<path d="M160 240 L160 220 L178 224" stroke-width="3.4"/>
+</g></svg>

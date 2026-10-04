@@ -1,0 +1,80 @@
+{
+ "kicker": "The money",
+ "title": "What went in, what came back, and who was counting",
+ "label": "The numbers",
+ "lede": "Quibi never published a financial statement or a subscriber count. What exists is the amount it said it raised, the amount it reportedly gave back, and two competing sets of download numbers: the company’s own, and Sensor Tower’s estimates. Both are shown, labelled.",
+ "blocks": [
+  {
+   "kind": "flow",
+   "title": "Where $1.75 billion went",
+   "subtitle": "Money raised in two rounds, and the part that reportedly went back to investors when the company closed. $ millions.",
+   "from": {"label": "raised: $1.0B in August 2018 and $750M in March 2020", "value": 1750},
+   "format": "usdM",
+   "to": [
+    {"label": "Not returned (derived remainder)", "value": 1400, "color": "red", "note": "$1,750M less the $350M reportedly returned. It covers content, marketing, technology, staff and the cost of winding down. Quibi published no breakdown and we have not itemised it."},
+    {"label": "Returned to investors (reported)", "value": 350, "color": "green", "note": "Variety: Quibi “reportedly told investors that it would return $350 million of its cash on hand.” Deadline: “around $350 million still in the bank.”[^2][^16]"}
+   ],
+   "source": "Amounts raised as stated by the company to Variety[^3]. The returned amount is press-reported, not confirmed by the company[^2][^16]. The remainder is derived and takes no account of what Roku paid for the shows, which was not disclosed[^16]."
+  },
+  {
+   "kind": "counters",
+   "title": "The clock",
+   "items": [
+    {"value": "198 days", "text": "from launch on April 6, 2020 to the wind-down announcement on October 21 (derived).[^10]"},
+    {"value": "239 days", "text": "of service, to the shutdown “on or about” December 1, 2020 (derived).[^15]"},
+    {"value": "$5.9M", "text": "not returned per day of service: $1.4B ÷ 239 days (derived from reported figures).[^3][^16]"},
+    {"value": "$1B", "text": "the company expected to have spent by the third quarter of 2020, as reported by the Wall Street Journal in June.[^7]"}
+   ]
+  },
+  {
+   "kind": "bars",
+   "title": "The subscriber plan, and what was measured",
+   "subtitle": "Millions of paying subscribers. Only the first bar is the company’s own number, and it comes from a press report.",
+   "format": "num",
+   "itemLabel": "Measure",
+   "valueLabel": "Millions",
+   "items": [
+    {"label": "Year-one target (reported)", "value": 7.4, "display": "7.4M", "color": "ink", "note": "Wall Street Journal, June 2020.[^8]"},
+    {"label": "Year-one projection at June’s pace (reported)", "value": 2.0, "display": "under 2M", "color": "brand", "self": true, "note": "Wall Street Journal, June 2020.[^7]"},
+    {"label": "First 910,000 sign-ups still paying after the trial (estimate)", "value": 0.072, "display": "72,000", "color": "red", "note": "Sensor Tower estimate, disputed by Quibi.[^9]"}
+   ],
+   "source": "Target and projection from the Wall Street Journal’s report of June 14, 2020, as summarised by Tubefilter and Señal News[^7][^8]. Conversion estimate from Sensor Tower via The Verge[^9]. The actual number of paying subscribers was never published and is unknown."
+  },
+  {
+   "kind": "chart",
+   "id": "dlChart",
+   "title": "Two counts of the same downloads",
+   "subtitle": "Cumulative app downloads, millions. Sensor Tower’s estimates against the totals Quibi gave to the press on or near the same dates.",
+   "chart": {
+    "type": "bar",
+    "labels": ["Apr 13", "May 11", "Jun 7", "Jul 8", "Oct 21"],
+    "y": {"format": {"pre": "", "suf": "M", "dec": 1}},
+    "series": [
+     {"label": "Sensor Tower estimate", "data": [null, 2.9, 3.8, 4.5, 9.6], "color": "grey"},
+     {"label": "Quibi’s own figure", "data": [1.7, 3.5, 5.0, 5.6, null], "color": "brand"}
+    ]
+   },
+   "source": "Sensor Tower estimates: 2.9M[^5], 3.8M[^7], 4.5M[^9], 9.6M[^12]. Company figures: 1.7M[^6], 3.5M[^5], 5M[^7], “over 5.6 million”[^9]. Quibi gave no total in October and Sensor Tower’s week-one total was not in our sources. Downloads are not subscribers."
+  },
+  {
+   "kind": "arc",
+   "title": "The launch spike, and what followed",
+   "subtitle": "Average app installs per day, thousands, between the dates of successive Sensor Tower estimates. Derived from estimates; read it as a shape, not a measurement.",
+   "labels": ["Launch day", "Apr 7 – May 11", "May 12 – Jun 7", "Jun 8 – Jul 8", "Jul 9 – Oct 21"],
+   "format": {"pre": "", "suf": "K", "dec": 0},
+   "xLabel": "2020",
+   "series": [{"label": "Average installs per day (derived from Sensor Tower estimates)", "data": [379, 72, 33, 23, 49], "color": "brand"}],
+   "points": [
+    {"i": 0, "title": "April 6: 379,000 in a day", "text": "Sensor Tower’s estimate for launch day, the peak. The app reached No. 3 in Apple’s App Store.[^4][^7]"},
+    {"i": 1, "title": "The 90-day trial does not hold the pace", "text": "By May 11 the estimated total was 2.9 million. Katzenberg blamed the pandemic.[^5]"},
+    {"i": 3, "title": "Under 25,000 a day", "text": "The Journal reported fewer than 20,000 a day in the first week of June. Free trials began expiring in early July.[^7][^9]"},
+    {"i": 4, "title": "A late rise that did not matter", "text": "Sensor Tower put the total at about 9.6 million by October 21, but first-time installs in October were down 41% on September, and the company closed.[^12]"}
+   ],
+   "source": "Sensor Tower estimates as reported by the New York Times[^5], the Wall Street Journal via Tubefilter[^7], The Verge[^9] and The Hollywood Reporter[^12]. Daily averages are derived: the change between two cumulative estimates divided by the days between them (arithmetic in the data notes)."
+  },
+  {
+   "kind": "note",
+   "body": "Quibi’s reported first-year plan, from the New York Times: seven million users, $250 million in subscriber revenue and $470 million of marketing.[^5] The Journal’s figure for the subscriber target is 7.4 million.[^8] We use the Journal’s number in the charts and note the difference here."
+  }
+ ]
+}

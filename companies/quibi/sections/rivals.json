@@ -1,0 +1,69 @@
+{
+ "kicker": "The rivals",
+ "title": "Five launches in nine months",
+ "lede": "Quibi arrived in the middle of the most crowded stretch in the history of streaming. The four services that launched around it all belonged to companies that owned libraries, cable systems or the phones themselves. The same lockdown that Quibi blamed filled their subscriber tables.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "The streaming class of 2019–2020: four are still here",
+   "subtitle": "Each service’s own reported audience figure near the end of 2020. The measures differ and are not like for like.",
+   "metric": "Reported audience, late 2020",
+   "items": [
+    {"name": "Disney+ (Nov 2019)", "status": "alive", "value": "73.7M", "text": "Paid subscribers at October 3, 2020.[^33] It announced more than 10 million sign-ups the day after launch.[^6]"},
+    {"name": "Apple TV+ (Nov 2019)", "status": "alive", "value": "Not disclosed", "text": "Apple published no subscriber figure. Vulture put its content spending at $6 billion.[^4]"},
+    {"name": "Quibi (Apr 2020)", "status": "dead", "self": true, "value": "Never disclosed", "text": "The reported target was 7.4 million in year one.[^8] It closed after 239 days and never published a subscriber count.[^15]"},
+    {"name": "HBO Max (May 2020)", "status": "alive", "value": "17.2M", "text": "Activations at the end of the fourth quarter of 2020, most of them existing HBO customers.[^34]"},
+    {"name": "Peacock (Jul 2020)", "status": "alive", "value": "33M", "text": "Sign-ups across the United States as of January 28, 2021, including free accounts.[^35]"}
+   ],
+   "source": "Disney 10-K for fiscal 2020[^33], AT&T fourth-quarter 2020 results[^34], Comcast fourth-quarter 2020 results[^35]. Launch months are general knowledge (see data notes)."
+  },
+  {
+   "kind": "table",
+   "title": "What each one had that Quibi did not",
+   "columns": ["Service", "Owner", "Library on day one", "Watchable on a television", "Price at launch"],
+   "rows": [
+    ["Quibi", "Independent start-up", "None; originals only[^11]", "No, until October 20, 2020[^10]", "$4.99 with ads, $7.99 without[^27]"],
+    ["Disney+", "The Walt Disney Company", "Disney, Pixar, Marvel, Star Wars and National Geographic[^33]", "Yes", "Not in our sources"],
+    ["HBO Max", "AT&T (WarnerMedia)", "HBO and Warner Bros.[^34]", "Yes", "Not in our sources"],
+    ["Peacock", "Comcast (NBCUniversal)", "NBCUniversal; an advertising-supported service[^35]", "Yes", "Not in our sources"]
+   ],
+   "highlight": 0,
+   "source": "Company filings and press as cited. Disney, WarnerMedia and NBCUniversal were all investors in Quibi.[^3]"
+  },
+  {
+   "kind": "text",
+   "title": "The rival it did not name",
+   "body": "The Verge’s post-mortem argued that the real competition was never the other subscription services: “Quibi didn’t fail because TikTok existed; it failed because executives refused to see TikTok as its biggest competition.”[^11] When the New York Times put the comparison to Katzenberg in May 2020 he answered: “That’s like comparing apples to submarines.”[^5]\n\nVulture set out the scale of the paid competition at the time: Netflix had more than 182 million subscribers and had spent $15 billion on original content the year before.[^4] Quibi’s $1.75 billion was large for a start-up and small for the field it chose."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Dead",
+    "name": "Quibi",
+    "alive": false,
+    "rows": [
+     ["Launched", "April 6, 2020[^10]"],
+     ["Funding", "$1.75B from outside investors[^3]"],
+     ["Price", "$4.99 or $7.99 a month[^27]"],
+     ["Screens", "Phones only at launch[^10]"],
+     ["Reported audience", "Never disclosed"],
+     ["Outcome", "Closed after 239 days[^15]"]
+    ]
+   },
+   "right": {
+    "tag": "Alive",
+    "name": "The same shows on Roku",
+    "alive": true,
+    "rows": [
+     ["Relaunched", "May 2021[^17]"],
+     ["Cost to Roku", "Reported as under $100M[^16]"],
+     ["Price", "Free, with advertising[^16]"],
+     ["Screens", "Televisions[^16]"],
+     ["Reported audience", "From launch to June 3, 2021, more accounts streamed a Roku Original than ever streamed a Quibi show, per Deadline as quoted by Looper[^20]"],
+     ["Outcome", "Second seasons ordered for some shows[^17]"]
+    ]
+   },
+   "source": "Roku 10-K for fiscal 2021[^17], Variety[^16], Looper quoting Deadline[^20]."
+  }
+ ]
+}

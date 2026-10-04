@@ -1,0 +1,15 @@
+<svg viewBox="0 0 420 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a phone-shaped picture playing in the middle of a wide television screen">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="30" y="30" width="360" height="210" rx="10" fill="#1d1b18"/>
+<rect x="44" y="44" width="332" height="182" rx="3" fill="#2c2733"/>
+<rect x="60" y="62" width="300" height="146" rx="4" fill="#7a1fd6"/>
+<path d="M60 170 C120 130 170 190 230 150 C280 120 320 150 360 136 V204 Q360 208 356 208 H64 Q60 208 60 204Z" fill="#5a12a6" stroke-width="2.4"/>
+<circle cx="210" cy="122" r="28" fill="#fbf9f5"/>
+<path d="M202 108 L226 122 L202 136Z" fill="#7a1fd6" stroke-width="2.4"/>
+<path d="M76 78 h54" stroke="#fbf9f5" stroke-width="5"/>
+<path d="M76 92 h30" stroke="#f2c14e" stroke-width="4"/>
+<path d="M210 240 V262 M150 266 H270"/>
+<rect x="330" y="232" width="40" height="46" rx="6" fill="#fbf9f5"/>
+<path d="M342 244 h16 M342 254 h16 M342 264 h8" stroke-width="2.4"/>
+<path d="M24 286 H396" stroke="#9a9184"/>
+</g></svg>

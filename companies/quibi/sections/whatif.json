@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "On televisions from day one",
+   "actual": "Quibi launched on phones only. Whitman said the team had weighed living-room apps and decided the use case was “7 in the morning ’til 7 at night while you were on the go.”[^2] AirPlay came on May 27, Chromecast was promised for June, and apps for Apple TV, Android TV and Fire TV on October 20, the day before the shutdown announcement.[^10][^30] Casting switched off Turnstyle, the feature that distinguished the shows.[^11]",
+   "whatif": "With television apps in April, the shows would have been available where a locked-down audience was actually watching. Roku’s later experience is suggestive: Deadline reported that more Roku accounts streamed the former Quibi shows in their first weeks than Quibi accounts ever had.[^20] But those viewers paid nothing. Television access might have lifted trial sign-ups without answering whether anyone would pay $4.99."
+  },
+  {
+   "tab": "Free with ads",
+   "actual": "The service had two paid tiers and no free one. It tested a free, advertising-supported version in Australia and New Zealand a couple of months before closing.[^11] It said it had sold $150 million of first-year advertising, and by June advertisers were asking to renegotiate because viewership was low.[^3][^7]",
+   "whatif": "A free tier at launch would have put the shows in front of the 5 million or more people who downloaded the app, and given advertisers the audience they had paid for.[^9] It is the model Roku applied to the same library.[^16] Whether advertising alone could have covered programming at up to $6 million an hour is doubtful; the plan’s $250 million of subscriber revenue would have had to come from somewhere.[^3][^5]"
+  },
+  {
+   "tab": "Delay the launch",
+   "actual": "When the pandemic arrived, Katzenberg and Whitman considered postponing. They went ahead on April 6 because twelve months of advertising was locked in and more than six months of shows were finished.[^4]",
+   "whatif": "A launch in 2021, with commuting partly restored, would have tested the original idea under the conditions it was designed for. It would also have meant a year of fixed costs with no revenue, renegotiated advertising, and a launch after TikTok’s pandemic growth rather than during it. The founders’ own view was that the cause was “a combination of the two,” the idea and the timing.[^1]"
+  }
+ ]
+}
