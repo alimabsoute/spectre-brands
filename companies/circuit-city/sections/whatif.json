@@ -1,0 +1,27 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Four decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Keep the salespeople",
+   "actual": "On March 28, 2007 about 3,400 store employees were dismissed because they were “paid well above the market-based salary range for their role.” Severance cost $9.9M.[^10] An analyst at Sanford C. Bernstein wrote that day that firing “arguably the most successful salespeople in the company could prove terrible for morale.”[^30] Sales fell from $12.43B to $11.74B in the following fiscal year and the gross margin from 23.6% to 20.7%.[^1]",
+   "whatif": "Keeping experienced staff on the floor during the flat-panel television boom might have protected the margin on the one category where advice still mattered. It would not have closed a $28B revenue gap with Best Buy, and nothing in the filings measures how much of the fiscal 2008 decline the dismissals caused."
+  },
+  {
+   "tab": "Hold the cash",
+   "actual": "The board authorised up to $1.2B of share repurchases between January 2003 and June 2006. By March 2008 only $233.7M of the authorisation was unused.[^1] Eight months later the company could not pay suppliers on the terms they demanded.[^13]",
+   "whatif": "Roughly $1B of retained cash would have covered the fiscal 2008 loss three times over and might have kept vendors shipping on normal terms through the 2008 holiday season. It would have bought time, not a strategy."
+  },
+  {
+   "tab": "Stay in appliances",
+   "actual": "The company left major appliances in July 2000, when they were 14% of sales, citing weak sales and rising competition.[^5] The Richmond Fed’s history notes that the exit came before the residential real estate boom, when appliance sales soared, and that Best Buy kept selling them.[^29]",
+   "whatif": "Appliances were costly to deliver and the company’s own analysis found below-average profits.[^5] Staying in might have kept a reason for homebuyers to visit, at the price of lower margins and the distribution centers it closed."
+  },
+  {
+   "tab": "Take Blockbuster’s $6",
+   "actual": "Blockbuster offered at least $6 a share in February 2008 and went public in April, complaining that Circuit City had not opened its books. It withdrew on July 1 after due diligence.[^20][^35]",
+   "whatif": "A sale would have paid shareholders something instead of nothing. Blockbuster filed for bankruptcy itself in 2010 (see our general knowledge note), so a combined company would more likely have changed the date of the failure than prevented it."
+  }
+ ]
+}

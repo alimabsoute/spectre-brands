@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a video disc with a clock face marked 48 hours and a telephone cord">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 224 L312 224" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<g class="spin" style="transform-origin:130px 118px"><circle cx="130" cy="118" r="88" fill="#d9dde3"/>
+<path d="M130 30 A88 88 0 0 1 218 118 L160 118 A30 30 0 0 0 130 88 Z" fill="#b9c4d6"/>
+<circle cx="130" cy="118" r="30" fill="#fffef8"/><circle cx="130" cy="118" r="9" fill="#e9e4da"/></g>
+<circle cx="236" cy="74" r="44" fill="#fffef8"/>
+<path d="M236 74 L236 44 M236 74 L258 86" stroke="#b5121b" stroke-width="4"/>
+<path d="M236 36 L236 40 M274 74 L270 74 M236 112 L236 108 M198 74 L202 74" stroke-width="2"/>
+<rect x="196" y="150" width="96" height="40" rx="6" fill="#b5121b"/>
+<text x="244" y="176" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="17" fill="#fff" stroke="none">48 HOURS</text>
+<path d="M244 190 Q244 208 226 208 Q208 208 208 216 L208 224" fill="none" stroke-width="2"/>
+<text x="118" y="218" text-anchor="middle" font-family="Caveat, cursive" font-size="19" fill="#1f2a44" stroke="none">then it bills your card</text>
+</g></svg>

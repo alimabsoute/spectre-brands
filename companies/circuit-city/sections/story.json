@@ -1,0 +1,74 @@
+{
+ "kicker": "The story",
+ "title": "Sixty years to build, six to take apart",
+ "lede": "Circuit City did not fail because of one decision. It lost its lead to Best Buy in the 1990s, spent the 2000s cutting costs and buying back stock, and reached the 2008 credit crisis with losses, unhappy suppliers and nobody willing to rescue it.",
+ "chapters": [
+  {
+   "when": "1949 – 1986 · The Wurtzels",
+   "title": "From a tire store to the superstore",
+   "big": "8 → 53",
+   "cap": "Circuit City superstores, 1983 to 1987, according to the Richmond Fed",
+   "color": "#3F8A5A",
+   "body": "Sam Wurtzel started selling televisions in 1949 from the front half of a tire store on Broad Street in Richmond, Virginia. He called the shop Wards, an acronym of the family’s names. The company went public in December 1961, expanded too fast and nearly went bankrupt in 1975.[^29]\n\nHis son Alan, chief executive from 1972, closed the weak outlets and rebuilt the company around one format: a large showroom attached to a larger warehouse, with no central checkout and commissioned salespeople who walked customers through the purchase.[^29] The corporate name changed from Wards Company to Circuit City Stores in June 1984.[^10] When Alan Wurtzel stepped down in 1986, annual sales were about $1 billion.[^29][^32]",
+   "image": {
+    "image": "img/store-newington.avif",
+    "caption": "A closed Circuit City in Newington, Connecticut, still wearing the red tower entrance of the older superstores. Photo by Mike Kalasnik, CC BY-SA 2.0, via Wikimedia Commons.[^39]",
+    "alt": "A closed Circuit City store with a red entrance tower, seen across a snowy parking lot"
+   }
+  },
+  {
+   "when": "1986 – 2000 · The Sharp years",
+   "title": "CarMax, Divx and a rival nobody feared",
+   "big": "$219.3M",
+   "cap": "after-tax losses on Divx across fiscal 1998 to 2000 (derived)",
+   "color": "#8A6212",
+   "body": "Under Richard Sharp the chain grew from 69 stores to 616, and sales from $1 billion to $12.6 billion including CarMax.[^29][^6] CarMax, a used-car superstore opened in Richmond in 1993, was the bet that worked.[^6][^26]\n\nDivx was the one that did not. Circuit City committed $130 million to a pay-per-view variant of DVD: a disc that played for 48 hours after the first viewing, then billed the customer’s card through a phone line in the player.[^7][^6] On June 16, 1999 the venture said it would shut down because it “did not obtain the studio support necessary for long-term success.”[^6]\n\nMeanwhile Best Buy, with central checkouts, no commissions and low-margin goods such as CDs and games to pull shoppers in, had passed the Circuit City stores in revenue by fiscal 1996.[^29][^24][^7] “We thought we were smarter than anybody,” Alan Wurtzel said later.[^29]",
+   "video": "divx"
+  },
+  {
+   "when": "2000 – 2003 · Retreat",
+   "title": "Out of appliances, out of commissions",
+   "big": "14%",
+   "cap": "of Circuit City’s fiscal 2000 sales came from major appliances, the category it quit that year",
+   "color": "#16161A",
+   "body": "On July 25, 2000 the company announced it would stop selling major appliances and give the floor space to electronics and home office products. It cited “significant sales weakness and increased competition” in the category. Six distribution centers and seven service centers closed that fiscal year, and the exit cost $30 million.[^5]\n\nSales of the Circuit City business fell from $10.5 billion in fiscal 2000 to $9.5 billion in fiscal 2002, while Best Buy grew from $12.5 billion to $17.7 billion.[^2][^24] CarMax was separated on October 1, 2002.[^12]\n\nIn early February 2003 the sales force moved from commission plus hourly pay to hourly pay only.[^3] The Richmond Fed’s history says 3,900 of the highest-paid salespeople were dismissed in a single day.[^29]",
+   "image": {
+    "image": "img/archive-2000-08-home.avif",
+    "caption": "circuitcity.com on Aug 15, 2000, three weeks after the appliance announcement. “Appliances” is still in the menu.[^38]",
+    "alt": "Circuit City home page from August 2000 with a red header and a TiVo promotion"
+   }
+  },
+  {
+   "when": "2003 – 2007 · The cuts",
+   "title": "“Paid well above the market-based salary range”",
+   "big": "3,400",
+   "cap": "store employees dismissed on Mar 28, 2007, about 8% of the workforce",
+   "color": "#b5121b",
+   "body": "The middle of the decade looked like a recovery. Sales rose every year from fiscal 2004 and reached $12.43 billion in fiscal 2007.[^1] The company bought the Canadian chain InterTAN for $259.3 million in 2004 and raised its share repurchase authorisation in steps to $1.2 billion.[^9][^1]\n\nThe fiscal 2007 result, however, was a $10 million loss from continuing operations.[^1] On March 28, 2007 the company said it had completed a “wage management initiative.” About 3,400 store employees were told that day they were out. The filing says the analysis “identified employees who were paid well above the market-based salary range for their role.” Severance came to $9.9 million.[^10]\n\nThey could reapply for their old jobs after ten weeks, at lower pay.[^30] The next 10-K listed “the impact of our wage management initiative on Associate morale and our reputation with customers” among its risks.[^1]",
+   "art": "art/pink-slip.svg",
+   "artCaption": "Original illustration. The wording on the slip is quoted from the company’s Form 8-K of March 28, 2007."
+  },
+  {
+   "when": "2008 – Mar 2009 · Collapse",
+   "title": "Suppliers wanted cash before shipping",
+   "big": "567",
+   "cap": "U.S. stores put into going-out-of-business sales from Jan 17, 2009",
+   "color": "#b5121b",
+   "body": "Fiscal 2008 ended with a net loss of $319.9 million.[^1] In April Blockbuster went public with an offer of at least $6 a share, then withdrew it on July 1 after due diligence.[^20][^35] Chief executive Philip Schoonover left on September 22. The loss for the six months to August 31 was $404.0 million.[^16]\n\nOn November 3 the company said it would close 155 stores and disclosed that some vendors now required payment before shipment.[^13] A week later, on November 10, 2008, it filed for Chapter 11 with a $1.1 billion bankruptcy loan, hoping to stock its shelves for the holidays.[^14]\n\nNo buyer or lender agreed terms. On January 16, 2009 the company said it would liquidate. Sales at the 567 remaining stores started the next day and were finished by March 8.[^15][^17]",
+   "video": "goob"
+  },
+  {
+   "when": "2009 – today · The name",
+   "title": "A brand worth less each time it sold",
+   "big": "$2.0M",
+   "cap": "paid for the Circuit City name and trademarks in November 2015",
+   "color": "#3d5f86",
+   "body": "Systemax, the owner of TigerDirect, bought the trademarks, the website and the customer list at auction in May 2009 for $14.0 million plus a share of revenue, and ran circuitcity.com as an online store.[^21][^17] In 2012 it folded the brand into TigerDirect.[^22][^23]\n\nIn November 2015 Systemax sold the name and trademarks for $2.0 million.[^23] The new owner’s chief executive, Ronny Shmoel, announced at the January 2018 Consumer Electronics Show that the website would relaunch that February, with kiosks and showrooms to follow.[^36] We found no evidence that a store chain was built. The website was still listing electronics for sale when we loaded it in October 2026.[^37]",
+   "image": {
+    "image": "img/archive-2010-01-home.avif",
+    "caption": "circuitcity.com under Systemax, captured Jan 4, 2010: an online store with no shops behind it.[^38]",
+    "alt": "Circuit City website in January 2010 with television and laptop deals"
+   }
+  }
+ ]
+}

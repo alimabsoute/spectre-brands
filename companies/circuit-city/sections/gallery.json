@@ -1,0 +1,99 @@
+{
+ "kicker": "Brand gallery",
+ "title": "A red tower, then a red circle",
+ "label": "Brand gallery",
+ "lede": "For most of its life a Circuit City was recognisable from the road by a red entrance tower. The last generation of stores wore a round red logo instead. Here are both as they survive in photographs and the archive, with our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/logo-2008.avif",
+   "date": "Nov 2008",
+   "caption": "The round logo used in the final years, from the website header.",
+   "credit": "Cropped from an Internet Archive capture of circuitcity.com. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/store-plug.avif",
+   "date": "Undated",
+   "caption": "A later-format store with the round logo on a yellow panel.",
+   "credit": "Photo: Staus at English Wikipedia, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Circuitcity1.jpg), public domain."
+  },
+  {
+   "image": "img/store-newington.avif",
+   "date": "Undated",
+   "caption": "The older format: the red tower entrance on a closed store in Newington, Connecticut.",
+   "credit": "Photo: Mike Kalasnik, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Circuit_City_Newington,_CT_%286935749475%29.jpg), CC BY-SA 2.0."
+  },
+  {
+   "image": "img/store-closing-2.avif",
+   "date": "2009",
+   "caption": "A “Going out of business” banner on a later-format store during the liquidation.",
+   "credit": "Photo: hattiesburgmemory, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Circuit_City_%283298923800%29.jpg), CC BY 2.0."
+  },
+  {
+   "image": "img/store-2009-02-closing.avif",
+   "date": "Feb 26, 2009",
+   "caption": "Inside a store ten days before the sales ended: “Store closing sale,” “Everything must go,” “All sales final.”",
+   "credit": "Photo: Ildar Sagdejev (Specious), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2009-02-26_Circuit_City_store_closing_everything_must_go.jpg), CC BY-SA 4.0."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The superstore.",
+   "caption": "A showroom in front, a warehouse behind and a red tower over the door."
+  },
+  {
+   "art": "art/divx-disc.svg",
+   "title": "The 48-hour disc.",
+   "caption": "Divx discs played for 48 hours from the first viewing, then charged for more.[^6]"
+  },
+  {
+   "art": "art/pink-slip.svg",
+   "title": "The wage management initiative.",
+   "caption": "About 3,400 store employees were dismissed on March 28, 2007.[^10]"
+  },
+  {
+   "art": "art/closing-sign.svg",
+   "title": "Everything must go.",
+   "caption": "The signs that hung in 567 stores from January 17, 2009.[^15]"
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#b5121b",
+   "label": "Logo red (approx.)"
+  },
+  {
+   "hex": "#e3262b",
+   "label": "Website header red, 2008 (approx.)"
+  },
+  {
+   "hex": "#f2b10f",
+   "label": "Store panel yellow (approx.)"
+  },
+  {
+   "hex": "#1d1b18",
+   "label": "Outline black (drawing)"
+  }
+ ],
+ "disclaimer": "Colors were sampled by eye from archived captures and photographs and are approximate.[^38][^39] Circuit City and its logos are trademarks of their owners and appear here in historical and editorial context. Drawings are original illustrations, not official assets.",
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, before and after the stores",
+   "ratio": "10/9",
+   "before": {
+    "label": "November 2008",
+    "image": "img/archive-2008-11-home.avif",
+    "caption": "A chain of about 720 stores, nine days before Chapter 11.[^38][^17]",
+    "alt": "Circuit City home page, November 2008"
+   },
+   "after": {
+    "label": "January 2010",
+    "image": "img/archive-2010-01-home.avif",
+    "caption": "A web store owned by Systemax, with no shops.[^38][^21]",
+    "alt": "Circuit City home page, January 2010"
+   },
+   "source": "Internet Archive Wayback Machine captures of circuitcity.com[^38]."
+  }
+ ]
+}

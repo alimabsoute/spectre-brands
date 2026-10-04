@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "It lost the format war to Best Buy",
+   "text": "Best Buy’s self-service stores with central checkouts and low-margin traffic builders passed the Circuit City stores in revenue by fiscal 1996 and reached $40.0B by fiscal 2008, against $11.7B.[^24][^7][^1] Alan Wurtzel said the company “systematically positioned ourselves for the older market and excluded the younger generation.”[^32]"
+  },
+  {
+   "weight": 20,
+   "title": "It dismantled its own sales floor",
+   "text": "Commissions ended in February 2003, with 3,900 dismissals according to the Richmond Fed. In March 2007 another 3,400 employees were let go for being paid above the market range.[^3][^29][^10] The company itself listed the effect on morale and reputation as a risk.[^1]"
+  },
+  {
+   "weight": 20,
+   "title": "Suppliers and lenders pulled back in 2008",
+   "text": "Vendors cut credit lines and some demanded payment before shipment. A new inventory appraisal reduced what the company could borrow. The disclosure statement names three causes of the filing: “erosion of vendor confidence,” “decreased liquidity” and “a global economic crisis.”[^13][^17]"
+  },
+  {
+   "weight": 15,
+   "title": "The cash had been handed back",
+   "text": "Buyback authorisations rose from $200M in 2003 to $1.2B in 2006, and $966.3M of that had been used by March 2008 (derived).[^1] The Richmond Fed puts the average price near $20 a share. Wurtzel: when the recession came, “the cupboard was bare.”[^29][^31]"
+  },
+  {
+   "weight": 15,
+   "title": "Distractions and reversals",
+   "text": "Divx cost $219.3M after tax (derived).[^6] The 2000 exit from appliances removed 14% of sales just before a housing boom.[^5][^29] InterTAN, bought for $259.3M in 2004, brought a $92M goodwill write-down within three years.[^9][^10]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings document the symptoms. How much each one contributed is a matter of opinion."
+}

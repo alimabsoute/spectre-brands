@@ -1,0 +1,159 @@
+{
+ "kicker": "The rivals",
+ "title": "One winner, several graves",
+ "lede": "Circuit City was the second-largest electronics chain when it died. Most of the specialist chains it competed with followed it. The one that passed it in the 1990s is still the market leader.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Electronics chains: who is still standing",
+   "subtitle": "The headline figure for each, and what became of it.",
+   "metric": "Scale and fate",
+   "items": [
+    {
+     "name": "Circuit City",
+     "status": "ghost",
+     "self": true,
+     "value": "$11.7B",
+     "text": "Net sales in fiscal 2008, its last full year. Liquidated in 2009; the name survives on a web shop.[^1][^15][^37]",
+     "data": [
+      6.753,
+      7.997,
+      10.503,
+      9.518,
+      9.857,
+      11.514,
+      11.744,
+      0
+     ],
+     "range": [
+      "FY96: $6.75B",
+      "2009"
+     ]
+    },
+    {
+     "name": "Best Buy",
+     "status": "alive",
+     "value": "$41.7B",
+     "text": "Revenue in fiscal 2026. It was $7.2B in fiscal 1996.[^25][^24]",
+     "data": [
+      7.215,
+      8.338,
+      12.494,
+      17.711,
+      24.548,
+      30.848,
+      40.023,
+      41.691
+     ],
+     "range": [
+      "FY96: $7.2B",
+      "FY2026"
+     ]
+    },
+    {
+     "name": "CompUSA",
+     "status": "acquired",
+     "value": "$30.6M",
+     "text": "What Systemax paid in January 2008 for its e-commerce business and 16 store leases. The brand was retired with Circuit City’s in 2012.[^23][^22]"
+    },
+    {
+     "name": "RadioShack",
+     "status": "ghost",
+     "value": "Feb 2015",
+     "text": "Filed for Chapter 11 on February 5, 2015. The name has changed hands since.[^27]"
+    },
+    {
+     "name": "hhgregg",
+     "status": "dead",
+     "value": "132 stores",
+     "text": "Filed for Chapter 11 on March 6, 2017. The court approved closing all 132 stores a month later.[^28]"
+    },
+    {
+     "name": "CarMax (spun off 2002)",
+     "status": "alive",
+     "value": "$25.9B",
+     "text": "Not a rival but an offspring: the used-car chain Circuit City started in 1993.[^26]"
+    }
+   ],
+   "source": "Company filings as cited. Sparkline points are selected fiscal years from the sales chart above, plus Best Buy’s fiscal 2026 revenue[^25]."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Ghost",
+    "name": "Circuit City",
+    "alive": false,
+    "rows": [
+     [
+      "Origin",
+      "Wards, Richmond, 1949[^29]"
+     ],
+     [
+      "Sales floor",
+      "Commissioned salespeople until 2003[^3]"
+     ],
+     [
+      "Sales, fiscal 1996",
+      "$6.75B[^7]"
+     ],
+     [
+      "Sales, fiscal 2008",
+      "$11.74B[^1]"
+     ],
+     [
+      "Net result, fiscal 2008",
+      "$319.9M loss[^1]"
+     ],
+     [
+      "Appliances",
+      "Dropped in 2000[^5]"
+     ],
+     [
+      "Outcome",
+      "Liquidated, 2009[^15]"
+     ]
+    ]
+   },
+   "right": {
+    "tag": "Alive",
+    "name": "Best Buy",
+    "alive": true,
+    "rows": [
+     [
+      "Origin",
+      "Sound of Music, Minnesota, 1966[^29]"
+     ],
+     [
+      "Sales floor",
+      "Central checkout, self-service[^29]"
+     ],
+     [
+      "Revenue, fiscal 1996",
+      "$7.2B[^24]"
+     ],
+     [
+      "Revenue, fiscal 2008",
+      "$40.0B[^24]"
+     ],
+     [
+      "Net earnings, fiscal 2008",
+      "$1,407M[^24]"
+     ],
+     [
+      "Appliances",
+      "Kept selling them[^29]"
+     ],
+     [
+      "Outcome",
+      "$41.7B revenue, fiscal 2026[^25]"
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "text",
+   "title": "What the founder’s son said",
+   "body": "Alan Wurtzel, who ran the company until 1986 and sat on the board until 2001, wrote a book about the collapse. His summary to a Richmond audience in 2012: “After I left, my successors became very focused on the bottom line.” The company refused to sell video games because the margin was low, he said, while “Best Buy was happily catering to that market.”[^32][^29]"
+  }
+ ]
+}

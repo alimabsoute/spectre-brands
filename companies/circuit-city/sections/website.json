@@ -1,0 +1,52 @@
+{
+ "kicker": "The old website",
+ "title": "What customers actually saw",
+ "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture.[^38]",
+ "snips": [
+  {
+   "text": "“Make your next VCR a TiVo!” **$99.99** after rebates: $299.99, less a $100 Circuit City mail-in rebate and a $100 manufacturer rebate with service activation.",
+   "when": "Home page · Aug 15, 2000[^38]"
+  },
+  {
+   "text": "“Free shipping on orders $24 & up or choose 24-minute in-store pickup”",
+   "when": "Home page banner · Nov 1, 2008[^38]"
+  }
+ ],
+ "note": "Captures from 1997 to 1999 exist but most of their images were never archived, and the 2004 captures redirect to an error, so they are not shown.",
+ "captures": [
+  {
+   "date": "Aug 2000",
+   "label": "The 2000 store",
+   "url": "http://www.circuitcity.com/init.jsp",
+   "wayback": "https://web.archive.org/web/20000815053607/http://www.circuitcity.com/init.jsp",
+   "image": "img/archive-2000-08-home.avif",
+   "h": 480,
+   "captured": "Aug 15, 2000",
+   "title": "Price, selection, service",
+   "text": "The web store a year after launch. The menu still lists appliances three weeks after the company said it would stop selling them.[^5] Cropped to the page content."
+  },
+  {
+   "date": "Nov 2008",
+   "label": "Ten days before",
+   "url": "http://www.circuitcity.com/",
+   "wayback": "https://web.archive.org/web/20081101062505/http://www.circuitcity.com:80/",
+   "image": "img/archive-2008-11-home.avif",
+   "h": 480,
+   "captured": "Nov 1, 2008",
+   "title": "Two days before the store-closing announcement",
+   "text": "The round red logo, free shipping and 24-minute in-store pickup. The company filed for Chapter 11 nine days later.[^14]",
+   "warn": "The main banner was a Flash file that the archive cannot play, so the capture shows an error message in its place."
+  },
+  {
+   "date": "Jan 2010",
+   "label": "Under Systemax",
+   "url": "http://www.circuitcity.com/",
+   "wayback": "https://web.archive.org/web/20100104070726/http://www.circuitcity.com/",
+   "image": "img/archive-2010-01-home.avif",
+   "h": 480,
+   "captured": "Jan 4, 2010",
+   "title": "The same address, a different company",
+   "text": "Eight months after Systemax bought the name: a web-only store with the same logo and no shops.[^21]"
+  }
+ ]
+}

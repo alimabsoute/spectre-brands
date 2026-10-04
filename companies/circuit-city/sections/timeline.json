@@ -1,0 +1,368 @@
+{
+ "kicker": "Timeline",
+ "title": "Seven decades, 33 moments",
+ "lede": "From a television counter in a tire store to a web shop with the old logo. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "stores": {
+   "label": "Stores & staff",
+   "color": "#93743a"
+  },
+  "bets": {
+   "label": "Side bets",
+   "color": "#4f7a4a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Bankruptcy & after",
+   "color": "#b5121b"
+  }
+ },
+ "events": [
+  {
+   "date": "1949",
+   "year": "",
+   "cat": "corporate",
+   "title": "Wards opens in Richmond",
+   "text": "Sam Wurtzel begins selling televisions from the front half of a tire store on Broad Street.",
+   "src": [
+    29
+   ]
+  },
+  {
+   "date": "Dec 1961",
+   "year": "",
+   "cat": "corporate",
+   "title": "Wards goes public",
+   "text": "The share sale pays for a national expansion through licensed departments in discount stores.",
+   "src": [
+    29
+   ]
+  },
+  {
+   "date": "1972",
+   "year": "",
+   "cat": "corporate",
+   "title": "Alan Wurtzel becomes CEO",
+   "text": "After a near-bankruptcy in 1975 he closes weak outlets and builds the superstore format.",
+   "src": [
+    29
+   ]
+  },
+  {
+   "date": "Jun 20",
+   "year": "1984",
+   "cat": "corporate",
+   "title": "Wards Company becomes Circuit City Stores",
+   "text": "The date of the name change recorded on the company’s SEC filings.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "1986",
+   "year": "",
+   "cat": "corporate",
+   "title": "Richard Sharp succeeds Wurtzel",
+   "text": "Sales are about $1 billion a year, from 69 stores.",
+   "src": [
+    29
+   ]
+  },
+  {
+   "date": "1993",
+   "year": "",
+   "cat": "bets",
+   "title": "First CarMax opens in Richmond",
+   "text": "A used-car superstore with fixed prices, owned by Circuit City.",
+   "src": [
+    6,
+    26
+   ]
+  },
+  {
+   "date": "Feb 1994",
+   "year": "",
+   "cat": "stores",
+   "title": "251 superstores",
+   "text": "Plus 34 mall stores, most of them renamed Circuit City Express that year.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "FY1996",
+   "year": "",
+   "cat": "rivals",
+   "title": "Best Buy passes Circuit City in revenue",
+   "text": "Best Buy reports $7.2B for its fiscal 1996. The Circuit City stores report $6.75B.",
+   "src": [
+    24,
+    7
+   ]
+  },
+  {
+   "date": "Sep 1997",
+   "year": "",
+   "cat": "bets",
+   "title": "$100 million more for Divx",
+   "text": "With an earlier $30 million, it gives Circuit City about two-thirds of Digital Video Express.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "1999",
+   "year": "",
+   "cat": "stores",
+   "title": "circuitcity.com starts selling",
+   "text": "The 10-K dates the launch of the web store to 1999.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun 16",
+   "year": "1999",
+   "cat": "bets",
+   "title": "Divx is shut down",
+   "text": "The venture cites a lack of studio support. Buyers of Divx players are offered a $100 rebate.",
+   "src": [
+    6,
+    33
+   ]
+  },
+  {
+   "date": "Feb 2000",
+   "year": "",
+   "cat": "stores",
+   "title": "Fiscal 2000: the high point for profit",
+   "text": "Circuit City’s continuing operations earn $271 million on $10.5 billion of sales.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "2000",
+   "year": "",
+   "cat": "corporate",
+   "title": "Alan McCollough becomes CEO",
+   "text": "He succeeds Sharp as chief executive.",
+   "src": [
+    29
+   ]
+  },
+  {
+   "date": "Jul 25",
+   "year": "2000",
+   "cat": "stores",
+   "title": "Exit from major appliances",
+   "text": "The category was 14% of fiscal 2000 sales. Exit costs are $30 million.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Oct 1",
+   "year": "2002",
+   "cat": "bets",
+   "title": "CarMax separated",
+   "text": "Holders of Circuit City stock receive 0.314 of a CarMax share for each share.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Feb 2003",
+   "year": "",
+   "cat": "stores",
+   "title": "Commissions end",
+   "text": "The sales force moves to hourly pay only. The Richmond Fed reports 3,900 dismissals in one day.",
+   "src": [
+    3,
+    29
+   ]
+  },
+  {
+   "date": "May 2004",
+   "year": "",
+   "cat": "corporate",
+   "title": "InterTAN bought for $259.3 million",
+   "text": "The Canadian chain is later renamed The Source by Circuit City. The store credit card business is sold to Bank One the same month.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Jun 2006",
+   "year": "",
+   "cat": "corporate",
+   "title": "Buyback authorisation reaches $1.2 billion",
+   "text": "The fourth increase since January 2003.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Feb 8",
+   "year": "2007",
+   "cat": "stores",
+   "title": "Seven superstores to close",
+   "text": "Part of a restructuring that also brings a $92 million write-down of the Canadian business.",
+   "src": [
+    11,
+    10
+   ]
+  },
+  {
+   "date": "Mar 28",
+   "year": "2007",
+   "cat": "stores",
+   "title": "3,400 store employees dismissed",
+   "text": "The “wage management initiative.” IT infrastructure is outsourced to IBM the same day.",
+   "src": [
+    10,
+    30
+   ]
+  },
+  {
+   "date": "Feb 29",
+   "year": "2008",
+   "cat": "stores",
+   "title": "682 superstores, the most ever",
+   "text": "The fiscal year ends with a net loss of $319.9 million.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Apr 14",
+   "year": "2008",
+   "cat": "rivals",
+   "title": "Blockbuster offers at least $6 a share",
+   "text": "It says it first made the offer in a letter on February 17.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Jul 1",
+   "year": "2008",
+   "cat": "rivals",
+   "title": "Blockbuster withdraws",
+   "text": "After due diligence, it says a deal is not in its shareholders’ interest.",
+   "src": [
+    35
+   ]
+  },
+  {
+   "date": "Sep 22",
+   "year": "2008",
+   "cat": "corporate",
+   "title": "Schoonover out",
+   "text": "James Marcum, a director nominated by activist investor Mark Wattles, becomes acting CEO.",
+   "src": [
+    16,
+    19,
+    17
+   ]
+  },
+  {
+   "date": "Nov 3",
+   "year": "2008",
+   "cat": "death",
+   "title": "155 stores to close",
+   "text": "The company says vendors are restricting credit and some want payment before shipment.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Nov 10",
+   "year": "2008",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "Filed in Richmond with a commitment for $1.1 billion of debtor-in-possession financing.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Jan 16",
+   "year": "2009",
+   "cat": "death",
+   "title": "“Circuit City Stores, Inc. To Liquidate”",
+   "text": "No going-concern deal is reached. The court approves closing 567 stores and distribution centers.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "Mar 8",
+   "year": "2009",
+   "cat": "death",
+   "title": "Going-out-of-business sales end",
+   "text": "The liquidators finish at the last stores.",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "May 19",
+   "year": "2009",
+   "cat": "death",
+   "title": "Systemax buys the name",
+   "text": "$14.0 million in cash plus a revenue share guaranteed at $3.0 million or more.",
+   "src": [
+    21
+   ]
+  },
+  {
+   "date": "Nov 1",
+   "year": "2010",
+   "cat": "death",
+   "title": "Liquidating trust takes over",
+   "text": "The plan becomes effective and the remaining directors resign.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "Oct 31",
+   "year": "2012",
+   "cat": "death",
+   "title": "Systemax retires the brand",
+   "text": "U.S. consumer operations are consolidated under TigerDirect.",
+   "src": [
+    22,
+    23
+   ]
+  },
+  {
+   "date": "Nov 2015",
+   "year": "",
+   "cat": "death",
+   "title": "Name sold again, for $2.0 million",
+   "text": "The buyer is not named in Systemax’s annual report.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Jan 2018",
+   "year": "",
+   "cat": "death",
+   "title": "A relaunch is announced at CES",
+   "text": "Chief executive Ronny Shmoel promises a new website on February 15 and, later, kiosks and showrooms.",
+   "src": [
+    36
+   ]
+  }
+ ]
+}

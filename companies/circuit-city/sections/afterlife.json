@@ -1,0 +1,137 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Resold",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "Bought by Systemax for **$14.0M** in 2009, retired in 2012, sold for **$2.0M** in 2015 and relaunched as a website in 2018.[^21][^22][^23][^36] An online shop was still trading under the logo in October 2026.[^37]"
+  },
+  {
+   "status": "Thriving",
+   "color": "var(--green)",
+   "title": "CarMax",
+   "text": "The used-car chain separated in 2002 had 256 stores and **$25.88B** in sales in fiscal 2026, about twice Circuit City’s best year.[^12][^26][^1]"
+  },
+  {
+   "status": "Sold",
+   "color": "var(--blue)",
+   "title": "The Canadian stores",
+   "text": "The Source by Circuit City was sold to Bell Canada. The sale closed on July 1, 2009 and the U.S. estate received $15M for trademarks and a sourcing subsidiary.[^17]"
+  },
+  {
+   "status": "Buried",
+   "color": "var(--red)",
+   "title": "The company",
+   "text": "The estate moved into a liquidating trust on November 1, 2010 and the last directors resigned.[^18] Shareholders were told to expect nothing; general unsecured creditors, an estimated 0% to 13.5%.[^15][^17]"
+  },
+  {
+   "status": "Dispersed",
+   "color": "var(--mute)",
+   "title": "The employees",
+   "text": "About 39,600 at the filing. On January 16, 2009 the board approved a plan to end the employment of all of them.[^17][^15]"
+  },
+  {
+   "status": "Winner",
+   "color": "var(--green)",
+   "title": "Best Buy",
+   "text": "The rival reported $41.7B in revenue for fiscal 2026.[^25]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the Circuit City name",
+   "subtitle": "Three owners in the seventeen years since the stores closed.",
+   "nodes": [
+    {
+     "when": "1984",
+     "owner": "Circuit City Stores, Inc.",
+     "what": "Wards Company takes the name of its superstore format.[^10]"
+    },
+    {
+     "when": "Nov 2008",
+     "owner": "Chapter 11",
+     "what": "Filed in Richmond. Liquidation follows in January 2009.[^14][^15]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "May 2009",
+     "owner": "Systemax (TigerDirect)",
+     "what": "Wins the auction for the trademarks, domain and customer list, and runs circuitcity.com as a web store.[^21][^17]",
+     "price": "$14.0M + revenue share"
+    },
+    {
+     "when": "Oct 2012",
+     "owner": "Brand retired",
+     "what": "Systemax consolidates under TigerDirect and writes down the CompUSA and Circuit City intangibles.[^22]"
+    },
+    {
+     "when": "Nov 2015",
+     "owner": "New owner (Ronny Shmoel, CEO)",
+     "what": "Buys the name and trademarks. Announces a relaunch at CES in January 2018.[^23][^36]",
+     "price": "$2.0M"
+    },
+    {
+     "when": "Today",
+     "owner": "Circuit City Corporation, Inc.",
+     "what": "The name in the footer of circuitcity.com, an online electronics shop.[^37]",
+     "status": "current"
+    }
+   ]
+  },
+  {
+   "kind": "bars",
+   "title": "What the pieces fetched",
+   "subtitle": "Sale prices for parts of the estate in 2009, with the 2015 resale of the name for comparison. $ millions.",
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 2
+   },
+   "itemLabel": "Asset",
+   "valueLabel": "Price",
+   "items": [
+    {
+     "label": "Canadian trademarks and sourcing arm (to Bell Canada)",
+     "value": 15,
+     "note": "The U.S. estate’s share of the sale.[^17]"
+    },
+    {
+     "label": "Name, website and customer list (to Systemax)",
+     "value": 14,
+     "self": true,
+     "note": "Plus a revenue share guaranteed at $3M.[^17]"
+    },
+    {
+     "label": "San Jose, California property",
+     "value": 11.15
+    },
+    {
+     "label": "Baltimore property",
+     "value": 4.65
+    },
+    {
+     "label": "Moreno Valley, California property",
+     "value": 2.25
+    },
+    {
+     "label": "The Circuit City name, resold in 2015",
+     "value": 2.0,
+     "color": "brand",
+     "note": "Systemax’s price six years later.[^23]"
+    },
+    {
+     "label": "firedog services brand",
+     "value": 0.25
+    },
+    {
+     "label": "800.com domain",
+     "value": 0.25
+    }
+   ],
+   "source": "Disclosure statement of August 24, 2009[^17]; some of the property and small IP sales were awaiting court approval on that date. 2015 resale from Systemax’s 10-K[^23]."
+  }
+ ]
+}

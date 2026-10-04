@@ -1,0 +1,209 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Primary sources first. SEC filings link to the original text on EDGAR (Circuit City Stores, Inc. is CIK 104599).",
+ "list": [
+  {
+   "id": 1,
+   "text": "Circuit City Stores, Inc. — [Form 10-K, fiscal 2008](https://www.sec.gov/Archives/edgar/data/104599/000119312508093063/d10k.htm) (year ended Feb 29, 2008), filed Apr 28, 2008."
+  },
+  {
+   "id": 2,
+   "text": "Circuit City Stores, Inc. — [Form 10-K, fiscal 2004](https://www.sec.gov/Archives/edgar/data/104599/000010459904000045/0000104599-04-000045.txt), filed May 10, 2004."
+  },
+  {
+   "id": 3,
+   "text": "Circuit City Stores, Inc. — [Form 10-K, fiscal 2003](https://www.sec.gov/Archives/edgar/data/104599/000010459903000035/0000104599-03-000035.txt), filed May 27, 2003."
+  },
+  {
+   "id": 4,
+   "text": "Circuit City Stores, Inc. — [Annual report to stockholders, fiscal 2002](https://www.sec.gov/Archives/edgar/data/104599/000104324602000011/annualrpt02.txt) (Exhibit 13 to the Form 10-K filed May 28, 2002)."
+  },
+  {
+   "id": 5,
+   "text": "Circuit City Stores, Inc. — [Form 10-K, fiscal 2001](https://www.sec.gov/Archives/edgar/data/104599/000010459901500002/0000104599-01-500002.txt), filed May 23, 2001."
+  },
+  {
+   "id": 6,
+   "text": "Circuit City Stores, Inc. — [Form 10-K, fiscal 2000](https://www.sec.gov/Archives/edgar/data/104599/0000928597-00-000018.txt), filed May 2000."
+  },
+  {
+   "id": 7,
+   "text": "Circuit City Stores, Inc. — [Form 10-K, fiscal 1998](https://www.sec.gov/Archives/edgar/data/104599/0000928597-98-000013.txt), filed May 1998."
+  },
+  {
+   "id": 8,
+   "text": "Circuit City Stores, Inc. — [Form 10-K, fiscal 1994](https://www.sec.gov/Archives/edgar/data/104599/0000104599-94-000005.txt), filed 1994."
+  },
+  {
+   "id": 9,
+   "text": "Circuit City Stores, Inc. — [Form 10-K, fiscal 2005](https://www.sec.gov/Archives/edgar/data/104599/000119312505106246/0001193125-05-106246.txt), filed May 13, 2005."
+  },
+  {
+   "id": 10,
+   "text": "Circuit City Stores, Inc. — [Form 8-K and press release, “Additional Changes to Improve Financial Performance”](https://www.sec.gov/Archives/edgar/data/104599/000010459907000020/0000104599-07-000020.txt), Mar 28, 2007."
+  },
+  {
+   "id": 11,
+   "text": "Circuit City Stores, Inc. — [Form 8-K and press release](https://www.sec.gov/Archives/edgar/data/104599/000119312507025715/0001193125-07-025715.txt), Feb 8, 2007."
+  },
+  {
+   "id": 12,
+   "text": "Circuit City Stores, Inc. — [Press release, “Completes Separation of CarMax”](https://www.sec.gov/Archives/edgar/data/104599/000091664102001570/dex991.htm) (Exhibit 99.1 to Form 8-K), Oct 1, 2002."
+  },
+  {
+   "id": 13,
+   "text": "Circuit City Stores, Inc. — [Form 8-K and press release on liquidity and 155 store closings](https://www.sec.gov/Archives/edgar/data/104599/000010459908000083/0000104599-08-000083.txt), Nov 3, 2008."
+  },
+  {
+   "id": 14,
+   "text": "Circuit City Stores, Inc. — [Form 8-K and press release, “to Reorganize Under Chapter 11”](https://www.sec.gov/Archives/edgar/data/104599/000010459908000085/0000104599-08-000085.txt), Nov 10, 2008."
+  },
+  {
+   "id": 15,
+   "text": "Circuit City Stores, Inc. — [Form 8-K with press release “Circuit City Stores, Inc. To Liquidate” and the liquidation agency agreement](https://www.sec.gov/Archives/edgar/data/104599/000010459909000004/0000104599-09-000004.txt), Jan 16–23, 2009."
+  },
+  {
+   "id": 16,
+   "text": "Circuit City Stores, Inc. — [Form 10-Q, quarter ended Aug 31, 2008](https://www.sec.gov/Archives/edgar/data/104599/000010459908000076/0000104599-08-000076.txt), filed Sep 30, 2008."
+  },
+  {
+   "id": 17,
+   "text": "Circuit City Stores, Inc. — [Disclosure statement for the joint plan of liquidation](https://www.sec.gov/Archives/edgar/data/104599/000119312509183806/dex991.htm) (Exhibit 99.1 to Form 8-K), Aug 24, 2009. U.S. Bankruptcy Court, E.D. Va., case 08-35653."
+  },
+  {
+   "id": 18,
+   "text": "Circuit City Stores, Inc. — [Form 8-K, plan effective date and liquidating trust](https://www.sec.gov/Archives/edgar/data/104599/000010459910000037/0000104599-10-000037.txt), Nov 5, 2010."
+  },
+  {
+   "id": 19,
+   "text": "Circuit City Stores, Inc. — [Form 8-K, settlement with Wattles Capital Management and confidentiality agreement with Blockbuster](https://www.sec.gov/Archives/edgar/data/104599/000089882208000568/0000898822-08-000568.txt), May 9, 2008."
+  },
+  {
+   "id": 20,
+   "text": "Blockbuster Inc. — [Form 8-K and press release, “Blockbuster Proposes Combination with Circuit City”](https://www.sec.gov/Archives/edgar/data/1085734/000119312508080365/0001193125-08-080365.txt), Apr 14, 2008."
+  },
+  {
+   "id": 21,
+   "text": "Systemax Inc. — [Form 8-K, purchase of Circuit City intellectual property](https://www.sec.gov/Archives/edgar/data/945114/000092242309000390/0000922423-09-000390.txt), May 20, 2009."
+  },
+  {
+   "id": 22,
+   "text": "Systemax Inc. — [Form 8-K and press release, consolidation under TigerDirect](https://www.sec.gov/Archives/edgar/data/945114/000092242312000236/0000922423-12-000236.txt), Nov 1, 2012."
+  },
+  {
+   "id": 23,
+   "text": "Systemax Inc. — [Form 10-K, fiscal 2015](https://www.sec.gov/Archives/edgar/data/945114/000114036116058278/form10k.htm), filed Mar 17, 2016; and [Form 10-K, fiscal 2008](https://www.sec.gov/Archives/edgar/data/945114/000110465909018624/a09-1779_110k.htm) for the CompUSA purchase."
+  },
+  {
+   "id": 24,
+   "text": "Best Buy Co., Inc. — Forms 10-K for [fiscal 2001](https://www.sec.gov/Archives/edgar/data/764478/000091205701518254/0000912057-01-518254.txt) (10-year highlights), [fiscal 2006](https://www.sec.gov/Archives/edgar/data/764478/000110465906033306/a06-10808_110k.htm) and [fiscal 2009](https://www.sec.gov/Archives/edgar/data/764478/000104746909004730/a2192410z10-k.htm) (five-year highlights)."
+  },
+  {
+   "id": 25,
+   "text": "Best Buy Co., Inc. — [Form 10-K, fiscal 2026](https://www.sec.gov/Archives/edgar/data/764478/000076447826000009/bby-20260131.htm), filed Mar 18, 2026."
+  },
+  {
+   "id": 26,
+   "text": "CarMax, Inc. — [Form 10-K, fiscal 2026](https://www.sec.gov/Archives/edgar/data/1170010/000117001026000021/kmx-20260228.htm), filed Apr 15, 2026."
+  },
+  {
+   "id": 27,
+   "text": "RadioShack Corporation — [Form 8-K, Chapter 11 filing](https://www.sec.gov/Archives/edgar/data/96289/000119312515044358/d870535d8k.htm), Feb 11, 2015."
+  },
+  {
+   "id": 28,
+   "text": "hhgregg, Inc. — Forms 8-K of [Mar 7, 2017](https://www.sec.gov/Archives/edgar/data/1396279/000139627917000023/a8-kshell3617.htm) (Chapter 11 petition) and [Apr 12, 2017](https://www.sec.gov/Archives/edgar/data/1396279/000139627917000033/a8-kshell4717.htm) (liquidation approved)."
+  },
+  {
+   "id": 29,
+   "text": "Jessie Romero, [“The Rise and Fall of Circuit City”](https://www.richmondfed.org/publications/research/econ_focus/2013/q3/~/media/4EDF64C581574974B9AAE6B3D7C88A9A.ashx), Econ Focus, Federal Reserve Bank of Richmond, third quarter 2013."
+  },
+  {
+   "id": 30,
+   "text": "[“Circuit City plans to replace 3,400 with low-cost hires”](https://www.inquirer.com/philly/business/20070329_Circuit_City_plans_to_replace_3400_with_low-cost_hires.html), The Philadelphia Inquirer (wire report), Mar 29, 2007."
+  },
+  {
+   "id": 31,
+   "text": "Jeremy Hobson, [“Alan Wurtzel on why Circuit City went bust”](https://www.marketplace.org/story/2012/10/23/alan-wurtzel-why-circuit-city-went-bust), Marketplace, Oct 23, 2012."
+  },
+  {
+   "id": 32,
+   "text": "Lena Price, [“Former Circuit City chief tells all”](https://richmondbizsense.com/2012/10/18/former-circuit-city-chief-tells-all/), Richmond BizSense, Oct 18, 2012."
+  },
+  {
+   "id": 33,
+   "text": "[“Circuit City Pulls Divx Plug; It Gets Two Years to Fade Out”](https://www.supermarketnews.com/grocery-operations/circuit-city-pulls-divx-plug-it-gets-two-years-to-fade-out), Supermarket News, June 1999."
+  },
+  {
+   "id": 34,
+   "text": "[“Circuit City to Liquidate Remaining Stores”](https://abcnews.go.com/Technology/PCWorld/story?id=6665263), PC World via ABC News, Jan 16, 2009."
+  },
+  {
+   "id": 35,
+   "text": "[“Blockbuster backs out of Circuit City buy”](https://techcrunch.com/2008/07/03/blockbuster-backs-out-of-circuit-city-buy/), TechCrunch, Jul 3, 2008, quoting Blockbuster’s release; and [“Blockbuster Withdraws Offer for Circuit City”](https://abcnews.go.com/Technology/PCWorld/story?id=5289160), PC World via ABC News."
+  },
+  {
+   "id": 36,
+   "text": "Tom Huddleston Jr., [“Circuit City Wants to Make a Comeback Online”](https://fortune.com/2018/01/09/circuit-city-relaunch-website/), Fortune, Jan 9, 2018."
+  },
+  {
+   "id": 37,
+   "text": "[circuitcity.com](https://www.circuitcity.com/), as loaded on Oct 3, 2026: an online electronics shop with product listings, a cart and the footer “© 2025 Circuit City Corporation, Inc.”"
+  },
+  {
+   "id": 38,
+   "text": "Internet Archive Wayback Machine captures of circuitcity.com: [Aug 15, 2000](https://web.archive.org/web/20000815053607/http://www.circuitcity.com/init.jsp), [Nov 1, 2008](https://web.archive.org/web/20081101062505/http://www.circuitcity.com:80/) and [Jan 4, 2010](https://web.archive.org/web/20100104070726/http://www.circuitcity.com/)."
+  },
+  {
+   "id": 39,
+   "text": "Wikimedia Commons photographs: [Ildar Sagdejev, store closing, Feb 26, 2009](https://commons.wikimedia.org/wiki/File:2009-02-26_Circuit_City_store_closing_everything_must_go.jpg) (CC BY-SA 4.0); [hattiesburgmemory](https://commons.wikimedia.org/wiki/File:Circuit_City_%283298923800%29.jpg) (CC BY 2.0); [Mike Kalasnik, Newington, CT](https://commons.wikimedia.org/wiki/File:Circuit_City_Newington,_CT_%286935749475%29.jpg) (CC BY-SA 2.0); [Staus](https://commons.wikimedia.org/wiki/File:Circuitcity1.jpg) (public domain)."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Tier",
+   "text": "we class Circuit City as a ghost, not dead, because a web shop was trading under the name and logo at circuitcity.com when we loaded it on October 3, 2026. We did not place an order, so we cannot say whether it fulfils them, and we found no evidence of physical stores. The identity of the 2015 buyer of the name is from press reports of the 2018 relaunch, not from Systemax’s filing."
+  },
+  {
+   "label": "Derived values",
+   "text": "Divx total loss ($219.3M = 20.6 + 68.5 + 16.2 + 114.0, each after tax); buybacks used ($966.3M = $1.2B authorised less $233.7M unused at March 31, 2008); superstores at fiscal 1996 (378 = 61 + 259 + 46 + 12); the revenue gap with Best Buy; CarMax at about twice Circuit City’s peak sales ($25.88B ÷ $12.43B); about 721 stores at the filing (712 superstores plus 9 outlets)."
+  },
+  {
+   "label": "Not on a common basis",
+   "text": "Circuit City sales before fiscal 2000 are Circuit City Group figures, later years are continuing operations as restated in later 10-Ks, and fiscal 2004 onward include Canada. The fiscal 1996 comparison with Best Buy uses each company’s own fiscal year."
+  },
+  {
+   "label": "Secondary figures",
+   "text": "the 3,900 dismissals of 2003, the 69 stores of 1986, the early history before 1994, the roughly $20 average buyback price and Alan Wurtzel’s remarks are from the Richmond Fed article, Marketplace and Richmond BizSense, not from filings. The 8% share of the workforce, the ten-week reapplication rule and Schoonover’s pay are from the wire report in the Inquirer. Blockbuster’s withdrawal is from press quoting its release."
+  },
+  {
+   "label": "Reported, not confirmed",
+   "text": "press at the time put the jobs lost in the liquidation at about 34,000.[^34] The company’s own release says “more than 30,000,” and its disclosure statement gives about 39,600 employees at the November filing. We use the company’s figures."
+  },
+  {
+   "label": "Estimate",
+   "text": "creditor recoveries (0% to 13.5% for general unsecured claims) are the plan proponents’ estimates in the August 2009 disclosure statement. We did not trace the trust’s final distributions."
+  },
+  {
+   "label": "Unknown",
+   "text": "the price of the 2018 relaunch, the sales of the current website and who owns Circuit City Corporation, Inc. today are not in any source we found."
+  },
+  {
+   "label": "Videos",
+   "text": "the 1990, 1993 and 1999 dates of the commercials are the uploaders’. Upload dates of the 2009 clips were read from the YouTube pages."
+  },
+  {
+   "label": "Archive",
+   "text": "the November 2008 capture is missing its Flash banner. Captures were cropped to the page content. Photo dates marked undated are not given on Wikimedia Commons in a form we could verify."
+  },
+  {
+   "label": "General knowledge",
+   "text": "the slogan “Where service is state of the art”; Blockbuster’s own Chapter 11 filing in 2010; TigerDirect as Systemax’s consumer brand; the later resale of the RadioShack name."
+  },
+  {
+   "label": "How the filings were read",
+   "text": "filings from 1994 to 2000 were read from Internet Archive copies of the EDGAR text and the links were then checked against sec.gov."
+  }
+ ]
+}

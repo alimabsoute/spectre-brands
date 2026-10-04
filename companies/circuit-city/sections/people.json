@@ -1,0 +1,48 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it",
+ "lede": "Roles and dates are from the filings and the Richmond Fed’s history. Where a date is missing, we did not find a source for it.",
+ "people": [
+  {
+   "name": "Samuel S. Wurtzel",
+   "role": "Founder, 1949",
+   "text": "Opened Wards in Richmond after hearing in a barbershop that the South’s first television station had just started there. Took the company public in 1961.[^29]"
+  },
+  {
+   "name": "Alan L. Wurtzel",
+   "role": "CEO, 1972 – 1986; director until 2001",
+   "text": "Rescued the company from near-bankruptcy in 1975 and built the superstore format.[^29]",
+   "later": "Published “Good to Great to Gone: The 60 Year Rise and Fall of Circuit City” in 2012.[^31]"
+  },
+  {
+   "name": "Richard L. Sharp",
+   "role": "CEO, 1986 – 2000",
+   "text": "Took the chain from 69 stores to 616 and backed both CarMax and Divx. He was chief executive of both Circuit City and Divx when the venture closed.[^29][^33]"
+  },
+  {
+   "name": "W. Alan McCollough",
+   "role": "CEO from 2000",
+   "text": "Left appliances, ended commissions and completed the CarMax separation as chairman, president and chief executive.[^29][^12]"
+  },
+  {
+   "name": "Philip J. Schoonover",
+   "role": "Chairman, president and CEO until Sep 22, 2008",
+   "text": "Announced the wage management initiative in 2007. Press reports put his fiscal 2006 pay at $8.52 million.[^10][^30][^16]"
+  },
+  {
+   "name": "James A. Marcum",
+   "role": "Vice chairman and acting CEO, 2008 – 2009",
+   "text": "Joined the board in the settlement with Wattles Capital Management and signed the liquidation announcement.[^19][^15]"
+  },
+  {
+   "name": "Mark J. Wattles",
+   "role": "Activist shareholder",
+   "text": "The Hollywood Video founder ran a proxy contest in 2008 and settled for three board seats.[^19]"
+  },
+  {
+   "name": "Ronny Shmoel",
+   "role": "CEO of the relaunched brand",
+   "text": "Announced the 2018 return of circuitcity.com at the Consumer Electronics Show.[^36]"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "name": "Circuit City",
+ "number": "004",
+ "tier": "ghost",
+ "tierWhy": "Circuit City Stores, Inc. liquidated its last 567 U.S. stores in early 2009 and its estate passed to a liquidating trust in 2010, but the name has been sold twice since and an online shop still trades as Circuit City at circuitcity.com.[^15][^18][^23][^37]",
+ "category": "electronics",
+ "cause": "management",
+ "years": "1949 – 2009",
+ "died": 2009,
+ "dates": [
+  {
+   "date": "2008-11-10",
+   "text": "filed for Chapter 11 in Richmond, Virginia"
+  },
+  {
+   "date": "2009-01-16",
+   "text": "said it would liquidate its remaining 567 U.S. stores"
+  },
+  {
+   "date": "2007-03-28",
+   "text": "dismissed about 3,400 store employees it said were paid above the market range"
+  },
+  {
+   "date": "2009-03-08",
+   "text": "finished its going-out-of-business sales"
+  }
+ ],
+ "place": "Consumer electronics superstores · Richmond, Virginia",
+ "title": "Circuit City (1949–2009): post-mortem · Spectre Brands",
+ "description": "How the chain that invented the electronics superstore lost to Best Buy, fired its best-paid salespeople and liquidated 567 stores: a sourced post-mortem of Circuit City with charts, commercials and archived pages.",
+ "theme": {
+  "accent": "#b5121b",
+  "soft": "#fdeeee"
+ },
+ "card": {
+  "blurb": "It invented the electronics superstore and spun off CarMax. Then it dropped appliances, fired its best-paid salespeople and met the 2008 credit crisis with no cushion.",
+  "stat": {
+   "value": "567",
+   "label": "stores liquidated in early 2009"
+  },
+  "spark": [
+   125,
+   251,
+   443,
+   571,
+   611,
+   642,
+   682,
+   567,
+   0
+  ],
+  "peak": 6,
+  "logo": "img/logo-2008.avif",
+  "logoYear": "2008"
+ },
+ "hero": {
+  "dates": "Founded in Richmond in 1949. Filed for Chapter 11 on Nov 10, 2008. Last stores closed by Mar 8, 2009.",
+  "standfirst": "It sold itself on expert salespeople. In March 2007 it dismissed about 3,400 of them for earning too much.",
+  "deck": "Circuit City built the consumer electronics superstore, grew to more than 600 of them and launched CarMax on the side. Best Buy passed it in sales in the mid-1990s and never looked back. A decade of cost cuts, share buybacks and reversals left the company with no cushion when credit froze in 2008. This is the full post-mortem, built from the company’s SEC filings, its bankruptcy disclosure statement, contemporary press and the archived website.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a Circuit City superstore with its red entrance tower. Not an official asset.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/archive-2000-08-home.avif",
+    "caption": "circuitcity.com, Aug 2000",
+    "alt": "Circuit City home page in August 2000"
+   },
+   {
+    "image": "img/store-newington.avif",
+    "caption": "The red tower entrance, Newington, CT",
+    "alt": "Circuit City superstore with a red tower entrance"
+   },
+   {
+    "image": "img/store-2009-02-closing.avif",
+    "caption": "Store closing sale, Feb 2009",
+    "alt": "Store closing sale signs hanging inside a Circuit City store"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "$12.43B",
+    "text": "peak net sales, fiscal year ended Feb 28, 2007[^1]"
+   },
+   {
+    "value": "3,400",
+    "text": "store employees dismissed on Mar 28, 2007 for being paid “well above” the market range[^10]"
+   },
+   {
+    "value": "567",
+    "text": "U.S. stores put into liquidation on Jan 16, 2009[^15]"
+   },
+   {
+    "value": "$2.0M",
+    "text": "what the Circuit City name and trademarks sold for in November 2015[^23]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "Best Buy was bigger by fiscal 1996.",
+   "text": "Best Buy reported $7.2B in revenue for fiscal 1996 against $6.75B for the Circuit City stores. By fiscal 2008 the gap was $40.0B to $11.7B.[^24][^7][^1]"
+  },
+  {
+   "title": "It cut the thing it was known for.",
+   "text": "Commissions ended in February 2003. In March 2007 about 3,400 store employees were dismissed because they were paid above the market range, with new hires brought in at lower pay.[^3][^10]"
+  },
+  {
+   "title": "The side bets cut both ways.",
+   "text": "CarMax, started in 1993 and separated in 2002, now sells $25.9B a year. Divx cost $219.3M after tax (derived) in three fiscal years.[^26][^6]"
+  },
+  {
+   "title": "The cash went to shareholders.",
+   "text": "The board authorised up to $1.2B of share repurchases between 2003 and 2006, and all but $233.7M of that had been used by March 2008.[^1]"
+  },
+  {
+   "title": "Vendors ended it.",
+   "text": "In autumn 2008 suppliers cut credit and in some cases demanded payment before shipment. The company filed for Chapter 11 seven days after disclosing it.[^13][^14]"
+  }
+ ],
+ "published": "2026-10-03"
+}

@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a salesperson's name badge lying next to a pink termination slip">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 224 L312 224" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<path d="M150 26 L296 44 L278 206 L132 188 Z" fill="#f6c9cf"/>
+<path d="M166 62 L270 75 M163 84 L268 97 M160 106 L240 116" stroke-width="2"/>
+<text transform="rotate(7 150 140)" x="150" y="146" font-family="Inter, sans-serif" font-weight="700" font-size="11" fill="#7d0c12" stroke="none">PAID WELL ABOVE THE</text>
+<text transform="rotate(7 150 158)" x="148" y="162" font-family="Inter, sans-serif" font-weight="700" font-size="11" fill="#7d0c12" stroke="none">MARKET-BASED RANGE</text>
+<path d="M70 20 Q96 60 84 96" fill="none" stroke="#3d5f86" stroke-width="4"/>
+<path d="M104 20 Q84 60 96 96" fill="none" stroke="#3d5f86" stroke-width="4"/>
+<rect x="28" y="96" width="124" height="88" rx="8" fill="#fffef8"/>
+<rect x="28" y="96" width="124" height="26" rx="8" fill="#b5121b"/>
+<text x="90" y="114" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="11" fill="#fff" stroke="none">SALES COUNSELOR</text>
+<circle cx="56" cy="152" r="14" fill="#e9c9a8"/>
+<path d="M82 144 L138 144 M82 158 L124 158" stroke-width="2"/>
+<text x="90" y="212" text-anchor="middle" font-family="Caveat, cursive" font-size="19" fill="#1f2a44" stroke="none">one of 3,400</text>
+</g></svg>

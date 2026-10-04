@@ -1,0 +1,333 @@
+{
+ "kicker": "The money",
+ "title": "Flat for eight years while the rival tripled",
+ "label": "The numbers",
+ "lede": "Circuit City’s sales in fiscal 2008 were about where they had been in fiscal 2000. Over the same years Best Buy more than tripled. The store count kept rising until the final year.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Superstores open at fiscal year end, 1990 to the end",
+   "subtitle": "Circuit City superstores only. Fiscal years end on the last day of February.",
+   "labels": [
+    "1990",
+    "1992",
+    "1994",
+    "1996",
+    "1998",
+    "2000",
+    "2002",
+    "2003",
+    "2004",
+    "2006",
+    "2007",
+    "2008",
+    "Dec 2008",
+    "Mar 2009"
+   ],
+   "format": "num",
+   "xLabel": "Fiscal year end",
+   "series": [
+    {
+     "label": "Superstores",
+     "data": [
+      125,
+      183,
+      251,
+      378,
+      500,
+      571,
+      604,
+      611,
+      599,
+      626,
+      642,
+      682,
+      567,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 2,
+     "title": "CarMax starts",
+     "text": "The first CarMax opened in Richmond in 1993, while the electronics chain was adding about 35 superstores a year.[^8][^6]"
+    },
+    {
+     "i": 5,
+     "title": "Peak profit, and the appliance exit",
+     "text": "Fiscal 2000 earnings from continuing operations were $271M. That July the company quit major appliances.[^2][^5]"
+    },
+    {
+     "i": 7,
+     "title": "Commissions end",
+     "text": "The sales force went to hourly pay in February 2003. The store count dipped the next year.[^3][^1]"
+    },
+    {
+     "i": 10,
+     "title": "3,400 dismissed",
+     "text": "The wage management initiative of March 28, 2007, a month after fiscal 2007 closed.[^10]"
+    },
+    {
+     "i": 11,
+     "title": "Most stores ever",
+     "text": "682 superstores at February 29, 2008, after 43 openings in a year that lost $319.9M.[^1]"
+    },
+    {
+     "i": 12,
+     "title": "155 closed, 567 left",
+     "text": "The stores remaining at December 31, 2008, all liquidated by March 8, 2009.[^15][^17]"
+    }
+   ],
+   "source": "Store-mix tables in the 10-Ks for fiscal 1994, 1998, 2000, 2002, 2003 and 2008[^8][^7][^6][^4][^3][^1]. Fiscal 1996 (378) is the derived sum of the four superstore formats in the fiscal 1998 table. December 2008 is the domestic store count in the liquidation release[^15]. Mall-based Express stores are excluded."
+  },
+  {
+   "kind": "chart",
+   "id": "salesChart",
+   "title": "Circuit City vs. Best Buy: annual sales",
+   "subtitle": "$ billions by fiscal year. Both companies’ fiscal years end around the last day of February.",
+   "chart": {
+    "type": "line",
+    "labels": [
+     "FY96",
+     "FY97",
+     "FY98",
+     "FY99",
+     "FY00",
+     "FY01",
+     "FY02",
+     "FY03",
+     "FY04",
+     "FY05",
+     "FY06",
+     "FY07",
+     "FY08"
+    ],
+    "y": {
+     "format": {
+      "pre": "$",
+      "suf": "B",
+      "dec": 1
+     },
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Best Buy revenue",
+      "data": [
+       7.215,
+       7.758,
+       8.338,
+       10.065,
+       12.494,
+       15.327,
+       17.711,
+       20.943,
+       24.548,
+       27.433,
+       30.848,
+       35.934,
+       40.023
+      ],
+      "color": "blue"
+     },
+     {
+      "label": "Circuit City net sales",
+      "data": [
+       6.753,
+       7.154,
+       7.997,
+       9.344,
+       10.503,
+       10.33,
+       9.518,
+       9.954,
+       9.857,
+       10.414,
+       11.514,
+       12.43,
+       11.744
+      ],
+      "color": "brand"
+     }
+    ]
+   },
+   "source": "Circuit City: FY96–FY99 are Circuit City Group sales, which exclude CarMax[^7][^6]; FY00–FY03 are continuing operations as restated in the fiscal 2004 10-K[^2]; FY04–FY08 are consolidated net sales, which include the Canadian segment from May 2004[^1]. Best Buy: revenue as shown in the highlights tables of its fiscal 2001, 2006 and 2009 10-Ks[^24]. The series are not restated to a common basis."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "chart",
+     "id": "earnChart",
+     "title": "Net earnings from continuing operations",
+     "subtitle": "$ millions by fiscal year.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "FY00",
+       "FY01",
+       "FY02",
+       "FY03",
+       "FY04",
+       "FY05",
+       "FY06",
+       "FY07",
+       "FY08"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Net earnings (loss) from continuing operations",
+        "data": [
+         271,
+         83,
+         68,
+         -5,
+         -1,
+         61,
+         147,
+         -10,
+         -321
+        ],
+        "colors": [
+         "green",
+         "green",
+         "green",
+         "red",
+         "red",
+         "green",
+         "green",
+         "red",
+         "red"
+        ]
+       }
+      ]
+     },
+     "source": "Selected financial data in the fiscal 2004 10-K (FY00–FY03)[^2] and the fiscal 2008 10-K (FY04–FY08)[^1]."
+    },
+    {
+     "kind": "waffle",
+     "title": "What the stores sold in fiscal 2000",
+     "subtitle": "Share of Circuit City sales by category, the year before the appliance exit.",
+     "items": [
+      {
+       "label": "Information technology",
+       "value": 33,
+       "color": "blue"
+      },
+      {
+       "label": "Video",
+       "value": 32,
+       "color": "ink"
+      },
+      {
+       "label": "Audio",
+       "value": 16,
+       "color": "teal"
+      },
+      {
+       "label": "Appliances",
+       "value": 14,
+       "color": "brand",
+       "note": "Dropped after July 25, 2000."
+      },
+      {
+       "label": "Entertainment",
+       "value": 5,
+       "color": "gold"
+      }
+     ],
+     "source": "Sales by merchandise category, fiscal 2001 10-K[^5]."
+    }
+   ]
+  },
+  {
+   "kind": "flow",
+   "title": "Where the Divx money went",
+   "subtitle": "After-tax losses booked on Digital Video Express, by fiscal year.",
+   "from": {
+    "label": "total after-tax loss on Divx, fiscal 1998 to 2000 (derived sum)",
+    "value": 219.3
+   },
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "to": [
+    {
+     "label": "Operating loss, fiscal 1998",
+     "value": 20.6,
+     "color": "gold",
+     "note": "Development, before the product reached stores.[^6]"
+    },
+    {
+     "label": "Operating loss, fiscal 1999",
+     "value": 68.5,
+     "color": "red",
+     "note": "The launch year.[^6]"
+    },
+    {
+     "label": "Operating loss, fiscal 2000",
+     "value": 16.2,
+     "color": "gold",
+     "note": "March 1999 to the shutdown on June 16, 1999.[^6]"
+    },
+    {
+     "label": "Loss on disposal",
+     "value": 114.0,
+     "color": "ink",
+     "note": "Studio commitments, write-downs, leases, severance and the two-year phase-out.[^6]"
+    }
+   ],
+   "source": "Fiscal 2000 10-K[^6]. Each figure is after an income tax benefit. The total is derived: 20.6 + 68.5 + 16.2 + 114.0 = 219.3."
+  },
+  {
+   "kind": "counters",
+   "title": "The last twelve months",
+   "items": [
+    {
+     "value": "$319.9M",
+     "text": "net loss for the fiscal year ended February 29, 2008[^1]"
+    },
+    {
+     "value": "$404.0M",
+     "text": "net loss from continuing operations in the following six months, to August 31, 2008[^16]"
+    },
+    {
+     "value": "$650M",
+     "text": "or more of unsecured trade debt owed to suppliers at the filing, the company’s estimate[^17]"
+    },
+    {
+     "value": "39,600",
+     "text": "employees on November 10, 2008. The liquidation release two months later says “more than 30,000”[^17][^15]"
+    }
+   ]
+  },
+  {
+   "kind": "scale",
+   "title": "567 stores, all at once",
+   "icon": "store",
+   "count": 189,
+   "per": "3 stores",
+   "left": {
+    "value": "567",
+    "label": "U.S. stores and distribution centers put into liquidation on January 16, 2009[^15]"
+   },
+   "unit": {
+    "value": "3",
+    "label": "stores per icon"
+   },
+   "equation": "567 ÷ 3 = 189 icons. The 567 follows the 155 stores closed in November and December 2008; the company had about 721 stores when it filed.[^17]"
+  },
+  {
+   "kind": "note",
+   "body": "Not shown: a share price series. The 10-K gives quarterly ranges only. The stock traded between $23.00 and $31.54 in the first quarter of fiscal 2007 and as low as $5.35 in the third quarter of fiscal 2008.[^1] Blockbuster’s offer in April 2008 was “at least $6.00” a share.[^20] The liquidation release said the company did not expect any value to remain for common shareholders.[^15]"
+  }
+ ]
+}

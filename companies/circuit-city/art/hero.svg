@@ -1,0 +1,21 @@
+<svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a Circuit City superstore with a red entrance tower, a glowing television in the window and a parking lot">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 232 L352 232" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<rect x="24" y="112" width="312" height="120" fill="#e9e4da"/>
+<path d="M24 112 L336 112" stroke-width="5"/>
+<path d="M132 232 L132 60 Q180 22 228 60 L228 232 Z" fill="#b5121b"/>
+<path d="M146 232 L146 76 Q180 50 214 76 L214 232" fill="none" stroke="#7d0c12" stroke-width="2"/>
+<rect x="160" y="168" width="40" height="64" fill="#cfe3ee"/>
+<path d="M180 168 L180 232"/>
+<circle cx="180" cy="108" r="26" fill="#fff"/>
+<text x="180" y="104" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="10" fill="#b5121b" stroke="none">CIRCUIT</text>
+<text x="180" y="119" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="13" fill="#b5121b" stroke="none">CITY</text>
+<rect x="44" y="150" width="68" height="52" fill="#fffef8"/>
+<rect class="screen" x="54" y="158" width="48" height="30" rx="3" fill="#3d5f86"/>
+<path d="M68 196 L88 196" />
+<rect x="248" y="150" width="68" height="52" fill="#fffef8"/>
+<rect x="258" y="162" width="22" height="30" fill="#d9b98a"/><rect x="286" y="170" width="20" height="22" fill="#d9b98a"/>
+<path d="M36 136 L120 136 M240 136 L324 136" stroke="#b5121b" stroke-width="5"/>
+<path d="M40 248 L90 248 M130 248 L180 248 M220 248 L270 248 M300 248 L340 248" stroke="#b8ad97" stroke-width="2"/>
+<text x="180" y="20" font-family="Caveat, cursive" font-size="19" fill="#1f2a44" stroke="none" text-anchor="middle">showroom in front, warehouse behind</text>
+</g></svg>

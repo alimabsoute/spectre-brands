@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of yellow and red store closing sale signs hanging from a ceiling over an empty television shelf">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 14 L312 14" stroke-width="4"/>
+<path d="M70 14 L70 34 M150 14 L150 34 M206 14 L206 52 M270 14 L270 52" stroke-width="2"/>
+<path d="M36 34 L184 34 L176 118 L44 118 Z" fill="#f6d21f"/>
+<text x="110" y="64" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="20" fill="#b5121b" stroke="none">STORE</text>
+<text x="110" y="86" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="20" fill="#b5121b" stroke="none">CLOSING</text>
+<text x="110" y="108" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="20" fill="#1d1b18" stroke="none">SALE!</text>
+<rect x="196" y="52" width="96" height="62" fill="#b5121b"/>
+<text x="244" y="78" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="13" fill="#fff" stroke="none">EVERYTHING</text>
+<text x="244" y="98" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="13" fill="#f6d21f" stroke="none">MUST GO</text>
+<path d="M24 206 L296 206 M24 162 L296 162" stroke-width="4"/>
+<path d="M36 162 L36 224 M284 162 L284 224"/>
+<rect class="screen" x="56" y="172" width="46" height="30" rx="3" fill="#3d5f86"/>
+<rect x="124" y="172" width="46" height="30" rx="3" fill="none" stroke-dasharray="5 6" stroke-width="2"/>
+<rect x="192" y="172" width="46" height="30" rx="3" fill="none" stroke-dasharray="5 6" stroke-width="2"/>
+<text x="250" y="150" text-anchor="middle" font-family="Caveat, cursive" font-size="19" fill="#1f2a44" stroke="none">all sales final</text>
+</g></svg>
