@@ -1,0 +1,111 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Wood grain, a red cartridge label and three lines",
+ "label": "Brand gallery",
+ "lede": "The products are in museums and the logo is still in use. Here are photographs of the hardware, the mark as two later owners used it, and our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/vcs-2600.avif",
+   "date": "1977",
+   "caption": "The Video Computer System in its four-switch form, with the joystick.",
+   "alt": "Atari 2600 console and joystick",
+   "credit": "Photo: Evan-Amos, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atari-2600-Wood-4Sw-Set.jpg), public domain."
+  },
+  {
+   "image": "img/pong-cabinet.avif",
+   "date": "1972",
+   "caption": "A Pong arcade cabinet.",
+   "alt": "Pong arcade cabinet",
+   "credit": "Photo: Rob Boudon, derivative work by Ubcule, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atari_Pong_arcade_game_cabinet.jpg), CC BY 2.0."
+  },
+  {
+   "image": "img/jaguar-1993.avif",
+   "date": "1993",
+   "caption": "The Jaguar, Atari Corporation’s last console.",
+   "alt": "Atari Jaguar console with controller",
+   "credit": "Photo: Evan-Amos, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atari-Jaguar-Console-Set.jpg), CC BY-SA 3.0."
+  },
+  {
+   "image": "img/dig-2014-c.avif",
+   "date": "Apr 2014",
+   "caption": "Sorting through the Alamogordo landfill during the excavation.",
+   "alt": "A worker carrying two buckets across landfill debris",
+   "credit": "Photo: taylorhatmaker, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atari_E.T._Dig-_Alamogordo,_New_Mexico_%2814059345153%29.jpg), CC BY 2.0."
+  },
+  {
+   "image": "img/logo-2003.avif",
+   "date": "Oct 2003",
+   "caption": "The logo on atari.com under Infogrames.",
+   "alt": "White Atari wordmark on a red block",
+   "credit": "Cropped from an Internet Archive capture of atari.com. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/logo-2025.avif",
+   "date": "Mar 2025",
+   "caption": "The logo on atari.com under Atari SA.",
+   "alt": "Red Atari logo and wordmark",
+   "credit": "Cropped from an Internet Archive capture of atari.com. Shown for commentary; trademarks belong to their owners."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, 27 years apart",
+   "ratio": "16/7",
+   "before": {
+    "label": "January 1998",
+    "image": "img/archive-1998-01-home.avif",
+    "caption": "A subsidiary of a disk-drive maker, promoting a console it had stopped making.[^11][^32]",
+    "alt": "atari.com in January 1998"
+   },
+   "after": {
+    "label": "March 2025",
+    "image": "img/archive-2025-03-home.avif",
+    "caption": "A shop for new versions of the 1977 console.[^32]",
+    "alt": "atari.com in March 2025"
+   },
+   "source": "Internet Archive Wayback Machine captures of atari.com[^32]."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The living room.",
+   "caption": "A wood-grain console, one joystick and a bat-and-ball game on the family television."
+  },
+  {
+   "art": "art/joystick.svg",
+   "title": "The controller.",
+   "caption": "One stick, one red button."
+  },
+  {
+   "art": "art/buried-cartridge.svg",
+   "title": "The landfill.",
+   "caption": "Fourteen truckloads went into the ground at Alamogordo in September 1983, under concrete.[^4]"
+  },
+  {
+   "art": "art/price-tag.svg",
+   "title": "The name.",
+   "caption": "Sold in 1984, 1996, 1998 and 2001.[^7][^12][^13][^14]"
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#c8102e",
+   "label": "Cartridge red (drawing)"
+  },
+  {
+   "hex": "#2b2926",
+   "label": "Console black"
+  },
+  {
+   "hex": "#b5793f",
+   "label": "Wood grain"
+  },
+  {
+   "hex": "#e9b949",
+   "label": "Desert sun (drawing)"
+  }
+ ],
+ "disclaimer": "Photographs are from Wikimedia Commons under the licences shown. Atari and its logo are trademarks of their owner and appear here in historical and editorial context. Drawings are original illustrations, not official assets, and their colours are our own choices rather than sampled brand colours."
+}

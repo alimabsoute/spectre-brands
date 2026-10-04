@@ -1,0 +1,48 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it, and who walked out",
+ "lede": "Roles and dates are from contemporary reporting and filings. Later careers are included only where we found a source.",
+ "people": [
+  {
+   "name": "Nolan Bushnell",
+   "role": "Founder, 1972",
+   "text": "Founded Atari and commissioned Pong. Sold the company to Warner in 1976 and was removed by Warner’s Emanuel Gerard.[^1][^29]"
+  },
+  {
+   "name": "Raymond E. Kassar",
+   "role": "Chairman & CEO until Jul 1983",
+   "text": "A 25-year veteran of Burlington Industries who tried to turn “a loosely organized band of engineers into a serious, businesslike, market-oriented company.” Sold 5,000 Warner shares on the day of the December 1982 warning. Resigned in July 1983.[^1][^2][^3]"
+  },
+  {
+   "name": "Steven J. Ross",
+   "role": "Chairman, Warner Communications",
+   "text": "Built Warner from a funeral and parking business into an entertainment conglomerate, and disclosed the Atari insider sales himself in December 1982.[^2][^6]"
+  },
+  {
+   "name": "Emanuel Gerard",
+   "role": "Warner executive",
+   "text": "Urged the 1976 purchase and later described the company as “blind-sided” by the cancellations.[^1]"
+  },
+  {
+   "name": "James J. Morgan",
+   "role": "Chairman & CEO, Sep 1983 – Jul 1984",
+   "text": "Hired from Philip Morris at 41 with a contract reported to be worth more than $10 million. Learned of the sale to Tramiel days before it closed, according to an Atari executive.[^3][^7]"
+  },
+  {
+   "name": "Jack Tramiel",
+   "role": "Owner, Atari Corporation, 1984 – 1996",
+   "text": "Founder of Commodore, whose price war had hurt Atari. Bought the company for notes. He was named as a director of JTS in the 1996 merger plan.[^7][^11]"
+  },
+  {
+   "name": "David Crane",
+   "role": "Programmer; co-founder of Activision",
+   "text": "One of four programmers who left in 1979 after being refused credit and royalties.[^26]",
+   "later": "Activision was acquired by Microsoft in a deal valued at $68.7 billion.[^28]"
+  },
+  {
+   "name": "Wade J. Rosen",
+   "role": "Chairman & CEO, Atari SA, from 2021",
+   "text": "Took over as chief executive from Frédéric Chesnais in April 2021. His company IRATA LLC is Atari SA’s reference shareholder.[^20][^21]"
+  }
+ ]
+}

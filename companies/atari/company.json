@@ -1,0 +1,121 @@
+{
+ "name": "Atari",
+ "number": "013",
+ "tier": "ghost",
+ "tierWhy": "The original Atari, Inc. was broken up and sold by Warner Communications in July 1984; the name now belongs to Atari SA, a Paris-listed publisher of retro games and hardware that reported €56.0M of revenue for the year to March 2026.[^7][^21]",
+ "category": "games",
+ "cause": "management",
+ "years": "1972 – 1984",
+ "died": 1984,
+ "dates": [
+  {
+   "date": "1982-12-08",
+   "text": "parent Warner Communications warned that cartridge sales had fallen short, and its shares lost $16.75 the next trading day"
+  },
+  {
+   "date": "1984-07-02",
+   "text": "was sold by Warner to Jack Tramiel for $240 million in notes and no cash"
+  },
+  {
+   "date": "2014-04-26",
+   "text": "cartridges buried in 1983 were dug out of the Alamogordo, New Mexico landfill"
+  },
+  {
+   "date": "1998-02-23",
+   "text": "name and game library were sold to Hasbro Interactive for $5 million"
+  }
+ ],
+ "place": "Video games and home computers · Sunnyvale, California",
+ "title": "Atari (1972–1984): post-mortem · Spectre Brands",
+ "description": "From $28 million to $2 billion in sales and a $538 million loss in eight years: a sourced post-mortem of the original Atari and every owner of its name since, with charts, commercials and archived screenshots.",
+ "theme": {
+  "accent": "#c8102e",
+  "soft": "#fbecee"
+ },
+ "card": {
+  "blurb": "It grew to about $2 billion in sales in six years under Warner, lost $538 million the year after, and was handed to a rival for no cash. The name has been sold on ever since.",
+  "stat": {
+   "value": "$538M",
+   "label": "lost in 1983"
+  },
+  "spark": [
+   63,
+   51,
+   29.5,
+   26.75,
+   19
+  ],
+  "peak": 0,
+  "logo": "img/logo-2025.avif",
+  "logoYear": "2025"
+ },
+ "hero": {
+  "dates": "Founded 1972. Sold to Warner 1976. Broken up and sold Jul 2, 1984.",
+  "standfirst": "Atari made the home video game a business, and then showed how quickly that business could vanish.",
+  "deck": "Warner Communications paid $28 million for Atari in 1976. By 1982 it was half of Warner’s revenue. One year later it had lost more than half a billion dollars, buried truckloads of cartridges in the New Mexico desert and laid off most of its staff. In July 1984 Warner gave the company to a competitor for notes and no cash. The name has since belonged to a disk-drive maker, a toy company and a French publisher, and it is still trading. This is the post-mortem, built from contemporary New York Times reporting, SEC filings and the archived website.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration in the spirit of the wood-grain cartridge console and its bat-and-ball game. Not an official asset.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/vcs-2600.avif",
+    "caption": "The Video Computer System, 1977",
+    "alt": "Atari 2600 console with wood-grain front and a joystick"
+   },
+   {
+    "image": "img/dig-2014-a.avif",
+    "caption": "Dug up in Alamogordo, 2014",
+    "alt": "Crushed Atari game boxes in landfill dirt"
+   },
+   {
+    "image": "img/archive-2003-10-home.avif",
+    "caption": "atari.com under Infogrames, 2003",
+    "alt": "atari.com welcome page from October 2003"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "$28M",
+    "text": "paid by Warner Communications for Atari in 1976[^1][^6]"
+   },
+   {
+    "value": "$2B",
+    "text": "approximate sales in 1982, about ten times the 1978 figure[^1][^3]"
+   },
+   {
+    "value": "$538M",
+    "text": "lost by Atari in 1983[^7]"
+   },
+   {
+    "value": "$5M",
+    "text": "paid by Hasbro Interactive for the name and the games in 1998[^13]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It was half of Warner.",
+   "text": "In the first nine months of 1982 Atari contributed half of Warner’s $2.9 billion in revenue and two thirds of its $471 million in operating profit.[^1]"
+  },
+  {
+   "title": "The profit was in cartridges, and Atari lost its hold on them.",
+   "text": "An analyst put cartridges at $180 million of Atari’s $280 million operating profit in 1981. By December 1982 the number of game producers had more than tripled, to 20.[^1][^8]"
+  },
+  {
+   "title": "Management did not see it coming.",
+   "text": "Analysts said Warner privately confirmed their estimates until the morning before the December 8, 1982 warning. A Warner executive said the company was “blind-sided.”[^1]"
+  },
+  {
+   "title": "The collapse took one year.",
+   "text": "Atari earned $323 million in 1982 and lost $536 million in the first nine months of 1983. Staff fell from 10,000 to about 1,100 by June 1984.[^1][^6][^7]"
+  },
+  {
+   "title": "The name outlived the company by four decades.",
+   "text": "It was sold for $240 million in notes in 1984, for $5 million in 1998 and inside a $100 million deal in 2001. Its current owner reported €56.0M of revenue in FY2026.[^7][^13][^14][^21]"
+  }
+ ],
+ "published": "2026-10-03"
+}

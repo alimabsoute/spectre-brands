@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Pay the programmers",
+   "actual": "In 1979 four programmers whose games accounted for 60 percent of $100 million in cartridge sales asked for credit and royalties. David Crane was on a salary of about $20,000. They were refused and founded Activision, which shipped its first cartridges in July 1980.[^26][^27] By 1982 Activision was spending $3.6 million on television and there were 20 producers in the market.[^8]",
+   "whatif": "A royalty plan would have cost a small share of a cartridge margin that ran from a few dollars of cost to a $20 price.[^1] It might have delayed the first independent publisher by a year or two. It would probably not have stopped third-party cartridges for good, because the console had no technical lock and the profits were visible to everyone."
+  },
+  {
+   "tab": "Replace the 2600 sooner",
+   "actual": "The Video Computer System launched in 1977 and was still the core product in 1982. A reference history notes that Atari had not followed it with a second generation until a $350 machine in the autumn of 1982.[^25] Mattel was its main hardware competitor, and Coleco was among the companies it sued.[^1]",
+   "whatif": "A successor in 1980 or 1981, at the height of demand, would have given Atari a second installed base with fresh software margins before competitors arrived. The risk was real: it would have undercut a machine that was selling as fast as Atari could ship it."
+  },
+  {
+   "tab": "Keep it, smaller",
+   "actual": "Warner sold the home business in July 1984 for notes and no cash, after analysts had estimated $300 million to $500 million of write-offs still to come.[^6][^7] Two years later Nintendo began its U.S. rollout and hoped to sell 1.1 million to 1.3 million machines in a year.[^9]",
+   "whatif": "A much smaller Atari inside Warner, with the 7800 console it had already designed[^9], would have met the Nintendo revival with the best-known name in the business and a film studio behind it. Warner was fighting off Rupert Murdoch at the time and may not have been able to carry two more years of losses.[^6]"
+  }
+ ]
+}

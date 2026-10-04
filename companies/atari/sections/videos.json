@@ -1,0 +1,71 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "“Have you played Atari today?”",
+ "lede": "At its peak Atari was the largest advertiser in its industry. These are spots from the boom, a local news report filed as the company came apart, the 2014 excavation, and the last console to carry the name before it was sold.",
+ "videos": [
+  {
+   "id": "vcs78",
+   "title": "Atari Video Computer System commercial",
+   "year": 1978,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "ePPJaC0h1RQ",
+   "caption": "An early spot for the cartridge console. The 1978 date is the uploader’s. A reference history says Atari spent $6 million on advertising in the last seven weeks of 1978 to clear unsold stock.[^25]"
+  },
+  {
+   "id": "pacman",
+   "title": "Pac-Man for the Atari 2600",
+   "year": 1982,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "1FHkMqHx5xM",
+   "caption": "The home version was “widely faulted for the quality of its graphic display” and still sold well.[^1] The 1982 date is the uploader’s."
+  },
+  {
+   "id": "played",
+   "title": "Berzerk: “Have you played Atari today?”",
+   "year": 1982,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "KyyKYXq215o",
+   "caption": "A cartridge spot that closes on the company’s jingle. Atari spent $28.5 million on television in the first nine months of 1982.[^8] The year is the uploader’s."
+  },
+  {
+   "id": "et",
+   "title": "E.T. the Extra-Terrestrial for the Atari 2600",
+   "year": 1982,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "52UJWA-_6Jw",
+   "caption": "The Christmas 1982 spot for one of the film-licensed games that were not “the blockbusters Atari expected.”[^1] Copies were found in the Alamogordo landfill in 2014.[^22] The year is the uploader’s."
+  },
+  {
+   "id": "crash84",
+   "title": "CBS 8 San Diego special report on the video game slump",
+   "year": 1984,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "bcyjjK1Hhnk",
+   "caption": "A ten-minute local news report from the station’s own archive, dated 1984 by the station, on the collapse of the home video game business."
+  },
+  {
+   "id": "dig",
+   "title": "KRQE: cartridges found at the Atari dig",
+   "year": 2014,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "9NwKtKUhhm4",
+   "caption": "Albuquerque television on the April 26, 2014 excavation of the Alamogordo landfill, which confirmed the 1983 burial.[^22][^4]"
+  },
+  {
+   "id": "jaguar",
+   "title": "Atari Jaguar: “Do the Math”",
+   "year": 1994,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "mlRWqqWay7c",
+   "caption": "Atari Corporation’s 64-bit console sold about 125,000 units from late 1993 to the end of 1995.[^11] The 1994 date is the uploader’s."
+  }
+ ],
+ "note": "Air dates marked as the uploader’s could not be confirmed independently."
+}

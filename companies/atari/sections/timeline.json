@@ -1,0 +1,374 @@
+{
+ "kicker": "Timeline",
+ "title": "Fifty-four years, 33 moments",
+ "lede": "From a bar in Sunnyvale to a landfill in New Mexico, and through every later owner of the name. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "product": {
+   "label": "Product",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Collapse",
+   "color": "#c8102e"
+  },
+  "afterlife": {
+   "label": "The name",
+   "color": "#888888"
+  }
+ },
+ "events": [
+  {
+   "date": "1972",
+   "year": "",
+   "cat": "corporate",
+   "title": "Atari founded; Pong",
+   "text": "Nolan Bushnell founds Atari. Engineer Al Alcorn builds Pong, which is tested in bars in Grass Valley and Sunnyvale, California.",
+   "src": [
+    1,
+    29
+   ]
+  },
+  {
+   "date": "1975",
+   "year": "",
+   "cat": "product",
+   "title": "Home Pong",
+   "text": "A home version of Pong is sold through Sears, which a reference history says agreed to buy all 100,000 units.",
+   "src": [
+    25,
+    30
+   ]
+  },
+  {
+   "date": "1976",
+   "year": "",
+   "cat": "corporate",
+   "title": "Warner buys Atari for $28 million",
+   "text": "Warner Communications acquires the company from Bushnell, mainly at the urging of executive Emanuel Gerard.",
+   "src": [
+    1,
+    6
+   ]
+  },
+  {
+   "date": "1977",
+   "year": "",
+   "cat": "product",
+   "title": "The Video Computer System",
+   "text": "Atari launches the cartridge-based VCS, later renamed the 2600.",
+   "src": [
+    29
+   ]
+  },
+  {
+   "date": "1978",
+   "year": "",
+   "cat": "corporate",
+   "title": "Kassar replaces Bushnell",
+   "text": "Warner removes Bushnell and installs Raymond Kassar, from Burlington Industries. Revenue for 1978 is under $200 million.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "1979",
+   "year": "",
+   "cat": "rivals",
+   "title": "The programmers walk out",
+   "text": "Four game programmers leave after being refused credit and royalties, and found Activision.",
+   "src": [
+    26
+   ]
+  },
+  {
+   "date": "Jul 1980",
+   "year": "",
+   "cat": "rivals",
+   "title": "First third-party cartridges",
+   "text": "Activision ships Fishing Derby, Dragster and Boxing for the Atari console.",
+   "src": [
+    27
+   ]
+  },
+  {
+   "date": "1980",
+   "year": "",
+   "cat": "money",
+   "title": "Revenue passes $415 million",
+   "text": "A reference history puts Atari’s 1980 revenue above $415 million, more than double the year before.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Oct 1981",
+   "year": "",
+   "cat": "corporate",
+   "title": "Distributors asked to commit for a year",
+   "text": "Atari asks distributors to place orders for virtually all of 1982. It has about 80 percent of the market.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Spring 1982",
+   "year": "",
+   "cat": "product",
+   "title": "Pac-Man for the 2600",
+   "text": "The cartridge is criticised for its graphics and sells well. Atari expected to sell nine million, according to a reference history.",
+   "src": [
+    1,
+    25
+   ]
+  },
+  {
+   "date": "1982",
+   "year": "",
+   "cat": "money",
+   "title": "The peak year",
+   "text": "Sales of about $2 billion, operating profit of $323 million and 10,000 employees.",
+   "src": [
+    1,
+    6
+   ]
+  },
+  {
+   "date": "Dec 8",
+   "year": "1982",
+   "cat": "death",
+   "title": "The earnings warning",
+   "text": "Warner says fourth-quarter earnings will be about 60 cents a share against expectations of $1.60 to $2.00. The stock falls $16.75 the next trading day.",
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "date": "Dec 23",
+   "year": "1982",
+   "cat": "death",
+   "title": "Insider sales disclosed",
+   "text": "Warner chairman Steven Ross discloses that Kassar sold 5,000 shares on December 8 and another executive sold 6,376 on December 1. The stock closes at $29.50.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Feb 1983",
+   "year": "",
+   "cat": "death",
+   "title": "Manufacturing moves to Asia",
+   "text": "Atari moves production to Hong Kong and Taiwan, eliminating 1,700 U.S. jobs.",
+   "src": [
+    3,
+    25
+   ]
+  },
+  {
+   "date": "Q1 1983",
+   "year": "",
+   "cat": "money",
+   "title": "First operating loss",
+   "text": "Atari loses $45.6 million, against a profit of $100.6 million a year earlier.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Jul 7",
+   "year": "1983",
+   "cat": "corporate",
+   "title": "Kassar resigns",
+   "text": "James J. Morgan of Philip Morris is named to succeed him from September 6.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Sep 1983",
+   "year": "",
+   "cat": "death",
+   "title": "The Alamogordo burial",
+   "text": "Fourteen truckloads of cartridges and equipment are dumped in a New Mexico landfill and covered in concrete. Atari’s second-quarter loss was $310.5 million.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Oct 1983",
+   "year": "",
+   "cat": "money",
+   "title": "$536 million lost in nine months",
+   "text": "Atari reports a third-quarter loss of about $180 million. Mattel’s electronics division has lost $201 million so far in the year.",
+   "src": [
+    5,
+    6
+   ]
+  },
+  {
+   "date": "Jan 1984",
+   "year": "",
+   "cat": "corporate",
+   "title": "Warner under siege",
+   "text": "Rupert Murdoch seeks up to 49.9 percent of Warner, whose shares have traded as low as $19.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Jul 2",
+   "year": "1984",
+   "cat": "death",
+   "title": "Sold to Jack Tramiel",
+   "text": "Warner sells the home computer and video game business for $240 million in notes and no cash, keeps the coin-operated division and takes a $425 million loss.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "1986",
+   "year": "",
+   "cat": "afterlife",
+   "title": "The 2600 returns at $40",
+   "text": "Atari Corporation relaunches the console as Nintendo and Sega enter the U.S. market. More than 20 million have been sold.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Nov 1993",
+   "year": "",
+   "cat": "product",
+   "title": "The Jaguar",
+   "text": "Atari Corporation introduces a 64-bit console at $249.99.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "1995",
+   "year": "",
+   "cat": "money",
+   "title": "The Jaguar fails",
+   "text": "About 125,000 units sold since launch, 100,000 unsold in inventory, and a net loss of $49.6 million on revenue of $14.6 million.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Feb 13",
+   "year": "1996",
+   "cat": "afterlife",
+   "title": "Merger with a disk-drive maker",
+   "text": "Atari Corporation agrees to merge into JTS in a stock swap worth about $75 million. The merger closes in July.",
+   "src": [
+    12,
+    13
+   ]
+  },
+  {
+   "date": "Feb 23",
+   "year": "1998",
+   "cat": "afterlife",
+   "title": "Hasbro buys the name for $5 million",
+   "text": "JTS sells the Atari games, trademarks and licences to a subsidiary of Hasbro Interactive.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Jan 2001",
+   "year": "",
+   "cat": "afterlife",
+   "title": "Infogrames buys Hasbro Interactive",
+   "text": "The French publisher pays $100 million for the division, which includes the Atari properties.",
+   "src": [
+    14,
+    15
+   ]
+  },
+  {
+   "date": "May 2003",
+   "year": "",
+   "cat": "afterlife",
+   "title": "Infogrames becomes Atari",
+   "text": "Infogrames, Inc. changes its name to Atari, Inc. Its Nasdaq symbol becomes ATAR.",
+   "src": [
+    16,
+    33
+   ]
+  },
+  {
+   "date": "Apr 30",
+   "year": "2008",
+   "cat": "afterlife",
+   "title": "The parent buys out the U.S. company",
+   "text": "Infogrames Entertainment agrees to pay $1.68 a share for the 49 percent of Atari, Inc. it does not own.",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "Jan 21",
+   "year": "2013",
+   "cat": "afterlife",
+   "title": "Chapter 11",
+   "text": "Atari Inc., Atari Interactive and two affiliates file in the Southern District of New York to separate from the French parent, by then called Atari S.A.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "Dec 5",
+   "year": "2013",
+   "cat": "afterlife",
+   "title": "Bankruptcy plan approved",
+   "text": "The court approves a plan that pays unsecured creditors, owed a reported $10.3 million, about $1.75 million over three years.",
+   "src": [
+    19
+   ]
+  },
+  {
+   "date": "Apr 26",
+   "year": "2014",
+   "cat": "afterlife",
+   "title": "The dig",
+   "text": "A documentary crew excavates the Alamogordo landfill and finds E.T. cartridges in front of about 200 onlookers.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Apr 2021",
+   "year": "",
+   "cat": "afterlife",
+   "title": "Wade Rosen becomes chief executive",
+   "text": "The chairman of Atari SA takes over from Frédéric Chesnais.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Aug 3",
+   "year": "2026",
+   "cat": "afterlife",
+   "title": "€56.0M of revenue",
+   "text": "Atari SA reports its third straight year of growth and a small net profit, and moves its registered office to Luxembourg.",
+   "src": [
+    21
+   ]
+  }
+ ]
+}

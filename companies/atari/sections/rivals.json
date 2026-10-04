@@ -1,0 +1,181 @@
+{
+ "kicker": "The rivals",
+ "title": "Who else was in the room",
+ "lede": "The crash took most of the first generation of game companies with it. The two that mattered afterwards were a cartridge publisher founded by Atari’s own programmers and a Japanese company that arrived in 1985.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Six companies, forty years on",
+   "subtitle": "The companies that competed with Atari in 1982–86, and what became of each.",
+   "metric": "Headline figure",
+   "items": [
+    {
+     "name": "Atari",
+     "status": "ghost",
+     "self": true,
+     "value": "$538M lost",
+     "text": "Loss for 1983 after a $323M profit in 1982. Sold in 1984; the name survives under Atari SA.[^6][^7][^21]",
+     "data": [
+      280,
+      323,
+      -538
+     ],
+     "range": [
+      "1981",
+      "1983"
+     ]
+    },
+    {
+     "name": "Mattel Electronics",
+     "status": "dead",
+     "statusLabel": "Exited",
+     "value": "$201M lost",
+     "text": "Deficit for 1983 to October. Maker of the Intellivision and Atari’s main competitor in 1981. Out of the business by mid-1984.[^1][^5][^7]"
+    },
+    {
+     "name": "Coleco",
+     "status": "dead",
+     "statusLabel": "Bankrupt",
+     "value": "$540.3M of debts",
+     "text": "Filed for bankruptcy protection in 1988. Hasbro bought its main assets for $85M in 1989.[^31]"
+    },
+    {
+     "name": "Commodore",
+     "status": "dead",
+     "value": "Price war",
+     "text": "Its price cuts under Jack Tramiel “buried Atari” in home computers, in the Times’s phrase. Tramiel then bought Atari.[^7]"
+    },
+    {
+     "name": "Activision",
+     "status": "acquired",
+     "value": "$68.7B",
+     "text": "Founded in 1979 by Atari programmers. Value of the Microsoft transaction announced in January 2022.[^26][^28]"
+    },
+    {
+     "name": "Nintendo",
+     "status": "alive",
+     "value": "1.1–1.3M",
+     "text": "Machines it hoped to sell in the U.S. in 1986, after a test of about 90,000 in New York the previous Christmas.[^9]"
+    }
+   ],
+   "source": "Figures as cited. Commodore’s later bankruptcy is general knowledge and is listed in the data notes."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Ghost",
+    "name": "Atari, 1982",
+    "alive": false,
+    "rows": [
+     [
+      "Sales",
+      "about $2 billion[^1]"
+     ],
+     [
+      "Operating profit",
+      "$323M[^6]"
+     ],
+     [
+      "Employees",
+      "10,000[^1]"
+     ],
+     [
+      "Market share (Oct 1981)",
+      "about 80%[^1]"
+     ],
+     [
+      "Who wrote the games",
+      "Salaried staff, uncredited[^26]"
+     ],
+     [
+      "Owner",
+      "Warner Communications"
+     ]
+    ]
+   },
+   "right": {
+    "tag": "Trading",
+    "name": "Atari SA, FY2026",
+    "alive": true,
+    "rows": [
+     [
+      "Revenue",
+      "€56.0M[^21]"
+     ],
+     [
+      "Current operating income",
+      "€0.9M, excluding Thunderful[^21]"
+     ],
+     [
+      "Games revenue",
+      "€46.1M[^21]"
+     ],
+     [
+      "Hardware revenue",
+      "€7.3M[^21]"
+     ],
+     [
+      "Catalogue",
+      "more than 400 games and franchises[^21]"
+     ],
+     [
+      "Owner",
+      "Listed, Euronext Growth Paris[^21]"
+     ]
+    ]
+   },
+   "source": "The two columns are in different currencies and 44 years apart; they are shown side by side for scale, not as a like-for-like comparison."
+  },
+  {
+   "kind": "chart",
+   "id": "saChart",
+   "title": "Atari SA revenue by line of business",
+   "subtitle": "€ millions, years to March 31. FY2026 includes Thunderful Group from September 1, 2025.",
+   "chart": {
+    "type": "bar",
+    "stacked": true,
+    "labels": [
+     "FY2025",
+     "FY2026"
+    ],
+    "y": {
+     "format": {
+      "pre": "€",
+      "suf": "M",
+      "dec": 1
+     }
+    },
+    "series": [
+     {
+      "label": "Games",
+      "data": [
+       27.5,
+       46.1
+      ],
+      "color": "brand",
+      "stack": "a"
+     },
+     {
+      "label": "Hardware",
+      "data": [
+       4.0,
+       7.3
+      ],
+      "color": "ink",
+      "stack": "a"
+     },
+     {
+      "label": "Licensing",
+      "data": [
+       2.1,
+       2.5
+      ],
+      "color": "grey",
+      "stack": "a"
+     }
+    ]
+   },
+   "source": "Atari SA, Fiscal Year 2026 Results, August 3, 2026[^21]. Totals: €33.6M and €56.0M; the lines sum to within €0.1M because of rounding."
+  }
+ ]
+}

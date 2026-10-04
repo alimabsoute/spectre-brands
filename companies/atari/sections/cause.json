@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "Management that could not see its own orders",
+   "text": "Atari fixed its 1982 plan in October 1981 by asking distributors to commit a year ahead, then did not register the cancellations until December. Warner’s Emanuel Gerard said the company was “blind-sided.” Three executives with under eight months’ service were dismissed in two weeks, and analysts questioned the company’s controls.[^1]"
+  },
+  {
+   "weight": 25,
+   "title": "A software monopoly that ended",
+   "text": "Cartridges were the profit: an estimated $180 million of $280 million in 1981. Programmers refused royalties founded Activision in 1979, and by December 1982 the number of producers had more than tripled, to 20. In 1983 cartridge units were expected to rise while their dollar value fell from $1.6 billion to $1.3 billion.[^1][^5][^8][^26]"
+  },
+  {
+   "weight": 20,
+   "title": "Weak products at the worst moment",
+   "text": "The 2600 was five years old. Atari’s Pac-Man was faulted for its graphics, and the games licensed from E.T. and Raiders of the Lost Ark missed expectations. Retailers were left with “huge inventories of unsold equipment and game cartridges,” and Atari with truckloads to bury.[^1][^4][^7]"
+  },
+  {
+   "weight": 15,
+   "title": "The home computer price war",
+   "text": "Atari’s computer division was already losing an estimated $25 million to $50 million in 1982. In 1983 Commodore’s price cuts forced Atari “to cut prices on its home computers far more deeply than it could afford.” Texas Instruments, Mattel and Timex left the business.[^1][^7]"
+  },
+  {
+   "weight": 10,
+   "title": "A parent that depended on it",
+   "text": "Atari was half of Warner’s revenue and more than 60 percent of its profit. When it failed, Warner’s shares fell from $63 to $19 and attracted a raider, and the sale to Tramiel was made quickly and for no cash.[^6][^7]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The press record documents the symptoms. How much each one contributed is a matter of opinion."
+}

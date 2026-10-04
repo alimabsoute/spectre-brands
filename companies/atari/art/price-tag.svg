@@ -1,0 +1,13 @@
+<svg viewBox="0 0 320 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a blank name badge with a string price tag attached, standing for a brand name sold on its own">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="30" y="40" width="190" height="120" rx="12" fill="#fbf9f5"/>
+<path d="M30 76h190V52a12 12 0 0 0-12-12H42a12 12 0 0 0-12 12z" fill="#c8102e"/>
+<path d="M62 58h126" stroke="#fbf9f5" stroke-width="5"/>
+<path d="M58 108h134M58 132h88" stroke="#9a9184" stroke-width="6"/>
+<circle cx="204" cy="140" r="5" fill="#1d1b18"/>
+<path d="M204 140 C230 150 222 176 244 180"/>
+<path d="M236 168 l56 14 l-12 56 l-62 -14 l-6 -34z" fill="#e9b949"/>
+<circle cx="234" cy="188" r="5" fill="#fbf9f5"/>
+<path d="M256 196c-8-6-18 2-8 8s2 14-8 8M252 190l-6 28" stroke-width="2.6"/>
+<path d="M268 204l12 3M264 218l12 3" stroke-width="2.6"/>
+</g></svg>

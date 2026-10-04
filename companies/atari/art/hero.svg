@@ -1,0 +1,18 @@
+<svg viewBox="0 0 420 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a wood-grain cartridge console with a joystick in front of a television showing a bat-and-ball game">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="70" y="20" width="280" height="190" rx="16" fill="#8a5a33"/>
+<rect x="90" y="38" width="190" height="154" rx="18" fill="#1d1b18"/>
+<g class="screen" stroke="#f4f1ea"><path d="M185 50v130" stroke-dasharray="6 10"/><path d="M108 84v34M262 120v34" stroke-width="7"/><rect x="214" y="96" width="7" height="7" fill="#f4f1ea" stroke-width="1"/><path d="M150 56h14v12h-14v12h14M204 56h14v24h-14z" stroke-width="2.4"/></g>
+<circle cx="315" cy="66" r="15" fill="#d9d2c4"/><circle cx="315" cy="112" r="15" fill="#d9d2c4"/><path d="M315 56v10M315 102v10"/>
+<path d="M298 150h34M298 162h34M298 174h34" stroke-width="2.4"/>
+<path d="M120 210v14M300 210v14"/>
+<path d="M60 262 L92 232 H328 L360 262Z" fill="#2b2926"/>
+<path d="M104 238h212M100 244h220M95 250h230M90 256h240" stroke="#55514b" stroke-width="2"/>
+<rect x="176" y="224" width="68" height="16" rx="3" fill="#c8102e"/>
+<path d="M60 262h300v22H60z" fill="#b5793f"/><path d="M70 273h280" stroke="#8a5a33" stroke-width="2"/>
+<path d="M112 236v10M136 236v10M284 236v10M308 236v10" stroke="#d9d2c4" stroke-width="4"/>
+<path d="M150 284 C150 316 120 300 122 332" />
+<rect x="76" y="326" width="92" height="40" rx="6" fill="#2b2926"/>
+<path d="M122 326v-34" stroke-width="9"/><circle cx="122" cy="290" r="8" fill="#2b2926"/>
+<circle cx="92" cy="340" r="6" fill="#c8102e"/>
+</g></svg>

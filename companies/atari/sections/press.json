@@ -1,0 +1,31 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "Why did it happen so quickly? And why were they not in tune with it while it was building?",
+   "who": "**Richard P. Simon**, analyst at Goldman, Sachs, in The New York Times, Dec 19, 1982[^1]",
+   "big": true
+  },
+  {
+   "q": "We have been erratic, unbelievable, and we have said things we didn’t mean. That has to come to an end.",
+   "who": "**James J. Morgan**, Atari chief executive, January 1984, as quoted in The New York Times[^7]"
+  },
+  {
+   "q": "Warner essentially gave away the company, in hopes Tramiel could make something happen.",
+   "who": "**Lee Isgur**, analyst at Paine Webber, in The New York Times, Jul 3, 1984[^7]"
+  },
+  {
+   "q": "It’s clear that the old Atari was dead. It just wasn’t worth anything.",
+   "who": "**David Lawrence**, analyst at Montgomery Securities, in The New York Times, Jul 3, 1984[^7]"
+  },
+  {
+   "q": "That has to be the greatest acquisition in history.",
+   "who": "**Donald Valentine**, early Atari backer, on Warner’s $28 million purchase, in The New York Times, Dec 19, 1982[^1]"
+  },
+  {
+   "q": "8 years ago, when I came back, the brand was given for dead.",
+   "who": "**Frédéric Chesnais**, outgoing chief executive of Atari SA, April 2021[^20]"
+  }
+ ]
+}

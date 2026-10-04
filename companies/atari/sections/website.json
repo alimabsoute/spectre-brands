@@ -1,0 +1,83 @@
+{
+ "kicker": "The old website",
+ "title": "One address, five landlords",
+ "lede": "The original Atari was gone a decade before the web. What atari.com shows instead is the afterlife: each capture below belongs to a different owner or strategy. These are screenshots of pages saved by the Internet Archive’s Wayback Machine, found in October 2026. Click one to open the original capture.[^32]",
+ "snips": [
+  {
+   "text": "“A JTS Corporation subsidiary.”",
+   "when": "atari.com · Jan 17, 1998 capture[^32]"
+  },
+  {
+   "text": "“Infogrames is now officially Atari”",
+   "when": "atari.com · Oct 4, 2003 capture[^32]"
+  },
+  {
+   "text": "“Join the Alpha Web Site and help create a legend. Play, Live & Create”",
+   "when": "atari.com · May 31, 2007 capture[^32]"
+  },
+  {
+   "text": "Menu: “Hardware · Games · Apparel & Collectibles · New”",
+   "when": "atari.com · Mar 1, 2025 capture[^32]"
+  }
+ ],
+ "note": "We could not get a usable capture from the Hasbro years. In the captures we tried from 1999 to early 2001 the address returned a few hundred bytes or forwarded to hasbrointeractive.com/atari, where the archived page is an error. Images are missing from several captures; the screenshots show them as archived.",
+ "captures": [
+  {
+   "date": "Jan 1998",
+   "label": "JTS era",
+   "url": "http://www.atari.com/",
+   "wayback": "https://web.archive.org/web/19980117060400/http://www.atari.com:80/",
+   "image": "img/archive-1998-01-home.avif",
+   "h": 480,
+   "captured": "Jan 17, 1998",
+   "title": "“Jagwire”",
+   "text": "Five weeks before the sale to Hasbro. The front page still promotes the Jaguar console’s “Interactive Multimedia Domain” and carries the line “A JTS Corporation subsidiary.” JTS made disk drives.[^13]"
+  },
+  {
+   "date": "Oct 2003",
+   "label": "Infogrames era",
+   "url": "http://atari.com/",
+   "wayback": "https://web.archive.org/web/20031004143813/http://atari.com/",
+   "image": "img/archive-2003-10-home.avif",
+   "h": 440,
+   "captured": "Oct 4, 2003",
+   "title": "“Infogrames is now officially Atari”",
+   "text": "Five months after the U.S. company changed its name.[^16] The page is a list of country sites, with a note about the parent, Infogrames Entertainment SA."
+  },
+  {
+   "date": "May 2007",
+   "label": "Before the buyout",
+   "url": "http://www.atari.com/",
+   "wayback": "https://web.archive.org/web/20070531134256/http://www.atari.com/",
+   "image": "img/archive-2007-05-home.avif",
+   "h": 480,
+   "captured": "May 31, 2007",
+   "title": "A portal, and an earnings call",
+   "text": "A region selector with links to Atari, Inc. and Infogrames investor relations. Atari, Inc.’s publishing revenue had fallen from $289.6M in fiscal 2005 to $104.7M in fiscal 2007.[^17]",
+   "warn": "Some images are missing from the capture."
+  },
+  {
+   "date": "Feb 2010",
+   "label": "Publisher",
+   "url": "http://www.atari.com/",
+   "wayback": "https://web.archive.org/web/20100206063948/http://www.atari.com:80/",
+   "image": "img/archive-2010-02-home.avif",
+   "h": 480,
+   "captured": "Feb 6, 2010",
+   "title": "Star Trek Online, and Asteroids in a browser",
+   "text": "A conventional game publisher’s front page. The list on the left offers the 1980s arcade games Asteroids Deluxe, Battlezone and Gravitar to play online.",
+   "warn": "Some images are missing from the capture."
+  },
+  {
+   "date": "Mar 2025",
+   "label": "Retro hardware",
+   "url": "https://atari.com/",
+   "wayback": "https://web.archive.org/web/20250301032554/https://atari.com/",
+   "image": "img/archive-2025-03-home.avif",
+   "h": 480,
+   "captured": "Mar 1, 2025",
+   "title": "A store",
+   "text": "A shop selling hardware, games and apparel. The pop-up shows a new wood-grain cartridge console beside boxed games. Hardware was €4.0M of the €33.6M of revenue in the year to March 2025.[^21]"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "kicker": "The market it built",
+ "title": "An industry that doubled, then choked",
+ "label": "Context",
+ "lede": "Home video games were the fastest-growing consumer product of the early 1980s. The boom drew in so many suppliers that the product became a commodity inside a year.",
+ "blocks": [
+  {
+   "kind": "keyfacts",
+   "caption": "The U.S. home video game market at the turn",
+   "compact": true,
+   "rows": [
+    {
+     "value": "$2B",
+     "text": "expected industry sales in 1982, double the year before, split about evenly between consoles and cartridges[^1][^8]"
+    },
+    {
+     "value": "20",
+     "text": "companies producing games by December 1982, more than triple the number a year earlier[^8]"
+    },
+    {
+     "value": "15M",
+     "text": "game machines plugged into American televisions by October 1983[^5]"
+    },
+    {
+     "value": "$100M",
+     "text": "estimated network television time bought by game makers for the 1982–83 season[^8]"
+    }
+   ]
+  },
+  {
+   "kind": "chart",
+   "id": "cartChart",
+   "title": "More cartridges, less money",
+   "subtitle": "U.S. cartridge sales in 1982 and analysts’ expectations for 1983, as reported in October 1983.",
+   "views": [
+    {
+     "label": "Units",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "1982",
+       "1983 (expected)"
+      ],
+      "y": {
+       "format": {
+        "pre": "",
+        "suf": "M",
+        "dec": 0
+       },
+       "min": 0
+      },
+      "series": [
+       {
+        "label": "Cartridges sold, millions",
+        "data": [
+         65,
+         [
+          80,
+          90
+         ]
+        ],
+        "colors": [
+         "ink",
+         "grey"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "label": "Dollars",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "1982",
+       "1983 (expected)"
+      ],
+      "y": {
+       "format": "usdB",
+       "min": 0
+      },
+      "series": [
+       {
+        "label": "Cartridge sales",
+        "data": [
+         1600000000,
+         1300000000
+        ],
+        "colors": [
+         "ink",
+         "red"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "source": "The New York Times, October 17, 1983[^5]: “about 65 million” cartridges in 1982 and 80 million to 90 million expected in 1983 (shown as a range), with dollar value falling from $1.6 billion to about $1.3 billion according to analyst Christopher Kirby. Console sales were expected to fall from 8 million to between 5.5 million and 6 million. These are contemporary estimates, not final figures."
+  },
+  {
+   "kind": "text",
+   "title": "What changed",
+   "body": "In October 1981 Atari had about 80 percent of the market for both consoles and games, “with Mattel its main competitor.”[^1] A year later the Times counted Coleco, Activision, Imagic and Parker Brothers among “numerous companies” in software.[^1] Retailers had ordered for a monopoly market and received a competitive one. In 1986 the same newspaper summarised the result: “Retailers took a bath as millions of cartridges remained on their shelves.”[^9]"
+  }
+ ]
+}

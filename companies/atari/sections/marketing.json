@@ -1,0 +1,47 @@
+{
+ "kicker": "Marketing",
+ "title": "The biggest advertiser in the business",
+ "lede": "Atari outspent every rival on television. The spending rose fastest in the year the market turned.",
+ "blocks": [
+  {
+   "kind": "bars",
+   "title": "Television advertising, first nine months of 1982",
+   "subtitle": "$ millions, by video game company.",
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "itemLabel": "Company",
+   "valueLabel": "TV spend",
+   "items": [
+    {
+     "label": "Atari",
+     "value": 28.5,
+     "self": true,
+     "note": "Up from $21.1M in all of 1981."
+    },
+    {
+     "label": "Mattel",
+     "value": 21.1,
+     "note": "Up from $8.5M in 1981."
+    },
+    {
+     "label": "Activision",
+     "value": 3.6,
+     "note": "Up from $670,200 in 1981."
+    }
+   ],
+   "source": "The New York Times, December 7, 1982[^8]."
+  },
+  {
+   "kind": "video",
+   "video": "played"
+  },
+  {
+   "kind": "text",
+   "title": "From $75 million to “low millions”",
+   "body": "“In its heyday, Atari alone used to spend $75 million on advertising,” the Times wrote in 1986. That autumn Nintendo planned to spend $16 million, Sega more than $9 million and Jack Tramiel’s Atari Corporation an amount “in the ‘low millions.’”[^9] The earlier estimate of more than $100 million for 1982 comes from the same newspaper in December 1982.[^1] The two figures were reported four years apart and may not measure the same thing."
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Trading",
+   "color": "var(--green)",
+   "title": "The name",
+   "text": "Owned through Atari Interactive, Inc. by Atari SA, listed on Euronext Growth Paris. FY2026 revenue was €56.0M: €46.1M from games, €7.3M from hardware and €2.5M from licensing.[^21]"
+  },
+  {
+   "status": "Reissued",
+   "color": "var(--gold)",
+   "title": "The console",
+   "text": "Atari SA sells a cartridge console called the 2600+, including a Pac-Man edition made with Bandai Namco in FY2026.[^21] The original had sold more than 20 million units by 1986.[^9]"
+  },
+  {
+   "status": "Exhumed",
+   "color": "var(--blue)",
+   "title": "The buried cartridges",
+   "text": "About 1,300 games were recovered from the Alamogordo landfill in 2014. The city sold 881 of them on eBay for about $108,000, gave 100 to the documentary crew and 23 to museums.[^23]"
+  },
+  {
+   "status": "Dissolved",
+   "color": "var(--red)",
+   "title": "Atari Corporation",
+   "text": "Jack Tramiel’s company merged into the disk-drive maker JTS in July 1996 with 31 employees. JTS sold the Atari assets nineteen months later.[^11][^13]"
+  },
+  {
+   "status": "Bankrupt, then restructured",
+   "color": "var(--mute)",
+   "title": "Atari, Inc. (the second one)",
+   "text": "The former GT Interactive, renamed in 2003, was bought out by its French parent at $1.68 a share in 2008 and filed for Chapter 11 in January 2013. A plan was approved that December.[^16][^17][^18][^19]"
+  },
+  {
+   "status": "Vindicated",
+   "color": "var(--green)",
+   "title": "The programmers",
+   "text": "Activision, founded by the four who left in 1979, was acquired by Microsoft in a transaction valued at $68.7 billion when it was announced in January 2022.[^26][^28]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the Atari name",
+   "subtitle": "Six owners in 54 years. The price fell by 98% between the second sale and the fourth.",
+   "nodes": [
+    {
+     "when": "1972",
+     "owner": "Atari, Inc.",
+     "what": "Founded by Nolan Bushnell. Pong, then home Pong.[^1][^29]"
+    },
+    {
+     "when": "1976",
+     "owner": "Warner Communications",
+     "what": "Buys the company and funds the Video Computer System.[^1][^6]",
+     "price": "$28M"
+    },
+    {
+     "when": "Jul 1984",
+     "owner": "Atari Corporation (Jack Tramiel)",
+     "what": "Buys the home computer and video game business. Warner keeps the coin-operated division.[^7]",
+     "price": "$240M in notes"
+    },
+    {
+     "when": "Jul 1996",
+     "owner": "JTS Corporation",
+     "what": "A disk-drive maker absorbs Atari Corporation in a stock merger.[^12][^13]",
+     "price": "Stock"
+    },
+    {
+     "when": "Feb 1998",
+     "owner": "Hasbro Interactive",
+     "what": "Buys the Atari games, trademarks and licences from JTS.[^13]",
+     "price": "$5M"
+    },
+    {
+     "when": "Jan 2001",
+     "owner": "Infogrames Entertainment",
+     "what": "Buys Hasbro Interactive and renames its U.S. arm Atari, Inc. in 2003.[^14][^16]",
+     "price": "$100M for the division"
+    },
+    {
+     "when": "Jan 2013",
+     "owner": "Chapter 11",
+     "what": "Atari Inc. and Atari Interactive file for bankruptcy protection in New York.[^18]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Today",
+     "owner": "Atari SA",
+     "what": "The former Infogrames, led by Wade Rosen, publishes retro games and sells new cartridge consoles.[^20][^21]",
+     "status": "current"
+    }
+   ],
+   "source": "The New York Times[^1][^6][^7][^12][^14], JTS Corporation Form 8-K[^13], Atari, Inc. filings[^16], the 2013 press release[^18] and Atari SA’s FY2026 results[^21]. The 98% fall is derived: ($240M − $5M) ÷ $240M. The 1984 and 1998 sales did not cover exactly the same assets."
+  }
+ ]
+}

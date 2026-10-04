@@ -1,0 +1,320 @@
+{
+ "kicker": "The money",
+ "title": "One good year, one terrible year, and a long tail",
+ "label": "The numbers",
+ "lede": "Atari was a division of Warner Communications and never published its own accounts. The figures below are the ones Warner disclosed and the press reported at the time, followed by the audited record of the smaller companies that carried the name afterwards.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Warner’s share price, at the dates we could source",
+   "subtitle": "Dollars per share on the New York Stock Exchange. Atari was about half of Warner’s revenue, so the stock traded on Atari’s results.",
+   "labels": [
+    "1982 high",
+    "Dec 8, 1982",
+    "Dec 23, 1982",
+    "Jul 7, 1983",
+    "Jan 1984 low"
+   ],
+   "format": "usd2",
+   "series": [
+    {
+     "label": "Warner Communications share price",
+     "data": [
+      63,
+      51,
+      29.5,
+      26.75,
+      19
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "The peak",
+     "text": "Warner shares reached $63 in 1982, the year Atari earned $323 million.[^6]"
+    },
+    {
+     "i": 1,
+     "title": "The warning",
+     "text": "The price before the December 8 announcement that cartridge sales had fallen short.[^2]"
+    },
+    {
+     "i": 2,
+     "title": "Fifteen days later",
+     "text": "$29.50 at the close on December 23, down 42% (derived).[^2]"
+    },
+    {
+     "i": 3,
+     "title": "Kassar resigns",
+     "text": "$26.75 on the day the resignation of Atari’s chairman was announced.[^3]"
+    },
+    {
+     "i": 4,
+     "title": "The raider",
+     "text": "As low as $19 when Rupert Murdoch began buying Warner stock.[^6]"
+    }
+   ],
+   "xLabel": "Documented dates only; this is not a daily price series.",
+   "source": "The New York Times, December 24, 1982[^2], July 8, 1983[^3] and January 8, 1984[^6]. The 42% fall is derived: ($51 − $29.50) ÷ $51."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "chart",
+     "id": "opChart",
+     "title": "Atari’s operating result by quarter",
+     "subtitle": "$ millions. Only the quarters reported in our sources are shown.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "Q1 1982",
+       "Q1 1983",
+       "Q2 1983",
+       "Q3 1983"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Operating profit or loss",
+        "data": [
+         100.6,
+         -45.6,
+         -310.5,
+         -180.3
+        ],
+        "colors": [
+         "green",
+         "red",
+         "red",
+         "red"
+        ]
+       }
+      ]
+     },
+     "source": "Q1 1982 and Q1 1983[^3]; Q2 1983[^4]; Q3 1983[^5][^25]. The three 1983 quarters sum to $536.4M (derived), which matches the nine-month loss of $536 million reported by the Times.[^6]"
+    },
+    {
+     "kind": "chart",
+     "id": "yearChart",
+     "title": "Atari’s annual operating result",
+     "subtitle": "$ millions. The 1981 figure is an analyst’s estimate.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "1981 (estimate)",
+       "1982",
+       "1983"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Operating profit or loss",
+        "data": [
+         280,
+         323,
+         -538
+        ],
+        "colors": [
+         "grey",
+         "green",
+         "red"
+        ]
+       }
+      ]
+     },
+     "source": "1981: estimate by Richard Simon of Goldman Sachs, as reported by the Times[^1]. 1982[^6]. 1983: “losses that last year totaled $538 million”[^7]."
+    }
+   ]
+  },
+  {
+   "kind": "flow",
+   "title": "Where Warner’s $4 billion came from in 1982",
+   "subtitle": "Warner Communications revenue for 1982, split by line of business.",
+   "from": {
+    "label": "Warner Communications revenue, 1982",
+    "value": 3990
+   },
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 0
+   },
+   "to": [
+    {
+     "label": "Consumer electronics (Atari)",
+     "value": 1995,
+     "color": "brand",
+     "note": "50% of revenue.[^6]"
+    },
+    {
+     "label": "Music recording and publishing",
+     "value": 758,
+     "color": "blue",
+     "note": "19% of revenue.[^6]"
+    },
+    {
+     "label": "Filmed entertainment",
+     "value": 678,
+     "color": "gold",
+     "note": "17% of revenue.[^6]"
+    },
+    {
+     "label": "Consumer products",
+     "value": 559,
+     "color": "grey",
+     "note": "14% of revenue.[^6]"
+    }
+   ],
+   "source": "Revenue of $3,989,985 thousand and the percentage split are from the “At a glance” table in The New York Times, January 8, 1984[^6]. The dollar value of each line is derived: total revenue × the published percentage, rounded to the nearest $1M."
+  },
+  {
+   "kind": "chart",
+   "id": "staffChart",
+   "title": "Headcount, on a log scale",
+   "subtitle": "Employees at each reported date. The first three bars are Atari under Warner; the last three are Atari Corporation.",
+   "chart": {
+    "type": "bar",
+    "legend": false,
+    "labels": [
+     "Dec 1982",
+     "Mid 1983",
+     "Jun 1984",
+     "Dec 1994",
+     "Dec 1995",
+     "Mar 1996"
+    ],
+    "y": {
+     "log": true,
+     "min": 10,
+     "max": 20000,
+     "format": "num",
+     "ticks": [
+      10,
+      100,
+      1000,
+      10000
+     ]
+    },
+    "tooltip": {
+     "footers": [
+      "4,000 of them hired in 1982",
+      "“more than 7,000”",
+      "Just before the sale to Tramiel",
+      "Atari Corporation",
+      "Atari Corporation",
+      "Before the JTS merger"
+     ]
+    },
+    "series": [
+     {
+      "label": "Employees",
+      "data": [
+       10000,
+       7000,
+       1100,
+       101,
+       73,
+       31
+      ],
+      "colors": [
+       "ink",
+       "ink",
+       "red",
+       "grey",
+       "grey",
+       "red"
+      ]
+     }
+    ]
+   },
+   "source": "10,000 in December 1982[^1]; “more than 7,000” a year before June 1984 and about 1,100 in June 1984[^7]; Atari Corporation headcount from its FY1995 Form 10-K[^11]."
+  },
+  {
+   "kind": "arc",
+   "title": "The second fall: Atari Corporation, 1990–1995",
+   "subtitle": "Revenue of the company Jack Tramiel built from the assets Warner sold, $ millions.",
+   "labels": [
+    "1990",
+    "1991",
+    "1992",
+    "1993",
+    "1994",
+    "1995"
+   ],
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "series": [
+    {
+     "label": "Revenue",
+     "data": [
+      411.5,
+      258.0,
+      127.3,
+      28.8,
+      38.4,
+      14.6
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "A computer company",
+     "text": "$411.5M of net sales in 1990, from personal computers and video games.[^10][^11]"
+    },
+    {
+     "i": 2,
+     "title": "Exit from computers",
+     "text": "In 1992 and 1993 the company downsized and left the computer business. It lost $73.6M in 1992.[^10][^11]"
+    },
+    {
+     "i": 3,
+     "title": "The Jaguar",
+     "text": "Launched in late 1993. About 17,000 consoles shipped that quarter.[^10]"
+    },
+    {
+     "i": 5,
+     "title": "The end",
+     "text": "Jaguar sales of $9.9M, a net loss of $49.6M and a merger agreement with JTS.[^11]"
+    }
+   ],
+   "source": "Net sales for 1990–1994 from the FY1994 Form 10-K[^10]; total revenues for 1995 from the FY1995 Form 10-K405[^11]. The FY1995 filing restates 1993 and 1994 as $29.1M and $38.7M on a total-revenue basis."
+  },
+  {
+   "kind": "counters",
+   "title": "What the name fetched each time it was sold",
+   "items": [
+    {
+     "value": "$28M",
+     "text": "Warner Communications, 1976, for the whole company.[^1][^6]"
+    },
+    {
+     "value": "$240M",
+     "text": "Jack Tramiel, 1984, in long-term notes, for the home computer and video game business. No cash changed hands.[^7]"
+    },
+    {
+     "value": "$5M",
+     "text": "Hasbro Interactive, 1998, in cash, for the games, trademarks and licences.[^13]"
+    },
+    {
+     "value": "$100M",
+     "text": "Infogrames, 2001, for all of Hasbro Interactive, of which Atari was one part.[^14]"
+    }
+   ],
+   "source": "Figures are nominal dollars as reported at the time and are not adjusted for inflation."
+  }
+ ]
+}

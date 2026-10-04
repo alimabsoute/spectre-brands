@@ -1,0 +1,53 @@
+{
+ "kicker": "Unit economics",
+ "title": "A razor, and other people’s blades",
+ "label": "Unit economics",
+ "lede": "The console was the razor and the cartridge was the blade. The model worked for as long as Atari was the only company selling blades.",
+ "blocks": [
+  {
+   "kind": "counters",
+   "title": "The cartridge business in 1981–82",
+   "items": [
+    {
+     "value": "$20+",
+     "text": "retail price of a cartridge that cost “a few dollars to make.”[^1] The Times put typical prices at $25 to $35.[^8]"
+    },
+    {
+     "value": "$180M",
+     "text": "of Atari’s $280 million 1981 operating profit came from cartridges, by one analyst’s estimate.[^1]"
+    },
+    {
+     "value": "$100M+",
+     "text": "estimated advertising budget for 1982, with a research budget “of almost the same size.”[^1]"
+    },
+    {
+     "value": "$25–50M",
+     "text": "estimated 1982 loss in home computers, on sales that quadrupled to about $300 million.[^1]"
+    }
+   ],
+   "source": "The New York Times, December 7 and December 19, 1982[^1][^8]. All four figures are analysts’ or the newspaper’s estimates; Warner did not publish them."
+  },
+  {
+   "kind": "scale",
+   "title": "One year of profit against the price of the name",
+   "subtitle": "Atari’s 1982 operating profit, counted in units of what Hasbro paid for the brand sixteen years later.",
+   "left": {
+    "value": "$323M",
+    "label": "Atari operating profit, 1982"
+   },
+   "unit": {
+    "value": "$5M",
+    "label": "paid by Hasbro Interactive for the Atari assets, 1998"
+   },
+   "count": 65,
+   "icon": "coin",
+   "equation": "$323M ÷ $5M = 64.6, shown as 65 coins. 1982 profit from The New York Times[^6]; 1998 price from the JTS Form 8-K[^13]. Nominal dollars, not adjusted for inflation.",
+   "source": "The New York Times, January 8, 1984[^6]; JTS Corporation Form 8-K, March 1998[^13]."
+  },
+  {
+   "kind": "text",
+   "title": "Why the model broke",
+   "body": "A cartridge that costs a few dollars and sells for more than twenty leaves room for a publisher with no factory and no console to make money. Activision proved it in 1980.[^27] Atari’s answer was litigation: “At one time or another it has sued Activision, Imagic, Coleco, Commodore and Magnavox.”[^1] It did not stop them. By 1983 unsold cartridges were being dumped “on the market at depressed prices,” and the price that had paid for the advertising and the research was gone.[^4]"
+  }
+ ]
+}

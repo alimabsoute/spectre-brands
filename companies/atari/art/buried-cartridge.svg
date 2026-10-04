@@ -1,0 +1,12 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of game cartridges half buried in desert dirt under a slab of concrete, with a shovel">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="296" cy="56" r="24" fill="#e9b949"/>
+<path d="M10 170 C70 150 120 176 180 160 C240 146 300 168 350 156 V290 H10Z" fill="#c9a06c"/>
+<path d="M200 150 l110 -14 l24 30 l-118 18z" fill="#bdb9b1"/><path d="M226 158l40-5M250 170l52-7" stroke="#8d8a84" stroke-width="2"/>
+<g transform="rotate(-18 120 150)"><rect x="72" y="84" width="96" height="110" rx="6" fill="#2b2926"/><rect x="84" y="96" width="72" height="50" rx="3" fill="#f4f1ea"/><path d="M84 110h72" stroke="#c8102e" stroke-width="8"/><circle cx="120" cy="131" r="8" fill="#5f8f5a"/><path d="M92 160h56M92 172h56" stroke="#55514b" stroke-width="2.4"/></g>
+<g transform="rotate(24 220 214)"><rect x="186" y="186" width="70" height="60" rx="5" fill="#2b2926"/><rect x="195" y="194" width="52" height="26" rx="3" fill="#f4f1ea"/><path d="M195 203h52" stroke="#c8102e" stroke-width="6"/></g>
+<path d="M30 214 C90 196 150 226 210 232 C270 238 310 214 350 222 V290 H10 V220Z" fill="#b08655"/>
+<path d="M40 250h30M110 262h40M240 266h46M300 244h26" stroke="#8a6238" stroke-width="2.4"/>
+<path d="M46 60 L74 196" stroke-width="7" stroke="#8a5a33"/><path d="M46 60 L74 196"/><path d="M34 62h24" stroke-width="6"/>
+<path d="M60 190 l30 -6 l6 34 c-4 14 -22 18 -30 6z" fill="#9aa3a8"/>
+</g></svg>
