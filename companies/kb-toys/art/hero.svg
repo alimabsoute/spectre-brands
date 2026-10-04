@@ -1,0 +1,16 @@
+<svg viewBox="0 0 420 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a small mall toy store with a red sign band and bins of toys at the entrance">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="20" y="40" width="380" height="250" rx="4" fill="#fbf9f5"/>
+<rect x="20" y="40" width="380" height="62" fill="#c8102e"/>
+<g fill="#ffd21f"><rect x="62" y="56" width="30" height="30" rx="3"/><rect x="104" y="56" width="30" height="30" rx="3"/><circle cx="170" cy="71" r="15"/><rect x="200" y="56" width="30" height="30" rx="3"/><circle cx="262" cy="71" r="15"/><path d="M294 86 L310 56 L326 86Z"/><rect x="338" y="56" width="30" height="30" rx="3"/></g>
+<rect x="40" y="120" width="92" height="130" fill="#dcebfa"/>
+<rect x="288" y="120" width="92" height="130" fill="#dcebfa"/>
+<rect x="148" y="120" width="124" height="170" fill="#2b2a28"/>
+<g class="screen"><circle cx="66" cy="160" r="14" fill="#ffd21f"/><rect x="88" y="146" width="30" height="30" fill="#2f6fb5"/><path d="M52 232 L70 196 L88 232Z" fill="#c8102e"/><rect x="96" y="200" width="24" height="32" fill="#3f8a5a"/>
+<rect x="302" y="146" width="28" height="28" fill="#c8102e"/><circle cx="352" cy="160" r="14" fill="#3f8a5a"/><rect x="300" y="198" width="34" height="34" fill="#ffd21f"/><circle cx="356" cy="216" r="14" fill="#2f6fb5"/></g>
+<path d="M130 290 L140 236 H200 L208 290Z" fill="#ffd21f"/><path d="M212 290 L220 236 H280 L290 290Z" fill="#2f6fb5"/>
+<circle cx="156" cy="232" r="11" fill="#c8102e"/><circle cx="180" cy="228" r="12" fill="#3f8a5a"/><rect x="232" y="216" width="20" height="20" fill="#c8102e" transform="rotate(-12 242 226)"/><circle cx="264" cy="230" r="10" fill="#ffd21f"/>
+<rect x="146" y="254" width="46" height="22" rx="3" fill="#fbf9f5"/><path d="M154 265h30" /><rect x="228" y="254" width="46" height="22" rx="3" fill="#fbf9f5"/><path d="M236 265h30"/>
+<path d="M8 290h404" stroke-width="4"/>
+<path d="M30 306h60M120 306h90M250 306h130" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

@@ -1,0 +1,269 @@
+{
+ "kicker": "Timeline",
+ "title": "Eighty-seven years, 30 moments",
+ "lede": "From a candy wholesaler in the Berkshires to a trademark that has changed hands three times since the stores closed. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "web": {
+   "label": "Online",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals & market",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Bankruptcy & after",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "Apr 1",
+   "year": "1922",
+   "cat": "corporate",
+   "title": "Kaufman Brothers founded",
+   "text": "Harry and Joseph Kaufman start a candy company in Pittsfield, Massachusetts.",
+   "src": [35]
+  },
+  {
+   "date": "1940s",
+   "year": "",
+   "cat": "corporate",
+   "title": "From candy to toys",
+   "text": "With sugar scarce in wartime, the brothers begin to switch to toys, and later drop confectionery.",
+   "src": [35, 36]
+  },
+  {
+   "date": "1973",
+   "year": "",
+   "cat": "corporate",
+   "title": "Wholesaling ends",
+   "text": "The company gives up wholesale to run its 26 retail stores as Kay-Bee Toy & Hobby.",
+   "src": [36]
+  },
+  {
+   "date": "1981",
+   "year": "",
+   "cat": "money",
+   "title": "Sold to Melville Corporation",
+   "text": "Kay-Bee has 210 stores. A reference history gives the price as $64.2 million.",
+   "src": [36, 35]
+  },
+  {
+   "date": "Jul 1990",
+   "year": "",
+   "cat": "corporate",
+   "title": "Melville buys Circus World",
+   "text": "The 330-store chain, with 1989 sales of $177.6 million, is to become part of the Kay-Bee division.",
+   "src": [9]
+  },
+  {
+   "date": "1993 – 94",
+   "year": "",
+   "cat": "corporate",
+   "title": "Nearly 250 stores closed",
+   "text": "A restructuring closes weaker stores. In 1994 Kay-Bee starts larger Toy Works stores outside malls.",
+   "src": [36]
+  },
+  {
+   "date": "Mar 25",
+   "year": "1996",
+   "cat": "money",
+   "title": "Melville agrees to sell",
+   "text": "Consolidated Stores will pay $315 million: $215 million in cash and a $100 million note.",
+   "src": [8]
+  },
+  {
+   "date": "May 5",
+   "year": "1996",
+   "cat": "corporate",
+   "title": "Consolidated takes over",
+   "text": "The acquisition is effective. Kay-Bee operates 1,042 stores. A later adjustment cuts the cash paid to $185.3 million.",
+   "src": [1]
+  },
+  {
+   "date": "Jan 30",
+   "year": "1999",
+   "cat": "corporate",
+   "title": "The peak: 1,322 stores",
+   "text": "974 of them are in enclosed malls. Fiscal 1998 toy sales are $1,643.0 million, with comparable sales down 0.2%.",
+   "src": [3]
+  },
+  {
+   "date": "May 19",
+   "year": "1999",
+   "cat": "web",
+   "title": "The BrainPlay deal",
+   "text": "Consolidated says it will invest $80 million in a web venture with BrainPlay.com and own 80% of it.",
+   "src": [10]
+  },
+  {
+   "date": "Jun 25",
+   "year": "1999",
+   "cat": "web",
+   "title": "KBkids.com LLC formed",
+   "text": "Consolidated contributes $80 million of cash and intangibles valued at $4 million.",
+   "src": [4]
+  },
+  {
+   "date": "Jul 1999",
+   "year": "",
+   "cat": "money",
+   "title": "A profit warning",
+   "text": "Consolidated warns of a quarterly loss, citing slow video game sales at KB. Its shares fall nearly 30% in a day.",
+   "src": [11]
+  },
+  {
+   "date": "Jan 27",
+   "year": "2000",
+   "cat": "web",
+   "title": "KBkids.com files to go public",
+   "text": "The planned offering is $210 million, under the symbol KBKD.",
+   "src": [4, 13]
+  },
+  {
+   "date": "May 2000",
+   "year": "",
+   "cat": "web",
+   "title": "The web chief is fired",
+   "text": "Consolidated dismisses the head of KBkids.com and 50 of the unit’s other 150 employees.",
+   "src": [12]
+  },
+  {
+   "date": "Jun 13",
+   "year": "2000",
+   "cat": "web",
+   "title": "IPO withdrawn",
+   "text": "KBkids.com pulls the $210 million offering.",
+   "src": [13]
+  },
+  {
+   "date": "Jun 27",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "The toy division is put up for sale",
+   "text": "Consolidated announces it will separate its toy and closeout businesses.",
+   "src": [5]
+  },
+  {
+   "date": "Dec 7",
+   "year": "2000",
+   "cat": "money",
+   "title": "Sold to Bain Capital and management",
+   "text": "Gross proceeds are about $305 million. Consolidated records a $430.8 million after-tax loss on disposal.",
+   "src": [5, 14]
+  },
+  {
+   "date": "Apr 2001",
+   "year": "",
+   "cat": "web",
+   "title": "eToys inventory bought",
+   "text": "KB agrees to pay about $5.4 million for inventory of the bankrupt web retailer eToys.",
+   "src": [16]
+  },
+  {
+   "date": "Sep 2001",
+   "year": "",
+   "cat": "corporate",
+   "title": "KB Toys at Sears",
+   "text": "Sears says it will test holiday toy shops run with KB in 29 department stores.",
+   "src": [39]
+  },
+  {
+   "date": "Apr 2002",
+   "year": "",
+   "cat": "money",
+   "title": "The recapitalization",
+   "text": "KB takes on $66 million of bank loans to fund an $85 million payment to Bain, as reported by Forbes. A court later describes about $120 million distributed in all.",
+   "src": [17, 7]
+  },
+  {
+   "date": "Dec 2003",
+   "year": "",
+   "cat": "rivals",
+   "title": "The holiday price war",
+   "text": "Discounters sell hot toys below wholesale cost. KB’s comparable sales fall 10% for the year. FAO Inc. files for Chapter 11.",
+   "src": [18, 19]
+  },
+  {
+   "date": "Jan 14",
+   "year": "2004",
+   "cat": "death",
+   "title": "First Chapter 11",
+   "text": "KB files for bankruptcy protection. USA Today counts 1,217 stores.",
+   "src": [6, 18]
+  },
+  {
+   "date": "Jan 28",
+   "year": "2004",
+   "cat": "death",
+   "title": "At least 375 stores to close",
+   "text": "KB says it will cut 3,500 jobs. Clearance sales begin at the first 356 stores.",
+   "src": [19]
+  },
+  {
+   "date": "Aug 30",
+   "year": "2005",
+   "cat": "death",
+   "title": "Out of bankruptcy",
+   "text": "KB announces it has emerged, with 640 stores, a Prentice Capital affiliate as majority owner and Gregory Staley as chief executive.",
+   "src": [21, 20]
+  },
+  {
+   "date": "Mar 28",
+   "year": "2006",
+   "cat": "money",
+   "title": "The seller’s lawsuit is dismissed",
+   "text": "A Delaware judge dismisses all counts of Big Lots’ suit against Bain and former KB executives.",
+   "src": [7, 38]
+  },
+  {
+   "date": "Nov 2007",
+   "year": "",
+   "cat": "death",
+   "title": "156 more stores targeted",
+   "text": "The Washington Post reports the closures from internal documents. KB has fewer than 600 stores.",
+   "src": [22]
+  },
+  {
+   "date": "Dec 11",
+   "year": "2008",
+   "cat": "death",
+   "title": "Second Chapter 11, to liquidate",
+   "text": "Comparable sales are down 20% since October 5. Going-out-of-business sales start at once.",
+   "src": [23, 24]
+  },
+  {
+   "date": "Sep 2009",
+   "year": "",
+   "cat": "death",
+   "title": "Toys “R” Us buys the name",
+   "text": "The brand, KBToys.com and trademarks go to a Toys “R” Us subsidiary. No stores are included.",
+   "src": [29]
+  },
+  {
+   "date": "2016",
+   "year": "",
+   "cat": "death",
+   "title": "The trademark lapses and is re-registered",
+   "text": "Toys “R” Us lets the registration expire in June. Strategic Marks picks it up in December.",
+   "src": [30]
+  },
+  {
+   "date": "Mar 2018",
+   "year": "",
+   "cat": "death",
+   "title": "A comeback is announced",
+   "text": "Strategic Marks plans 1,000 pop-up stores for the holidays. By March 2019 none had opened.",
+   "src": [31, 33]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it, and who owned it",
+ "lede": "Roles are given as the sources describe them. Later careers are included only where we found a source.",
+ "people": [
+  {
+   "name": "Harry and Joseph Kaufman",
+   "role": "Founders, 1922",
+   "text": "The brothers founded Kaufman Brothers as a candy company in Pittsfield on April 1, 1922, and turned it toward toys during the Second World War.[^35]"
+  },
+  {
+   "name": "Richard Kaufman",
+   "role": "President until 1981",
+   "text": "Harry’s son. He spent more than 35 years in the business and retired in the year Melville bought it. He died in October 2005, aged 82.[^35]"
+  },
+  {
+   "name": "Howard Kaufman",
+   "role": "Joseph’s son; left in 1986",
+   "text": "He stayed for five years after the sale to Melville.[^26]",
+   "later": "In 2012, aged 86, he told the Berkshire Eagle that “Bain paid the KB management a lot of money to stay in place, but the bulk of the company got nothing.”[^26]"
+  },
+  {
+   "name": "William G. Kelley",
+   "role": "Chairman and CEO, Consolidated Stores",
+   "text": "He bought Kay-Bee in 1996 and in 1999 announced the web venture with BrainPlay.com.[^10] By the time of the sale to Bain, Michael Potter was Consolidated’s chairman and chief executive.[^14]"
+  },
+  {
+   "name": "Michael Glazer",
+   "role": "Chief executive of KB Toys",
+   "text": "He led the management side of the 2000 buyout.[^14] Forbes reported that he received $18 million in the 2002 recapitalization.[^17] He was a defendant in the Big Lots suit that was dismissed in 2006.[^7]"
+  },
+  {
+   "name": "Gregory Staley",
+   "role": "President and CEO from August 2005",
+   "text": "A former president of the U.S. and international units of Toys “R” Us, he was named when KB left its first bankruptcy.[^21] The chief executive was replaced in the summer of 2007.[^22]"
+  },
+  {
+   "name": "Andrew Bailen",
+   "role": "CEO at the second filing, 2008",
+   "text": "A headquarters employee of 18 years told the Berkshire Eagle on the day of the layoffs: “Andy put his blood, sweat and tears into this place.”[^24]"
+  },
+  {
+   "name": "Ellia Kassoff",
+   "role": "Founder, Strategic Marks",
+   "text": "He registered the KB Toys trademark in December 2016 and announced a revival in March 2018.[^30][^31]",
+   "later": "In March 2019 he said the funding had not come together.[^33]"
+  }
+ ]
+}

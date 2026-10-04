@@ -1,0 +1,15 @@
+<svg viewBox="0 0 260 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a toy soldier in a tall black hat and red coat">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M118 22 C118 6 142 6 142 22 L140 44 H120Z" fill="#ffd21f"/>
+<path d="M92 44 H168 L164 118 H96Z" fill="#2b2a28"/>
+<path d="M90 118 C110 108 150 108 170 118 C160 126 100 126 90 118Z" fill="#2f6fb5"/>
+<circle cx="130" cy="150" r="34" fill="#f6d2bd"/>
+<path d="M116 142v10M144 142v10"/><circle cx="130" cy="158" r="5" fill="#f2a79a"/><path d="M116 168 C124 176 136 176 144 168"/>
+<path d="M88 190 C104 180 156 180 172 190 L186 286 H74Z" fill="#c8102e"/>
+<path d="M88 192 L44 236 L58 252 L96 222" fill="#c8102e"/><path d="M172 192 L216 236 L202 252 L164 222" fill="#c8102e"/>
+<circle cx="48" cy="248" r="13" fill="#ffd21f"/><circle cx="212" cy="248" r="13" fill="#ffd21f"/>
+<path d="M112 214h36M112 240h36" stroke="#ffd21f" stroke-width="7"/><path d="M112 214h36M112 240h36" stroke-width="1.5"/>
+<path d="M92 286 H128 V336 H96Z" fill="#2b2a28"/><path d="M132 286 H168 L164 336 H132Z" fill="#2b2a28"/>
+<path d="M88 336 H128 V362 H80 C78 350 82 340 88 336Z" fill="#2f6fb5"/><path d="M132 336 H172 C178 340 182 350 180 362 H132Z" fill="#2f6fb5"/>
+<path d="M50 370h160" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

@@ -1,0 +1,60 @@
+{
+ "kicker": "The old website",
+ "title": "What customers actually saw",
+ "lede": "These are screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. Captures of kbtoys.com from 1998 and of KBkids.com from 2000 survive only as text, with the images missing, so they are quoted below and not shown.[^37]",
+ "snips": [
+  {
+   "text": "“Sorry, we are not selling Furby's Online!”",
+   "when": "kbtoys.com home page · Dec 2, 1998 capture[^37]"
+  },
+  {
+   "text": "“Now two great ways to shop for toys. Shop online anytime with K·B Toys Online, or browse the promotions and values available in our over 1,300 stores nationwide.”",
+   "when": "Page description, kbtoys.com · Dec 2, 1998 capture[^37]"
+  },
+  {
+   "text": "“Welcome to KB Toys. We are one of America's oldest toy retailers. KB Toys is undergoing some changes. Enter your email address below to be notified of our new launch.”",
+   "when": "kbtoys.com · Aug 1, 2009 capture[^37]"
+  },
+  {
+   "text": "“For more information about purchasing the KB Toys brand, please call Streambank”",
+   "when": "kbtoys.com · Aug 1, 2009 capture[^37]"
+  }
+ ],
+ "note": "Screenshots of Internet Archive captures, cropped to the page column. Other captures worth opening: the [December 1998 home page](https://web.archive.org/web/19981202110732/http://www.kbtoys.com:80/) and [KBkids.com in May 2000](https://web.archive.org/web/20000510102455/http://www.kbkids.com/index.html), both without images.",
+ "captures": [
+  {
+   "date": "Dec 2008",
+   "label": "A week before the filing",
+   "url": "http://www.kbtoys.com/",
+   "wayback": "https://web.archive.org/web/20081204072545/http://www.kbtoys.com:80/?",
+   "image": "img/archive-2008-12-home.avif",
+   "h": 480,
+   "captured": "Dec 4, 2008",
+   "title": "A week before the filing",
+   "text": "The holiday home page, with a Holiday Toy Guide tab and links for “Up to 60% Off Select Toys and Games.” The company filed for Chapter 11 seven days later.",
+   "warn": "Several banner images are missing from this capture."
+  },
+  {
+   "date": "Jan 2009",
+   "label": "During the liquidation",
+   "url": "http://www.kbtoys.com/",
+   "wayback": "https://web.archive.org/web/20090102131834/http://www.kbtoys.com:80/",
+   "image": "img/archive-2009-01-closing.avif",
+   "h": 480,
+   "captured": "Jan 2, 2009",
+   "title": "During the liquidation",
+   "text": "Three weeks into the store-closing sales the site was still trading: electronics at up to 60% off, preschool toys at up to 50% off."
+  },
+  {
+   "date": "Aug 2009",
+   "label": "For sale",
+   "url": "http://www.kbtoys.com/",
+   "wayback": "https://web.archive.org/web/20090801120310/http://www.kbtoys.com/",
+   "image": "img/archive-2009-08-after.avif",
+   "h": 480,
+   "captured": "Aug 1, 2009",
+   "title": "For sale",
+   "text": "The store is gone. The page offers the asset purchase agreement and bid procedures for an auction of the brand. Toys “R” Us bought it the following month.[^29]"
+  }
+ ]
+}

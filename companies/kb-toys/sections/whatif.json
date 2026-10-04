@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Keep the cash",
+   "actual": "In April 2002 KB borrowed $66 million and paid out most of its cash on hand, according to creditors, to fund a distribution of about $120 million to Bain, its chief executive and other executives.[^17][^7] It filed for Chapter 11 22 months later, after one bad holiday season in which it skipped vendor payments.[^7][^18]",
+   "whatif": "With that money still in the business, KB would probably have paid its vendors in December 2003 and avoided a filing that winter. It would not have changed what the discounters were charging. Jim Silver of Time to Play magazine told PolitiFact that the chain would have been losing money even with no debt.[^27] The likeliest result is a later and more orderly shrinkage, not survival at 1,200 stores."
+  },
+  {
+   "tab": "Stay a closeout store",
+   "actual": "Under Consolidated, closeouts fell from about 30% of the assortment to about 22% in a year, and toy operating profit dropped from $101.0 million to $46.5 million between fiscal 1997 and 1998.[^3][^4] Later management leaned further into current, full-price toys, which is where Walmart and Target chose to fight.[^27]",
+   "whatif": "A smaller chain selling mostly discontinued and exclusive stock would have had goods the discounters did not carry and could not undercut. The supply of closeouts is limited, so this version of KB is perhaps a few hundred outlet and strip-center stores. Its 114 outlet stores were still open at the end.[^24]"
+  },
+  {
+   "tab": "Leave the mall sooner",
+   "actual": "In January 2000 71% of the stores were in enclosed malls (derived).[^4] Leases typically ran ten years.[^1] In 2004 the company said it was stuck with high rents in malls that had lost their traffic, and its former owner was still guaranteeing about 390 of the leases.[^19][^6]",
+   "whatif": "Kay-Bee had started larger Toy Works stores outside malls in 1994.[^36] Moving faster would have meant paying to exit good leases in the 1990s to avoid bad ones in the 2000s, which is a hard case to make while the stores are profitable. It would also have put KB in strip centers next to Walmart and Target, on their terms."
+  }
+ ]
+}

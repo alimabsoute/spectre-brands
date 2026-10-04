@@ -1,0 +1,259 @@
+{
+ "kicker": "The money",
+ "title": "A thousand stores, three owners and one large dividend",
+ "label": "The numbers",
+ "lede": "For four years KB’s numbers were public, inside the annual reports of Consolidated Stores. They show sales that kept growing and profit that did not. After the December 2000 buyout the company was private, and the figures come from court records and the press.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Stores, from 26 to 1,322 to none",
+   "subtitle": "Stores at each date we could source. The points are not evenly spaced in time.",
+   "labels": ["1973", "1976", "1981", "May 1996", "Jan 1997", "Jan 1998", "Jan 1999", "Jan 2000", "Jan 2004", "Aug 2005", "Dec 2008", "2009"],
+   "format": "num",
+   "xLabel": "Date of count",
+   "series": [
+    {
+     "label": "Stores",
+     "data": [26, 65, 210, 1042, 1184, 1249, 1322, 1320, 1217, 640, 461, 0],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 2,
+     "title": "Sold to Melville",
+     "text": "The Kaufman family sells a 210-store chain in 1981.[^36]"
+    },
+    {
+     "i": 3,
+     "title": "Sold to Consolidated Stores",
+     "text": "1,042 Kay-Bee stores change hands on May 5, 1996.[^1]"
+    },
+    {
+     "i": 6,
+     "title": "The peak",
+     "text": "1,322 toy stores on January 30, 1999, 974 of them in enclosed malls.[^3]"
+    },
+    {
+     "i": 8,
+     "title": "First Chapter 11",
+     "text": "Filed January 14, 2004, with 1,217 stores by USA Today’s count.[^18]"
+    },
+    {
+     "i": 9,
+     "title": "A second start",
+     "text": "Out of bankruptcy in August 2005 with 640 stores.[^21]"
+    },
+    {
+     "i": 10,
+     "title": "Liquidation",
+     "text": "461 stores, 30 of them temporary, when it filed again on December 11, 2008.[^24]"
+    }
+   ],
+   "source": "1973–1981 from a reference history[^36]. May 1996 to January 2000 from Consolidated Stores 10-Ks, which count all of its toy stores, including closeout toy chains it owned before Kay-Bee[^1][^2][^3][^4]. January 2004[^18], August 2005[^21], December 2008 (derived sum of four formats)[^24]. The stores were closed in early 2009[^26]."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "chart",
+     "id": "kbSales",
+     "title": "Toy store sales under Consolidated",
+     "subtitle": "Net sales of the Toy Stores segment, $ millions. Fiscal 1996 includes Kay-Bee only from May 5.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": ["FY1996", "FY1997", "FY1998", "FY1999"],
+      "y": {
+       "format": "usdM",
+       "min": 0
+      },
+      "series": [
+       {
+        "label": "Toy Stores net sales ($M)",
+        "data": [1178.2, 1562.5, 1643.0, 1740.4],
+        "colors": ["grey", "brand", "brand", "brand"]
+       }
+      ]
+     },
+     "source": "Consolidated Stores 10-Ks for fiscal 1996 to 1999[^1][^2][^3][^4]. Fiscal years end around January 31 of the following calendar year. KBkids.com added $26.2M in fiscal 1999 and is not included.[^4]"
+    },
+    {
+     "kind": "chart",
+     "id": "kbProfit",
+     "title": "Profit went the other way",
+     "subtitle": "Operating profit by business group, $ millions.",
+     "chart": {
+      "type": "bar",
+      "labels": ["FY1997", "FY1998", "FY1999"],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Toy stores",
+        "data": [101.0, 46.5, 70.4],
+        "color": "brand"
+       },
+       {
+        "label": "KBkids.com",
+        "data": [null, null, -69.6],
+        "color": "ink"
+       }
+      ]
+     },
+     "source": "Business group table in the fiscal 1999 10-K[^4]. KBkids.com was formed on June 25, 1999, so it has one year of results."
+    }
+   ]
+  },
+  {
+   "kind": "counters",
+   "title": "What Consolidated got for it",
+   "items": [
+    {
+     "value": "$315M",
+     "text": "initial purchase price in 1996, later reduced by a $29.7M adjustment to the cash portion[^1]"
+    },
+    {
+     "value": "$305M",
+     "text": "approximate gross proceeds of the sale in December 2000: $258M cash, a $45M note and a warrant[^5]"
+    },
+    {
+     "value": "$430.8M",
+     "text": "after-tax loss on disposal of the toy segment recorded in fiscal 2000[^5]"
+    },
+    {
+     "value": "$13.2M",
+     "text": "what the seller judged the $45M note to be worth on the day it received it[^6]"
+    }
+   ]
+  },
+  {
+   "kind": "flow",
+   "title": "How a $300 million purchase was paid for",
+   "subtitle": "The December 2000 buyout, as reported by Forbes in 2005. $ millions.",
+   "from": {
+    "label": "purchase price as reported by Forbes. The seller’s 10-K gives gross proceeds of about $305M including a warrant",
+    "value": 300
+   },
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "to": [
+    {
+     "label": "Borrowed by KB from banks",
+     "value": 237,
+     "color": "red",
+     "note": "“$237 million or so from a consortium led by Bank of America’s Fleet unit.”[^17]"
+    },
+    {
+     "label": "Note given to the seller",
+     "value": 45,
+     "color": "gold",
+     "note": "A pay-in-kind note due in December 2010, issued by a holding company with no assets but stock.[^7]"
+    },
+    {
+     "label": "Cash from Bain Capital",
+     "value": 18.1,
+     "color": "green",
+     "note": "The sponsor’s cash, as reported by Forbes.[^17]"
+    }
+   ],
+   "source": "Forbes, April 18, 2005[^17]. Press-reported figures for a private transaction. The parts sum to $300.1M against a rounded $300M price (the $0.1M difference is derived). Structure of the note from the Delaware court opinion[^7]."
+  },
+  {
+   "kind": "bars",
+   "title": "Who received the 2002 distribution",
+   "subtitle": "April 2002, sixteen months after the buyout. $ millions, as reported.",
+   "format": "usdM",
+   "itemLabel": "Recipient",
+   "valueLabel": "Amount",
+   "items": [
+    {
+     "label": "Bain Capital",
+     "value": 85,
+     "color": "brand",
+     "note": "Funded in part by $66M of new bank loans.[^17]"
+    },
+    {
+     "label": "Michael Glazer, chief executive",
+     "value": 18,
+     "color": "ink",
+     "note": "He also had $2M of debt owed to KB cancelled.[^17]"
+    },
+    {
+     "label": "Other executives",
+     "value": 16,
+     "color": "grey",
+     "note": "Split among them.[^17]"
+    },
+    {
+     "label": "Others (derived remainder)",
+     "value": 1,
+     "color": "light",
+     "note": "The court opinion gives approximately $120M in total.[^7] Big Lots received $1.95M for its warrants.[^7]"
+    }
+   ],
+   "source": "Forbes, citing court documents[^17], and the Delaware Court of Chancery’s summary of the complaint[^7]. Bain told Forbes the company had $110M of working capital after the transaction. These amounts were alleged in litigation that was dismissed or settled; no court made findings on them."
+  },
+  {
+   "kind": "waffle",
+   "title": "Where the stores were",
+   "subtitle": "Share of 1,320 toy stores on January 29, 2000.",
+   "itemLabel": "Location",
+   "valueLabel": "Share of stores",
+   "items": [
+    {
+     "label": "Enclosed shopping malls",
+     "value": 71,
+     "color": "brand",
+     "note": "943 stores, averaging about 3,315 selling square feet.[^4]"
+    },
+    {
+     "label": "Strip centers and outlet malls",
+     "value": 29,
+     "color": "grey",
+     "note": "The other 377 stores (derived)."
+    }
+   ],
+   "source": "Fiscal 1999 10-K[^4]. Percentages are derived: 943 ÷ 1,320 = 71%."
+  },
+  {
+   "kind": "bars",
+   "title": "What was left to liquidate",
+   "subtitle": "Stores by format at the second bankruptcy filing, December 11, 2008.",
+   "format": "num",
+   "itemLabel": "Format",
+   "valueLabel": "Stores",
+   "items": [
+    {
+     "label": "KB Toys mall stores",
+     "value": 277,
+     "color": "brand"
+    },
+    {
+     "label": "KB Toy Outlet",
+     "value": 114,
+     "color": "ink"
+    },
+    {
+     "label": "KB Toy Works",
+     "value": 40,
+     "color": "grey"
+    },
+    {
+     "label": "Temporary holiday stores",
+     "value": 30,
+     "color": "light"
+    }
+   ],
+   "source": "The Berkshire Eagle, December 12, 2008, from the court filing[^24]. The total of 461 is derived."
+  },
+  {
+   "kind": "note",
+   "body": "Not shown: any income statement or balance sheet for KB Toys after 2000. The company was private and none was published. Sales of $1.4B at the time of the buyout and $1.5B at the 2004 filing are press figures.[^17][^18]"
+  }
+ ]
+}

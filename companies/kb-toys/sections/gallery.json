@@ -1,0 +1,87 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Red blocks, yellow letters and a toy soldier",
+ "label": "Brand gallery",
+ "lede": "The Kay-Bee of the 1980s had a toy soldier for a mascot. The KB of the 1990s and 2000s had red block capitals and a yellow “toys” with a spiral in the o. Here are the marks as they survive, a store as it stands now, and our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/logo-2009.avif",
+   "date": "2009",
+   "caption": "The last K·B Toys logo, as shown on the website while the brand was for sale.",
+   "credit": "Cropped from an Internet Archive capture of kbtoys.com dated Aug 1, 2009. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/mascot-kay-bee.avif",
+   "date": "Undated",
+   "caption": "A doll of the Kay-Bee toy soldier mascot. The photograph is undated.",
+   "credit": "Photo: Wikicontributor135, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kay-Bee_mascot.jpg), CC0."
+  },
+  {
+   "image": "img/store-rivergate-mall.avif",
+   "date": "After closure",
+   "caption": "A former KB Toys storefront at Rivergate Mall, Goodlettsville, Tennessee, gate down and sign removed, as described by the photographer.",
+   "credit": "Photo: Larry Hachucka, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VINTAGE_Former_KB_Toys;_Rivergate_Mall;_Goodletsville_TN.jpg), CC BY-SA 4.0."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, seven months apart",
+   "ratio": "4/3",
+   "before": {
+    "label": "January 2009",
+    "image": "img/archive-2009-01-closing.avif",
+    "caption": "Still selling during the liquidation, at up to 60% off.[^37]",
+    "alt": "kbtoys.com home page in January 2009 with sale banners"
+   },
+   "after": {
+    "label": "August 2009",
+    "image": "img/archive-2009-08-after.avif",
+    "caption": "The brand itself is the only thing left to sell.[^37]",
+    "alt": "kbtoys.com in August 2009 with a notice that the brand is for sale"
+   },
+   "source": "Internet Archive Wayback Machine captures of kbtoys.com[^37]."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The store.",
+   "caption": "A small shop in an enclosed mall, with bins of bargains at the door to pull in people walking past.[^36]"
+  },
+  {
+   "art": "art/toy-soldier.svg",
+   "title": "The soldier.",
+   "caption": "Our drawing of a toy soldier, after the mascot of the Kay-Bee years. Not the trademarked character."
+  },
+  {
+   "art": "art/bargain-bin.svg",
+   "title": "The bin.",
+   "caption": "Closeouts were about 30% of the assortment in fiscal 1998.[^3]"
+  },
+  {
+   "art": "art/closed-gate.svg",
+   "title": "The gate.",
+   "caption": "277 mall stores were left to close in December 2008.[^24]"
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#d0021b",
+   "label": "Logo red (approx.)"
+  },
+  {
+   "hex": "#fcea1c",
+   "label": "“toys” yellow (approx.)"
+  },
+  {
+   "hex": "#2d5fc4",
+   "label": "Website header blue (approx.)"
+  },
+  {
+   "hex": "#ffff99",
+   "label": "Website sidebar yellow (approx.)"
+  }
+ ],
+ "disclaimer": "Colors were sampled by eye from archived captures[^37] and are approximate. KB Toys and Kay-Bee are trademarks of their respective owners and appear here in historical and editorial context. Drawings are original illustrations, not official assets."
+}

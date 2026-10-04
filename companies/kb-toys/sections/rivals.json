@@ -1,0 +1,66 @@
+{
+ "kicker": "The rivals",
+ "title": "The specialists lost. The discounters did not.",
+ "lede": "In 2001 KB had about 6% of a $30 billion U.S. toy retail market.[^15] Every company on this page that sold mainly toys has since gone through bankruptcy. The two that sold toys as one aisle among many are still open.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Who sold America its toys, and what became of them",
+   "subtitle": "One figure for each, from the period when KB was failing.",
+   "metric": "Position in the toy trade",
+   "items": [
+    {
+     "name": "KB Toys",
+     "status": "ghost",
+     "self": true,
+     "value": "6% → under 2%",
+     "text": "Share of U.S. toy retail in 2001, as reported by the Associated Press, and an analyst’s estimate in 2008.[^15][^23] Liquidated in 2008–09."
+    },
+    {
+     "name": "Walmart",
+     "status": "alive",
+     "value": "about 26%",
+     "text": "Share of the U.S. toy market in 2007, a consultant’s estimate. By then it was the top U.S. toy seller.[^22]"
+    },
+    {
+     "name": "Toys “R” Us",
+     "status": "dead",
+     "statusLabel": "U.S. chain liquidated, 2018",
+     "value": "735 stores",
+     "text": "Taken private for $6.6B in 2005 by a group that included Bain Capital.[^21] Said in March 2018 that it expected to close all 735 U.S. stores.[^31]"
+    },
+    {
+     "name": "FAO Inc.",
+     "status": "dead",
+     "statusLabel": "Bankrupt, Dec 2003",
+     "value": "3 chains",
+     "text": "The parent of FAO Schwarz, Zany Brainy and The Right Start filed for Chapter 11 about a month before KB.[^18]"
+    },
+    {
+     "name": "eToys",
+     "status": "dead",
+     "statusLabel": "Bankrupt, 2001",
+     "value": "$285M of debts",
+     "text": "The web toy retailer, founded in 1996, never made a profit. KB bought part of its inventory for about $5.4M.[^16]"
+    }
+   ],
+   "source": "Figures as cited. The share figures are press-reported estimates and are not on a common basis. Walmart and Target are still operating (general knowledge)."
+  },
+  {
+   "kind": "table",
+   "title": "What each side had",
+   "columns": ["", "KB Toys", "Toy superstore", "Discounter"],
+   "rows": [
+    ["Typical store", "About 3,315 selling sq ft in an enclosed mall[^4]", "A destination store with a far wider range[^22]", "A toy department inside a general store"],
+    ["Why shoppers came", "They were at the mall already[^21]", "Selection[^18]", "Price[^18]"],
+    ["What it did in 2003", "Comparable sales fell 10%[^18]", "Joined the price war[^18]", "Sold hot toys below wholesale cost[^19]"]
+   ],
+   "source": "Fiscal 1999 10-K[^4] and contemporary press[^18][^19][^21][^22]."
+  },
+  {
+   "kind": "quote",
+   "text": "If you ask why are toy retailers hurting, it's because their offering was less and less differentiated from a discounter's.",
+   "who": "Jacques Roizen, Alvarez & Marsal, to USA Today, January 14, 2004[^18]"
+  }
+ ]
+}

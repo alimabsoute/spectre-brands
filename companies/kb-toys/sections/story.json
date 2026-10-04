@@ -1,0 +1,71 @@
+{
+ "kicker": "The story",
+ "title": "The toy store in the mall, and what happened when the mall emptied",
+ "lede": "KB Toys was built on shoppers who had come to the mall for something else. It worked for thirty years. Then the discounters cut toy prices below cost, the malls lost their traffic, and a buyout had already taken the spare cash out.",
+ "chapters": [
+  {
+   "when": "1922 – 1981 · Pittsfield",
+   "title": "Two brothers, candy first",
+   "big": "26",
+   "cap": "retail stores in 1973, when the family gave up wholesaling",
+   "color": "#3F8A5A",
+   "body": "Kaufman Brothers was founded as a candy company in Pittsfield, Massachusetts, on April 1, 1922, by Harry and Joseph Kaufman.[^35] When sugar became scarce during the Second World War the brothers began to move into toys, and in time they dropped confectionery altogether.[^35] A reference history says the toy business came to them as payment for a customer’s debt, and that by 1948 it was the larger of the two.[^36]\n\nThe company wholesaled toys until 1973, when it stopped to concentrate on its 26 retail stores, trading as Kay-Bee Toy & Hobby. It had 65 stores three years later and 210 by 1981.[^36] The name was the founders’ initials. The idea was the suburban mall: a small shop in the path of people who had come to buy something else.[^36]",
+   "image": {
+    "image": "img/mascot-kay-bee.avif",
+    "caption": "A Kay-Bee toy soldier mascot doll. Photo: Wikicontributor135, via Wikimedia Commons, CC0.",
+    "alt": "A doll of the Kay-Bee toy soldier mascot in a tall black hat, red coat and blue boots"
+   }
+  },
+  {
+   "when": "1981 – 1996 · Melville",
+   "title": "A thousand small stores",
+   "big": "1,042",
+   "cap": "Kay-Bee stores on May 5, 1996, in all 50 states and Puerto Rico",
+   "color": "#2F6FB5",
+   "body": "Melville Corporation, a specialty retail group, bought Kay-Bee in 1981. The reference history puts the price at $64.2 million and calls it the largest purchase Melville had made to that point.[^36] Kay-Bee grew by buying other chains. In 1990 Melville agreed to buy Circus World, which ran 330 toy stores in 32 states and had sales of $177.6 million the year before, and folded it into the Kay-Bee division.[^9]\n\nThe formula was to stack discontinued toys bought cheaply from manufacturers at the front of the store to pull mall traffic in, then sell regular lines further back.[^36] It had limits. Kay-Bee closed nearly 250 weaker stores in 1993 and 1994, and by 1995 Walmart, Kmart and Target together had about 40 percent of the U.S. toy market, according to the same history.[^36] Melville planned to spin the chain off, then sold it instead.[^8]",
+   "video": "kaybee1985"
+  },
+  {
+   "when": "1996 – 2000 · Consolidated Stores",
+   "title": "A closeout company buys a toy chain",
+   "big": "$315M",
+   "cap": "initial price paid to Melville in 1996: $215M in cash and $100M of notes",
+   "color": "#16161A",
+   "body": "Consolidated Stores, the Ohio owner of Odd Lots and Big Lots, bought Kay-Bee effective May 5, 1996.[^1] It shortened the name to KB and pushed more closeout merchandise through the stores. Sales at its toy stores rose from $1.56 billion in fiscal 1997 to $1.74 billion in fiscal 1999, and the store count peaked at 1,322 in January 1999.[^2][^3][^4]\n\nThe trouble was profit. Operating profit in toys fell from $101.0 million in fiscal 1997 to $46.5 million a year later.[^4] In June 1999 Consolidated put $80 million into KBkids.com, a web joint venture with BrainPlay.com.[^4] In its first six months the site spent $58.7 million on sales and marketing and took in $26.2 million of sales.[^4] A planned $210 million IPO of the site was withdrawn in June 2000.[^13] Two weeks later Consolidated said it would sell the whole toy division.[^5]",
+   "video": "kbkids1999"
+  },
+  {
+   "when": "2000 – 2004 · Bain Capital",
+   "title": "The buyout, the dividend and the price war",
+   "big": "$85M",
+   "cap": "paid to Bain Capital in April 2002, as reported by Forbes from court documents",
+   "color": "#C8102E",
+   "body": "The sale closed on December 7, 2000, to an affiliate of Bain Capital working with KB’s management. Consolidated reported gross proceeds of about $305 million: $258 million in cash, a note with a face value of $45 million and a warrant. It booked a $430.8 million after-tax loss on the disposal.[^5] Forbes later reported that Bain put down $18.1 million in cash and that KB borrowed about $237 million.[^17]\n\nIn April 2002 KB borrowed $66 million more to fund an $85 million payment to Bain. The chief executive, Michael Glazer, received $18 million.[^17] A Delaware court later put the total distributed at approximately $120 million.[^7] Bain said the company was left with ample working capital.[^17]\n\nThen came Christmas 2003. Discount chains sold some of the season’s most wanted toys below wholesale cost, in what USA Today called a price war among Walmart, Target and Toys “R” Us.[^19][^18] KB’s sales at stores open at least a year fell 10 percent, and it skipped vendor payments in December.[^18] It filed for Chapter 11 on January 14, 2004.[^6]",
+   "art": "art/bargain-bin.svg",
+   "artCaption": "The closeout bin at the front of the store was the formula. Original illustration."
+  },
+  {
+   "when": "2004 – 2009 · The second failure",
+   "title": "Half the stores, then none",
+   "big": "−20%",
+   "cap": "change in comparable-store sales, Oct 5 to Dec 8, 2008, from the bankruptcy filing",
+   "color": "#C8102E",
+   "body": "KB closed more than 600 stores and laid off 3,400 people in its first bankruptcy.[^24] It announced on August 30, 2005 that it had emerged, with 640 stores and a new majority owner, an affiliate of Prentice Capital Management, which paid $20 million for 90 percent of the stock.[^20][^21] Bain’s debt was gone. The format was the same.\n\nIn November 2007 the Washington Post reported that 156 more stores were marked for closure, and quoted a retail researcher: “I just think that KB Toys is in a death spiral.”[^22] A year later the recession arrived in the middle of the holiday season. KB filed again on December 11, 2008, this time to liquidate: 277 mall stores, 114 outlets, 40 KB Toy Works stores and 30 holiday stores.[^24] By February 2009 the remaining employees had been let go.[^26]",
+   "art": "art/closed-gate.svg",
+   "artCaption": "A mall storefront after the liquidation sale. Original illustration."
+  },
+  {
+   "when": "2009 – 2026 · The name",
+   "title": "A brand without a store",
+   "big": "$2.1M",
+   "cap": "reported price Toys “R” Us paid for the name, logo and web addresses in 2009",
+   "color": "#8A6212",
+   "body": "By the summer of 2009 the website carried a notice that the brand was for sale.[^37] Toys “R” Us bought it that September through a subsidiary, for a reported $2.1 million, and redirected KBToys.com to one of its own sites.[^29][^30] It let the trademark registration expire in June 2016. Strategic Marks, a California company that collects lapsed brand names, registered it that December.[^30]\n\nWhen Toys “R” Us itself collapsed in March 2018, Strategic Marks announced 1,000 KB Toys pop-up stores for that Christmas.[^31] None opened. The founder said toy makers and mall owners would not invest.[^33] Today the name is used by KBToysverse, an online shop run by two former KB store employees, which sells collectible miniature shopping buckets and says it holds a license from the brand’s owners.[^34]",
+   "image": {
+    "image": "img/archive-2009-08-after.avif",
+    "caption": "kbtoys.com in August 2009, with the brand up for auction.[^37]",
+    "alt": "The KB Toys logo above a notice that the brand is for sale through Streambank"
+   }
+  }
+ ]
+}

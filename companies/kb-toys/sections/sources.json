@@ -1,0 +1,205 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Primary sources first. KB Toys never filed with the SEC under its own name. For 1996–2000 its numbers come from the annual reports of its owner, Consolidated Stores (later Big Lots, CIK 768835). After the December 2000 buyout it was private, and its figures come from court records and press reports, which are labeled as such.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Consolidated Stores Corp. — [Form 10-K, fiscal 1996](https://www.sec.gov/Archives/edgar/data/768835/0000950152-97-003107.txt) (year ended Feb 1, 1997), filed Apr 23, 1997."
+  },
+  {
+   "id": 2,
+   "text": "Consolidated Stores Corp. — [Form 10-K, fiscal 1997](https://www.sec.gov/Archives/edgar/data/768835/0000950152-98-003456.txt) (year ended Jan 31, 1998), filed Apr 22, 1998."
+  },
+  {
+   "id": 3,
+   "text": "Consolidated Stores Corp. — [Form 10-K, fiscal 1998](https://www.sec.gov/Archives/edgar/data/768835/0000950152-99-003503.txt) (year ended Jan 30, 1999), filed Apr 26, 1999."
+  },
+  {
+   "id": 4,
+   "text": "Consolidated Stores Corp. — [Form 10-K, fiscal 1999](https://www.sec.gov/Archives/edgar/data/768835/0000950152-00-003270.txt) (year ended Jan 29, 2000), filed Apr 28, 2000."
+  },
+  {
+   "id": 5,
+   "text": "Consolidated Stores Corp. — [Form 10-K, fiscal 2000](https://www.sec.gov/Archives/edgar/data/768835/000095015201501312/0000950152-01-501312.txt) (year ended Feb 3, 2001; discontinued operations note), filed May 1, 2001."
+  },
+  {
+   "id": 6,
+   "text": "Big Lots, Inc. — [Form 10-K, fiscal 2004](https://www.sec.gov/Archives/edgar/data/768835/000120677405000641/0001206774-05-000641.txt) (Note 3, “KB Toys Matters”), filed Apr 18, 2005."
+  },
+  {
+   "id": 7,
+   "text": "Delaware Court of Chancery — [Big Lots Stores, Inc. v. Bain Capital Fund VII, LLC, C.A. No. 1081-N, memorandum opinion](https://courts.delaware.gov/opinions/download.aspx?ID=73930), Vice Chancellor Lamb, decided Mar 28, 2006. The facts it recites are the allegations of Big Lots’ complaint."
+  },
+  {
+   "id": 8,
+   "text": "Los Angeles Times — [“Kay-Bee Toys Is Bought for $315 Million”](https://www.latimes.com/archives/la-xpm-1996-03-26-fi-51345-story.html), Mar 26, 1996."
+  },
+  {
+   "id": 9,
+   "text": "Los Angeles Times (United Press International) — [“Melville Agrees to Buy Chain of Toy Stores”](https://www.latimes.com/archives/la-xpm-1990-07-05-fi-447-story.html), Jul 5, 1990."
+  },
+  {
+   "id": 10,
+   "text": "CNNfn — [“KBToys strikes Web deal”](https://web.archive.org/web/20011210021218/http://money.cnn.com/1999/05/19/deals/consolidated/index.htm), May 19, 1999 (Internet Archive copy)."
+  },
+  {
+   "id": 11,
+   "text": "Los Angeles Times (Bloomberg News) — [“Consolidated Stores Sees Quarterly Loss”](https://www.latimes.com/archives/la-xpm-1999-jul-09-nc-54473-story.html), Jul 9, 1999."
+  },
+  {
+   "id": 12,
+   "text": "Los Angeles Times (Bloomberg News) — [“Loss Widens for Consolidated Stores”](https://www.latimes.com/archives/la-xpm-2000-may-18-fi-31303-story.html), May 18, 2000."
+  },
+  {
+   "id": 13,
+   "text": "CNNfn — [“KBkids.com, ZEBU ax IPOs”](https://web.archive.org/web/20021008190723/http://money.cnn.com/2000/06/13/deals/kbkids/index.htm), Jun 13, 2000 (Internet Archive copy)."
+  },
+  {
+   "id": 14,
+   "text": "CNNfn — [“KB Toys finds buyer”](https://web.archive.org/web/20181010215101/https://money.cnn.com/2000/12/08/deals/kbtoys/), Dec 8, 2000 (Internet Archive copy)."
+  },
+  {
+   "id": 15,
+   "text": "Los Angeles Times (Associated Press, Justin Pope) — [“Newly Private KB Toys Thinks Long-Term”](https://www.latimes.com/archives/la-xpm-2001-apr-19-fi-52846-story.html), Apr 19, 2001."
+  },
+  {
+   "id": 16,
+   "text": "Los Angeles Times (Bloomberg News) — [“KB Toys to Pay $5.4 Million for EToys’ Assets”](https://www.latimes.com/archives/la-xpm-2001-apr-27-fi-56327-story.html), Apr 27, 2001."
+  },
+  {
+   "id": 17,
+   "text": "Forbes — Nathan Vardi, [“Toy Story”](https://www.forbes.com/forbes/2005/0418/060.html), Apr 18, 2005. Buyout and recapitalization figures, citing court documents and creditors."
+  },
+  {
+   "id": 18,
+   "text": "USA Today — Lorrie Grant, [“KB Toys files for Chapter 11 after cutthroat holiday season”](https://usatoday30.usatoday.com/money/industries/retail/2004-01-14-kb-bankruptcy_x.htm), Jan 14, 2004."
+  },
+  {
+   "id": 19,
+   "text": "Los Angeles Times — Abigail Goldman, [“KB Toys to Cut 3,500 Jobs, Close 375 Stores”](https://www.latimes.com/archives/la-xpm-2004-jan-29-fi-kb29-story.html), Jan 29, 2004."
+  },
+  {
+   "id": 20,
+   "text": "Los Angeles Times — [“Reorganization Plan for KB Toys Approved”](https://www.latimes.com/archives/la-xpm-2005-aug-19-fi-rup19.6-story.html), Aug 19, 2005."
+  },
+  {
+   "id": 21,
+   "text": "Los Angeles Times — [“KB Toys Exits Chapter 11 in Time to Enjoy Holidays”](https://www.latimes.com/archives/la-xpm-2005-aug-31-fi-kb31-story.html), Aug 31, 2005."
+  },
+  {
+   "id": 22,
+   "text": "The Washington Post — Ylan Q. Mui, [“What’s the Toy Story?”](https://www.washingtonpost.com/wp-dyn/content/article/2007/11/02/AR2007110201892.html), Nov 3, 2007."
+  },
+  {
+   "id": 23,
+   "text": "Los Angeles Times — Andrea Chang and Mark Medina, [“KB Toys, citing bleak sales, files for bankruptcy again”](https://www.latimes.com/archives/la-xpm-2008-dec-12-fi-kbtoys12-story.html), Dec 12, 2008."
+  },
+  {
+   "id": 24,
+   "text": "The Berkshire Eagle — Darren Vanden Berge, [“Massive layoffs at KB”](https://web.archive.org/web/20180516014819/http://www.berkshireeagle.com/stories/massive-layoffs-at-kb,72176), Dec 12, 2008 (Internet Archive copy)."
+  },
+  {
+   "id": 25,
+   "text": "ICv2 — [“Sayonara KB Toys! Second Chapter 11 Ends in Liquidation”](https://icv2.com/print/article/13908), Dec 11, 2008."
+  },
+  {
+   "id": 26,
+   "text": "The Berkshire Eagle — Clarence Fanto, [“Bain Capital’s role in KB Toys’ demise still a point of controversy”](https://web.archive.org/web/20180622175113/http://www.berkshireeagle.com/stories/bain-capitals-role-in-kb-toys-demise-still-a-point-of-controversy,275080), Oct 28, 2012 (Internet Archive copy)."
+  },
+  {
+   "id": 27,
+   "text": "PolitiFact — Becky Bowers, [“Video blames Bain Capital for demise of KB Toys”](https://www.politifact.com/factchecks/2012/jan/13/winning-our-future/video-blames-bain-capital-demise-kb-toys/), Jan 13, 2012."
+  },
+  {
+   "id": 28,
+   "text": "Troutman Pepper — Andrew Hulsh and Soumya Sharma, [“Leveraged Dividend Recapitalizations”](https://www.troutman.com/insights/leveraged-dividend-recapitalizations/), Nov 24, 2016."
+  },
+  {
+   "id": 29,
+   "text": "Earnshaw’s — [“Toys ‘R’ Us Acquires KB Toys Brand”](https://www.earnshaws.com/news/toys-r-us-acquires-kb-toys-brand/), Sep 11, 2009."
+  },
+  {
+   "id": 30,
+   "text": "MassLive (The Republican) — Jim Kinney, [“With Toys ‘R’ Us on its deathbed, once Pittsfield-based KB Toys poised for resurrection”](https://www.masslive.com/business-news/2018/03/kb_toys.html), Mar 20, 2018."
+  },
+  {
+   "id": 31,
+   "text": "CNNMoney — Aaron Smith, [“KB Toys aims to fill the void of Toys ‘R’ Us”](https://web.archive.org/web/20180320204855/http://money.cnn.com/2018/03/20/news/companies/kb-toys-toys-r-us/index.html), Mar 20, 2018 (Internet Archive copy)."
+  },
+  {
+   "id": 32,
+   "text": "Toy World Magazine — [“KB Toys relaunch pushed back to 2019”](https://toyworldmag.co.uk/world-news/kb-toys-relaunch-pushed-back-to-2019/), Nov 6, 2018."
+  },
+  {
+   "id": 33,
+   "text": "The Toy Book — James Zahn, [“KB Toys Relaunch? Strategic Marks is Still Seeking Funding”](https://toybook.com/kb-toys-relaunch-strategic-marks-is-still-seeking-funding/), Mar 15, 2019."
+  },
+  {
+   "id": 34,
+   "text": "KBToysverse — [home page](https://kbtoysverse.com/), [“About Us”](https://kbtoysverse.com/pages/our-story) and [FAQ](https://kbtoysverse.com/pages/kbtoysverse-faq), read on Oct 3, 2026. The company’s own description of its license and products."
+  },
+  {
+   "id": 35,
+   "text": "The Berkshire Eagle — Jenn Smith, [“Former KB Toys owner dies”](https://web.archive.org/web/20150306042728/http://www.berkshireeagle.com/headlines/ci_3119145), Oct 15, 2005 (Internet Archive copy)."
+  },
+  {
+   "id": 36,
+   "text": "Reference for Business — [“KB Toys”](https://www.referenceforbusiness.com/history2/43/KB-Toys.html), a reprint of the International Directory of Company Histories entry (Gale). Secondary source, used for the years before electronic filing."
+  },
+  {
+   "id": 37,
+   "text": "Internet Archive Wayback Machine — [captures of kbtoys.com](https://web.archive.org/web/*/kbtoys.com), Dec 1998 – Aug 2009 (individual capture links in the Old website section)."
+  },
+  {
+   "id": 38,
+   "text": "Tulsa World (Associated Press) — [“Court dismisses Big Lots lawsuit over KB Toys deal”](https://www.tulsaworld.com/archives/court-dismisses-big-lots-lawsuit-over-kb-toys-deal/article_5b51dbcf-a561-517b-ac5d-292c1e960196.html), Mar 30, 2006."
+  },
+  {
+   "id": 39,
+   "text": "Los Angeles Times (Reuters) — [“Sears to Open Test Sites With KB Toys”](https://www.latimes.com/archives/la-xpm-2001-sep-20-fi-47678-story.html), Sep 20, 2001."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Private-company figures",
+   "text": "after December 2000 KB Toys published no accounts. The buyout financing ($18.1M of Bain cash, about $237M of borrowing), the 2002 payments ($85M to Bain, $18M to the chief executive, $16M to other executives, $66M of bank loans), the $76M of fiscal 2001 operating income and the $1.4B and $1.5B sales figures are press-reported, mainly by Forbes citing court documents, creditors and Bain. They are not audited figures."
+  },
+  {
+   "label": "Figures that disagree",
+   "text": "the 2000 sale price is given as about $305M of gross proceeds in the seller’s 10-K ($258M cash, a $45M note and a warrant), $257.1M of cash plus the note in the court opinion, $300M by Forbes and $302M by the Berkshire Eagle. The 2002 distribution is “approximately $120 million” in the court opinion and $121M in press reports. The store count at the January 2004 filing is 1,217 (USA Today), 1,200 (Los Angeles Times) or 1,231 (Washington Post). The return to Bain is 370% in Forbes and “in excess of 900%” in Big Lots’ complaint. We use the primary source where there is one and say which figure is which."
+  },
+  {
+   "label": "Derived values",
+   "text": "461 stores in December 2008 (277 + 114 + 40 + 30). The 71% mall share in January 2000 (943 ÷ 1,320) and the 377 other stores (1,320 − 943). The $1.77B of fiscal 1999 sales including the website ($1,740.4M + $26.2M). The $1M remainder in the 2002 distribution ($120M − $85M − $18M − $16M). The $0.1M difference in the buyout flow. KBkids.com marketing per dollar of sales ($58.7M ÷ $26.2M = $2.24). The counts of years between events."
+  },
+  {
+   "label": "Estimates",
+   "text": "KB’s 6% share of a $30B toy retail market in 2001 is as reported by the Associated Press. “Less than 2%” in 2008 is analyst Sean McGowan’s estimate. Walmart’s share of about 26% in 2007 is consultant Howard Davidowitz’s estimate. Ellia Kassoff’s “half a billion dollars” of stranded toys in 2018 is his own assumption."
+  },
+  {
+   "label": "Unverified or not found",
+   "text": "the exact day the last store closed. Secondary sources give February 9, 2009; we found no primary source and say “early 2009.” The terms of the creditors’ settlement with Bain and the former executives were not disclosed. The price Strategic Marks paid for the trademark is unknown; CNNMoney wrote that it bought the brand from Bain Capital, while MassLive, citing a federal database, wrote that it registered the mark after Toys “R” Us let it expire, and we follow MassLive. We could not confirm from the trademark office who owns the KB Toys mark today; the licensing claim is KBToysverse’s own. The 1981 sale price of $64.2M and the store counts for 1973–1981 come from a reference history, not from a filing."
+  },
+  {
+   "label": "Store counts",
+   "text": "counts for fiscal 1996–1999 are the “Toy Stores” line in Consolidated’s 10-Ks, which includes the closeout toy stores it owned before buying Kay-Bee (Toy Liquidators and others). Temporary holiday stores are excluded from those year-end counts but included in the December 2008 total."
+  },
+  {
+   "label": "Fiscal years",
+   "text": "Consolidated’s fiscal years end around January 31. “Fiscal 1996” ended February 1, 1997 and includes Kay-Bee only from May 5, 1996."
+  },
+  {
+   "label": "Video dates",
+   "text": "the 1985 commercial’s air date and the 1999 dates of the KBkids.com spots come from the uploaders. The Associated Press bulletin is dated to December 2008 by its content and YouTube’s listing; we did not confirm the exact day."
+  },
+  {
+   "label": "Archive",
+   "text": "Wayback captures of kbtoys.com from 1998 and of kbkids.com from 2000 survive without their images and are quoted as text only. The December 2008 capture is missing several banners."
+  },
+  {
+   "label": "General knowledge",
+   "text": "Walmart and Target are still operating. The Toys “R” Us name was later revived by new owners after the 2018 liquidation; that revival is outside the scope of this page."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a wire bin piled with closeout toys and a large price tag">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="110" cy="112" r="30" fill="#ffd21f"/><path d="M84 100 C100 118 122 120 138 104" stroke-width="2"/>
+<rect x="150" y="70" width="56" height="56" fill="#2f6fb5" transform="rotate(10 178 98)"/>
+<path d="M214 130 L244 62 L276 130Z" fill="#3f8a5a"/>
+<rect x="60" y="110" width="46" height="34" rx="6" fill="#c8102e" transform="rotate(-14 83 127)"/>
+<circle cx="72" cy="150" r="9" fill="#2b2a28"/><circle cx="104" cy="142" r="9" fill="#2b2a28"/>
+<circle cx="268" cy="126" r="22" fill="#c8102e"/>
+<path d="M40 140 H300 L276 262 H64Z" fill="#fbf9f5"/>
+<path d="M92 140 L104 262M146 140 L150 262M200 140 L196 262M252 140 L240 262M46 180H294M54 222H284" stroke-width="2"/>
+<path d="M56 262v18M284 262v18"/><circle cx="56" cy="286" r="6" fill="#2b2a28"/><circle cx="284" cy="286" r="6" fill="#2b2a28"/>
+<g transform="rotate(8 280 80)"><path d="M250 40 H322 L340 66 L322 92 H250Z" fill="#ffd21f"/><circle cx="322" cy="66" r="5" fill="#fbf9f5"/><path d="M262 56h34M262 68h44M262 80h26" stroke-width="2.4"/></g>
+<path d="M330 62 C346 40 340 22 320 14" stroke-width="2"/>
+<path d="M20 292h320" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

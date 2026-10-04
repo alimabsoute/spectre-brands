@@ -1,0 +1,61 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Toy soldiers, a web launch and two farewells",
+ "lede": "Kay-Bee advertised to parents in the weeks before Christmas for more than twenty years. Here are two of its campaigns, a founder’s nephew talking in the week the company failed, the news of the comeback that did not happen, and a later look back.",
+ "videos": [
+  {
+   "id": "kaybee1985",
+   "title": "Kay-Bee Toy Stores holiday commercial",
+   "year": 1985,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "WelD5pCFeKU",
+   "caption": "A thirty-second holiday spot from the Melville years. The uploader says it aired on December 8, 1985; we could not confirm the date independently."
+  },
+  {
+   "id": "kbkids1999",
+   "title": "Five KBkids.com holiday commercials",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "xWRBBdS9-e4",
+   "caption": "Five thirty-second spots for the new website, dated 1999 by the uploader. KBkids.com spent $58.7 million on sales and marketing between June 25 and December 31, 1999.[^4]"
+  },
+  {
+   "id": "kaufman2008",
+   "title": "A talk with Howard Kaufman",
+   "year": 2008,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "6-EDo5SNhCQ",
+   "caption": "Howard Kaufman, son of co-founder Joseph Kaufman and a former president of the family business, uploaded on December 16, 2008, five days after the second bankruptcy filing, with a link to the Berkshire Eagle’s coverage.[^26]"
+  },
+  {
+   "id": "ap2008",
+   "title": "Associated Press: “Money Minute: KB Toys, Lehman, Taxes”",
+   "year": 2008,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "ueSnqb7lsJg",
+   "caption": "A one-minute wire bulletin that leads with the KB Toys filing. Dated to December 2008 by its content; the exact air date is not confirmed."
+  },
+  {
+   "id": "cbs2018",
+   "title": "CBS Philadelphia: “KB Toys Plans To Make Comeback After Toys ‘R’ Us Closures”",
+   "year": 2018,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "wlSq2C3vSYc",
+   "caption": "A local news brief from March 2018 on the plan for pop-up stores by Christmas. The stores never opened.[^33]"
+  },
+  {
+   "id": "companyman",
+   "title": "Company Man: “The Decline of KB Toys...What Happened?”",
+   "year": 2021,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "kP9w6O3M5HQ",
+   "caption": "An eleven-minute independent retrospective published in November 2021. Its figures are the uploader’s; ours are in the sections above."
+  }
+ ]
+}

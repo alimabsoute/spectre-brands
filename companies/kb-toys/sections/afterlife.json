@@ -1,0 +1,110 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Licensed",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "KBToysverse, an online shop founded by two former KB store employees, sells new KB Toys collectibles and says it operates “under a licensing agreement with the owners of the KB Toys® brand.”[^34] We could not confirm the current registrant from trademark records."
+  },
+  {
+   "status": "Never opened",
+   "color": "var(--red)",
+   "title": "The 2018 comeback",
+   "text": "Strategic Marks announced 1,000 pop-up stores for Christmas 2018, then 400 to 600, then a delay to 2019.[^31][^32] In March 2019 its founder said the money had not been raised.[^33]"
+  },
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The stores",
+   "text": "All 461 were closed in going-out-of-business sales that began in December 2008.[^24] The company had 10,850 employees at the filing, about 6,500 of them seasonal.[^24]"
+  },
+  {
+   "status": "Closed",
+   "color": "var(--mute)",
+   "title": "Pittsfield",
+   "text": "The headquarters at 100 West Street planned to lay off 240 of its 270 employees between the filing and February 2009.[^24] A former mayor of nearby North Adams was still telling the story on the campaign trail in 2012.[^26]"
+  },
+  {
+   "status": "Written down",
+   "color": "var(--mute)",
+   "title": "The seller’s note",
+   "text": "Big Lots valued its $45M note at $13.2M on the day of the sale and at $7.3M after the 2004 bankruptcy. It was also left with guarantee or indemnification obligations on about 390 KB store leases.[^6]"
+  },
+  {
+   "status": "Settled",
+   "color": "var(--blue)",
+   "title": "The lawsuits",
+   "text": "A Delaware judge dismissed Big Lots’ suit against Bain and former KB executives on March 28, 2006.[^7] The creditors’ claims over the 2002 payout were settled; the terms were not disclosed.[^25][^28]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the name",
+   "subtitle": "Six owners of the business, then three of the trademark.",
+   "nodes": [
+    {
+     "when": "1922",
+     "owner": "The Kaufman family",
+     "what": "Kaufman Brothers, a candy company in Pittsfield, becomes Kay-Bee, a toy retailer.[^35][^36]"
+    },
+    {
+     "when": "1981",
+     "owner": "Melville Corporation",
+     "what": "Buys a chain of 210 stores and grows it past 1,000.[^36]",
+     "price": "$64.2M (reference history)"
+    },
+    {
+     "when": "May 1996",
+     "owner": "Consolidated Stores",
+     "what": "Buys 1,042 stores and renames the chain KB.[^1]",
+     "price": "$315M"
+    },
+    {
+     "when": "Dec 2000",
+     "owner": "Bain Capital and management",
+     "what": "A leveraged buyout. The seller books a $430.8M after-tax loss.[^5]",
+     "price": "about $305M"
+    },
+    {
+     "when": "Jan 2004",
+     "owner": "Chapter 11",
+     "what": "Files after the 2003 price war and closes more than 600 stores.[^6][^24]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Aug 2005",
+     "owner": "Prentice Capital Management",
+     "what": "An affiliate pays for 90% of the stock of the reorganized company.[^20]",
+     "price": "$20M"
+    },
+    {
+     "when": "Dec 2008",
+     "owner": "Chapter 11 again",
+     "what": "Files to liquidate all 461 stores.[^24]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Sep 2009",
+     "owner": "Toys “R” Us",
+     "what": "Buys the brand, website and trademarks through a subsidiary, CE Stores.[^29]",
+     "price": "$2.1M (reported)"
+    },
+    {
+     "when": "Dec 2016",
+     "owner": "Strategic Marks",
+     "what": "Registers the trademark after Toys “R” Us lets it expire in June 2016.[^30]"
+    },
+    {
+     "when": "Today",
+     "owner": "KBToysverse (licensee)",
+     "what": "Sells KB Toys branded collectibles online. No stores.[^34]",
+     "status": "current"
+    }
+   ],
+   "source": "Sources as cited on each step. The $2.1M figure is from press reports repeated by MassLive[^30]. The price paid by Strategic Marks, if any, is unknown."
+  }
+ ]
+}

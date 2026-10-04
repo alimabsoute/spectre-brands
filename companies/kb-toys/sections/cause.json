@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "Discounters made toys a loss leader",
+   "text": "In the 2003 holiday season discount chains sold some of the hottest toys below wholesale cost, average toy prices fell 8%, and KB’s comparable sales fell 10%.[^18][^19] By 2007 one consultant put Walmart’s share of U.S. toy sales at about 26%.[^22] KB’s share went from 6% of the market in 2001 to an analyst’s estimate of less than 2% in 2008.[^15][^23]"
+  },
+  {
+   "weight": 25,
+   "title": "A format tied to the enclosed mall",
+   "text": "In January 2000, 943 of 1,320 stores were in enclosed malls, and the average one had about 3,315 square feet of selling space.[^4] In 2004 KB said it was locked into high rents in hundreds of ailing malls that no longer drew enough traffic.[^19] The stores were too small to match the range of a superstore.[^22]"
+  },
+  {
+   "weight": 20,
+   "title": "The buyout debt and the 2002 payout",
+   "text": "Forbes reported $18.1M of sponsor cash in a $300M purchase, and about $120M was distributed in 2002, 22 months before the filing.[^17][^7] Creditors said the payout left the company insolvent. Bain said it did not.[^17] The seller’s suit was dismissed and the creditors’ suit was settled.[^7][^28] Less cash meant less room to survive one bad Christmas."
+  },
+  {
+   "weight": 10,
+   "title": "No stable strategy",
+   "text": "Closeouts were about 30% of the assortment in fiscal 1998 and about 22% a year later.[^3][^4] Toy operating profit halved in fiscal 1998.[^4] The website lost $69.6M in its first partial year.[^4] An analyst told PolitiFact that the later shift toward full-price hot toys put KB in a price fight it could not win.[^27]"
+  },
+  {
+   "weight": 10,
+   "title": "The 2008 recession",
+   "text": "The second filing blamed a sudden and sharp decline in consumer sales. Comparable sales fell 20% between October 5 and December 8, 2008, and management concluded that liquidation was the best option.[^23][^24]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The role of the 2002 dividend was contested in court and never decided. We weight it below competition because the chain failed a second time, in 2008, under a different owner and without that debt."
+}

@@ -1,0 +1,121 @@
+{
+ "name": "KB Toys",
+ "number": "006",
+ "tier": "ghost",
+ "tierWhy": "The store chain was liquidated after its second bankruptcy in December 2008, but the name is in use again: a small online business, KBToysverse, sells new KB Toys collectibles under what it describes as a license from the brand’s owners.[^24][^34]",
+ "category": "retail",
+ "cause": "competition",
+ "years": "1922 – 2009",
+ "died": 2009,
+ "dates": [
+  {
+   "date": "1922-04-01",
+   "text": "was founded in Pittsfield, Massachusetts, as Kaufman Brothers, a candy wholesaler"
+  },
+  {
+   "date": "2000-12-07",
+   "text": "was sold by Consolidated Stores to an affiliate of Bain Capital"
+  },
+  {
+   "date": "2004-01-14",
+   "text": "filed for Chapter 11 after a holiday price war with Walmart and Target"
+  },
+  {
+   "date": "2008-12-11",
+   "text": "filed for Chapter 11 a second time and began liquidating every store"
+  }
+ ],
+ "place": "Mall toy stores · Pittsfield, Massachusetts",
+ "title": "KB Toys (1922–2009): post-mortem · Spectre Brands",
+ "description": "The toy store in the mall: a sourced post-mortem of KB Toys, from a Pittsfield candy wholesaler to 1,322 stores, a leveraged buyout, two bankruptcies and a name that is still for sale.",
+ "theme": {
+  "accent": "#c8102e",
+  "soft": "#fdeef0"
+ },
+ "card": {
+  "blurb": "The toy store in the mall. It had 1,322 stores when Walmart started selling the season’s hottest toys below cost, and a buyout that had already taken about $120 million out.",
+  "stat": {
+   "value": "1,322",
+   "label": "stores in January 1999. None ten years later."
+  },
+  "spark": [
+   26,
+   210,
+   1042,
+   1322,
+   1217,
+   640,
+   461,
+   0
+  ],
+  "peak": 3,
+  "logo": "img/logo-2009.avif",
+  "logoYear": "2009"
+ },
+ "hero": {
+  "dates": "Founded Apr 1, 1922. Filed for its second Chapter 11 on Dec 11, 2008 and closed its stores in early 2009.",
+  "standfirst": "For three decades it was the toy store you walked past on the way to somewhere else. Then the shoppers stopped walking past.",
+  "deck": "KB Toys began as a candy wholesaler in Pittsfield, Massachusetts, and became the largest mall-based toy chain in the United States. It was sold three times in twenty years, the last time in a leveraged buyout that paid its owners about $120 million before a price war with Walmart and Target sent it into bankruptcy. This is the full post-mortem, built from the SEC filings of the company that owned it, a Delaware court opinion, contemporary press and the archived website.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a mall toy store with bargain bins at the door. Not an official asset.",
+  "archive": [
+   {
+    "image": "img/mascot-kay-bee.avif",
+    "caption": "The Kay-Bee toy soldier"
+   },
+   {
+    "image": "img/logo-2009.avif",
+    "caption": "The last logo"
+   },
+   {
+    "image": "img/archive-2009-08-after.avif",
+    "caption": "The name at auction, Aug 2009"
+   }
+  ],
+  "motion": "float"
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "1,322",
+    "text": "toy stores on January 30, 1999, the highest year-end count in the filings[^3]"
+   },
+   {
+    "value": "$18.1M",
+    "text": "of cash put down by Bain Capital in the December 2000 buyout, as reported by Forbes[^17]"
+   },
+   {
+    "value": "$120M",
+    "text": "approximately, distributed to the buyout sponsor, executives and others in 2002[^7]"
+   },
+   {
+    "value": "461",
+    "text": "stores left to liquidate in December 2008, including 30 temporary holiday stores (derived sum)[^24]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "Its public owner took a large loss to be rid of it.",
+   "text": "Consolidated Stores bought Kay-Bee in 1996 for about $315M and sold it in 2000 for gross proceeds of about $305M, recording a $430.8M after-tax loss on disposal of the toy segment.[^1][^5]"
+  },
+  {
+   "title": "The buyout was almost all borrowed money.",
+   "text": "Forbes reported that Bain put down $18.1M in cash and that KB borrowed about $237M. Sixteen months later KB borrowed again to fund an $85M payment to Bain.[^17]"
+  },
+  {
+   "title": "No court ruled that the dividend killed it.",
+   "text": "A Delaware judge dismissed the seller’s lawsuit in 2006, and the creditors’ case was settled on terms that were not disclosed.[^7][^25][^28]"
+  },
+  {
+   "title": "The price war did the visible damage.",
+   "text": "Sales at stores open at least a year fell 10% in 2003 while discounters cut average toy prices by 8%, and KB skipped vendor payments that December.[^18]"
+  },
+  {
+   "title": "It failed again without the buyout debt.",
+   "text": "Under a new owner and with fewer than half the stores, comparable sales fell 20% between October 5 and December 8, 2008, and the chain chose to liquidate.[^23]"
+  }
+ ],
+ "published": "2026-10-03"
+}
