@@ -1,0 +1,23 @@
+<svg viewBox="0 0 420 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a paper deal voucher with a dashed cut line, a pair of scissors and a countdown clock">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M40 86 H380 V130 C364 130 364 158 380 158 V234 H40 V158 C56 158 56 130 40 130Z" fill="#fbf9f5"/>
+<path d="M40 86 H150 V234 H40 V158 C56 158 56 130 40 130Z" fill="#53a318"/>
+<path d="M150 92 V228" stroke-dasharray="3 9"/>
+<path d="M72 190 L120 122" stroke="#fbf9f5" stroke-width="5"/>
+<circle cx="76" cy="130" r="11" stroke="#fbf9f5" stroke-width="5"/>
+<circle cx="116" cy="184" r="11" stroke="#fbf9f5" stroke-width="5"/>
+<path d="M176 118 H300 M176 142 H264" stroke-width="7"/>
+<path d="M176 176 H238 M176 196 H220" stroke="#9a9184" stroke-width="4"/>
+<rect x="262" y="172" width="92" height="40" rx="20" fill="#2a9bc4"/>
+<path d="M284 192 H332" stroke="#fbf9f5" stroke-width="5"/>
+<g class="spin" style="transform-origin:330px 76px">
+<circle cx="330" cy="76" r="34" fill="#f4d35e"/>
+<path d="M330 54 V76 L346 86" stroke-width="4"/>
+</g>
+<circle cx="330" cy="76" r="4" fill="#1d1b18"/>
+<path d="M96 262 L176 236" /><path d="M96 240 L176 266"/>
+<circle cx="84" cy="266" r="13" fill="#fbf9f5"/><circle cx="84" cy="236" r="13" fill="#fbf9f5"/>
+<path d="M176 236 L214 228 M176 266 L214 274" stroke-width="5"/>
+<path d="M232 252 H380" stroke-dasharray="3 9"/>
+<path d="M30 292 H390" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

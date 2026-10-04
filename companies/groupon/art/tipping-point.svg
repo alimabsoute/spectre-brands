@@ -1,0 +1,17 @@
+<svg viewBox="0 0 400 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a row of people with one raised hand tipping a deal meter past its minimum line">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="40" y="36" width="320" height="34" rx="17" fill="#fbf9f5"/>
+<path d="M57 53 H250" stroke="#53a318" stroke-width="20"/>
+<path d="M230 26 V80" stroke="#a8321f" stroke-width="4" stroke-dasharray="2 8"/>
+<path d="M214 20 H246" stroke="#a8321f"/>
+<g fill="#eaf5df">
+<circle cx="70" cy="140" r="18"/><path d="M40 240 C40 190 100 190 100 240Z"/>
+<circle cx="150" cy="140" r="18"/><path d="M120 240 C120 190 180 190 180 240Z"/>
+<circle cx="310" cy="140" r="18"/><path d="M280 240 C280 190 340 190 340 240Z"/>
+</g>
+<circle cx="230" cy="132" r="20" fill="#53a318"/><path d="M196 240 C196 184 264 184 264 240Z" fill="#53a318"/>
+<path d="M256 196 L284 104" stroke-width="5"/>
+<rect x="270" y="84" width="34" height="22" rx="4" fill="#f4d35e" transform="rotate(-18 287 95)"/>
+<path d="M24 240 H376"/>
+<path d="M24 258 H376" stroke="#9a9184" stroke-width="2" stroke-dasharray="3 9"/>
+</g></svg>

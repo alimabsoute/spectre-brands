@@ -1,0 +1,44 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "After four and a half intense and wonderful years as CEO of Groupon, I’ve decided that I’d like to spend more time with my family. Just kidding – I was fired today.",
+   "who": "**Andrew Mason**, letter to employees, Feb 28, 2013, as published by The Next Web[^24]",
+   "big": true
+  },
+  {
+   "q": "I started Groupon to get Eric to stop bugging me to find a business model.",
+   "who": "**Andrew Mason**, letter to prospective stockholders in the IPO prospectus, Nov 2011[^1]"
+  },
+  {
+   "q": "Groupon’s board turned down offers of around $6 billion from Google.",
+   "who": "**Fortune**, Dec 4, 2010[^21]"
+  },
+  {
+   "q": "We hate that we offended people, and we’re very sorry that we did — it’s the last thing we wanted.",
+   "who": "**Andrew Mason**, on the Super Bowl ads, quoted by NPR, Feb 11, 2011[^22]"
+  },
+  {
+   "q": "My biggest regrets are the moments that I let a lack of data override my intuition on what’s best for our customers.",
+   "who": "**Andrew Mason**, Feb 28, 2013[^24]"
+  },
+  {
+   "q": "Our financial statements contain a statement regarding a substantial doubt about the Company’s ability to continue as a going concern.",
+   "who": "**Groupon, Inc.**, risk factor heading, annual report for 2022, filed Mar 16, 2023[^13]",
+   "big": true
+  },
+  {
+   "q": "After testing Deals for four months, we’ve decided to end our Deals product in the coming weeks.",
+   "who": "**Facebook spokesperson**, Aug 26, 2011[^27]"
+  },
+  {
+   "q": "We’ve learned a great deal from the daily deals business and will look for ways to apply these lessons in the future",
+   "who": "**Amazon spokesperson**, on closing Amazon Local, Oct 30, 2015[^26]"
+  },
+  {
+   "q": "Our 2025 results represent a landmark achievement in Groupon’s multi-year transformation, as we returned to growth in both billings and revenue for the first time in a decade",
+   "who": "**Dusan Senkypl**, chief executive, Mar 10, 2026[^18]"
+  }
+ ]
+}

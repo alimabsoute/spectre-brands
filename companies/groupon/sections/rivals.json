@@ -1,0 +1,73 @@
+{
+ "kicker": "The rivals",
+ "title": "Everyone copied it, and nearly everyone left",
+ "lede": "Groupon’s prospectus warned that competitors “offer substantially the same or similar product offerings.” Three of the largest technology companies tried daily deals and gave up. The one large independent rival ended up inside Groupon.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Five daily-deal businesses, one still selling",
+   "subtitle": "What each one was, and what became of it.",
+   "metric": "Outcome",
+   "items": [
+    {
+     "name": "Groupon",
+     "status": "ghost",
+     "statusLabel": "Shrunken",
+     "self": true,
+     "value": "$498.4M",
+     "text": "2025 revenue, against $3.19B first reported for 2014.[^5][^17]",
+     "data": [
+      312.9,
+      1610.4,
+      2573.7,
+      3042.1,
+      2843.9,
+      2218.9,
+      967.1,
+      514.9,
+      498.4
+     ],
+     "range": [
+      "2010: $312.9M",
+      "2025"
+     ]
+    },
+    {
+     "name": "LivingSocial",
+     "status": "acquired",
+     "value": "$928M raised",
+     "text": "Venture funding, including from Amazon, as reported by TechCrunch.[^25] Taken over by Groupon in 2016 for a price that was “not material.”[^7]"
+    },
+    {
+     "name": "Amazon Local",
+     "status": "dead",
+     "value": "Closed 2015",
+     "text": "Amazon stopped selling daily deals on December 18, 2015.[^26]"
+    },
+    {
+     "name": "Google Offers (self-serve)",
+     "status": "dead",
+     "value": "Closed 2014",
+     "text": "Google ran its own offers product after the Groupon talks ended. The self-serve version was shut down in March 2014.[^21][^28]"
+    },
+    {
+     "name": "Facebook Deals",
+     "status": "dead",
+     "value": "4 months",
+     "text": "Launched in five cities in late April 2011 and ended that August.[^27]"
+    }
+   ],
+   "source": "Groupon revenue from EDGAR[^20]; rivals from contemporary press as cited. LivingSocial’s purchase price was not disclosed."
+  },
+  {
+   "kind": "quote",
+   "text": "This is a whimper of an ending for LivingSocial, which once competed hard against Groupon for both merchants to list deals for their goods and services, and consumers to buy those offers.",
+   "who": "**TechCrunch**, Oct 26, 2016[^25]"
+  },
+  {
+   "kind": "text",
+   "title": "Why the copies mattered",
+   "body": "A daily deal needed a sales team, an email list and a merchant willing to discount. None of that could be protected. The prospectus named Google, Microsoft, Eversave, BuyWithMe and LivingSocial as competitors and said that others “offer substantially the same or similar product offerings.”[^1] When the large platforms left, it was not because Groupon had beaten them. Amazon’s statement on closing Amazon Local was: “We’ve learned a great deal from the daily deals business.”[^26]"
+  }
+ ]
+}

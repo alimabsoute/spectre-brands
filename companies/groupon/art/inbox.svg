@@ -1,0 +1,16 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of an open envelope with a daily deal email rising out of it and a stack of unread envelopes behind">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="236" y="70" width="130" height="84" rx="6" fill="#dfe9d2"/><path d="M236 76 L301 122 L366 76"/>
+<rect x="256" y="104" width="130" height="84" rx="6" fill="#eaf5df"/><path d="M256 110 L321 156 L386 110"/>
+<path d="M50 140 L170 56 L290 140 V268 H50Z" fill="#fbf9f5"/>
+<rect x="82" y="40" width="176" height="170" rx="6" fill="#ffffff"/>
+<rect x="82" y="40" width="176" height="38" rx="6" fill="#53a318"/>
+<path d="M100 59 H170" stroke="#fbf9f5" stroke-width="6"/>
+<path d="M102 104 H238 M102 126 H206" stroke-width="6"/>
+<rect x="102" y="148" width="72" height="30" rx="15" fill="#2a9bc4"/>
+<path d="M196 150 L226 178 M226 150 L196 178" stroke="#a8321f" stroke-width="4"/>
+<path d="M50 140 L170 214 L290 140 V268 H50Z" fill="#f4efe6"/>
+<path d="M50 268 L138 194 M290 268 L202 194"/>
+<circle cx="300" cy="60" r="20" fill="#a8321f"/><path d="M293 60 H307 M300 53 V67" stroke="#fbf9f5" stroke-width="4"/>
+<path d="M30 284 H380" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

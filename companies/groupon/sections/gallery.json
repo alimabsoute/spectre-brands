@@ -1,0 +1,104 @@
+{
+ "kicker": "Brand gallery",
+ "label": "Brand gallery",
+ "title": "A tilted wordmark, a lot of green, and a voucher",
+ "lede": "Groupon’s brand was a wordmark and a tone of voice: deal descriptions written as jokes. Here are the marks as the archive kept them, two photographs under free licenses, and our own drawings.",
+ "archive": [
+  {
+   "image": "img/logo-2009.avif",
+   "date": "Sep 2009",
+   "caption": "The early logo with its tagline, “Collective Buying Power.”",
+   "alt": "Groupon wordmark on a dark tilted panel with the words Collective Buying Power",
+   "credit": "Cropped from an Internet Archive capture of groupon.com. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/logo-2011.avif",
+   "date": "Jan 2011",
+   "caption": "The logo at the time of the Google talks and the IPO.",
+   "alt": "Groupon wordmark in white on a dark tilted panel",
+   "credit": "Cropped from an Internet Archive capture of groupon.com. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/archive-2008-07-thepoint.avif",
+   "date": "Jul 2008",
+   "caption": "The Point, the site Groupon grew out of. The capture is unstyled.",
+   "alt": "Unstyled archived page headed The Point: People Solving Problems",
+   "credit": "Internet Archive capture of thepoint.com. Shown for commentary."
+  },
+  {
+   "image": "img/mason.avif",
+   "date": "May 2011",
+   "caption": "Andrew Mason, founder and chief executive until February 2013, at the e-G8 Forum in Paris.",
+   "alt": "Andrew Mason speaking on stage, seated, in a dark jacket",
+   "credit": "Photo: Aaron Fulkerson, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Andrew_Mason_(cropped).jpg), CC BY-SA 2.0. Resized."
+  },
+  {
+   "image": "img/float-2014.avif",
+   "date": "Jun 2014",
+   "caption": "A Groupon parade float photographed on June 29, 2014, with the slogan “Check Groupon first.” The photograph’s description does not name the event.",
+   "alt": "Parade float with a large sign reading Check Groupon First and people in green shirts",
+   "credit": "Photo: nathanmac87, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Groupon_Float_(14537747014).jpg), CC BY 2.0. Resized."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, eleven years apart",
+   "ratio": "10/9",
+   "before": {
+    "label": "January 2011",
+    "image": "img/archive-2011-01-home.avif",
+    "caption": "One city, one deal a day, one email.[^29]",
+    "alt": "Groupon home page in January 2011 asking the visitor to confirm a city"
+   },
+   "after": {
+    "label": "January 2022",
+    "image": "img/archive-2022-01-home.avif",
+    "caption": "A marketplace with categories and search.[^29]",
+    "alt": "Groupon home page in January 2022 with category tiles"
+   },
+   "source": "Internet Archive Wayback Machine captures of groupon.com[^29]."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The voucher.",
+   "caption": "A deal with a deadline. The clock was the product."
+  },
+  {
+   "art": "art/tipping-point.svg",
+   "title": "The tipping point.",
+   "caption": "The original rule, inherited from The Point: no discount unless enough people join.[^29]"
+  },
+  {
+   "art": "art/inbox.svg",
+   "title": "The inbox.",
+   "caption": "142.9 million subscribers received the daily email by September 2011.[^1]"
+  },
+  {
+   "art": "art/reverse-split.svg",
+   "title": "The reverse split.",
+   "caption": "Twenty shares became one on June 10, 2020.[^11]"
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#53a318",
+   "label": "Groupon green (approx.)"
+  },
+  {
+   "hex": "#8cc152",
+   "label": "2011 page background (approx.)"
+  },
+  {
+   "hex": "#2a9bc4",
+   "label": "Button blue (approx.)"
+  },
+  {
+   "hex": "#222222",
+   "label": "Header and logo panel"
+  }
+ ],
+ "disclaimer": "Colours were sampled by eye from archived captures[^29] and are approximate. Groupon and its logo are trademarks of Groupon, Inc. and appear here in historical and editorial context. Photographs are used under the Creative Commons licenses stated beside them[^31]. Drawings are original illustrations, not official assets."
+}

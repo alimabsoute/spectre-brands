@@ -1,0 +1,169 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Primary sources first. SEC filings link to the original documents on EDGAR (CIK 1490281). Figures are current to the Form 10-Q filed on August 6, 2026.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Groupon, Inc. — [Final Prospectus (424B4)](https://www.sec.gov/Archives/edgar/data/1490281/000104746911009142/a2206165z424b4.htm), Nov 4, 2011 (filed Nov 7, 2011), including Andrew Mason’s letter to prospective stockholders."
+  },
+  {
+   "id": 2,
+   "text": "Groupon, Inc. — [Form 10-K, FY2011](https://www.sec.gov/Archives/edgar/data/1490281/000144530512000922/groupon10-k.htm), filed Mar 30, 2012."
+  },
+  {
+   "id": 3,
+   "text": "Groupon, Inc. — [Form 8-K/A, Ex. 99.1: revision of fourth-quarter 2011 results](https://www.sec.gov/Archives/edgar/data/1490281/000110465912022869/a12-8401_3ex99d1.htm), Mar 30, 2012."
+  },
+  {
+   "id": 4,
+   "text": "Groupon, Inc. — [Form 8-K, Ex. 99.1: “Groupon Announces Leadership Change”](https://www.sec.gov/Archives/edgar/data/1490281/000110465913016839/a13-6392_1ex99d1.htm), Feb 28, 2013."
+  },
+  {
+   "id": 5,
+   "text": "Groupon, Inc. — [Form 10-K, FY2014](https://www.sec.gov/Archives/edgar/data/1490281/000149028115000014/groupon201410-k.htm), filed Feb 13, 2015."
+  },
+  {
+   "id": 6,
+   "text": "Groupon, Inc. — [Form 10-K, FY2015](https://www.sec.gov/Archives/edgar/data/1490281/000149028116000087/groupon201510-k.htm), filed Feb 12, 2016."
+  },
+  {
+   "id": 7,
+   "text": "Groupon, Inc. — [Form 8-K, Ex. 99.1: third-quarter 2016 results and LivingSocial acquisition](https://www.sec.gov/Archives/edgar/data/1490281/000149028116000213/exhibit991-q32016.htm), Oct 26, 2016."
+  },
+  {
+   "id": 8,
+   "text": "Groupon, Inc. — [Form 10-K, FY2017](https://www.sec.gov/Archives/edgar/data/1490281/000149028118000018/groupon201710-k.htm), filed Feb 14, 2018."
+  },
+  {
+   "id": 9,
+   "text": "Groupon, Inc. — [Form 10-K, FY2019](https://www.sec.gov/Archives/edgar/data/1490281/000149028120000021/a201910-k.htm), filed Feb 18, 2020."
+  },
+  {
+   "id": 10,
+   "text": "Groupon, Inc. — [Form 8-K: restructuring actions](https://www.sec.gov/Archives/edgar/data/1490281/000149028120000048/a8-kxapril132020.htm), Apr 13, 2020."
+  },
+  {
+   "id": 11,
+   "text": "Groupon, Inc. — [Form 8-K, Ex. 99.1: “Groupon Announces 1-for-20 Reverse Stock Split”](https://www.sec.gov/Archives/edgar/data/1490281/000149028120000084/june112020exhibit991.htm), Jun 10, 2020."
+  },
+  {
+   "id": 12,
+   "text": "Groupon, Inc. — [Form 10-K, FY2020](https://www.sec.gov/Archives/edgar/data/1490281/000149028121000023/grpn-20201231.htm), filed Feb 25, 2021."
+  },
+  {
+   "id": 13,
+   "text": "Groupon, Inc. — [Form 10-K, FY2022](https://www.sec.gov/Archives/edgar/data/1490281/000149028123000022/grpn-20221231.htm), filed Mar 16, 2023."
+  },
+  {
+   "id": 14,
+   "text": "Groupon, Inc. — [Form 10-Q, Q1 2023](https://www.sec.gov/Archives/edgar/data/1490281/000149028123000053/grpn-20230331.htm), filed May 10, 2023."
+  },
+  {
+   "id": 15,
+   "text": "Groupon, Inc. — [Form 8-K, Ex. 99.1: “Groupon Announces CEO Transition”](https://www.sec.gov/Archives/edgar/data/1490281/000149028123000028/exhibit991-externalcomm.htm), March 2023."
+  },
+  {
+   "id": 16,
+   "text": "Groupon, Inc. — [Form 10-K, FY2023](https://www.sec.gov/Archives/edgar/data/1490281/000149028124000024/grpn-20231231.htm), filed Mar 15, 2024."
+  },
+  {
+   "id": 17,
+   "text": "Groupon, Inc. — [Form 10-K, FY2025](https://www.sec.gov/Archives/edgar/data/1490281/000162828026016429/grpn-20251231.htm), filed Mar 10, 2026."
+  },
+  {
+   "id": 18,
+   "text": "Groupon, Inc. — [“Groupon Reports Fourth Quarter and Fiscal Year 2025 Results”](https://s22.q4cdn.com/731250486/files/doc_financials/2025/q4/GRPN-Q4-2025-Earnings-Press-Release.pdf) (PDF), Mar 10, 2026."
+  },
+  {
+   "id": 19,
+   "text": "Groupon, Inc. — [Form 10-Q, Q2 2026](https://www.sec.gov/Archives/edgar/data/1490281/000162828026054304/grpn-20260630.htm), filed Aug 6, 2026. The latest periodic filing when this page was written."
+  },
+  {
+   "id": 20,
+   "text": "SEC EDGAR — XBRL company-concept data for Groupon, Inc. (CIK 1490281): [Revenues](https://data.sec.gov/api/xbrl/companyconcept/CIK0001490281/us-gaap/Revenues.json), [revenue from contracts with customers](https://data.sec.gov/api/xbrl/companyconcept/CIK0001490281/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json), [gross profit](https://data.sec.gov/api/xbrl/companyconcept/CIK0001490281/us-gaap/GrossProfit.json), [net income](https://data.sec.gov/api/xbrl/companyconcept/CIK0001490281/us-gaap/NetIncomeLoss.json) and [public float](https://data.sec.gov/api/xbrl/companyconcept/CIK0001490281/dei/EntityPublicFloat.json), read Oct 3, 2026."
+  },
+  {
+   "id": 21,
+   "text": "Fortune — Seth Weintraub, [“Google’s Groupon deal is off”](https://fortune.com/2010/12/04/googles-groupon-deal-is-off), Dec 4, 2010."
+  },
+  {
+   "id": 22,
+   "text": "NPR — Mark Memmott, [“Groupon Gives In: Pulls Controversial Super Bowl Ads”](https://www.npr.org/sections/thetwo-way/2011/02/11/133688435/groupon-gives-in-pulls-controversial-super-bowl-ads), Feb 11, 2011 (text read from the [KUNC copy](https://www.kunc.org/npr-news/2011-02-11/groupon-gives-in-pulls-controversial-super-bowl-ads))."
+  },
+  {
+   "id": 23,
+   "text": "Reuters via NBC News — Clare Baldwin and Alistair Barr, [“Groupon shares surge but concerns linger”](https://www.nbcnews.com/news/amp/wbna45154886), Nov 4, 2011."
+  },
+  {
+   "id": 24,
+   "text": "The Next Web — Alex Wilhelm, [“Andrew Mason is out as CEO of Groupon, here’s his sendoff letter”](https://thenextweb.com/news/andrew-mason-groupoin), Feb 28, 2013."
+  },
+  {
+   "id": 25,
+   "text": "TechCrunch — Ingrid Lunden, [“Groupon is buying LivingSocial, plans to downsize business to 15 markets from 27”](https://techcrunch.com/2016/10/26/groupon-is-buying-livingsocial-plans-to-downsize-business-to-15-markets-from-27/), Oct 26, 2016."
+  },
+  {
+   "id": 26,
+   "text": "TechCrunch — Sarah Perez, [“Amazon To Exit Daily Deals With Closure Of Amazon Local”](https://techcrunch.com/2015/10/30/amazon-to-exit-daily-deals-with-closure-of-amazon-local), Oct 30, 2015."
+  },
+  {
+   "id": 27,
+   "text": "The Next Web — Matthew Panzarino, [“Facebook shutting down Facebook Deals service after 4 months”](https://thenextweb.com/news/facebook-shutting-down-deals-service-after-4-months), Aug 26, 2011."
+  },
+  {
+   "id": 28,
+   "text": "Mike Blumenthal — [“Google Shuts Down Self Serve Offers Product”](https://blumenthals.com/blog/2014/03/05), Mar 5, 2014 (specialist blog on local search)."
+  },
+  {
+   "id": 29,
+   "text": "Internet Archive Wayback Machine — captures of [groupon.com](https://web.archive.org/web/*/groupon.com), [groupon.thepoint.com](https://web.archive.org/web/20081105124847/http://groupon.thepoint.com:80/) and [thepoint.com](https://web.archive.org/web/20080705025305/http://thepoint.com/), 2008 – 2022 (individual capture links in the Old website section)."
+  },
+  {
+   "id": 30,
+   "text": "Groupon, Inc. — [fourth-quarter 2019 earnings release tables](https://s22.q4cdn.com/731250486/files/doc_financials/2019/q4/2019-Q4-Earnings-Release-Tables.pdf) (PDF), Feb 2020."
+  },
+  {
+   "id": 31,
+   "text": "Wikimedia Commons — [Andrew Mason (cropped).jpg](https://commons.wikimedia.org/wiki/File:Andrew_Mason_(cropped).jpg), Aaron Fulkerson, CC BY-SA 2.0; [Groupon Float (14537747014).jpg](https://commons.wikimedia.org/wiki/File:Groupon_Float_(14537747014).jpg), nathanmac87, CC BY 2.0."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Editorial",
+   "text": "Groupon is an operating, publicly listed company and is not defunct. It is filed as a ghost because the business that made the name, the daily deal sold by email in dozens of countries, no longer exists at anything like its former scale. We set the end of that original business at 2020: the year Groupon announced its exit from Goods (half of 2019 revenue), cut or furloughed about 2,800 employees, carried out the 1-for-20 reverse split, and saw revenue fall 36% and active customers fall 32%. Other defensible choices are 2013 (the founder’s removal) and 2015 (the start of the country exits). The tag will be reviewed if the company’s recovery continues."
+  },
+  {
+   "label": "Derived values",
+   "text": "−84% revenue (1 − 498.4 ÷ 3,191.7); −72% gross profit (1 − 452.5 ÷ 1,615.5); −36% revenue in 2020 (1 − 1,416.9 ÷ 2,218.9); −32% active customers in 2020 (1 − 29.6 ÷ 43.6); employee totals for 2011, 2014, 2015, 2017 and 2019 (sums of segment counts); 13 countries exited in 2015 (6 + 7); 32 countries left from 2015 to 2017 (47 − 15); 2019 category revenue and gross profit (sums of four quarters) and their shares; revenue and gross profit without Goods in 2019; LivingSocial’s incremental 2017 billings ($75.7M + $12.8M + $11.7M); $400 split-adjusted IPO price ($20 × 20); the five days between the Super Bowl and the ads being pulled; the count of loss-making years, using net income attributable to Groupon for 2011 to 2025; “about a seventh of the staff” (1,734 ÷ 11,843)."
+  },
+  {
+   "label": "Restated figures",
+   "text": "Groupon recast earlier years when it moved businesses to discontinued operations. Revenue for 2014 was first reported as $3,191.7M and later as $3,042.1M; 2015 was first reported as $3,119.5M and later as $2,954.8M. The revenue chart uses the most recently filed value for each year, and headline comparisons with the peak use the first-reported 2014 figure, as stated. From 2021 most Goods sales are counted net, so revenue before and after 2020 is not like for like. Gross profit is the better comparison."
+  },
+  {
+   "label": "Reported, not confirmed",
+   "text": "Google’s offer of about $6 billion comes from press reports (Fortune, citing other outlets) and was never confirmed in a filing; we did not find the talks described in the prospectus. The $16.7 billion first-day valuation and the $26.11 close are Reuters’ figures. LivingSocial’s $928M of venture funding is TechCrunch’s figure."
+  },
+  {
+   "label": "Not found",
+   "text": "What Groupon paid for LivingSocial (undisclosed), the cost of the 2011 Super Bowl airtime, a sourced daily share-price series, active customers at the end of 2012, and employee counts for the years not shown. The later careers of former executives were not researched. The event at which the 2014 parade float was photographed is not named in the photograph’s description."
+  },
+  {
+   "label": "Active customers",
+   "text": "The company’s definition changed over the years (for example, acquired customers were added and coupon-only users excluded), and the country footprint fell from 47 to 13. 53.9M at the end of 2014 is the highest year-end figure in the annual reports we read (2011, 2014, 2015, 2017, 2019, 2020, 2022, 2023 and 2025)."
+  },
+  {
+   "label": "Videos",
+   "text": "Years are upload dates read from YouTube, except the Company Man retrospective, whose exact date we could not read (approximate). The 2018 commercial’s airing year comes from the uploader."
+  },
+  {
+   "label": "General knowledge",
+   "text": "Super Bowl XLV was played on February 6, 2011. The Nasdaq ticker GRPN."
+  },
+  {
+   "label": "Archive",
+   "text": "The 2008 and 2009 Wayback captures were saved without stylesheets and are shown unstyled. Captures were cropped to the top of the page."
+  }
+ ]
+}

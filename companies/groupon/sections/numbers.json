@@ -1,0 +1,454 @@
+{
+ "kicker": "The money",
+ "label": "The numbers",
+ "title": "What shrank, and by how much",
+ "lede": "Groupon is still filing annual reports, so the record is complete. Revenue overstates the fall, because until 2020 it included the full price of merchandise the company sold itself. Gross profit, customers and headcount tell the same story with less distortion.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Revenue, 2009 to 2025",
+   "subtitle": "$ millions, as most recently reported for each year. Six turning points.",
+   "labels": [
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "xLabel": "Fiscal year",
+   "series": [
+    {
+     "label": "Revenue",
+     "data": [
+      14.5,
+      312.9,
+      1610.4,
+      2334.5,
+      2573.7,
+      3042.1,
+      2954.8,
+      3013.6,
+      2843.9,
+      2636.7,
+      2218.9,
+      1416.9,
+      967.1,
+      599.1,
+      514.9,
+      492.6,
+      498.4
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 1,
+     "title": "Google is turned down",
+     "text": "Revenue grows from $14.5M to $312.9M in a year. The board rejects a reported offer of about $6 billion.[^21]"
+    },
+    {
+     "i": 2,
+     "title": "The IPO",
+     "text": "35 million shares at $20 on November 4, 2011.[^1]"
+    },
+    {
+     "i": 5,
+     "title": "The peak",
+     "text": "$3.04B on the recast basis shown here, $3.19B as first reported. Active customers reach 53.9M.[^5]"
+    },
+    {
+     "i": 11,
+     "title": "Goods exit, pandemic, reverse split",
+     "text": "Revenue falls 36% in 2020 (derived). Every 20 shares become one.[^11][^12]"
+    },
+    {
+     "i": 14,
+     "title": "Going-concern doubt",
+     "text": "Raised in the 2022 annual report and lifted after an $80.0M rights offering.[^13][^16]"
+    },
+    {
+     "i": 16,
+     "title": "A small increase",
+     "text": "$498.4M in 2025, up 1% on 2024.[^18]"
+    }
+   ],
+   "source": "2009 and 2010 from the IPO prospectus[^1]. 2011 to 2025 from the company’s XBRL financial data on EDGAR, taking the most recently filed value for each year[^20]. 2014 to 2016 were recast in later filings for businesses moved to discontinued operations: 2014 was first reported as $3,191.7M[^5] and 2015 as $3,119.5M[^6]. From 2021 most Goods sales are counted net, as commissions, which lowers revenue without lowering profit.[^12]"
+  },
+  {
+   "kind": "chart",
+   "id": "gpChart",
+   "title": "Gross profit",
+   "subtitle": "$ millions. What Groupon keeps after merchants, merchandise and shipping are paid. Down 72% from 2012 to 2025 (derived).",
+   "chart": {
+    "type": "bar",
+    "legend": false,
+    "labels": [
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "Gross profit ($M)",
+      "data": [
+       270.0,
+       1351.6,
+       1615.5,
+       1501.5,
+       1465.3,
+       1287.8,
+       1280.7,
+       1333.9,
+       1320.6,
+       1186.1,
+       677.3,
+       737.1,
+       522.8,
+       450.7,
+       444.3,
+       452.5
+      ],
+      "colors": [
+       "grey",
+       "grey",
+       "brand",
+       "grey",
+       "grey",
+       "grey",
+       "grey",
+       "grey",
+       "grey",
+       "grey",
+       "grey",
+       "grey",
+       "grey",
+       "grey",
+       "grey",
+       "ink"
+      ]
+     }
+    ]
+   },
+   "source": "XBRL financial data on EDGAR, most recently filed value for each year[^20]. 2025 also in the annual report[^17]. Derived: 1 − 452.5 ÷ 1,615.5 = 72%."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "chart",
+     "id": "custChart",
+     "title": "Active customers",
+     "subtitle": "Millions, at December 31. Customers who bought in the previous twelve months.",
+     "chart": {
+      "type": "line",
+      "legend": false,
+      "labels": [
+       "2010",
+       "2011",
+       "2012",
+       "2013",
+       "2014",
+       "2015",
+       "2016",
+       "2017",
+       "2018",
+       "2019",
+       "2020",
+       "2021",
+       "2022",
+       "2023",
+       "2024",
+       "2025"
+      ],
+      "y": {
+       "format": "num",
+       "min": 0
+      },
+      "series": [
+       {
+        "label": "Active customers (millions)",
+        "data": [
+         8.9,
+         33.7,
+         null,
+         43.7,
+         53.9,
+         48.9,
+         47.9,
+         49.5,
+         48.2,
+         43.6,
+         29.6,
+         23.3,
+         18.8,
+         16.5,
+         15.4,
+         16.2
+        ],
+        "color": "brand",
+        "spanGaps": true,
+        "points": true
+       }
+      ]
+     },
+     "source": "Annual reports: 2010 and 2011[^2], 2013 and 2014[^5], 2015[^6], 2016 and 2017[^8], 2018 to 2020[^12], 2021 and 2022[^13], 2023[^16], 2024 and 2025[^17]. We did not collect 2012. The definition changed over time and the footprint fell from 47 countries to 13, so the years are not strictly comparable."
+    },
+    {
+     "kind": "chart",
+     "id": "hcChart",
+     "title": "Employees",
+     "subtitle": "At December 31 of the years we checked.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "2011",
+       "2014",
+       "2015",
+       "2017",
+       "2019",
+       "2020",
+       "2022",
+       "2023",
+       "2025"
+      ],
+      "y": {
+       "format": "num"
+      },
+      "series": [
+       {
+        "label": "Employees",
+        "data": [
+         11471,
+         11843,
+         9872,
+         6672,
+         6345,
+         4159,
+         2904,
+         2213,
+         1734
+        ],
+        "colors": [
+         "grey",
+         "brand",
+         "grey",
+         "grey",
+         "grey",
+         "red",
+         "grey",
+         "grey",
+         "ink"
+        ]
+       }
+      ]
+     },
+     "source": "Annual reports for 2011[^2], 2014[^5], 2015[^6], 2017[^8], 2019[^9], 2020[^12], 2022[^13], 2023[^16] and 2025[^17]. Totals for 2011, 2014, 2015, 2017 and 2019 are derived sums of the segment counts in each report."
+    }
+   ]
+  },
+  {
+   "kind": "flow",
+   "title": "Where 2019 revenue came from",
+   "subtitle": "The last full year before the exit from Goods. Half of revenue was merchandise.",
+   "from": {
+    "label": "revenue in 2019",
+    "value": 2218.9
+   },
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "to": [
+    {
+     "label": "Goods",
+     "value": 1118.2,
+     "color": "red",
+     "note": "Merchandise sold mostly by Groupon itself, counted at full price. Gross profit on it was $195.9M."
+    },
+    {
+     "label": "Local",
+     "value": 1008.6,
+     "color": "brand",
+     "note": "Vouchers for restaurants, spas and activities, counted net of the merchant’s share. Gross profit was $913.2M."
+    },
+    {
+     "label": "Travel",
+     "value": 92.0,
+     "color": "blue",
+     "note": "Hotel and tour deals. Gross profit was $77.1M."
+    }
+   ],
+   "source": "Quarterly figures in Groupon’s fourth-quarter 2019 earnings tables[^30], summed by us (derived). Total as in the annual report[^9]. Rounded parts sum to $2,218.8M."
+  },
+  {
+   "kind": "waffle",
+   "title": "Where 2019 gross profit came from",
+   "subtitle": "The same year, measured by what Groupon kept.",
+   "itemLabel": "Category",
+   "valueLabel": "Share of gross profit",
+   "items": [
+    {
+     "label": "Local",
+     "value": 77,
+     "color": "brand",
+     "note": "$913.2M"
+    },
+    {
+     "label": "Goods",
+     "value": 16.5,
+     "color": "red",
+     "note": "$195.9M"
+    },
+    {
+     "label": "Travel",
+     "value": 6.5,
+     "color": "blue",
+     "note": "$77.1M"
+    }
+   ],
+   "source": "Derived from the quarterly category figures in the fourth-quarter 2019 earnings tables[^30], as shares of $1,186.1M."
+  },
+  {
+   "kind": "chart",
+   "id": "floatChart",
+   "title": "Market value held by outside shareholders",
+   "subtitle": "$ billions at June 30 of each year, from the cover of each annual report. This excludes shares held by insiders and affiliates, so it is lower than total market value.",
+   "chart": {
+    "type": "line",
+    "legend": false,
+    "labels": [
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ],
+    "y": {
+     "format": {
+      "pre": "$",
+      "suf": "B",
+      "dec": 2
+     },
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Non-affiliate market value ($B)",
+      "data": [
+       3.7,
+       3.97,
+       3.34,
+       2.42,
+       1.31,
+       1.6,
+       2.03,
+       1.63,
+       0.52,
+       1.07,
+       0.22,
+       0.13,
+       0.38,
+       0.62
+      ],
+      "color": "ink",
+      "points": true
+     }
+    ]
+   },
+   "source": "Aggregate market value of common stock held by non-affiliates, as tagged on each Form 10-K cover[^20]; 2025 also read from the annual report: $617,884,386 at June 30, 2025[^17]. We did not find a sourced daily price series, so no share price chart is shown."
+  },
+  {
+   "kind": "scale",
+   "title": "One share today is twenty shares from the IPO",
+   "subtitle": "The 2020 reverse split means the $20 IPO price equals $400 for one of today’s shares.",
+   "left": {
+    "value": "1",
+    "label": "share of GRPN after June 10, 2020"
+   },
+   "unit": {
+    "value": "1",
+    "label": "share as sold in the 2011 IPO"
+   },
+   "count": 20,
+   "icon": "ticket",
+   "equation": "1-for-20 reverse split[^11]. $20.00 IPO price[^1] × 20 = $400 per current share. Ignores fractional-share cash payments.",
+   "source": "Reverse split press release, June 10, 2020[^11], and IPO prospectus[^1]."
+  },
+  {
+   "kind": "counters",
+   "title": "As of the latest filing: Form 10-Q for June 30, 2026, filed August 6, 2026",
+   "items": [
+    {
+     "value": "$241.9M",
+     "text": "revenue in the first six months of 2026, against $242.9M a year earlier[^19]"
+    },
+    {
+     "value": "16.1M",
+     "text": "active customers in the twelve months to June 30, 2026[^19]"
+    },
+    {
+     "value": "$226.3M",
+     "text": "cash and equivalents, down from $296.1M at December 31, 2025[^19]"
+    },
+    {
+     "value": "−$72.1M",
+     "text": "total equity: liabilities exceed assets[^19]"
+    },
+    {
+     "value": "40.7M",
+     "text": "shares outstanding on August 4, 2026 (40,665,296)[^19]"
+    },
+    {
+     "value": "up to 400",
+     "text": "positions to be cut under the restructuring plan approved in May 2026[^19]"
+    }
+   ],
+   "source": "Groupon, Inc. Form 10-Q for the quarter ended June 30, 2026[^19]. No going-concern statement appears in that filing or in the 2025 annual report.[^17]"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The founder, the ads and the look back",
+ "lede": "Groupon advertised mostly by email, so there is less film than for a television-era brand. These are the Super Bowl spot that had to be pulled, a news report on the reaction, the founder explaining the model at its peak, a newspaper asking whether the valuation made sense, a later Super Bowl ad and one retrospective.",
+ "videos": [
+  {
+   "id": "tibet",
+   "title": "“Save the Money: Tibet,” the Super Bowl XLV spot",
+   "year": 2011,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "vVkFT2yjk0A",
+   "caption": "Uploaded on February 6, 2011, the day of the game. It opens as an appeal for Tibet and turns into a pitch for a restaurant discount. Groupon apologised and pulled the campaign within the week.[^22]"
+  },
+  {
+   "id": "rfa",
+   "title": "Radio Free Asia: “Super Bowl Stirs Tibet Backlash”",
+   "year": 2011,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "hDnRDv9RQVs",
+   "caption": "A two-minute news report uploaded on February 7, 2011, the day after the broadcast, on the criticism of the ad."
+  },
+  {
+   "id": "demo2010",
+   "title": "Andrew Mason at DEMO Fall 2010",
+   "year": 2010,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "vIPk4M3rRag",
+   "caption": "VentureBeat’s interview with the founder, uploaded September 15, 2010, three months before the reported Google offer.[^21] He describes how Groupon grew out of The Point."
+  },
+  {
+   "id": "dealbook",
+   "title": "The New York Times DealBook: “In Groupon I.P.O., Echo of Tech Bubble?”",
+   "year": 2011,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "SOqOJU8-aCs",
+   "caption": "Uploaded January 18, 2011. A reporter and an analyst discuss whether Groupon is worth an expected $15 billion, ten months before it listed at a first-day value of $16.7 billion.[^23]"
+  },
+  {
+   "id": "haddish",
+   "title": "“Who Wouldn’t,” the 2018 Super Bowl spot with Tiffany Haddish",
+   "year": 2018,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "2-Pcloghy5Y",
+   "caption": "Groupon’s return to the Super Bowl, seven years after the Tibet ad. This copy was uploaded by a viewer on February 19, 2018; the airing year is from the uploader’s title."
+  },
+  {
+   "id": "companyman",
+   "title": "Company Man: “The Decline of Groupon...What Happened?”",
+   "year": 2023,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "WlBuTnwGfck",
+   "caption": "A thirteen-minute independent retrospective. YouTube lists it as about three years old; we could not read the exact upload date, so the year is approximate. Its figures are the uploader’s; ours are in the sections above."
+  }
+ ],
+ "note": "Upload dates were read from each video’s YouTube page on October 3, 2026."
+}

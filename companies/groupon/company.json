@@ -1,0 +1,122 @@
+{
+ "name": "Groupon",
+ "number": "008",
+ "tier": "ghost",
+ "tierWhy": "Groupon, Inc. is not defunct: it still operates and trades on the Nasdaq as GRPN, but its 2025 revenue of $498.4M is 84% below the $3.19B it first reported for 2014, its 16.2M active customers are down from 53.9M, its 1,734 employees are down from 11,843, and its shares went through a 1-for-20 reverse split in 2020 (percentages derived).[^5][^6][^11][^17]",
+ "category": "dotcom",
+ "cause": "fad",
+ "years": "2008 – present",
+ "died": 2020,
+ "dates": [
+  {
+   "date": "2011-11-04",
+   "text": "began trading on the Nasdaq after an IPO at $20 a share"
+  },
+  {
+   "date": "2013-02-28",
+   "text": "replaced founder Andrew Mason as chief executive, and he told staff he had been fired"
+  },
+  {
+   "date": "2020-06-10",
+   "text": "carried out a 1-for-20 reverse stock split"
+  }
+ ],
+ "place": "Local deals marketplace · Chicago, Illinois",
+ "title": "Groupon (2008–present): post-mortem of a ghost · Spectre Brands",
+ "description": "Groupon still exists and still trades. A sourced post-mortem of what it used to be: the daily deal, the rejected Google offer, the $20 IPO, the reverse split, and the numbers as of its latest filings.",
+ "theme": {
+  "accent": "#357a11",
+  "soft": "#eaf5df"
+ },
+ "card": {
+  "blurb": "Still open, still listed, and a fraction of its former size. The daily deal that turned down Google now sells with about a seventh of the staff and under a third of the customers it had at its peak.",
+  "stat": {
+   "value": "−84%",
+   "label": "revenue, 2014 peak to 2025 (derived)"
+  },
+  "spark": [
+   0.3,
+   1.6,
+   2.3,
+   2.6,
+   3.2,
+   3.0,
+   2.8,
+   2.2,
+   1.4,
+   0.5
+  ],
+  "peak": 4,
+  "logo": "img/logo-2011.avif",
+  "logoYear": "2011"
+ },
+ "hero": {
+  "dates": "Started selling deals in October 2008. Still operating, and still listed on the Nasdaq, as of its filing of August 6, 2026.",
+  "standfirst": "Groupon is not dead. It is a company that was once valued at $16.7 billion on its first day of trading and has spent the years since getting smaller.",
+  "deck": "The daily deal was the fastest thing the consumer internet had seen: from $14.5M of revenue in 2009 to $1.6B in 2011. Groupon turned down a reported $6 billion from Google, went public at $20 a share and fired its founder sixteen months later. The company is still here. It reported a small rise in revenue for 2025. But it has about one in seven of the employees it had at its peak, and one share today stands for twenty of the shares sold in 2011. This page explains why we file it under ghosts, and gives the figures as of its latest filings.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a deal voucher and its countdown clock. Not an official Groupon asset.",
+  "motion": "spin",
+  "archive": [
+   {
+    "image": "img/archive-2008-11-groupon.avif",
+    "caption": "“The Daily Groupon,” Nov 2008",
+    "alt": "Unstyled archived page titled The Daily Groupon with a deal for orchestra tickets"
+   },
+   {
+    "image": "img/logo-2011.avif",
+    "caption": "The logo, Jan 2011",
+    "alt": "Groupon wordmark in white on a dark tilted panel"
+   },
+   {
+    "image": "img/archive-2022-01-home.avif",
+    "caption": "The marketplace, Jan 2022",
+    "alt": "Groupon home page in 2022 with category tiles and a sign-up prompt"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "$16.7B",
+    "text": "market value at the close of its first trading day, Nov 4, 2011, as reported by Reuters[^23]"
+   },
+   {
+    "value": "53.9M",
+    "text": "active customers at the end of 2014, the highest year-end figure in its annual reports[^5]"
+   },
+   {
+    "value": "16.2M",
+    "text": "active customers at the end of 2025[^17]"
+   },
+   {
+    "value": "1,734",
+    "text": "employees on Dec 31, 2025, against 11,843 at the end of 2014[^5][^17]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It is alive, and much smaller.",
+   "text": "Revenue was $498.4M in 2025 against $3.19B in 2014, as first reported. Gross profit, the fairer measure, fell from $1.62B in 2012 to $452.5M.[^5][^17][^20] Both rose slightly in 2025.[^18]"
+  },
+  {
+   "title": "The customers left.",
+   "text": "Active customers went from 53.9M at the end of 2014 to 16.2M at the end of 2025, and the company went from 47 countries to 13.[^5][^17]"
+  },
+  {
+   "title": "The category went with them.",
+   "text": "Facebook ended its deals test after four months in 2011, Google shut its self-serve offers product in 2014 and Amazon closed Amazon Local in 2015. Groupon took over LivingSocial in 2016 for a price it called “not material.”[^27][^28][^26][^7]"
+  },
+  {
+   "title": "Half of its revenue was low-margin merchandise.",
+   "text": "In 2019 the Goods category was 50% of revenue and 17% of gross profit (derived). Groupon announced in February 2020 that it would leave it.[^9][^30]"
+  },
+  {
+   "title": "It lost money in 12 of the 15 years from 2011 to 2025.",
+   "text": "Net income attributable to Groupon was positive only in 2015, 2017 and 2021. The accumulated deficit stood at $1.59B at the end of 2025.[^17][^20]"
+  }
+ ],
+ "published": "2026-10-03"
+}

@@ -1,0 +1,83 @@
+{
+ "kicker": "The old website",
+ "title": "From one deal a day to a searchable marketplace",
+ "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. The two earliest captures did not save their stylesheets and appear as plain text.[^29]",
+ "snips": [
+  {
+   "text": "“Each day we feature something cool to do in Chicago at a huge discount. You only get the discount if enough people join that day - so invite your friends!”",
+   "when": "groupon.thepoint.com · Nov 5, 2008[^29]"
+  },
+  {
+   "text": "**Total dollars saved** $15,489,770 · **Total Groupons bought** 295,243",
+   "when": "groupon.com counter · Sep 1, 2009[^29]"
+  },
+  {
+   "text": "**Total dollars saved** $963,956,253 · **Total Groupons bought** 22,254,152",
+   "when": "groupon.com counter · Jan 7, 2011[^29]"
+  },
+  {
+   "text": "“The Point is a platform for group action, helping you make things happen that you couldn’t accomplish alone.”",
+   "when": "thepoint.com · Jul 5, 2008[^29]"
+  }
+ ],
+ "note": "Also worth opening: [The Point in July 2008](https://web.archive.org/web/20080705025305/http://thepoint.com/), whose featured campaign proposed raising $10,000,000,000 to build a dome over Chicago. A capture of groupon.com from May 2009 returned an unrelated parked page and was not used.",
+ "captures": [
+  {
+   "date": "Nov 2008",
+   "label": "The Daily Groupon",
+   "url": "http://groupon.thepoint.com/",
+   "wayback": "https://web.archive.org/web/20081105124847/http://groupon.thepoint.com:80/",
+   "image": "img/archive-2008-11-groupon.avif",
+   "h": 480,
+   "captured": "Nov 5, 2008",
+   "title": "The Daily Groupon",
+   "text": "A month after the first deal, on a subdomain of The Point: tickets to the Jerusalem Symphony Orchestra at Chicago’s Harris Theater, “$74 Off!”",
+   "warn": "The capture has no stylesheet, so the page is shown unstyled."
+  },
+  {
+   "date": "Sep 2009",
+   "label": "Collective Buying Power",
+   "url": "http://www.groupon.com/",
+   "wayback": "https://web.archive.org/web/20090901064445/http://www.groupon.com/",
+   "image": "img/archive-2009-09-home.avif",
+   "h": 480,
+   "captured": "Sep 1, 2009",
+   "title": "Collective Buying Power",
+   "text": "The Washington DC page: “$20 for $40 Worth of Sushi & Drinks,” with a count of how many more buyers were needed “to get the deal.”",
+   "warn": "The capture has no stylesheet, so the page is shown unstyled."
+  },
+  {
+   "date": "Jan 2011",
+   "label": "Confirm your city",
+   "url": "http://www.groupon.com/",
+   "wayback": "https://web.archive.org/web/20110107050326/http://www.groupon.com/",
+   "image": "img/archive-2011-01-home.avif",
+   "h": 480,
+   "captured": "Jan 7, 2011",
+   "title": "Confirm your city",
+   "text": "A month after the Google talks. The footer counter shows 22,254,152 Groupons bought."
+  },
+  {
+   "date": "Jan 2015",
+   "label": "Save 50% to 90%",
+   "url": "http://www.groupon.com/",
+   "wayback": "https://web.archive.org/web/20150101093019/http://www.groupon.com/",
+   "image": "img/archive-2015-01-home.avif",
+   "h": 480,
+   "captured": "Jan 1, 2015",
+   "title": "Save 50% to 90%",
+   "text": "At the peak in customers, the front door was still an email sign-up form."
+  },
+  {
+   "date": "Jan 2022",
+   "label": "The marketplace",
+   "url": "https://www.groupon.com/",
+   "wayback": "https://web.archive.org/web/20220101011054/https://www.groupon.com/",
+   "image": "img/archive-2022-01-home.avif",
+   "h": 480,
+   "captured": "Jan 1, 2022",
+   "title": "The marketplace",
+   "text": "Search, categories and standing offers. The sign-up prompt now promises “up to 70%.”"
+  }
+ ]
+}

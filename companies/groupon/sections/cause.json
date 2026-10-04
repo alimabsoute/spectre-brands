@@ -1,0 +1,34 @@
+{
+ "kicker": "Cause of decline",
+ "label": "Cause of decline",
+ "title": "The autopsy of a company that is still alive",
+ "lede": "Groupon has not died, so this is a diagnosis of why it shrank. Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "The daily deal was a novelty, and the customers stopped coming",
+   "text": "Active customers rose from 8.9M at the end of 2010 to 53.9M at the end of 2014, then fell to 16.2M by the end of 2025. Units sold fell from 172.3M in 2018 to 36.8M in 2025.[^2][^5][^12][^17] The format the company was built on, one deal emailed to a city each day, had been replaced by a searchable marketplace by the time the decline set in.[^29]"
+  },
+  {
+   "weight": 20,
+   "title": "Nothing stopped anyone copying it",
+   "text": "The prospectus said competitors “offer substantially the same or similar product offerings.”[^1] Facebook, Google and Amazon all entered and all left, which says as much about the category as about Groupon.[^26][^27][^28] LivingSocial raised $928M and was handed over for an immaterial price.[^25][^7]"
+  },
+  {
+   "weight": 20,
+   "title": "Growth was rebuilt on low-margin merchandise",
+   "text": "By 2019 Goods supplied 50% of revenue and 17% of gross profit (derived).[^30] It made the top line look larger than the business was. When Groupon announced its exit in February 2020, revenue fell from $2.22B to $967.1M in two years.[^9][^20]"
+  },
+  {
+   "weight": 15,
+   "title": "Too many countries, too fast",
+   "text": "Groupon was in 45 countries three years after its first deal and 47 by 2014, with 8,782 of its 11,471 employees outside North America at the end of 2011.[^1][^2][^5] It then spent 2015 to 2017 leaving 32 of them (derived).[^8]"
+  },
+  {
+   "weight": 15,
+   "title": "Controls and leadership",
+   "text": "The first annual report disclosed a material weakness in internal controls and a revision of results already announced.[^3] The founder was removed sixteen months after the IPO.[^4] By 2023 the financial statements carried going-concern doubt, and the largest shareholder’s co-founder took over as chief executive.[^13][^15]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. Groupon is an operating company and its management disputes none of the figures here, which come from its own filings. How much each factor contributed is a matter of opinion."
+}

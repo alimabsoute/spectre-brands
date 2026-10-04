@@ -1,0 +1,94 @@
+{
+ "kicker": "Where is it now",
+ "label": "Where it is now",
+ "title": "The afterlife, while still alive",
+ "lede": "Nothing here was liquidated. These are the pieces of the 2011 company and what each has become, as of the filing of August 6, 2026.",
+ "items": [
+  {
+   "status": "Operating",
+   "color": "var(--green)",
+   "title": "The company",
+   "text": "Groupon, Inc. remains listed on the Nasdaq as GRPN, with headquarters in Chicago and sites in 13 countries. It had 1,734 employees at the end of 2025.[^17]"
+  },
+  {
+   "status": "Consolidated",
+   "color": "var(--gold)",
+   "title": "The shares",
+   "text": "Every 20 shares became one in June 2020.[^11] 40.7M shares were outstanding in August 2026.[^19] The IPO price of $20 corresponds to $400 for one of them (derived)."
+  },
+  {
+   "status": "Under new control",
+   "color": "var(--blue)",
+   "title": "The boardroom",
+   "text": "Pale Fire Capital held nearly 22% in March 2023 and backstopped the $80.0M rights offering that closed in January 2024. Its co-founder has been chief executive since.[^15][^16][^17]"
+  },
+  {
+   "status": "Removed",
+   "color": "var(--red)",
+   "title": "The founder",
+   "text": "Andrew Mason was replaced on February 28, 2013.[^4] His letter said: “I’m OK with having failed at this part of the journey.”[^24]"
+  },
+  {
+   "status": "Absorbed",
+   "color": "var(--mute)",
+   "title": "The rival",
+   "text": "LivingSocial was acquired on terms Groupon called “not material” in October 2016. It added incremental gross billings of about $100M in 2017 (derived sum of three categories).[^7][^8]"
+  },
+  {
+   "status": "Shrinking still",
+   "color": "var(--red)",
+   "title": "The workforce",
+   "text": "From 11,843 at the end of 2014 to 1,734 at the end of 2025.[^5][^17] A plan approved in May 2026 covers up to 400 more positions, including contractors.[^19]"
+  },
+  {
+   "status": "Altered",
+   "color": "var(--gold)",
+   "title": "The idea",
+   "text": "The daily email with one deal and a tipping point is gone. What remains is a marketplace for discounted local services, which the company describes as “a global scaled two-sided marketplace.”[^17]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has held the name",
+   "subtitle": "The name has never been sold. Control of the company that owns it has changed.",
+   "nodes": [
+    {
+     "when": "Jan 2008",
+     "owner": "ThePoint.com, Inc.",
+     "what": "Incorporated in Delaware to run The Point. Groupon begins as a side project that October.[^5][^1]"
+    },
+    {
+     "when": "2009 – 2011",
+     "owner": "Groupon, Inc. (private)",
+     "what": "Venture-backed and founder-led. Turns down Google’s reported offer in December 2010.[^21]",
+     "price": "~$6B offered (reported)"
+    },
+    {
+     "when": "Nov 2011",
+     "owner": "Public shareholders",
+     "what": "IPO on the Nasdaq at $20 a share.[^1][^23]",
+     "price": "$16.7B at first close"
+    },
+    {
+     "when": "Jun 2020",
+     "owner": "Public shareholders",
+     "what": "1-for-20 reverse stock split.[^11]"
+    },
+    {
+     "when": "Mar 2023",
+     "owner": "Pale Fire Capital as largest holder",
+     "what": "Holds nearly 22%. Its co-founder becomes chief executive, and it backstops the rights offering.[^15][^16]",
+     "price": "$80.0M rights offering"
+    },
+    {
+     "when": "Aug 2026",
+     "owner": "Groupon, Inc.",
+     "what": "Still operating and still listed. First-half 2026 revenue of $241.9M.[^19]",
+     "status": "current"
+    }
+   ],
+   "source": "Company filings and press releases as cited. Ownership percentages after March 2023 were not checked."
+  }
+ ]
+}

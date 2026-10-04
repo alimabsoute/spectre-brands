@@ -1,0 +1,71 @@
+{
+ "kicker": "The story",
+ "title": "The fastest-growing company on the internet, and what was left afterwards",
+ "lede": "Groupon did not go bankrupt and did not close. It shrank. This is the story of a business model that grew faster than almost anything before it, and of the smaller company that still carries the name.",
+ "chapters": [
+  {
+   "when": "2007 – 2009 · The pivot",
+   "title": "A side project on a site for group action",
+   "big": "$14.5M",
+   "cap": "revenue in 2009, the first full year of selling Groupons",
+   "color": "#357a11",
+   "body": "Before Groupon there was The Point, a website launched in November 2007 that let people pledge money or action that would only be collected once enough others joined.[^1] The company was incorporated in Delaware on January 15, 2008 as ThePoint.com, Inc.[^5] In his letter to IPO investors, founder Andrew Mason wrote that Groupon “started as a side project in October 2008” and “applied The Point’s technology to group buying.”[^1]\n\nThe first deals ran at groupon.thepoint.com. An archived page from November 2008 is headed “The Daily Groupon” and explains the rule: “You only get the discount if enough people join that day.”[^29] By January 2009, Mason wrote, “we had fully shifted our attention to Groupon.”[^1] Revenue was $5,000 in 2008 and $14.5M in 2009.[^1]",
+   "image": {
+    "image": "img/archive-2008-11-groupon.avif",
+    "caption": "groupon.thepoint.com as archived on Nov 5, 2008, about a month after the first deal. The capture did not save the stylesheet, so the page appears unstyled.[^29]",
+    "alt": "Unstyled archived web page headed The Daily Groupon, offering Jerusalem Symphony Orchestra tickets at 74 dollars off"
+   }
+  },
+  {
+   "when": "2010 · The offer",
+   "title": "Turning down Google",
+   "big": "~$6B",
+   "cap": "Google’s offer, as reported by Fortune on Dec 4, 2010. Not confirmed in a filing",
+   "color": "#16161A",
+   "body": "Revenue went from $14.5M in 2009 to $312.9M in 2010. The net loss attributable to Groupon went from $1.3M to $389.6M.[^1] The model was simple and easy to copy: a merchant agreed to a steep discount, Groupon emailed it to a city’s subscribers, and Groupon kept a share of what customers paid.[^1]\n\nIn early December 2010, Fortune reported that “Groupon’s board turned down offers of around $6 billion from Google,” adding that the purchase would have dwarfed the $1.65 billion Google paid for YouTube.[^21] The figure comes from press reports. We did not find the talks described in Groupon’s prospectus, which names Google only as a competitor and an advertising channel.",
+   "video": "demo2010"
+  },
+  {
+   "when": "Feb 2011 · The ad",
+   "title": "“Save the money”",
+   "big": "5 days",
+   "cap": "from the Super Bowl broadcast on Feb 6, 2011 to NPR’s report that the ads were pulled (derived)",
+   "color": "#8A6212",
+   "body": "Groupon bought airtime around Super Bowl XLV. The spots opened like charity appeals for Tibet, the rainforest and whales, then turned into pitches for a discount. NPR reported that viewers “thought they poked fun at some serious issues,” and that the company pulled the campaign.[^22]\n\n“We hate that we offended people, and we’re very sorry that we did — it’s the last thing we wanted,” Mason wrote on the company’s site.[^22] The episode did not slow the business. By September 30, 2011 Groupon counted 142.9M subscribers, 10,418 employees and operations in 45 countries.[^1]",
+   "video": "tibet"
+  },
+  {
+   "when": "Nov 2011 – Feb 2013 · The IPO",
+   "title": "Public at $20, and a founder fired",
+   "big": "$20.00",
+   "cap": "IPO price on Nov 4, 2011. The shares closed that day at $26.11",
+   "color": "#16161A",
+   "body": "Groupon sold 35 million shares at $20, raising $700M.[^1] Reuters called it the largest IPO by a U.S. internet company since Google’s in 2004. The stock closed its first day at $26.11, valuing the company at $16.7 billion.[^23]\n\nOn March 30, 2012 Groupon revised the fourth-quarter results it had already announced: revenue down $14.3M and net income down $22.6M, because refunds on higher-priced deals were running above its reserve. Its auditor’s work led to “a statement of a material weakness in its internal controls.”[^3]\n\nOn February 28, 2013 the board replaced Mason.[^4] His letter to staff began: “I’ve decided that I’d like to spend more time with my family. Just kidding – I was fired today.”[^24]",
+   "art": "art/hero.svg",
+   "artCaption": "A voucher with a clock on it: the daily deal, as sold. Original illustration."
+  },
+  {
+   "when": "2014 – 2020 · The retreat",
+   "title": "From 47 countries to 15, and out of first-party Goods",
+   "big": "1-for-20",
+   "cap": "reverse stock split, effective June 10, 2020",
+   "color": "#C2412D",
+   "body": "Active customers peaked at 53.9M at the end of 2014, when Groupon had 11,843 employees in 47 countries.[^5] Then it pulled back. It sold control of its Korean business in 2015, ceased operations in 13 countries that year, and by 2017 had cut its footprint “from 47 countries to the 15 core countries.”[^6][^8] In October 2016 it took over its largest rival, LivingSocial, for a price it described as “not material.”[^7]\n\nBy 2019 half of revenue came from Goods, merchandise that Groupon sold itself at thin margins.[^30] In February 2020 it said it would exit the category.[^9] The pandemic arrived a month later. In April the company said it would terminate or furlough about 2,800 employees.[^10] In June, with stockholder approval, it combined every 20 shares into one.[^11] Revenue fell from $2.22B in 2019 to $1.42B in 2020.[^20]",
+   "art": "art/reverse-split.svg",
+   "artCaption": "Twenty shares become one. Original illustration."
+  },
+  {
+   "when": "2022 – 2026 · The remnant",
+   "title": "Going-concern doubt, a new owner in charge, and a small recovery",
+   "big": "$498.4M",
+   "cap": "revenue in 2025, up 1% on 2024 and 84% below the 2014 peak (derived)",
+   "color": "#357a11",
+   "body": "Groupon’s annual report for 2022 carried a risk factor headed: “Our financial statements contain a statement regarding a substantial doubt about the Company’s ability to continue as a going concern.”[^13] In March 2023 the board named Dusan Senkypl interim chief executive. He came from Pale Fire Capital, an investment firm that was then Groupon’s largest shareholder with nearly 22% of the stock.[^15] An $80.0M rights offering, backstopped by Pale Fire, closed in January 2024, and management concluded that the doubt no longer applied.[^16]\n\nThe company that remains is a marketplace for local services in 13 countries. In 2025 it reported $498.4M of revenue, 16.2M active customers and 1,734 employees.[^17] Its chief executive called the year a return “to growth in both billings and revenue for the first time in a decade.”[^18] In the first half of 2026 revenue was $241.9M, slightly below the same period of 2025, and in May the board approved a plan to cut up to 400 more positions.[^19]",
+   "image": {
+    "image": "img/archive-2022-01-home.avif",
+    "caption": "groupon.com as archived on Jan 1, 2022: a searchable marketplace with categories, not one deal a day.[^29]",
+    "alt": "Groupon home page in January 2022 with a search bar, category tiles and a sign-up prompt"
+   }
+  }
+ ]
+}

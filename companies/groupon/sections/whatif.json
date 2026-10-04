@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Take the $6 billion",
+   "actual": "In December 2010 the board turned down offers from Google that Fortune put at around $6 billion.[^21] Eleven months later the IPO valued the company at $16.7 billion at the first day’s close.[^23] The market value held by outside shareholders was $3.70B in mid-2012, $519.7M in mid-2020 and $617.9M in mid-2025.[^20]",
+   "whatif": "At no mid-year reading from 2012 to 2025 did the shares held by outside investors reach $6 billion in value, although that measure leaves out insiders’ shares.[^20] It would also have put the product inside a company that later shut its own offers tool.[^28] The name would probably be gone. Whether the employees and merchants would have been better off is not something the numbers can answer."
+  },
+  {
+   "tab": "Stay local",
+   "actual": "Groupon added Goods, selling merchandise itself and booking the full price as revenue. By 2019 the category was half of revenue and about a sixth of gross profit (derived).[^30] It announced the exit in February 2020.[^9]",
+   "whatif": "Without Goods, reported revenue in 2019 would have been about $1.1B rather than $2.2B, and gross profit about $990M rather than $1.19B (derived from the same tables).[^30] A smaller, higher-margin company might have been valued more soberly and spared one restructuring. It would not have fixed the fall in Local customers, which continued after Goods was gone.[^17]"
+  },
+  {
+   "tab": "Fewer countries",
+   "actual": "The company expanded to 45 countries by the IPO, largely by buying or building local copies of itself, and to 47 by 2014.[^1][^5] From 2015 to 2017 it withdrew to 15.[^8] It now sells in 13.[^17]",
+   "whatif": "A slower expansion would have meant a smaller IPO and less of the 2015–2017 restructuring. In 2017 the International segment produced only 30.5% of gross profit.[^8] The risk on the other side was real: local clones were appearing in every market, and the prospectus treated speed as the defence.[^1]"
+  }
+ ]
+}

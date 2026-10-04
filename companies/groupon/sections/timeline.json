@@ -1,0 +1,277 @@
+{
+ "kicker": "Timeline",
+ "title": "Nineteen years, 31 moments",
+ "lede": "From a site for group action to a marketplace a fraction of its former size. The last entries are from the most recent filings. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "product": {
+   "label": "Product & marketing",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "retreat": {
+   "label": "Retreat",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "Nov 2007",
+   "year": "2007",
+   "cat": "product",
+   "title": "The Point launches",
+   "text": "A website for organising group action that only takes effect once a “tipping point” of people agree to take part.",
+   "src": [1]
+  },
+  {
+   "date": "Jan 15",
+   "year": "2008",
+   "cat": "corporate",
+   "title": "Incorporated as ThePoint.com, Inc.",
+   "text": "The Delaware corporation that later becomes Groupon, Inc.",
+   "src": [5]
+  },
+  {
+   "date": "Oct 2008",
+   "year": "",
+   "cat": "product",
+   "title": "Groupon starts as a side project",
+   "text": "The first deals are sold in Chicago from groupon.thepoint.com. Revenue for 2008 is $5,000.",
+   "src": [1, 29]
+  },
+  {
+   "date": "Jan 2009",
+   "year": "2009",
+   "cat": "corporate",
+   "title": "The company turns fully to Groupon",
+   "text": "“By January 2009, its popularity soaring, we had fully shifted our attention to Groupon,” Mason later wrote. Revenue for 2009 is $14.5M.",
+   "src": [1]
+  },
+  {
+   "date": "Dec 3",
+   "year": "2010",
+   "cat": "money",
+   "title": "Google’s offer is turned down",
+   "text": "Fortune reports that the board rejected offers of around $6 billion. Revenue for 2010 is $312.9M, with a net loss of $389.6M.",
+   "src": [21, 1]
+  },
+  {
+   "date": "Feb 6",
+   "year": "2011",
+   "cat": "product",
+   "title": "The Super Bowl ads",
+   "text": "Three spots parody charity appeals for Tibet, the rainforest and whales. By February 11 the company has apologised and pulled them.",
+   "src": [22]
+  },
+  {
+   "date": "Aug 26",
+   "year": "",
+   "cat": "rivals",
+   "title": "Facebook ends its deals test",
+   "text": "“After testing Deals for four months, we’ve decided to end our Deals product,” a spokesperson says.",
+   "src": [27]
+  },
+  {
+   "date": "Sep 30",
+   "year": "",
+   "cat": "corporate",
+   "title": "142.9M subscribers, 10,418 employees",
+   "text": "The prospectus counts 142,865,836 subscribers, 29.5M cumulative customers and operations in 45 countries.",
+   "src": [1]
+  },
+  {
+   "date": "Nov 4",
+   "year": "",
+   "cat": "money",
+   "title": "IPO at $20",
+   "text": "35 million shares raise $700M. The stock closes at $26.11, valuing the company at $16.7 billion.",
+   "src": [1, 23]
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "corporate",
+   "title": "11,471 employees at year-end",
+   "text": "8,782 of them work outside North America. Active customers are 33.7M, up from 8.9M a year earlier.",
+   "src": [2]
+  },
+  {
+   "date": "Mar 30",
+   "year": "2012",
+   "cat": "money",
+   "title": "Fourth-quarter results revised",
+   "text": "Revenue is cut by $14.3M and net income by $22.6M for higher refunds. The annual report discloses a material weakness in internal controls.",
+   "src": [3, 2]
+  },
+  {
+   "date": "Feb 28",
+   "year": "2013",
+   "cat": "corporate",
+   "title": "Andrew Mason is replaced",
+   "text": "Eric Lefkofsky and Ted Leonsis take over in an interim Office of the Chief Executive. Mason’s letter to staff says he was fired.",
+   "src": [4, 24]
+  },
+  {
+   "date": "Mar 5",
+   "year": "2014",
+   "cat": "rivals",
+   "title": "Google shuts its self-serve offers product",
+   "text": "A local search analyst reports that Google is closing the Offers tool in its Places dashboard.",
+   "src": [28]
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "corporate",
+   "title": "The peak: 53.9M active customers",
+   "text": "Groupon has 11,843 employees and sells in 47 countries. Gross billings for the year are $7.6 billion as first reported.",
+   "src": [5]
+  },
+  {
+   "date": "May 27",
+   "year": "2015",
+   "cat": "retreat",
+   "title": "Control of Ticket Monster sold",
+   "text": "Groupon sells a controlling stake in its Korean subsidiary and books a $202.2M pre-tax gain.",
+   "src": [6]
+  },
+  {
+   "date": "Sep 2015",
+   "year": "",
+   "cat": "retreat",
+   "title": "International restructuring",
+   "text": "The board approves workforce cuts abroad. During 2015 the company ceases operations in 13 countries (derived: six plus seven).",
+   "src": [6]
+  },
+  {
+   "date": "Dec 18",
+   "year": "",
+   "cat": "rivals",
+   "title": "Amazon Local closes",
+   "text": "Amazon stops selling daily deals. “We’ve learned a great deal from the daily deals business,” a spokesperson says.",
+   "src": [26]
+  },
+  {
+   "date": "Oct 26",
+   "year": "2016",
+   "cat": "rivals",
+   "title": "Groupon takes over LivingSocial",
+   "text": "The price is “not material.” Groupon also says it will operate in 15 countries, down from 27.",
+   "src": [7, 25]
+  },
+  {
+   "date": "Dec 31",
+   "year": "2017",
+   "cat": "corporate",
+   "title": "A second, lower peak",
+   "text": "Active customers reach 49.5M with LivingSocial included. Employees: 6,672 (derived sum of two segments).",
+   "src": [8]
+  },
+  {
+   "date": "Feb 2020",
+   "year": "2020",
+   "cat": "retreat",
+   "title": "Exit from Goods announced",
+   "text": "Groupon says it will “exit the Goods category by the end of 2020.” Goods had been half of 2019 revenue.",
+   "src": [9, 30]
+  },
+  {
+   "date": "Apr 13",
+   "year": "",
+   "cat": "retreat",
+   "title": "About 2,800 jobs cut or furloughed",
+   "text": "A multi-phase restructuring in response to the pandemic. Goods will continue only “as a third-party marketplace partner.”",
+   "src": [10]
+  },
+  {
+   "date": "Jun 10",
+   "year": "",
+   "cat": "money",
+   "title": "1-for-20 reverse stock split",
+   "text": "Every 20 shares are combined into one after stockholders approve the plan on June 9.",
+   "src": [11]
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "retreat",
+   "title": "A year of contraction",
+   "text": "Revenue falls to $1.42B from $2.22B. Active customers fall to 29.6M from 43.6M. Employees: 4,159.",
+   "src": [12, 20]
+  },
+  {
+   "date": "Aug 2022",
+   "year": "2022",
+   "cat": "retreat",
+   "title": "Another restructuring plan",
+   "text": "The plan is expected to remove about 1,000 positions in two phases. The year ends with 2,904 employees.",
+   "src": [13, 14]
+  },
+  {
+   "date": "Mar 16",
+   "year": "2023",
+   "cat": "money",
+   "title": "Going-concern language",
+   "text": "The annual report says conditions “raise substantial doubt about our ability to continue as a going concern.”",
+   "src": [13]
+  },
+  {
+   "date": "Mar 2023",
+   "year": "",
+   "cat": "corporate",
+   "title": "Pale Fire’s co-founder becomes CEO",
+   "text": "Dusan Senkypl replaces Kedar Deshpande on an interim basis. Pale Fire Capital holds nearly 22% of the shares.",
+   "src": [15]
+  },
+  {
+   "date": "Jan 22",
+   "year": "2024",
+   "cat": "money",
+   "title": "$80.0M rights offering closes",
+   "text": "7,079,646 shares are sold at $11.30. Management concludes that substantial doubt no longer exists.",
+   "src": [16]
+  },
+  {
+   "date": "May 2024",
+   "year": "",
+   "cat": "corporate",
+   "title": "Senkypl made permanent CEO",
+   "text": "He had been interim chief executive since March 2023.",
+   "src": [17]
+  },
+  {
+   "date": "Mar 10",
+   "year": "2026",
+   "cat": "money",
+   "title": "2025 results: a small increase",
+   "text": "Revenue of $498.4M, up 1%. Gross billings of $1.67B, up 7%. A net loss attributable to Groupon of $83.5M.",
+   "src": [17, 18]
+  },
+  {
+   "date": "May 2026",
+   "year": "",
+   "cat": "retreat",
+   "title": "Up to 400 more positions to go",
+   "text": "The board approves a restructuring plan tied to rebuilding Groupon “as an AI-native company.”",
+   "src": [19]
+  },
+  {
+   "date": "Aug 6",
+   "year": "",
+   "cat": "money",
+   "title": "Latest filing",
+   "text": "First-half revenue is $241.9M. Active customers are 16.1M. Cash is $226.3M and total equity is negative $72.1M.",
+   "src": [19]
+  }
+ ]
+}
