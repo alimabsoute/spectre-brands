@@ -149,8 +149,8 @@ h1.name{font-size:var(--t-4xl);line-height:.98;letter-spacing:-.03em;margin:var(
 .portrait .hero-fig{grid-column:auto!important}
 .portrait .hero-fig img{aspect-ratio:4/3!important}
 .portrait .hero-intro{grid-column:2;grid-template-columns:minmax(0,1fr);margin-top:0}
-.hero-art{background:var(--brand-soft);border-radius:var(--r-2);padding:var(--s-5) var(--s-5) var(--s-3);overflow:hidden}
-.hero-art svg{width:100%;height:auto;max-height:21rem;margin:0 auto}
+/* drawings sit straight on the page: ink and the brand accent, no tinted panel */
+.hero-art svg{width:100%;height:auto;max-height:26rem;margin:0 auto}
 figcaption{font:var(--t-sm)/1.45 var(--sans);color:var(--ink-2);margin-top:var(--s-2)}
 .credit{display:block;color:var(--mute);font-size:var(--t-xs);margin-top:.2rem}
 /* image viewer: every a.zoom opens here (and is a plain link to the file without JavaScript) */

@@ -14,8 +14,8 @@
 .chap-dots i.on{background:var(--c)}
 .chap-fig .big{font:600 clamp(2.6rem,1.4rem + 4vw,4.25rem)/1 var(--serif);letter-spacing:-.035em;margin:var(--s-4) 0 var(--s-2);color:var(--c);font-variant-numeric:tabular-nums lining-nums;overflow-wrap:anywhere}
 .chap-fig .cap{font:var(--t-md)/1.45 var(--sans);color:var(--ink-2);max-width:26rem}
-.chap-art{background:var(--brand-soft);border-radius:var(--r-2);padding:var(--s-5)}
-.chap-art svg{width:100%;height:auto;max-height:15rem;margin:0 auto}
+.chap-art svg{width:100%;height:auto;max-height:19rem;margin:0 auto}
+.chap:nth-child(even) .chap-art svg{max-height:13rem;margin:0}
 .chap-img img{width:100%;border:1px solid var(--line);border-radius:var(--r-2);background:var(--card);max-height:22rem;object-fit:cover;object-position:top}
 .chap-text{max-width:var(--measure)}
 .chap .when{font:600 var(--t-sm) var(--sans);color:var(--brand);margin-bottom:var(--s-2)}
@@ -110,7 +110,7 @@ table.kf caption{caption-side:top;text-align:left;font-weight:600;color:var(--in
 table.kf td,table.kf th{border-bottom:1px solid var(--line);padding:.7rem .8rem .7rem 0;vertical-align:top;color:var(--ink-2);text-align:left;font-weight:400}
 table.kf .kv{font:600 var(--t-lg)/1.15 var(--serif);letter-spacing:-.02em;color:var(--ink);white-space:nowrap;width:1%;padding-right:var(--s-5);font-variant-numeric:tabular-nums lining-nums}
 .drawcard{display:grid;grid-template-columns:15rem minmax(0,1fr);gap:var(--s-6);align-items:center}
-.draw{background:var(--brand-soft);padding:var(--s-4);border-radius:var(--r-2)}
+.draw{padding:0}
 .draw svg{width:100%;height:auto}
 .drawcard h3{margin-bottom:var(--s-2)}
 .drawcard p{color:var(--ink-2);margin-bottom:var(--s-3)}
@@ -178,11 +178,15 @@ table.kf .kv{font:600 var(--t-lg)/1.15 var(--serif);letter-spacing:-.02em;color:
 .gl-marks{display:flex;flex-wrap:wrap;gap:var(--s-5) var(--s-7);align-items:flex-end;padding-top:var(--s-5);border-top:1px solid var(--line)}
 .gl-mark{flex:0 1 20rem;min-width:0}
 .gl-mark img{width:auto;max-width:min(100%,var(--w));max-height:10rem}
-.gd-item:hover{transform:translateY(-3px) rotate(-.4deg);box-shadow:var(--shadow-2)}
-.gd-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:var(--s-5)}
-.gd-item{background:var(--brand-soft);border-radius:var(--r-2);padding:var(--s-4);transition:transform var(--d-2) var(--ease),box-shadow var(--d-2)}
-.gd-item svg{width:100%;height:13rem}
-.gd-item figcaption{color:var(--ink-2)}
+/* original drawings: ink on the page at different sizes, standing on one line, labels underneath */
+.gd-grid{display:grid;grid-template-columns:repeat(24,minmax(0,1fr));grid-template-rows:auto auto;gap:var(--s-2) var(--s-6)}
+.gd-item{display:grid;grid-template-rows:subgrid;grid-row:span 2;grid-column:span 5}
+.gd-item:nth-child(4n+1){grid-column:span 8}
+.gd-item:nth-child(4n+3){grid-column:span 6}
+.n3 .gd-item:nth-child(1){grid-column:span 10}.n3 .gd-item:nth-child(2){grid-column:span 6}.n3 .gd-item:nth-child(3){grid-column:span 8}
+.gd-item svg{width:100%;height:auto;align-self:end}
+.gd-item figcaption{align-self:start;border-top:1px solid var(--ink);padding-top:var(--s-2)}
+.gd-credit{font:var(--t-xs)/1.5 var(--sans);color:var(--mute);margin-top:var(--s-4)}
 .recreation{background:var(--card);border:1px solid var(--line-2);border-radius:var(--r-2);font-family:var(--r-font);box-shadow:var(--shadow-2);overflow:hidden}
 .r-bar{background:var(--r-bar);color:var(--r-bar-fg);display:flex;justify-content:space-between;align-items:center;padding:.9rem 1.25rem;gap:.6rem;flex-wrap:wrap}
 .r-word{font-weight:700;font-size:2rem;letter-spacing:-.02em;line-height:1}
@@ -284,6 +288,9 @@ ol.sources li:target{background:var(--brand-soft);box-shadow:inset 3px 0 0 var(-
 .tlx-bar .chip{flex:none}
 .r-nav.tabs{padding-left:.5rem}.r-body,.r-main{grid-template-columns:minmax(0,1fr)}.r-side{display:none}
 .swatches{grid-template-columns:repeat(3,minmax(0,1fr))}ol.sources{columns:1}.drawcard{grid-template-columns:minmax(0,1fr)}.draw{max-width:16rem}
+.gd-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--s-2) var(--s-4)}
+.gd-grid .gd-item{grid-column:span 1!important}
+.gd-grid.n3 .gd-item:first-child{grid-column:span 2!important}.n3 .gd-item:first-child svg{max-width:16rem}
 .shot{max-height:27rem}
 }
 @media (max-width:620px){

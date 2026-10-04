@@ -25,13 +25,12 @@
 .stone-cap b{display:block;font:600 var(--t-md)/1.2 var(--serif);letter-spacing:-.012em;color:var(--ink)}
 .stone.big .stone-cap b{font-size:var(--t-xl)}
 .stone:hover .stone-cap b{color:var(--brand)}
-@keyframes drift-ghost{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
 
 .tiers-sec{padding:var(--s-7) 0;border-bottom:1px solid var(--line)}
 .tiers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--s-7)}
 .tier{display:grid;grid-template-columns:3.5rem minmax(0,1fr);gap:var(--s-5);align-items:start}
 .tier-ic svg{width:3.5rem;height:auto;color:var(--ink)}
-.tier-ic.ghosty svg{color:var(--ghost);animation:drift-ghost 5s var(--ease-in-out) infinite}
+.tier-ic.ghosty svg{color:var(--ghost)}
 .tier h3{font:600 var(--t-lg)/1.2 var(--serif);margin-bottom:var(--s-2);display:flex;align-items:center;gap:var(--s-3)}
 .tier p{font-size:1.0625rem;color:var(--ink-2);line-height:1.5}
 .tier-eg{font:var(--t-md)/1.5 var(--sans)!important;margin-top:var(--s-3);color:var(--mute)!important}
@@ -103,21 +102,6 @@
 .defs>div{display:grid;grid-template-columns:5rem minmax(0,1fr);gap:var(--s-4);padding:var(--s-3) 0;border-top:1px solid var(--line)}
 .defs dd{color:var(--ink-2);font-size:1.0625rem}
 
-/* idle motion for the hero illustration (set per company with hero.motion) */
-.hero-art svg{transform-origin:50% 90%}
-.motion-float svg{animation:m-float 6s var(--ease-in-out) infinite}
-.motion-bob svg{animation:m-bob 3.2s var(--ease-in-out) infinite}
-.motion-drive svg{animation:m-drive 5s var(--ease-in-out) infinite}
-.motion-flicker svg{animation:m-float 7s var(--ease-in-out) infinite}
-.motion-flicker svg .screen,.motion-flicker svg .glow{animation:m-flicker 3.7s steps(1) infinite}
-.motion-fizz svg{animation:m-fizz 4s var(--ease-in-out) infinite}
-.motion-spin svg .spin{animation:m-spin 9s linear infinite;transform-box:fill-box;transform-origin:center}
-@keyframes m-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
-@keyframes m-bob{0%,100%{transform:rotate(-2.2deg)}50%{transform:rotate(2.2deg) translateY(-3px)}}
-@keyframes m-drive{0%,100%{transform:translateX(-7px) rotate(-.4deg)}50%{transform:translateX(7px) rotate(.4deg)}45%,55%{transform:translateX(7px) translateY(-2px)}}
-@keyframes m-flicker{0%,100%{opacity:1}42%{opacity:.55}44%{opacity:1}71%{opacity:.75}73%{opacity:1}}
-@keyframes m-fizz{0%,100%{transform:rotate(0)}25%{transform:rotate(-1.4deg)}75%{transform:rotate(1.4deg) translateY(-3px)}}
-@keyframes m-spin{to{transform:rotate(360deg)}}
 /* drawings that travel as you scroll (browsers with scroll-driven animations) */
 @supports (animation-timeline:view()){
 .gd-item svg,.chap-art svg{animation:m-enter linear both;animation-timeline:view();animation-range:entry 0% cover 40%}

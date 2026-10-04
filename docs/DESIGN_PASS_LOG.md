@@ -189,3 +189,42 @@ nor a hover preview was added (see NOTES).
 - All seven category pages open on a real image (read back from the built HTML: each `ph-img` holds a `<picture>`).
 - The first `npm run check` failed: the electronics page had a dead `#src-16` link, because RadioShack's image
   caption carries a footnote. Footnotes in that caption now link to the brand page's sources. The re-run passed.
+
+## 5. Original illustrations
+
+### Research
+
+Mobbin (`search_screens`, web):
+
+| Query | Top hits |
+| --- | --- |
+| article page with hand-drawn spot illustrations placed inline between paragraphs | [GetYourGuide article](https://mobbin.com/screens/1e654ccf-6ad7-4821-8ea6-20b86cd353b8), [Mintlify docs](https://mobbin.com/screens/0009ec65-be9e-4065-ad21-9d6aef32d94c), [Microsoft Copilot document](https://mobbin.com/screens/295f5c48-ed5f-44a7-830a-490e0cfa0ab5). None has illustrations. |
+| landing page section with ink line drawings in one accent colour on a plain background | [Microsoft Copilot experiments](https://mobbin.com/screens/c912dc52-284e-47e8-a25c-e43230d5a0ea), [Dropbox Dash](https://mobbin.com/screens/31a95e42-7374-4c6e-a4fb-39f1da438580), [Bloom: one object rendered in a single accent on a plain ground](https://mobbin.com/screens/9fd42782-3bf7-478d-9fa3-6fc5786ab57a) |
+
+Mobbin has product UI, not editorial illustration; only the Bloom hit was usable.
+
+21st.dev (`search`, components):
+
+| Query | Top hits |
+| --- | --- |
+| hand drawn illustration | [adrielzimbril Doodle Callout](https://21st.dev/@adrielzimbril/components/doodle-callout), [pulkitxm Handwriting SVG](https://21st.dev/@pulkitxm/components/handwriting-svg), [dqnamo Animated Signature](https://21st.dev/@dqnamo/components/signature) |
+| sketch annotation | [xubohuah Bubble Sketch](https://21st.dev/@xubohuah/components/bubble-sketch), [airbnb-visx Annotation](https://21st.dev/@airbnb-visx/components/annotation), [ruixen.ui Sketchpad Dropzone](https://21st.dev/@ruixen.ui/components/sketchpad-dropzone) |
+
+shadcn (CLI `view`): `@shadcn/aspect-ratio` and `@shadcn/card`. Neither was used: the drawings now sit on the
+page with no card and take their own proportions.
+
+### Measured and verified
+
+- 68 drawings in 17 brands go through `lib/sketch.mjs` at build time (counted by running it over every file).
+- Source colours are gone from the built pages: `grep` for three of Circuit City's old fills in
+  `dist/circuit-city/index.html` returns 0.
+- Handwriting (Caveat) in drawings: the only labels left in any built brand page are "Because pets" and
+  "can't drive!", inside the sock puppet's speech bubble. The other 20 handwritten notes are now plain small labels
+  with the same words.
+- Cost: the drawings grow from 105 KB to 659 KB of SVG in total, because hand-drawn lines and hatching are longer
+  paths. Page HTML: Pets.com 204 KB to 244 KB (62 KB gzipped), Kiddie City 160 KB to 264 KB (70 KB gzipped),
+  homepage 56 KB to 84 KB (23 KB gzipped).
+- Screenshots reviewed at 1280 and 375: `docs/design-pass/after/05-illustrations/`. The first phone capture
+  overflowed (a 24-column grid with gaps is wider than a phone); the phone layout was changed to two columns and
+  the re-capture reported no layout problems.
+- `npm run check` passed.

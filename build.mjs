@@ -15,6 +15,7 @@ import { categoryPage, aboutPage } from './lib/pages.mjs';
 import { row, ledgerHead, decadeOf } from './lib/cards.mjs';
 import { imageInfo, imageKind, strength, picture, PROVIDERS, VIDEO_TYPES } from './lib/media.mjs';
 import { json, esc } from './lib/md.mjs';
+import { sketch } from './lib/sketch.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const argv = process.argv.slice(2);
@@ -88,7 +89,8 @@ function makeCtx(c) {
     if (!file) return '';
     const p = path.join(c.dir, file);
     if (!fs.existsSync(p)) { errors.push(`${c.slug}: missing drawing ${file}`); return ''; }
-    return rd(p).replace(/<\?xml[^>]*>\s*/, '').replace(/<!--[\s\S]*?-->/g, '').trim();
+    // every drawing is traced again by hand, in ink and the brand accent (lib/sketch.mjs)
+    return sketch(rd(p).replace(/<\?xml[^>]*>\s*/, '').replace(/<!--[\s\S]*?-->/g, '').trim(), c.theme.accent, `${c.slug}/${file}`);
   };
   ctx.image = file => {
     const i = imageInfo(c.dir, `/${c.slug}`, file);

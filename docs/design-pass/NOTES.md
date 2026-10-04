@@ -116,3 +116,36 @@ Rows span the full width, so a category with two brands is two lines, not a card
 - Not added: a grid/list switch (one view is enough for 17 brands) and a hover preview (each row already shows
   the image).
 - Phone: each row becomes three short lines (logo, name and status; cause and sparkline; key figure).
+
+## 5. Original illustrations
+
+References:
+
+- **Bloom landing page** (Mobbin): one object drawn in a single accent colour on a plain ground. The model for
+  "the brand accent plus near-black, no panel".
+- **Bubble Sketch** (21st.dev): shapes drawn with a rough, wobbling outline rather than clean vectors. The same
+  technique rough.js gives, which is already vendored here.
+- **visx Annotation** (21st.dev): a plain small label tied to the thing it describes. The model for turning the
+  handwritten notes inside drawings into quiet labels.
+
+Approach: every drawing is traced again by hand at build time (`lib/sketch.mjs`). The source SVGs are untouched.
+The vendored rough.js generator re-draws each shape with a wobbling pen line; colour is reduced to near-black ink,
+the brand accent (hatched on large areas, solid on small ones and behind lettering) and paper white. The quality
+bar was the Pets.com sock puppet: it keeps its shapes and its speech bubble and gains the same line as the rest.
+
+- Nothing is redrawn or added: geometry and wording come from the existing files, so no trademarked character is
+  drawn that was not already an original drawing.
+- No tinted panels: the pastel cards behind drawings are gone in the hero, the story, the gallery and the
+  "then and now" slider.
+- Varied scale: the gallery drawings stand on one line at different widths (8, 5, 6 and 5 of 24 columns) with
+  their labels under a rule, instead of four equal pink cards. Story drawings alternate between a large and a
+  small size from chapter to chapter.
+- Handwriting stays only inside drawn speech bubbles. The rule in code is "bold Caveat lettering is a speech
+  bubble"; that matches the one bubble in the current art (the sock puppet) and would need a real marker if
+  more bubbles are drawn.
+- The idle float, bob, drive and fizz animations on the hero drawing are removed, as is the drifting ghost icon.
+- **Gap: drawings are not moved into the story.** The gallery drawings have no link to a story chapter in the
+  data, so placing them beside particular paragraphs would mean inventing that link. Chapters that already name
+  a drawing keep it inline.
+- Done at build time rather than in the browser, so the hand-made line shows without JavaScript and costs no
+  runtime work. The cost is page weight (see the log).
