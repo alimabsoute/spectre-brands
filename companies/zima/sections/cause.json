@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "Trial without repeat",
+   "text": "Coors estimated that 70% of regular drinkers tried Zima in 1994. Volume then fell about 49% in 1995, and by 1996 it was 403,000 barrels against about 1.3 million at launch. The brand manager’s own description was a brand that had “shaken down to a base of committed users.”[^3][^12][^13]"
+  },
+  {
+   "weight": 25,
+   "title": "An image its target rejected",
+   "text": "Zima was aimed at men aged 21 to 34 and sold best to young women. The agency said it was “invited to be seen as wussy,” and Letterman made it a running joke. Zima Gold, the attempt to win men back, was withdrawn within the year.[^12][^13][^3]"
+  },
+  {
+   "weight": 15,
+   "title": "A fad category",
+   "text": "Zima was launched into the clear craze alongside Crystal Pepsi and Miller Clear, none of which lasted. An industry analyst said in 1995 that “the low-alcohol refresher category is not a long-lasting one.”[^25][^22][^12]"
+  },
+  {
+   "weight": 15,
+   "title": "Outflanked by spirit-branded rivals",
+   "text": "Smirnoff Ice arrived in January 2001 and up to twelve malternatives were expected by summer 2002, backed by more than $350 million of marketing. Coors reported that Zima was “impacted disproportionately.”[^20][^8]"
+  },
+  {
+   "weight": 10,
+   "title": "Regulation at the end",
+   "text": "A Utah labelling law and California’s decision to tax flavoured malt beverages as spirits from October 1, 2008 removed two markets, one of them among Zima’s largest. Production stopped nine days later.[^13][^14]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings and press reports document the symptoms. How much each one contributed is a matter of opinion."
+}

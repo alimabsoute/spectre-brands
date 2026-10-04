@@ -1,0 +1,88 @@
+{
+ "kicker": "Where is it now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Withdrawn",
+   "color": "var(--red)",
+   "title": "The U.S. product",
+   "text": "Production ended on October 10, 2008. Distributors were asked to fill the space with Sparks.[^14][^15]"
+  },
+  {
+   "status": "Revived, briefly",
+   "color": "var(--gold)",
+   "title": "The limited releases",
+   "text": "Sold from the July 4 weekend to Labor Day in 2017 and again from May 2018, with 20% more made the second time. MillerCoors did not publish the size of either run. There was no release in 2019.[^24][^26][^28]"
+  },
+  {
+   "status": "Still on sale",
+   "color": "var(--green)",
+   "title": "Japan",
+   "text": "Sold by Coors’s Japanese subsidiary from the late 1990s until shipments stopped at the end of 2021. Hakutsuru Sake Brewing relaunched it on March 31, 2023 at ¥298 a bottle before tax. The brand’s Japanese site, zima.jp, was online when we checked in October 2026.[^7][^30][^31]"
+  },
+  {
+   "status": "Lapsed",
+   "color": "var(--mute)",
+   "title": "The U.S. trademark",
+   "text": "Molson Coors let its registration expire in 2024 while Retrobrands, a company that revives old brands, was seeking to cancel it and register the name itself. The outcome of that application is not in our sources.[^32]"
+  },
+  {
+   "status": "Carried on",
+   "color": "var(--blue)",
+   "title": "The owner",
+   "text": "Adolph Coors Company became Molson Coors in 2005 and put its U.S. business into MillerCoors in 2008.[^11]"
+  },
+  {
+   "status": "Vindicated",
+   "color": "var(--green)",
+   "title": "The idea",
+   "text": "U.S. off-premise sales of hard seltzer reached about $1.5 billion in 2019, up from $496 million the year before.[^35]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned or sold the name",
+   "subtitle": "The brand was never sold. Its owner changed shape around it three times.",
+   "nodes": [
+    {
+     "when": "1992",
+     "owner": "Coors Brewing Company",
+     "what": "Introduces Zima in three test markets and sets up the Zima Beverage Company as an operating unit in Memphis.[^1][^33]"
+    },
+    {
+     "when": "2005",
+     "owner": "Molson Coors Brewing Company",
+     "what": "Formed by the merger of Adolph Coors Company and Molson Inc. on February 9, 2005.[^11]"
+    },
+    {
+     "when": "Jul 2008",
+     "owner": "MillerCoors LLC",
+     "what": "The U.S. joint venture of Molson Coors and SABMiller takes over the brand at home. Molson Coors keeps Japan.[^11]"
+    },
+    {
+     "when": "Oct 2008",
+     "owner": "Withdrawn in the U.S.",
+     "what": "Production ends on October 10.[^14]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "2017–18",
+     "owner": "MillerCoors",
+     "what": "Two limited summer releases.[^24][^26]"
+    },
+    {
+     "when": "2023",
+     "owner": "Hakutsuru Sake Brewing (Japan)",
+     "what": "Exclusive import and sales agreement with Molson Coors for Zima and Blue Moon in Japan.[^31]",
+     "status": "current"
+    },
+    {
+     "when": "2024",
+     "owner": "U.S. registration expires",
+     "what": "Molson Coors lets the U.S. mark lapse. Retrobrands has applied for it.[^32]"
+    }
+   ]
+  }
+ ]
+}

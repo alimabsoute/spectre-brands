@@ -1,0 +1,117 @@
+{
+ "name": "Zima",
+ "number": "010",
+ "tier": "ghost",
+ "tierWhy": "U.S. production ended on October 10, 2008, but the name never went fully out of use: MillerCoors sold limited runs in the summers of 2017 and 2018, and Hakutsuru Sake Brewing has sold Zima in Japan under an agreement with Molson Coors since March 31, 2023.[^14][^26][^31]",
+ "category": "consumer",
+ "cause": "fad",
+ "years": "1992 – 2008",
+ "died": 2008,
+ "dates": [
+  {
+   "date": "2008-10-10",
+   "text": "went out of production in the United States, sixteen years after its first test markets"
+  },
+  {
+   "date": "2008-10-20",
+   "text": "was declared discontinued in a MillerCoors letter to distributors"
+  },
+  {
+   "date": "2023-03-31",
+   "text": "went back on sale in Japan through Hakutsuru Sake Brewing"
+  }
+ ],
+ "place": "Clear malt beverage · Golden, Colorado (brewed in Memphis, Tennessee)",
+ "title": "Zima (1992–2008): post-mortem · Spectre Brands",
+ "description": "Coors’s clear malt beverage sold about 1.3 million barrels in 1994 and half that a year later. A sourced post-mortem of Zima, from the clear craze to the limited re-releases, with charts, commercials and the archived website.",
+ "theme": {
+  "accent": "#1b3f8f",
+  "soft": "#e8eef9"
+ },
+ "card": {
+  "blurb": "Coors filtered the colour and the taste out of a beer, added citrus and spent tens of millions telling America it was zomething different. Most drinkers tried it once.",
+  "stat": {
+   "value": "−49%",
+   "label": "volume in 1995, the year after the national launch"
+  },
+  "spark": [
+   1300,
+   663,
+   403,
+   610,
+   0
+  ],
+  "peak": 0,
+  "logo": "img/logo-1996.avif",
+  "logoYear": "1996"
+ },
+ "hero": {
+  "dates": "Test-marketed from September 1992. U.S. production ended October 10, 2008.",
+  "standfirst": "It was not a beer and not a wine cooler. For one year, that was enough.",
+  "deck": "Zima was a product, not a company, so there was no bankruptcy. There was a launch year in which Coors sold about 1.3 million barrels of a clear, citrus-flavoured malt drink, and a second year in which it sold roughly half as many. The brand then survived for thirteen more years on reformulations, was withdrawn in 2008, and has come back twice as a summer novelty. This post-mortem is built from Coors’s SEC filings, the press of the time and the brand’s own archived website. Where a figure is not public, it says so.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration in the spirit of the ribbed clear bottle. Not an official asset.",
+  "motion": "fizz",
+  "archive": [
+   {
+    "image": "img/logo-1996.avif",
+    "caption": "zima.com banner, Oct 1996",
+    "alt": "Banner from the 1996 zima.com home page reading ZIMA.COM, Adult humanz only, 21 means 21"
+   },
+   {
+    "image": "img/photo-bottle.avif",
+    "caption": "A bottle sold in Japan, 2013",
+    "alt": "A clear ribbed glass Zima bottle with a blue label"
+   },
+   {
+    "image": "img/archive-2017-07-home.avif",
+    "caption": "The 2017 re-release site",
+    "alt": "The 2017 zima.com age gate with a bottle on a starry blue background"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The brand in four numbers",
+  "rows": [
+   {
+    "value": "1.3M",
+    "text": "barrels sold in 1994, the year Zima went national (rounded; see data notes)[^12][^13]"
+   },
+   {
+    "value": "49%",
+    "text": "fall in Zima volume in 1995, as reported in Coors’s 10-K[^3]"
+   },
+   {
+    "value": "403,000",
+    "text": "barrels in 1996, as reported by Slate[^13]"
+   },
+   {
+    "value": "70%",
+    "text": "of regular U.S. drinkers tried Zima in 1994, by Coors’s own estimate[^13]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "Trial was never the problem.",
+   "text": "Coors estimated that 70% of America’s regular drinkers tried Zima in 1994.[^13] The brand manager called the trial curve “so huge we almost hit 1.3 million barrels.”[^12]"
+  },
+  {
+   "title": "Repeat purchase was.",
+   "text": "Coors’s 10-K for 1995 says Zima volumes fell about 49% from the launch year. In the second quarter of 1995 the fall was about 60%.[^3][^12]"
+  },
+  {
+   "title": "The drop hurt because Zima was profitable.",
+   "text": "The same filing says Zima had a higher gross profit percentage than Coors’s other brands, so lower Zima volume cut the company’s gross margin from 36.1% to 34.8%.[^3]"
+  },
+  {
+   "title": "Men were the target, and men left.",
+   "text": "The agency that made the ads conceded in 1995 that the drink was “invited to be seen as wussy.”[^12] Zima Gold, built to win men back, was withdrawn within the year.[^3]"
+  },
+  {
+   "title": "The name outlived the product.",
+   "text": "After the 2008 withdrawal Zima stayed on sale in Japan, returned to U.S. shelves for the summers of 2017 and 2018, and was relaunched in Japan in 2023.[^26][^30][^31]"
+  }
+ ],
+ "published": "2026-10-03"
+}

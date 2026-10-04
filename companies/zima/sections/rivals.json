@@ -1,0 +1,142 @@
+{
+ "kicker": "The rivals",
+ "title": "The imitators died first. The successors did not.",
+ "lede": "Zima’s first competitors were other brewers’ clear malts, and none of them lasted. The products that took its market arrived seven years later with a spirits brand on the label.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Clear malts and what came after",
+   "subtitle": "Zima, the copies of 1993–95, and the two products that later owned the shelf it opened.",
+   "metric": "Headline figure",
+   "items": [
+    {
+     "name": "Zima (Coors)",
+     "status": "ghost",
+     "self": true,
+     "value": "1.3M barrels",
+     "text": "1994 volume. Withdrawn in the U.S. in 2008; limited runs in 2017 and 2018; on sale in Japan.[^12][^14][^31]",
+     "data": [
+      1300,
+      663,
+      403,
+      610
+     ],
+     "range": [
+      "1994",
+      "2000: 610K"
+     ]
+    },
+    {
+     "name": "Miller Clear",
+     "status": "dead",
+     "value": "Test only",
+     "text": "A clear beer tested in 1993. It never left its test markets.[^25] Slate: it “failed miserably.”[^13]"
+    },
+    {
+     "name": "Clash (Stroh)",
+     "status": "dead",
+     "value": "3 states",
+     "text": "Tested in Colorado, New Mexico and Arizona from May 1994 as “the brewer’s answer to Zima.”[^19] Slate lists it among the me-too products that failed.[^13]"
+    },
+    {
+     "name": "Zima Gold (Coors)",
+     "status": "dead",
+     "value": "About 3 months",
+     "text": "Coors’s own amber spin-off, launched nationally in May 1995 and withdrawn that summer.[^12][^3]"
+    },
+    {
+     "name": "Smirnoff Ice",
+     "status": "alive",
+     "value": "Jan 2001",
+     "text": "U.S. introduction. Slate says Zima “lost significant market share” to it. Still on shelves when Zima returned in 2017.[^20][^13][^25]"
+    },
+    {
+     "name": "White Claw",
+     "status": "alive",
+     "value": "47.7M cases",
+     "text": "2019 volume, up from 11.3 million in 2018, in a hard seltzer market Nielsen put at about $1.5 billion.[^35]",
+     "data": [
+      11.3,
+      47.7
+     ],
+     "range": [
+      "2018: 11.3M",
+      "2019"
+     ]
+    }
+   ],
+   "source": "Figures as cited. Miller also tested a clear malt called Qube in Providence and Sacramento, and Pabst had one called Izen Klar; we found no volume figures for any of the clear-malt rivals.[^12][^13] Units differ between rows (barrels and 2.25-gallon cases) and are not comparable."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "name": "Zima",
+    "tag": "1992–2008",
+    "alive": false,
+    "rows": [
+     [
+      "Made by",
+      "Coors Brewing Company"
+     ],
+     [
+      "Base",
+      "Malt, filtered clear"
+     ],
+     [
+      "Name on the label",
+      "A new word"
+     ],
+     [
+      "National launch",
+      "Feb 1994"
+     ],
+     [
+      "Peak volume",
+      "About 1.3M barrels (1994)"
+     ],
+     [
+      "Sold to",
+      "Meant for men, bought by women"
+     ]
+    ]
+   },
+   "right": {
+    "name": "Smirnoff Ice",
+    "tag": "2001–",
+    "alive": true,
+    "rows": [
+     [
+      "Made by",
+      "Guinness-Bass Import Co. at launch"
+     ],
+     [
+      "Base",
+      "Malt in the U.S., no vodka"
+     ],
+     [
+      "Name on the label",
+      "A vodka brand"
+     ],
+     [
+      "National launch",
+      "Jan 2001"
+     ],
+     [
+      "Peak volume",
+      "Not in our sources"
+     ],
+     [
+      "Sold to",
+      "Not in our sources"
+     ]
+    ]
+   },
+   "source": "Zima: Coors filings and Westword[^1][^12][^13]. Smirnoff Ice: Supermarket News, Apr 2002[^20]; Slate notes that it “benefits from confusion over whether it contains vodka” and that in the U.S. it does not.[^13]"
+  },
+  {
+   "kind": "text",
+   "title": "Why the second wave won",
+   "body": "By 2002 the trade press was calling these drinks “malternatives” and counting as many as twelve brands expected by the end of the summer, most of them carrying a spirits name: Smirnoff Ice, Bacardi Silver, Skyy Blue. The three big brewers were expected to spend more than $350 million between them on marketing the category.[^20] Coors’s own entry that year was not Zima but a new fruit-flavoured brand called Vibe, which Supermarket News reported it was preparing to launch.[^20]\n\nCoors’s annual report for 2002 says Zima “was impacted disproportionately by the recent influx of new FABs in the United States.”[^8] Zima XXX in 2004 was an attempt to join them.[^9]\n\nThe category Zima opened is larger now than it ever was in the 1990s. Hard seltzers, which are also clear, lightly flavoured and usually malt- or sugar-based, went from $496 million to about $1.5 billion in U.S. off-premise sales between 2018 and 2019.[^35]"
+  }
+ ]
+}

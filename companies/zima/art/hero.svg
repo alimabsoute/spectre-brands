@@ -1,0 +1,20 @@
+<svg viewBox="0 0 300 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a clear ribbed glass bottle with a blue label, standing in ice with bubbles rising">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="150" cy="170" r="128" fill="#e8eef9" stroke="none"/>
+<path d="M132 30h36v14h-36z" fill="#1b3f8f"/>
+<path d="M134 44v52c0 20-26 34-26 64v168c0 12 8 20 20 20h44c12 0 20-8 20-20V160c0-30-26-44-26-64V44z" fill="#f7fbff"/>
+<path d="M134 96c0 20-26 34-26 64v24h84v-24c0-30-26-44-26-64z" fill="#dcecf8" stroke="none"/>
+<path d="M134 44v52c0 20-26 34-26 64v168c0 12 8 20 20 20h44c12 0 20-8 20-20V160c0-30-26-44-26-64V44"/>
+<path d="M124 190v52M140 186v60M160 186v60M176 190v52" stroke="#9fb6cf" stroke-width="2.4"/>
+<rect x="108" y="262" width="84" height="52" fill="#1b3f8f"/>
+<path d="M108 262h84M108 314h84"/>
+<path d="M128 278h26l-26 20h26" stroke="#fff" stroke-width="3.4"/>
+<path d="M162 300h18" stroke="#d8333a" stroke-width="3"/>
+<rect x="134" y="104" width="32" height="22" rx="3" fill="#1b3f8f"/>
+<circle class="spin" cx="150" cy="150" r="4" stroke-width="2"/>
+<circle cx="141" cy="170" r="3" stroke-width="2"/><circle cx="160" cy="134" r="2.4" stroke-width="2"/><circle cx="150" cy="74" r="3" stroke-width="2"/><circle cx="146" cy="56" r="2" stroke-width="2"/>
+<circle cx="222" cy="96" r="7" fill="#fff" stroke-width="2.4"/><circle cx="240" cy="62" r="4.5" fill="#fff" stroke-width="2.4"/><circle cx="76" cy="118" r="6" fill="#fff" stroke-width="2.4"/><circle cx="60" cy="80" r="3.6" fill="#fff" stroke-width="2.4"/><circle cx="208" cy="42" r="3" fill="#fff" stroke-width="2.4"/>
+<path d="M44 348l22-34 30 8 10 26zM196 348l8-30 34-10 22 40z" fill="#cfe3f3"/>
+<path d="M30 350h240"/>
+<path d="M62 330l18 6M214 330l22-6" stroke="#9fb6cf" stroke-width="2.4"/>
+</g></svg>

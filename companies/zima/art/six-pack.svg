@@ -1,0 +1,20 @@
+<svg viewBox="0 0 320 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a cardboard six-pack carrier holding clear bottles with blue caps">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<g fill="#f7fbff">
+<path d="M70 150v-44c0-10 8-14 8-26V58h20v22c0 12 8 16 8 26v44z"/>
+<path d="M142 150v-44c0-10 8-14 8-26V58h20v22c0 12 8 16 8 26v44z"/>
+<path d="M214 150v-44c0-10 8-14 8-26V58h20v22c0 12 8 16 8 26v44z"/>
+</g>
+<g fill="#1b3f8f"><rect x="76" y="46" width="24" height="12"/><rect x="148" y="46" width="24" height="12"/><rect x="220" y="46" width="24" height="12"/></g>
+<path d="M130 150V40c0-14 60-14 60 0v110" stroke-width="3"/>
+<path d="M140 150V46c0-8 40-8 40 0v104" fill="#c9d3e6"/>
+<rect x="148" y="52" width="24" height="14" rx="6" fill="#fff"/>
+<path d="M44 150h232l-10 118H54z" fill="#1b3f8f"/>
+<path d="M44 150h232M49 196h222" />
+<path d="M49 196h222l-5 72H54z" fill="#16161a"/>
+<path d="M108 212h44l-44 34h44" stroke="#fff" stroke-width="5"/>
+<path d="M170 246h44" stroke="#d8333a" stroke-width="4"/>
+<path d="M170 214h40M170 228h28" stroke="#c9d3e6" stroke-width="3"/>
+<path d="M70 166h40M210 166h40" stroke="#c9d3e6" stroke-width="3"/>
+<path d="M30 268h260"/>
+</g></svg>

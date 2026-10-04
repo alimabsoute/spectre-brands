@@ -1,0 +1,185 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Primary sources first. SEC filings link to the original text on EDGAR (Adolph Coors Company, later Molson Coors, CIK 24545). Zima was a brand inside a brewer, so the filings give percentages and context, not a product-level income statement.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Adolph Coors Company — [Form 10-K for fiscal 1993](https://www.sec.gov/Archives/edgar/data/24545/0000024545-94-000002.txt), filed Mar 28, 1994."
+  },
+  {
+   "id": 2,
+   "text": "Adolph Coors Company — [Form 10-K for fiscal 1994](https://www.sec.gov/Archives/edgar/data/24545/0000024545-95-000003.txt), filed Mar 27, 1995."
+  },
+  {
+   "id": 3,
+   "text": "Adolph Coors Company — [Form 10-K for fiscal 1995](https://www.sec.gov/Archives/edgar/data/24545/0000024545-96-000003.txt), filed Apr 1, 1996."
+  },
+  {
+   "id": 4,
+   "text": "Adolph Coors Company — [Form 10-K405 for fiscal 1996](https://www.sec.gov/Archives/edgar/data/24545/0000024545-97-000002.txt), filed Mar 28, 1997."
+  },
+  {
+   "id": 5,
+   "text": "Adolph Coors Company — [Form 10-K405 for fiscal 1998](https://www.sec.gov/Archives/edgar/data/24545/0000024545-99-000005.txt), filed Mar 29, 1999."
+  },
+  {
+   "id": 6,
+   "text": "Adolph Coors Company — [Form 10-K405 for fiscal 1999](https://www.sec.gov/Archives/edgar/data/24545/0000024545-00-000003.txt), filed Mar 24, 2000."
+  },
+  {
+   "id": 7,
+   "text": "Adolph Coors Company — [Form 10-K405 for fiscal 2000](https://www.sec.gov/Archives/edgar/data/24545/000002454501500005/0000024545-01-500005.txt), filed Apr 2, 2001."
+  },
+  {
+   "id": 8,
+   "text": "Adolph Coors Company — [Form 10-K for fiscal 2002](https://www.sec.gov/Archives/edgar/data/24545/000104746903010404/0001047469-03-010404.txt), filed Mar 27, 2003."
+  },
+  {
+   "id": 9,
+   "text": "Adolph Coors Company — [Form 10-K for fiscal 2003](https://www.sec.gov/Archives/edgar/data/24545/000110465904007268/0001104659-04-007268.txt), filed Mar 12, 2004."
+  },
+  {
+   "id": 10,
+   "text": "Molson Coors Brewing Company — [Form 10-K for fiscal 2004](https://www.sec.gov/Archives/edgar/data/24545/000104746905006237/0001047469-05-006237.txt), filed Mar 11, 2005."
+  },
+  {
+   "id": 11,
+   "text": "Molson Coors Brewing Company — [Form 10-K for fiscal 2008](https://www.sec.gov/Archives/edgar/data/24545/000104746909001758/0001047469-09-001758.txt), filed Feb 25, 2009."
+  },
+  {
+   "id": 12,
+   "text": "Westword (Kim Leydig) — [“Clear Thinking”](https://www.westword.com/news/clear-thinking-5055482/), Sep 6, 1995."
+  },
+  {
+   "id": 13,
+   "text": "Slate (Brendan Koerner) — [“The Long, Slow, Torturous Death of Zima”](https://slate.com/human-interest/2008/11/the-long-slow-torturous-death-of-zima.html), Nov 26, 2008."
+  },
+  {
+   "id": 14,
+   "text": "Associated Press, via NBC News — [“MillerCoors, citing sales, stops making Zima”](https://www.nbcnews.com/id/wbna27282131), Oct 20, 2008."
+  },
+  {
+   "id": 15,
+   "text": "Chicago Tribune — [“MillerCoors ends production of Zima”](https://www.chicagotribune.com/2008/10/21/millercoors-ends-production-of-zima/), Oct 21, 2008."
+  },
+  {
+   "id": 16,
+   "text": "Adweek — [“MillerCoors Discontinues Zima”](https://www.adweek.com/brand-marketing/millercoors-discontinues-zima-104706/), Oct 21, 2008."
+  },
+  {
+   "id": 17,
+   "text": "Brauwelt International — [“End of Zima”](https://brauwelt.com/en/international-report/the-americas/626121-end-of-zima), Nov 7, 2008."
+  },
+  {
+   "id": 18,
+   "text": "Supermarket News — [“News Roundup”](https://supermarketnews.com/grocery-operations/news-roundup-1994-02-21-3-) (Zima Clearmalt expanding nationally), Feb 21, 1994."
+  },
+  {
+   "id": 19,
+   "text": "Supermarket News — [“News Roundup”](https://supermarketnews.com/grocery-operations/news-roundup-1994-06-13-1-) (Stroh tests Zima competitor), Jun 13, 1994."
+  },
+  {
+   "id": 20,
+   "text": "Supermarket News — [“‘Malternatives’ to Beer”](https://www.supermarketnews.com/beverages/-malternatives-to-beer), Apr 22, 2002."
+  },
+  {
+   "id": 21,
+   "text": "Supermarket News — [“IRI: ‘Malternative’ Sales Reach $343 Million”](https://supermarketnews.com/grocery-operations/iri-malternative-sales-reach-343-million), Jun 24, 2002."
+  },
+  {
+   "id": 22,
+   "text": "Westword — [“Consider the Malternatives”](https://www.westword.com/news/consider-the-malternatives-5086160/), Aug 25, 2005."
+  },
+  {
+   "id": 23,
+   "text": "Chicago Tribune — [“Clearly, you missed it. Zima is coming back.”](https://www.chicagotribune.com/business/ct-zima-millercoors-0218-biz-20170217-story.html), Feb 17, 2017."
+  },
+  {
+   "id": 24,
+   "text": "Beverage Industry — [“MillerCoors announces the return of Zima”](https://www.bevindustry.com/articles/90317-millercoors-announces-the-return-of-zima), Jun 20, 2017."
+  },
+  {
+   "id": 25,
+   "text": "Bangor Daily News — [“Zima, the clear beverage of youthful regret, is back”](https://www.bangordailynews.com/2017/06/24/news/zima-the-clear-beverage-of-youthful-regret-is-back/), Jun 24, 2017. A column that quotes the Washington Post’s March 1993 report on clear products."
+  },
+  {
+   "id": 26,
+   "text": "MillerCoors, Beer & Beyond blog — [“Zima is back”](https://www.molsoncoorsblog.com/news/zima-back), May 13, 2018."
+  },
+  {
+   "id": 27,
+   "text": "Westword — [“Coors launches Zima in limited release for summer 2018”](https://www.westword.com/food-drink/coors-launches-zima-in-limited-release-for-summer-2018-10316770/), May 15, 2018."
+  },
+  {
+   "id": 28,
+   "text": "Punch (Matt Rodbard) — [“Zima x Jolly Ranchers”](https://punchdrink.com/articles/zima-clearmalt-alcohol-jolly-ranchers/), Jul 15, 2019."
+  },
+  {
+   "id": 29,
+   "text": "The Daily Beast — [“In Japan, Zima Haz No Zexual Preference”](https://www.thedailybeast.com/in-japan-zima-haz-no-zexual-preference/), Sep 13, 2014."
+  },
+  {
+   "id": 30,
+   "text": "SoraNews24 — [“Japan’s beloved Zima discontinued after sales hurt by COVID-19”](https://soranews24.com/2022/01/06/japans-beloved-zima-discontinued-after-sales-hurt-by-covid-19), Jan 6, 2022."
+  },
+  {
+   "id": 31,
+   "text": "Hakutsuru Sake Brewing Co. — [press release on the return of Zima to Japan from March 31, 2023](https://prtimes.jp/main/html/rd/p/000000164.000013868.html) (in Japanese), Mar 6, 2023."
+  },
+  {
+   "id": 32,
+   "text": "Bloomberg Law — [“Molson Coors ‘Zima’ Trademark Expires, Mooting Cancellation Bid”](https://news.bloomberglaw.com/ip-law/molson-coors-zima-trademark-expires-mooting-cancellation-bid), Apr 25, 2024."
+  },
+  {
+   "id": 33,
+   "text": "Internet Archive Wayback Machine — captures of zima.com: [home](https://web.archive.org/web/19961012163611/http://zima.com/), [the fridge](https://web.archive.org/web/19961012170857/http://zima.com/openfr.html) and [re:zima FAQ](https://web.archive.org/web/19961012183046/http://zima.com/re.html), Oct 12, 1996; [limited-release site](https://web.archive.org/web/20170704005454/http://www.zima.com/AV), Jul 4, 2017."
+  },
+  {
+   "id": 34,
+   "text": "Mental Floss (Jake Rossen) — [“Zomething Different: The Rise, Fall, and Recent Comeback of Zima”](https://www.mentalfloss.com/food/alcohol/zomething-different-zima-story), Aug 22, 2017."
+  },
+  {
+   "id": 35,
+   "text": "Shanken News Daily — [“Hard Seltzer’s Surge Shows No Sign Of Slowing”](https://www.shankennewsdaily.com/2020/05/26/25728/hard-seltzers-surge-shows-no-sign-of-slowing/), May 26, 2020."
+  },
+  {
+   "id": 36,
+   "text": "Los Angeles Times — [“MillerCoors ends Zima production”](https://www.latimes.com/archives/la-xpm-2008-oct-21-fi-briefs21.s4-story.html), Oct 21, 2008."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "1995 volume of 663,000 barrels = 1.3M × (1 − 0.49), from the 49% decline in the 10-K[^3]. Zima’s 6.4% share of Coors’s 1994 volume = 1.3M ÷ 20.4M[^2]. “All other Coors brands” = company total minus Zima. Coors Light at 27 times Zima in 2000 = 16.6M ÷ 0.61M[^13]. The $55.1M rise in total advertising = $327.6M − $272.5M[^3]. Because the 1994 base is itself a rounded figure, every figure derived from it is approximate."
+  },
+  {
+   "label": "The 1994 volume",
+   "text": "Coors did not publish it. The brand manager said in 1995 that Zima “almost hit 1.3 million barrels”[^12], and Slate gives 1.3 million[^13]. We use 1.3 million as a rounded figure. A figure of 1.2 million attributed to Brandweek is **unverified**: we could not locate the original."
+  },
+  {
+   "label": "Estimates",
+   "text": "The $50 million 1994 advertising budget is a Denver Post **estimate** reported by Westword[^12]. The $38 million and $38.3 million figures are reported by Slate and by the Arizona Republic via Westword; Coors did not confirm either[^12][^13]. The 70% trial rate is Coors’s own **estimate** as reported by Slate[^13]. The $3.5 million development cost is described by Westword as “reported”[^12]. Japanese sales of over a million cases are as reported by The Daily Beast, without a named source[^29]."
+  },
+  {
+   "label": "Unverified or conflicting",
+   "text": "The year of the Japanese launch is given as 1996 by MillerCoors[^26] and 1997 by Hakutsuru[^31]. A $180 million launch budget in one retrospective[^34] is **unverified** and not used. A widely repeated claim that the 2017 run was 39,000 barrels, and that 2018 inventory was 40% larger, could not be traced to a source we could open; MillerCoors’s own blog says 20% more[^26]. Airing years of the commercials come from the uploaders. Zima Gold’s “about three months” is Slate’s characterisation[^13]; Westword dates the national launch to May 1 and the withdrawal to the month before its September 6, 1995 article[^12]."
+  },
+  {
+   "label": "Unknown",
+   "text": "Zima’s revenue, profit and advertising spend in any year; its volume in 1992–93, 1997–99 and 2001–08; the size of the 2017 and 2018 runs; current Japanese volumes; the result of the Retrobrands trademark application."
+  },
+  {
+   "label": "Sources seen only in quotation",
+   "text": "The Washington Post’s March 1993 report is quoted from a 2017 column[^25]; Letterman’s jokes and Coors’s 1995 second-quarter release are quoted from Westword[^12]. We could not open New York Times, Los Angeles Times or Advertising Age articles from 1993–95, so none is cited."
+  },
+  {
+   "label": "General knowledge",
+   "text": "A U.S. beer barrel is 31 gallons. Labor Day is the first Monday of September."
+  },
+  {
+   "label": "Images",
+   "text": "Screenshots are Internet Archive captures of zima.com[^33]. Two photographs are from Wikimedia Commons under CC BY 3.0 and CC0, credited in the gallery. Drawings are original."
+  }
+ ]
+}

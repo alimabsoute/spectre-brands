@@ -1,0 +1,17 @@
+<svg viewBox="0 0 300 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a hard candy dropping into an open clear bottle and tinting the drink red">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="150" cy="160" r="130" fill="#e8eef9" stroke="none"/>
+<path d="M128 70v40c0 18-24 30-24 58v112c0 10 8 18 18 18h56c10 0 18-8 18-18V168c0-28-24-40-24-58V70z" fill="#f7fbff"/>
+<path d="M105 210c30-10 60 10 90 0v70c0 10-8 18-18 18h-54c-10 0-18-8-18-18z" fill="#f3a6ad" stroke="none"/>
+<path d="M105 210c30-10 60 10 90 0" stroke="#d8333a" stroke-width="2.4"/>
+<path d="M128 70v40c0 18-24 30-24 58v112c0 10 8 18 18 18h56c10 0 18-8 18-18V168c0-28-24-40-24-58V70"/>
+<path d="M124 70h52"/>
+<rect x="136" y="252" width="28" height="18" rx="4" fill="#d8333a"/>
+<path d="M136 256l-12-6v22l12-6M164 256l12-6v22l-12-6" fill="#d8333a"/>
+<circle cx="150" cy="232" r="3" stroke-width="2"/><circle cx="138" cy="218" r="2.4" stroke-width="2"/><circle cx="164" cy="222" r="2" stroke-width="2"/>
+<g transform="rotate(-18 150 34)"><rect x="134" y="24" width="32" height="20" rx="4" fill="#3F8A5A"/>
+<path d="M134 29l-14-7v24l14-7M166 29l14-7v24l-14-7" fill="#3F8A5A"/></g>
+<path d="M150 52v10M142 56l-4 6M158 56l4 6" stroke="#9fb6cf" stroke-width="2.4"/>
+<path d="M214 286c16-2 30 2 40 8M46 294c10-6 24-10 40-8" stroke="#9fb6cf" stroke-width="2.4"/>
+<path d="M40 298h220"/>
+</g></svg>

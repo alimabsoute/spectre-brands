@@ -1,0 +1,74 @@
+{
+ "kicker": "The old website",
+ "title": "zima.com, 1996 and 2017",
+ "lede": "Zima had a website unusually early. These are screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images; click one to open the original capture. The earliest captures of zima.com are from October 1996.[^33]",
+ "captures": [
+  {
+   "date": "Oct 1996",
+   "label": "Home",
+   "url": "http://zima.com/",
+   "wayback": "https://web.archive.org/web/19961012163611/http://zima.com/",
+   "image": "img/archive-1996-10-home.avif",
+   "h": 420,
+   "captured": "Oct 12, 1996",
+   "title": "“Adult humanz only”",
+   "text": "Three links: re:zima, the fridge and write to us. The copyright line reads “1995, 1996 Zima Beverage Company.”"
+  },
+  {
+   "date": "Oct 1996",
+   "label": "The fridge",
+   "url": "http://zima.com/openfr.html",
+   "wayback": "https://web.archive.org/web/19961012170857/http://zima.com/openfr.html",
+   "image": "img/archive-1996-10-fridge.avif",
+   "h": 520,
+   "captured": "Oct 12, 1996",
+   "title": "The fridge",
+   "text": "A clickable refrigerator leading to icons, diversions and sound files. “Close the fridge door when you leave. Your Roommate will have a fit.”"
+  },
+  {
+   "date": "Oct 1996",
+   "label": "re:zima",
+   "url": "http://zima.com/re.html",
+   "wayback": "https://web.archive.org/web/19961012183046/http://zima.com/re.html",
+   "image": "img/archive-1996-10-re.avif",
+   "h": 520,
+   "captured": "Oct 12, 1996",
+   "title": "The FAQ",
+   "text": "Sixteen questions, including “Does Zima Clearmalt show up on a breathalyzer?” and “Who owns Zima Beverage Company?”"
+  },
+  {
+   "date": "Jul 2017",
+   "label": "The return",
+   "url": "http://www.zima.com/AV",
+   "wayback": "https://web.archive.org/web/20170704005454/http://www.zima.com/AV",
+   "image": "img/archive-2017-07-home.avif",
+   "h": 520,
+   "captured": "Jul 4, 2017",
+   "title": "“Are you like, supposed to be here?”",
+   "text": "The age gate of the limited-release site, in deliberately dated 1990s web style. The footer reads “©2017 Zima Beverage Co., La Crosse, WI.”"
+  }
+ ],
+ "snips": [
+  {
+   "text": "“Zima was initially introduced in three test markets in September, 1992 and was rolled out nationwide in February, 1994.”",
+   "when": "re:zima · Oct 12, 1996[^33]"
+  },
+  {
+   "text": "“Zima registers on a breathalyzer like any other alcohol beverage. The notion that it doesn't is just a rumor.”",
+   "when": "re:zima · Oct 12, 1996[^33]"
+  },
+  {
+   "text": "“Zima has about the same alcohol content as a premium beer ... 3.7% by weight (4.6% by volume).” **148 calories** per 12 ounces.",
+   "when": "re:zima · Oct 12, 1996[^33]"
+  },
+  {
+   "text": "“Zima Beverage Company is an operating unit of Coors Brewing Company, located in Memphis, TN.”",
+   "when": "re:zima · Oct 12, 1996[^33]"
+  },
+  {
+   "text": "“Contrary to the ol' rumor mill, there is no Vodka or grain alcohol in Zima.”",
+   "when": "re:zima · Oct 12, 1996[^33]"
+  }
+ ],
+ "note": "Screenshots of Internet Archive captures, saved as images. The 2018 “Zima Z2K” site was also archived but its captures no longer render, so it is not shown; Westword quoted its warning that “The end of ZIMA is near…again.”[^27]"
+}

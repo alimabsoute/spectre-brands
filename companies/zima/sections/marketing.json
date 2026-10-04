@@ -1,0 +1,109 @@
+{
+ "kicker": "The marketing machine",
+ "title": "Awareness was never the problem",
+ "lede": "Coors backed Zima with one of the largest launch budgets in its history and a campaign that deliberately refused to explain the product. It bought a year of curiosity.",
+ "blocks": [
+  {
+   "kind": "bars",
+   "title": "What the launch cost depends on who you ask",
+   "subtitle": "Reported figures for Zima’s 1994 advertising, in $ millions, beside the one figure Coors itself disclosed: the rise in its total advertising expense.",
+   "format": "usdM",
+   "itemLabel": "Figure",
+   "valueLabel": "$ millions",
+   "items": [
+    {
+     "label": "Slate (2008): Zima’s national rollout",
+     "value": 38,
+     "note": "“More than it spent hawking Coors Light that year”",
+     "self": true
+    },
+    {
+     "label": "Arizona Republic, via Westword (1995)",
+     "value": 38.3,
+     "note": "The roll-out campaign"
+    },
+    {
+     "label": "Denver Post estimate, via Westword (1995)",
+     "value": 50,
+     "note": "An estimate, labelled as such at the time",
+     "color": "grey"
+    },
+    {
+     "label": "Rise in Coors’s total advertising, 1993 to 1994",
+     "value": 55.1,
+     "note": "Derived from the 10-K: $327.6M − $272.5M. All brands, including Artic Ice",
+     "color": "ink"
+    }
+   ],
+   "source": "Slate[^13]; Westword, Sep 1995[^12]; Adolph Coors Company 10-K for 1995[^3]. The last bar is **derived** and covers every Coors brand. A later retrospective gives a launch budget of $180 million[^34]; nothing in the filings supports a figure of that size and we do not use it."
+  },
+  {
+   "kind": "video",
+   "video": "clearmalt93"
+  },
+  {
+   "kind": "text",
+   "title": "The pitchman",
+   "body": "Foote, Cone & Belding’s San Francisco office made the campaign. It cast the comedian Roger Kabler as a stranger in a black hat who turned up in bars, swapped his S’s for Z’s and recommended “zomething different.”[^12][^13] The agency’s Scott Rabschnuck told Westword in 1995 that they had wanted “someone fun and kind of funny and a little bit quirky,” and admitted to overdoing it: the character “went from different and unique to being eccentric and weird.”[^12]\n\nLetterman’s jokes were at first treated as free publicity. Rabschnuck said some people on the public relations side “encouraged Letterman by sending him cases of Zima.”[^12]\n\nIn 1995 the hat was retired. The replacement campaign, “zomething in common,” showed young men and women playing touch football and eating in a diner, in black and white, with no dialogue.[^12]"
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "drawing",
+     "art": "art/pitchman.svg",
+     "title": "The 1994 campaign",
+     "caption": "Original illustration in the spirit of the commercials. Not a likeness and not an official asset."
+    },
+    {
+     "kind": "video",
+     "video": "incommon"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "title": "An early brand website",
+   "body": "Zima also had a telephone hotline printed on the bottle, an e-mail address and, by 1995, a site at zima.com. Its FAQ credits Modem Media of Westport, Connecticut, with “all the interactive initiatives via computer-based media.”[^33] Westword described the site in 1995 as a serial about a character named Duncan, and in 2005 called it “highly ambitious” next to the single page that then stood at zimaxxx.com.[^12][^22] Screenshots of the 1996 site are in the website section below."
+  },
+  {
+   "kind": "bars",
+   "title": "Stronger, then weaker, then stronger",
+   "subtitle": "Alcohol by volume of each version, as reported.",
+   "format": "pct",
+   "itemLabel": "Version",
+   "valueLabel": "ABV",
+   "items": [
+    {
+     "label": "Zima Clearmalt, 1994",
+     "value": 4.7,
+     "display": "4.7%",
+     "note": "Westword. The brand’s own site said 4.6%",
+     "self": true
+    },
+    {
+     "label": "Zima Gold, 1995",
+     "value": 5.4,
+     "display": "5.4%",
+     "note": "Withdrawn within the year",
+     "color": "gold"
+    },
+    {
+     "label": "Zima XXX, 2004",
+     "value": 5.9,
+     "display": "5.9%",
+     "note": "Hard Punch, Hard Orange and other flavours",
+     "color": "red"
+    },
+    {
+     "label": "Limited release, 2017",
+     "value": 5.0,
+     "display": "5.0%",
+     "note": "As printed on the label shown on the 2017 site",
+     "color": "blue"
+    }
+   ],
+   "source": "Westword, Sep 1995[^12]; zima.com as archived in 1996 and 2017[^33]; Slate[^13]. The 2007 relaunch had “less alcohol” than XXX; its strength is not given in our sources."
+  }
+ ]
+}

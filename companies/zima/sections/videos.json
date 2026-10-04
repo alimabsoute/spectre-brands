@@ -1,0 +1,61 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The hat, the football game and the comeback",
+ "lede": "Four commercials from the three years in which Zima was heavily advertised, a local news item on the 2017 return and one later retrospective. Airing years for the commercials come from the uploaders unless stated.",
+ "videos": [
+  {
+   "id": "zomething",
+   "title": "“Zomething different,” the launch commercial",
+   "year": 1994,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "t_uxyXekDjo",
+   "caption": "The black-hatted pitchman of the national launch campaign, made by Foote, Cone & Belding.[^12] The uploader dates it to 1994. It was posted in November 2008, weeks after production ended."
+  },
+  {
+   "id": "clearmalt93",
+   "title": "Zima Clearmalt commercial from the regional rollout",
+   "year": 1993,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "SbvKGdFlSQ0",
+   "caption": "Dated 1993 by the uploader, which would place it in the year Zima was sold in about a third of the country.[^1] We could not confirm the airing date independently."
+  },
+  {
+   "id": "incommon",
+   "title": "“Zomething in common”",
+   "year": 1995,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "tXfqieTMtGk",
+   "caption": "The black-and-white football spot from the campaign that replaced the pitchman. The uploader labels it 1994; Westword described it as the new campaign in September 1995.[^12]"
+  },
+  {
+   "id": "gold",
+   "title": "Zima Gold commercial",
+   "year": 1995,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "ij51h37PUQU",
+   "caption": "Advertising for the amber, 5.4% version aimed at men. Gold went national in May 1995 and was withdrawn that summer.[^12][^3]"
+  },
+  {
+   "id": "tmj4",
+   "title": "TMJ4 News: “MillerCoors plans to bring back Zima”",
+   "year": 2017,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "_oMEYzoArgw",
+   "caption": "A Milwaukee station’s short item, posted February 22, 2017, five days after MillerCoors confirmed the relaunch.[^23]"
+  },
+  {
+   "id": "weirdhistory",
+   "title": "Weird History Food: “Zima Was Popular in the 90s, Until People Tasted It”",
+   "year": 2022,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "VBYimQrnOGY",
+   "caption": "A twelve-minute independent retrospective published in May 2022. Its figures are the uploader’s; ours are in the sections above."
+  }
+ ]
+}

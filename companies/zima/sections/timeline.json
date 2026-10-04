@@ -1,0 +1,434 @@
+{
+ "kicker": "Timeline",
+ "title": "Thirty-two years, 37 moments",
+ "lede": "From the first test markets to the lapse of the U.S. trademark registration. Filter by thread.",
+ "categories": {
+  "product": {
+   "label": "Product",
+   "color": "#1b3f8f"
+  },
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Volume & money",
+   "color": "#4f7a4a"
+  },
+  "marketing": {
+   "label": "Marketing",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "market": {
+   "label": "Market",
+   "color": "#888888"
+  },
+  "death": {
+   "label": "Withdrawal",
+   "color": "#a8321f"
+  },
+  "afterlife": {
+   "label": "Afterlife",
+   "color": "#2f7f86"
+  }
+ },
+ "events": [
+  {
+   "date": "Sep",
+   "year": "1992",
+   "cat": "product",
+   "title": "Three test markets",
+   "text": "Zima goes on sale in Nashville, Sacramento and Syracuse.",
+   "src": [
+    1,
+    12,
+    33
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "1993",
+   "cat": "market",
+   "title": "The Washington Post notices",
+   "text": "A report on clear products notes that Coors “is testing a clear malt beverage, called Zima in three markets.” Crystal Pepsi and clear Ivory are already on shelves.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Apr & Oct 1993",
+   "year": "",
+   "cat": "product",
+   "title": "Expanded to a third of the country",
+   "text": "Two expansions take Zima into roughly an additional 30% of the United States.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "1993",
+   "year": "",
+   "cat": "money",
+   "title": "Memphis is enlarged",
+   "text": "Coors spends about $120 million on capital projects, including more capacity at its Memphis plant for Zima.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Dec 1993",
+   "year": "",
+   "cat": "corporate",
+   "title": "National launch announced",
+   "text": "Coors says Zima will be sold nationally in the first quarter of 1994.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "1994",
+   "cat": "marketing",
+   "title": "Zima goes national",
+   "text": "Sold in bars and restaurants for a month before reaching supermarkets, with teaser billboards, television, radio and print. The slogan is “Zomething different.”",
+   "src": [
+    18,
+    33
+   ]
+  },
+  {
+   "date": "May 1994",
+   "year": "",
+   "cat": "rivals",
+   "title": "Stroh tests Clash",
+   "text": "Stroh begins testing a clear malt drink in Colorado, New Mexico and Arizona. Miller later tests one called Qube.",
+   "src": [
+    19,
+    12
+   ]
+  },
+  {
+   "date": "Fall 1994",
+   "year": "",
+   "cat": "marketing",
+   "title": "A Letterman punch line",
+   "text": "By the end of the year Zima is a regular entry in David Letterman’s Top Ten lists.",
+   "src": [
+    12,
+    13
+   ]
+  },
+  {
+   "date": "1994",
+   "year": "",
+   "cat": "money",
+   "title": "About 1.3 million barrels",
+   "text": "The launch year’s volume, roughly 6.4% of Coors’s 20.4 million barrels (derived). Coors’s advertising expense rises 20.1% to $327.6 million.",
+   "src": [
+    2,
+    3,
+    12,
+    13
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "1995",
+   "cat": "product",
+   "title": "Zima Gold is tested",
+   "text": "An amber, 5.4% alcohol version aimed at men goes on sale in Omaha and Tucson.",
+   "src": [
+    2,
+    12
+   ]
+  },
+  {
+   "date": "May 1, 1995",
+   "year": "",
+   "cat": "product",
+   "title": "Zima Gold goes national",
+   "text": "In bars and restaurants on May 1 and in stores by May 15.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Q2 1995",
+   "year": "",
+   "cat": "money",
+   "title": "Volume down about 60%",
+   "text": "Coors reports that second-quarter Zima volume fell about 60% from a year earlier and that quarterly net income fell 36.5%.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Aug 1995",
+   "year": "",
+   "cat": "product",
+   "title": "Zima Gold is withdrawn",
+   "text": "Coors stops shipping Gold, citing disappointing sales.",
+   "src": [
+    12,
+    3
+   ]
+  },
+  {
+   "date": "1995",
+   "year": "",
+   "cat": "marketing",
+   "title": "“Zomething in common”",
+   "text": "A new black-and-white campaign drops the pitchman. The brand also has a website, zima.com, built by Modem Media.",
+   "src": [
+    12,
+    33
+   ]
+  },
+  {
+   "date": "1995",
+   "year": "",
+   "cat": "money",
+   "title": "Down 49% for the year",
+   "text": "Coors’s 10-K: Zima volumes fell about 49% against the launch year, and gross margin fell from 36.1% to 34.8%.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "1996",
+   "year": "",
+   "cat": "money",
+   "title": "403,000 barrels",
+   "text": "Less than a third of the 1994 volume, as later reported by Slate. Coors redirects marketing money from Zima to Coors Light and Original Coors.",
+   "src": [
+    13,
+    4
+   ]
+  },
+  {
+   "date": "1996 or 1997",
+   "year": "",
+   "cat": "corporate",
+   "title": "Launched in Japan",
+   "text": "MillerCoors later dated the Japanese launch to 1996. The 2023 Japanese distributor’s release says 1997.",
+   "src": [
+    26,
+    31
+   ]
+  },
+  {
+   "date": "1998",
+   "year": "",
+   "cat": "product",
+   "title": "Zima Citrus is tested",
+   "text": "A citrus line extension enters test markets, which are expanded in 1999.",
+   "src": [
+    5,
+    6
+   ]
+  },
+  {
+   "date": "2000",
+   "year": "",
+   "cat": "money",
+   "title": "A partial recovery",
+   "text": "Sales reach 610,000 barrels, against 16.6 million for Coors Light.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "2001",
+   "cat": "rivals",
+   "title": "Smirnoff Ice arrives",
+   "text": "A spirit-branded malt drink is introduced in the U.S. and the big brewers follow with their own.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "2002",
+   "year": "",
+   "cat": "rivals",
+   "title": "Crowded out",
+   "text": "Coors reports declines in Zima, “impacted disproportionately by the recent influx of new FABs.” Food and drug store sales of malternatives reach $343 million.",
+   "src": [
+    8,
+    21
+   ]
+  },
+  {
+   "date": "2004",
+   "year": "",
+   "cat": "product",
+   "title": "Zima XXX",
+   "text": "Relaunched at 5.9% alcohol with flavours such as Hard Punch and Hard Orange. Coors reports strong growth from it in the fourth quarter.",
+   "src": [
+    9,
+    10,
+    13
+   ]
+  },
+  {
+   "date": "Feb 9",
+   "year": "2005",
+   "cat": "corporate",
+   "title": "Coors merges with Molson",
+   "text": "The owner of Zima becomes Molson Coors Brewing Company.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "2007",
+   "year": "",
+   "cat": "product",
+   "title": "Relaunched for women",
+   "text": "Less alcohol, fewer calories and fruit flavours, aimed at women in their twenties.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Jul 1",
+   "year": "2008",
+   "cat": "corporate",
+   "title": "MillerCoors begins operating",
+   "text": "Molson Coors and SABMiller combine their U.S. businesses in a joint venture, which takes over Zima.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Sep 2008",
+   "year": "",
+   "cat": "death",
+   "title": "Withdrawn from Utah",
+   "text": "A new state labelling law makes Utah-only labels uneconomic.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Oct 1, 2008",
+   "year": "",
+   "cat": "death",
+   "title": "California’s tax change",
+   "text": "The state begins taxing flavoured malt beverages as distilled spirits. California had been one of Zima’s largest markets.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Oct 10, 2008",
+   "year": "",
+   "cat": "death",
+   "title": "Production ends",
+   "text": "The last U.S. production of Zima.",
+   "src": [
+    14,
+    16
+   ]
+  },
+  {
+   "date": "Oct 20, 2008",
+   "year": "",
+   "cat": "death",
+   "title": "Distributors are told",
+   "text": "A MillerCoors letter cites weakness in the “malternative” segment and declining consumer interest. Stock is expected to last through December.",
+   "src": [
+    14,
+    15,
+    36
+   ]
+  },
+  {
+   "date": "2013",
+   "year": "",
+   "cat": "afterlife",
+   "title": "A million cases in Japan",
+   "text": "Molson Coors Japan is reported to have sold more than a million cases, or 24 million bottles, in a year.",
+   "src": [
+    29
+   ]
+  },
+  {
+   "date": "Feb 17",
+   "year": "2017",
+   "cat": "afterlife",
+   "title": "A comeback is confirmed",
+   "text": "A MillerCoors spokesman confirms a relaunch to the Chicago Tribune.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Jul 2017",
+   "year": "",
+   "cat": "afterlife",
+   "title": "First limited release",
+   "text": "On shelves for the July 4 weekend and sold only until Labor Day. Two-thirds of the stock is sold in four weeks, the company says.",
+   "src": [
+    24,
+    26
+   ]
+  },
+  {
+   "date": "May",
+   "year": "2018",
+   "cat": "afterlife",
+   "title": "Second limited release",
+   "text": "MillerCoors makes 20% more than in 2017 and markets it as “Zima Z2K.”",
+   "src": [
+    26,
+    27
+   ]
+  },
+  {
+   "date": "Summer",
+   "year": "2019",
+   "cat": "afterlife",
+   "title": "No third run",
+   "text": "MillerCoors says it has “decided to let the crystal-clear brand chill this summer.”",
+   "src": [
+    28
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "2021",
+   "cat": "death",
+   "title": "Japanese shipments stop",
+   "text": "Molson Coors Japan’s distribution ends after the pandemic cuts bar and club sales.",
+   "src": [
+    30,
+    31
+   ]
+  },
+  {
+   "date": "Mar 31",
+   "year": "2023",
+   "cat": "afterlife",
+   "title": "Back in Japan",
+   "text": "Hakutsuru Sake Brewing begins selling Zima nationwide under an exclusive import and sales agreement with Molson Coors.",
+   "src": [
+    31
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "2024",
+   "cat": "afterlife",
+   "title": "U.S. registration expires",
+   "text": "Molson Coors lets its Zima trademark registration lapse during a cancellation proceeding brought by Retrobrands, which has applied to register the name.",
+   "src": [
+    32
+   ]
+  }
+ ]
+}

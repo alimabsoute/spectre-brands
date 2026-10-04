@@ -1,0 +1,22 @@
+<svg viewBox="0 0 300 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a man in a black hat seen from behind a bar, holding up a clear bottle">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="20" y="20" width="260" height="250" rx="10" fill="#e8eef9" stroke="none"/>
+<path d="M70 270c0-56 24-84 70-84s70 28 70 84z" fill="#3b4250"/>
+<path d="M128 190l12 26 12-26" fill="#fff"/>
+<path d="M108 132c0 34 14 58 32 58s32-24 32-58z" fill="#f1c9a5"/>
+<path d="M126 158c4 8 24 8 28 0" />
+<circle cx="128" cy="142" r="2.4" fill="#1d1b18"/><circle cx="152" cy="142" r="2.4" fill="#1d1b18"/>
+<path d="M78 130c20 10 104 10 124 0c4-2 2-8-4-8H82c-6 0-8 6-4 8z" fill="#16161a"/>
+<path d="M102 122c-2-30 6-54 38-54s40 24 38 54z" fill="#16161a"/>
+<path d="M103 108h74" stroke="#5a6170" stroke-width="5"/>
+<path d="M206 250c10-30 18-58 22-84" stroke="#3b4250" stroke-width="22"/>
+<path d="M206 250c10-30 18-58 22-84" stroke-width="0"/>
+<circle cx="230" cy="158" r="13" fill="#f1c9a5"/>
+<path d="M222 150V96c0-8 5-10 5-18V62h12v16c0 8 5 10 5 18v54z" fill="#f7fbff"/>
+<rect x="225" y="54" width="16" height="8" fill="#1b3f8f"/>
+<rect x="222" y="112" width="22" height="20" fill="#1b3f8f"/>
+<path d="M60 86q14-18 0-34M48 92q20-24 0-46" stroke="#1b3f8f" stroke-width="2.6"/>
+<path d="M34 52h-8l8 12h-8" stroke="#1b3f8f" stroke-width="3"/>
+<rect x="20" y="270" width="260" height="26" fill="#8a6a4a"/>
+<path d="M20 270h260"/>
+</g></svg>

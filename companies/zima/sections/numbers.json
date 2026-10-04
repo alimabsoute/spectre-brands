@@ -1,0 +1,224 @@
+{
+ "kicker": "The numbers",
+ "title": "One very good year",
+ "lede": "Coors never published a revenue or profit line for Zima, and the brand’s volume appears in its filings only as a percentage change. The barrel counts below come from the brand manager’s own remark in 1995 and from Slate’s 2008 reporting. For most years there is no public figure at all, and the charts leave those years out.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "The rise was one year long",
+   "subtitle": "U.S. volume in thousands of barrels, for the four years with a published figure. Years in between are not public.",
+   "labels": [
+    "1994",
+    "1995",
+    "1996",
+    "2000"
+   ],
+   "format": "num",
+   "xLabel": "Thousands of barrels (31 U.S. gallons each)",
+   "series": [
+    {
+     "label": "Zima volume (thousand barrels)",
+     "data": [
+      1300,
+      663,
+      403,
+      610
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "The national launch",
+     "text": "About 1.3 million barrels. The brand manager said Zima “almost hit” that figure."
+    },
+    {
+     "i": 1,
+     "title": "Down about 49%",
+     "text": "Coors’s 10-K gives the percentage. 663,000 barrels is derived from it."
+    },
+    {
+     "i": 2,
+     "title": "The low",
+     "text": "403,000 barrels, as Coors moves ad money back to its beers."
+    },
+    {
+     "i": 3,
+     "title": "A partial recovery",
+     "text": "610,000 barrels after a reformulation. Smirnoff Ice arrives the next year."
+    }
+   ],
+   "source": "1994: Westword, quoting brand manager Mark Lee[^12], and Slate[^13]. 1995: **derived**, 1.3M × (1 − 0.49) = 663,000, from the decline stated in Coors’s 10-K[^3]. 1996 and 2000: Slate[^13]. No figures are public for 1992–93, 1997–99 or 2001–08."
+  },
+  {
+   "kind": "chart",
+   "id": "zimaShareChart",
+   "title": "Zima inside Coors",
+   "subtitle": "Coors Brewing Company malt beverage volume, in millions of barrels, with Zima’s part marked.",
+   "chart": {
+    "type": "bar",
+    "stacked": true,
+    "labels": [
+     "1994",
+     "1995",
+     "1996"
+    ],
+    "height": 320,
+    "y": {
+     "format": {
+      "suf": "M",
+      "dec": 1
+     },
+     "title": "Million barrels"
+    },
+    "series": [
+     {
+      "label": "Zima",
+      "data": [
+       1.3,
+       0.66,
+       0.4
+      ],
+      "color": "brand",
+      "stack": "a"
+     },
+     {
+      "label": "All other Coors brands (derived)",
+      "data": [
+       19.1,
+       19.64,
+       19.6
+      ],
+      "color": "light",
+      "stack": "a"
+     }
+    ]
+   },
+   "source": "Coors totals of 20.4M, 20.3M and 20.0M barrels: 10-K filings[^3][^4]. Zima: as in the chart above[^12][^13][^3]. “All other brands” is **derived** by subtraction. The 1995 Zima figure is itself derived."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "waffle",
+     "title": "About one barrel in sixteen",
+     "subtitle": "Share of Coors’s 1994 volume.",
+     "items": [
+      {
+       "label": "Zima",
+       "value": 6.4,
+       "color": "brand",
+       "note": "About 1.3M barrels"
+      },
+      {
+       "label": "Every other Coors brand",
+       "value": 93.6,
+       "color": "light",
+       "note": "About 19.1M barrels"
+      }
+     ],
+     "source": "**Derived**: 1.3M ÷ 20.4M = 6.4%.[^2][^12] Westword, citing the Arizona Republic, gave the same 6.4% in 1995.[^12]"
+    },
+    {
+     "kind": "scale",
+     "title": "By 2000, a niche",
+     "left": {
+      "value": "16.6M barrels",
+      "label": "Coors Light, 2000"
+     },
+     "unit": {
+      "value": "610,000 barrels",
+      "label": "Zima, 2000"
+     },
+     "count": 27,
+     "icon": "bottle",
+     "equation": "16.6M ÷ 0.61M = 27.2. Both figures from Slate.[^13]",
+     "source": "Slate, Nov 2008.[^13]"
+    }
+   ]
+  },
+  {
+   "kind": "chart",
+   "id": "coorsAdChart",
+   "title": "Coors’s advertising bill",
+   "subtitle": "Total advertising expense of Coors, all brands, in $ millions. The filings attribute most of the 1993 increase, and the 1994 increase in marketing, to Zima and to Coors Artic Ice.",
+   "chart": {
+    "type": "bar",
+    "labels": [
+     "1991",
+     "1992",
+     "1993",
+     "1994",
+     "1995",
+     "1996"
+    ],
+    "height": 320,
+    "legend": false,
+    "y": {
+     "format": "usdM",
+     "min": 0
+    },
+    "tooltip": {
+     "footers": [
+      "",
+      "Zima enters three test markets",
+      "Zima expanded to a third of the U.S.",
+      "Zima national launch",
+      "Spending redirected from Zima to Coors Light",
+      "Redirected again, to Original Coors and Coors Light"
+     ]
+    },
+    "series": [
+     {
+      "label": "Advertising expense",
+      "data": [
+       267,
+       251,
+       272.5,
+       327.6,
+       330.4,
+       331.9
+      ],
+      "colors": [
+       "light",
+       "light",
+       "grey",
+       "brand",
+       "grey",
+       "light"
+      ]
+     }
+    ]
+   },
+   "source": "Adolph Coors Company 10-K filings: 1991–92 from the FY1993 report[^1]; 1993–95 from the FY1995 report[^3]; 1996 from the FY1996 report[^4]. The FY1993 report rounds 1993 to $273 million. Coors did not disclose advertising by brand."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "What the filings say about Zima’s economics",
+   "rows": [
+    {
+     "value": "36.1% → 34.8%",
+     "text": "Coors’s gross margin, 1994 to 1995. The filing blames packaging costs and “the lower sales volume of Zima Clearmalt, which has a higher gross profit percentage than other brands.”[^3]"
+    },
+    {
+     "value": "−60%",
+     "text": "Zima volume in the second quarter of 1995 against a year earlier, from Coors’s earnings release as quoted by Westword[^12]"
+    },
+    {
+     "value": "0.8",
+     "text": "share points of the U.S. beer market held by Zima in mid-1995, according to A.C. Nielsen data cited by Westword[^12]"
+    },
+    {
+     "value": "$343M",
+     "text": "food and drug store sales of all “malternatives” in the 52 weeks to May 19, 2002 (IRI), the category Zima started and then lost[^21]"
+    }
+   ],
+   "source": "Zima’s own revenue, price realisation and profit were never disclosed. They are unknown."
+  },
+  {
+   "kind": "note",
+   "body": "What is not known: Zima’s volume in its test-market years, in 1997–99 and in 2001–08; its revenue and profit in any year; the size of the 2017 and 2018 runs. A figure of 1.2 million barrels for 1994, attributed to Brandweek, circulates online. We could not trace it to the original and treat it as **unverified**."
+  }
+ ]
+}
