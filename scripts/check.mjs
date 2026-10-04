@@ -3,7 +3,7 @@
 //   1. node build.mjs must succeed.
 //   2. Every internal href/src in dist/**/*.html must resolve to a file, and every #fragment to an id.
 //   3. Every page is opened at 375px and 1280px: no console errors, no failed requests, no broken
-//      images, no horizontal scroll.
+//      images, no horizontal scroll, and the timeline fits in one compact view.
 // Flags: --external also checks external links (slow; network), --no-browser skips step 3.
 import fs from 'node:fs';
 import path from 'node:path';
@@ -83,6 +83,15 @@ if (!args.has('--no-browser')) {
     if (r.overflow > 1) bad(where, `horizontal scroll (${r.overflow}px wider than the viewport)`);
     r.brokenImgs.forEach(s => bad(where, `broken image ${s}`));
     if (r.noAlt) bad(where, `${r.noAlt} image(s) without alt`);
+    // the timeline must stay one compact view: every event drawn, at most ~900px tall on desktop and 1.5 screens on a phone
+    const tl = await page.evaluate(async () => {
+      const s = document.getElementById('timeline'); if (!s) return null;
+      for (let i = 0; i < 3; i++) { s.scrollIntoView({ behavior: 'instant' }); await new Promise(r => setTimeout(r, 150)); }
+      return { h: Math.round(s.getBoundingClientRect().height), dots: document.querySelectorAll('.tlx-dot').length, evs: document.querySelectorAll('#tlv .ev').length };
+    });
+    const tlMax = width > 900 ? 900 : 1200;
+    if (tl && tl.dots !== tl.evs) bad(where, `timeline drew ${tl.dots} of ${tl.evs} events`);
+    if (tl && tl.h > tlMax) bad(where, `timeline is ${tl.h}px tall (limit ${tlMax})`);
     await ctx.close();
   };
   const jobs = urls.flatMap(u => [375, 1280].map(w => [u, w]));
@@ -111,12 +120,26 @@ if (!args.has('--no-browser')) {
     await page.locator('#videos .vid-btn').first().scrollIntoViewIfNeeded(); await page.locator('#videos .vid-btn').first().focus(); await page.keyboard.press('Enter');
     const src = await page.evaluate(() => document.querySelector('.vid-frame iframe')?.src || '');
     if (!/youtube-nocookie\.com\/embed|archive\.org\/embed/.test(src)) bad('/radioshack/ video', `play did not create a privacy-enhanced embed (${src})`);
+    // timeline keyboard: arrows step between events, Home/End jump, the panel is a live region and never grows
+    for (let i = 0; i < 3; i++) { await page.evaluate(() => document.getElementById('timeline').scrollIntoView({ behavior: 'instant' })); await page.waitForTimeout(200); }
+    const tlState = () => page.evaluate(() => ({ n: document.getElementById('tlxN')?.textContent || '', cur: document.activeElement?.getAttribute('aria-current'), h: document.getElementById('timeline').getBoundingClientRect().height, live: document.getElementById('tlxPanel')?.getAttribute('aria-live') }));
+    await page.locator('.tlx-dot[tabindex="0"]').focus();
+    const t0 = await tlState(); await page.keyboard.press('ArrowRight');
+    const t1 = await tlState(); await page.keyboard.press('End');
+    const t2 = await tlState(); await page.keyboard.press('Home');
+    const t3 = await tlState();
+    if (t0.live !== 'polite') bad('/radioshack/ timeline', 'the detail panel is not an aria-live region');
+    if (t1.n === t0.n || t1.cur !== 'true') bad('/radioshack/ timeline', `ArrowRight did not move to the next event (${t0.n} -> ${t1.n})`);
+    if (t2.n.split(' of ')[0] !== t2.n.split(' of ')[1] || !t3.n.startsWith('1 of ')) bad('/radioshack/ timeline', `End/Home did not jump to the last/first event (${t2.n}, ${t3.n})`);
+    if (new Set([t0.h, t1.h, t2.h, t3.h]).size > 1) bad('/radioshack/ timeline', 'the section changed height while stepping through events');
     const nojs = await browser.newContext({ javaScriptEnabled: false, viewport: { width: 1280, height: 800 } });
     const p2 = await nojs.newPage(); await p2.goto('http://localhost:4173/pets-com/');
     const inv = await p2.evaluate(() => [...document.querySelectorAll('.rv, .info, .chap')].filter(e => getComputedStyle(e).opacity !== '1').length);
     if (inv) bad('/pets-com/ no JavaScript', `${inv} content blocks are invisible without JavaScript`);
+    const list = await p2.evaluate(() => document.querySelectorAll('details.tl-list:not([open]) #tlv .ev').length);
+    if (!list) bad('/pets-com/ no JavaScript', 'the timeline has no folded list fallback');
     await nojs.close(); await ctx.close();
-    console.log('   keyboard, search, reduced motion, video facade and no-JS tests');
+    console.log('   keyboard, search, reduced motion, video facade, timeline and no-JS tests');
   }
   await browser.close(); server.close();
 }

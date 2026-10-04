@@ -39,7 +39,11 @@
   // --- pin state for a date ---
   const stateOf = (p, d) => (p.from && p.from > d) ? 'hidden' : (p.to && p.to <= d) ? 'closed' : 'active';
 
-  function go(i) {
+  // Step dates are "YYYY-MM-DD" or "YYYY"; the timeline uses fractional years (a bare year sits mid-year).
+  const frac = d => { const [y, m, dd] = String(d).split('-').map(Number); return m ? y + (m - 1) / 12 + ((dd || 1) - 1) / 372 : y + .5; };
+  const stepAt = t => Math.max(0, steps.findLastIndex(s => frac(s.date) <= t + .005));
+
+  function go(i, silent) {
     cur = i; const s = steps[i]; if (!s) return;
     track.querySelectorAll('.tl-dot').forEach((b, k) => { b.classList.toggle('on', k === i); b.classList.toggle('past', k < i); });
     $('tlFill').style.width = (steps.length > 1 ? i / (steps.length - 1) * 100 : 0) + '%';
@@ -50,12 +54,15 @@
     });
     svg.querySelectorAll('.lead').forEach(l => l.setAttribute('class', 'lead ' + stateOf(pins[+l.dataset.i], s.date)));
     $('mapKey').querySelectorAll('li').forEach(li => { const p = pins[+li.dataset.i]; li.className = stateOf(p, s.date) + (hl.has(p.id) ? ' hl' : ''); });
-    $('stepCard').innerHTML = `<div class="sc-k">Step ${i + 1} of ${steps.length} · <b>${esc(s.label)}</b></div><h4>${inl(s.title)}</h4><p>${inl(s.text)}${fnl(s.src)}</p>${s.note ? `<p class="sc-note">${esc(s.note.text.join(' '))}</p>` : ''}${s.estimate ? `<p class="sc-est">${inl(s.estimate)}</p>` : ''}`;
+    $('stepCard').innerHTML = `<div class="sc-k">Step ${i + 1} of ${steps.length} · <b>${esc(s.label)}</b></div><h4>${inl(s.title)}</h4><p>${inl(s.text)}${fnl(s.src)}</p>${s.note ? `<p class="sc-note">${esc(s.note.text.join(' '))}</p>` : ''}${s.estimate ? `<p class="sc-est">${inl(s.estimate)}</p>` : ''}<p class="sc-tl"><a href="#timeline">Find this date in the timeline</a></p>`;
     const st = $('mapStat');
     if (s.stat) { st.innerHTML = `<b>${esc(s.stat.value)}</b><span>${inl(s.stat.label)}</span>`; st.classList.add('on'); } else st.classList.remove('on');
     if (states) paintLayer(s.layer);
     drawNote(s);
+    if (!silent) document.dispatchEvent(new CustomEvent('bo:time', { detail: { t: frac(s.date), from: 'map' } }));
   }
+  // the timeline tells the map which date it is showing
+  document.addEventListener('bo:time', e => { if (e.detail.from !== 'map' && P) { stop(); go(stepAt(e.detail.t), true); } });
 
   // --- choropleth ---
   function paintLayer(k) {
@@ -140,7 +147,7 @@
       }
     }
     drawPins();
-    go(0);
+    go(BO.t == null ? 0 : stepAt(BO.t), true);
   }
   const start = () => {
     if (typeof d3 === 'undefined' || !d3.geoAlbersUsa) return;

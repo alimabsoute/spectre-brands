@@ -60,6 +60,7 @@
 .step-card h4{font:600 var(--t-lg)/1.25 var(--serif);margin-bottom:var(--s-2)}
 .step-card p{font-size:1rem;color:var(--ink-2);line-height:1.5}
 .sc-note{display:none}
+.sc-tl{font:500 var(--t-sm) var(--sans)!important;margin-top:var(--s-3)}
 .sc-est{font:var(--t-sm) var(--sans)!important;color:var(--warn-ink)!important;background:var(--warn-bg);border-left:2px solid var(--warn-line);padding:.4rem .6rem;margin-top:var(--s-3)}
 .map-key{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 var(--s-6);margin-top:var(--s-5);border-top:1px solid var(--line)}
 .map-key li{list-style:none;display:grid;grid-template-columns:1.75rem minmax(0,1fr);gap:var(--s-3);padding:var(--s-3) var(--s-2);border-bottom:1px solid var(--line);font-size:1rem;line-height:1.5;color:var(--ink-2);transition:opacity .4s,background .3s}

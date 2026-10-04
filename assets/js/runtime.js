@@ -141,6 +141,7 @@
 
   // ---- lazy modules ----
   const D = BO.data, vend = '/assets/vendor/';
+  near($('#tlx'), () => load('/assets/js/timeline.js'), '900px 0px');
   if (D.needs?.charts) near($('canvas'), () => load(vend + 'chart.umd.min.js').then(() => load(vend + 'rough.js')).then(() => load('/assets/js/charts.js')), '700px 0px');
   if (D.needs?.map) near($('#mapOv'), () => Promise.all([load(vend + 'd3-array.min.js').then(() => load(vend + 'd3-geo.min.js')), load(vend + 'topojson-client.min.js'), load(vend + 'rough.js')]).then(() => load('/assets/js/map.js')), '700px 0px');
 

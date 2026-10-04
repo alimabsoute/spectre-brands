@@ -82,7 +82,7 @@ function validate(c) {
 }
 
 function makeCtx(c) {
-  const ctx = { slug: c.slug, data: { charts: {} }, count: { infographics: 0 }, inlineVideos: new Set() };
+  const ctx = { slug: c.slug, meta: { name: c.name, years: c.years, died: c.died }, data: { charts: {} }, count: { infographics: 0 }, inlineVideos: new Set() };
   ctx.videos = Object.fromEntries((c.sections?.videos?.videos || []).map(v => [v.id, v]));
   ctx.art = file => {
     if (!file) return '';
