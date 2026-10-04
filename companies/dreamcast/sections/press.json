@@ -1,0 +1,44 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said",
+ "clips": [
+  {
+   "q": "It’s game over for the Sega Dreamcast.",
+   "who": "**ABC News**, January 31, 2001[^5]",
+   "big": true
+  },
+  {
+   "q": "We hereby announce our decision to stop production of Dreamcast as of the March term of 2001.",
+   "who": "**Hideki Sato**, Sega vice president, as translated by the Associated Press, January 31, 2001[^4]"
+  },
+  {
+   "q": "Sega remains committed to the Dreamcast format going forward.",
+   "who": "**Charles Bellfield**, Sega of America, eight days before the exit, quoted by the Register[^13]"
+  },
+  {
+   "q": "Pirates are parasites that hurt this community and will not be tolerated by Sega.",
+   "who": "**Peter Moore**, July 2000[^19]"
+  },
+  {
+   "q": "We are not going to hang around for three or four years to wait for broadband, but when it’s there, we’re ready to go.",
+   "who": "**Peter Moore**, on SegaNet, August 2000[^15]"
+  },
+  {
+   "q": "Dreamcast was a phenomenal 18 months of pain, heartache, euphoria…",
+   "who": "**Peter Moore**, to the Guardian, 2008[^6]",
+   "big": true
+  },
+  {
+   "q": "I’ve never met anybody who regretted buying a Dreamcast.",
+   "who": "**Peter Moore**, to the Guardian, 2008[^6]"
+  },
+  {
+   "q": "We had the content right. We had the marketing right. The product was designed right.",
+   "who": "**Charles Bellfield**, to Gamasutra, 2009[^7]"
+  },
+  {
+   "q": "Great content drives hardware.",
+   "who": "**Bernie Stolar**, to Gamasutra, 2009[^7]"
+  }
+ ]
+}

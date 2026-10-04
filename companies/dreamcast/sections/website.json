@@ -1,0 +1,81 @@
+{
+ "kicker": "The old website",
+ "title": "sega.com, from “It’s Thinking” to “In memory”",
+ "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. dreamcast.com itself was archived in this period, but its images were not saved, so these are from sega.com and sega.net.[^27]",
+ "snips": [
+  {
+   "text": "A “View A Game” menu listing the launch-window catalogue: **NFL 2K**, **Sonic Adventure**, **Soul Calibur**, **Power Stone**, **Hydro Thunder**, **Ready 2 Rumble** and more.",
+   "when": "sega.com · Oct 12, 1999[^27]"
+  },
+  {
+   "text": "“**$50 online bonus**” and “Get yourself connected.”",
+   "when": "sega.com · Aug 15, 2000[^27]"
+  },
+  {
+   "text": "“Get updated on SegaNet before the launch on 9.7.00.”",
+   "when": "sega.net · Aug 17, 2000[^27]"
+  },
+  {
+   "text": "“**In memory Isao Okawa 1926–2001**” above “Tired of waiting? Play online now!”",
+   "when": "sega.com · Apr 9, 2001[^27]"
+  }
+ ],
+ "note": "Flash elements in these pages no longer run and were removed before the screenshots were taken; some banner images were never archived and show as empty boxes.",
+ "captures": [
+  {
+   "date": "Oct 1999",
+   "label": "It’s Thinking",
+   "url": "http://sega.com/",
+   "wayback": "https://web.archive.org/web/19991012123458/http://sega.com/",
+   "image": "img/archive-1999-10-home.avif",
+   "h": 480,
+   "captured": "Oct 12, 1999",
+   "title": "A month after launch",
+   "text": "The U.S. home page five weeks after 9/9/99, with the “It’s Thinking” tagline, a game picker and links to the console and the store. The Flash banner at the left is missing."
+  },
+  {
+   "date": "Aug 2000",
+   "label": "Get connected",
+   "url": "http://www.sega.com/sega/index.jhtml",
+   "wayback": "https://web.archive.org/web/20000815065205/http://www.sega.com/sega/index.jhtml",
+   "image": "img/archive-2000-08-home.avif",
+   "h": 440,
+   "captured": "Aug 15, 2000",
+   "title": "Selling the modem",
+   "text": "Virtua Tennis on one side, SegaNet on the other, and a $50 online bonus badge. The price cut to $149 came two weeks later.[^15]"
+  },
+  {
+   "date": "Aug 2000",
+   "label": "SegaNet",
+   "url": "http://www.sega.net/",
+   "wayback": "https://web.archive.org/web/20000817093731/http://www.sega.net/",
+   "image": "img/archive-2000-08-seganet.avif",
+   "h": 440,
+   "captured": "Aug 17, 2000",
+   "title": "The countdown to 9.7.00",
+   "text": "The teaser page for Sega’s internet service, three weeks before it opened."
+  },
+  {
+   "date": "Oct 2000",
+   "label": "Jet Grind Radio",
+   "url": "http://sega.com/sega/index.jhtml",
+   "wayback": "https://web.archive.org/web/20001019093903/http://sega.com/sega/index.jhtml",
+   "image": "img/archive-2000-10-home.avif",
+   "h": 440,
+   "captured": "Oct 19, 2000",
+   "title": "One week before the PlayStation 2",
+   "text": "The home page leads with Jet Grind Radio. Sony’s console reached U.S. stores on October 26.[^7]"
+  },
+  {
+   "date": "Apr 2001",
+   "label": "In memory",
+   "url": "http://sega.com/sega/index.jhtml",
+   "wayback": "https://web.archive.org/web/20010409015614/http://sega.com/sega/index.jhtml",
+   "image": "img/archive-2001-04-okawa.avif",
+   "h": 440,
+   "captured": "Apr 9, 2001",
+   "title": "After the exit",
+   "text": "Ten weeks after the announcement, the page carries a memorial line for Isao Okawa and a new link, “What’s up at Sega?”"
+  }
+ ]
+}

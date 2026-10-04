@@ -1,0 +1,78 @@
+{
+ "kicker": "Marketing",
+ "title": "A date, a tagline and a tour bus",
+ "lede": "Sega of America had little money and seven months. It built the launch around a date people could remember and a campaign that explained almost nothing.",
+ "blocks": [
+  {
+   "kind": "text",
+   "title": "“It’s thinking”",
+   "body": "Moore’s brief was to “somewhat apologize for the past” while recalling what people liked about Sega in the Genesis years. The answer was a run of 15-second spots that never quite said what the machine was. “It was mysterious,” he said. “First of all, if you didn’t know, maybe we didn’t want to talk to you.”[^7]\n\nThe launch itself was staged as an event: 9/9/99 for $199, a spot on the MTV Video Music Awards, and sponsorship of rock tours.[^6] A second series, “In the Box,” put NFL and NBA players alongside characters from the games.[^7]"
+  },
+  {
+   "kind": "video",
+   "video": "thinking"
+  },
+  {
+   "kind": "counters",
+   "title": "The launch in Sega’s numbers",
+   "items": [
+    {
+     "value": "300,000",
+     "text": "U.S. pre-orders before launch[^7]"
+    },
+    {
+     "value": "225,132",
+     "text": "consoles sold in the first 24 hours[^7][^18]"
+    },
+    {
+     "value": "372,000",
+     "text": "consoles in the first four days, worth $132 million with games and accessories[^7]"
+    },
+    {
+     "value": "514,000",
+     "text": "consoles in two weeks; the original PlayStation took over four months to reach half a million in the United States[^17][^7]"
+    }
+   ],
+   "source": "Sega announcements as reported by Gamasutra, RPGamer and Time Extension[^7][^17][^18]. These are company figures and were not independently audited."
+  },
+  {
+   "kind": "quote",
+   "text": "We were a big brand. But then it all went pear-shaped in Christmas 2000.",
+   "who": "Peter Moore, to the Guardian, 2008[^6]"
+  },
+  {
+   "kind": "drawing",
+   "art": "art/modem.svg",
+   "title": "The feature the ads undersold",
+   "caption": "Original illustration.",
+   "body": "Every console shipped with a modem, and by March 2000 Sega counted 1.12 million registered network users: 550,000 in Japan, 330,000 in the United States and 240,000 in Europe.[^1] Sega’s own U.S. online service, SegaNet, opened a year after launch.[^14]"
+  },
+  {
+   "kind": "table",
+   "title": "The price, cut by cut",
+   "columns": [
+    "Date",
+    "United States",
+    "Why"
+   ],
+   "rows": [
+    [
+     "Sep 9, 1999",
+     "$199",
+     "Launch price[^7]"
+    ],
+    [
+     "Aug 31, 2000",
+     "$149",
+     "With a $150 rebate for an 18-month SegaNet contract[^15]"
+    ],
+    [
+     "Jan 31, 2001",
+     "$99",
+     "To clear about 2 million unsold consoles[^5][^4]"
+    ]
+   ],
+   "source": "In Japan the price fell from ¥29,800 at launch to ¥19,900.[^4]"
+  }
+ ]
+}

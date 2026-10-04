@@ -1,0 +1,49 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it",
+ "lede": "Roles are as described in the sources cited. Later careers are included only where we found a source.",
+ "people": [
+  {
+   "name": "Isao Okawa",
+   "role": "Chairman and president, Sega",
+   "text": "Founder of the CSK Group and Sega’s main backer. In January 2001 he gave the company his Sega shares and other assets, producing a ¥77.9 billion gain.[^2]",
+   "later": "Died March 16, 2001, aged 74.[^2][^11]"
+  },
+  {
+   "name": "Shoichiro Irimajiri",
+   "role": "President, Sega, during development",
+   "text": "Set two hardware teams against each other in 1997: Hideki Sato’s in Japan and an outside group in the United States.[^7]"
+  },
+  {
+   "name": "Hideki Sato",
+   "role": "Hardware chief; later vice president",
+   "text": "Designed the Saturn and led the winning Dreamcast design. He announced the end of production at the Tokyo news conference on January 31, 2001.[^7][^4]"
+  },
+  {
+   "name": "Bernie Stolar",
+   "role": "President, Sega of America, 1996 – Aug 1999",
+   "text": "Rebuilt the U.S. company and its retail relationships, bought Visual Concepts and refused EA’s terms. Replaced five weeks before launch.[^7][^16]"
+  },
+  {
+   "name": "Peter Moore",
+   "role": "Marketing chief, then president, Sega of America",
+   "text": "Joined from Reebok in early 1999, ran the 9/9/99 launch and became president in May 2000.[^6][^21] He delivered the exit announcement in the United States.[^9]",
+   "later": "Joined Microsoft in 2003 and Electronic Arts in 2007.[^8][^9]"
+  },
+  {
+   "name": "Charles Bellfield",
+   "role": "VP communications, later strategy, Sega of America",
+   "text": "Co-wrote the September 2000 paper advising Tokyo to leave hardware. His verdict: “Money. Money talks. You need a budget.”[^7]"
+  },
+  {
+   "name": "Toshiro Kezuka",
+   "role": "Vice-chairman and COO, Sega of America, from Aug 1999",
+   "text": "Named to the top U.S. post on August 4, 1999 in place of Stolar.[^16]"
+  },
+  {
+   "name": "Bing Gordon",
+   "role": "Chief creative officer, Electronic Arts",
+   "text": "The EA executive quoted as saying the Dreamcast could not succeed without EA. He later said Sega “was not acting like a competent hardware company.”[^7]"
+  }
+ ]
+}

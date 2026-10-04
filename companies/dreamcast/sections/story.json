@@ -1,0 +1,61 @@
+{
+ "kicker": "The story",
+ "title": "A record first day, and a rival that was not yet on the shelf",
+ "lede": "The Dreamcast did not fail at launch. It failed in its second holiday season, when Sega needed it to pay for itself and buyers were waiting for a Sony machine most of them could not yet find.",
+ "chapters": [
+  {
+   "when": "1996 – 1998 · After the Saturn",
+   "title": "A company that needed a clean start",
+   "big": "¥35.6B",
+   "cap": "Sega’s net loss in the year to March 1998, before the Dreamcast existed",
+   "color": "#C2412D",
+   "body": "Sega came to its last console already hurt. “Saturn, as you know, was a failure,” Bernie Stolar, who ran Sega of America from 1996, said later. He cut the U.S. company from more than 300 people to about 90 and spent 1998 persuading retailers to trust Sega again.[^7][^21]\n\nThe parent was losing money: ¥35.6 billion in fiscal 1998 and ¥42.9 billion in fiscal 1999.[^1] In Tokyo two hardware teams competed for the design. The Japanese one won, built on a Hitachi SH4 processor and an NEC-made PowerVR graphics chip.[^7] The machine went on sale in Japan on November 27, 1998 at ¥29,800.[^18][^4] IGN’s history calls the Japanese launch “unspectacular” and held back by a shortage of NEC chipsets.[^20]",
+   "art": "art/controller.svg",
+   "artCaption": "The controller had a slot for a memory card with its own small screen. Original illustration."
+  },
+  {
+   "when": "Spring – Summer 1999 · “It’s thinking”",
+   "title": "Seven months to build a launch",
+   "big": "300,000",
+   "cap": "U.S. pre-orders before launch day, a record at the time",
+   "color": "#b4460a",
+   "body": "Peter Moore, hired from Reebok in early 1999, had months to build a campaign. “In 60 days we came up with ‘It’s Thinking’,” he told the Guardian. A large-budget spot filmed in Vancouver ran once, on launch night, during the MTV Video Music Awards.[^6]\n\nTwo things went wrong before launch. Electronic Arts, the biggest sports publisher, declined to support the machine; Stolar says EA wanted to be the only sports brand on the platform and he refused because Sega had bought the studio Visual Concepts for $10 million.[^7] And on August 4, five weeks before launch, Sega of America announced that Stolar was out, effective August 11.[^16] Retailers still took a record 300,000 pre-orders.[^7]",
+   "video": "apocalypse"
+  },
+  {
+   "when": "Sep 9, 1999 · 9/9/99",
+   "title": "The biggest day in the business",
+   "big": "$98.4M",
+   "cap": "reported U.S. retail sales in the first 24 hours",
+   "color": "#3F8A5A",
+   "body": "The console launched in North America at $199 with 18 games, at more than 15,000 stores.[^7][^16] Sega said it sold 225,132 consoles in the first 24 hours and took in $98.4 million across hardware, games and accessories, and 514,000 consoles within two weeks.[^7][^17]\n\nThe year to March 2000 was the peak. Sega sold 4.65 million consoles, consumer sales more than doubled to ¥186.2 billion and 1.12 million owners had registered online.[^1] The same report shows the cost: an operating loss of ¥43.0 billion in the consumer division, and a Japanese market where results “fell well below target figures.”[^1]",
+   "video": "katu"
+  },
+  {
+   "when": "2000 · The modem and the wait",
+   "title": "Online first, and a rival already in every headline",
+   "big": "$149",
+   "cap": "U.S. price from August 31, 2000, with a $150 rebate for SegaNet subscribers",
+   "color": "#3d5f86",
+   "body": "Every Dreamcast had a modem. On August 31, 2000 Sega cut the U.S. price to $149 and offered a $150 rebate to anyone who signed up for 18 months of its new online service, SegaNet, at $21.95 a month. The service opened on September 7.[^15][^14] Weekly U.S. sales rose 156.5% between late July and the end of September, according to PC Data.[^14]\n\nIt was not enough. Pirates had worked out in mid-2000 how to run copied games from ordinary CDs.[^19] The PlayStation 2 reached U.S. stores on October 26 with EA’s games and a DVD player.[^7][^20] In September, Moore and Charles Bellfield had already told Tokyo that Sega of America was “not viable as a hardware player in the States beyond Christmas 2000.”[^7]",
+   "image": {
+    "image": "img/archive-2000-08-seganet.avif",
+    "caption": "sega.net in August 2000: “Get updated on SegaNet before the launch on 9.7.00.”[^27]",
+    "alt": "SegaNet teaser page from August 2000 with a $50 online bonus badge"
+   }
+  },
+  {
+   "when": "Jan 31, 2001 · The exit",
+   "title": "“Sega is leaving hardware”",
+   "big": "2 million",
+   "cap": "unsold consoles Sega was holding worldwide on the day it quit",
+   "color": "#C2412D",
+   "body": "Between April and December 2000 Sega sold 2.3 million consoles worldwide.[^4][^5] On January 23 the Nikkei reported that production would end; Sega of America said the company “remains committed to the Dreamcast format.”[^13] Eight days later the board made it official. Production would stop by the end of March, the U.S. price fell to $99 to clear about 2 million machines, and Sega would make games for Sony, Nintendo and Microsoft.[^4][^5]\n\nIsao Okawa, the chairman and president, gave the company his own shares and other assets; he died on March 16.[^2] Sega wrote off ¥52.4 billion of inventory and lost ¥51.7 billion for the year. A year later it reported its first operating profit in three years.[^2][^3]",
+   "pull": {
+    "text": "Sega had the option of pouring in more money and going bankrupt and they decided they wanted to live to fight another day.",
+    "who": "Peter Moore, to the Guardian, 2008[^6]"
+   },
+   "video": "ap2001"
+  }
+ ]
+}

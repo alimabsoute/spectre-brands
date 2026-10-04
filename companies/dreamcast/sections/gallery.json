@@ -1,0 +1,97 @@
+{
+ "kicker": "Brand gallery",
+ "title": "White plastic, an orange spiral and a screen in the controller",
+ "label": "Brand gallery",
+ "lede": "The hardware as photographed, the website as archived, and our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/console-set.avif",
+   "date": "1998–2001",
+   "caption": "The console with its controller. A memory card with its own screen sits in the controller.",
+   "alt": "White Dreamcast console and controller",
+   "credit": "Photo: Evan-Amos, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dreamcast-Console-Set.png), CC BY-SA 3.0."
+  },
+  {
+   "image": "img/vmu.avif",
+   "date": "1998–2001",
+   "caption": "The Visual Memory Unit, a memory card that doubled as a tiny handheld.",
+   "alt": "Dreamcast Visual Memory Unit",
+   "credit": "Photo: Evan-Amos, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sega-Dreamcast-VMU.jpg), public domain."
+  },
+  {
+   "image": "img/archive-1999-10-home.avif",
+   "date": "Oct 1999",
+   "caption": "sega.com five weeks after the U.S. launch.",
+   "alt": "sega.com in October 1999",
+   "credit": "Cropped from an Internet Archive capture of sega.com. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/archive-2000-08-seganet.avif",
+   "date": "Aug 2000",
+   "caption": "The SegaNet teaser page.",
+   "alt": "sega.net in August 2000",
+   "credit": "Cropped from an Internet Archive capture of sega.net. Shown for commentary; trademarks belong to their owners."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, eighteen months apart",
+   "ratio": "16/10",
+   "before": {
+    "label": "October 1999",
+    "image": "img/archive-1999-10-home.avif",
+    "caption": "“It’s Thinking,” five weeks after launch.[^27]",
+    "alt": "sega.com home page, October 1999"
+   },
+   "after": {
+    "label": "April 2001",
+    "image": "img/archive-2001-04-okawa.avif",
+    "caption": "“In memory Isao Okawa 1926–2001,” ten weeks after the exit.[^27]",
+    "alt": "sega.com home page, April 2001"
+   },
+   "source": "Internet Archive Wayback Machine captures of sega.com[^27]."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The console.",
+   "caption": "A square white box with a round lid and a spiral. The spiral was orange in the United States and blue in Europe.[^6]"
+  },
+  {
+   "art": "art/gd-rom.svg",
+   "title": "The disc problem.",
+   "caption": "Sega’s own GD-ROM beside a blank CD. From mid-2000, copies on ordinary CDs would boot.[^19][^20]"
+  },
+  {
+   "art": "art/controller.svg",
+   "title": "The controller.",
+   "caption": "With a slot for a memory card that had its own screen."
+  },
+  {
+   "art": "art/modem.svg",
+   "title": "The modem.",
+   "caption": "In every box, a year before SegaNet opened in the United States.[^14]"
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#e8641b",
+   "label": "Spiral orange (approx.)"
+  },
+  {
+   "hex": "#f4f1ea",
+   "label": "Console white (drawing)"
+  },
+  {
+   "hex": "#0a0a0a",
+   "label": "sega.com black"
+  },
+  {
+   "hex": "#b4460a",
+   "label": "Page accent, darkened for contrast"
+  }
+ ],
+ "disclaimer": "Colours are approximations sampled from photographs and archived captures.[^27] Dreamcast and Sega are trademarks of Sega and appear here in historical and editorial context. Drawings are original illustrations, not official assets."
+}

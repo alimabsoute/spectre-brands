@@ -1,0 +1,324 @@
+{
+ "kicker": "Timeline",
+ "title": "From the Saturn to Sega Sammy, in 27 moments",
+ "lede": "The console’s life, the money behind it and the rivals around it. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "product": {
+   "label": "Product",
+   "color": "#b4460a"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Exit & after",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "Jul 1996",
+   "year": "1996",
+   "cat": "corporate",
+   "title": "Bernie Stolar takes over Sega of America",
+   "text": "The former Sony executive becomes president and cuts the U.S. company from more than 300 people to about 90.",
+   "src": [
+    7,
+    21
+   ]
+  },
+  {
+   "date": "Sep 7, 1997",
+   "year": "1997",
+   "cat": "product",
+   "title": "Sega confirms a new console, code-named Katana",
+   "text": "The Japanese design, with a Hitachi SH4 processor and an NEC-made PowerVR chip, beats a U.S. design built around a 3Dfx chip.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Mar 31",
+   "year": "1998",
+   "cat": "money",
+   "title": "A ¥35.6 billion loss",
+   "text": "Sega Enterprises reports a net loss of ¥35,635 million for fiscal 1998.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Nov 27",
+   "year": "",
+   "cat": "product",
+   "title": "Launch in Japan",
+   "text": "The Dreamcast goes on sale at ¥29,800. Supply is limited by a shortage of NEC chipsets.",
+   "src": [
+    18,
+    4,
+    20
+   ]
+  },
+  {
+   "date": "Early 1999",
+   "year": "1999",
+   "cat": "corporate",
+   "title": "Peter Moore joins from Reebok",
+   "text": "He is hired to run marketing for the U.S. launch and builds the “It’s Thinking” campaign with the agency Foote, Cone & Belding.",
+   "src": [
+    6,
+    7
+   ]
+  },
+  {
+   "date": "Mar 31",
+   "year": "",
+   "cat": "money",
+   "title": "A ¥42.9 billion loss",
+   "text": "Net loss of ¥42,881 million for fiscal 1999. Consumer product sales fall to ¥84.7 billion.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "1999",
+   "year": "",
+   "cat": "rivals",
+   "title": "Electronic Arts stays out",
+   "text": "Talks between Stolar and EA’s Larry Probst end without a deal. EA never publishes a Dreamcast game.",
+   "src": [
+    7,
+    6
+   ]
+  },
+  {
+   "date": "Aug 4",
+   "year": "",
+   "cat": "corporate",
+   "title": "Stolar is replaced",
+   "text": "Sega of America names Toshiro Kezuka chief operating officer and says Stolar is gone effective August 11, five weeks before launch.",
+   "src": [
+    16
+   ]
+  },
+  {
+   "date": "Sep 9",
+   "year": "",
+   "cat": "product",
+   "title": "9/9/99: launch in North America",
+   "text": "$199, 18 games, more than 15,000 stores. Sega reports 225,132 consoles and $98.4 million in 24 hours.",
+   "src": [
+    7,
+    16,
+    18
+   ]
+  },
+  {
+   "date": "Sep 23",
+   "year": "",
+   "cat": "product",
+   "title": "Half a million in two weeks",
+   "text": "Sega says 514,000 consoles have been sold in the United States.",
+   "src": [
+    17,
+    7
+   ]
+  },
+  {
+   "date": "Oct 1999",
+   "year": "",
+   "cat": "product",
+   "title": "Launch in Europe",
+   "text": "Sega’s annual report dates the European launch to October 1999.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Nov 1999",
+   "year": "",
+   "cat": "corporate",
+   "title": "Okawa says it may be the last console",
+   "text": "The Register later recalled that chairman Isao Okawa said in November 1999 that the Dreamcast would be Sega’s last console.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Mar 31",
+   "year": "2000",
+   "cat": "money",
+   "title": "Peak year, and a third straight loss",
+   "text": "4.65 million consoles sold in the fiscal year, 5.55 million in all. Net loss ¥42,880 million.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Spring 2000",
+   "year": "",
+   "cat": "rivals",
+   "title": "PlayStation 2 launches in Japan",
+   "text": "Sony’s console arrives in Japan first; the U.S. launch follows in October.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "May 2000",
+   "year": "",
+   "cat": "corporate",
+   "title": "Moore becomes president of Sega of America",
+   "text": "He holds the job until January 2003.",
+   "src": [
+    21
+   ]
+  },
+  {
+   "date": "Jul 20",
+   "year": "",
+   "cat": "product",
+   "title": "Sega moves against pirates",
+   "text": "After the group Utopia shows that copied games can run from ordinary CDs, Sega says it has shut more than 60 websites and 125 auctions.",
+   "src": [
+    19
+   ]
+  },
+  {
+   "date": "Aug 31",
+   "year": "",
+   "cat": "money",
+   "title": "Price cut to $149",
+   "text": "With a $150 rebate for buyers who take SegaNet for 18 months at $21.95 a month.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "Sep 7",
+   "year": "",
+   "cat": "product",
+   "title": "SegaNet goes live",
+   "text": "Sega’s U.S. internet service and online gaming network opens.",
+   "src": [
+    14,
+    27
+   ]
+  },
+  {
+   "date": "Sep 2000",
+   "year": "",
+   "cat": "corporate",
+   "title": "The “Manifesto of the Future”",
+   "text": "Moore and Charles Bellfield tell Sega’s executives and studio heads in Japan that the U.S. company cannot stay in hardware past Christmas.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Oct 26",
+   "year": "",
+   "cat": "rivals",
+   "title": "PlayStation 2 launches in North America",
+   "text": "At $299, with EA’s games and DVD playback.",
+   "src": [
+    7,
+    5,
+    20
+   ]
+  },
+  {
+   "date": "Jan 23",
+   "year": "2001",
+   "cat": "death",
+   "title": "The Nikkei breaks the story",
+   "text": "The paper reports that production will end on March 31. Sega of America says it “remains committed to the Dreamcast format.”",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Jan 31",
+   "year": "",
+   "cat": "death",
+   "title": "Sega leaves the console business",
+   "text": "The board decides to stop production. The U.S. price drops to $99 to clear about 2 million consoles, and Okawa’s donation of his assets is accepted.",
+   "src": [
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "date": "Mar 16",
+   "year": "",
+   "cat": "corporate",
+   "title": "Isao Okawa dies",
+   "text": "The chairman and president dies aged 74.",
+   "src": [
+    2,
+    11
+   ]
+  },
+  {
+   "date": "Mar 31",
+   "year": "",
+   "cat": "money",
+   "title": "The bill",
+   "text": "Fiscal 2001 closes with a ¥52.4 billion inventory write-off and a net loss of ¥51.7 billion.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Sep 14",
+   "year": "",
+   "cat": "rivals",
+   "title": "GameCube launches in Japan",
+   "text": "Nintendo’s console arrives; Microsoft’s Xbox follows later in the year. Sega makes games for both.",
+   "src": [
+    23,
+    3
+   ]
+  },
+  {
+   "date": "Mar 31",
+   "year": "2002",
+   "cat": "money",
+   "title": "First operating profit in three years",
+   "text": "Operating income of ¥14.2 billion on sales of ¥206.3 billion. Sega sells 7.07 million games for other companies’ consoles.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Oct 2004",
+   "year": "2004",
+   "cat": "death",
+   "title": "Sega Sammy Holdings",
+   "text": "Sega Corporation and Sammy Corporation combine under a holding company.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Jan 25",
+   "year": "2005",
+   "cat": "death",
+   "title": "The 2K studio is sold",
+   "text": "Take-Two buys Visual Concepts and Kush Games from Sega for about $24 million in cash, with the 2K brand.",
+   "src": [
+    26
+   ]
+  }
+ ]
+}

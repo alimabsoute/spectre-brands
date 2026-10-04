@@ -1,0 +1,228 @@
+{
+ "kicker": "The rivals",
+ "title": "Four consoles, one runaway winner",
+ "lede": "The Dreamcast opened the sixth generation of consoles and was the only one of the four to be cancelled inside three years. The other three makers are all still in the business.",
+ "blocks": [
+  {
+   "kind": "bars",
+   "title": "Lifetime console sales, sixth generation",
+   "subtitle": "Millions of units, each maker’s own figure.",
+   "format": {
+    "pre": "",
+    "suf": "M",
+    "dec": 1
+   },
+   "itemLabel": "Console",
+   "valueLabel": "Units sold",
+   "items": [
+    {
+     "label": "PlayStation 2 (Sony)",
+     "value": 160,
+     "display": "160M+",
+     "note": "“More than 160 million,” as of March 2012.[^22]",
+     "color": "blue"
+    },
+    {
+     "label": "Xbox (Microsoft)",
+     "value": 24,
+     "display": "24M+",
+     "note": "“More than 24 million,” May 2006.[^24]",
+     "color": "green"
+    },
+    {
+     "label": "GameCube (Nintendo)",
+     "value": 21.74,
+     "display": "21.74M",
+     "note": "Life to date.[^23]",
+     "color": "plum"
+    },
+    {
+     "label": "Dreamcast (Sega)",
+     "value": 8.2,
+     "display": "8.20M",
+     "note": "To March 31, 2001, Sega’s count. Later totals of 9.13 to 10.6 million are unverified.[^2]",
+     "self": true
+    }
+   ],
+   "source": "Sony Interactive Entertainment[^22], Microsoft[^24], Nintendo[^23] and Sega’s annual report 2001[^2]. The Sony and Microsoft figures are lower bounds. The Dreamcast figure excludes clearance sales after March 2001, so it understates the final total by an unknown amount."
+  },
+  {
+   "kind": "multiples",
+   "title": "Who won, who quit",
+   "subtitle": "Each console’s lifetime sales and what became of its maker’s hardware business.",
+   "metric": "Lifetime units",
+   "items": [
+    {
+     "name": "Dreamcast",
+     "status": "dead",
+     "statusLabel": "Cancelled 2001",
+     "self": true,
+     "value": "8.20M",
+     "text": "Sega’s count to March 2001.[^2] Sega left hardware and became a publisher.",
+     "data": [
+      0.9,
+      4.65,
+      3.39
+     ],
+     "range": [
+      "FY1999",
+      "FY2001"
+     ]
+    },
+    {
+     "name": "PlayStation 2",
+     "status": "alive",
+     "statusLabel": "Won",
+     "value": "160M+",
+     "text": "The best-selling of the four by a wide margin.[^22] It reached the United States on October 26, 2000.[^7]"
+    },
+    {
+     "name": "GameCube",
+     "status": "alive",
+     "statusLabel": "Maker still in consoles",
+     "value": "21.74M",
+     "text": "Released in Japan on September 14, 2001.[^23] Sega sold 1.22 million games for it in its first year as a publisher.[^3]",
+     "data": [
+      380,
+      576,
+      502,
+      392,
+      235,
+      73,
+      16
+     ],
+     "range": [
+      "FY2002",
+      "FY2008"
+     ]
+    },
+    {
+     "name": "Xbox",
+     "status": "alive",
+     "statusLabel": "Maker still in consoles",
+     "value": "24M+",
+     "text": "Microsoft’s first console.[^24] Sega’s U.S. team expected Microsoft’s entry as early as September 2000.[^7]"
+    }
+   ],
+   "source": "As for the chart above. Sparklines: Dreamcast units by fiscal year in millions[^1][^2]; GameCube units by Nintendo fiscal year in ten-thousands[^23]."
+  },
+  {
+   "kind": "scale",
+   "title": "For every Dreamcast, about twenty PlayStation 2s",
+   "left": {
+    "value": "160M+",
+    "label": "PlayStation 2 consoles sold[^22]"
+   },
+   "unit": {
+    "value": "8.20M",
+    "label": "Dreamcast consoles sold by March 2001[^2]"
+   },
+   "count": 20,
+   "icon": "gamepad",
+   "equation": "160 million ÷ 8.20 million = 19.5, rounded up to 20 icons. Each icon stands for one Dreamcast’s worth of PlayStation 2 sales.",
+   "per": "8.20 million consoles",
+   "source": "Sony Interactive Entertainment[^22]; Sega annual report 2001[^2]."
+  },
+  {
+   "kind": "chart",
+   "id": "shareChart",
+   "title": "U.S. console market share, January to September 2000",
+   "subtitle": "Share of the retail and mail-order channel before the PlayStation 2 arrived, according to PC Data.",
+   "chart": {
+    "type": "bar",
+    "horizontal": true,
+    "legend": false,
+    "labels": [
+     "PlayStation (Sony)",
+     "Nintendo 64",
+     "Dreamcast"
+    ],
+    "y": {
+     "format": "pct"
+    },
+    "height": 240,
+    "series": [
+     {
+      "label": "Share since January 2000",
+      "data": [
+       47,
+       36.4,
+       16.4
+      ],
+      "colors": [
+       "blue",
+       "plum",
+       "brand"
+      ]
+     }
+    ]
+   },
+   "source": "PC Data figures as reported by the Register, October 9, 2000[^14]. In the weeks after the August price cut the Dreamcast’s share rose to just under 30%."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Cancelled",
+    "name": "Dreamcast",
+    "alive": false,
+    "rows": [
+     [
+      "U.S. launch",
+      "Sep 9, 1999, $199[^7]"
+     ],
+     [
+      "Disc",
+      "GD-ROM, Sega’s own format[^21]"
+     ],
+     [
+      "Plays DVD movies",
+      "No[^21]"
+     ],
+     [
+      "Online",
+      "Modem in the box[^1]"
+     ],
+     [
+      "EA games",
+      "None[^7]"
+     ],
+     [
+      "Units",
+      "8.20M to Mar 2001[^2]"
+     ]
+    ]
+   },
+   "right": {
+    "tag": "Won",
+    "name": "PlayStation 2",
+    "alive": true,
+    "rows": [
+     [
+      "U.S. launch",
+      "Oct 26, 2000, $299[^7][^5]"
+     ],
+     [
+      "Disc",
+      "DVD[^20]"
+     ],
+     [
+      "Plays DVD movies",
+      "Yes[^20]"
+     ],
+     [
+      "Online",
+      "Not at launch[^15]"
+     ],
+     [
+      "EA games",
+      "Yes[^7]"
+     ],
+     [
+      "Units",
+      "More than 160M[^22]"
+     ]
+    ]
+   }
+  }
+ ]
+}

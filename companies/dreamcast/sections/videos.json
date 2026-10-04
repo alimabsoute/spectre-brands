@@ -1,0 +1,61 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "It’s thinking",
+ "lede": "The launch campaign as it aired, local news from launch night, the wire footage of the day Sega quit, and a later look back.",
+ "videos": [
+  {
+   "id": "apocalypse",
+   "title": "“Apocalypse,” the 9/9/99 launch commercial",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "yvyofEPGwE0",
+   "caption": "The big-budget spot by Foote, Cone & Belding, filmed in Vancouver. Peter Moore says it ran once, on launch night during the MTV Video Music Awards.[^6] This copy is a fan restoration uploaded in 2025."
+  },
+  {
+   "id": "thinking",
+   "title": "The “It’s Thinking” commercials, 1999–2000",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "JL5-sx2A0-M",
+   "caption": "A six-minute reel of the short spots that introduced the console in the United States. The years are the uploader’s."
+  },
+  {
+   "id": "katu",
+   "title": "KATU News: the Dreamcast launch",
+   "year": 1999,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "gT9gseRFzqA",
+   "caption": "Local television coverage from Portland, Oregon. The station says it originally aired on September 9, 1999."
+  },
+  {
+   "id": "seganet",
+   "title": "SegaNet commercial",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "BTs2i9PrIoc",
+   "caption": "A spot for Sega’s online service. The uploader dates it 1999; SegaNet opened on September 7, 2000,[^14] so we list it under 2000."
+  },
+  {
+   "id": "ap2001",
+   "title": "AP: “Japan: Sega announces future of Dreamcast”",
+   "year": 2001,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "8WTxxmuk0PU",
+   "caption": "Associated Press footage of the Tokyo news conference on January 31, 2001, where vice president Hideki Sato announced the end of production.[^4]"
+  },
+  {
+   "id": "ign",
+   "title": "IGN: “The Rise and Fall of the Sega Dreamcast”",
+   "year": 2015,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "g7o96FD5lRo",
+   "caption": "A five-minute retrospective published in 2015. Its figures are IGN’s; ours are in the sections above."
+  }
+ ]
+}

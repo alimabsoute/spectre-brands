@@ -1,0 +1,78 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Discontinued",
+   "color": "var(--red)",
+   "title": "The console",
+   "text": "Production stopped by the end of March 2001. Remaining stock was sold at $99 in the United States, and Sega booked ¥11.1 billion of final hardware and accessory sales in fiscal 2002.[^5][^3]"
+  },
+  {
+   "status": "Survived",
+   "color": "var(--green)",
+   "title": "Sega",
+   "text": "In its first year without a console Sega sold 7.07 million games for other companies’ machines, 3.5 million of them on the PlayStation 2, and returned to operating profit.[^3] It is now part of Sega Sammy Holdings.[^25]"
+  },
+  {
+   "status": "Sold",
+   "color": "var(--blue)",
+   "title": "The 2K sports studio",
+   "text": "Visual Concepts, bought for $10 million to replace EA’s sports games,[^7] went to Take-Two with the 2K brand for about $24 million in January 2005.[^26]"
+  },
+  {
+   "status": "Moved on",
+   "color": "var(--mute)",
+   "title": "Peter Moore",
+   "text": "He joined Microsoft in 2003 to work on Xbox and moved to Electronic Arts in 2007.[^8][^9]"
+  },
+  {
+   "status": "Died",
+   "color": "var(--mute)",
+   "title": "Isao Okawa",
+   "text": "The chairman who gave Sega his shares died on March 16, 2001. In April 2001 the sega.com home page carried the line “In memory Isao Okawa 1926–2001.”[^2][^27]"
+  },
+  {
+   "status": "Vindicated",
+   "color": "var(--gold)",
+   "title": "The idea",
+   "text": "Moore said the Dreamcast “was the precursor to the next-gen consoles” because it went online first, even with SegaNet at “just 50,000 people.”[^6] Sega’s 2002 report says it “created the first online console gaming network with Dreamcast.”[^3]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the Dreamcast name",
+   "subtitle": "The brand never left Sega. The company around it changed.",
+   "nodes": [
+    {
+     "when": "Nov 1998",
+     "owner": "Sega Enterprises, Ltd.",
+     "what": "Launches the console in Japan, then in the United States and Europe in 1999.[^1][^18]"
+    },
+    {
+     "when": "Jan 2001",
+     "owner": "Sega Corporation",
+     "what": "The renamed company decides to stop production and leave hardware.[^2]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "2001–02",
+     "owner": "Sega Corporation",
+     "what": "Sells the remaining consoles and keeps publishing Dreamcast games while moving to other platforms.[^3]"
+    },
+    {
+     "when": "Oct 2004",
+     "owner": "Sega Sammy Holdings",
+     "what": "Sega and Sammy combine under a holding company.[^25]"
+    },
+    {
+     "when": "Today",
+     "owner": "Sega (Sega Sammy group)",
+     "what": "A games publisher inside the Sega Sammy group.[^25] It has not launched a new console platform since.",
+     "status": "current"
+    }
+   ]
+  }
+ ]
+}

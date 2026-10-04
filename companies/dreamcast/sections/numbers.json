@@ -1,0 +1,264 @@
+{
+ "kicker": "The money",
+ "title": "One good year in five",
+ "label": "The numbers",
+ "lede": "Sega published its results in yen for fiscal years ending March 31. The Dreamcast gave the consumer division one year of growth. It never gave it a profit.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Sega’s consumer product sales, fiscal 1998 to 2002",
+   "subtitle": "Billions of yen, years ending March 31. This is the division that sold consoles and games.",
+   "labels": [
+    "FY1998",
+    "FY1999",
+    "FY2000",
+    "FY2001",
+    "FY2002"
+   ],
+   "format": {
+    "pre": "¥",
+    "suf": "B",
+    "dec": 1
+   },
+   "xLabel": "Fiscal year ending March 31",
+   "series": [
+    {
+     "label": "Consumer product sales",
+     "data": [
+      114.5,
+      84.7,
+      186.2,
+      115.8,
+      85.1
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "The Saturn fades",
+     "text": "Consumer sales of ¥114.5 billion and a company-wide net loss of ¥35.6 billion.[^1]"
+    },
+    {
+     "i": 1,
+     "title": "Launch in Japan",
+     "text": "The Dreamcast goes on sale in November 1998. Consumer sales still fall to ¥84.7 billion.[^1]"
+    },
+    {
+     "i": 2,
+     "title": "Launch in the U.S. and Europe",
+     "text": "4.65 million consoles sold in the year. Sales rise 119.8% to ¥186.2 billion, with a ¥43.0 billion operating loss.[^1]"
+    },
+    {
+     "i": 3,
+     "title": "The second Christmas",
+     "text": "3.39 million consoles. Sales fall 37.8% and the division’s operating loss reaches ¥69.2 billion.[^2]"
+    },
+    {
+     "i": 4,
+     "title": "After the exit",
+     "text": "Final hardware and accessory sales of ¥11.1 billion. Sega is now a publisher on other companies’ consoles.[^3]"
+    }
+   ],
+   "source": "Sega Enterprises annual report 2000[^1], Sega Corporation annual reports 2001 and 2002[^2][^3]. The fiscal 2002 figure is the renamed “Consumer business” segment."
+  },
+  {
+   "kind": "chart",
+   "id": "finChart",
+   "title": "Net sales and net loss, whole company",
+   "subtitle": "Billions of yen. Sega lost money in all five years.",
+   "chart": {
+    "type": "bar",
+    "labels": [
+     "FY1998",
+     "FY1999",
+     "FY2000",
+     "FY2001",
+     "FY2002"
+    ],
+    "y": {
+     "format": {
+      "pre": "¥",
+      "suf": "B",
+      "dec": 1
+     }
+    },
+    "height": 340,
+    "series": [
+     {
+      "label": "Net sales",
+      "data": [
+       331.6,
+       266.2,
+       339.1,
+       242.9,
+       206.3
+      ],
+      "color": "grey"
+     },
+     {
+      "label": "Net loss",
+      "data": [
+       -35.6,
+       -42.9,
+       -42.9,
+       -51.7,
+       -17.8
+      ],
+      "color": "red"
+     }
+    ]
+   },
+   "source": "Consolidated statements in the annual reports for 2000, 2001 and 2002[^1][^2][^3]. Figures rounded from millions of yen."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "chart",
+     "id": "unitChart",
+     "title": "Consoles sold, by fiscal year",
+     "subtitle": "Millions of Dreamcast units, worldwide, as Sega reported them.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "FY1999",
+       "FY2000",
+       "FY2001"
+      ],
+      "y": {
+       "format": {
+        "pre": "",
+        "suf": "M",
+        "dec": 2
+       }
+      },
+      "series": [
+       {
+        "label": "Consoles sold",
+        "data": [
+         0.9,
+         4.65,
+         3.39
+        ],
+        "colors": [
+         "grey",
+         "brand",
+         "red"
+        ]
+       }
+      ]
+     },
+     "source": "FY2000: 4.65 million in the year, “5.55 million overall”[^1]. FY1999 (0.90 million) is derived: 5.55 − 4.65. FY2001: 3.39 million[^2]. The same report gives a cumulative total of 8.20 million, which is 0.74 million less than these three bars add up to; Sega did not explain the difference."
+    },
+    {
+     "kind": "waffle",
+     "title": "Where the last full year’s consoles went",
+     "subtitle": "Share of the 3.39 million consoles sold in fiscal 2001.",
+     "itemLabel": "Region",
+     "valueLabel": "Share",
+     "items": [
+      {
+       "label": "United States",
+       "value": 52.5,
+       "note": "1.78 million",
+       "color": "brand"
+      },
+      {
+       "label": "Europe",
+       "value": 27.4,
+       "note": "930,000",
+       "color": "blue"
+      },
+      {
+       "label": "Japan",
+       "value": 13.9,
+       "note": "470,000",
+       "color": "red"
+      },
+      {
+       "label": "Asia outside Japan",
+       "value": 6.2,
+       "note": "210,000",
+       "color": "grey"
+      }
+     ],
+     "source": "Unit sales by region from the annual report 2001[^2]. Percentages are derived from those units."
+    }
+   ]
+  },
+  {
+   "kind": "counters",
+   "title": "The second Christmas, in Sega’s own numbers",
+   "items": [
+    {
+     "value": "2.3M",
+     "text": "consoles sold worldwide from April to December 2000, against 4.65 million in the whole previous fiscal year[^4][^5][^1]"
+    },
+    {
+     "value": "¥69.2B",
+     "text": "operating loss in consumer products in fiscal 2001, up from ¥43.0 billion[^2]"
+    },
+    {
+     "value": "¥52.4B",
+     "text": "loss on writing down or disposing of inventory, “primarily Dreamcast hardware and peripherals”[^2]"
+    },
+    {
+     "value": "¥37.6B",
+     "text": "cash left at March 31, 2001, down ¥60.7 billion in a year[^2]"
+    }
+   ],
+   "source": "Sega Corporation annual report 2001[^2]; AP and ABC News, January 31, 2001[^4][^5]."
+  },
+  {
+   "kind": "flow",
+   "title": "What Isao Okawa handed over",
+   "subtitle": "Assets the chairman donated to Sega in January 2001, as itemised in the notes to the accounts. Billions of yen.",
+   "from": {
+    "label": "total donated assets",
+    "value": 108.564
+   },
+   "format": {
+    "pre": "¥",
+    "suf": "B",
+    "dec": 1
+   },
+   "to": [
+    {
+     "label": "Investments in securities",
+     "value": 57.525,
+     "color": "blue",
+     "note": "Shares in other companies. Press reports named CSK, Ascii and NextCom.[^11]"
+    },
+    {
+     "label": "Sega’s own shares",
+     "value": 33.573,
+     "color": "brand",
+     "note": "19,865,718 shares, booked as treasury stock.[^2]"
+    },
+    {
+     "label": "Other current assets",
+     "value": 9.134,
+     "color": "green"
+    },
+    {
+     "label": "Other investments",
+     "value": 7.132,
+     "color": "gold"
+    },
+    {
+     "label": "Long-term loans receivable",
+     "value": 1.2,
+     "color": "grey"
+    }
+   ],
+   "source": "Note 22 to the consolidated accounts, annual report 2001[^2]. Sega also took on ¥30.7 billion of liabilities with the gift and booked a net gain of ¥77.9 billion ($628.8 million at the report’s rate). The press put the gift at ¥85 billion, or about $695 million[^11]; an earlier report said $566.3 million[^10]. In fiscal 2002 Sega booked a ¥16.7 billion “loss on settlement of donated assets.”[^3]"
+  },
+  {
+   "kind": "note",
+   "body": "How many Dreamcasts were sold in total is not settled. Sega’s 2001 annual report says 8.20 million by March 31, 2001.[^2] Adding its own yearly figures gives 8.94 million (derived).[^1][^2] Sales continued from inventory after that date and Sega did not publish a final unit count in its 2002 report.[^3] Figures of 9.13 million and 10.6 million are widely repeated; we could not trace either to a primary document and treat them as **unverified**."
+  }
+ ]
+}

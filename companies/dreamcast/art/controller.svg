@@ -1,0 +1,15 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a white game controller with a small memory card screen in the middle">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M180 20v-14" stroke="#8a8378"/>
+<path d="M70 60c30-40 190-40 220 0 40 50 50 130 30 190-8 24-40 26-52 2l-20-52h-136l-20 52c-12 24-44 22-52-2-20-60-10-140 30-190Z" fill="#f4f1ea"/>
+<rect x="140" y="52" width="80" height="76" rx="8" fill="#dcd7cc"/>
+<rect x="152" y="62" width="56" height="42" rx="3" fill="#bfd3c0"/>
+<path d="M164 84h8m6-8v16m10-8h10" stroke-width="2"/>
+<circle cx="96" cy="98" r="22" fill="#dcd7cc"/><circle cx="96" cy="98" r="11" fill="#fbf9f5"/>
+<path d="M88 150h18v-14h14v14h18v14h-18v14h-14v-14h-18Z" fill="#dcd7cc" transform="translate(-18 4)"/>
+<circle cx="262" cy="88" r="11" fill="#e8c53a"/>
+<circle cx="286" cy="112" r="11" fill="#4a7fc1"/>
+<circle cx="238" cy="112" r="11" fill="#4f9a5d"/>
+<circle cx="262" cy="136" r="11" fill="#d1492e"/>
+<path d="M172 160l8 12 8-12Z" fill="#e8641b" stroke-width="2.5"/>
+</g></svg>

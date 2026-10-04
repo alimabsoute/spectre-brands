@@ -1,0 +1,153 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Sega was listed in Tokyo and did not file with the SEC, so the primary record is its English-language annual reports. Press coverage from 1999 to 2001 and later interviews fill in the rest.",
+ "list": [
+  {
+   "id": 1,
+   "text": "SEGA Enterprises, Ltd. — [Annual Report 2000](https://www.segasammy.co.jp/cms/wp-content/uploads/pdf/en/ir/e_sega_annual_tuuki_2000.pdf) (fiscal year ended March 31, 2000), from the Sega Sammy Holdings investor-relations archive."
+  },
+  {
+   "id": 2,
+   "text": "SEGA Corporation — [Annual Report 2001](https://www.segasammy.co.jp/cms/wp-content/uploads/pdf/en/ir/e_sega_annual_tuuki_2001.pdf) (fiscal year ended March 31, 2001), including Note 22, “Restructuring of business lines and assets donation.”"
+  },
+  {
+   "id": 3,
+   "text": "SEGA Corporation — [Annual Report 2002](https://www.segasammy.co.jp/cms/wp-content/uploads/pdf/en/ir/e_sega_annual_tuuki_2002.pdf) (fiscal year ended March 31, 2002)."
+  },
+  {
+   "id": 4,
+   "text": "Associated Press — [“Japan: Sega announces future of Dreamcast”](https://www.youtube.com/watch?v=8WTxxmuk0PU), story and footage dated January 31, 2001, published by AP Archive in 2015. The figures are in the AP shot list in the description."
+  },
+  {
+   "id": 5,
+   "text": "ABC News — [“Sega to Halt Dreamcast Production”](https://abcnews.go.com/Technology/story?id=98977), January 31, 2001."
+  },
+  {
+   "id": 6,
+   "text": "The Guardian — Keith Stuart, [“Peter Moore Interview: Part One”](https://www.theguardian.com/technology/gamesblog/2008/sep/11/gamesinterviews.microsoft1), September 2008."
+  },
+  {
+   "id": 7,
+   "text": "Gamasutra (now Game Developer) — Douglass C. Perry, [“The Rise and Fall of the Dreamcast”](https://www.gamedeveloper.com/business/the-rise-and-fall-of-the-dreamcast), September 2009. Interviews with Bernie Stolar, Peter Moore, Charles Bellfield and Bing Gordon."
+  },
+  {
+   "id": 8,
+   "text": "Gamasutra (now Game Developer) — David Jenkins, [“Moore Had Final Decision On Dreamcast”](https://www.gamedeveloper.com/console/moore-had-final-decision-on-dreamcast), September 15, 2008."
+  },
+  {
+   "id": 9,
+   "text": "Time Extension — Damien McFerran, [“I Didn’t Kill Dreamcast, Says Former Sega Of America Boss”](https://www.timeextension.com/news/2023/02/i-didnt-kill-dreamcast-says-former-sega-of-america-boss), February 7, 2023."
+  },
+  {
+   "id": 10,
+   "text": "Gamasutra (now Game Developer) — [“Sega Chief Offsets Company Debt with Stock Gift”](https://www.gamedeveloper.com/game-platforms/sega-chief-offsets-company-debt-with-stock-gift), February 7, 2001."
+  },
+  {
+   "id": 11,
+   "text": "The Register — Tony Smith, [“Sega president dies”](https://www.theregister.com/2001/03/16/sega_president_dies/), March 16, 2001."
+  },
+  {
+   "id": 12,
+   "text": "The Register — Kieren McCarthy, [“RIP Dreamcast: March 2001”](https://www.theregister.com/2001/02/02/rip_dreamcast_march/), February 2, 2001."
+  },
+  {
+   "id": 13,
+   "text": "The Register — [“Sega to cease Dreamcast production”](https://www.theregister.com/2001/01/23/sega_to_cease_dreamcast_production/), January 23, 2001."
+  },
+  {
+   "id": 14,
+   "text": "The Register — Tony Smith, [“Price cut sends Dreamcast sales through roof”](https://www.theregister.com/2000/10/09/price_cut_sends_dreamcast_sales/), October 9, 2000."
+  },
+  {
+   "id": 15,
+   "text": "CNN.com (Reuters) — [“Sega, back from the near-dead, aims high”](https://edition.cnn.com/2000/TECH/computing/08/31/sega.reut/index.html), August 31, 2000."
+  },
+  {
+   "id": 16,
+   "text": "Sega of America press release, “Sega Elevates Kezuka to Top Post of North American Operations,” August 4, 1999, [as reproduced by RPGFan](https://classic.rpgfan.com/news/1999/491.html)."
+  },
+  {
+   "id": 17,
+   "text": "RPGamer — [news item on Sega’s 514,000-unit announcement](https://archive.rpgamer.com/news/Q3-1999/092399b.html), September 23, 1999 (credited to IGN)."
+  },
+  {
+   "id": 18,
+   "text": "Time Extension — Damien McFerran, [“It’s Been 25 Years Since The Dreamcast’s North American ‘9.9.99’ Launch”](https://www.timeextension.com/news/2024/09/anniversary-its-been-25-years-since-the-dreamcasts-north-american-9-9-99-launch), September 9, 2024."
+  },
+  {
+   "id": 19,
+   "text": "ABC News (Reuters) — Andrew Quinn, [“Sega Shuts Down Computer Game Pirates”](https://abcnews.go.com/Technology/story?id=119647), July 21, 2000."
+  },
+  {
+   "id": 20,
+   "text": "IGN — Travis Fahs, [“IGN Presents the History of Dreamcast”](https://www.ign.com/articles/2010/09/10/ign-presents-the-history-of-dreamcast), September 10, 2010."
+  },
+  {
+   "id": 21,
+   "text": "The Ringer — Ben Lindbergh, [article for the Dreamcast’s 20th anniversary](https://www.theringer.com/2019/09/11/video-games/sega-dreamcast-20th-anniversary), September 11, 2019. Interviews with Bernie Stolar and Peter Moore."
+  },
+  {
+   "id": 22,
+   "text": "Sony Interactive Entertainment — [Business data and sales](https://sonyinteractive.com/en/our-company/business-data-sales/): PlayStation 2 hardware, “more than 160 million,” as of March 31, 2012."
+  },
+  {
+   "id": 23,
+   "text": "Nintendo Co., Ltd. — [Consolidated Sales Transition by Region](https://www.nintendo.co.jp/ir/finance/historical_data/xls/consolidated_sales_e2603.xlsx) (spreadsheet linked from the [historical data page](https://www.nintendo.co.jp/ir/en/finance/historical_data/index.html)): GameCube hardware, 21.74 million life to date."
+  },
+  {
+   "id": 24,
+   "text": "Microsoft — “Gamers Catch Their Breath as Xbox 360 and Xbox Live Reinvent Next-Generation Gaming,” May 10, 2006, [archived copy from xbox.com](https://web.archive.org/web/20060908045026/http://www.xbox.com/zh-SG/community/news/2006/20060510.htm): “more than 24 million Xbox consoles sold worldwide.”"
+  },
+  {
+   "id": 25,
+   "text": "Sega Sammy Holdings — [History](https://www.segasammy.co.jp/en/corp/history/): the holding company “came into existence in October 2004.”"
+  },
+  {
+   "id": 26,
+   "text": "Take-Two Interactive and Sega Corporation — [press release on the acquisition of Visual Concepts and Kush Games](https://ir.take2games.com/static-files/aa599c70-fa14-4d5f-93b2-b8b777f62fdc), January 25, 2005."
+  },
+  {
+   "id": 27,
+   "text": "Internet Archive Wayback Machine — captures of [sega.com](https://web.archive.org/web/19991012123458/http://sega.com/) and [sega.net](https://web.archive.org/web/20000817093731/http://www.sega.net/), 1999–2001. Individual captures are linked in the website section."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Lifetime sales",
+   "text": "Sega’s annual report 2001 gives 8.20 million consoles sold by March 31, 2001.[^2] Its yearly figures (0.90 million derived for fiscal 1999, 4.65 million, 3.39 million) add up to 8.94 million; the reports do not explain the 0.74 million gap, which may reflect returns or a change of basis. No final unit count appears in the 2002 report.[^3] The widely quoted totals of 9.13 million and 10.6 million are **unverified**: we did not find a primary document for either. ABC News put sales at “about 6.5 million” on January 31, 2001.[^5]"
+  },
+  {
+   "label": "Launch-day figure",
+   "text": "$98.4 million and 225,132 consoles are Sega’s figures as reported in later interviews and retrospectives.[^7][^18] We could not open the original September 1999 press release. A figure of about $97 million is also widely quoted and is **unverified** here. The number covers hardware, software and accessories at retail prices; it is not Sega’s revenue."
+  },
+  {
+   "label": "Okawa’s donation",
+   "text": "Three figures circulate. Sega’s accounts: total donated assets of ¥108.6 billion, liabilities assumed of ¥30.7 billion and a net gain of ¥77.9 billion ($628.8 million at ¥123.9 to the dollar).[^2] The Register: ¥85 billion, or $695.7 million.[^11] Gamasutra in February 2001: $566.3 million.[^10] We use the accounts for charts and quote the press figures as reported."
+  },
+  {
+   "label": "Derived figures",
+   "text": "510 days: September 9, 1999 to January 31, 2001 (113 days to the end of 1999, 366 in 2000, 31 in January 2001). Fiscal 1999 console sales of 0.90 million: 5.55 million overall minus 4.65 million in fiscal 2000.[^1] Regional shares of fiscal 2001 sales: each region’s units divided by 3.39 million.[^2] PlayStation 2 multiple of 19.5: 160 million divided by 8.20 million.[^22][^2] Yen figures in charts are rounded from millions of yen."
+  },
+  {
+   "label": "Recollections, not records",
+   "text": "Bellfield’s doubt that Sega spent half of its announced $100 million marketing budget, Moore’s estimate that the console cost $250 to $260 to build, and the accounts of the EA negotiation are interview recollections given years later.[^7][^9] Stolar and Gordon disagree about why EA stayed away; both versions are reported. Stolar’s departure is described as a replacement in Sega’s release[^16] and as a resignation in the Ringer.[^21] Moore’s start date is given as February 1999 in one interview and March in another.[^6][^7]"
+  },
+  {
+   "label": "Who made the call",
+   "text": "Moore told the Guardian in 2008 that “somehow I got to make that call, not the Japanese.”[^6] In 2023 he said he meant the telephone call announcing a decision taken in Japan.[^9] Sega’s accounts record a board decision on January 31, 2001.[^2]"
+  },
+  {
+   "label": "Unknowns",
+   "text": "The Dreamcast’s manufacturing cost, its marketing budget, SegaNet’s subscriber count and the revenue lost to piracy were not disclosed in any source we opened. Okawa’s date of death is given as March 16, 2001 in Sega’s annual report; the Register, writing that day, said “yesterday.”[^2][^11]"
+  },
+  {
+   "label": "General knowledge",
+   "text": "The PlayStation 2 went on sale in Japan in March 2000 and the Xbox in North America in November 2001. Sega Enterprises was renamed Sega Corporation in 2000. Sega has not released a new console platform since the Dreamcast, while Sony, Nintendo and Microsoft still make consoles. The agency name Foote, Cone & Belding is from the interviews cited."
+  },
+  {
+   "label": "Images and video",
+   "text": "Screenshots are from Internet Archive captures and are shown for commentary. Photographs are from Wikimedia Commons under the licenses stated in the gallery. Drawings are original. Videos are embedded from YouTube and remain the property of their rights holders; upload dates and descriptions were read from each watch page."
+  }
+ ]
+}

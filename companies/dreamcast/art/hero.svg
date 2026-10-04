@@ -1,0 +1,19 @@
+<svg viewBox="0 0 400 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a white game console with a round lid and an orange spiral, seen from above">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M60 70h280a18 18 0 0 1 18 18v170a18 18 0 0 1-18 18H60a18 18 0 0 1-18-18V88a18 18 0 0 1 18-18Z" fill="#f4f1ea"/>
+<path d="M42 240h316v18a18 18 0 0 1-18 18H60a18 18 0 0 1-18-18Z" fill="#dcd7cc"/>
+<circle cx="200" cy="150" r="72" fill="#fbf9f5"/>
+<circle cx="200" cy="150" r="60" stroke-width="2" stroke="#b9b2a4"/>
+<g class="spin" style="transform-origin:200px 150px;transform-box:view-box">
+<path d="M200 150c0-9 13-11 17-2 5 12-7 24-20 22-17-3-26-22-17-38 11-19 38-22 53-6 14 15 13 39-2 53" stroke="#e8641b" stroke-width="7"/>
+</g>
+<path d="M300 96l14 22h-28Z" fill="#e8641b" stroke-width="2.5"/>
+<rect x="64" y="92" width="34" height="14" rx="7" fill="#dcd7cc"/>
+<rect x="74" y="248" width="44" height="18" rx="3" fill="#1d1b18"/>
+<rect x="134" y="248" width="44" height="18" rx="3" fill="#1d1b18"/>
+<rect x="222" y="248" width="44" height="18" rx="3" fill="#1d1b18"/>
+<rect x="282" y="248" width="44" height="18" rx="3" fill="#1d1b18"/>
+<path d="M358 150h14v40h-14" fill="#dcd7cc"/>
+<path d="M372 170c14 0 18 14 10 26s-2 30 12 34" stroke="#8a8378" stroke-width="2.5"/>
+<path d="M90 300h220" stroke="#b9b2a4" stroke-width="2" stroke-dasharray="3 8"/>
+</g></svg>

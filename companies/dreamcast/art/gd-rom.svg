@@ -1,0 +1,15 @@
+<svg viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a game disc with a dense outer band and a small inner band, beside a blank recordable disc">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="130" cy="140" r="110" fill="#e9eef5"/>
+<circle cx="130" cy="140" r="96" fill="#b9c7dc" stroke-width="2"/>
+<circle cx="130" cy="140" r="58" fill="#e9eef5" stroke-width="2"/>
+<circle cx="130" cy="140" r="46" fill="#cfd9e8" stroke-width="2"/>
+<circle cx="130" cy="140" r="30" fill="#fbf9f5"/>
+<circle cx="130" cy="140" r="11" fill="#fff"/>
+<path d="M58 84a92 92 0 0 1 60-36" stroke="#fff" stroke-width="5"/>
+<circle cx="238" cy="238" r="64" fill="#f3e2a8"/>
+<circle cx="238" cy="238" r="20" fill="#fbf9f5"/>
+<circle cx="238" cy="238" r="8" fill="#fff"/>
+<path d="M200 214l-22-20m0 0l2 12m-2-12l12 1" stroke="#b4460a"/>
+<path d="M214 276h48" stroke="#8a6212" stroke-width="2.5"/>
+</g></svg>

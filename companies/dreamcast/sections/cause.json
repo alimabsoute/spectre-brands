@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "The PlayStation 2, before and after it arrived",
+   "text": "Sony’s console reached U.S. stores on October 26, 2000 with DVD playback and EA’s games.[^7][^20] Sega’s annual report says the Dreamcast “lost significant momentum during the all-important pre-Christmas sales season.”[^2] Moore’s account: sales were “just not going to be enough to get the critical mass to take on the launch of PS2.”[^6]"
+  },
+  {
+   "weight": 25,
+   "title": "A parent that could not fund a long war",
+   "text": "Net losses of ¥35.6 billion, ¥42.9 billion and ¥42.9 billion in the three years to March 2000, then ¥51.7 billion.[^1][^2] Bellfield said Sega announced $100 million of launch marketing and doubted it spent half; that is his recollection, not a reported figure.[^7] Moore recalled the console selling at $199 and costing “probably” $250 to $260 to make.[^9]"
+  },
+  {
+   "weight": 15,
+   "title": "No Electronic Arts, and a trust deficit",
+   "text": "EA published nothing for the machine. Bing Gordon and Bernie Stolar give different reasons, but agree on the result.[^7] Stolar also describes retailers who “really hated Sega” after the Saturn.[^7]"
+  },
+  {
+   "weight": 15,
+   "title": "The home market never came",
+   "text": "Japan bought 950,000 consoles in fiscal 2000 and 470,000 in fiscal 2001, against 1.78 million in the United States that year.[^1][^2] Sega’s report blamed “a maturing of the market” in Japan.[^1]"
+  },
+  {
+   "weight": 10,
+   "title": "Piracy and the disc format",
+   "text": "From mid-2000 copied games could run from ordinary CDs with no modification to the console.[^19][^20] The proprietary GD-ROM also meant no DVD movies.[^21] How much revenue piracy cost is unknown."
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. Sega’s reports document the losses. How much each cause contributed is a matter of opinion."
+}

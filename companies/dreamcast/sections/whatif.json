@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Say yes to EA",
+   "actual": "By Stolar’s account, EA’s Larry Probst asked for exclusive rights to sports games on the console. Stolar had just bought Visual Concepts for $10 million and refused: “Forget it then, end of story.”[^7] EA’s Bing Gordon was quoted saying “Dreamcast can’t succeed without EA.”[^7]",
+   "whatif": "With Madden and FIFA on the box, the machine would have had the best-known sports brands of the era, and one fewer reason to wait for a PlayStation 2. It would not have had NFL 2K, which, IGN wrote, many fans and critics preferred to Madden.[^20] Bellfield doubted any EA game would have changed the outcome.[^7]"
+  },
+  {
+   "tab": "Put in a DVD drive",
+   "actual": "The console used Sega’s own GD-ROM discs. Stolar says Sega could not afford a DVD drive, and a promised add-on never appeared.[^21] The PlayStation 2 played DVD movies.[^20]",
+   "whatif": "A DVD drive would have removed one of Sony’s clearest advantages and closed the CD-R piracy hole. It would also have raised the cost of a machine that Moore recalls was already sold below cost,[^9] and delayed a launch whose whole point was to arrive first."
+  },
+  {
+   "tab": "Leave hardware sooner",
+   "actual": "In September 2000 Moore and Bellfield advised Tokyo to get out of hardware. The studio heads walked out of the meeting.[^7] The decision came on January 31, 2001, after the holiday season, with about 2 million consoles unsold.[^4]",
+   "whatif": "An exit announced before Christmas would have saved some of the ¥52.4 billion inventory write-off,[^2] but it would have killed holiday sales of the console and its games. Sega’s first year as a publisher produced an operating profit,[^3] which suggests the destination was right even if the timing was forced."
+  }
+ ]
+}
