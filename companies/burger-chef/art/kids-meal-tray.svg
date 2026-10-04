@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a fold-up cardboard children's meal tray holding a hamburger, fries, a drink, a cookie and a small toy">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M40 150 L80 250 H320 L360 150 Z" fill="#e8742a"/>
+<path d="M80 250 L96 208 H304 L320 250" fill="#f3a15f"/>
+<path d="M60 150 L44 96 H120 L132 150" fill="#2f6fb5"/>
+<path d="M62 114 l14 10 l14 -12 l12 12" fill="none" stroke="#fbf9f5" stroke-width="3"/>
+<path d="M112 150 C112 112 196 112 196 150 Z" fill="#e9b566"/>
+<path d="M108 156 H200" fill="none" stroke="#5b8f3a" stroke-width="6"/>
+<rect x="110" y="160" width="88" height="12" rx="5" fill="#6b3d22"/>
+<path d="M112 176 H196 C196 190 188 194 178 194 H130 C120 194 112 190 112 176 Z" fill="#e9b566"/>
+<path d="M214 196 L208 128 H258 L252 196 Z" fill="#b8430e"/>
+<path d="M216 128 V98 M226 128 V88 M236 128 V94 M246 128 V102 M252 128 V110" fill="none" stroke="#f6d04d" stroke-width="7"/>
+<path d="M216 128 V98 M226 128 V88 M236 128 V94 M246 128 V102" fill="none" stroke-width="1.5"/>
+<path d="M276 196 L268 108 H328 L320 196 Z" fill="#fbf9f5"/>
+<path d="M264 108 H332" fill="none" stroke-width="6" stroke="#2f6fb5"/><path d="M264 108 H332" fill="none" stroke-width="1.5"/>
+<path d="M304 104 L316 56" fill="none"/>
+<path d="M276 150 H322" fill="none" stroke="#b8430e" stroke-width="5"/>
+<circle cx="150" cy="226" r="14" fill="#c98d4f"/><circle cx="145" cy="222" r="2" fill="#1d1b18"/><circle cx="155" cy="229" r="2" fill="#1d1b18"/><circle cx="152" cy="219" r="1.6" fill="#1d1b18"/>
+<path d="M224 238 l14 -24 l14 24 Z" fill="#f6d04d"/><circle cx="238" cy="212" r="5" fill="#2f6fb5"/>
+<path d="M92 268 H308" fill="none" stroke-dasharray="2 8"/>
+</g></svg>

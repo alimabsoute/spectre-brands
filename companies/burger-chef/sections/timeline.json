@@ -1,0 +1,351 @@
+{
+ "kicker": "Timeline",
+ "title": "From a grill demonstration to a trademark file",
+ "lede": "Thirty moments, with the rivals alongside. Where sources disagree on a date or a count, the entry says so.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "product": {
+   "label": "Menu & marketing",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "End & afterlife",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "1930s",
+   "year": "",
+   "cat": "corporate",
+   "title": "General Equipment founded",
+   "text": "Frank Thomas Sr. starts a company making frozen custard and ice cream machines. One history dates it to 1929.",
+   "src": [
+    6,
+    9
+   ]
+  },
+  {
+   "date": "1950s",
+   "year": "",
+   "cat": "corporate",
+   "title": "The flame broiler",
+   "text": "Frank Thomas Jr. agrees to mass-produce flame broilers for a Miami-based chain and to market them outside Florida.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "May",
+   "year": "1957",
+   "cat": "corporate",
+   "title": "Pilot stand at Little America",
+   "text": "A demonstration hamburger stand opens at an Indianapolis amusement park. The Indianapolis Star counts this as the first Burger Chef.",
+   "src": [
+    5,
+    7
+   ]
+  },
+  {
+   "date": "Spring",
+   "year": "1958",
+   "cat": "corporate",
+   "title": "First Burger Chef",
+   "text": "Opens at 1300 West 16th Street, Indianapolis, with Robert Wildman as partner.",
+   "src": [
+    4,
+    5
+   ]
+  },
+  {
+   "date": "1959",
+   "year": "",
+   "cat": "corporate",
+   "title": "Eight restaurants, or forty",
+   "text": "The Encyclopedia of Indianapolis counts eight in three states. The Indianapolis Star says more than 40 by October.",
+   "src": [
+    5,
+    7
+   ]
+  },
+  {
+   "date": "1960",
+   "year": "",
+   "cat": "corporate",
+   "title": "About 70 restaurants",
+   "text": "Two years after launch, according to the Indianapolis Business Journal.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "1964–65",
+   "year": "",
+   "cat": "product",
+   "title": "The Big Shef",
+   "text": "A double-decker burger with cheese, lettuce and sauce. Sources give 1964 or 1965.",
+   "src": [
+    7,
+    8
+   ]
+  },
+  {
+   "date": "Sep",
+   "year": "1965",
+   "cat": "corporate",
+   "title": "Downtown Indianapolis",
+   "text": "The first downtown restaurant opens at 6 East Washington Street. One history numbers it store 450.",
+   "src": [
+    5,
+    9
+   ]
+  },
+  {
+   "date": "1966",
+   "year": "",
+   "cat": "corporate",
+   "title": "About 500 restaurants",
+   "text": "The Encyclopedia of Indianapolis says 500; the Business Journal says 440.",
+   "src": [
+    5,
+    6
+   ]
+  },
+  {
+   "date": "1967",
+   "year": "",
+   "cat": "rivals",
+   "title": "Pillsbury buys Burger King",
+   "text": "The chain has 274 stores and is valued at $18 million.",
+   "src": [
+    21
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1967",
+   "cat": "corporate",
+   "title": "Second-largest chain",
+   "text": "Burger Chef trails only McDonald’s.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "1968",
+   "year": "",
+   "cat": "money",
+   "title": "Sold to General Foods",
+   "text": "$16 million for about 700 owned and franchised units, by the Times account. Other reports range up to $25 million.",
+   "src": [
+    1,
+    6
+   ]
+  },
+  {
+   "date": "1968",
+   "year": "",
+   "cat": "rivals",
+   "title": "McDonald’s opens its 1,000th restaurant",
+   "text": "The leader passes four figures in the year Burger Chef is sold.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "1969",
+   "year": "",
+   "cat": "corporate",
+   "title": "1,000th Burger Chef",
+   "text": "One year after the sale.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "1969",
+   "year": "",
+   "cat": "rivals",
+   "title": "First Wendy’s",
+   "text": "Opens in Columbus, Ohio.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "1971",
+   "year": "",
+   "cat": "corporate",
+   "title": "The peak",
+   "text": "About 1,200 restaurants. McCann Erickson resigns the advertising account and Ogilvy & Mather takes it.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1972",
+   "cat": "money",
+   "title": "An $83 million loss",
+   "text": "General Foods discloses the loss, mostly on Burger Chef. The after-tax charge is $46.8 million.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "1972",
+   "cat": "corporate",
+   "title": "The president retires",
+   "text": "Arthur E. Larkin Jr. leaves General Foods at 55.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1972",
+   "cat": "corporate",
+   "title": "Closures",
+   "text": "More than 100 units closed, all Rix roast-beef units to go, and a net reduction of 25% planned.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "1973",
+   "year": "",
+   "cat": "product",
+   "title": "The Funmeal",
+   "text": "A boxed meal for children with puzzles and stories.",
+   "src": [
+    8,
+    17
+   ]
+  },
+  {
+   "date": "1978",
+   "year": "",
+   "cat": "product",
+   "title": "Star Wars Funmeal",
+   "text": "Seven trays with punch-out toys, made with Coca-Cola under license from Twentieth Century-Fox.",
+   "src": [
+    19
+   ]
+  },
+  {
+   "date": "Nov 17",
+   "year": "1978",
+   "cat": "corporate",
+   "title": "Speedway",
+   "text": "Four employees are abducted from the Speedway, Indiana restaurant and found dead two days later. The case is unsolved.",
+   "src": [
+    15,
+    16
+   ]
+  },
+  {
+   "date": "1979",
+   "year": "",
+   "cat": "rivals",
+   "title": "The Happy Meal",
+   "text": "McDonald’s introduces its own children’s meal. Burger Chef sues.",
+   "src": [
+    7,
+    20
+   ]
+  },
+  {
+   "date": "Mar 2",
+   "year": "1981",
+   "cat": "money",
+   "title": "“Barely a breakeven operation”",
+   "text": "The Times’ description of Burger Chef, by then a regional chain.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Dec 10",
+   "year": "1981",
+   "cat": "death",
+   "title": "Sale to Hardee’s reported",
+   "text": "About $44 million. General Foods expects a charge of about 25 cents a share.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Nov 15",
+   "year": "1982",
+   "cat": "death",
+   "title": "Conversions in Indianapolis",
+   "text": "A television report covers 75 local restaurants becoming Hardee’s.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "1996",
+   "year": "",
+   "cat": "death",
+   "title": "The last Burger Chef",
+   "text": "The Cookeville, Tennessee franchise becomes “Pleasers.”",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Jan 15",
+   "year": "2007",
+   "cat": "death",
+   "title": "Trademark challenged",
+   "text": "River West Brands petitions to cancel two Burger Chef registrations as abandoned.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Apr 23",
+   "year": "2007",
+   "cat": "death",
+   "title": "The Big Shef returns",
+   "text": "Hardee’s sells it for a limited time in five Indiana and Ohio markets.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Apr 16",
+   "year": "2009",
+   "cat": "death",
+   "title": "Challenge withdrawn",
+   "text": "River West files a withdrawal of its petition.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "May",
+   "year": "2014",
+   "cat": "death",
+   "title": "Another limited run",
+   "text": "Hardee’s serves the Big Shef again in Indianapolis while the chain appears in the television series Mad Men.",
+   "src": [
+    4,
+    12
+   ]
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Converted",
+   "color": "var(--blue)",
+   "title": "The restaurants",
+   "text": "Most became Hardee’s from 1982, starting with nearly 260 company-owned units. Franchisees could convert, rebrand or close.[^7][^10] Many of the buildings still stand under other uses.[^8][^24]"
+  },
+  {
+   "status": "Renamed",
+   "color": "var(--mute)",
+   "title": "The last franchise",
+   "text": "Cookeville, Tennessee, kept the name until 1996, when it became “Pleasers.”[^4] One local history attributes its long survival to a franchisee lawsuit settlement; we could not confirm that account.[^9]"
+  },
+  {
+   "status": "Kept on file",
+   "color": "var(--gold)",
+   "title": "The trademark",
+   "text": "Hardee’s Food Systems held two Burger Chef registrations, issued in 1993 and 1994. River West Brands petitioned to cancel them as abandoned in January 2007 and withdrew in April 2009.[^13][^14] We have not checked their status since."
+  },
+  {
+   "status": "Revived briefly",
+   "color": "var(--green)",
+   "title": "The Big Shef",
+   "text": "Hardee’s sold it for a limited time in 2007 in Indianapolis, Terre Haute, Fort Wayne, South Bend and Dayton, at two for $3, and again in Indianapolis in 2014.[^11][^12] An Indiana history blog also records a 2001 run.[^8]"
+  },
+  {
+   "status": "Absorbed",
+   "color": "var(--mute)",
+   "title": "The owners",
+   "text": "General Foods moved on to Oscar Mayer.[^2] Hardee’s was later bought by CKE Restaurants, the owner of Carl’s Jr., and was a wholly owned CKE subsidiary by 2007.[^9][^11]"
+  },
+  {
+   "status": "Unsolved",
+   "color": "var(--red)",
+   "title": "Speedway",
+   "text": "The 1978 murders of four employees remain unsolved. The Indiana State Police renewed its appeal for information on the 40th anniversary in 2018.[^15][^16]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "subtitle": "Three owners in the chain’s working life, and a fourth by acquisition of the third.",
+   "nodes": [
+    {
+     "when": "1958",
+     "owner": "The Thomas brothers and Robert Wildman",
+     "what": "General Equipment’s owners open the first Burger Chef in Indianapolis and franchise it.[^5][^6]"
+    },
+    {
+     "when": "1968",
+     "owner": "General Foods",
+     "what": "Buys about 700 units and expands to 1,200 outlets. Discloses an $83 million loss in 1972.[^1]",
+     "price": "$16M"
+    },
+    {
+     "when": "1982",
+     "owner": "Hardee’s (Imasco)",
+     "what": "Buys the chain and converts the restaurants to Hardee’s.[^3][^10]",
+     "price": "about $44M"
+    },
+    {
+     "when": "1996",
+     "owner": "Last franchise renamed",
+     "what": "The Cookeville, Tennessee restaurant becomes “Pleasers.”[^4]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "2007–09",
+     "owner": "River West Brands challenge",
+     "what": "A petition to cancel the trademarks as abandoned is filed and later withdrawn.[^13][^14]"
+    },
+    {
+     "when": "1997 – today",
+     "owner": "Hardee’s (CKE Restaurants)",
+     "what": "CKE, the owner of Carl’s Jr., buys Hardee’s in 1997 according to one local history.[^9] Hardee’s keeps the trademark and uses it for occasional Big Shef promotions, most recently documented in 2014.[^11][^12]",
+     "status": "current"
+    }
+   ],
+   "source": "The New York Times[^1][^3], Time[^4], USPTO Trademark Trial and Appeal Board filings[^13][^14], Hardee’s press release[^11]."
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Orange, blue and a kite on two legs",
+ "label": "Brand gallery",
+ "lede": "Burger Chef’s first buildings had a diamond-shaped roof arch and a kite-shaped street sign.[^6] Few photographs of working restaurants are freely licensed. Here are four that are, and our own drawings.",
+ "archive": [
+  {
+   "image": "img/store-1967-killeen.avif",
+   "date": "1967",
+   "caption": "Cars at a Burger Chef in Killeen, Texas.",
+   "alt": "Black and white photograph of two cars parked at a Burger Chef at night",
+   "credit": "Photo: John Lloyd, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CarsatBurgerChef,Killeen,Texas,1967.jpg), CC BY 2.0."
+  },
+  {
+   "image": "img/sign-1979-albuquerque.avif",
+   "date": "1979",
+   "caption": "A Burger Chef sign in Albuquerque, New Mexico, late in the chain’s life.",
+   "alt": "Tall neon roadside sign reading Burger Chef Hamburgers Shakes",
+   "credit": "Photo: John Margolies, Roadside America Photograph Archive, [Library of Congress](https://www.loc.gov/item/2017709772/). No known restrictions on publication; via Wikimedia Commons, public domain."
+  },
+  {
+   "image": "img/former-allisonville-2009.avif",
+   "date": "2009",
+   "caption": "A former Burger Chef at 6132 Allisonville Road, Indianapolis, in use as a dental office.",
+   "alt": "Single-storey green brick building with a low pitched roof and an empty car park",
+   "credit": "Photo: Xnatedawgx, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Former_Burger_Chef,_6132_Allisonville_Road,_Indianapolis,_IN.jpg), CC BY-SA 3.0."
+  },
+  {
+   "image": "img/former-hardees-washington-st.avif",
+   "date": "2009",
+   "caption": "A former Burger Chef, later a Hardee’s, at 3127 West Washington Street, Indianapolis.",
+   "alt": "Vacant restaurant building with a mansard roof and empty sign frames",
+   "credit": "Photo: Xnatedawgx, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Former_Hardees,_Burger_Chef,_3127_W_Washington_St,_Indianapolis.JPG), CC BY-SA 3.0."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same chain, forty-two years apart",
+   "ratio": "3/2",
+   "before": {
+    "label": "1967",
+    "image": "img/store-1967-killeen.avif",
+    "caption": "A working restaurant in Killeen, Texas.[^24]",
+    "alt": "Cars parked at a Burger Chef at night in 1967"
+   },
+   "after": {
+    "label": "2009",
+    "image": "img/former-allisonville-2009.avif",
+    "caption": "A former restaurant in Indianapolis, by then a dental office.[^24]",
+    "alt": "A former Burger Chef building used as a dental office in 2009"
+   },
+   "source": "Wikimedia Commons photographs by John Lloyd (CC BY 2.0) and Xnatedawgx (CC BY-SA 3.0).[^24] The two photographs show different buildings."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The sign.",
+   "caption": "A kite on two legs, lit at the corners. Original illustration, not the trademarked logo."
+  },
+  {
+   "art": "art/storefront.svg",
+   "title": "The stand.",
+   "caption": "A walk-up building under a diamond-shaped arch, as the early franchises were described.[^6] Original illustration."
+  },
+  {
+   "art": "art/broiler.svg",
+   "title": "The machine.",
+   "caption": "The conveyor flame broiler the restaurants were built to sell. Original illustration."
+  },
+  {
+   "art": "art/kids-meal-tray.svg",
+   "title": "The tray.",
+   "caption": "A boxed children’s meal, 1973. Original illustration, not Burger Chef packaging."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#e8742a",
+   "label": "Sign orange (approx.)"
+  },
+  {
+   "hex": "#2f6fb5",
+   "label": "Panel blue (approx.)"
+  },
+  {
+   "hex": "#b8430e",
+   "label": "Page accent"
+  },
+  {
+   "hex": "#fbf9f5",
+   "label": "Lettering white"
+  }
+ ],
+ "disclaimer": "Colours are approximated from the 1979 Library of Congress photograph. Burger Chef and Big Shef are trademarks of their owner. The drawings are original illustrations and are not official assets."
+}

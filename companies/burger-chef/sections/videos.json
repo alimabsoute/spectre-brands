@@ -1,0 +1,70 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The chain on television",
+ "lede": "Burger Chef advertised heavily to families. These are four spots as collectors have preserved them, and three later looks back. Airing years come from the uploaders unless stated.",
+ "videos": [
+  {
+   "id": "treat1970",
+   "title": "“We Always Treat You Right”",
+   "year": 1970,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "P29Z9At4g3c",
+   "caption": "A thirty-second spot from the first years under General Foods, when the chain was still adding restaurants. Dated 1970 by the uploader.[^25]"
+  },
+  {
+   "id": "jeff1974",
+   "title": "Burger Chef and Jeff",
+   "year": 1974,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "fFrS4YIOnv4",
+   "caption": "The animated mascots that carried the Funmeal. Dated 1974 by the uploader.[^25]"
+  },
+  {
+   "id": "starwars",
+   "title": "Star Wars Fun Meals",
+   "year": 1978,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "YFUOkES9A48",
+   "caption": "The Star Wars Funmeal trays. The uploader dates the spot to 1977; the surviving trays carry a 1978 copyright.[^19][^25]"
+  },
+  {
+   "id": "spot1980",
+   "title": "A 1980 spot",
+   "year": 1980,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "zAuhmkHWk60",
+   "caption": "One of the last campaigns before the sale to Hardee’s. Dated 1980 by the uploader.[^25]"
+  },
+  {
+   "id": "ihb",
+   "title": "Indiana Historical Bureau: “Hoosier Fast-Food Pioneer”",
+   "year": 2018,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "ReoW7dbXpuc",
+   "caption": "A five-minute history from the state’s historical bureau, published June 2018. Its script is one of our sources.[^8]"
+  },
+  {
+   "id": "wthr",
+   "title": "WTHR: “Burger Chef case 40 years later”",
+   "year": 2018,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "84AQnQJHWgo",
+   "caption": "An Indianapolis station’s report on the 40th anniversary of the unsolved 1978 Speedway murders.[^15][^25]"
+  },
+  {
+   "id": "recollection",
+   "title": "Recollection Road: “Burger Chef”",
+   "year": 2021,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "vBpwKZ_G0J8",
+   "caption": "An eight-minute independent retrospective. Its figures are the uploader’s; ours are in the sections above.[^25]"
+  }
+ ]
+}

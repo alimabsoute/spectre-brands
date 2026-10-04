@@ -1,0 +1,138 @@
+{
+ "kicker": "The rivals",
+ "title": "Three chains passed it. One bought it.",
+ "lede": "In 1967 Burger Chef was larger than Burger King and Wendy’s did not exist. By the time it was sold, all three national rivals were several times its size, and the fourth was the buyer.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "The hamburger chains of the late 1960s, and what became of them",
+   "subtitle": "Restaurant counts around the 1968 sale, with later counts where a sourced figure exists.",
+   "metric": "Restaurants",
+   "items": [
+    {
+     "name": "Burger Chef",
+     "status": "dead",
+     "self": true,
+     "value": "about 700 in 1968",
+     "text": "Peaked at 1,200 outlets, fell to about 650 by 1981 and was converted to Hardee’s.[^1][^6]",
+     "data": [
+      700,
+      1200,
+      650,
+      1
+     ],
+     "range": [
+      "1968",
+      "1996"
+     ]
+    },
+    {
+     "name": "McDonald’s",
+     "status": "alive",
+     "value": "1,000 in 1968",
+     "text": "4,177 restaurants by 1976 and 10,000 by April 1988.[^4][^20]",
+     "data": [
+      1000,
+      4177,
+      10000
+     ],
+     "range": [
+      "1968",
+      "1988"
+     ]
+    },
+    {
+     "name": "Burger King",
+     "status": "alive",
+     "value": "274 in 1967",
+     "text": "Bought by Pillsbury that year for $18 million. About 3,500 stores by 1982.[^21]",
+     "data": [
+      274,
+      3500
+     ],
+     "range": [
+      "1967",
+      "1982"
+     ]
+    },
+    {
+     "name": "Wendy’s",
+     "status": "alive",
+     "value": "1 in 1969",
+     "text": "Opened its 1,000th restaurant in 1978 and had 1,767 by November 1979.[^22]",
+     "data": [
+      1,
+      1000,
+      1767
+     ],
+     "range": [
+      "1969",
+      "1979"
+     ]
+    },
+    {
+     "name": "Hardee’s",
+     "status": "alive",
+     "statusLabel": "The buyer",
+     "value": "about 2,100 in 1982",
+     "text": "Its chairman’s estimate of the system after absorbing Burger Chef, in 38 states.[^10]"
+    }
+   ],
+   "source": "Burger Chef[^1][^4][^6]; McDonald’s[^4][^20]; Burger King[^21]; Wendy’s[^22]; Hardee’s[^10]. Counts for 1967–69 are the closest comparable years we could source; a Hardee’s count for the 1960s was not found."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "name": "Burger Chef",
+    "tag": "Sold 1982",
+    "alive": false,
+    "rows": [
+     [
+      "First restaurant",
+      "1958[^5]"
+     ],
+     [
+      "Owner from the late 1960s",
+      "General Foods, 1968[^1]"
+     ],
+     [
+      "Units at that sale",
+      "about 700[^1]"
+     ],
+     [
+      "Units in 1981–82",
+      "about 650[^6]"
+     ]
+    ]
+   },
+   "right": {
+    "name": "Burger King",
+    "tag": "Still trading",
+    "alive": true,
+    "rows": [
+     [
+      "Founded",
+      "1954[^21]"
+     ],
+     [
+      "Owner from the late 1960s",
+      "Pillsbury, 1967[^21]"
+     ],
+     [
+      "Units at that sale",
+      "274[^21]"
+     ],
+     [
+      "Units in 1982",
+      "about 3,500[^21]"
+     ]
+    ]
+   },
+   "source": "Both chains were sold to packaged-food companies within about a year of each other. Reference history of Burger King[^21]; The New York Times[^1]; Indianapolis Business Journal[^6]."
+  },
+  {
+   "kind": "note",
+   "body": "Burger Chef’s sales, market share and profit by year were never published. Rankings such as “second only to McDonald’s” refer to the number of restaurants.[^4][^5]"
+  }
+ ]
+}

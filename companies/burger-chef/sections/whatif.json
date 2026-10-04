@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Grow at the old pace",
+   "actual": "General Foods expanded Burger Chef and Rix to 1,200 outlets within about three years of buying roughly 700, then closed more than 100 and planned to cut a quarter of the chain.[^1]",
+   "whatif": "The founders had added several hundred restaurants in a decade, with new franchisees sent to Indianapolis for training.[^4][^5] Holding to that pace would have left a smaller chain in 1972, but one without the write-down, and with the capital that went into bad sites still available for the good ones."
+  },
+  {
+   "tab": "Keep the operators",
+   "actual": "The founder left after the sale, and within two years almost the whole management had changed. A General Foods executive later conceded that fast food was “not like manufacturing a pound of coffee.”[^1]",
+   "whatif": "An earn-out for the founders, or a separate restaurant management of the kind Pillsbury set up at Burger King when it hired Donald Smith in 1977 to restructure the franchise system[^21], might have kept site selection and franchise relations in experienced hands during the expansion."
+  },
+  {
+   "tab": "Sell in 1972",
+   "actual": "General Foods kept the chain for another ten years after the write-off, shrinking it to a regional business that was barely breaking even by 1981, and sold it for about $44 million.[^2][^3]",
+   "whatif": "A sale to a restaurant operator in 1972, while the chain still had more than 1,000 units and the second-largest footprint in the industry, might have preserved the name. Whether any buyer existed at a price General Foods would accept is unknown."
+  }
+ ]
+}

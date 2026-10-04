@@ -1,0 +1,15 @@
+<svg viewBox="0 0 420 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a conveyor flame broiler carrying hamburger patties over a row of flames">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="50" y="60" width="320" height="170" rx="8" fill="#c9ced3"/>
+<rect x="74" y="84" width="272" height="96" rx="4" fill="#3a3632"/>
+<path d="M60 230 V258 M360 230 V258 M40 258 H380" fill="none"/>
+<g class="screen" fill="#e8742a" stroke-width="2.4">
+<path d="M100 176 c-10 -16 6 -22 2 -38 c14 10 16 26 6 38 Z"/><path d="M150 176 c-10 -16 6 -22 2 -38 c14 10 16 26 6 38 Z"/><path d="M200 176 c-10 -16 6 -22 2 -38 c14 10 16 26 6 38 Z"/><path d="M250 176 c-10 -16 6 -22 2 -38 c14 10 16 26 6 38 Z"/><path d="M300 176 c-10 -16 6 -22 2 -38 c14 10 16 26 6 38 Z"/>
+</g>
+<path d="M30 124 H390" fill="none" stroke-width="7" stroke="#8a8f94"/><path d="M30 120 H390 M30 128 H390" fill="none" stroke-width="1.5"/>
+<circle cx="30" cy="124" r="12" fill="#fbf9f5"/><circle cx="390" cy="124" r="12" fill="#fbf9f5"/>
+<g fill="#6b3d22"><rect x="88" y="104" width="44" height="14" rx="6"/><rect x="158" y="104" width="44" height="14" rx="6"/><rect x="228" y="104" width="44" height="14" rx="6"/><rect x="298" y="104" width="44" height="14" rx="6"/></g>
+<path d="M356 40 h28 l-8 -8 M384 40 l-8 8" fill="none"/>
+<rect x="74" y="194" width="60" height="22" rx="4" fill="#fbf9f5"/><circle cx="160" cy="205" r="9" fill="#b8430e"/><circle cx="188" cy="205" r="9" fill="#2f6fb5"/>
+<path d="M240 205 H340" fill="none" stroke-width="2" stroke-dasharray="2 7"/>
+</g></svg>

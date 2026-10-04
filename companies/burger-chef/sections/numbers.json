@@ -1,0 +1,241 @@
+{
+ "kicker": "The numbers",
+ "title": "How many restaurants, and what they cost General Foods",
+ "lede": "Burger Chef was a subsidiary for most of its life and never published accounts of its own. What survives is a handful of unit counts and the figures General Foods gave the press. They are enough to show the shape.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "From one restaurant to 1,200 and back",
+   "subtitle": "Restaurants in the system at eight dated points. The years are not evenly spaced.",
+   "labels": [
+    "1958",
+    "1960",
+    "1966",
+    "1968",
+    "1969",
+    "1972",
+    "1981",
+    "1996"
+   ],
+   "format": "num",
+   "xLabel": "Year",
+   "series": [
+    {
+     "label": "Restaurants",
+     "data": [
+      1,
+      70,
+      500,
+      700,
+      1000,
+      1200,
+      650,
+      1
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 1,
+     "title": "franchising",
+     "text": "About 70 restaurants two years after the first one opened.[^6]"
+    },
+    {
+     "i": 3,
+     "title": "General Foods buys",
+     "text": "About 700 owned and franchised units for $16 million.[^1]"
+    },
+    {
+     "i": 5,
+     "title": "the peak and the write-off",
+     "text": "1,200 outlets, counting Rix. An $83 million loss is disclosed in January 1972.[^1]"
+    },
+    {
+     "i": 6,
+     "title": "the sale",
+     "text": "About 650 restaurants when Hardee’s agrees to buy the chain.[^6]"
+    },
+    {
+     "i": 7,
+     "title": "the last one",
+     "text": "The Cookeville, Tennessee franchise is renamed.[^4]"
+    }
+   ],
+   "source": "1958[^5]; 1960 and 1981[^6]; 1966[^5]; 1968 and 1972[^1]; 1969 and 1996[^4]. The 1972 figure includes General Foods’ Rix roast-beef units. Other sources give 440 for 1966, 650 to nearly 900 for 1968 and 679 for 1982.[^6][^7][^9]"
+  },
+  {
+   "kind": "bars",
+   "title": "What General Foods paid, lost and got back",
+   "subtitle": "Figures as reported by The New York Times, in $ millions, not adjusted for inflation.",
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "itemLabel": "Item",
+   "valueLabel": "$ millions",
+   "items": [
+    {
+     "label": "Purchase price, 1968",
+     "value": 16,
+     "color": "blue",
+     "note": "For about 700 units[^1]"
+    },
+    {
+     "label": "Loss disclosed, January 1972",
+     "value": 83,
+     "color": "red",
+     "self": true,
+     "note": "“Mostly on the Burger Chef fast-food chain”[^1]"
+    },
+    {
+     "label": "After-tax extraordinary loss, fiscal 1972",
+     "value": 46.8,
+     "color": "red",
+     "note": "All write-offs[^1]"
+    },
+    {
+     "label": "Of which charged to fast food",
+     "value": 39,
+     "color": "red",
+     "note": "Burger Chef and Rix[^1]"
+    },
+    {
+     "label": "Sale price, December 1981",
+     "value": 44,
+     "color": "green",
+     "note": "“About $44 million”[^3]"
+    }
+   ],
+   "source": "The New York Times, June 11, 1972[^1] and December 10, 1981[^3]. A 1981 Times article gives the 1972 write-off as $80 million before tax.[^2]"
+  },
+  {
+   "kind": "scale",
+   "title": "The loss was about five times the purchase price",
+   "left": {
+    "value": "$83M",
+    "label": "loss disclosed in January 1972"
+   },
+   "unit": {
+    "value": "$16M",
+    "label": "paid for Burger Chef in 1968"
+   },
+   "count": 5,
+   "icon": "coin",
+   "equation": "$83M ÷ $16M = 5.2. Both figures from The New York Times, June 11, 1972.[^1] The $83M includes smaller write-offs outside fast food.",
+   "source": "The New York Times[^1]."
+  },
+  {
+   "kind": "chart",
+   "id": "priceChart",
+   "title": "What did General Foods pay? Four sources, four answers",
+   "subtitle": "Reported purchase price in $ millions. The Times figure is the only contemporary one.",
+   "chart": {
+    "type": "bar",
+    "horizontal": true,
+    "height": 280,
+    "legend": false,
+    "labels": [
+     "New York Times, 1972 and 1981",
+     "Encyclopedia of Indianapolis",
+     "Lost Indiana, 2001",
+     "Indianapolis Business Journal, 2021"
+    ],
+    "y": {
+     "format": {
+      "pre": "$",
+      "suf": "M",
+      "dec": 1
+     },
+     "min": 0,
+     "max": 30
+    },
+    "series": [
+     {
+      "label": "Reported price",
+      "data": [
+       16,
+       16.5,
+       20,
+       25
+      ],
+      "colors": [
+       "brand",
+       "grey",
+       "grey",
+       "grey"
+      ]
+     }
+    ]
+   },
+   "source": "$16M[^1][^2]; $16.5M[^5]; “nearly $20 million,” for Burger Chef and the Sani-Serv equipment business together[^9]; $25M[^6]. The Indianapolis Star also gives $16 million.[^7] We use the Times figure throughout."
+  },
+  {
+   "kind": "chart",
+   "id": "unitChart",
+   "title": "Burger Chef against McDonald’s",
+   "subtitle": "Restaurants in the years for which a sourced count exists. Gaps are years with no figure.",
+   "chart": {
+    "type": "bar",
+    "labels": [
+     "1968",
+     "1971",
+     "1976",
+     "1981"
+    ],
+    "y": {
+     "format": "num",
+     "title": "Restaurants"
+    },
+    "series": [
+     {
+      "label": "Burger Chef",
+      "data": [
+       700,
+       1200,
+       null,
+       650
+      ],
+      "color": "brand"
+     },
+     {
+      "label": "McDonald’s",
+      "data": [
+       1000,
+       1300,
+       4177,
+       null
+      ],
+      "color": "ink"
+     }
+    ]
+   },
+   "source": "Burger Chef: 1968[^1], 1971[^4], 1981[^6]. McDonald’s: 1,000th restaurant in 1968[^20]; 1971 is **derived** from Time’s statement that Burger Chef’s 1,200 was “just 100 fewer”; 4,177 in 1976[^4]."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "What the franchise looked like",
+   "compact": true,
+   "rows": [
+    {
+     "value": "$129,000",
+     "text": "an owner-operator’s investment in the early 1960s[^5]"
+    },
+    {
+     "value": "50%",
+     "text": "average annual return on that investment, a retrospective figure[^5]"
+    },
+    {
+     "value": "45¢",
+     "text": "burger, fries and shake together[^4][^7]"
+    },
+    {
+     "value": "~260",
+     "text": "company-owned restaurants at the 1982 sale[^7]"
+    }
+   ],
+   "source": "Encyclopedia of Indianapolis[^5], Time[^4], Indianapolis Star[^7]. Sales, profits and average volume per restaurant were never published and are unknown."
+  }
+ ]
+}

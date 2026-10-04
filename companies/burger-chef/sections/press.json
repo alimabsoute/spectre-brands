@@ -1,0 +1,40 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "We moved too far, too fast, under the pressures of the times.",
+   "who": "**Arthur E. Larkin Jr.**, former president of General Foods, The New York Times, Jun 11, 1972[^1]",
+   "big": true
+  },
+  {
+   "q": "At General Foods, Did Success Breed Failure?",
+   "who": "**The New York Times** headline, Jun 11, 1972[^1]"
+  },
+  {
+   "q": "But Burger Chef was the event.",
+   "who": "**Arthur E. Larkin Jr.**, on his retirement, 1972[^1]"
+  },
+  {
+   "q": "…that was a lot of money to lose on hamburgers in three years…",
+   "who": "**Marylin Bender**, The New York Times, Jun 11, 1972[^1]"
+  },
+  {
+   "q": "…barely a breakeven operation…",
+   "who": "**The New York Times**, citing analysts, Mar 2, 1981[^2]"
+  },
+  {
+   "q": "…this business was not central to the long-term direction that we see for General Foods.",
+   "who": "**James L. Ferguson**, chairman of General Foods, Dec 1981[^3]",
+   "big": true
+  },
+  {
+   "q": "We still have a lot of room for expansion and look forward to a very exciting future.",
+   "who": "**Jack Laughery**, chairman of Hardee’s, Nov 1982, as quoted by WRTV[^10]"
+  },
+  {
+   "q": "In certain markets like Indy and Terre Haute, the love affair with Burger Chef remains strong…",
+   "who": "**Brad Haley**, Hardee’s marketing chief, Apr 23, 2007[^11]"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "kicker": "The people",
+ "title": "Who built it, who bought it, who sold it",
+ "lede": "Roles are as given in the cited sources. Later careers are included only where a source states them.",
+ "people": [
+  {
+   "name": "Frank P. Thomas Jr.",
+   "role": "Co-founder; head of General Equipment",
+   "text": "Succeeded his father at the family equipment company, took on the flame broiler, and opened the 1957 pilot stand to demonstrate it.[^5][^6]",
+   "later": "Died in 2007 in Taos, New Mexico, according to a local history.[^9]"
+  },
+  {
+   "name": "Donald J. Thomas",
+   "role": "Co-founder",
+   "text": "Frank’s brother and partner in General Equipment and Burger Chef. The brothers sold to General Foods in 1968.[^6]"
+  },
+  {
+   "name": "Robert Wildman",
+   "role": "Co-founder",
+   "text": "Partner in the first restaurant and an executive of the equipment business. The Encyclopedia of Indianapolis also links him to the Ponderosa and Rax chains.[^5][^7]"
+  },
+  {
+   "name": "Arthur E. Larkin Jr.",
+   "role": "President, General Foods, 1966–72",
+   "text": "Retired abruptly in April 1972 at 55, after the write-off. “Burger Chef was the event,” he told the Times.[^1]"
+  },
+  {
+   "name": "C. W. (Tex) Cook",
+   "role": "Chairman and chief executive, General Foods",
+   "text": "Took back the presidency after Larkin’s departure and oversaw the retreat to a regional chain.[^1]"
+  },
+  {
+   "name": "James L. Ferguson",
+   "role": "Chairman and chief executive, General Foods, 1981",
+   "text": "Announced the sale, saying the business was not central to the company’s long-term direction.[^3]"
+  },
+  {
+   "name": "Jack Laughery",
+   "role": "Chairman and chief executive, Hardee’s",
+   "text": "Led the buyer. In November 1982 he expected a combined system of about 2,100 units in 38 states.[^10]"
+  },
+  {
+   "name": "Jayne Friedt, Ruth Shelton, Daniel Davis and Mark Flemmonds",
+   "role": "Employees, Speedway, Indiana",
+   "text": "The four young staff of the Crawfordsville Road restaurant who were abducted and killed in November 1978. No one has been convicted.[^15][^16]"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "name": "Burger Chef",
+ "number": "017",
+ "tier": "dead",
+ "tierWhy": "No restaurant has traded as Burger Chef since the last franchise, in Cookeville, Tennessee, was renamed in 1996; Hardee’s keeps the trademark registered and has used it only for short Big Shef promotions.[^4][^11][^13]",
+ "category": "restaurants",
+ "cause": "overexpansion",
+ "years": "1958 – 1982",
+ "died": 1982,
+ "dates": [
+  {
+   "date": "1981-12-10",
+   "text": "was reported sold by General Foods to Hardee’s for about $44 million"
+  },
+  {
+   "date": "1982-11-15",
+   "text": "restaurants in the Indianapolis area began turning into Hardee’s, as a local television report recorded"
+  },
+  {
+   "date": "2007-04-23",
+   "text": "came back for a few weeks as a burger: Hardee’s announced a limited return of the Big Shef"
+  }
+ ],
+ "place": "Fast-food hamburgers · Indianapolis, Indiana",
+ "title": "Burger Chef (1958–1982): post-mortem · Spectre Brands",
+ "description": "Once second only to McDonald’s, Burger Chef was bought by General Foods for $16 million, expanded to about 1,200 outlets, written down and sold to Hardee’s. A sourced post-mortem.",
+ "theme": {
+  "accent": "#b8430e",
+  "soft": "#e9f1fa"
+ },
+ "card": {
+  "blurb": "An Indianapolis equipment maker built the second-largest hamburger chain in America. General Foods bought it, doubled it in three years and wrote most of the investment off.",
+  "stat": {
+   "value": "$83M",
+   "label": "loss disclosed in 1972, on a $16M purchase"
+  },
+  "spark": [
+   1,
+   70,
+   500,
+   700,
+   1000,
+   1200,
+   650,
+   1
+  ],
+  "peak": 5
+ },
+ "hero": {
+  "dates": "First restaurant opened in spring 1958. Sale to Hardee’s agreed December 1981. Last franchise renamed 1996.",
+  "standfirst": "In 1967 only McDonald’s had more restaurants. Fifteen years later the chain was sold for its buildings.",
+  "deck": "Burger Chef began as a way to sell a flame broiler. It became a chain of several hundred restaurants, was bought by General Foods in 1968, and was pushed to about 1,200 outlets in three years. In January 1972 the new owner disclosed an $83 million loss, most of it on Burger Chef. The chain shrank for a decade and was sold to the owner of Hardee’s, which took down the signs. There are no company filings to lean on here, so this account is built from contemporary New York Times reporting, Indiana reference histories and trademark records, and it says where they disagree.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration in the spirit of the chain’s kite-shaped roadside sign. Not the trademarked logo.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/store-1967-killeen.avif",
+    "caption": "Killeen, Texas, 1967",
+    "alt": "Black and white photograph of two cars parked at a Burger Chef at night in 1967"
+   },
+   {
+    "image": "img/sign-1979-albuquerque.avif",
+    "caption": "Albuquerque sign, 1979",
+    "alt": "A tall neon Burger Chef roadside sign photographed in 1979"
+   },
+   {
+    "image": "img/former-hardees-washington-st.avif",
+    "caption": "A converted building, 2009",
+    "alt": "An empty former Burger Chef and Hardee’s building in Indianapolis"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "1,200",
+    "text": "outlets at the peak in 1971–72, counting General Foods’ Rix roast-beef units[^1][^4]"
+   },
+   {
+    "value": "$16M",
+    "text": "what General Foods paid in 1968, according to The New York Times[^1][^2]"
+   },
+   {
+    "value": "$83M",
+    "text": "loss General Foods disclosed in January 1972, mostly on Burger Chef[^1]"
+   },
+   {
+    "value": "$44M",
+    "text": "approximate price Hardee’s agreed to pay in December 1981[^3]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It was a real number two.",
+   "text": "By December 1967 Burger Chef was the second-largest restaurant chain in the country, behind McDonald’s. Burger King had 274 stores that year.[^4][^21]"
+  },
+  {
+   "title": "The owner doubled it in three years.",
+   "text": "General Foods took a chain of about 700 units and expanded it, with a roast-beef sideline, to 1,200 outlets “widely and thinly scattered” across the country.[^1]"
+  },
+  {
+   "title": "The loss was five times the purchase price.",
+   "text": "An $83 million loss was disclosed in January 1972 against a $16 million purchase. After tax the extraordinary charge was $46.8 million, $39 million of it for fast food.[^1]"
+  },
+  {
+   "title": "It had the ideas first.",
+   "text": "The Funmeal of 1973 came six years before the Happy Meal, and the 1978 Star Wars Funmeal is among the earliest film tie-ins for a children’s meal.[^8][^17][^19]"
+  },
+  {
+   "title": "The buyer wanted the sites, not the name.",
+   "text": "Hardee’s converted the restaurants to its own brand from 1982. The last one to keep the Burger Chef name gave it up in 1996.[^4][^10]"
+  }
+ ],
+ "published": "2026-10-03"
+}

@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "Expansion into weak sites",
+   "text": "General Foods took about 700 units to 1,200 outlets in roughly three years and made “inflated property commitments in weak marketing areas.” The result was an $83 million loss and a planned 25% cut in the chain.[^1]"
+  },
+  {
+   "weight": 25,
+   "title": "A packaged-goods owner running restaurants",
+   "text": "Management turnover was “nearly total” within two years of the purchase, and General Foods filled the gaps with its own people. Its president lost his job over the result.[^1] Time adds an ill-judged logo redesign.[^4]"
+  },
+  {
+   "weight": 20,
+   "title": "Rivals with more scale",
+   "text": "McDonald’s went from 1,000 restaurants in 1968 to 4,177 in 1976, while Burger Chef shrank.[^4][^20] Burger King grew from 274 stores in 1967 to 3,500 in 1982, and Wendy’s from one restaurant to 1,767 in ten years.[^21][^22]"
+  },
+  {
+   "weight": 10,
+   "title": "A decade without a settled identity",
+   "text": "One local history counts four different logos and store designs during the 1970s.[^9] Innovations such as the Funmeal and the Works Bar were real but were copied by larger chains.[^6][^17]"
+  },
+  {
+   "weight": 10,
+   "title": "An owner that wanted out",
+   "text": "By 1981 the chain was “barely a breakeven operation,” and General Foods said it was “not central to the long-term direction” of the company. The buyer wanted locations for Hardee’s, not a second brand.[^2][^3][^10]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. Burger Chef’s own accounts were never public, so the evidence is what General Foods told the press and what later histories recorded."
+}

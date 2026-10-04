@@ -1,0 +1,56 @@
+{
+ "kicker": "Menu & marketing",
+ "title": "First with the idea, second with the money",
+ "lede": "Much of what a fast-food counter now offers appeared at Burger Chef early: the combination meal, the double-decker burger, the children’s meal in a box, the condiment bar. None of it was protected well enough, or backed heavily enough, to matter.",
+ "blocks": [
+  {
+   "kind": "counters",
+   "title": "Firsts, with their dates",
+   "items": [
+    {
+     "value": "45¢",
+     "text": "The “Triple Threat” or “Triple Treat”: burger, fries and a drink sold together, which Time calls the first combo meal.[^4][^7]"
+    },
+    {
+     "value": "1964–65",
+     "text": "The Big Shef, a double-decker with cheese, lettuce and sauce, two or three years before the Big Mac.[^7][^8]"
+    },
+    {
+     "value": "1973",
+     "text": "The Funmeal, a boxed children’s meal with games and a small toy or record. The Happy Meal followed in 1979.[^17][^20]"
+    },
+    {
+     "value": "7",
+     "text": "Star Wars Funmeal trays in 1978, an early film tie-in for a children’s meal.[^17][^19]"
+    }
+   ],
+   "source": "Time[^4], Indianapolis Star[^7], Indiana Historical Bureau[^8], Mental Floss[^17], Griffin Museum of Science and Industry[^19]. “First” claims are those of the cited sources."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "drawing",
+     "art": "art/kids-meal-tray.svg",
+     "title": "The children’s meal",
+     "caption": "Original illustration of a fold-up meal tray of the kind the Funmeal introduced. Not a reproduction of any Burger Chef packaging.",
+     "body": "The box was the product. It folded into a tray, carried puzzles and stories, and gave children a reason to ask for one chain over another. Mental Floss reports that McDonald’s executives knew of the Funmeal when they commissioned the Happy Meal.[^17]"
+    },
+    {
+     "kind": "video",
+     "video": "jeff1974"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "title": "The Happy Meal dispute",
+   "body": "The Indianapolis Star records that Burger Chef sued McDonald’s after the Happy Meal appeared in 1979, and that a 1981 suit against Burger King over a “Fun School Meal” was settled out of court when Burger King acknowledged the Funmeal trademark.[^7] A 2025 essay says the McDonald’s case was dismissed because the idea of a bundled children’s meal was too broad to protect.[^18] We did not find the court record. Treat the outcome, and any damages figure quoted elsewhere, as **unverified**."
+  },
+  {
+   "kind": "text",
+   "title": "Advertising",
+   "body": "McCann Erickson won the account in 1968, with billings of $2.5 million, and resigned it in 1971, when Ogilvy & Mather took over.[^4] The animated mascots Burger Chef and Jeff fronted the children’s advertising through the 1970s.[^6][^8] The total advertising budget in later years is unknown."
+  }
+ ]
+}

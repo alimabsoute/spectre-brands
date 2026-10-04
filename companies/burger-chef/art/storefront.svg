@@ -1,0 +1,17 @@
+<svg viewBox="0 0 420 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a 1960s walk-up hamburger stand with a diamond-shaped roof arch and glass front">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 262 H400" fill="none"/>
+<rect x="70" y="150" width="280" height="112" fill="#fbf9f5"/>
+<path d="M48 150 H372 L350 126 H70 Z" fill="#2f6fb5"/>
+<path d="M210 20 L330 126 L210 232 L90 126 Z" fill="none" stroke="#e8742a" stroke-width="12"/>
+<path d="M210 20 L330 126 L210 232 L90 126 Z" fill="none"/>
+<rect x="92" y="168" width="64" height="62" fill="#cfe3f3"/><rect x="264" y="168" width="64" height="62" fill="#cfe3f3"/>
+<rect x="174" y="168" width="72" height="94" fill="#cfe3f3"/><path d="M210 168 V262" fill="none"/>
+<path d="M92 199 H156 M264 199 H328" fill="none" stroke-width="2"/>
+<rect x="150" y="96" width="120" height="30" rx="4" fill="#fbf9f5"/>
+<path d="M166 111 H254" fill="none" stroke="#b8430e" stroke-width="6"/>
+<rect x="70" y="238" width="104" height="24" fill="#e8742a"/><rect x="246" y="238" width="104" height="24" fill="#e8742a"/>
+<circle cx="372" cy="214" r="20" fill="#f6d04d"/><path d="M372 234 V262" fill="none"/>
+<path d="M362 214 h20 M364 206 h16" fill="none" stroke-width="2"/>
+<path d="M30 262 c10 -22 30 -22 40 0" fill="#5b8f3a"/>
+</g></svg>
