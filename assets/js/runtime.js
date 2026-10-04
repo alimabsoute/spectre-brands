@@ -127,6 +127,25 @@
     $('iframe', f).focus();
   }));
 
+  // ---- image viewer: archive images open enlarged, with their label; arrows step through the page's images ----
+  const zooms = $$('a.zoom');
+  if (zooms.length && window.HTMLDialogElement) {
+    const lb = Object.assign(document.createElement('dialog'), { className: 'lb', innerHTML: '<figure><div class="lb-img"></div><figcaption></figcaption></figure><button type="button" class="lb-x">Close</button><button type="button" class="lb-n" data-d="-1" aria-label="Previous image">‹</button><button type="button" class="lb-n" data-d="1" aria-label="Next image">›</button>' });
+    lb.setAttribute('aria-label', 'Image viewer');
+    document.body.appendChild(lb);
+    let at = 0;
+    const show = i => {
+      at = (i + zooms.length) % zooms.length;
+      const pic = zooms[at].firstElementChild.cloneNode(true);
+      (pic.matches('img') ? pic : $('img', pic)).loading = 'eager';
+      $('.lb-img', lb).replaceChildren(pic);
+      $('figcaption', lb).innerHTML = zooms[at].closest('figure')?.querySelector('figcaption')?.innerHTML || '';
+    };
+    zooms.forEach((a, i) => a.addEventListener('click', e => { if (e.metaKey || e.ctrlKey || e.shiftKey) return; e.preventDefault(); show(i); lb.showModal(); }));
+    lb.addEventListener('click', e => { const n = e.target.closest('.lb-n'); if (n) show(at + +n.dataset.d); else if (e.target === lb || e.target.closest('.lb-x')) lb.close(); });
+    lb.addEventListener('keydown', e => { const d = { ArrowRight: 1, ArrowLeft: -1 }[e.key]; if (d) show(at + d); });
+  }
+
   // ---- then-vs-now slider ----
   $$('.cmpr').forEach(c => { const i = $('input', c); const set = () => c.style.setProperty('--pos', i.value + '%'); i.addEventListener('input', set); set(); });
 

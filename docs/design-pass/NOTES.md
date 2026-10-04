@@ -37,3 +37,32 @@ overview plus a zoomed lane chart keeps the proportions honest and still lets ev
   same list stays available under "All N events as a list".
 - Map link: selecting an event moves the map to the latest step at or before that date; stepping the map
   selects the nearest event. Each side has a text link to the other.
+
+## 2. Real imagery
+
+References:
+
+- **ZARA editorial pages** (Mobbin): images of different sizes on a bare grid, no card, a small label under each.
+  The model for the gallery rows.
+- **GetYourGuide activity page** (Mobbin): one lead photograph at about two thirds of the width with the smaller
+  ones stacked beside it. The model for the opener.
+- **Image Preview / Zoomable Image** (21st.dev) with `@shadcn/dialog`: click a picture, see it large with a
+  labelled close button. The model for the viewer.
+
+Approach: the page opens on the strongest real image the brand has, at 8 of 12 columns, with the other archive
+images beside it and a museum-style label (caption, then credit) under each. The gallery is rows of mixed sizes
+with no card chrome; each picture's share of a row is its aspect ratio, so the pictures in a row share one height
+and every row is full. Logos and other small marks sit below at their own size instead of being stretched.
+
+- "Strongest" is a rule, not a new data field: photographs beat website captures, which beat logos; store, sign,
+  ad and product photos get a bonus; anything under 600 px wide cannot lead. The rule is in `lib/media.mjs`.
+- When none of the hero's three archive images is a photograph, the lead is taken from the gallery
+  (a storefront or closing-sale photo). The gallery then leads with a different picture, so the same photo is
+  not shown large twice.
+- The brand drawing no longer sits in the hero when a real image exists. It still appears on cards and in the
+  gallery until areas 4 and 5.
+- Upright leads (Circuit City's closing-sale photo, the Zima bottle) are shown whole in 5 columns rather than
+  cropped into a wide box, and the intro moves up beside them.
+- **Gap: the source images are small.** Most are 640 to 1,000 px wide, so nothing is run full-bleed: a row never
+  enlarges a picture by more than 30%, and Pets.com's gallery (a 640 px capture and a 320 px ad still) stays small.
+- No mobile carousel: the rows wrap to one or two pictures per line, which keeps every label readable.

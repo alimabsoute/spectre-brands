@@ -81,3 +81,45 @@ the era bands, presets, range handles (keyboard) and dragging the range all chan
 an event moved the map to the matching step (Home → step 1, End → step 9), and stepping the map moved the
 timeline selection; hovering a dot showed that event in the panel ("Jul 2000") and leaving restored the
 selected one ("Sep 27 1999"). Hover and the map link were checked by hand-written probes, not by `npm run check`.
+
+## 2. Real imagery (hero archive, brand gallery)
+
+### Research
+
+Mobbin (`search_screens`, web):
+
+| Query | Top hits |
+| --- | --- |
+| editorial photo essay article with large full-width photographs and captions with photo credits | [ZARA lookbook, three large images with numbered captions](https://mobbin.com/screens/b1d5eb25-ab1f-4898-8e91-136f24093100), [GetYourGuide article](https://mobbin.com/screens/1e654ccf-6ad7-4821-8ea6-20b86cd353b8), [H&M full-bleed campaign image](https://mobbin.com/screens/6dcf8042-82a6-4397-9358-aa80eb242a6f) |
+| museum collection object page with a large artwork image and catalogue details beside it | [Variant reference board](https://mobbin.com/screens/42d49819-409e-47cd-9614-f0266711069a), ZARA lookbook again, [GetYourGuide Arc de Triomphe: one lead photo plus four smaller, "View all"](https://mobbin.com/screens/82f217fe-febf-4036-97d8-51c3cc146e1a). No actual museum page came back. |
+| news article image gallery with mixed size photos in a grid | [ZARA editorial, mixed-size images on a bare grid](https://mobbin.com/screens/08deb7b1-447c-4f5c-88ce-aa31f3f3eebf), [GetYourGuide article cards](https://mobbin.com/screens/a815406f-1440-461f-a7cc-125f04a034b6) |
+| image lightbox overlay showing one enlarged photo with caption and previous next arrows | [Square "Add image" dialog](https://mobbin.com/screens/3ccde47f-f6c0-4a47-89df-64f0abef3cc7), [DoorDash Merchant photo dialog](https://mobbin.com/screens/936610f4-3743-485e-9a7b-4b33c855ec4b). Both are upload dialogs, not viewers. |
+
+21st.dev (`search`, components):
+
+| Query | Top hits |
+| --- | --- |
+| image gallery masonry | [ayushmxxn Masonry Lightbox](https://21st.dev/@ayushmxxn/components/masonry-lightbox), [olewandowski1 Grayscale Mosaic Gallery](https://21st.dev/@olewandowski1/components/gallery-4), [vinny Arch Gallery](https://21st.dev/@vinny_b0b96136/components/arch-gallery) |
+| lightbox | [inference-sh Zoomable Image](https://21st.dev/@inference-sh/components/zoomable-image), [arihantcodes Image Preview](https://21st.dev/@arihantcodes_1f7b8c4d/components/image-preview), Masonry Lightbox again |
+| photo caption editorial | [felipemenezes098 Editorial Image Hero](https://21st.dev/@felipemenezes098/components/hero-07), [Editorial Hero](https://21st.dev/@felipemenezes098/components/hero-05), [platejs Caption](https://21st.dev/@platejs/components/caption) |
+
+shadcn (CLI `view`):
+
+| Item | What was taken from it |
+| --- | --- |
+| `@shadcn/dialog` | Overlay, content, a close button with a text label, title/description slots. The viewer is a native `<dialog>` with the same parts. |
+| `@shadcn/aspect-ratio` | A box that holds its ratio before the image loads. Done here with `width`/`height` attributes and `aspect-ratio` in CSS. |
+| `@shadcn/carousel` | `role="region"`, previous/next buttons with text labels, arrow keys. Used for the viewer's previous/next; no carousel was added on mobile. |
+
+### Measured and verified
+
+- Lead image chosen per brand (read back from the built HTML): 16 of 17 brands now open on a real image; Kiddie City
+  has no images at all and keeps its drawing. 10 leads come from the hero's own three archive images; 5 (Blockbuster,
+  KB Toys, RadioShack, Webvan and the Circuit City gallery row) come from gallery photographs.
+- Hero lead width at 1280: 8 of 12 columns (about 700 px) for wide images, 5 of 12 for upright ones
+  (Circuit City, Zima, Kiddie City). Before, the three archive images were about 150 px wide each.
+- Gallery rows (read back from the built HTML): every row has two or three pictures of equal height, or one picture
+  with its label beside it. No brand has a row with a single orphan card.
+- Viewer, tested in a browser at 1280 and 375 on `/circuit-city/`: clicking the lead opened it with its caption,
+  the right arrow key moved to the next image, Escape closed it. `npm run check` now tests open and Escape.
+- `npm run check` passed (27 pages, 7,454 internal references).

@@ -132,6 +132,13 @@ if (!args.has('--no-browser')) {
     if (t1.n === t0.n || t1.cur !== 'true') bad('/radioshack/ timeline', `ArrowRight did not move to the next event (${t0.n} -> ${t1.n})`);
     if (t2.n.split(' of ')[0] !== t2.n.split(' of ')[1] || !t3.n.startsWith('1 of ')) bad('/radioshack/ timeline', `End/Home did not jump to the last/first event (${t2.n}, ${t3.n})`);
     if (new Set([t0.h, t1.h, t2.h, t3.h]).size > 1) bad('/radioshack/ timeline', 'the section changed height while stepping through events');
+    // image viewer: an archive image opens enlarged with its label, and Escape closes it
+    await page.evaluate(() => scrollTo({ top: 0, behavior: 'instant' }));
+    await page.locator('.hero-lead a.zoom').click();
+    const lb = await page.evaluate(() => { const d = document.querySelector('dialog.lb'); return { open: !!d?.open, img: !!d?.querySelector('img'), cap: d?.querySelector('figcaption').textContent.length }; });
+    if (!lb.open || !lb.img || !lb.cap) bad('/radioshack/ viewer', 'clicking the lead image did not open it with its caption');
+    await page.keyboard.press('Escape');
+    if (await page.evaluate(() => document.querySelector('dialog.lb')?.open)) bad('/radioshack/ viewer', 'Escape did not close the image viewer');
     const nojs = await browser.newContext({ javaScriptEnabled: false, viewport: { width: 1280, height: 800 } });
     const p2 = await nojs.newPage(); await p2.goto('http://localhost:4173/pets-com/');
     const inv = await p2.evaluate(() => [...document.querySelectorAll('.rv, .info, .chap')].filter(e => getComputedStyle(e).opacity !== '1').length);
@@ -139,7 +146,7 @@ if (!args.has('--no-browser')) {
     const list = await p2.evaluate(() => document.querySelectorAll('details.tl-list:not([open]) #tlv .ev').length);
     if (!list) bad('/pets-com/ no JavaScript', 'the timeline has no folded list fallback');
     await nojs.close(); await ctx.close();
-    console.log('   keyboard, search, reduced motion, video facade, timeline and no-JS tests');
+    console.log('   keyboard, search, reduced motion, video facade, timeline, image viewer and no-JS tests');
   }
   await browser.close(); server.close();
 }
