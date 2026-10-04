@@ -1,0 +1,440 @@
+{
+ "kicker": "The numbers",
+ "title": "Twenty-three years of subscribers, and where the money went",
+ "lede": "AOL reported a subscriber count in every annual filing from its first to its last. Read in a row, they draw one hill. The revenue line follows it with a lag, and the write-downs arrive in a single year.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "AOL subscribers, 1992–2014",
+   "subtitle": "Millions of subscribers to the AOL service. See the note for the changes of basis.",
+   "labels": [
+    "1992",
+    "1993",
+    "1994",
+    "1995",
+    "1996",
+    "1997",
+    "1998",
+    "1999",
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014"
+   ],
+   "format": {
+    "suf": "M",
+    "dec": 1
+   },
+   "xLabel": "Fiscal years to June 30 through 2000; December 31 from 2001",
+   "series": [
+    {
+     "label": "AOL subscribers (millions)",
+     "data": [
+      0.182,
+      0.303,
+      0.903,
+      3.005,
+      6.198,
+      8.6,
+      11.237,
+      15.3,
+      19.4,
+      25.2,
+      26.5,
+      24.3,
+      22.2,
+      19.5,
+      13.2,
+      9.3,
+      6.9,
+      5.0,
+      3.9,
+      3.3,
+      2.8,
+      2.5,
+      2.2
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 3,
+     "title": "The disks work",
+     "text": "3.0 million subscribers in June 1995, from 903,000 a year earlier.[^1]"
+    },
+    {
+     "i": 5,
+     "title": "Flat rate",
+     "text": "$19.95 unlimited from December 1996. 8.6 million members by June 1997 despite the busy signals.[^2]"
+    },
+    {
+     "i": 8,
+     "title": "The merger is announced",
+     "text": "19.4 million U.S. subscribers in June 2000, five months after the Time Warner deal.[^5]"
+    },
+    {
+     "i": 10,
+     "title": "The peak",
+     "text": "26.7 million on September 30, 2002 and 26.5 million at year-end.[^6]"
+    },
+    {
+     "i": 14,
+     "title": "Free for broadband",
+     "text": "After the August 2006 change of strategy the count falls by 6.3 million in a year, to 13.2 million.[^10]"
+    },
+    {
+     "i": 17,
+     "title": "Spun off",
+     "text": "5.0 million when AOL leaves Time Warner in December 2009.[^12]"
+    },
+    {
+     "i": 22,
+     "title": "Last report",
+     "text": "2.2 million at the end of 2014, before the sale to Verizon.[^14]"
+    }
+   ],
+   "source": "America Online 10-Ks for fiscal 1996, 1997, 1998 and 2000[^1][^2][^3][^5]; AOL Time Warner and Time Warner 10-Ks for 2002 to 2008[^6][^7][^8][^9][^10][^11]; AOL Inc. 10-Ks for 2009, 2011 and 2014[^12][^13][^14].",
+   "note": "The basis changes three times. 1992–1997 are worldwide subscribers at June 30 (the service was almost entirely American until 1996). 1998 is North America at June 30. 1999 and 2000 are U.S. subscribers at June 30. 2001 onward are U.S. subscribers at December 31. The 26.7 million peak fell between year-ends and is not a point on the line."
+  },
+  {
+   "kind": "counters",
+   "title": "The peak and the floor",
+   "items": [
+    {
+     "value": "26.7M",
+     "text": "U.S. subscribers on September 30, 2002[^6]"
+    },
+    {
+     "value": "6.3M",
+     "text": "subscribers lost in 2006 alone, the year AOL went free for broadband users (**derived**: 19.5M less 13.2M)[^9][^10]"
+    },
+    {
+     "value": "$18.38",
+     "text": "average monthly revenue per U.S. subscriber in 2008[^11]"
+    },
+    {
+     "value": "14 years",
+     "text": "average paid tenure of the 2.2 million who were still subscribing at the end of 2014[^14]"
+    }
+   ],
+   "source": "Company filings as cited."
+  },
+  {
+   "kind": "chart",
+   "id": "revChart",
+   "title": "AOL revenue, 1994–2014",
+   "subtitle": "$ millions. Three reporting bases, shown in three colours.",
+   "chart": {
+    "type": "bar",
+    "legend": true,
+    "stacked": true,
+    "height": 360,
+    "labels": [
+     "1994",
+     "1995",
+     "1996",
+     "1997",
+     "1998",
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "America Online, Inc. (fiscal years to June 30)",
+      "data": [
+       115.7,
+       394.3,
+       1093.9,
+       1685.2,
+       3114,
+       4804,
+       6886,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "color": "blue",
+      "stack": "a"
+     },
+     {
+      "label": "AOL segment of AOL Time Warner / Time Warner",
+      "data": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       8615,
+       9094,
+       8598,
+       8692,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "color": "ink",
+      "stack": "a"
+     },
+     {
+      "label": "AOL as restated in AOL Inc. filings",
+      "data": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       8202.1,
+       7786.7,
+       5180.7,
+       4165.8,
+       3257.4,
+       2416.7,
+       2202.1,
+       2191.7,
+       2319.9,
+       2527.2
+      ],
+      "color": "red",
+      "stack": "a"
+     }
+    ]
+   },
+   "source": "Fiscal 1994–1997 as first reported[^1][^2]. Fiscal 1998–2000 as restated in the fiscal 2000 10-K for later poolings, including Netscape[^5]. 2001–2002 AOL segment[^6]; 2003–2004 AOL segment[^9]. 2005–2009 from AOL Inc.’s first 10-K[^12]; 2010–2014 from its last[^14]. The three bases are not strictly comparable: Time Warner’s own 2005 figure for the AOL segment was $8,283M against $8,202.1M in AOL Inc.’s later accounts."
+  },
+  {
+   "kind": "chart",
+   "id": "mixChart",
+   "title": "What the revenue was made of, 2005–2014",
+   "subtitle": "$ millions. Subscriptions were 82% of revenue in 2005 and 24% in 2014 (derived).",
+   "chart": {
+    "type": "bar",
+    "stacked": true,
+    "height": 340,
+    "labels": [
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "Subscription",
+      "data": [
+       6754.9,
+       5783.6,
+       2787.9,
+       1929.3,
+       1388.8,
+       1023.6,
+       803.2,
+       705.3,
+       650.1,
+       606.5
+      ],
+      "color": "blue",
+      "stack": "a"
+     },
+     {
+      "label": "Advertising and other",
+      "data": [
+       1447.2,
+       2003.1,
+       2392.8,
+       2236.5,
+       1868.6,
+       1393.1,
+       1398.9,
+       1486.4,
+       1669.8,
+       1920.7
+      ],
+      "color": "gold",
+      "stack": "a"
+     }
+    ]
+   },
+   "source": "AOL Inc. 10-Ks for 2009 and 2014[^12][^14]. For 2005–2009 “Advertising and other” is the **derived** sum of the advertising and other lines (for 2005: $1,337.8M + $109.4M). Shares are derived: $6,754.9M ÷ $8,202.1M = 82%; $606.5M ÷ $2,527.2M = 24%."
+  },
+  {
+   "kind": "flow",
+   "title": "The 2002 write-downs",
+   "subtitle": "$99.8 billion of goodwill and other intangible assets written off by AOL Time Warner in one year, $ billions.",
+   "format": {
+    "pre": "$",
+    "suf": "B",
+    "dec": 1
+   },
+   "from": {
+    "label": "Goodwill and intangibles written off, 2002",
+    "value": 99.773
+   },
+   "to": [
+    {
+     "label": "January 1 charge on adopting FAS 142, all segments",
+     "value": 54.235,
+     "color": "grey",
+     "note": "Recorded as the cumulative effect of an accounting change"
+    },
+    {
+     "label": "Q4 impairment: AOL goodwill",
+     "value": 33.489,
+     "color": "red",
+     "note": "“lower than expected performance” of the AOL segment"
+    },
+    {
+     "label": "Q4 impairment: Cable goodwill",
+     "value": 10.55,
+     "color": "blue"
+    },
+    {
+     "label": "Q4 impairment: Music goodwill and brands",
+     "value": 1.499,
+     "color": "plum"
+    }
+   ],
+   "source": "AOL Time Warner 10-K for 2002[^6]. $54,235M + $45,538M = $99,773M; the fourth-quarter $45,538M is $33,489M + $10,550M + $1,499M."
+  },
+  {
+   "kind": "scale",
+   "title": "One year’s loss against the later sale price",
+   "left": {
+    "value": "$98.7B",
+    "label": "AOL Time Warner’s net loss for 2002"
+   },
+   "unit": {
+    "value": "$4.4B",
+    "label": "what Verizon agreed to pay for all of AOL in 2015"
+   },
+   "count": 22,
+   "icon": "coin",
+   "equation": "$98.696 billion ÷ $4.4 billion = 22.4, shown as 22 coins.[^6][^15] The 2002 loss belonged to the whole of AOL Time Warner, not to AOL alone; $33.5 billion of the fourth-quarter write-down was AOL goodwill.",
+   "source": "AOL Time Warner 10-K for 2002[^6]; Verizon press release, May 12, 2015[^15]."
+  },
+  {
+   "kind": "bars",
+   "title": "What AOL bought on the way down, and what was paid for AOL",
+   "subtitle": "$ millions, as reported. The Apollo price covered AOL and Yahoo together.",
+   "format": "usdM",
+   "itemLabel": "Deal",
+   "valueLabel": "Price",
+   "items": [
+    {
+     "label": "Apollo buys Verizon Media (AOL and Yahoo), 2021",
+     "value": 5000,
+     "color": "grey",
+     "note": "$4.25B cash, $750M preferred; Verizon kept 10%[^16]",
+     "display": "$5.0B"
+    },
+    {
+     "label": "Verizon buys AOL, 2015",
+     "value": 4400,
+     "color": "brand",
+     "self": true,
+     "note": "$50 a share[^15]",
+     "display": "$4.4B"
+    },
+    {
+     "label": "Bending Spoons buys AOL, 2026",
+     "value": 1456,
+     "color": "brand",
+     "self": true,
+     "note": "Cash[^19]",
+     "display": "$1.456B"
+    },
+    {
+     "label": "Google buys 5% of AOL, 2006",
+     "value": 1000,
+     "color": "green",
+     "note": "Bought back for $283M in 2009[^12]",
+     "display": "$1.0B"
+    },
+    {
+     "label": "AOL buys Bebo, 2008",
+     "value": 852,
+     "color": "red",
+     "note": "Cash paid in 2008[^12]",
+     "display": "$852M"
+    },
+    {
+     "label": "AOL buys The Huffington Post, 2011",
+     "value": 295.5,
+     "color": "red",
+     "note": "Net of cash acquired[^13]",
+     "display": "$295.5M"
+    },
+    {
+     "label": "AOL buys ICQ’s maker, 1998",
+     "value": 287,
+     "color": "red",
+     "note": "Cash, plus up to $120M contingent[^3]",
+     "display": "$287M"
+    }
+   ],
+   "source": "Company filings and press releases as cited."
+  }
+ ]
+}

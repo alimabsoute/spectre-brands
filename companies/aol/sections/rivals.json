@@ -1,0 +1,136 @@
+{
+ "kicker": "The rivals",
+ "title": "The services it beat, and the wire that beat it",
+ "lede": "AOL won the contest among online services and dial-up providers so thoroughly that it bought one of them. The competitor that mattered sold a different product.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Who sold Americans their connection",
+   "subtitle": "Subscribers, and what became of each company.",
+   "metric": "Subscribers",
+   "items": [
+    {
+     "name": "AOL",
+     "status": "ghost",
+     "self": true,
+     "value": "26.7M → 2.2M",
+     "text": "Peak in September 2002; 2.2 million by 2014. Dial-up ended in 2025.[^6][^14][^18]",
+     "data": [
+      3.0,
+      8.6,
+      19.4,
+      26.5,
+      19.5,
+      6.9,
+      2.2
+     ],
+     "range": [
+      "1995: 3.0M",
+      "2014: 2.2M"
+     ]
+    },
+    {
+     "name": "CompuServe",
+     "status": "acquired",
+     "value": "2.1M",
+     "text": "The older rival. AOL took over its online service in January 1998, when it had about 2.1 million subscribers.[^3]"
+    },
+    {
+     "name": "EarthLink",
+     "status": "merged",
+     "value": "5.3M",
+     "text": "5.3 million paying subscribers in 2005 and 2006, of whom 3.3 million were on dial-up. About 0.7 million consumer subscribers by 2016, when it agreed an all-stock merger with Windstream valued at about $1.1 billion.[^33][^34]",
+     "data": [
+      5.3,
+      5.3,
+      0.9,
+      0.8,
+      0.7
+     ],
+     "range": [
+      "2005: 5.3M",
+      "2016: 0.7M"
+     ]
+    },
+    {
+     "name": "Comcast (cable broadband)",
+     "status": "alive",
+     "value": "31.3M",
+     "text": "14.9 million high-speed internet customers at the end of 2008; 31.3 million domestic broadband customers at the end of 2025.[^35][^36]",
+     "data": [
+      14.9,
+      31.3
+     ],
+     "range": [
+      "2008: 14.9M",
+      "2025: 31.3M"
+     ]
+    }
+   ],
+   "source": "Company 10-K filings as cited. EarthLink’s sparkline mixes total paying subscribers (2005–2006) with average consumer access subscribers (2014–2016), so it shows direction, not a like-for-like series."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Ghost",
+    "name": "AOL, end of 2008",
+    "alive": false,
+    "rows": [
+     [
+      "Product",
+      "Dial-up access and a portal"
+     ],
+     [
+      "U.S. subscribers",
+      "6.9M[^11]"
+     ],
+     [
+      "Change in the year",
+      "−2.4M (derived)[^11]"
+     ],
+     [
+      "Price",
+      "$25.90 or $11.99 a month[^11]"
+     ],
+     [
+      "Owns the wire",
+      "No"
+     ]
+    ]
+   },
+   "right": {
+    "tag": "Alive",
+    "name": "Comcast, end of 2008",
+    "alive": true,
+    "rows": [
+     [
+      "Product",
+      "Cable broadband"
+     ],
+     [
+      "High-speed internet customers",
+      "14.9M[^35]"
+     ],
+     [
+      "Change in the year",
+      "+1.3M, excluding acquisitions[^35]"
+     ],
+     [
+      "Homes passed",
+      "50.6M[^35]"
+     ],
+     [
+      "Owns the wire",
+      "Yes"
+     ]
+    ]
+   },
+   "source": "Time Warner and Comcast 10-Ks for 2008[^11][^35]. AOL’s change is derived: 9.3M less 6.9M."
+  },
+  {
+   "kind": "text",
+   "title": "The irony inside the merger",
+   "body": "From January 2001 AOL shared a parent with one of the largest cable systems in the United States. The combination was supposed to put AOL on that wire. The 2002 annual report shows what happened instead: the Cable segment’s revenue grew from $6.0 billion to $7.0 billion while AOL warned that its own members were “adopting broadband service.”[^6] In early 2006 AOL was still signing agreements with outside high-speed providers to carry its service.[^9] Microsoft’s MSN and Prodigy were also competitors in dial-up; we have not included them above because we did not verify subscriber figures for them."
+  }
+ ]
+}

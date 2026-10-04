@@ -1,0 +1,15 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a household telephone off the hook with a coiled cord and the word busy repeated beside it">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 222 L310 222" fill="none" stroke="#9aa7b8" stroke-width="2"/>
+<path d="M52 170 L60 128 Q62 118 74 118 L186 118 Q198 118 200 128 L208 170 Z" fill="#e9e4d8"/>
+<rect x="44" y="170" width="172" height="40" rx="6" fill="#d8d2c4"/>
+<g fill="#fffef8" stroke-width="2">
+<rect x="98" y="130" width="14" height="10"/><rect x="123" y="130" width="14" height="10"/><rect x="148" y="130" width="14" height="10"/>
+<rect x="98" y="148" width="14" height="10"/><rect x="123" y="148" width="14" height="10"/><rect x="148" y="148" width="14" height="10"/>
+</g>
+<path d="M150 44 Q150 30 166 30 L262 54 Q276 58 272 72 L266 90 Q262 100 250 96 L236 92 Q228 88 230 78 L232 72 L186 60 L184 66 Q180 76 170 74 L156 70 Q146 66 148 54 Z" fill="#0b4ea2" transform="rotate(14 210 62)"/>
+<path d="M176 84 q-14 6 0 12 q14 6 0 12 q-14 6 0 12 q14 6 -6 10 L150 136" fill="none" stroke-width="2.5"/>
+<text x="232" y="150" font-family="Caveat, cursive" font-size="24" fill="#c2412d" stroke="none">busy…</text>
+<text x="244" y="176" font-family="Caveat, cursive" font-size="20" fill="#c2412d" stroke="none">busy…</text>
+<text x="256" y="198" font-family="Caveat, cursive" font-size="16" fill="#c2412d" stroke="none">busy…</text>
+</g></svg>

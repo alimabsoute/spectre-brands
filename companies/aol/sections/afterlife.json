@@ -1,0 +1,87 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Still operating",
+   "color": "var(--gold)",
+   "title": "The portal and the mailbox",
+   "text": "aol.com still publishes news and still delivers mail. Announcing its purchase in October 2025, Bending Spoons’ chief executive said AOL had “around 8 million daily and 30 million monthly active users.”[^21] In 2026 the new owner said it had moved the portal to a new content system and rebuilt the webmail front end.[^20]"
+  },
+  {
+   "status": "Switched off",
+   "color": "var(--red)",
+   "title": "Dial-up",
+   "text": "Discontinued on September 30, 2025, with the AOL Dialer software and the AOL Shield browser.[^18] The Associated Press, citing Census Bureau data, reported that an estimated 163,401 U.S. households used only dial-up in 2023. How many of them were AOL’s is unknown.[^30]"
+  },
+  {
+   "status": "Shut down",
+   "color": "var(--red)",
+   "title": "AOL Instant Messenger",
+   "text": "More than 61 million registered users in June 2000.[^5] Closed on December 15, 2017.[^27]"
+  },
+  {
+   "status": "Sold on",
+   "color": "var(--blue)",
+   "title": "The media brands",
+   "text": "Verizon’s 2015 announcement listed The Huffington Post, TechCrunch and Engadget among AOL’s assets.[^15] They passed to Oath and then to Apollo’s Yahoo with the rest of Verizon’s media business.[^28][^16] Patch, the local news network, had already been moved into a joint venture majority-owned by Hale Global in January 2014.[^14]"
+  },
+  {
+   "status": "Absorbed",
+   "color": "var(--mute)",
+   "title": "The parent",
+   "text": "AOL Time Warner became Time Warner on October 16, 2003.[^7] It distributed AOL to shareholders in 2009.[^12] The SEC now lists the old registrant under the name Warner Media, LLC.[^6]"
+  },
+  {
+   "status": "Remembered",
+   "color": "var(--green)",
+   "title": "The voice",
+   "text": "Elwood Edwards, who recorded “You’ve Got Mail” in 1989, died in November 2024 at 74.[^26]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the AOL name",
+   "subtitle": "Five owners in forty-one years. Each paid for something different.",
+   "nodes": [
+    {
+     "when": "1985",
+     "owner": "Quantum Computer Services",
+     "what": "Incorporated May 24, 1985. Renamed America Online, Inc. in 1991 and listed in 1992.[^1][^32]"
+    },
+    {
+     "when": "Jan 2001",
+     "owner": "AOL Time Warner",
+     "what": "AOL’s shareholders take about 55% of the merged company. “AOL” leaves the name in October 2003.[^5][^6][^7]",
+     "price": "about $147 billion recorded as the cost of acquiring Time Warner"
+    },
+    {
+     "when": "Dec 2009",
+     "owner": "AOL Inc.",
+     "what": "Spun off to Time Warner’s shareholders as an independent, listed company with 5.0 million subscribers.[^12]"
+    },
+    {
+     "when": "2015",
+     "owner": "Verizon",
+     "what": "Agreed May 12, 2015. Combined with Yahoo as Oath in June 2017.[^15][^28]",
+     "price": "about $4.4 billion"
+    },
+    {
+     "when": "Sep 2021",
+     "owner": "Apollo (Yahoo)",
+     "what": "Buys Verizon’s media business, AOL and Yahoo together. Verizon keeps 10%.[^16][^17]",
+     "price": "$5 billion for both"
+    },
+    {
+     "when": "Jan 2026",
+     "owner": "Bending Spoons",
+     "what": "Acquires AOL Holdco I LLC from Yahoo three months after dial-up ends.[^19][^21]",
+     "price": "$1,456 million in cash",
+     "status": "current"
+    }
+   ],
+   "source": "Company filings and announcements as cited. The 2001 figure is the accounting cost of Time Warner to AOL, not a price paid for AOL."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "How AOL sold the internet, and how the news covered the end",
+ "lede": "Three television spots from the dial-up years, the day the Time Warner deal was announced, the man who recorded “You’ve Got Mail,” and two looks back.",
+ "videos": [
+  {
+   "id": "friend95",
+   "title": "“A Friend Said Try AOL”",
+   "year": 1995,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "u6pS5qrrhOM",
+   "caption": "A one-minute spot from the years of metered pricing, when a member paid $9.95 a month for five hours.[^1] The 1995 date comes from the uploader, who says it was recorded off Comedy Central."
+  },
+  {
+   "id": "case97",
+   "title": "Steve Case: “working day and night to fix the problem”",
+   "year": 1997,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "vdp9MJczP5w",
+   "caption": "AOL’s chief executive addresses the busy signals that followed flat-rate pricing. The uploader says it was recorded on February 14, 1997, two weeks after AOL’s agreement with 36 state attorneys general.[^23]"
+  },
+  {
+   "id": "easy99",
+   "title": "“So easy to use, no wonder it’s number one”",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "oQ4SmwNCwwE",
+   "caption": "The slogan of the peak years. The 1999 date comes from the uploader. AOL had 17.6 million subscribers worldwide that June.[^4]"
+  },
+  {
+   "id": "cnn2000",
+   "title": "CNN on the AOL and Time Warner merger",
+   "year": 2000,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "wMlf1Y74L48",
+   "caption": "A CNN segment from January 2000, uploaded in 2009 by the journalist Scott Rosenberg, who appears in it. The deal was announced on January 10, 2000.[^22]"
+  },
+  {
+   "id": "edwards",
+   "title": "“You’ve Got Mail” with Elwood Edwards",
+   "year": 2012,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "yKgiqsdyiAA",
+   "caption": "AOL’s own short film about the man who recorded its four greetings on a cassette deck in 1989. Published by AOL in September 2012. Edwards died in November 2024.[^26]"
+  },
+  {
+   "id": "cnbc",
+   "title": "CNBC: “The Rise and Fall of AOL”",
+   "year": 2019,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "jCQCWA-e6gI",
+   "caption": "A thirteen-minute retrospective published by CNBC in August 2019. Its figures are CNBC’s; ours are in the sections above."
+  },
+  {
+   "id": "bbc2025",
+   "title": "BBC News: AOL ends dial-up service",
+   "year": 2025,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "CPSBJdAG8_s",
+   "caption": "Published on September 30, 2025, the day the service was discontinued.[^18]"
+  }
+ ]
+}

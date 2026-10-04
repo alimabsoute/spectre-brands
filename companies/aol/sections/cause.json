@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 40,
+   "title": "Broadband replaced the phone line",
+   "text": "Home broadband went from 1% of U.S. adults in March 2000 to 54% in December 2007. AOL’s U.S. subscribers went from 26.5 million to 9.3 million over the last five of those years. The company named the cause itself: “subscribers adopting broadband service.”[^29][^6][^11]"
+  },
+  {
+   "weight": 20,
+   "title": "It did not own a wire",
+   "text": "AOL rented its network and sold access on top of it. Cable and telephone companies owned the faster connection and sold it directly: Comcast had 14.9 million high-speed customers at the end of 2008, when AOL had 6.9 million dial-up subscribers. As late as 2006 AOL was still negotiating with outside broadband providers to carry its service.[^35][^11][^9]"
+  },
+  {
+   "weight": 20,
+   "title": "The merger spent the currency and the attention",
+   "text": "AOL used its stock to acquire Time Warner at a recorded cost of about $147 billion. Within two years the combined company wrote off $99.8 billion, faced SEC and Justice Department investigations of AOL’s advertising accounting, later paid a $300 million SEC penalty and reserved $3 billion for shareholder suits.[^6][^9]"
+  },
+  {
+   "weight": 12,
+   "title": "Revenue was a subscription to something free",
+   "text": "Subscriptions were 82% of AOL’s revenue in 2005 (derived). When AOL made its software and e-mail free in August 2006, subscription revenue fell from $5.78 billion to $2.79 billion in a year, and advertising grew by far less.[^12][^10]"
+  },
+  {
+   "weight": 8,
+   "title": "Acquisitions that did not replace it",
+   "text": "AOL paid $852 million in cash for Bebo in 2008 and sold it in 2010. Time Warner impaired AOL’s goodwill by $2.2 billion in 2008, and AOL impaired it by a further $1.4 billion in 2010.[^12][^11][^13]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings document the symptoms. How much each one contributed is a matter of opinion."
+}

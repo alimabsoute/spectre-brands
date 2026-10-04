@@ -1,0 +1,348 @@
+{
+ "kicker": "Timeline",
+ "title": "Forty-one years, 30 moments",
+ "lede": "From a Commodore bulletin board to an Italian software holding company. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "product": {
+   "label": "Product & pricing",
+   "color": "#93743a"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "deals": {
+   "label": "Deals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Decline & owners",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "May 24",
+   "year": "1985",
+   "cat": "corporate",
+   "title": "Incorporated as Quantum Computer Services",
+   "text": "A Delaware company whose first service, Q-Link, is for owners of Commodore computers.",
+   "src": [
+    1,
+    32
+   ]
+  },
+  {
+   "date": "1989",
+   "year": "",
+   "cat": "product",
+   "title": "“America Online” and “You’ve Got Mail”",
+   "text": "Quantum introduces a nationwide service under the America Online name in October. Elwood Edwards records the greetings on a cassette deck at home.",
+   "src": [
+    32,
+    26
+   ]
+  },
+  {
+   "date": "1991",
+   "year": "",
+   "cat": "corporate",
+   "title": "The company takes the name of its service",
+   "text": "Quantum Computer Services becomes America Online, Inc.",
+   "src": [
+    32
+   ]
+  },
+  {
+   "date": "1992",
+   "year": "",
+   "cat": "money",
+   "title": "Initial public offering",
+   "text": "AOL sells stock to the public for the first time. It ends the fiscal year with 182,000 subscribers.",
+   "src": [
+    32,
+    1
+   ]
+  },
+  {
+   "date": "1993",
+   "year": "",
+   "cat": "product",
+   "title": "The first mass mailing of trial disks",
+   "text": "About 200,000 floppy disks go out. The response rate, by the account of the executive who ran it, is 10%.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Jun 30",
+   "year": "1995",
+   "cat": "money",
+   "title": "3.0 million subscribers",
+   "text": "More than three times the 903,000 of a year earlier.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun 30",
+   "year": "1996",
+   "cat": "money",
+   "title": "6.2 million subscribers and $1.09 billion in revenue",
+   "text": "Marketing costs for the year are $212.7 million.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Sep 30",
+   "year": "1996",
+   "cat": "money",
+   "title": "$385.2 million of marketing costs written off",
+   "text": "AOL stops capitalising subscriber acquisition costs and expenses the whole balance.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Dec 1",
+   "year": "1996",
+   "cat": "product",
+   "title": "Flat-rate pricing: $19.95 a month, unlimited",
+   "text": "Usage jumps and members begin to get busy signals.",
+   "src": [
+    2,
+    37
+   ]
+  },
+  {
+   "date": "Jan 29",
+   "year": "1997",
+   "cat": "death",
+   "title": "Agreement with 36 state attorneys general",
+   "text": "AOL agrees to refunds, easier cancellation and a pause in advertising for February.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Jan 1998",
+   "year": "",
+   "cat": "deals",
+   "title": "CompuServe",
+   "text": "AOL acquires CompuServe’s online service, which has about 2.1 million subscribers that June.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Apr 1998",
+   "year": "",
+   "cat": "product",
+   "title": "Price rises to $21.95",
+   "text": "The increase takes effect at each member’s April billing date.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Jun 1998",
+   "year": "",
+   "cat": "deals",
+   "title": "ICQ",
+   "text": "AOL pays $287 million in cash, with up to $120 million more contingent, for Mirabilis, maker of ICQ.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Mar 1999",
+   "year": "",
+   "cat": "deals",
+   "title": "Netscape",
+   "text": "AOL completes its merger with Netscape, issuing about 95 million shares.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Jan 10",
+   "year": "2000",
+   "cat": "deals",
+   "title": "AOL agrees to merge with Time Warner",
+   "text": "An all-stock deal worth more than $160 billion at that day’s prices. AOL shareholders are to own about 55%.",
+   "src": [
+    22,
+    5
+   ]
+  },
+  {
+   "date": "Jan 11",
+   "year": "2001",
+   "cat": "corporate",
+   "title": "AOL Time Warner begins",
+   "text": "The merger closes. The cost of acquiring Time Warner is recorded at about $147 billion.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Sep 30",
+   "year": "2002",
+   "cat": "money",
+   "title": "The peak: 26.7 million U.S. subscribers",
+   "text": "The year-end count is 26.5 million.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "FY 2002",
+   "year": "",
+   "cat": "death",
+   "title": "A $98.7 billion net loss",
+   "text": "Goodwill and intangible write-downs total $99.8 billion. The SEC and the Department of Justice are investigating AOL’s accounting.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Oct 16",
+   "year": "2003",
+   "cat": "corporate",
+   "title": "“AOL” is dropped from the parent’s name",
+   "text": "AOL Time Warner Inc. becomes Time Warner Inc.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Dec 20",
+   "year": "2005",
+   "cat": "deals",
+   "title": "Google agrees to buy 5% of AOL for $1 billion",
+   "text": "The stake is issued in April 2006. Time Warner buys it back in July 2009 for $283 million.",
+   "src": [
+    9,
+    12
+   ]
+  },
+  {
+   "date": "Aug 2",
+   "year": "2006",
+   "cat": "product",
+   "title": "AOL goes free for broadband users",
+   "text": "Software and e-mail are given away to anyone with a connection. U.S. subscribers end the year at 13.2 million, from 19.5 million.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "2008",
+   "year": "",
+   "cat": "deals",
+   "title": "Bebo",
+   "text": "AOL pays $852 million in cash for the social network. Time Warner records a $2.2 billion impairment of AOL goodwill for the year.",
+   "src": [
+    12,
+    11
+   ]
+  },
+  {
+   "date": "Dec 9",
+   "year": "2009",
+   "cat": "corporate",
+   "title": "Spun off from Time Warner",
+   "text": "Shareholders receive one AOL share for every eleven Time Warner shares. AOL has 5.0 million subscribers and about 6,700 employees.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Mar 4",
+   "year": "2011",
+   "cat": "deals",
+   "title": "The Huffington Post",
+   "text": "Acquired for $295.5 million, net of cash acquired.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "2014",
+   "cat": "money",
+   "title": "2.2 million subscribers",
+   "text": "Subscription revenue is $606.5 million of a $2.53 billion total.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "May 12",
+   "year": "2015",
+   "cat": "death",
+   "title": "Verizon agrees to buy AOL",
+   "text": "$50 a share, about $4.4 billion.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "Jun 13",
+   "year": "2017",
+   "cat": "corporate",
+   "title": "Oath",
+   "text": "Verizon closes its purchase of Yahoo and combines it with AOL.",
+   "src": [
+    28
+   ]
+  },
+  {
+   "date": "Dec 15",
+   "year": "2017",
+   "cat": "death",
+   "title": "AOL Instant Messenger shuts down",
+   "text": "Announced on October 6, 2017.",
+   "src": [
+    27
+   ]
+  },
+  {
+   "date": "Sep 1",
+   "year": "2021",
+   "cat": "death",
+   "title": "Apollo completes its purchase",
+   "text": "$5 billion for Verizon’s media business, which takes the name Yahoo. Verizon keeps 10%.",
+   "src": [
+    16,
+    17
+   ]
+  },
+  {
+   "date": "Sep 30",
+   "year": "2025",
+   "cat": "death",
+   "title": "Dial-up is discontinued",
+   "text": "The AOL Dialer software and the AOL Shield browser go with it.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "Jan 2",
+   "year": "2026",
+   "cat": "death",
+   "title": "Bending Spoons completes its purchase",
+   "text": "$1,456 million in cash for AOL Holdco I LLC. The deal was announced on October 29, 2025.",
+   "src": [
+    19,
+    21
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "AOL’s marketing clearly got out ahead of its technological capacity.",
+   "who": "**Christine Gregoire**, Washington attorney general, Jan 29, 1997[^23]",
+   "big": true
+  },
+  {
+   "q": "With 55 percent of the new company’s stock being controlled by AOL shareholders, I think AOL is in the driver’s seat.",
+   "who": "**An analyst at Raymond James**, quoted by CNET News.com on the day of the merger, Jan 10, 2000[^22]"
+  },
+  {
+   "q": "America Online recently has experienced declines in the number of U.S. subscribers, to approximately 26.5 million at December 31, 2002, and anticipates that it will experience further declines.",
+   "who": "**AOL Time Warner**, annual report for 2002[^6]",
+   "big": true
+  },
+  {
+   "q": "When we went public in 1992 we had less than 200,000 subscribers; a decade later the number was in the 25 million range.",
+   "who": "**Steve Case**, on Quora, as quoted by TechCrunch, Dec 2010[^24]"
+  },
+  {
+   "q": "Verizon’s vision is to provide customers with a premium digital experience based on a global multiscreen network platform.",
+   "who": "**Lowell McAdam**, Verizon chairman and CEO, on buying AOL, May 12, 2015[^15]"
+  },
+  {
+   "q": "AIM tapped into new digital technologies and ignited a cultural shift, but the way in which we communicate with each other has profoundly changed.",
+   "who": "**Michael Albers**, Oath, announcing the end of AIM, as quoted by The Verge, Oct 6, 2017[^27]"
+  },
+  {
+   "q": "what is usually described as the worst merger of all time",
+   "who": "**Fortune**, on the fifteenth anniversary of the deal, Jan 10, 2015[^31]"
+  },
+  {
+   "q": "AOL routinely evaluates its products and services and has decided to discontinue Dial-up Internet.",
+   "who": "**AOL Help**, 2025[^18]",
+   "big": true
+  }
+ ]
+}

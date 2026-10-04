@@ -1,0 +1,124 @@
+{
+ "name": "AOL",
+ "number": "009",
+ "tier": "ghost",
+ "tierWhy": "AOL still operates as a free web portal and e-mail service, owned since January 2, 2026 by Bending Spoons, but the business that made it, a paid dial-up online service with about 26.7 million U.S. subscribers in September 2002, was down to 2.2 million by 2014 and was switched off on September 30, 2025.[^6][^14][^18][^19]",
+ "category": "dotcom",
+ "cause": "disruption",
+ "years": "1985 – present",
+ "died": 2025,
+ "dates": [
+  {
+   "date": "1996-12-01",
+   "text": "introduced flat-rate pricing of $19.95 a month, and the busy signals began"
+  },
+  {
+   "date": "2000-01-10",
+   "text": "agreed to merge with Time Warner in an all-stock deal"
+  },
+  {
+   "date": "2009-12-09",
+   "text": "was spun off from Time Warner as an independent company"
+  },
+  {
+   "date": "2025-09-30",
+   "text": "discontinued its dial-up internet service"
+  }
+ ],
+ "place": "Dial-up online service · Dulles, Virginia",
+ "title": "AOL (1985–present): post-mortem · Spectre Brands",
+ "description": "Free-trial discs, “You’ve Got Mail,” 26.7 million subscribers and the largest write-down in corporate history: a sourced post-mortem of America Online, now a ghost of its dial-up self.",
+ "theme": {
+  "accent": "#0b4ea2",
+  "soft": "#e8f0fb"
+ },
+ "published": "2026-10-03",
+ "card": {
+  "blurb": "It mailed America a free trial, charged $19.95 a month for the internet and used its share price to buy Time Warner. Broadband made the product unnecessary. The name is on its fifth owner.",
+  "stat": {
+   "value": "26.7M",
+   "label": "U.S. subscribers at the September 2002 peak; 2.2M by 2014"
+  },
+  "spark": [
+   0.2,
+   3.0,
+   8.6,
+   19.4,
+   26.5,
+   19.5,
+   6.9,
+   2.2
+  ],
+  "peak": 4,
+  "logo": "img/logo-2000.avif",
+  "logoYear": "2000"
+ },
+ "hero": {
+  "dates": "Incorporated May 24, 1985 as Quantum Computer Services. Dial-up service discontinued Sep 30, 2025.",
+  "standfirst": "America Online sold the internet by the month over a phone line. Then the phone line stopped being how people got online.",
+  "deck": "At its peak AOL had about 26.7 million paying U.S. subscribers and enough stock-market value to take over Time Warner. Within a year of that peak its parent had booked a $98.7 billion annual loss, and within twelve years nine in ten subscribers were gone. The name survives as a portal and a mailbox under its fifth owner. This post-mortem is built from two decades of SEC filings, company announcements, contemporary press and the archived website.[^6][^14][^19]",
+  "art": "art/hero.svg",
+  "motion": "flicker",
+  "artCaption": "Original illustration of a late-1990s home computer, a modem and a mailbox flag. Not an official asset.",
+  "archive": [
+   {
+    "image": "img/archive-1996-12-home.avif",
+    "caption": "aol.com, Dec 1996",
+    "alt": "AOL home page in December 1996 announcing unlimited use pricing"
+   },
+   {
+    "image": "img/cds-canada.avif",
+    "caption": "Free-trial discs",
+    "alt": "A pile of AOL promotional CDs"
+   },
+   {
+    "image": "img/archive-2006-09-home.avif",
+    "caption": "aol.com, Sep 2006",
+    "alt": "AOL home page in September 2006 offering free AOL Mail"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "26.7M",
+    "text": "U.S. AOL subscribers on September 30, 2002, the highest figure the company reported[^6]"
+   },
+   {
+    "value": "$98.7B",
+    "text": "AOL Time Warner’s net loss for 2002, after $99.8 billion of goodwill and intangible write-downs[^6]"
+   },
+   {
+    "value": "2.2M",
+    "text": "U.S. subscribers at the end of 2014, the last year AOL reported as a public company[^14]"
+   },
+   {
+    "value": "$1.46B",
+    "text": "cash paid by Bending Spoons for AOL on January 2, 2026[^19]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The product was the connection.",
+   "text": "In 2005 subscriptions were $6.75 billion of AOL’s $8.20 billion in revenue. When households moved to broadband sold by cable and phone companies, the reason to pay AOL went with the phone line.[^12][^29]"
+  },
+  {
+   "title": "Growth was bought through the mailbox.",
+   "text": "AOL spent $212.7 million on marketing in fiscal 1996 and carried $363.0 million of deferred subscriber acquisition costs on its balance sheet. It wrote off $385.2 million of them in a single quarter.[^1][^2]"
+  },
+  {
+   "title": "The merger was paid for at the top.",
+   "text": "The deal was valued at more than $160 billion on the day it was announced. Two years later the combined company wrote down $99.8 billion, of which $33.5 billion in the fourth quarter alone was AOL goodwill.[^22][^6]"
+  },
+  {
+   "title": "It saw the decline and said so.",
+   "text": "The 2002 annual report warned of “further declines due to the maturing narrowband services subscriber universe, subscribers adopting broadband service.” In August 2006 AOL stopped charging broadband users at all.[^6][^10]"
+  },
+  {
+   "title": "The name kept its value longer than the business.",
+   "text": "Verizon paid about $4.4 billion in 2015, Apollo $5 billion for AOL and Yahoo together in 2021, and Bending Spoons $1.456 billion in 2026.[^15][^16][^19]"
+  }
+ ]
+}

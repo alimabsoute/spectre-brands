@@ -1,0 +1,45 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it",
+ "lede": "Roles are from the filings and announcements cited. We have left out people and details we could not source.",
+ "people": [
+  {
+   "name": "Steve Case",
+   "role": "Chairman and CEO of America Online; chairman of AOL Time Warner",
+   "text": "Led AOL through its growth and agreed the Time Warner merger, becoming chairman of the combined company.[^22] He later recalled the plan in the early years as spending 10% of a subscriber’s lifetime revenue to acquire them.[^24]",
+   "later": "Richard Parsons had succeeded him as chairman by May 2003; Case was still a director in March 2004.[^7]"
+  },
+  {
+   "name": "Jan Brandt",
+   "role": "Chief marketing officer",
+   "text": "Ran the disk and disc mailings. By her account the first large mailing, in 1993, drew a 10% response.[^24][^25]"
+  },
+  {
+   "name": "Bob Pittman",
+   "role": "President and COO of America Online",
+   "text": "Named co-chief operating officer of AOL Time Warner, with Richard Parsons, when the merger was announced.[^22]"
+  },
+  {
+   "name": "Gerald Levin",
+   "role": "CEO of Time Warner, then of AOL Time Warner",
+   "text": "Agreed the merger for Time Warner and became chief executive of the combined company.[^22]"
+  },
+  {
+   "name": "Richard Parsons",
+   "role": "CEO of AOL Time Warner from May 2002; chairman from May 2003",
+   "text": "Was in charge when the company took “AOL” out of its name on October 16, 2003.[^7]"
+  },
+  {
+   "name": "Tim Armstrong",
+   "role": "Chairman and CEO of AOL Inc.",
+   "text": "Led the independent company and its turn to advertising and media, and stayed to run AOL under Verizon.[^15]",
+   "later": "Became chief executive of Oath when Verizon combined AOL with Yahoo in 2017.[^28]"
+  },
+  {
+   "name": "Elwood Edwards",
+   "role": "The voice",
+   "text": "Recorded “Welcome,” “You’ve Got Mail,” “Files done” and “Goodbye” on a cassette deck in his living room in 1989.[^26]",
+   "later": "Died in November 2024, aged 74.[^26]"
+  }
+ ]
+}

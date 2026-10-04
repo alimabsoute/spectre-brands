@@ -1,0 +1,74 @@
+{
+ "kicker": "The story",
+ "title": "A free disc, a monthly fee and a phone line",
+ "lede": "AOL did not lose its customers to a better online service. It lost them to a faster wire that somebody else owned, and it had already spent its share price on Time Warner when that happened.",
+ "chapters": [
+  {
+   "when": "1985 – 1995 · The mailbox",
+   "title": "An online service for people who did not like computers",
+   "big": "3.0M",
+   "cap": "subscribers on June 30, 1995, up from 182,000 three years earlier",
+   "color": "#0b4ea2",
+   "body": "The company was incorporated in Delaware on May 24, 1985 as Quantum Computer Services.[^1][^32] Its first product, Q-Link, was an online service for owners of Commodore computers. In October 1989 it introduced a nationwide service under the name America Online, and two years later it took that name for the company.[^32] It sold shares to the public in 1992.[^32]\n\nThe growth came through the post. The first large mailing went out in 1993: about 200,000 floppy disks, each costing $1.19 to make, with a free trial on them. Jan Brandt, the marketing chief who ran the programme, later put the response to that mailing at 10%.[^25] Subscribers went from 303,000 in June 1993 to 903,000 a year later and 3.0 million a year after that.[^1] A member paid $9.95 a month for five hours and $2.95 for each additional hour.[^1]",
+   "image": {
+    "image": "img/cds-canada.avif",
+    "caption": "AOL trial discs distributed in Canada in the late 1990s and early 2000s. Photo: Jeran Renz, Wikimedia Commons, CC0.[^38]",
+    "alt": "A pile of AOL promotional CDs in different colours"
+   }
+  },
+  {
+   "when": "Dec 1996 – 1997 · Flat rate",
+   "title": "Unlimited use, and a busy signal",
+   "big": "$19.95",
+   "cap": "a month for unlimited use, from December 1, 1996",
+   "color": "#8A6212",
+   "body": "On December 1, 1996 AOL replaced the hourly meter with “a standard monthly membership fee of $19.95, with no additional hourly charges.”[^2] Members stayed connected, and the network could not carry them. On January 29, 1997 Washington and 35 other states signed an agreement under which AOL would refund members who could not get on in December and January and would stop advertising for February. “AOL’s marketing clearly got out ahead of its technological capacity,” said Washington’s attorney general.[^23]\n\nThe filings show the cost. AOL booked a $24.2 million settlement charge, and it expanded its network from 143,000 modems to 350,000 during the fiscal year.[^2] It also stopped treating marketing as an asset: $385.2 million of deferred subscriber acquisition costs was written off as of September 30, 1996, and the year ended with a net loss of $499.3 million on revenue of $1.69 billion.[^2] Membership still rose, from 6.2 million to 8.6 million.[^2]",
+   "video": "case97"
+  },
+  {
+   "when": "1998 – 2000 · The peak of the idea",
+   "title": "The world’s most popular internet online service",
+   "big": "$6.9B",
+   "cap": "revenue in the year to June 30, 2000, with net income of $1.2 billion",
+   "color": "#3F8A5A",
+   "body": "AOL bought the things around it. It took over CompuServe’s online service in January 1998, paid $287 million in cash for the instant-messaging company behind ICQ that June, and merged with Netscape in March 1999 in exchange for about 95 million shares.[^3][^4] It raised the monthly price to $21.95 in April 1998 and kept growing.[^3]\n\nBy June 30, 2000 the AOL service had 23.2 million members worldwide, 19.4 million of them in the United States. AOL Instant Messenger, which was free, had more than 61 million registered users. Revenue for the year was $6.89 billion and net income $1.23 billion.[^5]",
+   "image": {
+    "image": "img/archive-2000-10-home.avif",
+    "caption": "aol.com on October 19, 2000, three months before the Time Warner merger closed.[^37]",
+    "alt": "AOL.COM home page in October 2000 with a mail sign-in box, search and shopping panels"
+   }
+  },
+  {
+   "when": "Jan 2000 – 2003 · The merger",
+   "title": "Fifty-five percent of the largest media company in the world",
+   "big": "$98.7B",
+   "cap": "AOL Time Warner’s net loss for 2002",
+   "color": "#C2412D",
+   "body": "On January 10, 2000 AOL agreed to merge with Time Warner. It was an all-stock deal worth more than $160 billion at that day’s prices, and AOL’s shareholders were to own about 55% of the combined company.[^22][^5] The merger closed on January 11, 2001 and was accounted for as AOL acquiring Time Warner at a cost of about $147 billion.[^6]\n\nThe subscriber count peaked at 26.7 million in the United States on September 30, 2002 and slipped to 26.5 million by year-end.[^6] The accounts for that year carried a $54.2 billion charge on adopting new goodwill rules and a further $45.5 billion impairment in the fourth quarter, of which $33.5 billion was AOL goodwill. The net loss was $98.7 billion.[^6] The Securities and Exchange Commission and the Department of Justice were investigating how AOL had booked advertising revenue.[^6] On October 16, 2003 the company dropped “AOL” from its name.[^7]",
+   "video": "cnn2000"
+  },
+  {
+   "when": "2003 – 2015 · The unwinding",
+   "title": "Free to anyone who already had a connection",
+   "big": "−92%",
+   "cap": "fall in U.S. subscribers from September 2002 to December 2014 (derived)",
+   "color": "#C2412D",
+   "body": "Subscribers left at two to three million a year, then faster. On August 2, 2006 AOL announced it would give its software and e-mail away to anyone with a broadband connection and live on advertising. It ended that year with 13.2 million U.S. subscribers, down from 19.5 million.[^9][^10] Time Warner sold a 5% stake to Google for $1 billion in 2006 and bought it back in July 2009 for $283 million.[^12]\n\nOn December 9, 2009 Time Warner distributed AOL to its own shareholders.[^12] The independent AOL, under Tim Armstrong, bought The Huffington Post for $295.5 million net of cash in March 2011 and sold about 800 patents to Microsoft in 2012.[^13][^14] By the end of 2014 there were 2.2 million subscribers, who had been paying for an average of 14 years.[^14] On May 12, 2015 Verizon agreed to buy the company for $50 a share, about $4.4 billion.[^15]",
+   "art": "art/unplugged.svg",
+   "artCaption": "The phone cord, unplugged. Original illustration."
+  },
+  {
+   "when": "2015 – 2026 · The name",
+   "title": "Three more owners, and the modem goes quiet",
+   "big": "$1.46B",
+   "cap": "cash paid by Bending Spoons for AOL on January 2, 2026",
+   "color": "#16161A",
+   "body": "Verizon combined AOL with Yahoo in June 2017 in a subsidiary called Oath, and shut AOL Instant Messenger on December 15 of that year.[^28][^27] In May 2021 it agreed to sell the whole media unit to Apollo for $5 billion, keeping a 10% stake. The deal closed on September 1, 2021.[^16][^17]\n\nIn 2025 AOL posted a notice on its help site: “AOL routinely evaluates its products and services and has decided to discontinue Dial-up Internet.” The date given was September 30, 2025.[^18] A month later Apollo’s Yahoo agreed to sell AOL to Bending Spoons, an Italian company that buys established consumer software. The purchase closed on January 2, 2026 for $1,456 million in cash.[^21][^19]",
+   "image": {
+    "image": "img/archive-2025-09-home.avif",
+    "caption": "aol.com as archived on September 29, 2025, the day before dial-up ended. Some images did not load in the capture.[^37]",
+    "alt": "AOL home page in September 2025 with a yellow header, a search box and news stories"
+   }
+  }
+ ]
+}

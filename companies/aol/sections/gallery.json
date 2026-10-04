@@ -1,0 +1,93 @@
+{
+ "kicker": "Brand gallery",
+ "title": "A triangle, a running man and a great many discs",
+ "label": "Brand gallery",
+ "lede": "AOL’s brand reached people as physical objects before it reached them as a screen: disks and discs in the post, in magazines and on shop counters. Here are the marks as they survive, and our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/logo-2000.avif",
+   "date": "Oct 2000",
+   "caption": "The AOL.COM wordmark with the triangle, from the archived home page.",
+   "credit": "Cropped from an Internet Archive capture of aol.com. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/logo-2006.avif",
+   "date": "2006",
+   "caption": "The later logo, which appears on the archived home page of September 2006.[^37]",
+   "credit": "Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AOL_old_logo.svg), marked public domain there as a simple text logo. Still a trademark of its owner."
+  },
+  {
+   "image": "img/cds-canada.avif",
+   "date": "c. 2000",
+   "caption": "Trial discs distributed in Canada in the late 1990s and early 2000s, offering 540 hours or three months free.",
+   "credit": "Photo: Jeran Renz, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AOL_promotional_CDs_in_Canada.jpg), CC0."
+  },
+  {
+   "image": "img/hq-770-broadway.avif",
+   "date": "2013",
+   "caption": "770 Broadway in Manhattan, where the independent AOL had its offices.",
+   "credit": "Photo: Gino DePinto, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AOL_770.jpg), CC BY-SA 4.0."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The machine.",
+   "caption": "A beige computer, a modem and one new message."
+  },
+  {
+   "art": "art/free-disc.svg",
+   "title": "The offer.",
+   "caption": "A free trial in a cardboard sleeve. Jan Brandt put the first large mailing at about 200,000 disks.[^25]"
+  },
+  {
+   "art": "art/busy-signal.svg",
+   "title": "The winter of 1996.",
+   "caption": "Unlimited use met a finite number of modems.[^2]"
+  },
+  {
+   "art": "art/unplugged.svg",
+   "title": "The problem.",
+   "caption": "The faster wire belonged to someone else."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#0b4ea2",
+   "label": "AOL blue (approx., 2000 wordmark)"
+  },
+  {
+   "hex": "#990000",
+   "label": "1996 site frame red"
+  },
+  {
+   "hex": "#ff9900",
+   "label": "2000 Shop panel orange"
+  },
+  {
+   "hex": "#ffd42a",
+   "label": "2025 header yellow (approx.)"
+  }
+ ],
+ "disclaimer": "Colors were sampled from archived captures and are approximate because of image compression.[^37] AOL, America Online and the triangle logo are trademarks of their owners and appear here in historical and editorial context. Drawings are original illustrations, not official assets.",
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, twenty-nine years apart",
+   "ratio": "4/3",
+   "before": {
+    "label": "December 1996",
+    "image": "img/archive-1996-12-home.avif",
+    "caption": "“The World’s Most Popular Internet Online Service,” announcing unlimited use pricing.[^37]",
+    "alt": "aol.com in December 1996"
+   },
+   "after": {
+    "label": "September 2025",
+    "image": "img/archive-2025-09-home.avif",
+    "caption": "A news portal with a mail button, the day before dial-up ended.[^37]",
+    "alt": "aol.com in September 2025"
+   },
+   "source": "Internet Archive Wayback Machine captures of aol.com[^37]."
+  }
+ ]
+}

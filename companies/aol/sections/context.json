@@ -1,0 +1,113 @@
+{
+ "kicker": "The market it lived in",
+ "title": "The decade the country changed wires",
+ "lede": "AOL sold access over the telephone network. In March 2000, two months after the Time Warner deal, 1% of American adults had broadband at home. By the end of 2007 more than half did.",
+ "blocks": [
+  {
+   "kind": "keyfacts",
+   "caption": "Home broadband in the United States, from Pew Research Center surveys",
+   "compact": true,
+   "rows": [
+    {
+     "value": "1%",
+     "text": "of U.S. adults had home broadband in March 2000[^29]"
+    },
+    {
+     "value": "12%",
+     "text": "in December 2002, the quarter after AOL’s subscriber peak[^29]"
+    },
+    {
+     "value": "54%",
+     "text": "in December 2007[^29]"
+    },
+    {
+     "value": "78%",
+     "text": "in Pew’s 2025 survey[^29]"
+    }
+   ]
+  },
+  {
+   "kind": "chart",
+   "id": "bbChart",
+   "title": "Broadband up, AOL down",
+   "subtitle": "Share of U.S. adults with home broadband (line, right axis) against AOL’s U.S. subscribers in millions (bars).",
+   "chart": {
+    "type": "bar",
+    "height": 360,
+    "labels": [
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009"
+    ],
+    "y": {
+     "format": {
+      "suf": "M",
+      "dec": 1
+     },
+     "title": "AOL U.S. subscribers"
+    },
+    "y1": {
+     "min": 0,
+     "max": 70,
+     "format": "pct"
+    },
+    "series": [
+     {
+      "type": "line",
+      "label": "U.S. adults with home broadband (%)",
+      "data": [
+       1,
+       9,
+       12,
+       19,
+       25,
+       36,
+       44,
+       54,
+       55,
+       59
+      ],
+      "color": "red",
+      "axis": "y1"
+     },
+     {
+      "label": "AOL U.S. subscribers (millions)",
+      "data": [
+       19.4,
+       25.2,
+       26.5,
+       24.3,
+       22.2,
+       19.5,
+       13.2,
+       9.3,
+       6.9,
+       5.0
+      ],
+      "color": "blue"
+     }
+    ]
+   },
+   "source": "Broadband: Pew Research Center fact sheet, using the last survey of each year except 2000 (March 31)[^29]. AOL: June 30 for 2000, December 31 thereafter[^5][^6][^7][^8][^9][^10][^11][^12]."
+  },
+  {
+   "kind": "text",
+   "title": "What a subscription bought",
+   "body": "In 1996 the monthly fee bought three things at once: a local phone number for the modem to call, software that worked without configuration, and a private world of chat rooms, mail and channels that sat beside the open web. AOL’s 1996 home page called it “The World’s Most Popular Internet Online Service.”[^37]\n\nBroadband unbundled all three. The connection came from the cable or telephone company. The browser came with the computer. That left the content and the mailbox, and in 2006 AOL concluded it could not charge for those either.[^10] Time Warner’s annual report that year named the cause in a subordinate clause: “the industry-wide decline of the premium dial-up ISP business and growth in the broadband Internet access business.”[^10]"
+  },
+  {
+   "kind": "drawing",
+   "art": "art/busy-signal.svg",
+   "caption": "Original illustration. One phone line could carry a call or a modem, not both.",
+   "title": "The shared line",
+   "body": "A dial-up session occupied the household telephone. Flat-rate pricing in December 1996 removed the reason to hang up, and AOL had to more than double its modems, from 143,000 to 350,000, within the fiscal year.[^2]"
+  }
+ ]
+}

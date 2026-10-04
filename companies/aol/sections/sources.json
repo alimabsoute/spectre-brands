@@ -1,0 +1,193 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Primary sources first. SEC filings link to the original text on EDGAR: America Online, Inc. (CIK 883780), AOL Time Warner / Time Warner (CIK 1105705), AOL Inc. (CIK 1468516) and Bending Spoons (CIK 2004711).",
+ "list": [
+  {
+   "id": 1,
+   "text": "America Online, Inc. — [Form 10-K, fiscal year to June 30, 1996](https://www.sec.gov/Archives/edgar/data/883780/0000883780-96-000009.txt), filed Sep 30, 1996."
+  },
+  {
+   "id": 2,
+   "text": "America Online, Inc. — [Form 10-K, fiscal 1997](https://www.sec.gov/Archives/edgar/data/883780/0000883780-97-000014.txt), filed Sep 29, 1997."
+  },
+  {
+   "id": 3,
+   "text": "America Online, Inc. — [Form 10-K, fiscal 1998](https://www.sec.gov/Archives/edgar/data/883780/0001021408-98-000688.txt), filed Sep 28, 1998."
+  },
+  {
+   "id": 4,
+   "text": "America Online, Inc. — [Form 10-K, fiscal 1999](https://www.sec.gov/Archives/edgar/data/883780/0000883780-99-000063.txt), filed Aug 13, 1999."
+  },
+  {
+   "id": 5,
+   "text": "America Online, Inc. — [Form 10-K, fiscal 2000](https://www.sec.gov/Archives/edgar/data/883780/000088378000000098/0000883780-00-000098.txt), filed Sep 22, 2000."
+  },
+  {
+   "id": 6,
+   "text": "AOL Time Warner Inc. — [Form 10-K for 2002](https://www.sec.gov/Archives/edgar/data/1105705/000095014403004064/g81332e10vk.htm), filed Mar 28, 2003. The registrant is now listed by the SEC as Warner Media, LLC."
+  },
+  {
+   "id": 7,
+   "text": "Time Warner Inc. — [Form 10-K for 2003](https://www.sec.gov/Archives/edgar/data/1105705/000095014404002438/g87394e10vk.htm), filed Mar 15, 2004."
+  },
+  {
+   "id": 8,
+   "text": "Time Warner Inc. — [Form 10-K for 2004](https://www.sec.gov/Archives/edgar/data/1105705/000095014405002361/g93505e10vk.htm), filed Mar 11, 2005."
+  },
+  {
+   "id": 9,
+   "text": "Time Warner Inc. — [Form 10-K for 2005](https://www.sec.gov/Archives/edgar/data/1105705/000095014406001556/g99294e10vk.htm), filed Feb 27, 2006."
+  },
+  {
+   "id": 10,
+   "text": "Time Warner Inc. — [Form 10-K for 2006](https://www.sec.gov/Archives/edgar/data/1105705/000095014407001550/g05042e10vk.htm), filed Feb 23, 2007."
+  },
+  {
+   "id": 11,
+   "text": "Time Warner Inc. — [Form 10-K for 2008](https://www.sec.gov/Archives/edgar/data/1105705/000095014409001481/g17605e10vk.htm), filed Feb 20, 2009."
+  },
+  {
+   "id": 12,
+   "text": "AOL Inc. — [Form 10-K for 2009](https://www.sec.gov/Archives/edgar/data/1468516/000119312510045310/d10k.htm), filed Mar 2, 2010."
+  },
+  {
+   "id": 13,
+   "text": "AOL Inc. — [Form 10-K for 2011](https://www.sec.gov/Archives/edgar/data/1468516/000119312512076633/d281886d10k.htm), filed Feb 24, 2012."
+  },
+  {
+   "id": 14,
+   "text": "AOL Inc. — [Form 10-K for 2014](https://www.sec.gov/Archives/edgar/data/1468516/000146851615000006/aol-20141231x10k.htm), filed Feb 27, 2015."
+  },
+  {
+   "id": 15,
+   "text": "Verizon — [“Verizon to Acquire AOL,” press release](https://www.sec.gov/Archives/edgar/data/1468516/000119312515184218/d924567dex991.htm), May 12, 2015, filed as an exhibit to AOL Inc.’s Form 8-K."
+  },
+  {
+   "id": 16,
+   "text": "Verizon — [“Verizon Media to be acquired by Apollo Funds,” press release](https://www.verizon.com/about/news/verizon-media-be-acquired-apollo-funds), May 3, 2021."
+  },
+  {
+   "id": 17,
+   "text": "Apollo Global Management — [“Apollo Funds Complete Acquisition of Yahoo,” press release](https://ir.apollo.com/news-events/press-releases/detail/67/apollo-funds-complete-acquisition-of-yahoo), Sep 1, 2021."
+  },
+  {
+   "id": 18,
+   "text": "AOL Help — [“Dial-up Internet to be discontinued”](https://web.archive.org/web/20250809114011/https://help.aol.com/articles/dial-up-internet-to-be-discontinued), Internet Archive capture of Aug 9, 2025. The [live page](https://help.aol.com/articles/dial-up-internet-to-be-discontinued) needs JavaScript."
+  },
+  {
+   "id": 19,
+   "text": "Bending Spoons S.p.A. — [draft registration statement on Form F-1](https://www.sec.gov/Archives/edgar/data/0002004711/000110465926027746/filename1.htm), 2026 (closing date and cash consideration for AOL Holdco I LLC)."
+  },
+  {
+   "id": 20,
+   "text": "Bending Spoons S.p.A. — [Q2 2026 results, exhibit to Form 6-K](https://www.sec.gov/Archives/edgar/data/0002004711/000200471126000011/bsp_ex99-1.htm), Aug 2026."
+  },
+  {
+   "id": 21,
+   "text": "Tech.eu — [“Bending Spoons to acquire early internet pioneer AOL”](https://tech.eu/2025/10/29/bending-spoons-acquires-early-internet-pioneer-aol/), Oct 29, 2025."
+  },
+  {
+   "id": 22,
+   "text": "CNET News.com — [“AOL to buy Time Warner in historic merger”](https://www.cnet.com/tech/services-and-software/aol-to-buy-time-warner-in-historic-merger/), Jan 10, 2000."
+  },
+  {
+   "id": 23,
+   "text": "Washington State Office of the Attorney General — [“Washington reaches agreement with America Online,” news release](https://atg.wa.gov/news/news-releases/washington-reaches-agreement-america-online-0), Jan 29, 1997."
+  },
+  {
+   "id": 24,
+   "text": "TechCrunch — MG Siegler, [“How Much Did It Cost AOL To Send Us Those CDs In The 90s? ‘A Lot!,’ Says Steve Case”](https://techcrunch.com/?p=258238), Dec 27, 2010."
+  },
+  {
+   "id": 25,
+   "text": "TechCrunch — MG Siegler, [“More On AOL’s Disc Strategy: $1.19 Floppies, 50% Of All CDs Made, And Precision Bombing”](https://techcrunch.com/?p=258471), Dec 28, 2010."
+  },
+  {
+   "id": 26,
+   "text": "ABC7 News (CNN Wire) — [“Elwood Edwards, voice of AOL’s iconic greeting ‘You’ve Got Mail,’ dies at 74”](https://abc7news.com/post/elwood-edwards-voice-aols-iconic-greeting-youve-got-mail-dies-74/15524074/), Nov 7, 2024."
+  },
+  {
+   "id": 27,
+   "text": "The Verge — Jacob Kastrenakes, [report on the shutdown of AOL Instant Messenger](https://www.theverge.com/2017/10/6/16435690/aim-aol-instant-messenger-shut-down-december-15), Oct 6, 2017."
+  },
+  {
+   "id": 28,
+   "text": "TechCrunch — Ingrid Lunden, [“Verizon closes $4.5B acquisition of Yahoo, Marissa Mayer resigns”](https://techcrunch.com/2017/06/13/verizon-closes-4-5b-acquisition-of-yahoo-marissa-mayer-resigns-memo/), Jun 13, 2017."
+  },
+  {
+   "id": 29,
+   "text": "Pew Research Center — [Internet, Broadband Fact Sheet](https://www.pewresearch.org/internet/fact-sheet/internet-broadband/), Nov 20, 2025 (home broadband use over time)."
+  },
+  {
+   "id": 30,
+   "text": "FOX 10 Phoenix — [“AOL ending its dial-up internet service: Here’s what to know”](https://www.fox10phoenix.com/news/aol-ending-its-dial-up-internet-service-heres-what-know), Aug 11, 2025 (reports the Associated Press’s Census Bureau figure)."
+  },
+  {
+   "id": 31,
+   "text": "Fortune — Rita Gunther McGrath, [“15 years later, lessons from the failed AOL-Time Warner merger”](https://fortune.com/2015/01/10/15-years-later-lessons-from-the-failed-aol-time-warner-merger/), Jan 10, 2015."
+  },
+  {
+   "id": 32,
+   "text": "International Directory of Company Histories (Gale), via Encyclopedia.com — [“America Online, Inc.”](https://www.encyclopedia.com/economics/economics-magazines/america-online-inc)."
+  },
+  {
+   "id": 33,
+   "text": "EarthLink, Inc. — [Form 10-K for 2006](https://www.sec.gov/Archives/edgar/data/1102541/000110465907015602/a07-5514_110k.htm), filed Mar 1, 2007."
+  },
+  {
+   "id": 34,
+   "text": "EarthLink Holdings Corp. — [Form 10-K for 2016](https://www.sec.gov/Archives/edgar/data/1102541/000110254117000014/elnk-20161231x10k.htm), filed Feb 24, 2017."
+  },
+  {
+   "id": 35,
+   "text": "Comcast Corporation — [Form 10-K for 2008](https://www.sec.gov/Archives/edgar/data/1166691/000119312509033975/d10k.htm), filed Feb 20, 2009."
+  },
+  {
+   "id": 36,
+   "text": "Comcast Corporation — [Form 10-K for 2025](https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm), filed Feb 3, 2026."
+  },
+  {
+   "id": 37,
+   "text": "Internet Archive Wayback Machine — captures of aol.com: [Dec 20, 1996](https://web.archive.org/web/19961220154856/http://www.aol.com/), [Oct 19, 2000](https://web.archive.org/web/20001019042752/http://www.aol.com/), [Sep 13, 2006](https://web.archive.org/web/20060913084931/http://www.aol.com/), [Sep 29, 2025](https://web.archive.org/web/20250929235150/https://www.aol.com/)."
+  },
+  {
+   "id": 38,
+   "text": "Wikimedia Commons — [AOL promotional CDs in Canada](https://commons.wikimedia.org/wiki/File:AOL_promotional_CDs_in_Canada.jpg) (Jeran Renz, CC0); [AOL 770](https://commons.wikimedia.org/wiki/File:AOL_770.jpg) (Gino DePinto, CC BY-SA 4.0); [AOL old logo](https://commons.wikimedia.org/wiki/File:AOL_old_logo.svg) (public domain text logo)."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Editorial",
+   "text": "We set “died” to 2025, the year AOL discontinued dial-up access, the product the company was built on. Other defensible dates are 2006, when AOL stopped charging broadband users; 2009, when Time Warner spun it off; and 2015, when it ceased to be an independent company. AOL is classed as a ghost, not dead: the portal and the mail service operate under Bending Spoons."
+  },
+  {
+   "label": "Subscriber series",
+   "text": "The basis changes. 1992–1997: worldwide subscribers at June 30. 1998: North America at June 30 (11.237M of 12.535M worldwide). 1999–2000: U.S. at June 30. 2001 onward: U.S. “AOL brand” subscribers at December 31, which in the Time Warner years included members on free trials and retention offers. The 26.7M peak is the September 30, 2002 figure given in the 2002 10-K. No subscriber figures were published after 2014 that we could verify, so the line stops there."
+  },
+  {
+   "label": "Derived",
+   "text": "−92%: (26.7M − 2.2M) ÷ 26.7M. 6.3M lost in 2006: 19.5M − 13.2M. 2.4M lost in 2008: 9.3M − 6.9M. Subscription share of revenue: $6,754.9M ÷ $8,202.1M = 82% (2005); $606.5M ÷ $2,527.2M = 24% (2014). “Advertising and other” for 2005–2009 is the sum of two reported lines. Marketing as a share of revenue, fiscal 1994–1997: 20%, 20%, 19%, 24%. Total 2002 write-downs: $54.235B + $45.538B = $99.773B, which matches the total stated in the 10-K. Scale block: $98.696B ÷ $4.4B = 22.4."
+  },
+  {
+   "label": "Estimates",
+   "text": "Spending on the trial discs (“over $300 million”), the $1.19 cost per floppy disk, the 10% response rate, the 50% share of world CD production and the $35 cost per subscriber are recollections by Jan Brandt and Steve Case posted on Quora in 2010 and reported by TechCrunch. AOL did not publish these figures. The audited equivalents are the marketing costs and deferred subscriber acquisition costs in the 10-Ks. The value of the merger on the day it was announced (“more than $160 billion”) is CNET’s calculation from that day’s share prices; other outlets published other figures."
+  },
+  {
+   "label": "Unverified",
+   "text": "Brandt’s claim that half of all CDs produced worldwide once carried an AOL logo has not been independently verified. The price Bending Spoons paid was not in its announcement; press reports before closing put it at about $1.4 to $1.5 billion, and we use the $1,456 million cash consideration stated in its draft registration statement. The active-user figures for AOL in 2025 are the buyer’s statement. The number of AOL dial-up customers at shutdown is unknown. Upload-supplied dates on three commercials are labelled as such in their captions."
+  },
+  {
+   "label": "Revenue bases",
+   "text": "Fiscal 1994–1997 revenue is as first reported. Fiscal 1998–2000 is as restated in the fiscal 2000 10-K to include companies merged by pooling of interests; the fiscal 1998 and 1999 10-Ks first reported $2,600M and $4,777M. 2001–2004 is the AOL segment as reported by its parent. 2005–2014 is from AOL Inc.’s own filings."
+  },
+  {
+   "label": "Method",
+   "text": "SEC filings were read in full text from EDGAR, or from Internet Archive copies of the same EDGAR documents, in October 2026. Two sources were read through a text-extraction tool and not as raw pages: the Verizon release of May 3, 2021[^16] and the Tech.eu article[^21]. The fiscal 1999 U.S. subscriber figure (15.3M) is taken from the fiscal 2000 10-K."
+  },
+  {
+   "label": "General knowledge",
+   "text": "The film You’ve Got Mail was released by Warner Bros. in 1998. Q-Link was Quantum’s service for Commodore computers. Dial-up modems of the late 1990s were rated at up to 56 kilobits per second."
+  }
+ ]
+}

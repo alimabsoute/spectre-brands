@@ -1,0 +1,75 @@
+{
+ "kicker": "The old website",
+ "title": "What aol.com said, 1996 to 2025",
+ "lede": "The members’ service ran inside AOL’s own software and was never archived. These are screenshots of the public website as saved by the Internet Archive’s Wayback Machine, cropped to the page. Click one to open the original capture.[^37]",
+ "snips": [
+  {
+   "text": "“The World’s Most Popular Internet Online Service”",
+   "when": "aol.com · Dec 20, 1996 capture[^37]"
+  },
+  {
+   "text": "“**December 2, 1996** America Online Launches New Unlimited Use Pricing”",
+   "when": "AOL Announces · Dec 20, 1996 capture[^37]"
+  },
+  {
+   "text": "“AOL Anytime, Anywhere. Check Your AOL Mail.”",
+   "when": "aol.com · Oct 19, 2000 capture[^37]"
+  },
+  {
+   "text": "“Get Free AOL Mail”",
+   "when": "aol.com · Sep 13, 2006 capture[^37]"
+  },
+  {
+   "text": "“AOL routinely evaluates its products and services and has decided to discontinue Dial-up Internet.”",
+   "when": "help.aol.com · Aug 9, 2025 capture[^18]"
+  }
+ ],
+ "note": "Captures were located with the Wayback Machine in October 2026. The 1996 capture shows a seasonal header in Italian (“Benvenuto a”), apparently one of several rotating greetings. Some images in the 2025 capture were not archived.",
+ "captures": [
+  {
+   "date": "Dec 1996",
+   "label": "Unlimited use",
+   "url": "http://www.aol.com/",
+   "wayback": "https://web.archive.org/web/19961220154856/http://www.aol.com/",
+   "image": "img/archive-1996-12-home.avif",
+   "h": 480,
+   "captured": "Dec 20, 1996",
+   "title": "Three weeks into flat-rate pricing",
+   "text": "The page announces unlimited use pricing and promotes the Buddy List, “now available on AOL 3.0.” The site is a brochure for the service, with a “Try AOL” button."
+  },
+  {
+   "date": "Oct 2000",
+   "label": "AOL.COM",
+   "url": "http://www.aol.com/",
+   "wayback": "https://web.archive.org/web/20001019042752/http://www.aol.com/",
+   "image": "img/archive-2000-10-home.avif",
+   "h": 480,
+   "captured": "Oct 19, 2000",
+   "title": "A portal beside the service",
+   "text": "Mail sign-in, search, shopping and “Try AOL FREE!” The top link advertises AIM 4.1. The Time Warner merger would close three months later."
+  },
+  {
+   "date": "Sep 2006",
+   "label": "Free mail",
+   "url": "http://www.aol.com/",
+   "wayback": "https://web.archive.org/web/20060913084931/http://www.aol.com/",
+   "image": "img/archive-2006-09-home.avif",
+   "h": 480,
+   "captured": "Sep 13, 2006",
+   "title": "Six weeks after going free",
+   "text": "“Get Free AOL Mail,” a new logo, and search “enhanced by Google,” which had bought 5% of AOL that April.[^12]"
+  },
+  {
+   "date": "Sep 2025",
+   "label": "The day before",
+   "url": "https://www.aol.com/",
+   "wayback": "https://web.archive.org/web/20250929235150/https://www.aol.com/",
+   "image": "img/archive-2025-09-home.avif",
+   "h": 480,
+   "captured": "Sep 29, 2025",
+   "title": "A news page with a mail button",
+   "text": "The day before dial-up was discontinued. Nothing on the home page mentions it.",
+   "warn": "Several images did not load in this capture."
+  }
+ ]
+}

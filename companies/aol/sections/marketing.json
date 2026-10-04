@@ -1,0 +1,97 @@
+{
+ "kicker": "Marketing",
+ "title": "A trial disc in every mailbox",
+ "lede": "AOL’s marketing was direct response at a scale nobody had tried for software: a disk, a free trial and a phone number, measured promotion by promotion.",
+ "blocks": [
+  {
+   "kind": "keyfacts",
+   "caption": "The disc programme, in its managers’ own words and the company’s accounts",
+   "rows": [
+    {
+     "value": "$1.19",
+     "text": "cost of each floppy disk in the first large mailing of about 200,000 in 1993, according to Jan Brandt[^25]"
+    },
+    {
+     "value": "10%",
+     "text": "response to that mailing, by Brandt’s account[^25]"
+    },
+    {
+     "value": "$35",
+     "text": "Steve Case’s **estimate** of what AOL spent to win one subscriber, a tenth of roughly $350 in lifetime revenue[^24]"
+    },
+    {
+     "value": "$300M+",
+     "text": "Brandt’s **estimate** of total spending on the discs. AOL never published a figure[^24]"
+    }
+   ],
+   "source": "Quora answers by Steve Case and Jan Brandt, as reported by TechCrunch on December 27 and 28, 2010[^24][^25]. These are recollections, not audited figures."
+  },
+  {
+   "kind": "chart",
+   "id": "mktChart",
+   "title": "Marketing costs against revenue, fiscal 1994–1997",
+   "subtitle": "$ millions, years to June 30. Marketing was about a fifth of revenue in each year (derived).",
+   "chart": {
+    "type": "bar",
+    "height": 320,
+    "labels": [
+     "FY1994",
+     "FY1995",
+     "FY1996",
+     "FY1997"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "Total revenues",
+      "data": [
+       115.7,
+       394.3,
+       1093.9,
+       1685.2
+      ],
+      "color": "blue"
+     },
+     {
+      "label": "Marketing costs",
+      "data": [
+       23.5,
+       77.1,
+       212.7,
+       409.3
+      ],
+      "color": "gold"
+     }
+    ]
+   },
+   "source": "America Online 10-Ks for fiscal 1996 and 1997[^1][^2]. Derived ratios: 20% (1994), 20% (1995), 19% (1996), 24% (1997). Until September 30, 1996 most subscriber acquisition spending was capitalised and amortised, so these expense lines understate the cash going out; the balance sheet carried $363.0M of deferred costs at June 30, 1996."
+  },
+  {
+   "kind": "quote",
+   "text": "At one point, 50% of the CD’s produced worldwide had an AOL logo on it.",
+   "who": "**Jan Brandt**, AOL’s former chief marketing officer, on Quora, as quoted by TechCrunch, Dec 2010[^24]"
+  },
+  {
+   "kind": "note",
+   "body": "Brandt’s 50% figure is her recollection and has not been independently verified. We report it as a claim."
+  },
+  {
+   "kind": "text",
+   "title": "The voice",
+   "body": "The four phrases every member heard, “Welcome,” “You’ve Got Mail,” “Files done” and “Goodbye,” were recorded in 1989 by Elwood Edwards, whose wife worked at Quantum Computer Services and volunteered him. He recorded them on a cassette deck in his living room.[^26] The second phrase became the title of a 1998 film from Warner Bros., which two years later was a sister company."
+  },
+  {
+   "kind": "video",
+   "video": "easy99"
+  },
+  {
+   "kind": "drawing",
+   "art": "art/free-disc.svg",
+   "caption": "Original illustration in the spirit of the trial discs. Not a reproduction of any AOL packaging.",
+   "title": "The offer",
+   "body": "Hours free, then a monthly fee on a credit card. At the end of 2002, 10% of the 26.5 million U.S. members were on free trials or retention offers.[^6]"
+  }
+ ]
+}

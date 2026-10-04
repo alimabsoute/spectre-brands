@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a free-trial compact disc half out of a cardboard mailer">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 222 L310 222" fill="none" stroke="#9aa7b8" stroke-width="2"/>
+<circle class="spin" cx="176" cy="104" r="78" fill="#dfe6ee"/>
+<path d="M176 26 A78 78 0 0 1 254 104 L206 104 A30 30 0 0 0 176 74 Z" fill="#b9c9e6" stroke-width="2"/>
+<circle cx="176" cy="104" r="30" fill="#f4f6f9" stroke-width="2.5"/>
+<circle cx="176" cy="104" r="10" fill="#fffef8" stroke-width="2.5"/>
+<path d="M40 110 L250 110 L262 220 L28 220 Z" fill="#0b4ea2"/>
+<path d="M40 110 L250 110" stroke-width="3"/>
+<text x="145" y="158" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="30" fill="#fff" stroke="none">FREE!</text>
+<text x="145" y="182" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="13" fill="#ffd84a" stroke="none" letter-spacing="1">HOURS AND HOURS</text>
+<text x="145" y="202" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#dbe6f7" stroke="none">then a monthly fee on your card</text>
+<text x="238" y="52" font-family="Caveat, cursive" font-size="19" fill="#1f2a44" stroke="none" transform="rotate(8 238 52)">another one</text>
+</g></svg>

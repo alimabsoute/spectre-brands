@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Buy a wire, not a studio",
+   "actual": "In January 2000 AOL agreed to an all-stock merger with Time Warner, valued at more than $160 billion that day.[^22] Time Warner did own cable systems, but they were one division among film, television, music and magazines, and AOL’s 2002 annual report still described broadband as a threat to its subscriber base.[^6]",
+   "whatif": "The same paper could have bought access infrastructure alone, or long-term wholesale rights to it. AOL would then have sold the faster connection under its own name while its brand was strongest. Whether regulators and cable owners would have allowed that in 2000 is unknown."
+  },
+  {
+   "tab": "Go free in 2002",
+   "actual": "AOL kept charging for its software, mail and content until August 2, 2006, by which time U.S. subscribers had fallen from 26.5 million to under 19.5 million.[^6][^9][^10] Free web mail and portals from Yahoo, Microsoft and Google had grown up in the meantime.",
+   "whatif": "Opening the mailbox and the portal at the 2002 peak would have put about 26 million established accounts onto an advertising model four years sooner, at the cost of several billion dollars a year in subscription revenue that Time Warner was relying on. It is the trade the company eventually made, from a weaker position."
+  },
+  {
+   "tab": "Stay independent",
+   "actual": "The merger closed on January 11, 2001.[^6] For nine years AOL was a division of a media company, renamed, investigated and finally spun off with 5.0 million subscribers on December 9, 2009.[^7][^12]",
+   "whatif": "An independent AOL would still have faced the move to broadband with no wire of its own, and its stock would have fallen with the rest of the sector. It would have kept the freedom to make its own deals with cable and telephone companies, and it would have avoided the write-downs and litigation that came with the merger. It is not obvious the subscriber line would have looked different."
+  }
+ ]
+}
