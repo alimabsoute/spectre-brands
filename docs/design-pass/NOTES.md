@@ -90,3 +90,29 @@ headline with the intro beside it, then a wall of every brand's strongest real i
 - The dateline uses the latest `published` / `updated` date in the data. It does not show today's date: the
   site is not a daily, and a client-side date would pretend it is.
 - Phone: headline, then the wall as one swipeable row, then the intro and the link.
+
+## 4. Index and category pages
+
+References:
+
+- **Klaviyo products table** (Mobbin): a small image, the name, a status and dated columns on one hairline row.
+  The anatomy of a ledger row.
+- **Semrush topics table** (Mobbin): numbers set in columns with a sparkline at the end of each row. The model
+  for the key figure and trajectory columns.
+- **Perplexity history** (Mobbin) with `@shadcn/table`: dense rows separated by hairlines only, no card, a quiet
+  hover. The model for the density and the lack of chrome.
+
+Approach: a ledger. One row per brand: logo (or real image), name, years, status, main cause, key figure and a
+sparkline. Each category leads with one larger feature built on a real image, then its other brands as rows.
+Rows span the full width, so a category with two brands is two lines, not a card and a hole.
+
+- The feature in each category is the brand with the strongest real image (same rule as area 2).
+- Rows use the logo named in `card.logo` where there is one (11 brands); the rest use their lead image, and
+  Kiddie City its drawing.
+- Category pages open on that same real image beside the title, then list every brand as a row with its blurb.
+- "More post-mortems" at the foot of each brand page uses the same rows.
+- The homepage "Featured post-mortem" block now shows the brand's real image instead of its drawing.
+- The existing filters keep working unchanged: rows and features carry the same `data-*` attributes as the cards.
+- Not added: a grid/list switch (one view is enough for 17 brands) and a hover preview (each row already shows
+  the image).
+- Phone: each row becomes three short lines (logo, name and status; cause and sparkline; key figure).

@@ -12,8 +12,8 @@ import { head, masthead, pageNav, footer, scripts } from './lib/layout.mjs';
 import { overview, section, heroImages } from './lib/sections.mjs';
 import { home } from './lib/home.mjs';
 import { categoryPage, aboutPage } from './lib/pages.mjs';
-import { card, decadeOf } from './lib/cards.mjs';
-import { imageInfo, imageKind, picture, PROVIDERS, VIDEO_TYPES } from './lib/media.mjs';
+import { row, ledgerHead, decadeOf } from './lib/cards.mjs';
+import { imageInfo, imageKind, strength, picture, PROVIDERS, VIDEO_TYPES } from './lib/media.mjs';
 import { json, esc } from './lib/md.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
@@ -120,7 +120,7 @@ function renderCompany(c, all, site, V) {
   const html = head({ site, title: c.title, description: c.description, path: `/${c.slug}/`, image: og, type: 'article', ld, version: V })
     + masthead(site, all, `/${c.slug}/`) + pageNav(used, labels, c.name)
     + `<main id="main" class="company" style="--brand:${esc(c.theme.accent)};--brand-soft:${esc(c.theme.soft)}">${body}
-<section id="more" class="more" aria-labelledby="more-h"><div class="wrap"><h2 id="more-h">More post-mortems</h2><div class="index">${related.map(x => card(x, site, artOf, { compact: true })).join('\n')}</div><p class="more-all"><a href="/#index">Browse all ${all.length}<span aria-hidden="true"> →</span></a></p></div></section></main>`
+<section id="more" class="more" aria-labelledby="more-h"><div class="wrap"><h2 id="more-h">More post-mortems</h2>${ledgerHead}<div class="ledger">${related.map(x => row(x, site, img)).join('\n')}</div><p class="more-all"><a href="/#index">Browse all ${all.length}<span aria-hidden="true"> →</span></a></p></div></section></main>`
     + footer(site, all)
     + scripts(`<script type="application/json" id="bo-data">${json({ ...ctx.data, nasdaq, needs: { charts: needsCharts, map: needsMap } })}</script>\n`, V);
   write(`${c.slug}/index.html`, html);
@@ -153,8 +153,15 @@ copyDir(path.join(ROOT, 'static'), OUT);
 copyDir(path.join(ROOT, 'og'), path.join(OUT, 'og'));
 
 const artOf = (c, f) => makeCtx(c).art(f);
-// The image a brand is known by outside its own page: its lead archive image, or its drawing if it has none.
-const leadOf = (c, opts = {}) => { const x = makeCtx(c), m = heroImages(c, x); return m ? picture(x, m.lead.image, { cls: `k-${imageKind(m.lead.image, m.lead.i)}`, ...opts }) : x.art(c.hero.art); };
+// How a brand is pictured outside its own page. lead: its strongest archive image (its drawing if it has no
+// image at all). logo: the logo named in card.logo, else the lead. score: how strong the lead is.
+const leadImage = c => { const x = makeCtx(c), m = heroImages(c, x); return m && { x, ...m.lead }; };
+const img = {
+  lead: (c, opts = {}) => { const l = leadImage(c); return l ? picture(l.x, l.image, { cls: `k-${imageKind(l.image, l.i)}`, ...opts }) : makeCtx(c).art(c.hero.art); },
+  logo: c => c.card.logo ? picture(makeCtx(c), c.card.logo, { alt: '', cls: 'k-mark' }) : img.lead(c, { alt: '' }),
+  score: c => { const l = leadImage(c); return l ? strength(l) : -999; },
+  caption: c => leadImage(c)?.caption || ''
+};
 const report = companies.map(c => { const used = renderCompany(c, companies, site, V); return `${c.slug} [${c.tier}/${c.category}]: ${used.length} sections, ${c.stats.videos} videos (${c.stats.inlineVideos} inline), ${c.stats.charts} charts, ${c.stats.infographics} infographics`; });
 for (const c of companies) {
   if (c.stats.infographics < 4) warnings.push(`${c.slug}: only ${c.stats.infographics} infographic blocks (aim for 4 or more)`);
@@ -164,11 +171,11 @@ for (const c of companies) {
 const page = (rel, { title, description, body, ld = null, cls = '' }) => write(rel === '/' ? 'index.html' : `${rel.replace(/^\//, '')}index.html`,
   head({ site, title, description, path: rel, ld, version: V }) + masthead(site, companies, rel) + `<main id="main"${cls ? ` class="${cls}"` : ''}>${body}</main>` + footer(site, companies) + scripts('', V));
 
-page('/', { title: site.title, description: site.description, body: home(site, companies, artOf, leadOf), cls: 'home',
+page('/', { title: site.title, description: site.description, body: home(site, companies, img), cls: 'home',
   ld: { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Spectre Brands', url: site.url + '/', description: site.description } });
 for (const k of site.categories.filter(k => k.n)) {
   const list = companies.filter(c => c.category === k.id);
-  page(`/category/${k.id}/`, { title: `${k.label}: dead and ghost brands · Spectre Brands`, description: `${k.blurb} Sourced post-mortems of ${list.map(c => c.name).join(', ')}.`, body: categoryPage(site, k, list, artOf), cls: 'category',
+  page(`/category/${k.id}/`, { title: `${k.label}: dead and ghost brands · Spectre Brands`, description: `${k.blurb} Sourced post-mortems of ${list.map(c => c.name).join(', ')}.`, body: categoryPage(site, k, list, img), cls: 'category',
     ld: { '@context': 'https://schema.org', '@type': 'CollectionPage', name: k.label, url: `${site.url}/category/${k.id}/`, hasPart: list.map(c => ({ '@type': 'Article', headline: c.title, url: `${site.url}/${c.slug}/` })) } });
 }
 page('/about/', { title: 'About and methodology · Spectre Brands', description: 'How Spectre Brands chooses sources, what Dead and Ghost mean, the data-honesty rules every post-mortem follows, and the trademark and fair-use position.', body: aboutPage(site, companies), cls: 'about' });

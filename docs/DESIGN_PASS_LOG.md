@@ -155,3 +155,37 @@ shadcn (CLI `view`): `@shadcn/separator` (a decorative rule with an orientation;
 - The wall holds all 17 brands (16 real images and the Kiddie City drawing), read back from the built HTML.
 - The two pill buttons are gone; the hero has one text link, "Browse the index".
 - `npm run check` passed.
+
+## 4. Index and category pages
+
+### Research
+
+Mobbin (`search_screens`, web):
+
+| Query | Top hits |
+| --- | --- |
+| editorial list view of articles as rows with a small thumbnail, title, date and category | [Square categories list](https://mobbin.com/screens/1c577e29-e3e6-4266-a553-7e439448e599), [GetYourGuide article cards](https://mobbin.com/screens/a815406f-1440-461f-a7cc-125f04a034b6), [Klaviyo products table: thumbnail, name, status, dates](https://mobbin.com/screens/7021c620-ec7c-4131-ba4b-7e692499324d) |
+| dense data table with logo, name, status badge, a number column and an inline sparkline per row | [Shopify companies](https://mobbin.com/screens/7c5875cc-c53f-4721-9ea5-5380c32044fa), [Twenty companies with logos](https://mobbin.com/screens/35f5c474-ed6a-4c77-a6cb-f2e1d6b12398), [Semrush topics: number columns and a sparkline per row](https://mobbin.com/screens/c2ea4534-58e7-49c8-8405-eb3ddf3e9a4d) |
+| archive index page with a list of entries grouped under section headings | [Microsoft Copilot "Previous experiments" rows with images](https://mobbin.com/screens/c912dc52-284e-47e8-a25c-e43230d5a0ea), [Delphi knowledge list](https://mobbin.com/screens/c905dd4a-4fd3-44c6-96d6-3eb99e583245) |
+| obituary listing page with names, years and short descriptions in a list | [Cofounder transaction history](https://mobbin.com/screens/77dbe86b-4a7b-4150-9ba4-3bc1b3a58dfa), [Perplexity history: dense single-line rows, hairlines only](https://mobbin.com/screens/207e87e0-1bbe-4240-a4e1-51db64ff588c). No obituary page came back. |
+
+21st.dev (`search`, components):
+
+| Query | Top hits |
+| --- | --- |
+| editorial list | The three felipemenezes098 editorial heroes again; no list component. |
+| data table minimal | [ruixen.ui Minimisable Table](https://21st.dev/@ruixen.ui/components/minimisable-table), [ephraimduncan Data Table](https://21st.dev/@ephraimduncan/components/table-05), [preetsuthar17 Basic Data Table](https://21st.dev/@preetsuthar17/components/basic-data-table) |
+
+shadcn (CLI `view`): `@shadcn/table` (container that scrolls sideways, header row, hairline row borders, hover
+tint, caption). `@shadcn/toggle-group` and `@shadcn/hover-card` were viewed in area 1; neither a grid/list switch
+nor a hover preview was added (see NOTES).
+
+### Measured and verified
+
+- Homepage height at 375: 16,401 px before, see `after/04-index/home-375.jpg` for after. The index section alone is
+  6,240 px at 375 and 3,653 px at 1280 (from the section screenshots).
+- Index filters, probed in a browser: all 17 rows in 7 groups; "Dead" 6 rows in 5 groups; "Dead" + "Dot-com" 2 rows
+  in 1 group; adding "Debt and buyouts" 0 rows and the empty note shows.
+- All seven category pages open on a real image (read back from the built HTML: each `ph-img` holds a `<picture>`).
+- The first `npm run check` failed: the electronics page had a dead `#src-16` link, because RadioShack's image
+  caption carries a footnote. Footnotes in that caption now link to the brand page's sources. The re-run passed.
