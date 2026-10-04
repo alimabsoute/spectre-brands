@@ -114,8 +114,8 @@ shadcn (CLI `view`):
 ### Measured and verified
 
 - Lead image chosen per brand (read back from the built HTML): 16 of 17 brands now open on a real image; Kiddie City
-  has no images at all and keeps its drawing. 10 leads come from the hero's own three archive images; 5 (Blockbuster,
-  KB Toys, RadioShack, Webvan and the Circuit City gallery row) come from gallery photographs.
+  has no images at all and keeps its drawing. 12 leads come from the hero's own three archive images; 4 (Blockbuster,
+  KB Toys, RadioShack, Webvan) come from gallery photographs because none of their hero images is a photograph.
 - Hero lead width at 1280: 8 of 12 columns (about 700 px) for wide images, 5 of 12 for upright ones
   (Circuit City, Zima, Kiddie City). Before, the three archive images were about 150 px wide each.
 - Gallery rows (read back from the built HTML): every row has two or three pictures of equal height, or one picture
@@ -123,3 +123,35 @@ shadcn (CLI `view`):
 - Viewer, tested in a browser at 1280 and 375 on `/circuit-city/`: clicking the lead opened it with its caption,
   the right arrow key moved to the next image, Escape closed it. `npm run check` now tests open and Escape.
 - `npm run check` passed (27 pages, 7,454 internal references).
+
+## 3. Homepage hero
+
+### Research
+
+Mobbin (`search_screens`, web):
+
+| Query | Top hits |
+| --- | --- |
+| magazine homepage with a large lead story image, headline and a column of secondary stories | [ZARA editorial, mixed-size image wall](https://mobbin.com/screens/08deb7b1-447c-4f5c-88ce-aa31f3f3eebf), [GetYourGuide article cards](https://mobbin.com/screens/a815406f-1440-461f-a7cc-125f04a034b6), [Microsoft Copilot "Stories to explore"](https://mobbin.com/screens/6fa834b9-ef0c-4704-8964-c5a8595267ff) |
+| archive landing page showing a wall of many items as a dense image grid | [Square image library](https://mobbin.com/screens/1d2591d5-1c06-4ec5-9ae5-3d00e4117dc2), [Variant saved boards](https://mobbin.com/screens/5e77e164-07a4-4215-ac5a-53cce9dfa860) |
+| museum homepage with a featured exhibition image and a list of collection highlights | [ZARA campaign cover, type set over full-bleed photos](https://mobbin.com/screens/69b0b18a-82b5-40ed-a7da-a2b6b412922b), [GetYourGuide home, a row of image tiles with a name under each](https://mobbin.com/screens/0580ed2a-ddc5-4aa3-8dd6-d49dfc27adba) |
+| editorial index page listing articles as a dense table of contents with dates | GetYourGuide article cards again, [Mintlify docs](https://mobbin.com/screens/4120c8e3-0c29-47d9-80c1-c87d2750ce57), [Microsoft Copilot story page with a contents rail](https://mobbin.com/screens/dc66b58d-7d30-47ca-87fb-d881ff01e1f8) |
+
+Mobbin is a product-UI library; it returned no real magazine or museum front page for these queries.
+
+21st.dev (`search`, components):
+
+| Query | Top hits |
+| --- | --- |
+| editorial hero | [Editorial Hero](https://21st.dev/@felipemenezes098/components/hero-05), [Editorial Image Hero](https://21st.dev/@felipemenezes098/components/hero-07), [Editorial Collage Hero](https://21st.dev/@felipemenezes098/components/hero-04) |
+| newspaper masthead | The same three editorial heroes; nothing masthead-specific. |
+
+shadcn (CLI `view`): `@shadcn/separator` (a decorative rule with an orientation; the dateline rules follow it) and
+`@shadcn/badge` (variant pill; not used, the tier is plain text in each stone's label).
+
+### Verified
+
+- Screenshots at 1280 and 375 reviewed: `docs/design-pass/after/03-home-hero/`.
+- The wall holds all 17 brands (16 real images and the Kiddie City drawing), read back from the built HTML.
+- The two pill buttons are gone; the hero has one text link, "Browse the index".
+- `npm run check` passed.

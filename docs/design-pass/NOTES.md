@@ -66,3 +66,27 @@ and every row is full. Logos and other small marks sit below at their own size i
 - **Gap: the source images are small.** Most are 640 to 1,000 px wide, so nothing is run full-bleed: a row never
   enlarges a picture by more than 30%, and Pets.com's gallery (a 640 px capture and a 320 px ad still) stays small.
 - No mobile carousel: the rows wrap to one or two pictures per line, which keeps every label readable.
+
+## 3. Homepage hero
+
+References:
+
+- **ZARA editorial wall** (Mobbin): pictures do the talking, type stays small and plain. The model for leading
+  with artefacts instead of a headline-plus-buttons block.
+- **GetYourGuide home** (Mobbin): one row of image tiles with only a name under each. The model for the stone
+  and its two-line label.
+- **Editorial Image Hero** (21st.dev): headline and copy share a row, the image carries the section, calls to
+  action are secondary. Used for the headline/intro split, without its buttons.
+
+Approach: a dated front page. A dateline (the counts and the date of the last update, both from the data), the
+headline with the intro beside it, then a wall of every brand's strongest real image cropped as a headstone.
+
+- The stones reuse the lead image chosen in area 2, so the wall and each brand page agree.
+- Images are greyscale until hovered or focused, which makes 17 unrelated photographs and screenshots read as
+  one wall. Ghost brands are faded and have a dashed outline; dead brands are solid. The label also says which.
+- The featured brand (`site.json` "featured") gets a stone four times the size. With 17 brands the 7-column
+  wall has one empty plot at the end; that changes as brands are added.
+- The old stones drifted up and down and flipped on hover. Both are gone (float animation is on the banned list).
+- The dateline uses the latest `published` / `updated` date in the data. It does not show today's date: the
+  site is not a daily, and a client-side date would pretend it is.
+- Phone: headline, then the wall as one swipeable row, then the intro and the link.

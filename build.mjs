@@ -9,11 +9,11 @@ import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { SECTIONS, ORDER, TIERS } from './lib/registry.mjs';
 import { head, masthead, pageNav, footer, scripts } from './lib/layout.mjs';
-import { overview, section } from './lib/sections.mjs';
+import { overview, section, heroImages } from './lib/sections.mjs';
 import { home } from './lib/home.mjs';
 import { categoryPage, aboutPage } from './lib/pages.mjs';
 import { card, decadeOf } from './lib/cards.mjs';
-import { imageInfo, PROVIDERS, VIDEO_TYPES } from './lib/media.mjs';
+import { imageInfo, imageKind, picture, PROVIDERS, VIDEO_TYPES } from './lib/media.mjs';
 import { json, esc } from './lib/md.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
@@ -153,6 +153,8 @@ copyDir(path.join(ROOT, 'static'), OUT);
 copyDir(path.join(ROOT, 'og'), path.join(OUT, 'og'));
 
 const artOf = (c, f) => makeCtx(c).art(f);
+// The image a brand is known by outside its own page: its lead archive image, or its drawing if it has none.
+const leadOf = (c, opts = {}) => { const x = makeCtx(c), m = heroImages(c, x); return m ? picture(x, m.lead.image, { cls: `k-${imageKind(m.lead.image, m.lead.i)}`, ...opts }) : x.art(c.hero.art); };
 const report = companies.map(c => { const used = renderCompany(c, companies, site, V); return `${c.slug} [${c.tier}/${c.category}]: ${used.length} sections, ${c.stats.videos} videos (${c.stats.inlineVideos} inline), ${c.stats.charts} charts, ${c.stats.infographics} infographics`; });
 for (const c of companies) {
   if (c.stats.infographics < 4) warnings.push(`${c.slug}: only ${c.stats.infographics} infographic blocks (aim for 4 or more)`);
@@ -162,7 +164,7 @@ for (const c of companies) {
 const page = (rel, { title, description, body, ld = null, cls = '' }) => write(rel === '/' ? 'index.html' : `${rel.replace(/^\//, '')}index.html`,
   head({ site, title, description, path: rel, ld, version: V }) + masthead(site, companies, rel) + `<main id="main"${cls ? ` class="${cls}"` : ''}>${body}</main>` + footer(site, companies) + scripts('', V));
 
-page('/', { title: site.title, description: site.description, body: home(site, companies, artOf), cls: 'home',
+page('/', { title: site.title, description: site.description, body: home(site, companies, artOf, leadOf), cls: 'home',
   ld: { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Spectre Brands', url: site.url + '/', description: site.description } });
 for (const k of site.categories.filter(k => k.n)) {
   const list = companies.filter(c => c.category === k.id);
