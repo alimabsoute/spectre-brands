@@ -1,0 +1,303 @@
+{
+ "kicker": "The money",
+ "label": "The numbers",
+ "title": "Sixteen years of filings: the stores, the losses and the debt",
+ "lede": "Blockbuster’s revenue peaked at $6.05B in 2004. Its profits had peaked long before. The company reported a net loss in thirteen of the fourteen years from 1997 to 2010.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "The rise and fall, in stores",
+   "subtitle": "Company-operated and franchised stores worldwide at each year end.",
+   "labels": [
+    "1995",
+    "1996",
+    "1997",
+    "1998",
+    "1999",
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010"
+   ],
+   "format": "num",
+   "xLabel": "Year end",
+   "series": [
+    {
+     "label": "Stores worldwide",
+     "data": [
+      4513,
+      5317,
+      6049,
+      6381,
+      7153,
+      7677,
+      7981,
+      8545,
+      8867,
+      9094,
+      9042,
+      8360,
+      7830,
+      7405,
+      6520,
+      5335
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 4,
+     "title": "1999: the IPO",
+     "text": "Viacom sells 31 million shares at $15. The chain has 7,153 stores and late fees are 15.5% of revenue.[^1][^2]"
+    },
+    {
+     "i": 9,
+     "title": "2004: the peak",
+     "text": "9,094 stores. The same year brings the split from Viacom, $1.45B of new financing and the launch of Blockbuster Online.[^5][^6]"
+    },
+    {
+     "i": 11,
+     "title": "2006: the retreat begins",
+     "text": "The count falls by 682 in a year, to 8,360 (difference derived).[^6][^8]"
+    },
+    {
+     "i": 15,
+     "title": "2010: Chapter 11",
+     "text": "5,335 stores at the first year end in bankruptcy, 41% below the peak (derived).[^10]"
+    }
+   ],
+   "source": "Year-end store counts from the selected financial data in Blockbuster’s 10-Ks: 1995–1999[^2], 2000[^3], 2001–2005[^6], 2006–2007[^8], 2008–2009[^9], 2010[^10]. The fiscal year ended in early January from 2007 onward."
+  },
+  {
+   "kind": "counters",
+   "title": "The balance sheet at the split",
+   "items": [
+    {
+     "value": "$75.1M",
+     "text": "long-term debt on December 31, 2003, while still controlled by Viacom[^6]"
+    },
+    {
+     "value": "$1,119.7M",
+     "text": "long-term debt on December 31, 2004, after the split-off financing[^6]"
+    },
+    {
+     "value": "$905.6M",
+     "text": "paid out as a $5.00 a share special distribution on September 3, 2004[^5]"
+    },
+    {
+     "value": "$631.6M",
+     "text": "stockholders’ equity at the end of 2005, down from $3,188.4M two years earlier[^6]"
+    }
+   ],
+   "source": "Blockbuster 10-Ks for FY2004 and FY2005.[^5][^6]"
+  },
+  {
+   "kind": "chart",
+   "id": "revChart",
+   "title": "Revenue and net income, 1995–2010",
+   "subtitle": "$ millions. Bars are revenue; the line is net income or loss.",
+   "chart": {
+    "type": "bar",
+    "labels": [
+     "1995",
+     "1996",
+     "1997",
+     "1998",
+     "1999",
+     "2000",
+     "2001",
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "type": "line",
+      "label": "Net income (loss)",
+      "data": [
+       142.9,
+       77.8,
+       -318.2,
+       -336.6,
+       -69.2,
+       -75.9,
+       -238.8,
+       -1621.1,
+       -978.7,
+       -1248.8,
+       -588.1,
+       50.5,
+       -73.8,
+       -374.1,
+       -558.2,
+       -268.0
+      ],
+      "color": "red"
+     },
+     {
+      "label": "Revenue",
+      "data": [
+       2403.3,
+       2942.1,
+       3313.6,
+       3893.4,
+       4463.5,
+       4960.1,
+       5156.7,
+       5565.9,
+       5911.7,
+       6053.2,
+       5864.4,
+       5337.6,
+       5314.0,
+       5065.4,
+       4062.4,
+       3240.7
+      ],
+      "color": "brand"
+     }
+    ]
+   },
+   "source": "Selected financial data in the 10-Ks: 1995–1999[^2], 2000[^3], 2001–2005[^6], 2006–2009[^9], 2010[^10]. Revenue for 2006–2009 is on the restated basis of the FY2009 10-K, which excludes discontinued operations; see the data notes. The large losses of 2002–2004 are mostly non-cash: a $1,817.0M charge for a change in accounting principle in 2002, and impairments of goodwill and other long-lived assets of $1,304.9M in 2003 and $1,504.4M in 2004.[^6]"
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "chart",
+     "id": "debtChart",
+     "title": "Long-term debt at year end",
+     "subtitle": "$ millions.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "1998",
+       "1999",
+       "2000",
+       "2001",
+       "2002",
+       "2003",
+       "2004",
+       "2005"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Long-term debt",
+        "data": [
+         1715.2,
+         1138.4,
+         1136.5,
+         546.4,
+         408.7,
+         75.1,
+         1119.7,
+         1121.6
+        ],
+        "colors": [
+         "grey",
+         "grey",
+         "grey",
+         "grey",
+         "grey",
+         "grey",
+         "red",
+         "red"
+        ]
+       }
+      ]
+     },
+     "source": "FY1999, FY2000 and FY2005 10-Ks.[^2][^3][^6] Figures to 2000 exclude the current portion; from 2001 they include capital leases."
+    },
+    {
+     "kind": "scale",
+     "title": "The parting distribution, in Netflixes",
+     "left": {
+      "value": "$905.6M",
+      "label": "special distribution, September 2004"
+     },
+     "unit": {
+      "value": "$50M",
+      "label": "Netflix’s asking price in 2000, by Marc Randolph’s account"
+     },
+     "count": 18,
+     "icon": "coin",
+     "equation": "$905.6M ÷ $50M = 18.1, shown as 18 coins. The distribution is from the FY2004 10-K[^5]; the $50M is Randolph’s recollection[^18].",
+     "source": "FY2004 10-K[^5]; Vanity Fair excerpt of Marc Randolph’s book[^18]."
+    }
+   ]
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "What late fees were worth",
+   "rows": [
+    {
+     "value": "$692.6M",
+     "text": "extended viewing fees in 1999, up $108.7M on 1998[^2]"
+    },
+    {
+     "value": "15.5%",
+     "text": "of 1999 revenue, up from 15.0% in 1998 and 12.2% in 1997[^2]"
+    },
+    {
+     "value": "$250–300M",
+     "text": "operating income the company projected late fees would have contributed in 2005 (company estimate)[^5]"
+    },
+    {
+     "value": "$1.25",
+     "text": "restocking fee if an item was returned within 30 days of being sold to the customer under “no late fees”[^5]"
+    }
+   ],
+   "source": "FY1999 and FY2004 10-Ks.[^2][^5] The often-quoted $800M for 2000 is unverified; see the data notes."
+  },
+  {
+   "kind": "bars",
+   "title": "Three ways to rent a film, 2010",
+   "subtitle": "Revenue in the year Blockbuster filed for bankruptcy, $ millions.",
+   "format": "usdM",
+   "itemLabel": "Company",
+   "valueLabel": "2010 revenue",
+   "items": [
+    {
+     "label": "Blockbuster (stores, mail, kiosks, digital)",
+     "value": 3240.7,
+     "self": true,
+     "note": "Down from $6,053.2M in 2004.[^10][^6]"
+    },
+    {
+     "label": "Netflix (mail and streaming)",
+     "value": 2162.6,
+     "color": "green",
+     "note": "Up from $500.6M in 2004.[^22][^21]"
+    },
+    {
+     "label": "Redbox (kiosks)",
+     "value": 1160.1,
+     "color": "red",
+     "note": "Coinstar’s DVD Services segment, up from $388.5M in 2008.[^24]"
+    }
+   ],
+   "source": "Blockbuster FY2010 10-K[^10], Netflix FY2010 10-K[^22], Coinstar FY2010 10-K[^24]."
+  }
+ ]
+}

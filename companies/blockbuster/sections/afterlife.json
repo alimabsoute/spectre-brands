@@ -1,0 +1,91 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Still open",
+   "color": "var(--green)",
+   "title": "The Bend store",
+   "text": "A franchise at 211 NE Revere Avenue in Bend, Oregon, owned by Ken and Debbie Tisher and managed by Sandi Harding. It opened in 1992 as Pacific Video, became a Blockbuster in 2000, and has been the only one in the world since 2019.[^29][^30] Its website was live on October 3, 2026, with current releases and merchandise.[^31]"
+  },
+  {
+   "status": "Shelved",
+   "color": "var(--gold)",
+   "title": "The brand",
+   "text": "Dish Network bought it with the rest of the assets in 2011 and used it for a streaming package, Blockbuster@Home.[^13][^28] Dish became part of EchoStar on December 31, 2023.[^36] On October 3, 2026 blockbuster.com showed the logo, the line “We are working on rewinding your movie” and a link to Sling TV.[^32]"
+  },
+  {
+   "status": "Closed",
+   "color": "var(--red)",
+   "title": "The corporate stores",
+   "text": "About 300 were left when Dish announced the end on November 6, 2013. They were to close by early January 2014, with about 2,800 jobs lost.[^27] The Mexican business was sold on January 14, 2014.[^28]"
+  },
+  {
+   "status": "Wiped out",
+   "color": "var(--mute)",
+   "title": "The shareholders",
+   "text": "The company said it expected no proceeds from the sale to be available to preferred or common stockholders and that all classes of stock would be cancelled.[^13]"
+  },
+  {
+   "status": "Dismissed",
+   "color": "var(--mute)",
+   "title": "The management",
+   "text": "James Keyes and three other senior executives were terminated on April 26, 2011, the day the sale closed.[^13] John Antioco wrote in 2011 that he now invests in retail franchise concepts.[^19]"
+  },
+  {
+   "status": "Vindicated",
+   "color": "var(--blue)",
+   "title": "The rival it did not buy",
+   "text": "Netflix reported revenue of $45.18B for 2025.[^23]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the name",
+   "subtitle": "From a founder in Dallas to a satellite television company, by way of a bankruptcy court.",
+   "nodes": [
+    {
+     "when": "1985",
+     "owner": "David Cook",
+     "what": "Opens the first store in Dallas.[^20]"
+    },
+    {
+     "when": "1987",
+     "owner": "Wayne Huizenga and partners",
+     "what": "Buy into the business and take control within the year.[^20]"
+    },
+    {
+     "when": "1994",
+     "owner": "Viacom",
+     "what": "Merger announced January 7, completed September 29.[^14][^1]",
+     "price": "$8.4B"
+    },
+    {
+     "when": "1999 – 2004",
+     "owner": "Public shareholders",
+     "what": "IPO in August 1999; full independence after the split-off in October 2004.[^1][^5]"
+    },
+    {
+     "when": "Sep 2010",
+     "owner": "Chapter 11",
+     "what": "Blockbuster Inc. files in New York with nearly $1 billion of debt.[^11]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Apr 2011",
+     "owner": "Dish Network",
+     "what": "Buys substantially all of the assets at auction.[^13]",
+     "price": "$320.6M"
+    },
+    {
+     "when": "Today",
+     "owner": "Dish Network (EchoStar)",
+     "what": "Holds the brand. One franchised store in Bend, Oregon trades under it.[^36][^31][^32]",
+     "status": "current"
+    }
+   ],
+   "source": "SEC filings and press as cited. The price paid by Huizenga’s group is not stated because we did not find it in a primary source."
+  }
+ ]
+}

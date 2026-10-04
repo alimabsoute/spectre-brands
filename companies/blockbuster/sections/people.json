@@ -1,0 +1,49 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it",
+ "lede": "Roles and dates are from filings and the cited accounts. Later careers are included only where we found a source.",
+ "people": [
+  {
+   "name": "David Cook",
+   "role": "Founder, 1985 – 1987",
+   "text": "Came from a software business serving the Texas oil industry. Opened the first store in Dallas with some 8,000 tapes and a computerised checkout, and left in 1987 after selling part of the company.[^20]"
+  },
+  {
+   "name": "Wayne Huizenga",
+   "role": "Investor and leader, 1987 – 1994",
+   "text": "A founder of Waste Management. His group bought in during 1987, he took control and moved the headquarters to Fort Lauderdale, and the chain grew by acquisition and new openings until the Viacom merger.[^20]"
+  },
+  {
+   "name": "John F. Antioco",
+   "role": "Chief executive, 1997 – 2007",
+   "text": "Took the company public in 1999, ended late fees and launched Blockbuster Online and Total Access. Lost his board seat to Carl Icahn’s slate in May 2005 and was reappointed chairman two days later.[^15][^19][^7]",
+   "later": "Wrote in 2011 that he invests in retail franchise concepts.[^19]"
+  },
+  {
+   "name": "Carl C. Icahn",
+   "role": "Director from May 2005",
+   "text": "By Antioco’s account he had bought nearly 10 million shares by early 2005. He won election with Edward Bleier and Strauss Zelnick at the annual meeting on May 11, 2005.[^19][^15]"
+  },
+  {
+   "name": "James W. Keyes",
+   "role": "Chairman and chief executive, 2007 – 2011",
+   "text": "Former president and chief executive of 7-Eleven, appointed on July 2, 2007 at age 52. He led the company into Chapter 11 and was terminated when the sale to Dish closed on April 26, 2011.[^16][^11][^13]"
+  },
+  {
+   "name": "Edward B. Stead",
+   "role": "General counsel",
+   "text": "Spoke for the company at the 2005 annual meeting.[^15] In Marc Randolph’s account he is the executive who asked Netflix to name its price in 2000.[^18]"
+  },
+  {
+   "name": "Reed Hastings and Marc Randolph",
+   "role": "Netflix co-founders",
+   "text": "By Randolph’s account they offered Netflix to Blockbuster for $50M in September 2000.[^18]",
+   "later": "Netflix reported $45.18B of revenue for 2025.[^23]"
+  },
+  {
+   "name": "Sandi Harding",
+   "role": "General manager, Bend store",
+   "text": "Runs the last store for its owners, Ken and Debbie Tisher, and is the central figure of The Last Blockbuster.[^30]"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Friday night, as advertised",
+ "lede": "Two decades of television: the slogan from the 1990s, the pet shop animals, the end of late fees, the answer to Netflix, and three news reports on the way down.",
+ "videos": [
+  {
+   "id": "night1994",
+   "title": "“Make it a Blockbuster Night”",
+   "year": 1994,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "McUmL8HidSA",
+   "caption": "A thirty-second spot with the slogan the chain used through the 1990s. The uploader says it was recorded in 1994; we have no other date for it."
+  },
+  {
+   "id": "carlray",
+   "title": "Carl and Ray: seven spots",
+   "year": 2002,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "gpiunE_x6Rc",
+   "caption": "Seven spots from the Carl and Ray campaign. According to the uploader it ran through 2002 and 2003, with the voices of Jim Belushi and James Woods."
+  },
+  {
+   "id": "nolatefees",
+   "title": "“No more late fees”",
+   "year": 2005,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "h9VAqC65_Tw",
+   "caption": "The campaign for the policy that took effect on January 1, 2005. The company had projected that late fees would have been worth $250M to $300M of operating income that year.[^5] Year as given by the uploader."
+  },
+  {
+   "id": "totalaccess",
+   "title": "Blockbuster Total Access",
+   "year": 2007,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "X0WBEnr8l9E",
+   "caption": "A spot for the service launched on November 1, 2006, which let online subscribers exchange mailed discs in a store.[^7] Uploaded in February 2008; the airing year is our reading of the upload date and the campaign."
+  },
+  {
+   "id": "ap2009",
+   "title": "Associated Press: “Blockbuster May Close Over 900 US Stores”",
+   "year": 2009,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "m3txyPqnbcw",
+   "caption": "A wire report published on September 16, 2009, a year before the bankruptcy filing. The company closed 374 U.S. stores in 2009.[^9]"
+  },
+  {
+   "id": "wsj2013",
+   "title": "The Wall Street Journal: “Blockbuster Closes Remaining Stores, End of an Era”",
+   "year": 2013,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "vWz0CrS75Ww",
+   "caption": "Published on November 6, 2013, the day Dish Network announced it would close the last 300 or so company-owned stores.[^27]"
+  },
+  {
+   "id": "cbsbend",
+   "title": "CBS Mornings: “Visiting America’s last Blockbuster store”",
+   "year": 2018,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "QAdRzpcdCbs",
+   "caption": "Published on July 17, 2018, as the two Alaska stores prepared to close and the Bend franchise became the last in the country.[^30]"
+  }
+ ],
+ "note": "Videos are embedded from YouTube and load only when you press play. Airing years for the commercials come from the uploaders unless stated."
+}

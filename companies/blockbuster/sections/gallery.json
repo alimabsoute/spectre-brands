@@ -1,0 +1,100 @@
+{
+ "kicker": "Brand gallery",
+ "label": "Brand gallery",
+ "title": "Blue, yellow and a torn ticket",
+ "lede": "The identity barely changed in twenty-five years: yellow block capitals on a blue ticket stub with a ragged edge. Here it is on a membership card, on the stores and on the website, with our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/logo-2014.avif",
+   "date": "Jan 2014",
+   "caption": "The logo as it appeared on blockbuster.com.",
+   "alt": "Blockbuster torn-ticket logo in blue and yellow",
+   "credit": "Cropped from an Internet Archive capture of blockbuster.com. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/membership-card.avif",
+   "date": "Undated",
+   "caption": "A Blockbuster Video membership card.",
+   "alt": "Blockbuster Video membership card",
+   "credit": "Image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blockbuster_membership_card.jpg), marked public domain there (simple text logo). The mark remains a trademark."
+  },
+  {
+   "image": "img/closing-2013-miami.avif",
+   "date": "Nov 2013",
+   "caption": "A store in Miami Beach during its closing sale.",
+   "alt": "Blockbuster Video store with a Store Closing banner",
+   "credit": "Photo: Phillip Pessar, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blockbuster_Video_store_Closing,_Miami_Beach_Florida,_November_2013.jpg), CC BY 2.0."
+  },
+  {
+   "image": "img/store-bend.avif",
+   "date": "Undated",
+   "caption": "The last store, in Bend, Oregon.",
+   "alt": "The last Blockbuster storefront in Bend, Oregon",
+   "credit": "Photo: UpdateNerd, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Last_Blockbuster_storefront.jpg), CC0."
+  },
+  {
+   "image": "img/interior-bend.avif",
+   "date": "Undated",
+   "caption": "Inside the Bend store: the aisles, the carpet and the new-release wall.",
+   "alt": "Interior of the last Blockbuster with shelves of DVDs",
+   "credit": "Photo: Coasterlover1994, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Interior_of_last_Blockbuster_Video.jpg), CC BY-SA 4.0."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The store.",
+   "caption": "A strip-mall video store at night. Original illustration, not an official asset."
+  },
+  {
+   "art": "art/vhs-tape.svg",
+   "title": "The product.",
+   "caption": "A rental cassette with a reminder to rewind. Before 1998 a major release cost the chain $60 to $70 a copy.[^1] Original illustration."
+  },
+  {
+   "art": "art/return-box.svg",
+   "title": "The profit.",
+   "caption": "The after-hours return box, and the receipt for bringing it back late. Extended viewing fees were $692.6M in 1999.[^2] Original illustration."
+  },
+  {
+   "art": "art/dvd-mailer.svg",
+   "title": "The replacement.",
+   "caption": "A disc in an envelope. Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#1b3f94",
+   "label": "Ticket blue (approx.)"
+  },
+  {
+   "hex": "#f2b51d",
+   "label": "Lettering yellow (approx.)"
+  },
+  {
+   "hex": "#1d1b18",
+   "label": "Outline"
+  }
+ ],
+ "disclaimer": "Colours are approximations sampled from archived captures and photographs[^33]. Blockbuster and the torn-ticket design are trademarks of their owner and appear here in historical and editorial context. Drawings are original illustrations and do not reproduce the logo.",
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, thirteen years apart",
+   "ratio": "10/9",
+   "before": {
+    "label": "October 2000",
+    "image": "img/archive-2000-10-home.avif",
+    "caption": "Selling Toy Story 2 on VHS and DVD, with online rental on trial in two cities.[^33]",
+    "alt": "blockbuster.com home page, October 2000"
+   },
+   "after": {
+    "label": "January 2014",
+    "image": "img/archive-2014-01-closing.avif",
+    "caption": "The store closing sale under Dish Network, four days from the end.[^33]",
+    "alt": "blockbuster.com home page, January 2014, with a store closing sale banner"
+   },
+   "source": "Internet Archive Wayback Machine captures of blockbuster.com.[^33]"
+  }
+ ]
+}

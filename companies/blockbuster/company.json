@@ -1,0 +1,123 @@
+{
+ "name": "Blockbuster",
+ "number": "014",
+ "tier": "ghost",
+ "tierWhy": "Blockbuster Inc. sold its assets out of Chapter 11 in 2011 and the last corporate stores closed by January 2014, but one franchised store in Bend, Oregon still rents films under the name, and blockbuster.com still shows the logo over a holding page.[^13][^27][^29][^31][^32]",
+ "category": "film",
+ "cause": "disruption",
+ "years": "1985 – 2010",
+ "died": 2010,
+ "dates": [
+  {
+   "date": "1985-10-19",
+   "text": "opened its first video rental store, in Dallas"
+  },
+  {
+   "date": "2010-09-23",
+   "text": "filed for Chapter 11 bankruptcy protection in New York"
+  },
+  {
+   "date": "2011-04-26",
+   "text": "completed the sale of its assets to Dish Network for $320.6 million"
+  },
+  {
+   "date": "2013-11-06",
+   "text": "learned that Dish Network would close its last 300 company-owned U.S. stores"
+  }
+ ],
+ "place": "Video rental stores · Dallas, Texas",
+ "title": "Blockbuster (1985–2010): post-mortem · Spectre Brands",
+ "description": "From 9,094 stores to one: a sourced post-mortem of Blockbuster Video, built from its SEC filings, with the store count, the debt, the late fees, the rivals, old commercials and archived screenshots.",
+ "theme": {
+  "accent": "#1b3f94",
+  "soft": "#e9effb"
+ },
+ "card": {
+  "blurb": "The biggest name in home video had 9,094 stores in 2004, a billion dollars of new debt and a rival it had declined to buy. One franchised store in Oregon still rents films under the sign.",
+  "stat": {
+   "value": "1 store",
+   "label": "left, of 9,094 at the 2004 peak"
+  },
+  "spark": [
+   4513,
+   6049,
+   7153,
+   7981,
+   8867,
+   9094,
+   8360,
+   7405,
+   6520,
+   5335
+  ],
+  "peak": 5,
+  "logo": "img/logo-2014.avif",
+  "logoYear": "2014"
+ },
+ "hero": {
+  "dates": "First store opened Oct 19, 1985. Filed for Chapter 11 on Sep 23, 2010.",
+  "standfirst": "It had a store within a short drive of most American homes. Then the drive stopped being necessary.",
+  "deck": "Blockbuster ended 2004 with 9,094 stores in 25 countries and just over $6 billion in revenue. That same year it borrowed heavily to pay a parting distribution as it left its parent, Viacom, and prepared to give up the late fees that had carried its profits. Six years later it filed for bankruptcy. This is the full post-mortem, built from the company’s own SEC filings, contemporary press and the archived website.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a strip-mall video store in the spirit of the chain. Not an official asset and not the trademarked logo.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/archive-1997-11-home.avif",
+    "caption": "blockbuster.com, Nov 1997"
+   },
+   {
+    "image": "img/logo-2014.avif",
+    "caption": "The torn-ticket logo"
+   },
+   {
+    "image": "img/archive-2014-01-closing.avif",
+    "caption": "Store closing sale, Jan 2014"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "9,094",
+    "text": "stores worldwide at the end of 2004, the peak[^6]"
+   },
+   {
+    "value": "$905.6M",
+    "text": "special distribution paid to shareholders in September 2004, funded by new borrowing, just before the split from Viacom[^5]"
+   },
+   {
+    "value": "$320.6M",
+    "text": "paid by Dish Network for substantially all of the assets in April 2011[^13]"
+   },
+   {
+    "value": "1",
+    "text": "store still trading under the name, a franchise in Bend, Oregon[^29][^31]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The stores did not empty overnight.",
+   "text": "Revenue was still $5.07B in 2008, four years after the peak. What collapsed first was profit: the company reported a net loss in every year from 1997 to 2010 except 2006.[^2][^6][^9][^10]"
+  },
+  {
+   "title": "It left Viacom carrying debt.",
+   "text": "Long-term debt went from $75.1M at the end of 2003 to $1,119.7M a year later, after a $1.15B credit facility and $300M of notes paid for a $5.00 a share distribution on the way out.[^5][^6]"
+  },
+  {
+   "title": "Late fees were a pillar, and it knocked the pillar out.",
+   "text": "Extended viewing fees were $692.6M in 1999, or 15.5% of revenue. Ending them in 2005 was expected to cost $250M to $300M of operating income a year.[^2][^5]"
+  },
+  {
+   "title": "It had a credible answer to Netflix, late.",
+   "text": "Blockbuster Online launched in August 2004 and reached about 2.2 million subscribers by the end of 2006. Netflix had 6.3 million by then.[^5][^7][^21]"
+  },
+  {
+   "title": "The name outlived everything else.",
+   "text": "Dish closed the corporate stores by January 2014. Franchisees carried on, and since 2019 the Bend store has been the only one in the world.[^27][^29][^30]"
+  }
+ ],
+ "published": "2026-10-03"
+}

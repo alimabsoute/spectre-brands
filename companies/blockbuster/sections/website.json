@@ -1,0 +1,75 @@
+{
+ "kicker": "The old website",
+ "title": "What customers actually saw",
+ "lede": "These are screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. Captures from 2005 and 2007–2010 were maintenance pages or rendered without their images or Flash, so they are not shown.[^33]",
+ "snips": [
+  {
+   "text": "**MUSIC** · **VIDEO** · **GAMES** · **BOOKS** · **BOX OFFICE** … “New: The Lost World” · “Coming Soon: Con-Air”",
+   "when": "Home page · Nov 10, 1997[^33]"
+  },
+  {
+   "text": "“Theaters are crowded, the floors are sticky, and those rude people keep talking! Enjoy all the hottest films in your own living room with BLOCKBUSTER® and DIRECTV®”",
+   "when": "Home page · Oct 17, 2000[^33]"
+  },
+  {
+   "text": "“Online Rental is currently available in Austin, TX and Denver, CO.”",
+   "when": "Home page · Oct 17, 2000[^33]"
+  },
+  {
+   "text": "“No Late Fees · More Than 55,000 Titles · Free Shipping Both Ways · Each Month You’ll Get Up to 4 FREE In-Store Rentals” · “As low as $9.99/mo.”",
+   "when": "Blockbuster Online · Jun 14, 2006[^33]"
+  },
+  {
+   "text": "“FINAL 4 DAYS! Save up to 90%. In store only! Store closing sale. All must go!” · “Previously viewed DVDs & Blu-rays 99¢ (Ends 1/12/14)”",
+   "when": "Home page · Jan 9, 2014[^33]"
+  }
+ ],
+ "note": "Screenshots of Internet Archive captures, cropped to the page. The 1997 page credits “Blockbuster Technology - Online Group and Viacom Interactive Services.”",
+ "captures": [
+  {
+   "date": "Nov 1997",
+   "label": "A 3D lobby",
+   "url": "http://www.blockbuster.com/",
+   "wayback": "https://web.archive.org/web/19971110005804/http://www.blockbuster.com/",
+   "image": "img/archive-1997-11-home.avif",
+   "h": 480,
+   "captured": "Nov 10, 1997",
+   "title": "A rendered lobby",
+   "text": "The earliest capture with images: an image map of a store lobby with doors marked video, music, books, games and news, and a link to a store locator. Nothing is for rent online."
+  },
+  {
+   "date": "Oct 2000",
+   "label": "A shop, and a test",
+   "url": "http://www.blockbuster.com/",
+   "wayback": "https://web.archive.org/web/20001017141409/http://www.blockbuster.com/",
+   "image": "img/archive-2000-10-home.avif",
+   "h": 480,
+   "captured": "Oct 17, 2000",
+   "title": "Selling tapes, testing rental",
+   "text": "A month after the meeting Marc Randolph describes, the site sells Toy Story 2 on VHS and DVD and promotes DIRECTV. Online rental is offered in two cities. Some images were not archived.",
+   "warn": "Some images are missing from the capture."
+  },
+  {
+   "date": "Jun 2006",
+   "label": "Blockbuster Online",
+   "url": "http://www.blockbuster.com/homepages/LoadBlockbusterHomepage.action",
+   "wayback": "https://web.archive.org/web/20060614233448/http://www.blockbuster.com/homepages/LoadBlockbusterHomepage.action",
+   "image": "img/archive-2006-06-online.avif",
+   "h": 420,
+   "captured": "Jun 14, 2006",
+   "title": "The answer to Netflix",
+   "text": "The home page is now a sign-up page for DVDs by mail from $9.99 a month, with “No Late Fees” as the first bullet and free in-store rentals as the last."
+  },
+  {
+   "date": "Jan 2014",
+   "label": "Store closing sale",
+   "url": "http://www.blockbuster.com/",
+   "wayback": "https://web.archive.org/web/20140109220134/http://www.blockbuster.com/",
+   "image": "img/archive-2014-01-closing.avif",
+   "h": 480,
+   "captured": "Jan 9, 2014",
+   "title": "Final four days",
+   "text": "Under Dish Network: a closing sale ending January 12, 2014 on the left, an offer for Dish television with Blockbuster@Home on the right."
+  }
+ ]
+}

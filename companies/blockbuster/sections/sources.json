@@ -1,0 +1,185 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Primary sources first. SEC filings link to the original text on EDGAR (Blockbuster Inc., CIK 1085734).",
+ "list": [
+  {
+   "id": 1,
+   "text": "Blockbuster Inc. — [Final Prospectus (424B4)](https://www.sec.gov/Archives/edgar/data/1085734/0001047469-99-030831.txt), Aug 11, 1999."
+  },
+  {
+   "id": 2,
+   "text": "Blockbuster Inc. — [Form 10-K405, FY1999](https://www.sec.gov/Archives/edgar/data/1085734/0000930661-00-000673.txt), filed Mar 24, 2000."
+  },
+  {
+   "id": 3,
+   "text": "Blockbuster Inc. — [Form 10-K405, FY2000](https://www.sec.gov/Archives/edgar/data/1085734/000093066101000794/0000930661-01-000794.txt), filed Mar 29, 2001."
+  },
+  {
+   "id": 4,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2003](https://www.sec.gov/Archives/edgar/data/1085734/000119312504041361/d10k.htm), filed Mar 15, 2004."
+  },
+  {
+   "id": 5,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2004](https://www.sec.gov/Archives/edgar/data/1085734/000119312505063510/d10k.htm), filed Mar 29, 2005."
+  },
+  {
+   "id": 6,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2005](https://www.sec.gov/Archives/edgar/data/1085734/000119312506055023/d10k.htm), filed Mar 15, 2006."
+  },
+  {
+   "id": 7,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2006](https://www.sec.gov/Archives/edgar/data/1085734/000119312507044360/d10k.htm), filed Mar 1, 2007."
+  },
+  {
+   "id": 8,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2007](https://www.sec.gov/Archives/edgar/data/1085734/000119312508048757/d10k.htm), filed Mar 6, 2008."
+  },
+  {
+   "id": 9,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2009](https://www.sec.gov/Archives/edgar/data/1085734/000119312510058339/d10k.htm), filed Mar 16, 2010."
+  },
+  {
+   "id": 10,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2010](https://www.sec.gov/Archives/edgar/data/1085734/000119312511186981/d10k.htm), filed Jul 13, 2011."
+  },
+  {
+   "id": 11,
+   "text": "Blockbuster Inc. — [Form 8-K, Chapter 11 filing](https://www.sec.gov/Archives/edgar/data/1085734/000119312510215765/d8k.htm) and [press release (Ex. 99.1)](https://www.sec.gov/Archives/edgar/data/1085734/000119312510215765/dex991.htm), Sep 23, 2010."
+  },
+  {
+   "id": 12,
+   "text": "Blockbuster Inc. — [Form 8-K, auction result and DISH agreement](https://www.sec.gov/Archives/edgar/data/1085734/000119312511095325/d8k.htm), filed Apr 12, 2011."
+  },
+  {
+   "id": 13,
+   "text": "Blockbuster Inc. — [Form 8-K, completion of the sale to DISH](https://www.sec.gov/Archives/edgar/data/1085734/000119312511132032/d8k.htm), filed May 9, 2011."
+  },
+  {
+   "id": 14,
+   "text": "Viacom Inc. — [Form 8-K with the joint press release “Blockbuster and Viacom Announce $8.4 Billion Merger”](https://www.sec.gov/Archives/edgar/data/813828/0000950112-94-000048.txt), Jan 7, 1994."
+  },
+  {
+   "id": 15,
+   "text": "Blockbuster Inc. — [Press release, “Blockbuster Confirms Preliminary Results of Board Election” (8-K Ex. 99.1)](https://www.sec.gov/Archives/edgar/data/1085734/000119312505104216/dex991.htm), May 11, 2005."
+  },
+  {
+   "id": 16,
+   "text": "Blockbuster Inc. — [Form 8-K, appointment of James W. Keyes](https://www.sec.gov/Archives/edgar/data/1085734/000119312507147799/d8k.htm), Jul 2, 2007."
+  },
+  {
+   "id": 17,
+   "text": "Blockbuster Inc. — [Form 8-K, settlement with John F. Antioco](https://www.sec.gov/Archives/edgar/data/1085734/000119312507058743/d8k.htm), filed Mar 20, 2007."
+  },
+  {
+   "id": 18,
+   "text": "Marc Randolph, in Vanity Fair — [“He ‘Was Struggling Not to Laugh’: Inside Netflix’s Crazy, Doomed Meeting With Blockbuster”](https://www.vanityfair.com/news/2019/09/netflixs-crazy-doomed-meeting-with-blockbuster), Sep 17, 2019. An excerpt from his book That Will Never Work."
+  },
+  {
+   "id": 19,
+   "text": "John Antioco, in Harvard Business Review — [“How I Did It: Blockbuster’s Former CEO on Sparring with an Activist Shareholder”](https://hbr.org/2011/04/how-i-did-it-blockbusters-former-ceo-on-sparring-with-an-activist-shareholder), Apr 2011."
+  },
+  {
+   "id": 20,
+   "text": "History.com — [“First Blockbuster store opens,” October 19, 1985](https://www.history.com/this-day-in-history/october-19/first-blockbuster-store-opens)."
+  },
+  {
+   "id": 21,
+   "text": "Netflix, Inc. — [Form 10-K, FY2006](https://www.sec.gov/Archives/edgar/data/1065280/000119312507042689/d10k.htm), filed Feb 28, 2007."
+  },
+  {
+   "id": 22,
+   "text": "Netflix, Inc. — [Form 10-K, FY2010](https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/d10k.htm), filed Feb 18, 2011."
+  },
+  {
+   "id": 23,
+   "text": "Netflix, Inc. — [Form 10-K, FY2025](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm), filed Jan 23, 2026."
+  },
+  {
+   "id": 24,
+   "text": "Coinstar, Inc. (owner of Redbox) — [Form 10-K, FY2010](https://www.sec.gov/Archives/edgar/data/941604/000119312511029330/d10k.htm), filed Feb 10, 2011."
+  },
+  {
+   "id": 25,
+   "text": "Movie Gallery, Inc. — [Form 10-K, FY2005](https://www.sec.gov/Archives/edgar/data/925178/000092517806000009/r10k-fy05.txt), filed Mar 24, 2006."
+  },
+  {
+   "id": 26,
+   "text": "Associated Press, in The Herald (Everett) — [“No. 2 video rental company to close all remaining stores”](https://www.heraldnet.com/2010/05/10/no-2-video-rental-company-to-close-all-remaining-stores/), May 10, 2010."
+  },
+  {
+   "id": 27,
+   "text": "Associated Press, on NBC News — [“Blockbuster fades to black, last stores to be shuttered”](https://www.nbcnews.com/businessmain/blockbuster-fades-black-last-stores-be-shuttered-8c11545192), Nov 6, 2013."
+  },
+  {
+   "id": 28,
+   "text": "DISH Network Corp. — [Form 10-K, FY2013](https://www.sec.gov/Archives/edgar/data/1001082/000110465914012023/a13-26242_110k.htm), filed Feb 21, 2014."
+  },
+  {
+   "id": 29,
+   "text": "Fortune — [“Bend, Ore. Now Home to the Last Blockbuster Store on Earth”](https://fortune.com/2019/03/07/last-blockbuster-on-earth/), Mar 7, 2019."
+  },
+  {
+   "id": 30,
+   "text": "Associated Press, on KATU — [“The last Blockbuster in Bend more popular after Netflix documentary”](https://katu.com/news/local/the-last-blockbuster-in-bend-more-popular-after-netflix-documentary), Mar 30, 2021."
+  },
+  {
+   "id": 31,
+   "text": "The Bend store’s own website — [bendblockbuster.com](https://bendblockbuster.com/), viewed Oct 3, 2026."
+  },
+  {
+   "id": 32,
+   "text": "[blockbuster.com](https://www.blockbuster.com/), viewed Oct 3, 2026."
+  },
+  {
+   "id": 33,
+   "text": "Internet Archive Wayback Machine — captures of blockbuster.com: [Nov 10, 1997](https://web.archive.org/web/19971110005804/http://www.blockbuster.com/), [Oct 17, 2000](https://web.archive.org/web/20001017141409/http://www.blockbuster.com/), [Jun 14, 2006](https://web.archive.org/web/20060614233448/http://www.blockbuster.com/homepages/LoadBlockbusterHomepage.action), [Jan 9, 2014](https://web.archive.org/web/20140109220134/http://www.blockbuster.com/)."
+  },
+  {
+   "id": 34,
+   "text": "CNN Wire, on ABC7 Los Angeles — [“Redbox DVD kiosk-rental business shuts down after parent company files for bankruptcy”](https://abc7.com/post/redbox-shuts-down-dvd-kiosk-rental-business/15051835/), Jul 12, 2024."
+  },
+  {
+   "id": 35,
+   "text": "KTVZ (Bend) — [“World’s Last Blockbuster in Bend still seeing surge in sales, visitors sparked by online Super Bowl ad”](https://ktvz.com/news/bend/2023/02/28/worlds-last-blockbuster-in-bend-still-seeing-surge-in-sales-visitors-sparked-by-online-super-bowl-ad/), Feb 28, 2023."
+  },
+  {
+   "id": 36,
+   "text": "EchoStar Corp. — [Form 10-K, FY2025](https://www.sec.gov/Archives/edgar/data/1415404/000110465926021817/tmb-20251231x10k.htm), filed Mar 2, 2026."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Editorial: the year of death",
+   "text": "We set the end of the original business at 2010, the year Blockbuster Inc. filed for Chapter 11 (September 23).[^11] The stores kept trading under Dish Network until January 2014, and a franchise still trades today, which is why the tier is ghost. The start year, 1985, is the first store; the predecessor company was incorporated in 1982.[^1]"
+  },
+  {
+   "label": "Derived",
+   "text": "Cumulative net loss, 1997–2010, of about $6.70B is the sum of the annual net losses less the one profitable year: 318.2 + 336.6 + 69.2 + 75.9 + 238.8 + 1,621.1 + 978.7 + 1,248.8 + 588.1 − 50.5 + 73.8 + 374.1 + 558.2 + 268.0 = $6,699.0M.[^2][^3][^6][^9][^10] Most of it is non-cash write-downs of goodwill. The $905.6M distribution divided by Netflix’s $50M asking price is 18.1.[^5][^18] The fall in stores from 9,094 to 5,335 is 41%.[^6][^10] The rise in long-term debt in 2004 is $1,119.7M − $75.1M = $1,044.6M.[^6] “25 countries” is the United States plus the 24 other countries in the FY2004 10-K.[^5] “Days from the first store to the filing” and similar intervals are counted from the cited dates."
+  },
+  {
+   "label": "Basis changes in the filings",
+   "text": "Revenue for 1995–2005 is as reported in the FY1999, FY2000 and FY2005 10-Ks.[^2][^3][^6] Revenue for 2006–2009 is from the FY2009 10-K, which restated earlier years to remove discontinued operations (on that basis 2005 was $5,551.1M, against $5,864.4M as first reported).[^9] 2010 is from the FY2010 10-K.[^10] Long-term debt before 2001 is shown “less current portion”; from 2001 it is “including capital leases”.[^3][^6] Net loss for 2005 is $588.1M as first reported and $583.9M as restated."
+  },
+  {
+   "label": "Estimates",
+   "text": "Blockbuster’s own projection, made in March 2005, was that late fees would have contributed $400M to $450M of revenue and $250M to $300M of operating income in 2005.[^5] It is a company estimate, not a reported result. The “nearly $1 billion” of debt at the filing is the company’s wording.[^11]"
+  },
+  {
+   "label": "Unverified",
+   "text": "The widely repeated figure of about $800M of late-fee income in 2000 is **unverified**: we could not find it in the FY2000 10-K. The last year for which we found the figure in a filing is 1999, at $692.6M.[^2] The account of the September 2000 meeting at which Netflix asked $50M is Marc Randolph’s, published in 2019; we found no Blockbuster filing or statement that confirms or disputes it.[^18] The airing years of the commercials come from the uploaders. We did not find the size of David Cook’s stake sale in 1987 or the price Wayne Huizenga’s group paid in a primary source, so neither is stated."
+  },
+  {
+   "label": "Unknown",
+   "text": "The terms on which the Bend store uses the name are not public, and we found no current statement from Dish or EchoStar about its plans for the brand. EchoStar’s FY2025 10-K does not mention Blockbuster.[^36] The number of franchise stores open between 2014 and 2018 is known only from press counts."
+  },
+  {
+   "label": "General knowledge",
+   "text": "Sling TV is a streaming service owned by Dish Network. The Last Blockbuster was first released in 2020. Chapter 11 is the reorganisation chapter of the U.S. Bankruptcy Code and Chapter 7 the liquidation chapter."
+  },
+  {
+   "label": "Images",
+   "text": "Screenshots are of Internet Archive captures.[^33] Photographs are from Wikimedia Commons under the licenses given in the gallery credits. Drawings are original illustrations, not official assets."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 300 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a blue after-hours video return box with a tape going into the slot and a late fee receipt beside it">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 318h260" fill="none"/>
+<rect x="48" y="84" width="150" height="234" rx="8" fill="#1b3f94"/>
+<path d="M40 84h166l-12-26H52z" fill="#f2b51d"/>
+<rect x="70" y="118" width="106" height="20" rx="4" fill="#1d1b18"/>
+<rect x="84" y="92" width="78" height="36" rx="3" fill="#2b2a28" transform="rotate(-8 123 110)"/>
+<path d="M96 104h40" stroke="#f2b51d" stroke-width="5" transform="rotate(-8 123 110)"/>
+<rect x="74" y="164" width="98" height="56" rx="4" fill="#f2b51d"/>
+<path d="M88 182h70M88 198h48" stroke="#1b3f94" stroke-width="5"/>
+<path d="M74 252h98M74 270h98" stroke="#9fb6e6" stroke-width="2.4"/>
+<path d="M214 150h62v126l-10-7-11 7-10-7-11 7-10-7-10 7z" fill="#fbf9f5"/>
+<path d="M226 172h38M226 190h38M226 208h22" stroke="#9a9184" stroke-width="2.4"/>
+<path d="M226 236h38" stroke="#c2412d" stroke-width="5"/>
+</g></svg>

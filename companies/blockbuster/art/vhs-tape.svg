@@ -1,0 +1,14 @@
+<svg viewBox="0 0 360 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a VHS rental cassette with a yellow label and a rewind reminder sticker">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="24" y="36" width="312" height="176" rx="10" fill="#2b2a28"/>
+<rect x="46" y="54" width="268" height="52" rx="4" fill="#f2b51d"/>
+<path d="M62 72h150M62 90h96" stroke-width="5" stroke="#1b3f94"/>
+<rect x="236" y="64" width="64" height="32" rx="3" fill="#fbf9f5" stroke-width="2"/>
+<path d="M246 80h44M252 74l-7 6 7 6" stroke-width="2.4" fill="none"/>
+<rect x="70" y="122" width="220" height="64" rx="8" fill="#55524d"/>
+<circle cx="118" cy="154" r="24" fill="#fbf9f5"/><circle cx="242" cy="154" r="24" fill="#fbf9f5"/>
+<circle cx="118" cy="154" r="8" fill="#2b2a28"/><circle cx="242" cy="154" r="8" fill="#2b2a28"/>
+<path d="M118 130v8M118 170v8M94 154h8M134 154h8M242 130v8M242 170v8M218 154h8M258 154h8" stroke-width="2.4"/>
+<rect x="158" y="136" width="44" height="36" fill="#8a5a3c" stroke-width="2"/>
+<path d="M24 196h312" stroke="#55524d"/>
+</g></svg>

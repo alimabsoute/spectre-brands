@@ -1,0 +1,44 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "John Antioco was struggling not to laugh.",
+   "who": "**Marc Randolph**, Netflix co-founder, on the September 2000 meeting, in That Will Never Work, excerpted in Vanity Fair, 2019[^18]",
+   "big": true
+  },
+  {
+   "q": "The dot-com hysteria is completely overblown.",
+   "who": "**John Antioco**, as recalled by Marc Randolph[^18]"
+  },
+  {
+   "q": "We are determined, however, to gain appropriate market share in the online rental subscription business, regardless of the expected negative short-term impact on our operating results.",
+   "who": "**Blockbuster Inc.**, FY2003 annual report, March 2004[^4]"
+  },
+  {
+   "q": "Blockbuster is a world class brand that I believe has great potential for future success.",
+   "who": "**John Antioco**, on the day he lost his board seat, May 11, 2005[^15]"
+  },
+  {
+   "q": "When my assistant came into my office in early 2005 and told me that Carl Icahn was on the phone, it was a complete surprise.",
+   "who": "**John Antioco**, Harvard Business Review, April 2011[^19]"
+  },
+  {
+   "q": "These factors raise substantial doubt about our ability to continue as a going concern.",
+   "who": "**Blockbuster Inc.**, FY2009 annual report, March 2010[^9]",
+   "big": true
+  },
+  {
+   "q": "The recapitalized Blockbuster will move forward better able to leverage its strong strategic position, including a well-established brand name, an exceptional library of more than 125,000 titles, and our position as the only operator that provides access across multiple delivery channels – stores, kiosks, by-mail and digital.",
+   "who": "**Jim Keyes**, Chapter 11 press release, September 23, 2010[^11]"
+  },
+  {
+   "q": "Dish Network’s retreat will render Blockbuster’s once-ubiquitous brand nearly extinct.",
+   "who": "**Associated Press**, November 6, 2013[^27]"
+  },
+  {
+   "q": "We’ll take a little crazy if it means keeping the store open.",
+   "who": "**Sandi Harding**, manager of the Bend store, to The Bulletin, as quoted by the Associated Press, March 2021[^30]"
+  }
+ ]
+}

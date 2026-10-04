@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "The trip to the store stopped being necessary",
+   "text": "Mail, kiosks and then streaming each removed a reason to drive to a shop. Netflix grew from 857,000 subscribers at the end of 2002 to 20 million at the end of 2010, and Redbox had some 30,200 kiosks by then. Blockbuster’s store count fell 41% from its peak over the same years.[^21][^22][^24][^6][^10]"
+  },
+  {
+   "weight": 25,
+   "title": "Debt taken on to leave Viacom",
+   "text": "Long-term debt rose from $75.1M to $1,119.7M in 2004, the year of a $905.6M distribution to shareholders. The company went into its fight with Netflix and Redbox owing about a billion dollars, and still owed “nearly $1 billion” when it filed.[^5][^6][^11]"
+  },
+  {
+   "weight": 15,
+   "title": "A profit model built on late fees",
+   "text": "Extended viewing fees were $692.6M in 1999. Competitors sold the absence of late fees, and when Blockbuster matched them in 2005 it expected to forgo $250M to $300M of operating income a year.[^2][^4][^5]"
+  },
+  {
+   "weight": 15,
+   "title": "A late and interrupted response",
+   "text": "Blockbuster Online launched in August 2004, when Netflix already had 2.6 million subscribers. Total Access took it past 2 million by the end of 2006, but the chief executive who built it left in 2007 after a board fight and a bonus dispute.[^5][^7][^21][^15][^17]"
+  },
+  {
+   "weight": 10,
+   "title": "Too many leases",
+   "text": "More than 9,000 stores were an asset while customers came to them and a fixed cost when they did not. The company closed 374 U.S. stores in 2009 alone, and Dish Network later said that too few stores remained to carry the corporate overhead.[^9][^28]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings document the symptoms. How much each one contributed is a matter of opinion."
+}

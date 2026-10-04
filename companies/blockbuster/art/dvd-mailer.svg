@@ -1,0 +1,12 @@
+<svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a DVD in a paper mail envelope, the rental format that replaced the trip to the store">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="30" y="70" width="300" height="160" rx="6" fill="#fbf9f5"/>
+<path d="M30 76l150 84 150-84" fill="#e6edf9"/>
+<circle cx="180" cy="86" r="62" fill="#cfd6e4"/>
+<circle cx="180" cy="86" r="18" fill="#fbf9f5"/><circle cx="180" cy="86" r="6" fill="#1d1b18"/>
+<path d="M140 48a54 54 0 0 1 34-16M226 118a54 54 0 0 1-30 20" fill="none" stroke-width="2.4" stroke="#1b3f94"/>
+<path d="M30 124l150 84 150-84v100a6 6 0 0 1-6 6H36a6 6 0 0 1-6-6z" fill="#fbf9f5"/>
+<rect x="262" y="176" width="44" height="34" fill="#f2b51d" stroke-width="2.4"/>
+<path d="M270 186h28M270 196h20" stroke-width="2.4" stroke="#1b3f94"/>
+<path d="M56 198h86M56 212h60" stroke="#9a9184" stroke-width="2.4"/>
+</g></svg>

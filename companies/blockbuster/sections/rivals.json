@@ -1,0 +1,216 @@
+{
+ "kicker": "The rivals",
+ "title": "Who won, and who went first",
+ "lede": "Blockbuster outlived the chains it had beaten. Hollywood Video and Movie Gallery were liquidated months before Blockbuster filed. The businesses that replaced all three did not rent from a shop.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Five ways to rent a film. One is still growing.",
+   "subtitle": "The video rental field, and what became of each.",
+   "metric": "Headline figure",
+   "items": [
+    {
+     "name": "Blockbuster",
+     "status": "ghost",
+     "self": true,
+     "value": "9,094 stores",
+     "text": "At the 2004 peak. Chapter 11 in 2010, sold to Dish in 2011, one franchise left.[^6][^11][^13][^31]",
+     "data": [
+      4513,
+      6049,
+      7153,
+      7981,
+      8867,
+      9094,
+      8360,
+      7405,
+      5335
+     ],
+     "range": [
+      "1995: 4,513",
+      "2010: 5,335"
+     ]
+    },
+    {
+     "name": "Netflix",
+     "status": "alive",
+     "value": "$45.18B",
+     "text": "Revenue in 2025. It had 857,000 subscribers at the end of 2002 and 20 million at the end of 2010.[^23][^21][^22]",
+     "data": [
+      150.8,
+      270.4,
+      500.6,
+      682.2,
+      996.7,
+      1205.3,
+      1364.7,
+      1670.3,
+      2162.6
+     ],
+     "range": [
+      "2002: $150.8M",
+      "2010: $2.16B"
+     ]
+    },
+    {
+     "name": "Redbox",
+     "status": "dead",
+     "statusLabel": "Liquidated 2024",
+     "value": "30,200 kiosks",
+     "text": "At the end of 2010, with $1.16B of revenue. Shut down in July 2024 when its last owner’s bankruptcy became a liquidation.[^24][^34]",
+     "data": [
+      388.5,
+      773.5,
+      1160.1
+     ],
+     "range": [
+      "2008: $388.5M",
+      "2010: $1.16B"
+     ]
+    },
+    {
+     "name": "Hollywood Video",
+     "status": "acquired",
+     "statusLabel": "Bought, then closed",
+     "value": "$850M",
+     "text": "Price Movie Gallery paid in 2005, after Blockbuster let its own $14.50 a share offer lapse. Liquidated with its parent in 2010.[^26][^5]"
+    },
+    {
+     "name": "Movie Gallery",
+     "status": "dead",
+     "statusLabel": "Liquidated 2010",
+     "value": "4,800 stores",
+     "text": "After buying Hollywood. It entered bankruptcy in October 2007 and moved to close its last 1,900-plus stores in May 2010.[^25][^26]"
+    }
+   ],
+   "source": "Company filings and press as cited. Sparklines: Blockbuster year-end stores[^2][^6][^8][^9][^10]; Netflix annual revenue 2002–2010[^21][^22]; Redbox (Coinstar DVD Services) revenue 2008–2010[^24]."
+  },
+  {
+   "kind": "chart",
+   "id": "subsChart",
+   "title": "Netflix subscribers against Blockbuster Online",
+   "subtitle": "Millions of subscribers at year end. Blockbuster reported its online count only for the years shown.",
+   "chart": {
+    "type": "line",
+    "labels": [
+     "2002",
+     "2003",
+     "2004",
+     "2005",
+     "2006",
+     "2007",
+     "2008",
+     "2009",
+     "2010"
+    ],
+    "y": {
+     "format": "num",
+     "title": "Millions"
+    },
+    "series": [
+     {
+      "label": "Netflix",
+      "data": [
+       0.857,
+       1.487,
+       2.61,
+       4.179,
+       6.316,
+       7.479,
+       9.39,
+       12.268,
+       20.01
+      ],
+      "color": "green"
+     },
+     {
+      "label": "Blockbuster Online",
+      "data": [
+       null,
+       null,
+       null,
+       1.2,
+       2.2,
+       null,
+       null,
+       null,
+       null
+      ],
+      "color": "brand",
+      "points": true
+     }
+    ]
+   },
+   "source": "Netflix FY2006 and FY2010 10-Ks[^21][^22]. Blockbuster: about 1.2 million at December 31, 2005 and about 2.2 million at December 31, 2006[^6][^7]. Blockbuster also reported more than 750,000 on March 9, 2005[^5]."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Ghost",
+    "name": "Blockbuster",
+    "alive": false,
+    "rows": [
+     [
+      "Founded",
+      "1985[^20]"
+     ],
+     [
+      "2004 revenue",
+      "$6,053.2M[^6]"
+     ],
+     [
+      "2010 revenue",
+      "$3,240.7M[^10]"
+     ],
+     [
+      "Online subscribers, end 2006",
+      "about 2.2M[^7]"
+     ],
+     [
+      "Long-term debt, end 2004",
+      "$1,119.7M[^6]"
+     ],
+     [
+      "Outcome",
+      "Chapter 11, Sep 2010; sold for $320.6M[^11][^13]"
+     ]
+    ]
+   },
+   "right": {
+    "tag": "Alive",
+    "name": "Netflix",
+    "alive": true,
+    "rows": [
+     [
+      "Founded",
+      "1997[^20]"
+     ],
+     [
+      "2004 revenue",
+      "$500.6M[^21]"
+     ],
+     [
+      "2010 revenue",
+      "$2,162.6M[^22]"
+     ],
+     [
+      "Subscribers, end 2006",
+      "6.3M[^21]"
+     ],
+     [
+      "Subscribers, end 2010",
+      "20.0M[^22]"
+     ],
+     [
+      "Outcome",
+      "$45.18B of revenue in 2025[^23]"
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "note",
+   "body": "Blockbuster tried to buy Hollywood Entertainment in early 2005, offering $11.50 in cash and $3.00 in stock per share. It let the offer expire on March 24, 2005, citing “the unlikely resolution of the Company’s request for regulatory clearance on an acceptable timetable.”[^5]"
+  }
+ ]
+}

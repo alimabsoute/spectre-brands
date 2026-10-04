@@ -1,0 +1,383 @@
+{
+ "kicker": "Timeline",
+ "title": "Forty-four years, 35 moments",
+ "lede": "From the predecessor’s incorporation to the one store still open, with the money and the rivals alongside. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "product": {
+   "label": "Product",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Death & afterlife",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "1982",
+   "year": "1982",
+   "cat": "corporate",
+   "title": "Predecessor incorporated",
+   "text": "Blockbuster Entertainment Corporation is incorporated in Delaware. It enters the movie rental business three years later.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Oct 19",
+   "year": "1985",
+   "cat": "corporate",
+   "title": "First store opens in Dallas",
+   "text": "David Cook opens the first Blockbuster with some 8,000 tapes and a computerised checkout.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "1987",
+   "year": "1987",
+   "cat": "corporate",
+   "title": "Huizenga’s group buys in",
+   "text": "Cook sells part of the business to investors including Wayne Huizenga, leaves later that year, and the headquarters moves to Fort Lauderdale.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "1988",
+   "year": "1988",
+   "cat": "corporate",
+   "title": "Largest chain in the country",
+   "text": "About 400 stores.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Jan 7",
+   "year": "1994",
+   "cat": "money",
+   "title": "Viacom merger announced",
+   "text": "A merger valued at $8.4 billion, agreed while Viacom was bidding for Paramount.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Sep 29",
+   "year": "",
+   "cat": "corporate",
+   "title": "Merger completed",
+   "text": "Blockbuster Entertainment Corporation is merged into Viacom.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "1998",
+   "year": "1998",
+   "cat": "product",
+   "title": "Revenue sharing with the studios",
+   "text": "Instead of paying $60 to $70 a cassette, Blockbuster pays a small sum up front and shares rental income.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Aug 10",
+   "year": "1999",
+   "cat": "money",
+   "title": "Initial public offering",
+   "text": "31 million class A shares are sold at $15, raising $465M. Viacom keeps control.",
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "money",
+   "title": "Late fees reach $692.6M",
+   "text": "Extended viewing fees for 1999 are 15.5% of revenue.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Sep",
+   "year": "2000",
+   "cat": "rivals",
+   "title": "Netflix asks $50M",
+   "text": "By Marc Randolph’s account, Netflix’s founders propose a sale to Blockbuster in Dallas and are turned down.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "Feb 10",
+   "year": "2004",
+   "cat": "corporate",
+   "title": "Viacom decides to divest",
+   "text": "Viacom announces it will pursue the divestiture of its approximately 81.5% stake.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "",
+   "cat": "product",
+   "title": "Blockbuster Online launches",
+   "text": "A DVD-by-mail subscription service in the United States, seven years after Netflix was founded.",
+   "src": [
+    5,
+    20
+   ]
+  },
+  {
+   "date": "Aug 20",
+   "year": "",
+   "cat": "money",
+   "title": "$1.45B of new financing",
+   "text": "A $1,150M senior secured credit facility and $300M of 9% senior subordinated notes.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Sep 3",
+   "year": "",
+   "cat": "money",
+   "title": "$5.00 a share special distribution",
+   "text": "About $905.6M in total is paid to shareholders ahead of the split-off.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "",
+   "cat": "corporate",
+   "title": "Split-off from Viacom",
+   "text": "Blockbuster becomes a fully independent company.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "corporate",
+   "title": "Peak: 9,094 stores",
+   "text": "The highest year-end store count in the company’s history.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Jan 1",
+   "year": "2005",
+   "cat": "product",
+   "title": "“The end of late fees”",
+   "text": "Extended viewing fees end at more than 4,500 company stores and about 550 franchise stores. Items kept past a one-week grace period are sold to the customer.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Feb 4",
+   "year": "",
+   "cat": "rivals",
+   "title": "Bid for Hollywood Video",
+   "text": "Blockbuster offers $14.50 a share for Hollywood Entertainment. It lets the offer expire on March 24, citing antitrust clearance.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "",
+   "cat": "rivals",
+   "title": "Movie Gallery buys Hollywood",
+   "text": "The combined company has about 4,800 stores.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "May 11",
+   "year": "",
+   "cat": "corporate",
+   "title": "Icahn wins board seats",
+   "text": "Carl Icahn, Edward Bleier and Strauss Zelnick are elected, replacing three incumbents including chairman John Antioco.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "Apr 4",
+   "year": "2006",
+   "cat": "rivals",
+   "title": "Netflix sues",
+   "text": "Netflix files a patent suit over Blockbuster’s online service.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Nov 1",
+   "year": "",
+   "cat": "product",
+   "title": "Total Access",
+   "text": "Online subscribers can return mailed DVDs to a store and take a free rental. Subscribers pass 2 million by year-end.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Mar 19",
+   "year": "2007",
+   "cat": "corporate",
+   "title": "Antioco’s exit agreed",
+   "text": "A settlement over his 2006 bonus sets the end of his employment.",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "Jul 2",
+   "year": "",
+   "cat": "corporate",
+   "title": "Jim Keyes becomes CEO",
+   "text": "The former chief executive of 7-Eleven is named chairman and chief executive.",
+   "src": [
+    16
+   ]
+  },
+  {
+   "date": "2008",
+   "year": "2008",
+   "cat": "product",
+   "title": "Kiosks with NCR",
+   "text": "An agreement to put Blockbuster-branded vending kiosks in retail locations. There were 2,225 by January 2010.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Mar 16",
+   "year": "2010",
+   "cat": "death",
+   "title": "Going-concern warning",
+   "text": "The FY2009 annual report cites “substantial doubt” about the company’s ability to continue. It closed 374 U.S. stores in 2009.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "May 10",
+   "year": "",
+   "cat": "rivals",
+   "title": "Movie Gallery liquidates",
+   "text": "The owner of Hollywood Video moves to close its remaining 1,900-plus stores.",
+   "src": [
+    26
+   ]
+  },
+  {
+   "date": "Sep 23",
+   "year": "",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "Blockbuster Inc. and its U.S. subsidiaries file in the Southern District of New York, case 10-14997, with $125M of bankruptcy financing.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Apr 6",
+   "year": "2011",
+   "cat": "death",
+   "title": "Dish wins the auction",
+   "text": "Dish Network’s bid of about $320M is selected as the highest and best.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Apr 26",
+   "year": "",
+   "cat": "death",
+   "title": "Sale closes at $320.6M",
+   "text": "The estate expects about $226M net. Keyes and other executives are terminated the same day.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Nov 6",
+   "year": "2013",
+   "cat": "death",
+   "title": "Dish closes the stores",
+   "text": "The last 300 or so company-owned U.S. stores and the by-mail service are to shut by early January 2014.",
+   "src": [
+    27,
+    28
+   ]
+  },
+  {
+   "date": "2018",
+   "year": "2018",
+   "cat": "death",
+   "title": "Alaska stores close",
+   "text": "The Bend, Oregon franchise becomes the last Blockbuster in the United States.",
+   "src": [
+    30
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "2019",
+   "cat": "death",
+   "title": "Perth closes",
+   "text": "The Bend store becomes the last in the world.",
+   "src": [
+    29
+   ]
+  },
+  {
+   "date": "Mar 15",
+   "year": "2021",
+   "cat": "corporate",
+   "title": "The Last Blockbuster on Netflix",
+   "text": "The documentary about the Bend store reaches the service that replaced it.",
+   "src": [
+    30
+   ]
+  },
+  {
+   "date": "Oct 3",
+   "year": "2026",
+   "cat": "corporate",
+   "title": "Still open",
+   "text": "The Bend store’s website lists current releases. blockbuster.com shows the logo and a holding page.",
+   "src": [
+    31,
+    32
+   ]
+  }
+ ]
+}
