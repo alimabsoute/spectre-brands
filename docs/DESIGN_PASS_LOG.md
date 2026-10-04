@@ -358,3 +358,36 @@ Probed in a browser at a busy step, both widths (screenshots in `docs/design-pas
 - Map width at 1280: 1,080 px (measured from the screenshot). Before it was roughly 730 px: that figure is
   worked out from the old CSS (a 19rem card and padding beside it), not measured.
 - `npm run check` passed.
+
+## 9. Brand hero
+
+### Research
+
+Mobbin (`search_screens`):
+
+| Query | Top hits |
+| --- | --- |
+| article header with a large image above the headline, a short standfirst and a byline (web) | [ZARA "The Item" cover](https://mobbin.com/screens/50c1c674-21c3-4bf5-938a-7d759bc4b3fb), [GetYourGuide article header: breadcrumb, headline, two-line standfirst, wide image](https://mobbin.com/screens/0a6966e7-6efe-4341-aee0-eb16cdedbb94), [Microsoft Copilot story](https://mobbin.com/screens/602ae92b-9bf8-49dd-9e44-7632bab04bf0) |
+| feature story opener on mobile with a full-width photo first, then the title and a short intro (iOS) | [Public](https://mobbin.com/screens/a31beaef-fe3b-4db8-9f15-8dffe1a4ac35), [Tolan: edge-to-edge image first, then date and text](https://mobbin.com/screens/2ba3c2f7-b444-4218-82ac-619701090aa5), [Tripadvisor article: title, standfirst, byline, photo](https://mobbin.com/screens/a22724ec-d685-44b9-b6b4-5ac067313e6b) |
+
+21st.dev (`search`, components):
+
+| Query | Top hits |
+| --- | --- |
+| article header | [kavikatiyar Article Cards](https://21st.dev/@kavikatiyar/components/article-cards), [olewandowski1 Article With Author Sidebar](https://21st.dev/@olewandowski1/components/article-5), [shoota Article](https://21st.dev/@shoota/components/article) |
+| browser window mockup screenshot | [ruixen.ui Safari](https://21st.dev/@ruixen.ui/components/safari-01), [dillionverma Safari](https://21st.dev/@dillionverma/components/safari), [saurabh-2607 Macbook Mockup](https://21st.dev/@saurabh-2607/components/great-ui-macbook-mockup) |
+
+shadcn (CLI `view`): `@shadcn/breadcrumb` (`aria-label="breadcrumb"`, `aria-current="page"`, hidden separators);
+the existing breadcrumb already follows it and was left alone.
+
+### Measured and verified (Playwright, 375 × 800, all 17 brands)
+
+- Opener variant per brand, read from the built pages: wide 8 (AOL, Blockbuster, Burger Chef, Crystal Pepsi,
+  Howard Johnson's, RadioShack, Toys "R" Us, Webvan), panorama 3 (Atari, Dreamcast, KB Toys), upright 3 (Circuit City,
+  Zima, and Kiddie City with its drawing), browser frame 3 (Groupon, Pets.com, Quibi).
+- The first image starts at 158 px on every brand and the brand name comes after it on 17 of 17.
+- The long intro paragraph starts below 800 px on 17 of 17 (974 to 1,546 px).
+- First measurement: on the two upright photographs (Circuit City, Zima) the name landed at 816 and 822 px, just
+  under the first screen. The phone height of upright images was then cut from 26rem to 19rem; see re-measured after
+  the change: the name is at 642 px on Circuit City and 625 px on Zima.
+- `npm run check` passed.

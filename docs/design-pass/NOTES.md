@@ -235,3 +235,29 @@ What changed on the four existing maps:
 them, and none of the other nine brands without a map, has location data in its JSON: no coordinates, no
 per-state counts, no table of places (the search is in the log). Store counts exist only as totals. Adding a map
 would mean sourcing and geocoding store lists, which is new data, not presentation.
+
+## 9. Brand hero
+
+References:
+
+- **Tolan** (Mobbin, iOS): the picture comes first, edge to edge, and the text starts under it. The model for
+  the phone opener.
+- **GetYourGuide article header** (Mobbin): breadcrumb, headline, a two-line standfirst, then a wide image, with
+  the body copy after. The model for "dek and tier line up top, long paragraph later".
+- **Safari browser mockups** (21st.dev): a screenshot shown inside a plain browser frame. The model for brands
+  whose strongest asset is an archived web page.
+
+Approach: the opener takes its shape from the brand's strongest asset, so the 17 pages no longer share one split.
+
+- **Wide** (8 brands): a landscape photograph at 8 of 12 columns, the rest of the archive stacked beside it.
+- **Panorama** (3): a very wide photograph (Dreamcast console, Atari VCS, a KB Toys storefront) across the full
+  width, the rest in a row under it.
+- **Upright** (3): an upright picture standing beside the title, like a magazine cover (Circuit City's
+  closing-sale photo, the Zima bottle, and Kiddie City's drawing, since it has no real image).
+- **Browser frame** (3): an archived web page shown in a browser window (Pets.com, Groupon, Quibi).
+- The variant is chosen by rule from the lead image (kind, aspect ratio, pixel width); no per-brand setting.
+- The intro above the image is now the standfirst and the "Why dead / Why ghost" line. The long paragraph moved
+  below the image on every variant.
+- Phone: the image is the first thing on the page, edge to edge, above the brand name. Upright pictures are cropped
+  shorter there so the name still lands on the first screen.
+- This builds on area 2, which had already replaced the drawing with the real image.
