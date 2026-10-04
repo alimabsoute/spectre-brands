@@ -1,0 +1,394 @@
+{
+ "kicker": "The map",
+ "title": "Where it began and where it ended",
+ "lede": "The chain reached 42 states at its height.[^1] We could not source a full list of locations, so this map shows only eight places we can document: where it started, how it first spread, and the last restaurants to close. All eight are in the Northeast.",
+ "figure": {
+  "title": "Howard Johnson’s: first and last locations, 1925–2022",
+  "whatItShows": "the origin in Quincy, the first franchise and the first turnpike contract, and the five last or best-known restaurants. Step through the timeline: sites appear when they opened and gray out when they closed.",
+  "caption": "Pins are placed at town level and nudged apart so they don’t overlap; a thin line joins a moved pin to its true location. Opening and closing dates known only to the year are placed on January 1 or mid-year for the animation; the text gives the precision the source gives. Base map: U.S. Census Bureau via us-atlas[^30]."
+ },
+ "legend": [
+  {
+   "cat": "a",
+   "label": "Origin and early growth"
+  },
+  {
+   "cat": "c",
+   "label": "Turnpike and city landmarks"
+  },
+  {
+   "cat": "d",
+   "label": "The last three restaurants"
+  }
+ ],
+ "pins": [
+  {
+   "id": "quincy",
+   "label": "1",
+   "cat": "a",
+   "ll": [
+    -71.02,
+    42.27
+   ],
+   "offset": [
+    26,
+    -16
+   ],
+   "title": "Quincy (Wollaston), Massachusetts",
+   "text": "The store Howard D. Johnson bought in 1925, and the first restaurant in 1929. Company headquarters stayed in Quincy.",
+   "src": [
+    1,
+    2
+   ],
+   "from": "1925-01-01",
+   "when": "1925"
+  },
+  {
+   "id": "orleans",
+   "label": "2",
+   "cat": "a",
+   "ll": [
+    -69.99,
+    41.79
+   ],
+   "offset": [
+    20,
+    36
+   ],
+   "title": "Orleans, Cape Cod",
+   "text": "The first franchised restaurant, 1935. Its closing date is not in our sources.",
+   "src": [
+    1,
+    22
+   ],
+   "from": "1935-01-01",
+   "when": "1935"
+  },
+  {
+   "id": "milford",
+   "label": "3",
+   "cat": "a",
+   "ll": [
+    -73.06,
+    41.22
+   ],
+   "offset": [
+    14,
+    58
+   ],
+   "title": "Milford, Connecticut",
+   "text": "The first location outside Massachusetts, 1936. Its closing date is not in our sources.",
+   "src": [
+    10
+   ],
+   "from": "1936-01-01",
+   "when": "1936"
+  },
+  {
+   "id": "midway",
+   "label": "4",
+   "cat": "c",
+   "ll": [
+    -78.5,
+    40.02
+   ],
+   "offset": [
+    -60,
+    40
+   ],
+   "title": "Pennsylvania Turnpike, Midway plaza (Bedford)",
+   "text": "One of 24 turnpike restaurants under the 1940 contract. The monopoly lasted until 1979.",
+   "src": [
+    1,
+    27
+   ],
+   "from": "1940-06-01",
+   "when": "1940 – 1979 (contract)",
+   "to": "1979-12-31"
+  },
+  {
+   "id": "tsq",
+   "label": "5",
+   "cat": "c",
+   "ll": [
+    -73.985,
+    40.759
+   ],
+   "offset": [
+    -28,
+    74
+   ],
+   "title": "Times Square, New York",
+   "text": "Broadway at 46th Street. Opened 1959, closed 2005.",
+   "src": [
+    23,
+    24
+   ],
+   "from": "1959-01-01",
+   "when": "1959 – 2005",
+   "to": "2005-07-01"
+  },
+  {
+   "id": "lg",
+   "label": "6",
+   "cat": "d",
+   "ll": [
+    -73.71,
+    43.43
+   ],
+   "offset": [
+    -72,
+    4
+   ],
+   "title": "Lake George, New York",
+   "text": "Built 1953. Closed 2011, reopened January 2015, closed for good in spring 2022. The last one.",
+   "src": [
+    8,
+    13,
+    14
+   ],
+   "from": "1953-01-01",
+   "when": "1953 – 2022",
+   "to": "2022-06-01"
+  },
+  {
+   "id": "lp",
+   "label": "7",
+   "cat": "d",
+   "ll": [
+    -73.98,
+    44.28
+   ],
+   "offset": [
+    -62,
+    -48
+   ],
+   "title": "Lake Placid, New York",
+   "text": "Opened April 1956. Closed March 31, 2015.",
+   "src": [
+    9
+   ],
+   "from": "1956-04-01",
+   "when": "Apr 1956 – Mar 2015",
+   "to": "2015-03-31"
+  },
+  {
+   "id": "bangor",
+   "label": "8",
+   "cat": "d",
+   "ll": [
+    -68.82,
+    44.78
+   ],
+   "offset": [
+    8,
+    -46
+   ],
+   "title": "Bangor, Maine",
+   "text": "Opened 1966 beside the motor lodge on Odlin Road. Closed September 6, 2016.",
+   "src": [
+    10,
+    11
+   ],
+   "from": "1966-01-01",
+   "when": "1966 – Sep 2016",
+   "to": "2016-09-06"
+  }
+ ],
+ "steps": [
+  {
+   "date": "1925-06-01",
+   "label": "1925",
+   "title": "A soda fountain in Wollaston",
+   "text": "Howard D. Johnson buys a store for $500 of borrowed money and makes his name with ice cream.",
+   "src": [
+    1
+   ],
+   "pins": [
+    "quincy"
+   ],
+   "note": {
+    "box": [
+     420,
+     170
+    ],
+    "text": [
+     "Quincy, 1925: one store,",
+     "$500 borrowed."
+    ],
+    "at": "quincy"
+   },
+   "stat": {
+    "value": "1",
+    "label": "store, 1925"
+   }
+  },
+  {
+   "date": "1936-06-01",
+   "label": "1936",
+   "title": "Franchising carries the name out of state",
+   "text": "Orleans on Cape Cod in 1935, Milford, Connecticut in 1936. The operators pay for the buildings.",
+   "src": [
+    1,
+    10,
+    22
+   ],
+   "pins": [
+    "orleans",
+    "milford"
+   ],
+   "stat": {
+    "value": "107",
+    "label": "restaurants by 1939"
+   }
+  },
+  {
+   "date": "1940-10-01",
+   "label": "1940",
+   "title": "The turnpike",
+   "text": "The company wins the contract for 24 restaurants on the Pennsylvania Turnpike.",
+   "src": [
+    1
+   ],
+   "pins": [
+    "midway"
+   ],
+   "note": {
+    "box": [
+     330,
+     330
+    ],
+    "text": [
+     "24 turnpike restaurants,",
+     "a monopoly until 1979."
+    ],
+    "at": "midway"
+   },
+   "stat": {
+    "value": "24",
+    "label": "turnpike restaurants"
+   }
+  },
+  {
+   "date": "1959-06-01",
+   "label": "1959",
+   "title": "Times Square, and the last three open",
+   "text": "Lake George (1953) and Lake Placid (1956) are already trading when the Times Square restaurant opens. Bangor follows in 1966.",
+   "src": [
+    8,
+    9,
+    23
+   ],
+   "pins": [
+    "tsq",
+    "lg",
+    "lp"
+   ],
+   "stat": {
+    "value": "605",
+    "label": "restaurants, 1961"
+   }
+  },
+  {
+   "date": "1979-09-01",
+   "label": "1979",
+   "title": "The peak, and the sale",
+   "text": "1,040 restaurants in 42 states pass to Imperial Group. The turnpike monopoly ends the same year.",
+   "src": [
+    1
+   ],
+   "pins": [
+    "quincy"
+   ],
+   "stat": {
+    "value": "1,040",
+    "label": "restaurants, 1979"
+   }
+  },
+  {
+   "date": "2005-12-31",
+   "label": "2005",
+   "title": "Eight left",
+   "text": "Times Square closes. The AP counts eight restaurants in six states.",
+   "src": [
+    6,
+    24
+   ],
+   "pins": [
+    "tsq"
+   ],
+   "stat": {
+    "value": "8",
+    "label": "restaurants, May 2005"
+   }
+  },
+  {
+   "date": "2015-04-01",
+   "label": "2015",
+   "title": "Lake Placid closes",
+   "text": "After nearly 59 years. Two remain.",
+   "src": [
+    9
+   ],
+   "pins": [
+    "lp"
+   ],
+   "stat": {
+    "value": "2",
+    "label": "restaurants left"
+   }
+  },
+  {
+   "date": "2016-09-07",
+   "label": "2016",
+   "title": "Bangor closes",
+   "text": "The motel stays open. Lake George is the last Howard Johnson’s restaurant.",
+   "src": [
+    10,
+    11
+   ],
+   "pins": [
+    "bangor",
+    "lg"
+   ],
+   "stat": {
+    "value": "1",
+    "label": "restaurant left"
+   }
+  },
+  {
+   "date": "2022-06-02",
+   "label": "2022",
+   "title": "Lake George closes",
+   "text": "The last orange roof goes dark and the property is offered for lease.",
+   "src": [
+    14,
+    15
+   ],
+   "pins": [
+    "lg"
+   ],
+   "note": {
+    "box": [
+     300,
+     120
+    ],
+    "text": [
+     "Lake George, 1953–2022.",
+     "The last one."
+    ],
+    "at": "lg"
+   },
+   "stat": {
+    "value": "0",
+    "label": "restaurants"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "note",
+   "body": "Not shown: the roughly 1,000 other restaurants. We found no complete, dated location list in a source we could verify, and we did not want to plot pins from enthusiast sites we could not check."
+  }
+ ]
+}

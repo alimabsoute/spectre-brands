@@ -1,0 +1,98 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Alive",
+   "color": "var(--green)",
+   "title": "The hotels",
+   "text": "Howard Johnson is one of Wyndham Hotels & Resorts’ economy brands: **304 properties** and 43,998 rooms at December 31, 2025, of which 133 are in the United States. More of the rooms are in Greater China (26,456) than in the U.S. (10,119).[^16]"
+  },
+  {
+   "status": "Dormant",
+   "color": "var(--gold)",
+   "title": "The restaurant name",
+   "text": "Eater reported in 2017 that Wyndham owns all the relevant Howard Johnson’s trademarks, and that only a former franchisee reopening on an original site, or Wyndham itself, could put the name on a restaurant again.[^13] No restaurant uses it today.[^14]"
+  },
+  {
+   "status": "Converted",
+   "color": "var(--blue)",
+   "title": "The company-owned restaurants",
+   "text": "Marriott kept 418 of them in 1985 and said many would become Big Boy outlets. It still owned 90 at the end of 1987 and 50 in mid-1991, when Franchise Associates bought 17.[^1][^2]"
+  },
+  {
+   "status": "Closed",
+   "color": "var(--red)",
+   "title": "The last building",
+   "text": "The Lake George restaurant went up for lease in late 2021. CNN reported that the listing for the 7,500 square foot building stated a price of $10.[^14] What has happened to the building since is not covered by our sources."
+  },
+  {
+   "status": "Licensed out",
+   "color": "var(--plum)",
+   "title": "The recipes",
+   "text": "Franchise Associates said in 2001 that it owned the original recipes and had licensed manufacturers to make the ice cream and other signature products for shops and grocery stores.[^5] Whether any of these are still made is unknown to us."
+  },
+  {
+   "status": "Spun off",
+   "color": "var(--blue)",
+   "title": "Ground Round",
+   "text": "Imperial kept the 210-unit Ground Round chain out of the 1985 sale because Marriott did not want it.[^1][^2] Its later history is outside this page."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "subtitle": "After 1985 the trademark and the restaurants had different owners.",
+   "nodes": [
+    {
+     "when": "1925",
+     "owner": "Howard Deering Johnson",
+     "what": "Buys the Wollaston store and puts his name on the ice cream. Sole owner until the 1961 listing.[^1]"
+    },
+    {
+     "when": "1961",
+     "owner": "Howard Johnson Co. (public)",
+     "what": "Listed with 605 restaurants. The family sells shares through the 1960s.[^1]"
+    },
+    {
+     "when": "1980",
+     "owner": "Imperial Group",
+     "what": "The British tobacco and brewing group buys the whole company, agreed in September 1979.[^1][^2]",
+     "price": "$630M"
+    },
+    {
+     "when": "Sep 1985",
+     "owner": "Marriott Corp.",
+     "what": "Buys the company without Ground Round, keeps 418 company restaurants for conversion and passes the name on at once.[^2]",
+     "price": "$314M"
+    },
+    {
+     "when": "Sep 1985",
+     "owner": "Prime Motor Inns",
+     "what": "Takes the trademark, 125 company lodges, 375 franchised lodges and 199 franchised restaurants.[^2]",
+     "price": "$235M"
+    },
+    {
+     "when": "May 1986",
+     "owner": "Franchise Associates Inc. (restaurant license)",
+     "what": "The franchisees’ own company gets an exclusive license for restaurants and signature foods. By 2007 the franchise rights are with La Mancha Group.[^5][^7]"
+    },
+    {
+     "when": "1990",
+     "owner": "Blackstone affiliate, later HFS and Cendant",
+     "what": "Prime sells the Howard Johnson and Ramada systems and files for Chapter 11 that September. Hospitality Franchise Systems becomes HFS, then Cendant in 1997.[^1][^26]",
+     "price": "$170M",
+     "status": "bankrupt"
+    },
+    {
+     "when": "2018",
+     "owner": "Wyndham Hotels & Resorts",
+     "what": "Spun off from Wyndham Worldwide. Franchises 304 Howard Johnson hotels. No restaurants.[^16]",
+     "status": "current"
+    }
+   ],
+   "source": "International Directory of Company Histories[^1], Los Angeles Times[^2], Franchise Associates[^5], Hartford Courant[^7], Wyndham’s 2025 Form 10-K[^16]. The “bankrupt” marker on the 1990 step refers to the seller, Prime Motor Inns, not to the Howard Johnson brand."
+  }
+ ]
+}

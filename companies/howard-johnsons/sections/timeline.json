@@ -1,0 +1,351 @@
+{
+ "kicker": "Timeline",
+ "title": "Ninety-seven years, 31 moments",
+ "lede": "From the Wollaston soda fountain to the lease sign in Lake George. Filter by thread. Where only the year is known, only the year is given.",
+ "categories": {
+  "growth": {
+   "label": "Growth",
+   "color": "#b8470f"
+  },
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "kitchen": {
+   "label": "Food",
+   "color": "#93743a"
+  },
+  "death": {
+   "label": "Decline & closings",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1925",
+   "cat": "growth",
+   "title": "The Wollaston store",
+   "text": "Howard Deering Johnson buys a small store in Quincy’s Wollaston neighbourhood for $500 of borrowed money and takes on its debts. He rebuilds the soda fountain around a high-butterfat ice cream.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1928",
+   "cat": "money",
+   "title": "$240,000 of ice cream",
+   "text": "Gross ice cream sales reach $240,000 a year.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1929",
+   "cat": "growth",
+   "title": "First restaurant",
+   "text": "Opens in Quincy, with fried clams and broiled swordfish as specialties. The Associated Press dates the first restaurant a year earlier.",
+   "src": [
+    1,
+    6
+   ]
+  },
+  {
+   "date": "",
+   "year": "1935",
+   "cat": "growth",
+   "title": "First franchise",
+   "text": "A restaurant in Orleans, on Cape Cod, sells Johnson’s food under his name. The operator pays for the building.",
+   "src": [
+    1,
+    22
+   ]
+  },
+  {
+   "date": "",
+   "year": "1936",
+   "cat": "growth",
+   "title": "Out of Massachusetts",
+   "text": "The first location outside the state opens in Milford, Connecticut.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "",
+   "year": "1939",
+   "cat": "growth",
+   "title": "107 restaurants",
+   "text": "Gross receipts are $10.5M and profit is $207,000.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1940",
+   "cat": "growth",
+   "title": "The Pennsylvania Turnpike",
+   "text": "The company wins the contract for 24 restaurants on the new turnpike. It keeps the monopoly until 1979.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Summer",
+   "year": "1944",
+   "cat": "death",
+   "title": "Twelve left",
+   "text": "Gasoline rationing cuts the chain from about 200 restaurants to 12. The company runs war-plant cafeterias to survive.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1953",
+   "cat": "growth",
+   "title": "Lake George opens",
+   "text": "Carl DeSantis opens a franchised restaurant on Route 9 in Lake George, New York. It will be the last one.",
+   "src": [
+    8,
+    13
+   ]
+  },
+  {
+   "date": "",
+   "year": "1954",
+   "cat": "growth",
+   "title": "About 400 restaurants, and the first motor lodge",
+   "text": "The chain is in 32 states. About 10% of units are company-owned turnpike sites. The company enters the motel business.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "1956",
+   "cat": "growth",
+   "title": "Lake Placid opens",
+   "text": "The restaurant that Ron Butler would later own opens in Lake Placid, New York.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1959",
+   "cat": "corporate",
+   "title": "The son takes over",
+   "text": "Howard Brennan Johnson, 26, becomes president. A restaurant opens in Times Square at Broadway and 46th Street.",
+   "src": [
+    1,
+    23
+   ]
+  },
+  {
+   "date": "",
+   "year": "1960",
+   "cat": "kitchen",
+   "title": "Franey and Pépin",
+   "text": "The company hires Pierre Franey and Jacques Pépin from Le Pavillon to oversee its commissary cooking. Pépin dates his own arrival to the spring of 1960.",
+   "src": [
+    13,
+    19
+   ]
+  },
+  {
+   "date": "",
+   "year": "1961",
+   "cat": "money",
+   "title": "Goes public",
+   "text": "Howard Johnson Co. lists with 605 restaurants, 10 Red Coach Grills and 88 franchised motor lodges. 1960 net sales were $95M.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1963",
+   "cat": "corporate",
+   "title": "Company-owned outnumber franchised",
+   "text": "For the first time the company runs more Howard Johnson’s than its licensees do.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1966",
+   "cat": "growth",
+   "title": "Bangor opens",
+   "text": "A restaurant and lounge opens beside the motor lodge on Odlin Road in Bangor, Maine.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "",
+   "year": "1969",
+   "cat": "corporate",
+   "title": "Ground Round",
+   "text": "The company starts a pub-style suburban chain.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1972",
+   "cat": "corporate",
+   "title": "The founder dies",
+   "text": "Howard Deering Johnson dies. He had stayed on as chairman and treasurer until 1964.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1974",
+   "cat": "death",
+   "title": "Expansion stops",
+   "text": "After the oil embargo, Howard B. Johnson halts new building. Highway sites produce 85% of the business.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1975",
+   "cat": "growth",
+   "title": "929 restaurants",
+   "text": "649 are company-operated. There are also 536 motor lodges, 32 Red Coach Grills and 63 Ground Rounds.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Sep",
+   "year": "1979",
+   "cat": "money",
+   "title": "Imperial Group bids $630M",
+   "text": "The British conglomerate offers $28 a share for 1,040 restaurants and 520 motor lodges. Howard B. Johnson collects $35.2M for his shares. Imperial owns the company from 1980.",
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "1981",
+   "cat": "corporate",
+   "title": "Johnson leaves",
+   "text": "Howard B. Johnson resigns as chairman, president and chief executive at the end of the year. G. Michael Hostage, a Marriott veteran, succeeds him.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Sep 24",
+   "year": "1985",
+   "cat": "money",
+   "title": "Sold to Marriott and split",
+   "text": "Marriott buys the company for $314M, keeps 418 company restaurants and sells the name, the lodges and 199 franchised restaurants to Prime Motor Inns for $235M. Imperial keeps Ground Round.",
+   "src": [
+    2,
+    3
+   ]
+  },
+  {
+   "date": "May 22",
+   "year": "1986",
+   "cat": "corporate",
+   "title": "Franchise Associates Inc.",
+   "text": "The restaurant franchisees incorporate their own company and receive an exclusive license to the Howard Johnson’s name for restaurants and signature foods.",
+   "src": [
+    5,
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1990",
+   "cat": "money",
+   "title": "Prime sells the hotel brand",
+   "text": "Prime Motor Inns sells the Howard Johnson and Ramada franchise systems to an affiliate of Blackstone, and files for Chapter 11 in September.",
+   "src": [
+    1,
+    26
+   ]
+  },
+  {
+   "date": "",
+   "year": "1991",
+   "cat": "death",
+   "title": "About 160 left",
+   "text": "About 110 franchised restaurants remain, and Marriott has 50. Franchise Associates buys 17 of Marriott’s.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "2005",
+   "cat": "death",
+   "title": "Eight left; Times Square closes",
+   "text": "The Associated Press counts eight restaurants in May. The Times Square restaurant closes that year.",
+   "src": [
+    6,
+    24
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "2007",
+   "cat": "death",
+   "title": "Three left",
+   "text": "Waterbury, Connecticut leaves the system. Lake George, Bangor and Lake Placid remain.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Mar 31",
+   "year": "2015",
+   "cat": "death",
+   "title": "Lake Placid closes",
+   "text": "The Butler family sells the property to local restaurant owners after nearly 59 years.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Sep 6",
+   "year": "2016",
+   "cat": "death",
+   "title": "Bangor closes",
+   "text": "The restaurant closes; the motel beside it stays open. One Howard Johnson’s restaurant is left.",
+   "src": [
+    10,
+    11
+   ]
+  },
+  {
+   "date": "Spring",
+   "year": "2022",
+   "cat": "death",
+   "title": "Lake George closes",
+   "text": "The last restaurant shuts and the property is offered for lease. The exact last day of service is not reported.",
+   "src": [
+    14,
+    15
+   ]
+  }
+ ]
+}

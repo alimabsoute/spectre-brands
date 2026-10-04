@@ -1,0 +1,97 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Orange roof, blue cupola",
+ "label": "Brand gallery",
+ "lede": "The building was the advertisement. The roof tiles were a particular orange chosen to catch a motorist’s eye, and a New England cupola sat on top.[^1] The photographs and postcards below are free-licensed or public domain; the drawings are ours.",
+ "archive": [
+  {
+   "image": "img/nashua-postcard.avif",
+   "date": "c. 1930–1945",
+   "caption": "Howard Johnson’s, Nashua, New Hampshire. Linen postcard by Tichnor Brothers of Boston.",
+   "alt": "Postcard of a white restaurant with an orange roof",
+   "credit": "Tichnor Brothers, publisher; Boston Public Library collection, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Howard_Johnson%27s,_Nashua,_N.H_(77857).jpg). Public domain."
+  },
+  {
+   "image": "img/turnpike-midway.avif",
+   "date": "c. 1940–1945",
+   "caption": "“The Midway on America’s Super Highway”: the Howard Johnson restaurant at the Midway plaza of the Pennsylvania Turnpike.",
+   "alt": "Postcard of a stone turnpike service plaza",
+   "credit": "Published by Howard Johnson Publishing Department, Bedford, Pa.; printed by Tichnor Bros., via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_midway_on_America%27s_Super_Highway,_Howard_Johnson_Restaurant_(79695).jpg). Public domain."
+  },
+  {
+   "image": "img/pa-1999.avif",
+   "date": "1999",
+   "caption": "Entrance to a full-service Howard Johnson’s restaurant in Pennsylvania.",
+   "alt": "Restaurant entrance with an orange roof and teal spire",
+   "credit": "Photo: Christopher Ziemnowicz (CZmarlin), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Howard_Johnsons_restaurant_1999_PA_entrance.jpg). Public domain."
+  },
+  {
+   "image": "img/lake-george.avif",
+   "date": "Jun 2007",
+   "caption": "The Lake George, New York restaurant, then one of the last three.",
+   "alt": "A low restaurant building with an orange roof and a blue spire beside a parking lot",
+   "credit": "Photo: Jennifer Rafieyan, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Howard_Johnson%27s_in_Lake_George.jpg), CC BY 2.0."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same roof, about seventy years apart",
+   "ratio": "3/2",
+   "before": {
+    "label": "c. 1930–1945",
+    "image": "img/nashua-postcard.avif",
+    "caption": "Nashua, New Hampshire, when the chain was spreading along New England’s highways.[^27]",
+    "alt": "Postcard of the Nashua Howard Johnson’s"
+   },
+   "after": {
+    "label": "2007",
+    "image": "img/lake-george.avif",
+    "caption": "Lake George, New York, fifteen years before it became the last to close.[^27][^14]",
+    "alt": "The Lake George Howard Johnson’s in 2007"
+   },
+   "source": "Wikimedia Commons: Tichnor Brothers postcard (public domain) and photo by Jennifer Rafieyan (CC BY 2.0)[^27]."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The roadside restaurant.",
+   "caption": "Orange roof, cupola and weathervane, as seen from the road. Original illustration."
+  },
+  {
+   "art": "art/cone.svg",
+   "title": "Twenty-eight flavors.",
+   "caption": "The business began with a high-butterfat ice cream in 1925.[^1] Original illustration."
+  },
+  {
+   "art": "art/clams.svg",
+   "title": "The clam plate.",
+   "caption": "Fried clams were a specialty of the first restaurant in 1929 and were still on the menu in Bangor in 2016.[^1][^11] Original illustration."
+  },
+  {
+   "art": "art/road-sign.svg",
+   "title": "Next exit.",
+   "caption": "Highway sites produced 85% of the business in the 1970s.[^1] Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#e8641b",
+   "label": "Roof orange (approximate)"
+  },
+  {
+   "hex": "#3aa6b0",
+   "label": "Cupola turquoise (approximate)"
+  },
+  {
+   "hex": "#ffffff",
+   "label": "Clapboard white"
+  },
+  {
+   "hex": "#b8470f",
+   "label": "This page’s accent"
+  }
+ ],
+ "disclaimer": "Colours are approximations chosen by eye from the photographs above, not official specifications. Howard Johnson and Howard Johnson’s are trademarks of their owner. The drawings are original illustrations and do not reproduce the chain’s logos or its Simple Simon and the Pieman emblem.[^21]"
+}

@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "Management that stood pat",
+   "text": "Howard B. Johnson stopped all expansion after the 1974 oil embargo and later called it an overreaction. The company held $90M in cash and securities and carried no long-term debt beyond leases while rivals built. A former executive said the company had ideas to upgrade the restaurants and hotels but did not want to spend the money. The Hartford Courant summed up his tenure as cutting costs and raising prices.[^1][^7]"
+  },
+  {
+   "weight": 25,
+   "title": "Fast food did the same job faster",
+   "text": "The reference history says the chain was falling behind McDonald’s and Burger King, and that customers complained of slow service and overpriced, bland, mostly frozen food. In 1985 analysts told the Los Angeles Times that the chain had failed to keep up with growing competition, and that the name itself might be a liability.[^1][^2] McDonald’s had 45,356 restaurants at the end of 2025.[^17]"
+  },
+  {
+   "weight": 20,
+   "title": "The 1985 breakup",
+   "text": "Marriott bought the company for its sites, not its brand, and planned to convert the 350 company restaurants. The trademark went to a hotel company. Prime’s executive vice president said of the franchised restaurants that Prime was more anxious to be rid of them than the franchisees were to get them.[^2][^4] After 1985 nobody who owned the name had a reason to invest in the restaurants."
+  },
+  {
+   "weight": 15,
+   "title": "Dependence on the highway",
+   "text": "Highway operations were 85% of the business in the 1970s. Rationing had already cut the chain to 12 restaurants in 1944; the 1974 embargo and later fuel price rises hit the same weakness.[^1] In Bangor the manager blamed nearby hotels that had started giving away breakfast.[^10]"
+  },
+  {
+   "weight": 10,
+   "title": "A franchisee co-operative without capital",
+   "text": "Franchise Associates collected 1.5% of franchisees’ gross revenue and planned to spend $1.4M on restaurant services in 1987–88. It owned the recipes and a license, not the trademark. By 2005 the Associated Press found its website out of date and its phone unanswered; by 2007 the rights were with La Mancha Group, which one franchisee said provided almost nothing.[^4][^5][^6][^7]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The sources document what happened. How much each factor contributed is a judgment, and a reasonable reader could weigh fast-food competition above management."
+}

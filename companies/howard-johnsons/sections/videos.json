@@ -1,0 +1,62 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The roof on television",
+ "lede": "Two commercials from the years when the chain was growing, and four pieces of reporting from the years when it was down to its last restaurants.",
+ "videos": [
+  {
+   "id": "c1962",
+   "title": "Howard Johnson’s television commercial",
+   "year": 1962,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "EBNUUeHNkDI",
+   "caption": "A 29-second spot selling the orange roof and the 28 flavors to families on the road. The year 1962 comes only from the uploader.[^31]"
+  },
+  {
+   "id": "c1970",
+   "title": "Animated commercial for children’s parties",
+   "year": 1970,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "eoB7xxrUkPs",
+   "caption": "An animated one-minute ad inviting children to hold their parties at the restaurant. The year 1970 comes only from the uploader, a commercial-archive channel.[^31]"
+  },
+  {
+   "id": "cbs2015",
+   "title": "CBS Sunday Morning: “The last Howard Johnson’s restaurant”",
+   "year": 2015,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "BdyTO6V4fuM",
+   "caption": "Published July 12, 2015. Kristine Johnson visits Lake George, a few months after it reopened and after Lake Placid closed. Bangor was still open at the time.[^28]"
+  },
+  {
+   "id": "bbc2017",
+   "title": "BBC News: “The last Howard Johnson’s”",
+   "year": 2017,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "l0FStYXDtqo",
+   "caption": "Published August 31, 2017. A BBC reporter who shares the founder’s name visits the Lake George restaurant and asks what went wrong.[^29]"
+  },
+  {
+   "id": "wnyt2022",
+   "title": "WNYT: “Last Howard Johnson’s restaurant in America closes”",
+   "year": 2022,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "J1ktoIkRFz0",
+   "caption": "Published June 2, 2022 by the Albany NBC affiliate: the local report on the closing of the Lake George restaurant.[^15]"
+  },
+  {
+   "id": "sammarco",
+   "title": "A history of Howard Johnson’s, with Anthony Sammarco",
+   "year": 2021,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "JGTec1bDWfM",
+   "caption": "Published June 1, 2021. An hour-long podcast interview with the Boston historian who wrote a book-length history of the chain. Useful background; we did not use it as a source for figures."
+  }
+ ],
+ "note": "Upload titles and dates on video platforms are often wrong. The two commercials are dated by their uploaders only."
+}

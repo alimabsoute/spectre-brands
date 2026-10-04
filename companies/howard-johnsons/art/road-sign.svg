@@ -1,0 +1,15 @@
+<svg viewBox="0 0 360 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a highway exit sign with a fork, a bed and a fuel pump, beside an empty road">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M0 250H360"/><path d="M40 266h40M120 266h40M200 266h40M280 266h40" stroke-width="2.4"/>
+<path d="M96 250V150M264 250V150"/>
+<rect x="50" y="40" width="260" height="112" rx="8" fill="#3aa6b0"/>
+<rect x="60" y="50" width="240" height="92" rx="5" stroke="#fbf9f5" stroke-width="2"/>
+<rect x="76" y="66" width="56" height="60" rx="5" fill="#fbf9f5" stroke-width="2.4"/>
+<path d="M96 76v40M96 76c-8 4-8 16 0 20M112 76v40M106 76v12c0 6 12 6 12 0V76" stroke-width="2.4"/>
+<rect x="152" y="66" width="56" height="60" rx="5" fill="#fbf9f5" stroke-width="2.4"/>
+<path d="M162 112V86M162 104h36v8M198 104c0-8-6-10-16-10h-8v10" stroke-width="2.4"/><circle cx="169" cy="97" r="3.5" stroke-width="2"/>
+<rect x="228" y="66" width="56" height="60" rx="5" fill="#fbf9f5" stroke-width="2.4"/>
+<rect x="242" y="80" width="18" height="36" stroke-width="2.4"/><path d="M246 86h10v8h-10ZM260 92h6l4 6v14c0 4-6 4-6 0" stroke-width="2"/>
+<path d="M150 22 L180 6 L210 22Z" fill="#e8641b"/><path d="M150 22H210V40H150Z" fill="#e8641b"/>
+<path d="M300 250c0-14 8-22 18-22s16 8 12 22" fill="#7fb069" stroke-width="2.4"/>
+</g></svg>

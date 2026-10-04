@@ -1,0 +1,169 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Howard Johnson Co. was listed from 1961 to 1980, before electronic filing, so there are no EDGAR documents for the restaurant company. The spine of this page is a reference history that cites the press of the time, checked against contemporary newspaper reports where we could open them. SEC filings are used for today’s hotel brand and for rivals.",
+ "list": [
+  {
+   "id": 1,
+   "text": "“Howard Johnson International, Inc.,” International Directory of Company Histories, vol. 72 (St. James Press, 2005), reproduced at [FundingUniverse](https://www.fundinguniverse.com/company-histories/howard-johnson-international-inc-history/). A reference history that itself cites Fortune (1940), Business Week, Forbes (1978) and The New York Times (1979, 1982, 1985)"
+  },
+  {
+   "id": 2,
+   "text": "Los Angeles Times: [report on the sale of Howard Johnson Co. to Marriott and Prime Motor Inns](https://www.latimes.com/archives/la-xpm-1985-09-25-fi-19966-story.html), Sep 25, 1985"
+  },
+  {
+   "id": 3,
+   "text": "United Press International: [“Marriott to buy Howard Johnson”](https://www.upi.com/Archives/1985/09/24/Marriott-to-buy-Howard-Johnson/9000496382400/), Sep 24, 1985"
+  },
+  {
+   "id": 4,
+   "text": "Orlando Sentinel: [“Restaurant chain fights stale image: operators hope to end Howard Johnson slump”](https://www.orlandosentinel.com/1987/04/30/restaurant-chain-fights-stale-image-operators-hope-to-end-howard-johnson-slump/), Apr 30, 1987"
+  },
+  {
+   "id": 5,
+   "text": "Franchise Associates, Inc.: [“The Howard Johnson Story: A New Era, 1980–Present”](https://web.archive.org/web/20010302151522/http://www.franchiseassociates.com/history/present.htm), company website as archived Mar 2, 2001 (Internet Archive)"
+  },
+  {
+   "id": 6,
+   "text": "Associated Press, via NBC News: [report on the eight remaining Howard Johnson’s restaurants](https://www.nbcnews.com/id/wbna7864772), May 15, 2005"
+  },
+  {
+   "id": 7,
+   "text": "Hartford Courant: [“Broken chain: state loses last HoJo’s”](https://www.courant.com/2007/04/15/broken-chain-state-loses-last-hojos/), Apr 15, 2007"
+  },
+  {
+   "id": 8,
+   "text": "Times Union (Albany): [“Restaurants served a slice of Americana”](https://web.archive.org/web/20230320201613/http://www.timesunion.com/local/article/Restaurants-served-a-slice-of-Americana-3694523.php), Marv Cermak, Jul 9, 2012 (Internet Archive copy)"
+  },
+  {
+   "id": 9,
+   "text": "NPR: [“With nostalgia and a last nosh, 1 of 3 remaining HoJo’s closes”](https://www.npr.org/transcripts/396786638), Brian Mann, transcript, Apr 1, 2015"
+  },
+  {
+   "id": 10,
+   "text": "Bangor Daily News: [“Restaurant, lounge at Bangor Howard Johnson to close”](https://www.bangordailynews.com/2016/08/24/bangor/restaurant-lounge-at-bangor-howard-johnson-to-close), Dawn Gagnon, Aug 24, 2016"
+  },
+  {
+   "id": 11,
+   "text": "Maine Public / Associated Press: [“Bangor’s Howard Johnson restaurant closes Tuesday”](https://www.mainepublic.org/maine/2016-09-06/bangors-howard-johnson-restaurant-closes-tuesday), Sep 6, 2016"
+  },
+  {
+   "id": 12,
+   "text": "Fortune / Time: [“There will soon be just one Howard Johnson restaurant left in the U.S.”](https://fortune.com/2016/08/24/howard-johnson-restaurant-closing), Katie Reilly, Aug 24, 2016, quoting the Associated Press"
+  },
+  {
+   "id": 13,
+   "text": "Eater: [feature on the last Howard Johnson’s restaurant, Lake George](https://www.eater.com/2017/2/14/14601970/last-howard-johnsons-lake-george-new-york/), Feb 14, 2017"
+  },
+  {
+   "id": 14,
+   "text": "CNN Business: [report on the closing of the last Howard Johnson’s restaurant](https://www.cnn.com/2022/06/01/business-food/howard-johnsons-last-restaurant/index.html), Jordan Valinsky, Jun 1, 2022"
+  },
+  {
+   "id": 15,
+   "text": "WNYT NewsChannel 13 (Albany): [“Last iconic Howard Johnson’s restaurant closes in Lake George”](https://wnyt.com/archive/last-iconic-howard-johnsons-restaurant-closes-in-lake-george), June 2022, and its [video report](https://www.youtube.com/watch?v=J1ktoIkRFz0), published Jun 2, 2022"
+  },
+  {
+   "id": 16,
+   "text": "Wyndham Hotels & Resorts, Inc.: [Form 10-K for 2025](https://www.sec.gov/Archives/edgar/data/1722684/000172268426000007/wh-20251231.htm), filed Feb 19, 2026: brand portfolio table and “Our History”"
+  },
+  {
+   "id": 17,
+   "text": "McDonald’s Corporation: [Form 10-K for 2025](https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm), filed Feb 24, 2026: systemwide restaurants at year end"
+  },
+  {
+   "id": 18,
+   "text": "Denny’s Corporation: [Form 10-K for fiscal 2024](https://www.sec.gov/Archives/edgar/data/852772/000085277225000070/denn-20241225.htm), filed Feb 24, 2025"
+  },
+  {
+   "id": 19,
+   "text": "KLCS Public Media: [“Full exclusive interview with Jacques Pépin”](https://klcs.org/full-exclusive-interview-with-jacques-pepin/) (undated on the page)"
+  },
+  {
+   "id": 20,
+   "text": "New England Historical Society: [“Howard Johnson’s goes from one restaurant to 1,000 to zero”](https://newenglandhistoricalsociety.com/howard-johnson-2-restaurant-1000-back-2/)"
+  },
+  {
+   "id": 21,
+   "text": "Mental Floss: [history of the Howard Johnson’s restaurants](https://www.mentalfloss.com/food/restaurants/howard-johnsons-restaurant-history)"
+  },
+  {
+   "id": 22,
+   "text": "CapeCod.com: [“The history of Howard Johnson’s restaurant”](https://www.capecod.com/lifestyle/the-history-of-howard-johnsons-restaurant/)"
+  },
+  {
+   "id": 23,
+   "text": "The Real Deal: [“1551 Broadway: the transformation from HoJo’s to American Eagle”](https://therealdeal.com/new-york/2010/03/19/1515-broadway-the-transformation-from-hojos-to-american-eagle-outfitters-james-gardner-says-is-bad/), James Gardner, Mar 19, 2010"
+  },
+  {
+   "id": 24,
+   "text": "The Bowery Boys: New York City History: [post on the Times Square Howard Johnson’s](https://boweryboyshistory.com/?p=963)"
+  },
+  {
+   "id": 25,
+   "text": "Yankee / New England.com: [“The last Howard Johnson’s restaurant in New England”](https://newengland.com/yankee/history/howard-johnsons-restaurant/), Aimee Tucker, visit in 2015, updated Jul 26, 2022"
+  },
+  {
+   "id": 26,
+   "text": "“Prime Hospitality Corporation” company history, reproduced at [company-histories.com](https://company-histories.com/Prime-Hospitality-Corporation-Company-History.html)"
+  },
+  {
+   "id": 27,
+   "text": "Wikimedia Commons file pages for the four images used: [Nashua postcard](https://commons.wikimedia.org/wiki/File:Howard_Johnson%27s,_Nashua,_N.H_(77857).jpg), [Pennsylvania Turnpike Midway postcard](https://commons.wikimedia.org/wiki/File:The_midway_on_America%27s_Super_Highway,_Howard_Johnson_Restaurant_(79695).jpg), [Pennsylvania entrance, 1999](https://commons.wikimedia.org/wiki/File:Howard_Johnsons_restaurant_1999_PA_entrance.jpg), [Lake George, 2007](https://commons.wikimedia.org/wiki/File:Howard_Johnson%27s_in_Lake_George.jpg)"
+  },
+  {
+   "id": 28,
+   "text": "CBS Sunday Morning: [“The last Howard Johnson’s restaurant”](https://www.youtube.com/watch?v=BdyTO6V4fuM), video, published Jul 12, 2015"
+  },
+  {
+   "id": 29,
+   "text": "BBC News: [“The last Howard Johnson’s (by Howard Johnson)”](https://www.youtube.com/watch?v=l0FStYXDtqo), video, published Aug 31, 2017"
+  },
+  {
+   "id": 30,
+   "text": "Map data: U.S. Census Bureau cartographic boundary files and [us-atlas](https://github.com/topojson/us-atlas) (Census-derived TopoJSON). Rendered with d3-geo."
+  },
+  {
+   "id": 31,
+   "text": "YouTube uploads of two commercials: [“Howard Johnson’s Commercial 1962”](https://www.youtube.com/watch?v=EBNUUeHNkDI) (uploaded Apr 8, 2022) and [“1970 Howard Johnson’s Restaurant Commercial”](https://www.youtube.com/watch?v=eoB7xxrUkPs) (uploaded Mar 6, 2009). Dates of airing are the uploaders’"
+  }
+ ],
+ "notes": [
+  {
+   "label": "Editorial",
+   "text": "this page is about the restaurant chain. “Died 2022” is the year the last restaurant closed. The decline ran from the mid-1970s, the founding family sold in 1979–80, and corporate ownership of the restaurants ended in 1985, when Marriott took the company-owned units and the franchisees were left with a license. The hotel brand is a separate business and is alive."
+  },
+  {
+   "label": "Sources we could not open",
+   "text": "The New York Times archive (its 1979, 1982 and 1985 articles on the company, and Jacques Pépin’s 2005 essay) was not reachable from our tools, so nothing here is cited to it directly. The reference history[^1] cites those articles. The UPI report[^3] was read through a fetch tool that returned a summary, so we use it only for its figures."
+  },
+  {
+   "label": "Ranges and disagreements",
+   "text": "Peak size: 929 restaurants at the end of 1975 and 1,040 at the 1979 sale[^1]; “about 850”[^6]; “nearly 900”[^7]; “about 1,000” or “more than 1,000” in later press[^14][^25]. We use 1,040. 1979–80 price: $630M[^1][^5] or $650M[^4]. 1985 price: $314M[^1][^2] or $300M[^3][^4]. First restaurant: 1929[^1] or 1928 (the AP’s “three years later”)[^6]. Hiring of Franey and Pépin: 1960[^13][^19] or 1959[^21]. Founder’s death: 1972[^1][^20]; a former franchisee recalled 1975 on NPR[^9]. Imperial’s offer was accepted in September 1979 and several sources date its ownership from 1980."
+  },
+  {
+   "label": "Derived",
+   "text": "617 restaurants at the 1985 sale = 350 + 68 + 199[^2]. About 160 restaurants in 1991 = about 110 franchised + 50 Marriott-owned[^1]. 1975 franchised restaurants = 929 − 649 = 280[^1]. 1979 split of 780 and 260 = 75% and 25% of 1,040[^1], approximate. Fall in pretax earnings = (14.7 − 34) ÷ 34 = −57%[^1]. McDonald’s multiple = 45,356 ÷ 1,040 = 43.6[^17][^1]. “Nearly 59 years” for Lake Placid = April 1956 to March 2015[^9]. “Ninety-seven years” = 1925 to 2022."
+  },
+  {
+   "label": "Estimates and round figures",
+   "text": "“About 200” restaurants before rationing, “about 400” in 1954, “about 110” franchised in 1991 and “about 150” franchisees in the 1985–86 dispute are the reference history’s round numbers[^1]. Jacques Pépin’s statement that three fast-food chains together were smaller than Howard Johnson’s in the mid-1960s is a recollection[^19]."
+  },
+  {
+   "label": "Unverified or unknown",
+   "text": "The exact last day of service in Lake George (reports say only that it closed in the weeks before June 1, 2022)[^14]. The exact closing date of the Times Square restaurant in 2005; a widely repeated date of July 9 could not be confirmed in a source we opened. When and on what terms the restaurant rights moved from Franchise Associates to La Mancha Group, and from there to the hotel brand’s owner; Eater says only that Wyndham held the trademarks by 2017[^13]. Year-by-year sales and profit of the restaurants. A complete list of locations. The fate of the Lake George building after 2022."
+  },
+  {
+   "label": "Video dates",
+   "text": "The two commercials are dated 1962 and 1970 by their uploaders only[^31]. News videos are dated by their publication on the broadcaster’s channel."
+  },
+  {
+   "label": "Images",
+   "text": "All four photographs and postcards are from Wikimedia Commons under the licenses stated in the gallery[^27]. The postcards are dated by the Boston Public Library to about 1930–1945; the turnpike card cannot predate 1940. The drawings are original and are not official assets."
+  },
+  {
+   "label": "General knowledge",
+   "text": "Town locations on the map; that Quincy is south of Boston; that Lake George and Lake Placid are in the Adirondacks."
+  }
+ ]
+}

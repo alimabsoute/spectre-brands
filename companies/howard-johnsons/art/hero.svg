@@ -1,0 +1,17 @@
+<svg viewBox="0 0 420 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a roadside restaurant with an orange roof, a turquoise cupola and a weathervane">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 262H400" />
+<rect x="60" y="170" width="300" height="92" fill="#fbf9f5"/>
+<path d="M40 172 L96 104 H324 L380 172Z" fill="#e8641b"/>
+<path d="M70 150H350M84 128H336" stroke="#b8470f" stroke-width="2"/>
+<rect x="186" y="74" width="48" height="30" fill="#fbf9f5"/>
+<path d="M178 76 L210 40 L242 76Z" fill="#3aa6b0"/>
+<rect x="200" y="84" width="20" height="14" fill="#3aa6b0" stroke-width="2"/>
+<path d="M210 40V16M198 22H222M222 22l-7-5M222 22l-7 5" stroke-width="2.4"/>
+<rect x="188" y="204" width="44" height="58" fill="#3aa6b0"/><circle cx="224" cy="234" r="2" fill="#1d1b18"/>
+<rect x="84" y="196" width="80" height="40" fill="#cfe9ec" class="screen"/><path d="M124 196v40M84 216h80" stroke-width="2"/>
+<rect x="256" y="196" width="80" height="40" fill="#cfe9ec" class="screen"/><path d="M296 196v40M256 216h80" stroke-width="2"/>
+<path d="M80 196 h88 l-6 -14 h-76Z" fill="#e8641b" stroke-width="2.4"/><path d="M252 196 h88 l-6 -14 h-76Z" fill="#e8641b" stroke-width="2.4"/>
+<path d="M30 262V150" /><rect x="8" y="118" width="44" height="34" rx="4" fill="#3aa6b0"/><path d="M18 130h24M18 140h16" stroke="#fbf9f5" stroke-width="2.4"/>
+<path d="M372 262c0-16 10-24 20-24s14 10 8 24" fill="#7fb069" stroke-width="2.4"/>
+</g></svg>

@@ -1,0 +1,50 @@
+{
+ "kicker": "The people",
+ "title": "Who built it, who sold it, who closed it",
+ "lede": "Roles and dates are from the sources cited. Later careers are given only where a source covers them.",
+ "people": [
+  {
+   "name": "Howard Deering Johnson",
+   "role": "Founder; sole owner until 1961",
+   "text": "A grammar-school education and a failed family cigar business behind him, he bought the Wollaston store in 1925. He pioneered restaurant franchising because banks would not lend to him. Chairman and treasurer until 1964.[^1]",
+   "later": "Died in 1972.[^1]"
+  },
+  {
+   "name": "Howard Brennan Johnson",
+   "role": "President from 1959; chairman and CEO until the end of 1981",
+   "text": "Took over at 26, after Andover, Yale and Harvard Business School. Shifted the chain toward company-owned units, then froze expansion in 1974. Received $35.2M for his shares in the Imperial sale.[^1]"
+  },
+  {
+   "name": "Pierre Franey",
+   "role": "Vice president for menu development, from about 1960",
+   "text": "Executive chef of Le Pavillon in New York before the founder hired him.[^19][^20]",
+   "later": "Later a food columnist for The New York Times.[^20]"
+  },
+  {
+   "name": "Jacques Pépin",
+   "role": "Commissary chef, from 1960",
+   "text": "Says he chose Howard Johnson’s over a job at the Kennedy White House. He began on the line at a Howard Johnson’s in Queens before moving to the commissary, where he and Franey worked for nearly a decade.[^19][^21][^13]",
+   "later": "Became a television cook and author.[^19]"
+  },
+  {
+   "name": "G. Michael Hostage",
+   "role": "President and CEO under Imperial, from 1982",
+   "text": "A fifteen-year Marriott veteran. Tried to integrate adjacent restaurants and lodges and let managers buy food from outside suppliers.[^1][^2]"
+  },
+  {
+   "name": "George Carter",
+   "role": "Chairman, Franchise Associates Inc.",
+   "text": "A second-generation franchisee who led the operators’ company formed after the 1985 breakup. In 1987 he said the chain needed to be modernized inside and out.[^4]"
+  },
+  {
+   "name": "Carl and Joe DeSantis",
+   "role": "Owners, Lake George",
+   "text": "Carl DeSantis opened the Lake George restaurant in 1953 and handed the family company to his son Joe in 1995. Joe closed it in 2011 and later leased it to a former employee, who reopened it in January 2015.[^13]"
+  },
+  {
+   "name": "Ron Butler",
+   "role": "Owner, Lake Placid",
+   "text": "Came to manage the Lake Placid restaurant when it opened in April 1956, bought it a few years later and ran it with his sons until March 2015.[^9]"
+  }
+ ]
+}

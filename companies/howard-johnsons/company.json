@@ -1,0 +1,121 @@
+{
+ "name": "Howard Johnson’s",
+ "number": "016",
+ "tier": "ghost",
+ "tierWhy": "The last Howard Johnson’s restaurant, in Lake George, New York, closed in 2022, but the name still hangs on 304 hotels franchised by Wyndham Hotels & Resorts.[^14][^16]",
+ "category": "restaurants",
+ "cause": "management",
+ "years": "1925 – 2022",
+ "died": 2022,
+ "dates": [
+  {
+   "date": "1985-09-24",
+   "text": "was sold by Imperial Group to Marriott, which kept the company-owned restaurants and passed the name and the hotels to Prime Motor Inns"
+  },
+  {
+   "date": "1986-05-22",
+   "text": "franchisees incorporated Franchise Associates Inc. to keep the orphaned restaurants alive"
+  },
+  {
+   "date": "2016-09-06",
+   "text": "closed its restaurant in Bangor, Maine, leaving one in the country"
+  }
+ ],
+ "published": "2026-10-03",
+ "place": "Roadside restaurants · Quincy, Massachusetts",
+ "title": "Howard Johnson’s (1925–2022): post-mortem · Spectre Brands",
+ "description": "From a Quincy soda fountain to more than 1,000 orange roofs and back to none: a sourced post-mortem of the Howard Johnson’s restaurant chain, with charts, a map of the first and last locations, and the commercials.",
+ "theme": {
+  "accent": "#b8470f",
+  "soft": "#fdeee2"
+ },
+ "card": {
+  "blurb": "Once the largest restaurant chain in America, with 28 flavors and an orange roof on every highway. It was sold twice in six years, split in two, and left to its franchisees.",
+  "stat": {
+   "value": "1,040 to 0",
+   "label": "restaurants, 1979 to 2022"
+  },
+  "spark": [
+   107,
+   12,
+   400,
+   605,
+   929,
+   1040,
+   617,
+   160,
+   8,
+   1,
+   0
+  ],
+  "peak": 5
+ },
+ "hero": {
+  "dates": "Soda fountain bought in 1925. Last restaurant closed in 2022.",
+  "standfirst": "The roof was orange so that drivers could see it from a distance. By the end there was one left to see.",
+  "deck": "Howard Johnson’s taught America to eat the same meal in every state. It had 1,040 restaurants when a British tobacco group paid $630 million for it, announced in 1979. Six years later it was sold again for half that and cut in two: the restaurants one way, the name and the hotels another. The last restaurant closed in Lake George, New York, in 2022. Most of this story predates electronic filings, so it is built from contemporary press, a reference history and later reporting, and it says where those sources disagree.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of an orange-roofed roadside restaurant with a cupola. Not an official asset.",
+  "motion": "float",
+  "archive": [
+   {
+    "image": "img/nashua-postcard.avif",
+    "caption": "Nashua, N.H., postcard, c. 1930–1945",
+    "alt": "Linen postcard of a white Howard Johnson’s restaurant with an orange roof and cupola"
+   },
+   {
+    "image": "img/turnpike-midway.avif",
+    "caption": "Pennsylvania Turnpike, c. 1940–1945",
+    "alt": "Linen postcard of the stone Midway service plaza on the Pennsylvania Turnpike"
+   },
+   {
+    "image": "img/lake-george.avif",
+    "caption": "Lake George, N.Y., 2007",
+    "alt": "The Lake George Howard Johnson’s restaurant in 2007"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "1,040",
+    "text": "restaurants when Imperial Group agreed to buy the company in 1979, about 75% of them company-owned[^1]"
+   },
+   {
+    "value": "$630M",
+    "text": "paid by Imperial Group, at $28 a share[^1]"
+   },
+   {
+    "value": "$314M",
+    "text": "paid by Marriott six years later for the company without Ground Round[^1][^2]"
+   },
+   {
+    "value": "304",
+    "text": "hotels still carrying the Howard Johnson name at the end of 2025[^16]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It stopped building in 1974 and never restarted.",
+   "text": "Howard B. Johnson froze expansion after the oil embargo and later told Forbes he had overreacted. The company sat on $90M of cash and securities while fast-food and lodging rivals built.[^1]"
+  },
+  {
+   "title": "The restaurants were the weak half.",
+   "text": "Howard Johnson’s restaurants produced 78% of the restaurant group’s sales in 1977 but 57% of its pretax profit. The motels produced 16% of company sales in 1978 and more than 43% of earnings.[^1]"
+  },
+  {
+   "title": "Two sales in six years halved the price.",
+   "text": "Imperial paid $630M and sold for $314M. Pretax earnings fell from $34M in 1979 to $14.7M in 1980 and did not fully recover.[^1][^2]"
+  },
+  {
+   "title": "The 1985 deal separated the name from the kitchens.",
+   "text": "Marriott kept 418 company restaurants to convert to other brands. Prime Motor Inns took the trademark, the hotels and 199 franchised restaurants it did not want.[^2][^4]"
+  },
+  {
+   "title": "The franchisees kept it alive for 37 more years.",
+   "text": "Their company, Franchise Associates, held a perpetual license from 1986. There were about 110 franchised restaurants in 1991, eight in 2005, three in 2007 and one from 2016 to 2022.[^1][^6][^7][^11]"
+  }
+ ]
+}

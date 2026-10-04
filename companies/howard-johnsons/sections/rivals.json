@@ -1,0 +1,192 @@
+{
+ "kicker": "The rivals",
+ "title": "The chains that took the highway",
+ "lede": "Howard Johnson’s was a sit-down restaurant with a long menu. The chains that replaced it at the exit ramp sold fewer things faster, or sold the same thing for longer hours. Only figures we could source are shown; for most rivals that means their latest annual report.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Who is still open",
+   "subtitle": "Restaurant or hotel counts at the dates shown.",
+   "metric": "Locations",
+   "items": [
+    {
+     "name": "Howard Johnson’s restaurants",
+     "status": "ghost",
+     "statusLabel": "Last one closed 2022",
+     "self": true,
+     "value": "0",
+     "text": "1,040 in 1979, 617 at the 1985 sale, 8 in 2005, none since 2022.[^1][^2][^6][^14]",
+     "data": [
+      107,
+      400,
+      605,
+      929,
+      1040,
+      617,
+      160,
+      8,
+      1,
+      0
+     ],
+     "range": [
+      "1939",
+      "2022"
+     ]
+    },
+    {
+     "name": "McDonald’s",
+     "status": "alive",
+     "value": "45,356",
+     "text": "Restaurants worldwide at the end of 2025, about 95% franchised. 13,706 are in the United States.[^17]",
+     "data": [
+      41822,
+      43477,
+      45356
+     ],
+     "range": [
+      "2023",
+      "2025"
+     ]
+    },
+    {
+     "name": "Denny’s",
+     "status": "alive",
+     "value": "1,499",
+     "text": "Denny’s-brand restaurants at December 25, 2024, of which 1,334 are in the United States. The closest surviving format: a full-service chain near the highway.[^18]"
+    },
+    {
+     "name": "Ground Round",
+     "status": "acquired",
+     "statusLabel": "Kept by Imperial, 1985",
+     "value": "210",
+     "text": "Units in 1985. Started by Howard Johnson Co. in 1969 and regarded as one of its more profitable operations.[^1][^2]"
+    },
+    {
+     "name": "Howard Johnson hotels",
+     "status": "alive",
+     "statusLabel": "Wyndham brand",
+     "value": "304",
+     "text": "Properties at the end of 2025, down from 523 at the end of 1995.[^16][^1]",
+     "data": [
+      523,
+      464,
+      304
+     ],
+     "range": [
+      "1995",
+      "2025"
+     ]
+    }
+   ],
+   "source": "International Directory of Company Histories[^1]; Los Angeles Times[^2]; Associated Press[^6]; CNN[^14]; Form 10-K filings of Wyndham Hotels & Resorts, McDonald’s and Denny’s[^16][^17][^18]. The middle point of the hotel series (464) is the AP’s 2005 figure.[^6]"
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "name": "Howard Johnson’s, 1979",
+    "tag": "Sold to Imperial",
+    "alive": false,
+    "rows": [
+     [
+      "Restaurants",
+      "1,040"
+     ],
+     [
+      "Company-owned",
+      "about 75%"
+     ],
+     [
+      "Format",
+      "Table service, long menu"
+     ],
+     [
+      "Food",
+      "Made in commissaries, frozen, shipped"
+     ],
+     [
+      "Where",
+      "Highways: 85% of business"
+     ]
+    ]
+   },
+   "right": {
+    "name": "McDonald’s, 2025",
+    "tag": "Still growing",
+    "alive": true,
+    "rows": [
+     [
+      "Restaurants",
+      "45,356"
+     ],
+     [
+      "Company-owned",
+      "about 5%"
+     ],
+     [
+      "Format",
+      "Counter and drive-through"
+     ],
+     [
+      "Planned openings, 2026",
+      "about 2,600"
+     ],
+     [
+      "Target",
+      "50,000 by end of 2027"
+     ]
+    ]
+   },
+   "source": "Howard Johnson’s figures from the International Directory of Company Histories and Eater[^1][^13]; McDonald’s from its 2025 Form 10-K[^17]. The two columns are 46 years apart and are not a like-for-like comparison."
+  },
+  {
+   "kind": "bars",
+   "title": "What Marriott already owned when it bought the restaurants",
+   "subtitle": "Restaurant units by brand in September 1985. Marriott wanted the sites for its own chains.",
+   "format": "num",
+   "itemLabel": "Chain",
+   "valueLabel": "Units",
+   "items": [
+    {
+     "label": "Bob’s Big Boy (Marriott)",
+     "value": 868,
+     "color": "blue"
+    },
+    {
+     "label": "Roy Rogers (Marriott)",
+     "value": 542,
+     "color": "blue"
+    },
+    {
+     "label": "Howard Johnson’s company-owned restaurants",
+     "value": 350,
+     "self": true
+    },
+    {
+     "label": "Howard Johnson’s franchised restaurants",
+     "value": 199,
+     "self": true
+    },
+    {
+     "label": "Howard Johnson’s turnpike restaurants",
+     "value": 68,
+     "self": true
+    },
+    {
+     "label": "Marriott turnpike restaurants",
+     "value": 40,
+     "color": "blue"
+    }
+   ],
+   "source": "Los Angeles Times, September 25, 1985[^2]."
+  },
+  {
+   "kind": "quote",
+   "text": "It is the restaurants where the majority of the image damage has been done.",
+   "who": "**John J. Rohs**, analyst at Wertheim & Co., to the Los Angeles Times, September 1985[^2]"
+  },
+  {
+   "kind": "note",
+   "body": "We found no reliable year-by-year restaurant counts for McDonald’s, Burger King or Kentucky Fried Chicken in the 1960s and 1970s in sources we could open, so no historical comparison is charted. Jacques Pépin’s recollection that the three together were smaller than Howard Johnson’s in the mid-1960s is his own statement, not a measured figure.[^19]"
+  }
+ ]
+}

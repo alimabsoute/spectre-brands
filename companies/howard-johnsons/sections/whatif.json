@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Keep building after 1974",
+   "actual": "After the oil embargo Howard B. Johnson stopped all expansion. He told Forbes in 1978 that he had overreacted. The company ended the decade with $90M in cash and securities and restaurants that customers described as slow and dated.[^1]",
+   "whatif": "The cash could have paid for new formats in towns instead of on highways, which is what Johnson said new units would be. Ground Round, the one new format the company did build, reached 210 units by 1985 and was the part Imperial chose to keep.[^1][^2] A renewed core chain might have been worth more than $314M in 1985. It would still have faced McDonald’s."
+  },
+  {
+   "tab": "Stay independent in 1979",
+   "actual": "Johnson took $28 a share from Imperial Group, a tobacco company with no American restaurant business. Pretax earnings fell by more than half in the first year, and franchisees said Imperial spent $250,000 on restaurant services in four years.[^1][^4]",
+   "whatif": "An independent company with no debt could have funded its own renovation. But the family had been selling shares since 1961, and the offer was described as too lucrative to pass up.[^1] The more plausible alternative is a different buyer, one that already ran restaurants."
+  },
+  {
+   "tab": "Sell the chain whole in 1985",
+   "actual": "Marriott kept the buildings and sold the name. The 199 franchised restaurants were left with a brand owned by a hotel company and no commissary behind them. They won a license in 1986 and shrank from about 110 in 1991 to eight in 2005.[^1][^2][^6]",
+   "whatif": "A buyer that wanted both the restaurants and the trademark would have had a reason to renovate them. Whether one existed is unknown: the Los Angeles Times reported up to four bidders but did not say what each wanted.[^2] Most family-restaurant chains of that generation have shrunk since, so the likelier outcome is a slower decline, not a rescue."
+  }
+ ]
+}

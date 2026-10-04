@@ -1,0 +1,233 @@
+{
+ "kicker": "The record",
+ "title": "How many restaurants, who owned them, and what they sold for",
+ "label": "The numbers",
+ "lede": "The company was private until 1961 and foreign-owned after 1980, so there is no run of annual filings to chart. What exists is a set of dated counts and prices from a reference history and the press of the time. Every point below is one of those; nothing is interpolated.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "The orange roofs, counted",
+   "subtitle": "Howard Johnson’s restaurants open at each date for which a sourced count exists. The dates are not evenly spaced.",
+   "labels": [
+    "1939",
+    "c. 1941",
+    "1944",
+    "1954",
+    "1961",
+    "1975",
+    "1979",
+    "1985",
+    "1991",
+    "2005",
+    "2007",
+    "2016",
+    "2022"
+   ],
+   "format": "num",
+   "xLabel": "Year of count",
+   "series": [
+    {
+     "label": "Restaurants",
+     "data": [
+      107,
+      200,
+      12,
+      400,
+      605,
+      929,
+      1040,
+      617,
+      160,
+      8,
+      3,
+      1,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 2,
+     "title": "rationing",
+     "text": "Gasoline rationing closes all but 12 restaurants by the summer of 1944.[^1]"
+    },
+    {
+     "i": 4,
+     "title": "the listing",
+     "text": "605 restaurants at the 1961 public offering, 265 of them company-run.[^1]"
+    },
+    {
+     "i": 6,
+     "title": "the peak, and the sale",
+     "text": "1,040 restaurants pass to Imperial Group for $630M.[^1]"
+    },
+    {
+     "i": 7,
+     "title": "the split",
+     "text": "Marriott takes 418 company restaurants to convert; 199 franchised ones go to Prime Motor Inns.[^2]"
+    },
+    {
+     "i": 11,
+     "title": "one left",
+     "text": "Bangor closes on September 6, 2016. Only Lake George remains, until 2022.[^11][^14]"
+    }
+   ],
+   "source": "Counts for 1939–1991 from the International Directory of Company Histories[^1]; 1985 from the Los Angeles Times[^2]; 2005 from the Associated Press[^6]; 2007 from the Hartford Courant[^7]; 2016 and 2022 from Maine Public and CNN[^11][^14]. The 1985 figure (617) is derived: 350 + 68 + 199. The 1991 figure (160) is derived: about 110 franchised plus 50 owned by Marriott in mid-1991. “c. 1941” and 1954 are the source’s round figures (“about 200”, “about 400”).",
+   "note": "Other sources put the peak lower: “about 850” (a chain historian quoted by the AP[^6]) and “nearly 900” (Hartford Courant[^7]). Later press usually says “about 1,000” or “more than 1,000”.[^14][^25]"
+  },
+  {
+   "kind": "chart",
+   "id": "mixChart",
+   "title": "Who ran the restaurants",
+   "subtitle": "Company-operated against franchised Howard Johnson’s restaurants at four dates.",
+   "chart": {
+    "type": "bar",
+    "stacked": true,
+    "labels": [
+     "1961",
+     "1975",
+     "1979",
+     "1985"
+    ],
+    "y": {
+     "format": "num",
+     "title": "Restaurants"
+    },
+    "series": [
+     {
+      "label": "Company-operated",
+      "data": [
+       265,
+       649,
+       780,
+       418
+      ],
+      "color": "brand",
+      "stack": "s"
+     },
+     {
+      "label": "Franchised",
+      "data": [
+       340,
+       280,
+       260,
+       199
+      ],
+      "color": "grey",
+      "stack": "s"
+     }
+    ]
+   },
+   "source": "1961, 1975 and 1979 from the International Directory of Company Histories[^1]; 1985 from the Los Angeles Times[^2]. Derived: 1975 franchised = 929 − 649 = 280. The 1979 split applies the source’s “75 percent company-owned” to 1,040 restaurants (780 and 260), so it is approximate."
+  },
+  {
+   "kind": "chart",
+   "id": "dealChart",
+   "title": "What the company fetched",
+   "subtitle": "Reported prices each time the business, or a piece of it, changed hands, in $ millions. Not adjusted for inflation.",
+   "chart": {
+    "type": "bar",
+    "labels": [
+     "1979–80: whole company|to Imperial Group",
+     "1985: company less Ground Round|to Marriott",
+     "1985: name, lodges, franchises|Marriott to Prime",
+     "1990: HoJo + Ramada systems|Prime to Blackstone"
+    ],
+    "y": {
+     "format": "usdM",
+     "title": "$ millions"
+    },
+    "legend": false,
+    "series": [
+     {
+      "label": "Reported price",
+      "data": [
+       630,
+       314,
+       235,
+       170
+      ],
+      "colors": [
+       "brand",
+       "brand",
+       "grey",
+       "grey"
+      ]
+     }
+    ]
+   },
+   "source": "1979 and 1990 from the International Directory of Company Histories[^1]; 1985 from the Los Angeles Times[^2]. UPI and the Orlando Sentinel give the 1985 price as $300M, and the Sentinel gives the 1979–80 price as $650M.[^3][^4] The $235M is $97M in cash plus $138M of assumed debt.[^1] A history of Prime gives the 1990 deal as $140M for 65% of the two franchise systems.[^26]"
+  },
+  {
+   "kind": "flow",
+   "title": "Where 617 restaurants went in September 1985",
+   "subtitle": "The Marriott deal divided the chain by who owned the building.",
+   "format": "num",
+   "from": {
+    "label": "Howard Johnson’s restaurants at the sale (derived)",
+    "value": 617
+   },
+   "to": [
+    {
+     "label": "Company-owned, kept by Marriott",
+     "value": 350,
+     "color": "brand",
+     "note": "Many were to be converted to Big Boy.[^2]"
+    },
+    {
+     "label": "Turnpike restaurants, kept by Marriott",
+     "value": 68,
+     "color": "gold",
+     "note": "Added to Marriott’s 40 turnpike sites.[^2]"
+    },
+    {
+     "label": "Franchised, passed to Prime Motor Inns",
+     "value": 199,
+     "color": "grey",
+     "note": "Licensed to the franchisees’ own company in 1986.[^5]"
+    }
+   ],
+   "source": "Los Angeles Times, September 25, 1985[^2]. The total of 617 is derived: 350 + 68 + 199."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The balance between restaurants and motels before the sale",
+   "rows": [
+    {
+     "value": "78%",
+     "text": "of the restaurant group’s 1977 sales came from Howard Johnson’s restaurants, but only **57%** of its pretax profit[^1]"
+    },
+    {
+     "value": "43%",
+     "text": "or more of 1978 earnings came from the motels, on 16% of company sales[^1]"
+    },
+    {
+     "value": "$90M",
+     "text": "in cash and marketable securities in the late 1970s, with no long-term debt apart from $143M of capital leases[^1]"
+    },
+    {
+     "value": "−57%",
+     "text": "fall in pretax earnings from $34M (1979) to $14.7M (1980), the first year under Imperial (derived)[^1]"
+    }
+   ],
+   "source": "International Directory of Company Histories, vol. 72[^1]. Derived: (14.7 − 34) ÷ 34 = −57%."
+  },
+  {
+   "kind": "scale",
+   "title": "For each Howard Johnson’s at the peak, McDonald’s now has about 44",
+   "left": {
+    "value": "45,356",
+    "label": "McDonald’s restaurants worldwide, end of 2025"
+   },
+   "unit": {
+    "value": "1,040",
+    "label": "Howard Johnson’s restaurants, 1979"
+   },
+   "count": 44,
+   "icon": "burger",
+   "equation": "45,356 ÷ 1,040 = 43.6, shown as 44 icons. McDonald’s 2025 Form 10-K[^17]; Howard Johnson’s count from the International Directory of Company Histories[^1].",
+   "source": "McDonald’s Corporation Form 10-K for 2025[^17] and the International Directory of Company Histories[^1]. The comparison is across 46 years and between a worldwide and a mostly U.S. chain."
+  }
+ ]
+}
