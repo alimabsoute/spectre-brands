@@ -1,0 +1,84 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Blue, red and nothing in between",
+ "label": "Brand gallery",
+ "lede": "There is no archive of the 1992 packaging under a free license that we could find, so the photographs here are of the 2016 and 2017 re-releases, which reproduced the original label. The drawings are ours.",
+ "archive": [
+  {
+   "image": "img/photo-2016-store-shelf.avif",
+   "date": "Aug 2016",
+   "caption": "A retail display during the first return to US stores, with 1990s squiggles on the cardboard.",
+   "alt": "Crystal Pepsi bottles in a printed cardboard store display",
+   "credit": "Photo: Mike Mozart, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crystal_Pepsi_(28416747103).jpg), CC BY 2.0. Trademarks belong to their owners; shown for commentary."
+  },
+  {
+   "image": "img/photo-2016-bottle.avif",
+   "date": "Sep 2016",
+   "caption": "The 20-ounce bottle of the 2016 release, held up to the sun.",
+   "alt": "A clear plastic bottle of Crystal Pepsi against a blue sky",
+   "credit": "Photo: Smuckola, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crystal_Pepsi_20oz.jpg), CC BY-SA 4.0. Trademarks belong to their owners; shown for commentary."
+  },
+  {
+   "image": "img/photo-2016-label.avif",
+   "date": "Aug 2016",
+   "caption": "The label of the 2016 release, close up.",
+   "alt": "Close view of Crystal Pepsi labels on a row of bottles",
+   "credit": "Photo: Mike Mozart, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crystal_Pepsi_(29001084616).jpg), CC BY 2.0. Trademarks belong to their owners; shown for commentary."
+  },
+  {
+   "image": "img/photo-2017-store-maryland.avif",
+   "date": "Aug 2017",
+   "caption": "The 2017 display: “Last chance to taste the 90s.” PepsiCo’s release called it the last return.[^32]",
+   "alt": "Store display of Crystal Pepsi with a Last chance to taste the 90s sign",
+   "credit": "Photo: Forsaken Fotos, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crystal_Pepsi.jpg), CC BY 2.0. Trademarks belong to their owners; shown for commentary."
+  },
+  {
+   "image": "img/photo-2013-race-car.avif",
+   "date": "Sep 2013",
+   "caption": "A race car in Crystal Pepsi livery, photographed at a track in 2013. The uploader gives no further details and we have not identified the car.",
+   "alt": "A white race car with Crystal Pepsi lettering on a track",
+   "credit": "Photo: Lodahln, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crystal_Pepsi_(9752844193).jpg), CC BY-SA 2.0. Trademarks belong to their owners; shown for commentary."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The bottle.",
+   "caption": "Clear bottle, blue and red label, as the Associated Press described the test-market package.[^5]"
+  },
+  {
+   "art": "art/can.svg",
+   "title": "The can.",
+   "caption": "The 12-ounce can was silver.[^5]"
+  },
+  {
+   "art": "art/bus.svg",
+   "title": "The bus.",
+   "caption": "Fully wrapped buses in San Francisco and Oakland, March 1993.[^13]"
+  },
+  {
+   "art": "art/gravy.svg",
+   "title": "The joke.",
+   "caption": "Saturday Night Live’s clear gravy, October 1993.[^31]"
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#1d4f9c",
+   "label": "Label blue (approx.)"
+  },
+  {
+   "hex": "#c8312b",
+   "label": "Label red (approx.)"
+  },
+  {
+   "hex": "#d9dee4",
+   "label": "Can silver (drawing)"
+  },
+  {
+   "hex": "#e8f1fb",
+   "label": "Page tint"
+  }
+ ],
+ "disclaimer": "Colors are approximations sampled from photographs of the 2016 release, not official values. Crystal Pepsi and Pepsi are trademarks of PepsiCo, Inc. and appear here in historical and editorial context. Drawings are original illustrations, not official assets, and do not reproduce the logo."
+}

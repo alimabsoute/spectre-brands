@@ -1,0 +1,61 @@
+{
+ "kicker": "Marketing",
+ "title": "The launch was the product",
+ "lede": "Pepsi treated the introduction as an event: a teaser on inauguration eve, the Super Bowl, a rock anthem, buses wrapped in vinyl and an ice rink. The spending is known only from press estimates.",
+ "blocks": [
+  {
+   "kind": "counters",
+   "title": "The campaign in numbers",
+   "items": [
+    {
+     "value": "$40M",
+     "text": "estimated advertising support, starting with the Super Bowl on January 31, 1993[^8][^19]"
+    },
+    {
+     "value": "$3,000",
+     "text": "nearly this much per bus per month for six fully wrapped buses in the Bay Area, about three times the cost of conventional bus ads[^13]"
+    },
+    {
+     "value": "5,000",
+     "text": "consumers, at least, in taste testing before the test market[^5]"
+    },
+    {
+     "value": "$2M",
+     "text": "reportedly paid to Van Halen for “Right Now.” Unverified: from a 2021 music site with no primary source[^22]"
+    }
+   ]
+  },
+  {
+   "kind": "drawing",
+   "art": "art/bus.svg",
+   "title": "“Right Now”",
+   "body": "The commercials borrowed the block-letter captions of Van Halen’s video for “Right Now” as well as the song.[^22] Eddie Van Halen told Guitar World in 1996 that the band agreed because Pepsi would otherwise have re-recorded the song with studio musicians: “The only reason we gave Pepsi the music was because they were going to use the song anyway.”[^22]\n\nThe slogan was “You’ve never seen a taste like this.”[^12] It promised a new taste and showed a new look, and the gap between the two became the product’s problem.",
+   "caption": "Six buses in San Francisco and Oakland were covered from headlights to taillights, windows included.[^13] Original illustration."
+  },
+  {
+   "kind": "video",
+   "video": "training"
+  },
+  {
+   "kind": "scale",
+   "title": "The first comeback was 43 times the size of the latest",
+   "icon": "bottle",
+   "count": 43,
+   "left": {
+    "value": "13,000 six-packs",
+    "label": "given away in the December 2015 sweepstakes[^25]"
+   },
+   "unit": {
+    "value": "300 six-packs",
+    "label": "anniversary contests of 2022, each"
+   },
+   "equation": "13,000 ÷ 300 ≈ 43. In bottles: 13,000 × 6 = 78,000 against 300 × 6 = 1,800.[^25][^34] Volumes for the 2016 and 2017 retail runs were not published.",
+   "source": "CNBC, Dec 9, 2015[^25]; CNN Business, Jan 4, 2022[^34]."
+  },
+  {
+   "kind": "text",
+   "title": "Nostalgia as the second campaign",
+   "body": "The revivals were marketed on the 1990s, not on the drink. In 2016 PepsiCo released “The Crystal Pepsi Trail,” an online game styled after 1990s computer games.[^27][^31] In 2017 it ran a three-city Throwback Tour at baseball stadiums with Busta Rhymes, Mark McGrath and Salt-N-Pepa.[^32] In 2022 the price of entry was a photograph of yourself in the 1990s.[^34]"
+  }
+ ]
+}

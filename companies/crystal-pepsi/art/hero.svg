@@ -1,0 +1,15 @@
+<svg viewBox="0 0 300 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a clear cola bottle with a blue and red label and rising bubbles">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M40 362 L260 362" fill="none" stroke="#9fb4cf" stroke-width="2"/>
+<rect x="128" y="18" width="44" height="22" rx="4" fill="#1d4f9c"/>
+<path d="M132 40 L168 40 L170 78 C172 104 206 118 206 160 L206 336 C206 350 196 358 182 358 L118 358 C104 358 94 350 94 336 L94 160 C94 118 128 104 130 78 Z" fill="#f4f9ff"/>
+<path d="M96 150 C120 142 180 142 204 150 L204 336 C204 348 194 356 182 356 L118 356 C106 356 96 348 96 336 Z" fill="#dcecfb" stroke="none"/>
+<rect x="94" y="186" width="112" height="84" fill="#ffffff"/>
+<rect x="94" y="186" width="112" height="30" fill="#1d4f9c"/>
+<rect x="94" y="246" width="112" height="24" fill="#c8312b"/>
+<text x="150" y="207" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="15" fill="#fff" stroke="none" letter-spacing="2">CLEAR</text>
+<text x="150" y="237" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="16" fill="#1d4f9c" stroke="none" letter-spacing="3">COLA</text>
+<path d="M108 120 C104 136 104 150 104 170" fill="none" stroke="#ffffff" stroke-width="5"/>
+<g fill="#ffffff" stroke-width="2"><circle cx="120" cy="300" r="6"/><circle cx="176" cy="318" r="4"/><circle cx="150" cy="292" r="3"/><circle cx="186" cy="290" r="5"/><circle cx="132" cy="330" r="4"/><circle cx="160" cy="166" r="4"/><circle cx="138" cy="150" r="3"/></g>
+<g fill="#dcecfb" stroke-width="2"><circle cx="232" cy="120" r="9"/><circle cx="250" cy="78" r="6"/><circle cx="226" cy="52" r="4"/><circle cx="66" cy="96" r="7"/><circle cx="52" cy="54" r="5"/><circle cx="76" cy="28" r="3"/></g>
+</g></svg>

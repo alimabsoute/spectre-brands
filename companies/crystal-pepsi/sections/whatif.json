@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "A different name",
+   "actual": "Pepsi considered and rejected dozens of names, including Pepsi Clear and Pepsi Ice, and put its flagship name on a drink with a different formula.[^6][^5] Coca-Cola refused to do the same: “Clear Coke is an oxymoron.”[^8] In 1994 Pepsi took its name off the reformulated product.[^19]",
+   "whatif": "Sold from the start as a new drink from the makers of Pepsi, it would have been judged as a light, caffeine-free soda and not as a Pepsi that tasted wrong. It would also have had less attention and a smaller first quarter. The 1994 relaunch tried this, after the curiosity was spent."
+  },
+  {
+   "tab": "Fix it before going national",
+   "actual": "The test ran about six months, partly on heavy price promotion.[^9][^6] Novak said later that colleagues wanted to stop and address problems: “People were saying we should stop and address some issues along the way, and they were right.”[^20] The national launch went ahead with an estimated $40 million of advertising.[^8]",
+   "whatif": "A longer test at full price would have measured repeat purchase instead of trial. If the result was what 1993 later showed, Pepsi could have changed the formula before spending the launch budget, or kept the product regional. Coca-Cola’s clear cola might then have reached the national market first."
+  },
+  {
+   "tab": "Make it taste like Pepsi",
+   "actual": "The 1992 formula was deliberately different: less sweet, no caffeine, 130 calories against 150.[^5] When the drink returned in 2015, a reviewer who compared it with regular Pepsi wrote that it “really does taste like normal Pepsi. Well, kind of.”[^26]",
+   "whatif": "A clear cola that tasted exactly like Pepsi would have delivered what the label implied. It would also have had no reason to exist beyond the look, which is roughly what the nostalgia releases are: a novelty sold for a few weeks, with no expectation of a second purchase."
+  }
+ ]
+}

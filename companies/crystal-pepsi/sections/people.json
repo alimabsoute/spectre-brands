@@ -1,0 +1,43 @@
+{
+ "kicker": "The people",
+ "title": "Who made it, who mocked it, who brought it back",
+ "lede": "Titles are as given in the sources cited. Later careers are included only where a source states them.",
+ "people": [
+  {
+   "name": "David Novak",
+   "role": "Pepsi-Cola marketing executive; creator of the drink",
+   "text": "Introduced it to the press in April 1992: “It’s a unique-tasting product.”[^5] CNN credits him with the idea.[^34]",
+   "later": "Chief executive of Yum Brands, owner of KFC, Taco Bell and Pizza Hut, by 2007, when he called Crystal Pepsi “the best idea I ever had, and the worst executed.”[^20]"
+  },
+  {
+   "name": "Craig Weatherup",
+   "role": "President and chief executive, PepsiCo’s North American beverage division",
+   "text": "Ran the division through the launch and the 1993 syringe hoax.[^16] In March 1994 he announced freshness dating on cans while the clear colas were being overhauled.[^18]"
+  },
+  {
+   "name": "Brian Swette",
+   "role": "Senior vice president of new beverages, Pepsi",
+   "text": "Told the Los Angeles Times in 1992: “It is a product based entirely upon consumer needs.”[^6]"
+  },
+  {
+   "name": "Doug Ivester",
+   "role": "President, Coca-Cola USA",
+   "text": "Unveiled Tab Clear on December 14, 1992 and ruled out the Coke name: “Clear Coke is an oxymoron.”[^8]"
+  },
+  {
+   "name": "Sergio Zyman",
+   "role": "Chief marketing officer, Coca-Cola",
+   "text": "A former Pepsi marketer. He later claimed Tab Clear was a deliberate “kamikaze effort” against Crystal Pepsi.[^21]"
+  },
+  {
+   "name": "Jesse Meyers",
+   "role": "Publisher, Beverage Digest",
+   "text": "Said in April 1992 that a clear cola could expand the whole soft drink business[^5], and in March 1993 supplied the share figure that became the brand’s best-known number.[^15]"
+  },
+  {
+   "name": "Kevin Strahle (L.A. Beast)",
+   "role": "Competitive eater and YouTuber",
+   "text": "His 2013 video and 2015 campaign, with a petition of more than 33,700 signatures and 15 billboards, preceded the first re-release.[^23][^24]"
+  }
+ ]
+}

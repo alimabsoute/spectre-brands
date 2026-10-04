@@ -1,0 +1,83 @@
+{
+ "kicker": "Context",
+ "title": "The year everything went clear",
+ "lede": "Crystal Pepsi was the largest product in a short-lived wave. For about two years, taking the dye out of something was a way to say it was pure.",
+ "blocks": [
+  {
+   "kind": "text",
+   "title": "A flat market looking for a new category",
+   "body": "Soft drink sales grew 4% to 6% a year in the 1980s. In 1991 they were generally flat, and some large brands declined.[^6] Consumers were moving to sports drinks, teas and “New Age” drinks such as Clearly Canadian, which claimed to be all natural.[^6] The New York Times put the growth of New Age beverages at about 20% a year.[^8]\n\nColas were about 70% of soft drink sales[^5], so a cola that borrowed the look of sparkling water was a way to bring the new category to the old one. A Pepsi spokesman described it as taking “a traditional carbonated soft drink” and marrying it “with some of the attributes of the so-called ‘New Age’ products.”[^12]"
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The market Crystal Pepsi was launched into",
+   "rows": [
+    {
+     "value": "$47B",
+     "text": "US retail soft drink sales by 1991, according to PepsiCo[^1]"
+    },
+    {
+     "value": "70%",
+     "text": "share of soft drink sales held by colas[^5]"
+    },
+    {
+     "value": "20%",
+     "text": "annual growth rate of New Age beverages, as reported in December 1992[^8]"
+    },
+    {
+     "value": "4 dozen",
+     "text": "clear products among 16,790 new food, personal care and household products in 1992, by one trade count[^14]"
+    }
+   ],
+   "source": "PepsiCo Annual Report 1992[^1], Associated Press[^5][^14], The New York Times[^8]."
+  },
+  {
+   "kind": "table",
+   "title": "Clear, 1992–1993",
+   "subtitle": "Products named in one Associated Press report in March 1993.",
+   "columns": [
+    "Product",
+    "Maker or brand",
+    "What was claimed"
+   ],
+   "rows": [
+    [
+     "Crystal Pepsi",
+     "Pepsi-Cola",
+     "Natural flavoring, no preservatives, less sweetener"
+    ],
+    [
+     "Tab Clear",
+     "Coca-Cola",
+     "A diet cola, in test in 10 US markets and Britain"
+    ],
+    [
+     "Clear dishwashing liquid",
+     "Palmolive; Ivory",
+     "Tougher on grease, easier on hands"
+    ],
+    [
+     "Clear mouthwash",
+     "Lavoris",
+     "Not stated"
+    ],
+    [
+     "Clear solid deodorant",
+     "Ban",
+     "No white residue on clothes"
+    ],
+    [
+     "Miller Clear",
+     "Miller Brewing",
+     "The industry’s first clear beer, planned for several markets"
+    ]
+   ],
+   "source": "Associated Press, Mar 8, 1993.[^14] The editor of New Product News said the deodorants were the only clear products he knew of that could claim transparency as a benefit."
+  },
+  {
+   "kind": "quote",
+   "text": "The public is looking for a purer product, but taking the color out doesn’t do that. Benzene or turpentine can be ‘clear’ products.",
+   "who": "Gerald Celente, Trends Research Institute, in The Baltimore Sun, Jan 1993[^12]"
+  }
+ ]
+}

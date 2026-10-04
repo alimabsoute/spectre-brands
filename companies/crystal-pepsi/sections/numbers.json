@@ -1,0 +1,277 @@
+{
+ "kicker": "The numbers",
+ "title": "What was promised, what was claimed and what PepsiCo reported",
+ "lede": "There is no sales line for Crystal Pepsi in any PepsiCo filing. What exists is a projection from Pepsi, a share figure from a trade publisher, estimates of the advertising budget, and three years of careful sentences in the annual report. This section keeps them apart.",
+ "blocks": [
+  {
+   "kind": "counters",
+   "title": "Four figures, four different kinds of source",
+   "items": [
+    {
+     "value": "$1B",
+     "text": "**Pepsi’s projection** in December 1992: more than 2% of a $47 billion market in the first national year.[^8]"
+    },
+    {
+     "value": "$474M",
+     "text": "**A trade publisher’s figure** in March 1993: the retail value of the one share point he credited to the brand.[^15] Unverified as a sales total."
+    },
+    {
+     "value": "$40M",
+     "text": "**A press estimate** of the launch advertising support.[^8][^19] PepsiCo did not disclose a budget."
+    },
+    {
+     "value": "0",
+     "text": "**Sales figures published by PepsiCo** for the brand, in dollars or cases, in the 1992, 1993 or 1994 annual reports.[^1][^2][^3]"
+    }
+   ]
+  },
+  {
+   "kind": "arc",
+   "title": "One year from launch to rework",
+   "subtitle": "Crystal Pepsi’s US market share as an index, national launch = 100. The two middle points are from a later newspaper summary, not from PepsiCo.",
+   "labels": [
+    "Apr 1992",
+    "Dec 1992",
+    "Mar 1993",
+    "Dec 1993",
+    "Mid-1994"
+   ],
+   "format": "num",
+   "xLabel": "Share index (Dec 1992 = 100)",
+   "series": [
+    {
+     "label": "Share index",
+     "data": [
+      0,
+      100,
+      75,
+      50,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "test markets only",
+     "text": "On sale in Providence, Dallas and Colorado. No national share; plotted as zero.[^5]"
+    },
+    {
+     "i": 1,
+     "title": "national launch",
+     "text": "Introduced nationally with a projection of more than 2% of the market.[^8]"
+    },
+    {
+     "i": 2,
+     "title": "down a quarter",
+     "text": "Share had fallen 25% from its debut, according to a 2016 summary of 1993 reporting.[^31] PepsiCo says the brand helped the first quarter.[^2]"
+    },
+    {
+     "i": 3,
+     "title": "down by more than half",
+     "text": "The same summary says more than 50% by year-end; plotted as 50.[^31] PepsiCo reports “softening trends.”[^2]"
+    },
+    {
+     "i": 4,
+     "title": "withdrawn",
+     "text": "The original is replaced by a citrus cola called Crystal. Plotted as zero.[^19]"
+    }
+   ],
+   "source": "Index derived from the Carroll County Times / Baltimore Sun, Aug 13, 2016[^31], which summarizes a June 1993 Scripps article we could not open, so the middle points are secondary and unverified. End points are plotting conventions. PepsiCo published no share data.[^2]"
+  },
+  {
+   "kind": "chart",
+   "id": "bevChart",
+   "title": "A small brand inside a large business",
+   "subtitle": "PepsiCo’s domestic beverage sales, and the growth in domestic case sales that the company attributed in part to Crystal Pepsi in 1992 and 1993.",
+   "chart": {
+    "type": "bar",
+    "height": 340,
+    "labels": [
+     "1991",
+     "1992",
+     "1993",
+     "1994"
+    ],
+    "y": {
+     "format": {
+      "pre": "$",
+      "suf": "B",
+      "dec": 1
+     },
+     "min": 0,
+     "max": 8,
+     "title": "Domestic beverage sales"
+    },
+    "y1": {
+     "format": "pct",
+     "min": 0,
+     "max": 8,
+     "title": "Case sales growth",
+     "noGrid": true
+    },
+    "series": [
+     {
+      "label": "Domestic beverage net sales ($B)",
+      "data": [
+       5.2,
+       5.5,
+       5.9,
+       6.5
+      ],
+      "color": "brand"
+     },
+     {
+      "label": "Domestic case sales growth (%)",
+      "data": [
+       null,
+       1,
+       3,
+       6
+      ],
+      "type": "line",
+      "axis": "y1",
+      "color": "ink",
+      "points": true
+     }
+    ],
+    "notes": [
+     {
+      "text": [
+       "Crystal brands",
+       "offset declines in",
+       "Pepsi and Diet Pepsi"
+      ],
+      "s": 1,
+      "i": 2,
+      "dx": -150,
+      "dy": -30
+     }
+    ]
+   },
+   "source": "PepsiCo annual reports for 1992, 1993 and 1994.[^1][^2][^3] In 1992 case sales rose 1%, “driven by gains in the Mountain Dew brands and the new brand Crystal Pepsi” and Lipton tea. In 1993 they rose 3%, and “case sales of the Crystal Pepsi brands offset a decline in brands Pepsi and Diet Pepsi.” In 1994 they rose 6% despite “significant declines in the Crystal Pepsi brands.” Case sales growth for 1991 is not in the reports we read."
+  },
+  {
+   "kind": "chart",
+   "id": "prizeChart",
+   "title": "The size of the prize, and of the bet",
+   "subtitle": "Retail dollars as they were stated in 1992–1994, in $ millions. These are projections, valuations and estimates, not reported sales.",
+   "chart": {
+    "type": "bar",
+    "horizontal": true,
+    "height": 300,
+    "legend": false,
+    "labels": [
+     "Pepsi’s first-year projection (2% share)",
+     "One share point, per Beverage Digest",
+     "Mountain Dew’s growth in 1993, at retail",
+     "Estimated launch advertising"
+    ],
+    "x": {
+     "format": "usdM",
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "$ millions",
+      "data": [
+       1000,
+       474,
+       300,
+       40
+      ],
+      "colors": [
+       "brand",
+       "ink",
+       "green",
+       "red"
+      ]
+     }
+    ]
+   },
+   "source": "Projection and advertising estimate: The New York Times, Dec 15, 1992.[^8] Share point value: Jesse Meyers, quoted in The New York Times, Mar 2, 1993.[^15] Mountain Dew: PepsiCo says its 11% case sales growth in 1993 “equals about $300 million at retail.”[^2] The advertising estimate is 4% of the projection and about 8.4% of one share point (derived)."
+  },
+  {
+   "kind": "bars",
+   "title": "Share points: the target, the claim and the neighbors",
+   "subtitle": "Percent of the US soft drink market, as stated in the press.",
+   "format": "pct",
+   "itemLabel": "Brand or claim",
+   "valueLabel": "Share of US soft drink market",
+   "items": [
+    {
+     "label": "Mountain Dew, 1994",
+     "value": 5,
+     "display": "about 5%",
+     "note": "Per PaineWebber analyst Manny Goldman.[^19]",
+     "color": "green"
+    },
+    {
+     "label": "7UP, 1994",
+     "value": 5,
+     "display": "about 5%",
+     "note": "Per the same analyst.[^19]",
+     "color": "grey"
+    },
+    {
+     "label": "Tab at its peak, 1982",
+     "value": 4,
+     "display": "4%",
+     "note": "Before Diet Coke; under 1% by 1992.[^8]",
+     "color": "grey"
+    },
+    {
+     "label": "Crystal Pepsi: Pepsi’s projection",
+     "value": 2,
+     "display": "more than 2%",
+     "note": "For the first national year.[^8]",
+     "self": true
+    },
+    {
+     "label": "Crystal Pepsi: Beverage Digest, Mar 1993",
+     "value": 1,
+     "display": "1 point",
+     "note": "As stated by its publisher.[^15]",
+     "self": true
+    },
+    {
+     "label": "Crystal Pepsi: end of 1993",
+     "value": 0.5,
+     "display": "0.5%",
+     "note": "Unverified; from a 2018 article with no primary citation.[^21]",
+     "self": true
+    }
+   ],
+   "source": "The New York Times[^8][^15], Advertising Age[^19] and Mental Floss[^21]. The figures come from different dates and different speakers and are shown side by side for scale only."
+  },
+  {
+   "kind": "table",
+   "title": "What PepsiCo told its shareholders",
+   "subtitle": "Every substantive mention of the brand in three annual reports.",
+   "columns": [
+    "Report",
+    "What it says about Crystal Pepsi"
+   ],
+   "rows": [
+    [
+     "1992",
+     "“We introduced brand Crystal Pepsi, a unique-tasting clear cola with 100% natural flavors, no caffeine and no preservatives.” Named one of the best new products of 1992 by Time.[^1]"
+    ],
+    [
+     "1993",
+     "Case sales “offset a decline in brands Pepsi and Diet Pepsi.” The products “particularly aided first quarter results, but did not significantly impact full year profits.” Because of “softening trends,” the product “is being refined and will be reintroduced in 1994 in a nondiet version only.”[^2]"
+    ],
+    [
+     "1994",
+     "Growth was “partially offset by significant declines in the Crystal Pepsi brands.”[^3][^4]"
+    ]
+   ],
+   "highlight": 1
+  },
+  {
+   "kind": "note",
+   "body": "The 1992 and 1993 reports are quoted from scans whose text layer has recognition errors; obvious errors are corrected in the quotations. Sales in dollars or cases, advertising actually spent and any write-off are unknown: PepsiCo did not publish them."
+  }
+ ]
+}

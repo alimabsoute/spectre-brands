@@ -1,0 +1,70 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Right now, and thirty years of looking back",
+ "lede": "The launch spot, the news report from the first day of the test, the parody, the rival’s ad, and the fan video that brought the name back. Years are the uploaders’ unless a caption says otherwise.",
+ "videos": [
+  {
+   "id": "launch",
+   "title": "The one-minute “Right Now” launch ad",
+   "year": 1993,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "KPvyq_KmXhc",
+   "caption": "Set to Van Halen’s “Right Now.” Pepsi’s national advertising started with Super Bowl XXVII on January 31, 1993.[^8][^12] The uploader identifies this as the Super Bowl spot; uploaded in 2009.[^37]"
+  },
+  {
+   "id": "cbs",
+   "title": "CBS News on the clear cola test",
+   "year": 1992,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "BGPyYG5SG8A",
+   "caption": "A network news report on the day the test markets were announced. The uploader dates it April 13, 1992, which matches the Associated Press report.[^5][^37]"
+  },
+  {
+   "id": "training",
+   "title": "Crystal Pepsi employee training video",
+   "year": 1992,
+   "type": "documentary",
+   "provider": "youtube",
+   "embedId": "JJYsS82khTc",
+   "caption": "A sixteen-minute internal tape, according to the uploader: a product backgrounder followed by sales role-plays for handling retailers’ objections. The year is the uploader’s.[^37]"
+  },
+  {
+   "id": "gravy",
+   "title": "Saturday Night Live: “Crystal Gravy”",
+   "year": 1993,
+   "type": "film",
+   "provider": "youtube",
+   "embedId": "g0sjRG34DlA",
+   "caption": "The parody, from SNL’s own channel, which labels it Season 19, 1993. The Carroll County Times dates the episode October 2, 1993.[^31][^37]"
+  },
+  {
+   "id": "tabclear",
+   "title": "Coca-Cola’s Tab Clear commercial",
+   "year": 1993,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "hYpyKelIOAI",
+   "caption": "Tab Clear went on sale in 10 US cities in January 1993.[^7][^11] Its theme was “It’s Not What You Think!”[^8] The year is the uploader’s."
+  },
+  {
+   "id": "beast",
+   "title": "L.A. Beast: “Crystal Pepsi Is Back Baby!”",
+   "year": 2015,
+   "type": "event",
+   "provider": "youtube",
+   "embedId": "3-ynjaF6JRg",
+   "caption": "Kevin Strahle, whose 2013 video of drinking a 20-year-old bottle started the campaign[^23], reports a call from PepsiCo. Uploaded December 9, 2015, the day the sweepstakes was announced.[^25][^37]"
+  },
+  {
+   "id": "novak",
+   "title": "David Novak on Crystal Pepsi (Yahoo Finance)",
+   "year": 2021,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "QjuUpXuNPo4",
+   "caption": "The executive who created the drink discusses it with Andy Serwer. Uploaded August 2021.[^37] His best-known verdict is from a 2007 interview quoted in the story above.[^20]"
+  }
+ ]
+}

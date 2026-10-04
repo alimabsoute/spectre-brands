@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a glass gravy boat pouring clear gravy over a plate of meat and mashed potatoes">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 220 L310 220" fill="none" stroke="#9fb4cf" stroke-width="2"/>
+<ellipse cx="190" cy="196" rx="112" ry="20" fill="#ffffff"/>
+<ellipse cx="190" cy="192" rx="84" ry="12" fill="#eef4fb" stroke-width="2"/>
+<path d="M150 190 C150 160 190 156 204 176 C214 190 190 198 150 190 Z" fill="#fbf7ea"/>
+<path d="M214 186 C220 168 252 166 262 180 C266 192 232 196 214 186 Z" fill="#b9825a"/>
+<path d="M222 180 C232 174 246 174 254 180" fill="none" stroke-width="2"/>
+<path d="M40 60 C40 104 66 118 104 118 C140 118 160 100 164 66 L182 54 L164 52 L40 52 Z" fill="#f4f9ff"/>
+<path d="M46 74 C50 102 70 112 104 112 C134 112 152 98 157 74 Z" fill="#dcecfb" stroke="none"/>
+<path d="M40 64 C18 64 18 100 46 98" fill="none"/>
+<path d="M80 118 L74 132 L134 132 L128 118" fill="#f4f9ff"/>
+<path d="M180 58 C196 84 176 120 178 160" fill="none" stroke="#9cc3ec" stroke-width="6"/>
+<path d="M162 182 C170 176 188 176 196 184" fill="none" stroke="#9cc3ec" stroke-width="4"/>
+<text x="238" y="44" text-anchor="middle" font-family="Caveat, cursive" font-size="20" fill="#1f2a44" stroke="none">you can see your meat</text>
+</g></svg>

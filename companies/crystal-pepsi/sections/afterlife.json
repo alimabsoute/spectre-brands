@@ -1,0 +1,99 @@
+{
+ "kicker": "Where is it now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Revived, briefly",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "Still PepsiCo’s. It has been used for a sweepstakes of 13,000 six-packs (2015), two summer retail runs at $1.79 a bottle (2016, 2017) and a contest with 300 winners (2022).[^25][^29][^32][^34]"
+  },
+  {
+   "status": "Replaced",
+   "color": "var(--red)",
+   "title": "The original formula",
+   "text": "Withdrawn in 1994 for a citrus cola called Crystal, which carried the line “From the makers of Pepsi.”[^19] We found no record of when that product ended."
+  },
+  {
+   "status": "Dropped",
+   "color": "var(--red)",
+   "title": "Diet Crystal Pepsi",
+   "text": "PepsiCo said the product would be reintroduced in 1994 “in a nondiet version only.”[^2] It has not been part of any revival we found."
+  },
+  {
+   "status": "Dead",
+   "color": "var(--mute)",
+   "title": "Tab Clear",
+   "text": "Launched in January 1993 and gone within the year by later accounts.[^11][^21]"
+  },
+  {
+   "status": "Promoted",
+   "color": "var(--green)",
+   "title": "The creator",
+   "text": "David Novak went on to run Yum Brands and has discussed the failure in interviews ever since.[^20][^34]"
+  },
+  {
+   "status": "Unconfirmed",
+   "color": "var(--blue)",
+   "title": "The next return",
+   "text": "In September 2026 a food site reported a social media rumor of a return in May 2027, in cans and bottles, and noted that PepsiCo had not confirmed it.[^35] Treat it as unverified."
+  },
+  {
+   "status": "Vindicated, in part",
+   "color": "var(--green)",
+   "title": "The idea",
+   "text": "Fortune noted in 2016 that what ended the original: “Too many me-too products.”[^29] The premise that some drinkers avoid caramel color returned on its own: in 2015 the soda maker Zevia removed coloring from its whole range.[^24]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "One owner, six releases",
+   "subtitle": "The name was never sold. What changed was how much of it PepsiCo was willing to make.",
+   "nodes": [
+    {
+     "when": "Apr 1992",
+     "owner": "Pepsi-Cola Co. (PepsiCo)",
+     "what": "Test markets in Providence, Dallas and Colorado.[^5]"
+    },
+    {
+     "when": "Dec 1992",
+     "owner": "PepsiCo",
+     "what": "National launch in regular and diet versions, with an estimated $40 million of advertising.[^8]",
+     "price": "$40M est."
+    },
+    {
+     "when": "1994",
+     "owner": "PepsiCo",
+     "what": "Original withdrawn. A citrus reformulation is sold as Crystal, without the Pepsi name.[^2][^19]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Dec 2015",
+     "owner": "PepsiCo",
+     "what": "Sweepstakes through the Pepsi Pass app.[^25]",
+     "price": "13,000 six-packs"
+    },
+    {
+     "when": "2016 – 2017",
+     "owner": "PepsiCo",
+     "what": "Two limited retail runs in the United States, and one in Canada in 2016.[^27][^30][^32]",
+     "price": "$1.79 a bottle"
+    },
+    {
+     "when": "Jan 2022",
+     "owner": "PepsiCo",
+     "what": "Thirtieth-anniversary contest. Not sold.[^34]",
+     "price": "300 winners"
+    },
+    {
+     "when": "Today",
+     "owner": "PepsiCo",
+     "what": "No Crystal Pepsi on sale that we could confirm. A 2027 return is rumored and unconfirmed.[^35]",
+     "status": "current"
+    }
+   ],
+   "source": "PepsiCo Annual Report 1993[^2], The New York Times[^8], Advertising Age[^19], CNBC[^25], PepsiCo releases[^27][^32], Fortune[^30], CNN[^34], Sporked[^35]."
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "kicker": "Rivals",
+ "title": "The clear shelf, and who is still on it",
+ "lede": "Coca-Cola’s answer arrived within a week of the national launch and was gone within the year. Its chief marketer later said that was the plan. The products that actually grew in 1993 were not clear.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Six drinks from 1992–1994. Two are still sold.",
+   "subtitle": "What each was, and what became of it.",
+   "metric": "Headline figure",
+   "items": [
+    {
+     "name": "Crystal Pepsi",
+     "status": "ghost",
+     "self": true,
+     "value": "1 point",
+     "text": "Share credited to it in March 1993.[^15] Withdrawn in 1994; limited re-releases since 2015.[^19][^25]",
+     "data": [
+      0,
+      100,
+      75,
+      50,
+      0
+     ],
+     "range": [
+      "Apr 1992",
+      "mid-1994"
+     ]
+    },
+    {
+     "name": "Diet Crystal Pepsi",
+     "status": "dead",
+     "value": "1992–1994",
+     "text": "Introduced late 1992. PepsiCo said the product would return in 1994 “in a nondiet version only.”[^2]"
+    },
+    {
+     "name": "Crystal (citrus)",
+     "status": "dead",
+     "statusLabel": "Gone",
+     "value": "1994",
+     "text": "The reformulation, without the Pepsi name.[^19] We found no record of when it ended."
+    },
+    {
+     "name": "Tab Clear",
+     "status": "dead",
+     "value": "10 cities",
+     "text": "Launched January 1993.[^7][^11] Sergio Zyman later said it was dead “within three to five months.”[^21]"
+    },
+    {
+     "name": "Pepsi Max",
+     "status": "alive",
+     "value": "1993",
+     "text": "Pepsi’s other launch that spring: a sugar-free cola for markets abroad, announced in March 1993.[^15]"
+    },
+    {
+     "name": "Mountain Dew",
+     "status": "alive",
+     "value": "+11%",
+     "text": "Case sales growth in 1993, worth about $300 million at retail by PepsiCo’s estimate.[^2]"
+    }
+   ],
+   "source": "PepsiCo Annual Report 1993[^2], The New York Times[^15], Advertising Age[^19], Los Angeles Times[^7][^11], Mental Floss[^21]. The Crystal Pepsi sparkline is the derived share index from the numbers section."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Ghost",
+    "name": "Crystal Pepsi",
+    "alive": false,
+    "rows": [
+     [
+      "Maker",
+      "Pepsi-Cola Co. (PepsiCo)"
+     ],
+     [
+      "Announced",
+      "Apr 13, 1992[^5]"
+     ],
+     [
+      "Sweetener",
+      "Sugar; a diet version followed[^2][^8]"
+     ],
+     [
+      "Caffeine",
+      "None[^5]"
+     ],
+     [
+      "Carries the flagship name",
+      "Yes"
+     ],
+     [
+      "Launch advertising",
+      "Estimated $40M[^8]"
+     ],
+     [
+      "Stated ambition",
+      "More than 2% of the market[^8]"
+     ],
+     [
+      "Outcome",
+      "Reworked in 1994; revived as limited releases[^19][^32]"
+     ]
+    ]
+   },
+   "right": {
+    "tag": "Dead",
+    "name": "Tab Clear",
+    "alive": false,
+    "rows": [
+     [
+      "Maker",
+      "The Coca-Cola Company"
+     ],
+     [
+      "Announced",
+      "Dec 14, 1992[^8]"
+     ],
+     [
+      "Sweetener",
+      "Aspartame; no sugar, no calories[^8]"
+     ],
+     [
+      "Caffeine",
+      "Yes[^8]"
+     ],
+     [
+      "Carries the flagship name",
+      "No: “Clear Coke is an oxymoron”[^8]"
+     ],
+     [
+      "Launch advertising",
+      "Not disclosed[^8]"
+     ],
+     [
+      "Stated ambition",
+      "“The ultimate diet soft drink”[^8]"
+     ],
+     [
+      "Outcome",
+      "Gone by the end of 1993, by later accounts[^21]"
+     ]
+    ]
+   },
+   "source": "The New York Times, Dec 15, 1992[^8]; other rows as cited."
+  },
+  {
+   "kind": "text",
+   "title": "The kamikaze claim",
+   "body": "In 1992 Coca-Cola presented Tab Clear as a serious product. Analysts read the choice of the Tab name as caution after New Coke, and one said Coke had “allowed Pepsi to seize the momentum.”[^8]\n\nYears later Sergio Zyman, Coca-Cola’s chief marketing officer, gave a different account to the author Stephen Denny. As quoted by Mental Floss, he said Tab Clear was meant to fail and to take Crystal Pepsi with it by making shoppers think a clear cola was a diet drink: “And we said, ‘No, Crystal Pepsi is actually a diet drink.’ Even though it wasn’t.”[^21]\n\nThis is Zyman’s claim about his own intentions, made long after the fact, and it flatters its author. It cannot be tested against sales data, because none was published. What the record does show is that PepsiCo’s own explanation was “softening trends” and a product that needed to be “refined.”[^2]"
+  },
+  {
+   "kind": "quote",
+   "text": "Pepsi spent an enormous amount of money on the [Crystal Pepsi] brand and, regardless, we killed it.",
+   "who": "Sergio Zyman, former Coca-Cola chief marketing officer, in Killing Giants (2011), as quoted by Mental Floss[^21]"
+  },
+  {
+   "kind": "video",
+   "video": "tabclear"
+  }
+ ]
+}

@@ -1,0 +1,362 @@
+{
+ "kicker": "Timeline",
+ "title": "Thirty-five years, 32 moments",
+ "lede": "From a slowing soft drink market to a rumor about 2027. Filter by thread.",
+ "categories": {
+  "product": {
+   "label": "Product",
+   "color": "#1d4f9c"
+  },
+  "marketing": {
+   "label": "Marketing",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "market": {
+   "label": "Market",
+   "color": "#888888"
+  },
+  "death": {
+   "label": "Decline",
+   "color": "#a8321f"
+  },
+  "revival": {
+   "label": "Revivals",
+   "color": "#4f7a4a"
+  }
+ },
+ "events": [
+  {
+   "date": "1991",
+   "year": "1991",
+   "cat": "market",
+   "title": "A $47 billion market slows",
+   "text": "PepsiCo later tells shareholders that by 1991 US soft drinks were a $47 billion retail business, “but growth had begun to slow down.”",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Early 1991",
+   "year": "",
+   "cat": "product",
+   "title": "Work begins on a clear cola",
+   "text": "Pepsi says development took about 15 months and nearly 3,000 variations. The start date is derived from the April 1992 announcement.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Apr 13",
+   "year": "1992",
+   "cat": "product",
+   "title": "Test markets announced",
+   "text": "Crystal Pepsi is to go on sale in Providence, Dallas and throughout Colorado, in clear 16-ounce and 2-liter bottles and silver cans.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "May 1992",
+   "year": "",
+   "cat": "marketing",
+   "title": "Deep discounts in the test",
+   "text": "A Providence chain sells two-liter bottles for 39 cents with coupons. A Dallas store manager calls the drink “just a novelty.”",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Late 1992",
+   "year": "",
+   "cat": "product",
+   "title": "A diet version joins",
+   "text": "PepsiCo dates the introduction of both Crystal Pepsi and Diet Crystal Pepsi to late 1992.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Early Dec",
+   "year": "1992",
+   "cat": "product",
+   "title": "National introduction",
+   "text": "After test-marketing since April, the regular and diet versions are introduced nationally.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Dec 14",
+   "year": "1992",
+   "cat": "rivals",
+   "title": "Coca-Cola unveils Tab Clear",
+   "text": "At the Hayden Planetarium in New York. Doug Ivester says “Clear Coke is an oxymoron.” It is a sugar-free diet cola with caffeine.",
+   "src": [
+    8,
+    9
+   ]
+  },
+  {
+   "date": "Dec 14",
+   "year": "1992",
+   "cat": "marketing",
+   "title": "Pepsi projects more than 2%",
+   "text": "Pepsi says Crystal Pepsi will take more than 2% of the $47 billion market in its first national year, about $1 billion at retail.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Dec 28",
+   "year": "1992",
+   "cat": "marketing",
+   "title": "Best new product of the year",
+   "text": "Richard Saunders International puts Crystal Pepsi at the top of its “Pure Gold” list of new grocery products. PepsiCo’s annual report says Time also named it one of the year’s best.",
+   "src": [
+    10,
+    1
+   ]
+  },
+  {
+   "date": "Jan 1993",
+   "year": "1993",
+   "cat": "rivals",
+   "title": "Tab Clear on sale",
+   "text": "In 10 US markets, and in London from mid-January, the first overseas rollout.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Jan 19",
+   "year": "1993",
+   "cat": "marketing",
+   "title": "Advertising begins",
+   "text": "The campaign starts on the eve of President Clinton’s inauguration.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Jan 31",
+   "year": "1993",
+   "cat": "marketing",
+   "title": "Super Bowl XXVII",
+   "text": "The national advertising, estimated at $40 million, runs in the game with the theme “You’ve never seen a taste like this.”",
+   "src": [
+    8,
+    12
+   ]
+  },
+  {
+   "date": "Mar 1993",
+   "year": "",
+   "cat": "marketing",
+   "title": "Wrapped buses",
+   "text": "Six buses covered end to end in Crystal Pepsi advertising go into service in San Francisco and Oakland, at nearly $3,000 a month each.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Mar 2",
+   "year": "1993",
+   "cat": "market",
+   "title": "“One share point means $474 million”",
+   "text": "Jesse Meyers of Beverage Digest tells The New York Times the brand earned a full share point. The same article reports the launch of Pepsi Max abroad.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "Mar 8",
+   "year": "1993",
+   "cat": "market",
+   "title": "Clear is called a fad",
+   "text": "The Associated Press counts about four dozen clear products among 16,790 new products in 1992. Miller plans a clear beer.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Q1 1993",
+   "year": "",
+   "cat": "product",
+   "title": "The one good quarter",
+   "text": "PepsiCo later says the Crystal Pepsi products “particularly aided first quarter results.”",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Jun 1993",
+   "year": "",
+   "cat": "death",
+   "title": "Caught in the syringe hoax",
+   "text": "During a wave of false tampering claims against Pepsi, a California woman admits inventing a report about a can of Diet Crystal Pepsi.",
+   "src": [
+    16
+   ]
+  },
+  {
+   "date": "Oct 2",
+   "year": "1993",
+   "cat": "death",
+   "title": "“Crystal Gravy”",
+   "text": "Saturday Night Live runs a mock commercial for clear gravy.",
+   "src": [
+    31
+   ]
+  },
+  {
+   "date": "Nov 1993",
+   "year": "",
+   "cat": "marketing",
+   "title": "An ice rink",
+   "text": "The Crystal Pepsi Ice Skating Rink opens at Universal CityWalk for the holidays, a year after one in San Francisco.",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "Nov 1993",
+   "year": "",
+   "cat": "rivals",
+   "title": "Coke writes the obituary",
+   "text": "Roberto Goizueta is quoted as saying both Tab Clear and Crystal Pepsi “are about to die.” Quoted from a 2018 article citing Adweek.",
+   "src": [
+    21
+   ]
+  },
+  {
+   "date": "Early 1994",
+   "year": "1994",
+   "cat": "death",
+   "title": "“Softening trends”",
+   "text": "PepsiCo’s 1993 annual report says the product is being refined and will return in 1994 in a nondiet version only.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Mar 31",
+   "year": "1994",
+   "cat": "death",
+   "title": "“Deemed a dud”",
+   "text": "The New York Times reports the clear colas are “undergoing an overhaul.” A test commercial for the new version runs in four markets.",
+   "src": [
+    18,
+    19
+   ]
+  },
+  {
+   "date": "Jul 1994",
+   "year": "",
+   "cat": "death",
+   "title": "Crystal, without the Pepsi",
+   "text": "The citrus cola reformulation reaches stores nationwide, labeled “From the makers of Pepsi,” with no summer advertising.",
+   "src": [
+    19
+   ]
+  },
+  {
+   "date": "FY 1994",
+   "year": "",
+   "cat": "death",
+   "title": "“Significant declines”",
+   "text": "PepsiCo’s annual report and 10-K record significant declines in the Crystal Pepsi brands. Its end date is not recorded.",
+   "src": [
+    3,
+    4
+   ]
+  },
+  {
+   "date": "Dec 2007",
+   "year": "2007",
+   "cat": "product",
+   "title": "“The best idea I ever had, and the worst executed”",
+   "text": "David Novak, by then chief executive of Yum Brands, gives his verdict to Fast Company.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Feb 2013",
+   "year": "2013",
+   "cat": "revival",
+   "title": "A 20-year-old bottle",
+   "text": "Kevin Strahle, known as L.A. Beast, posts a video of himself drinking one.",
+   "src": [
+    23,
+    37
+   ]
+  },
+  {
+   "date": "Jun 8",
+   "year": "2015",
+   "cat": "revival",
+   "title": "PepsiCo answers the campaign",
+   "text": "Strahle posts a message from Pepsi: “we think you’ll all be happy with what’s in store.” A spokeswoman confirms it is genuine.",
+   "src": [
+    23,
+    24
+   ]
+  },
+  {
+   "date": "Dec 10–11",
+   "year": "2015",
+   "cat": "revival",
+   "title": "Sweepstakes",
+   "text": "13,000 six-packs are offered through the Pepsi Pass app.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Jul 11 / Aug 8",
+   "year": "2016",
+   "cat": "revival",
+   "title": "Back in stores",
+   "text": "On sale in Canada from July 11 and in the United States from August 8, in 20-ounce bottles at $1.79.",
+   "src": [
+    27,
+    29,
+    30
+   ]
+  },
+  {
+   "date": "Aug 14",
+   "year": "2017",
+   "cat": "revival",
+   "title": "“One last limited time”",
+   "text": "A second retail run follows a three-city Throwback Tour. PepsiCo calls it “Crystal Pepsi’s last return.”",
+   "src": [
+    32
+   ]
+  },
+  {
+   "date": "Jan 4",
+   "year": "2022",
+   "cat": "revival",
+   "title": "Thirtieth anniversary",
+   "text": "300 contest winners receive six bottles each. The drink is not sold.",
+   "src": [
+    34
+   ]
+  },
+  {
+   "date": "Sep 2026",
+   "year": "2026",
+   "cat": "revival",
+   "title": "A rumor about 2027",
+   "text": "Social media accounts report a return in May 2027. PepsiCo has not confirmed it.",
+   "src": [
+    35
+   ]
+  }
+ ]
+}

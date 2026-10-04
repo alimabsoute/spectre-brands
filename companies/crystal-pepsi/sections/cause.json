@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "A fad that faded",
+   "text": "Clear was a trend across dish soap, mouthwash, deodorant and beer in 1992–1993, and trade observers said in March 1993 that it would not last.[^14] By July 1994 Advertising Age wrote that consumers “had grown disenchanted with clear sodas.”[^19] A store manager had said in the first month of the test that it was “just a novelty.”[^6]"
+  },
+  {
+   "weight": 25,
+   "title": "The taste did not match the name",
+   "text": "Pepsi said it was “not just Pepsi without the color,” less sweet and caffeine-free.[^5] The name and the look told buyers to expect Pepsi. PepsiCo sent the product back to be “refined,” and its creator later said he should have “made sure the product tasted good.”[^2][^20]"
+  },
+  {
+   "weight": 15,
+   "title": "Trial without repeat",
+   "text": "The test was run with deep discounts, down to 39 cents for a two-liter bottle.[^6] Nationally the brand lifted one quarter and then showed “softening trends.”[^2] A later summary puts the fall in share at 25% by March 1993 and more than half by year-end (secondary, unverified).[^31]"
+  },
+  {
+   "weight": 15,
+   "title": "Tab Clear and a confused shelf",
+   "text": "Coca-Cola put a clear diet cola beside it within weeks.[^8] Its marketing chief later claimed that the aim was to make shoppers think Crystal Pepsi was a diet drink and to sink both.[^21] This is his account, not an established fact, and Pepsi’s own diet version blurred the line as well.[^2]"
+  },
+  {
+   "weight": 15,
+   "title": "A promise too large to keep",
+   "text": "Pepsi projected more than 2% of the market and about $1 billion in the first year, with an estimated $40 million of advertising.[^8] Against that standard a share point was a disappointment. The same year Mountain Dew, an old brand, added about $300 million at retail.[^2]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. PepsiCo published no sales figures for the brand, so the evidence is the company’s own wording and the press of the time. How much each cause contributed is a matter of opinion."
+}

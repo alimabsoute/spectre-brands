@@ -1,0 +1,119 @@
+{
+ "name": "Crystal Pepsi",
+ "number": "011",
+ "tier": "ghost",
+ "tierWhy": "PepsiCo withdrew the original clear cola in 1994, but it has put the Crystal Pepsi name back on bottles in limited runs: a 2015 sweepstakes, retail releases in 2016 and 2017, and a 2022 contest.[^19][^25][^30][^32][^34]",
+ "category": "consumer",
+ "cause": "fad",
+ "years": "1992 – 1994",
+ "died": 1994,
+ "dates": [
+  {
+   "date": "1992-04-13",
+   "text": "was announced as a clear cola going into test markets in Providence, Dallas and Colorado"
+  },
+  {
+   "date": "1992-12-14",
+   "text": "got a rival when Coca-Cola unveiled Tab Clear at the Hayden Planetarium in New York"
+  },
+  {
+   "date": "1993-01-31",
+   "text": "opened its national advertising during Super Bowl XXVII"
+  },
+  {
+   "date": "2016-08-08",
+   "text": "returned to US store shelves for a limited run, 22 years after it was withdrawn"
+  }
+ ],
+ "place": "Clear cola · Purchase, New York",
+ "title": "Crystal Pepsi (1992–1994): post-mortem · Spectre Brands",
+ "description": "A clear cola, a Super Bowl launch and a rival that says it was built to fail: a sourced post-mortem of Crystal Pepsi, from PepsiCo’s annual reports and the press of 1992–1994 to the nostalgia re-releases.",
+ "theme": {
+  "accent": "#1d4f9c",
+  "soft": "#e8f1fb"
+ },
+ "card": {
+  "blurb": "Pepsi took the color out of cola, put about $40 million of advertising behind it and projected $1 billion in sales. Within a year the product was being reworked. The name now comes back for a few weeks at a time.",
+  "stat": {
+   "value": "$40M",
+   "label": "estimated launch advertising, for a drink reworked within a year"
+  },
+  "spark": [
+   0,
+   100,
+   75,
+   50,
+   0
+  ],
+  "peak": 1
+ },
+ "hero": {
+  "dates": "Test-marketed from April 1992. National in December 1992. Reformulated and renamed in 1994.",
+  "standfirst": "The slogan was “You’ve never seen a taste like this.” A year later, most people had stopped looking.",
+  "deck": "Crystal Pepsi was a caffeine-free cola with no caramel coloring, launched nationally with an estimated $40 million of advertising and a Super Bowl spot. Pepsi projected more than 2% of a $47 billion market. By PepsiCo’s own account the brand helped one quarter, softened, and was sent back to be “refined.” This is the post-mortem, built from PepsiCo’s annual reports, the newspapers of the time and the company’s later re-releases.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a clear cola bottle. Not an official asset and not the trademarked label.",
+  "motion": "fizz",
+  "archive": [
+   {
+    "image": "img/photo-2016-store-shelf.avif",
+    "caption": "Back on a shelf, Aug 2016",
+    "alt": "Rows of Crystal Pepsi bottles in a retail display in August 2016"
+   },
+   {
+    "image": "img/photo-2016-bottle.avif",
+    "caption": "The 20-ounce bottle, 2016",
+    "alt": "A 20-ounce bottle of Crystal Pepsi held against a blue sky"
+   },
+   {
+    "image": "img/photo-2017-store-maryland.avif",
+    "caption": "“Last chance,” Aug 2017",
+    "alt": "Store display of Crystal Pepsi bottles under a sign reading Last chance to taste the 90s"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The product in four numbers",
+  "rows": [
+   {
+    "value": "$40M",
+    "text": "estimated advertising support for the national launch, as reported by The New York Times and Advertising Age[^8][^19]"
+   },
+   {
+    "value": "2%",
+    "text": "of a $47 billion US soft drink market: Pepsi’s own projection for the first national year, about $1 billion at retail[^8]"
+   },
+   {
+    "value": "$474M",
+    "text": "the retail value of the one share point that Beverage Digest’s publisher credited to the brand in March 1993[^15]"
+   },
+   {
+    "value": "13,000",
+    "text": "six-packs given away in December 2015, the first time the name returned[^25]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The test markets worked.",
+   "text": "A grocery clerk in Rhode Island said it was “blowing off the shelves” in May 1992, while one chain sold two-liter bottles for 39 cents with coupons against a usual $1.49.[^6]"
+  },
+  {
+   "title": "Pepsi promised a third cola category.",
+   "text": "It projected more than 2% of the market in the first national year, about $1 billion at retail, on an estimated $40 million of advertising.[^8]"
+  },
+  {
+   "title": "The boost lasted one quarter.",
+   "text": "PepsiCo told shareholders the Crystal Pepsi products “particularly aided first quarter results, but did not significantly impact full year profits.”[^2]"
+  },
+  {
+   "title": "It was not Pepsi without the color.",
+   "text": "Pepsi said so at launch. Its creator later said: “It would have been nice if I’d made sure the product tasted good.”[^5][^20]"
+  },
+  {
+   "title": "The name outlived the drink.",
+   "text": "PepsiCo brought it back in 2015, 2016, 2017 and 2022, each time as a limited release sold on nostalgia.[^25][^30][^32][^34]"
+  }
+ ],
+ "published": "2026-10-03"
+}

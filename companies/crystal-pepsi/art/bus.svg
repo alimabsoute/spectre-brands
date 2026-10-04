@@ -1,0 +1,15 @@
+<svg viewBox="0 0 320 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a city bus wrapped end to end in a clear cola advertisement">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M6 172 L314 172" fill="none" stroke="#9fb4cf" stroke-width="2"/>
+<path d="M24 46 C24 38 30 32 38 32 L282 32 C292 32 298 40 298 50 L298 150 L24 150 Z" fill="#dcecfb"/>
+<path d="M24 118 L298 118 L298 150 L24 150 Z" fill="#1d4f9c"/>
+<path d="M24 108 L298 108" stroke="#c8312b" stroke-width="6"/>
+<g fill="#f4f9ff" stroke-width="2"><rect x="40" y="48" width="38" height="34" rx="3"/><rect x="86" y="48" width="38" height="34" rx="3"/><rect x="132" y="48" width="38" height="34" rx="3"/><rect x="178" y="48" width="38" height="34" rx="3"/><rect x="224" y="48" width="30" height="34" rx="3"/></g>
+<rect x="262" y="48" width="28" height="92" rx="3" fill="#f4f9ff" stroke-width="2"/>
+<path d="M276 48 L276 140" stroke-width="2"/>
+<text x="142" y="140" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="15" fill="#fff" stroke="none" letter-spacing="3">CLEAR COLA</text>
+<g fill="#ffffff" stroke-width="2"><circle cx="58" cy="96" r="5"/><circle cx="110" cy="92" r="3"/><circle cx="196" cy="96" r="4"/><circle cx="238" cy="92" r="3"/></g>
+<circle cx="82" cy="152" r="18" fill="#3a3a3a"/><circle cx="82" cy="152" r="7" fill="#d9dee4" stroke-width="2"/>
+<circle cx="230" cy="152" r="18" fill="#3a3a3a"/><circle cx="230" cy="152" r="7" fill="#d9dee4" stroke-width="2"/>
+<text x="160" y="22" text-anchor="middle" font-family="Caveat, cursive" font-size="18" fill="#1f2a44" stroke="none">nearly $3,000 a month per bus</text>
+</g></svg>

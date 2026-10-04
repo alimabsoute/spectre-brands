@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a silver soda can beside a glass of clear cola with ice">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 222 L310 222" fill="none" stroke="#9fb4cf" stroke-width="2"/>
+<path d="M60 52 L64 40 L136 40 L140 52 L140 208 L134 218 L66 218 L60 208 Z" fill="#d9dee4"/>
+<ellipse cx="100" cy="40" rx="36" ry="7" fill="#eef1f4"/>
+<path d="M92 39 h14" stroke-width="2.4"/>
+<rect x="60" y="92" width="80" height="26" fill="#1d4f9c"/>
+<rect x="60" y="150" width="80" height="18" fill="#c8312b"/>
+<text x="100" y="110" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="12" fill="#fff" stroke="none" letter-spacing="1.5">CLEAR</text>
+<text x="100" y="140" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="13" fill="#1d4f9c" stroke="none" letter-spacing="2">COLA</text>
+<path d="M70 60 L70 200" stroke="#ffffff" stroke-width="4"/>
+<path d="M190 70 L270 70 L260 218 L200 218 Z" fill="#f4f9ff"/>
+<path d="M193 104 L267 104 L260 216 L200 216 Z" fill="#dcecfb" stroke="none"/>
+<path d="M193 104 L267 104" stroke-width="2"/>
+<rect x="206" y="112" width="24" height="22" rx="3" fill="#ffffff" stroke-width="2" transform="rotate(-12 218 123)"/>
+<rect x="234" y="124" width="22" height="20" rx="3" fill="#ffffff" stroke-width="2" transform="rotate(14 245 134)"/>
+<g fill="#ffffff" stroke-width="2"><circle cx="216" cy="170" r="4"/><circle cx="240" cy="186" r="5"/><circle cx="226" cy="198" r="3"/><circle cx="248" cy="160" r="3"/></g>
+<text x="230" y="52" text-anchor="middle" font-family="Caveat, cursive" font-size="19" fill="#1f2a44" stroke="none">looks like water</text>
+</g></svg>
