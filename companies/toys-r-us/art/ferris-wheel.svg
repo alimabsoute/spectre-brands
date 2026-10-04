@@ -1,0 +1,15 @@
+<svg viewBox="0 0 320 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of an indoor Ferris wheel with coloured cars">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 316h280" fill="none"/>
+<path d="M160 150L104 316M160 150L216 316M122 262h76" fill="none"/>
+<g class="spin" style="transform-origin:160px 150px">
+<circle cx="160" cy="150" r="112" fill="none"/><circle cx="160" cy="150" r="92" fill="none" stroke-width="2"/>
+<path d="M160 38v224M48 150h224M81 71l158 158M239 71L81 229" fill="none" stroke-width="2"/>
+<rect x="144" y="24" width="32" height="26" rx="6" fill="#e4002b"/><rect x="144" y="250" width="32" height="26" rx="6" fill="#0047ba"/>
+<rect x="34" y="137" width="32" height="26" rx="6" fill="#00a651"/><rect x="254" y="137" width="32" height="26" rx="6" fill="#f2b33d"/>
+<rect x="65" y="58" width="32" height="26" rx="6" fill="#e87722"/><rect x="223" y="58" width="32" height="26" rx="6" fill="#0047ba"/>
+<rect x="65" y="216" width="32" height="26" rx="6" fill="#f2b33d"/><rect x="223" y="216" width="32" height="26" rx="6" fill="#e4002b"/>
+</g>
+<circle cx="160" cy="150" r="14" fill="#f2b33d"/>
+<path d="M92 316v-14h136v14" fill="#d9d4cb"/>
+</g></svg>

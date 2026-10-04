@@ -1,0 +1,24 @@
+<svg viewBox="0 0 520 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a toy superstore with rainbow striped walls, a brown roof and a giraffe looking over it">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 340H500" fill="none"/>
+<g class="bob">
+<path d="M402 250C400 190 404 140 410 96C398 92 390 80 394 66C400 50 424 46 448 56C466 62 474 74 468 84C462 92 446 92 438 98C436 150 438 200 440 250Z" fill="#f2b33d"/>
+<path d="M404 60L398 36M420 54L420 30" fill="none"/><circle cx="398" cy="34" r="5" fill="#8a4b2a"/><circle cx="420" cy="28" r="5" fill="#8a4b2a"/>
+<path d="M394 66C384 62 378 66 376 72C384 76 392 74 396 70Z" fill="#e58a2e"/>
+<circle cx="430" cy="68" r="5" fill="#fbf9f5"/><circle cx="431" cy="68" r="1.6" fill="#1d1b18"/>
+<path d="M452 80C458 82 462 80 464 78" fill="none"/>
+<path d="M410 130l14 6-8 14-10-6ZM420 176l14 4-4 16-12-4ZM408 214l12 8-8 12-8-8Z" fill="#c9742a" stroke-width="2"/>
+</g>
+<path d="M40 170H420V340H40Z" fill="#fbf9f5"/>
+<path d="M56 196h26v118H56Z" fill="#e4002b"/><path d="M82 196h26v118H82Z" fill="#f2b33d"/><path d="M108 196h26v118h-26Z" fill="#00a651"/><path d="M134 196h26v118h-26Z" fill="#0047ba"/><path d="M160 196h26v118h-26Z" fill="#e87722"/>
+<path d="M274 196h26v118h-26Z" fill="#e87722"/><path d="M300 196h26v118h-26Z" fill="#0047ba"/><path d="M326 196h26v118h-26Z" fill="#00a651"/><path d="M352 196h26v118h-26Z" fill="#f2b33d"/><path d="M378 196h26v118h-26Z" fill="#e4002b"/>
+<path d="M198 232h64v108h-64Z" fill="#cfe0f7"/><path d="M230 232v108" fill="none"/><path d="M198 204h64v28h-64Z" fill="#e87722"/>
+<path d="M28 170L62 96H398L432 170Z" fill="#8a4b2a"/>
+<path d="M62 96H398" fill="none"/><path d="M52 122H410M40 146H422" fill="none" stroke-width="2" stroke="#5c3018"/>
+<g stroke-width="2.5">
+<circle cx="96" cy="132" r="17" fill="#e87722"/><circle cx="140" cy="132" r="17" fill="#e4002b"/><circle cx="184" cy="132" r="17" fill="#00a651"/><circle cx="228" cy="132" r="17" fill="#f2b33d"/>
+<path d="M272 108l7 15 16 2-12 11 3 16-14-8-14 8 3-16-12-11 16-2Z" fill="#0047ba"/>
+<circle cx="322" cy="132" r="17" fill="#e87722"/><circle cx="366" cy="132" r="17" fill="#00a651"/>
+</g>
+<path d="M60 340v-12h60v12M300 340v-12h60v12" fill="#d9d4cb"/>
+</g></svg>

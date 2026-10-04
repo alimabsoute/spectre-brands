@@ -1,0 +1,205 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Primary sources first. SEC filings link to the original text on EDGAR (CIK 1005414). Toys “R” Us kept filing with the SEC after the 2005 buyout because its debt was publicly held, which is why the private years are documented.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Toys “R” Us, Inc. — [Form 10-K, fiscal 2016](https://www.sec.gov/Archives/edgar/data/1005414/000100541417000011/tru201610k.htm) (year ended Jan 28, 2017), filed Apr 12, 2017. Statements of operations: [R2](https://www.sec.gov/Archives/edgar/data/1005414/000100541417000011/R2.htm); balance sheet: [R4](https://www.sec.gov/Archives/edgar/data/1005414/000100541417000011/R4.htm)."
+  },
+  {
+   "id": 2,
+   "text": "Toys “R” Us, Inc. — [Form 10-K, fiscal 2016, Exhibit 12](https://www.sec.gov/Archives/edgar/data/1005414/000100541417000011/tru201610k-ex12.htm), ratio of earnings to fixed charges (interest expense, fiscal 2012–2016)."
+  },
+  {
+   "id": 3,
+   "text": "Toys “R” Us, Inc. — [Form 10-K, fiscal 2005](https://www.sec.gov/Archives/edgar/data/1005414/000119312506093096/d10k.htm) (year ended Jan 28, 2006), filed Apr 28, 2006. Describes the July 21, 2005 merger and its financing."
+  },
+  {
+   "id": 4,
+   "text": "Toys “R” Us, Inc. — [Form 10-K, fiscal 2005, Exhibit 12](https://www.sec.gov/Archives/edgar/data/1005414/000119312506093096/dex12.htm) (interest expense, fiscal 2001–2005)."
+  },
+  {
+   "id": 5,
+   "text": "Toys “R” Us, Inc. — [Form 10-K, fiscal 2004](https://www.sec.gov/Archives/edgar/data/1005414/000119312505090701/d10k.htm) (year ended Jan 29, 2005), filed Apr 29, 2005. The last annual report as a listed company."
+  },
+  {
+   "id": 6,
+   "text": "Toys “R” Us, Inc. — [Form 10-K, fiscal 2004, Exhibit 13](https://www.sec.gov/Archives/edgar/data/1005414/000119312505090701/dex13.htm) (five-year net sales, net earnings and store counts by division, fiscal 2000–2004)."
+  },
+  {
+   "id": 7,
+   "text": "Toys “R” Us, Inc. — [Form 10-K, fiscal 2009](https://www.sec.gov/Archives/edgar/data/1005414/000119312510065825/d10k.htm) (year ended Jan 30, 2010), filed Mar 24, 2010. Selected financial data for fiscal 2005–2009, the Amazon settlement, the FAO Schwarz and KB Toys purchases."
+  },
+  {
+   "id": 8,
+   "text": "Toys “R” Us, Inc. — [Form 10-K, fiscal 2009, Exhibit 12](https://www.sec.gov/Archives/edgar/data/1005414/000119312510065825/dex12.htm) (interest expense, fiscal 2005–2009)."
+  },
+  {
+   "id": 9,
+   "text": "Toys “R” Us, Inc. — Form 10-K, fiscal 2013 (year ended Feb 1, 2014), filed Mar 31, 2014: [statements of operations](https://www.sec.gov/Archives/edgar/data/1005414/000100541414000010/R2.htm) and [Exhibit 12](https://www.sec.gov/Archives/edgar/data/1005414/000100541414000010/tru201310k-ex12.htm) (interest expense, fiscal 2009–2013)."
+  },
+  {
+   "id": 10,
+   "text": "Toys “R” Us, Inc. — Form 10-K, fiscal 2011 (year ended Jan 28, 2012), filed Mar 21, 2012: [statements of operations](https://www.sec.gov/Archives/edgar/data/1005414/000100541412000010/R2.htm) for fiscal 2009–2011."
+  },
+  {
+   "id": 11,
+   "text": "Toys “R” Us, Inc. — [Form S-1 registration statement](https://www.sec.gov/Archives/edgar/data/1005414/000095013010000277/ds1.htm) for a proposed initial public offering, filed May 28, 2010."
+  },
+  {
+   "id": 12,
+   "text": "Toys “R” Us, Inc. — [Registration withdrawal request (Form RW)](https://www.sec.gov/Archives/edgar/data/1005414/000119312513134304/d512435drw.htm), Mar 29, 2013."
+  },
+  {
+   "id": 13,
+   "text": "Toys “R” Us, Inc. — [Form 8-K](https://www.sec.gov/Archives/edgar/data/1005414/000119312517287834/d451484d8k.htm), filed Sep 19, 2017, reporting the Chapter 11 petitions of Sep 18, 2017 (U.S. Bankruptcy Court, Eastern District of Virginia, Richmond Division)."
+  },
+  {
+   "id": 14,
+   "text": "Toys “R” Us, Inc. — [Form 8-K](https://www.sec.gov/Archives/edgar/data/1005414/000119312518083225/d552404d8k.htm), filed Mar 15, 2018, and its [Exhibit 99.3, press release “Toys“R”Us to Wind Down U.S. Business”](https://www.sec.gov/Archives/edgar/data/1005414/000119312518083225/d552404dex993.htm)."
+  },
+  {
+   "id": 15,
+   "text": "CNBC — [“Toys R Us files for Chapter 11 bankruptcy protection”](https://www.cnbc.com/2017/09/18/toys-r-us-files-for-chapter-11-bankruptcy.html), Sep 18, 2017."
+  },
+  {
+   "id": 16,
+   "text": "Associated Press, via Fox 32 Chicago — [“Goodbye, Geoffrey: Toys R Us closes its last stores”](https://www.fox32chicago.com/news/goodbye-geoffrey-toys-r-us-closes-its-last-stores), Jun 29, 2018."
+  },
+  {
+   "id": 17,
+   "text": "Bain Capital — press release, [“KKR and Bain Capital Establish $20 Million TRU Financial Assistance Fund”](https://www.baincapital.com/news/kkr-and-bain-capital-establish-20-million-tru-financial-assistance-fund), Nov 20, 2018."
+  },
+  {
+   "id": 18,
+   "text": "Retail Dive — Ben Unglesbee, [“Toys R Us owners announce $20M employee fund”](https://www.retaildive.com/news/toys-r-us-owners-to-set-up-employee-fund/538518/), Oct 1, 2018, updated Nov 21, 2018."
+  },
+  {
+   "id": 19,
+   "text": "Retail Dive — Ben Unglesbee, [“Toys R Us cancels IP auction, leaving brand property for its backers”](https://www.retaildive.com/news/toys-r-us-cancels-ip-auction-leaving-brand-property-for-its-backers/538756/), Oct 3, 2018."
+  },
+  {
+   "id": 20,
+   "text": "Kidscreen — Alexandra Whyte, [“Toys “R” Us to hold onto & revive brand”](https://kidscreen.com/2018/10/03/toys-r-us-to-hold-onto-revive-brand/), Oct 3, 2018."
+  },
+  {
+   "id": 21,
+   "text": "CNBC — Lauren Thomas, [“Toys R Us is back. Here’s a look inside its first new store”](https://www.cnbc.com/2019/11/27/toys-r-us-is-back-heres-a-look-inside-its-first-new-store.html), Nov 27, 2019."
+  },
+  {
+   "id": 22,
+   "text": "Associated Press, via Fox 26 Houston — [“Toys R Us shutters its last 2 US stores, including Houston location”](https://www.fox26houston.com/news/toys-r-us-shutters-its-last-2-us-stores-including-houston-location), January 2021."
+  },
+  {
+   "id": 23,
+   "text": "WHP Global press release of Mar 15, 2021, as carried by [aNb Media](https://www.anbmedia.com/news/retail-news/2021/03/whp-acquires-controlling-stake-in-toysrus/); and Kidscreen — Elizabeth Foster, [“WHP Global takes controlling stake in Tru Kids”](https://kidscreen.com/2021/03/16/whp-global-takes-controlling-stake-in-tru-kids/), Mar 16, 2021."
+  },
+  {
+   "id": 24,
+   "text": "CNN Business, via ABC13 — Jordan Valinsky, [“Toys “R” Us opening new store in New Jersey in mid-December”](https://abc13.com/post/toys-r-us-new-jersey-store-american-dream-mall-macys-stores/11289480/), Dec 1, 2021."
+  },
+  {
+   "id": 25,
+   "text": "WHP Global — press release, [“Macy’s & WHP Global Bring Toys“R”Us To Every Macy’s Store In America”](https://www.whp-global.com/blogs/brand-news/macys-whp-global-to-bring-toysrus-to-every-macys-store-in-america), July 2022."
+  },
+  {
+   "id": 26,
+   "text": "Retail Dive — Nate Delesline III, [“Toys R Us to open up to 24 US flagship stores”](https://www.retaildive.com/news/toys-r-us-open-24-us-flagship-stores/695181/), Sep 29, 2023."
+  },
+  {
+   "id": 27,
+   "text": "The Boston Globe — [“Toys ‘R’ Us is back. But the toy aisle isn’t what it used to be.”](https://www.bostonglobe.com/2026/09/28/business/toys-r-us-comeback/), Sep 28, 2026."
+  },
+  {
+   "id": 28,
+   "text": "Commercial Observer — Emily Davis, [“Toys R Us Bets on Brick and Mortar With 120 New Stores”](https://commercialobserver.com/2026/09/toys-r-us-leases-new-stores/), Sep 28, 2026."
+  },
+  {
+   "id": 29,
+   "text": "CNBC — James Thorne, [“Toys R Us founder Charles Lazarus dies at 94, as toy empire liquidates”](https://www.cnbc.com/2018/03/22/toys-r-us-founder-charles-lazarus-dies-at-94-as-toy-empire-liquidates.html), Mar 22, 2018."
+  },
+  {
+   "id": 30,
+   "text": "Associated Press, via KTVU — [“Toys R Us founder Charles Lazarus dies as stores prepare to close”](https://www.ktvu.com/news/toys-r-us-founder-charles-lazarus-dies-as-stores-prepare-to-close), March 2018."
+  },
+  {
+   "id": 31,
+   "text": "International Directory of Company Histories, as reproduced by FundingUniverse — [“Toys “R” Us, Inc. History”](https://www.fundinguniverse.com/company-histories/toys-r-us-inc-history/). A reference history covering 1948 to about 2003, used for the pre-EDGAR period."
+  },
+  {
+   "id": 32,
+   "text": "msnbc.com — Martin Wolk, [“Toys ‘R’ Us wins suit against Amazon.com”](https://www.nbcnews.com/id/11641703), Mar 2, 2006."
+  },
+  {
+   "id": 33,
+   "text": "Associated Press, via ABC News — Rachel Metz, [“Amazon to pay Toys R Us $51M to settle suit”](https://abcnews.com/Technology/story?id=7830608), Jun 13, 2009."
+  },
+  {
+   "id": 34,
+   "text": "Associated Press, via the Lawrence Journal-World — [“Retailers make play for holiday toy sales”](https://www2.ljworld.com/news/2003/nov/30/retailers_make_play/), Nov 30, 2003. Market share estimates by analyst Sean McGowan."
+  },
+  {
+   "id": 35,
+   "text": "Advertising Week — [“Geoffrey the Giraffe, the Toys“R”Us icon, is heading on a world tour”](https://advertisingweek.com/aw360/news/geoffrey-the-giraffe-the-toysrus-icon-is-heading-on-a-world-tour/2952/). Brand history supplied by the current owner."
+  },
+  {
+   "id": 36,
+   "text": "Agence France-Presse, via Hürriyet Daily News — [“Toys’R’Us to shut flagship Times Square store”](https://www.hurriyetdailynews.com/toysrus-to-shut-flagship-times-square-store--93044), Dec 25, 2015."
+  },
+  {
+   "id": 37,
+   "text": "Kidscreen — Wendy Goldman Getzler, [“Toys “R” Us sells FAO Schwarz to ThreeSixty Group”](https://kidscreen.com/2016/10/04/toys-r-us-sells-fao-schwarz-to-threesixty-group/), Oct 4, 2016."
+  },
+  {
+   "id": 38,
+   "text": "Internet Archive Wayback Machine — captures of toysrus.com: [Dec 1, 2003](https://web.archive.org/web/20031201073712/http://www9.toysrus.com/), [Jun 2, 2017](https://web.archive.org/web/20170602221040/https://www.toysrus.com/), [Jul 2, 2018](https://web.archive.org/web/20180702003114/http://www.toysrus.com:80/)."
+  },
+  {
+   "id": 39,
+   "text": "Wikimedia Commons — photographs by [Larry Hachucka](https://commons.wikimedia.org/wiki/File:VINTAGE_Toys_%E2%80%9CR%E2%80%9D_Us;_Boardman_Ohio.jpg) (CC BY-SA 4.0), [TaurusEmerald](https://commons.wikimedia.org/wiki/File:Toys_R_Us_Modesto_Closing.jpg) (CC BY-SA 4.0), [Talor Berthelson](https://commons.wikimedia.org/wiki/File:Toys_%22R%22_Us_Store_Closing_01.jpg) (CC BY 2.0) and [A.sostika](https://commons.wikimedia.org/wiki/File:Toys_%22R%22_Us_store_in_Times_Square.jpg) (CC BY-SA 4.0), all taken in 2018."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Fiscal years",
+   "text": "the company’s fiscal year ends on the Saturday nearest January 31. “Fiscal 2016” is the year ended January 28, 2017. Charts are labeled by fiscal year."
+  },
+  {
+   "label": "Derived values",
+   "text": "cumulative interest expense of $5,604M for fiscal 2005–2016 is the sum of the twelve annual figures (394 + 537 + 503 + 419 + 447 + 521 + 442 + 480 + 524 + 451 + 429 + 457), and fiscal 2005 includes about six months before the buyout closed. Interest as 99% of fiscal 2016 operating earnings is 457 ÷ 460. The $3M remainder in the flow chart is 460 − 457. “280 hardship funds” is 5,604 ÷ 20. The hardship fund as 27% of the $75M workers asked for is 20 ÷ 75. Long-term debt of $4,761M at January 28, 2017 is 4,642 + 119. 178 days from the Chapter 11 petition (Sep 18, 2017) to the wind-down announcement (Mar 15, 2018) and 284 days to the last U.S. store closing (Jun 29, 2018) are our counts. U.S. store totals for fiscal 2004 and 2005 are toy stores plus Babies “R” Us stores."
+  },
+  {
+   "label": "Restated series",
+   "text": "fiscal 2005 net sales appear as $11,275M in the fiscal 2005 10-K and as $11,333M in the five-year table of the fiscal 2009 10-K. Charts use the later figure. We did not decompose the step up in reported sales between fiscal 2005 and fiscal 2006."
+  },
+  {
+   "label": "Two store counts",
+   "text": "the company’s March 15, 2018 press release says 735 U.S. stores; the body of the 8-K filed the same day says 744 remaining U.S. stores. We use 735 throughout. The press release itself is datelined “March 15, 2017”, a typo in the original."
+  },
+  {
+   "label": "Estimates",
+   "text": "the 2003 shares of U.S. toy sales (Walmart about 21%, Toys “R” Us about 17%, Target about 9%, Kmart and KB Toys 4% to 5% each) are estimates by analyst Sean McGowan as reported by the AP. Shares for 1978–1997 are from a reference history, which cites the company’s own estimates for some years; the series mixes sources and is indicative only. The 10-K’s “approximately 45%” for the leading discounters is described there as an estimate."
+  },
+  {
+   "label": "Reported, not from a filing",
+   "text": "debt of $4.9B at the petition date and debtor-in-possession financing of “over $3 billion” (CNBC); “over 30,000” U.S. workers (AP), which other outlets put at roughly 33,000; the $75M that workers said they were owed in severance (Retail Dive, reporting the workers’ claim); the 1966 sale price of $7.5M and Interstate’s 1974 bankruptcy (reference history); Amazon’s $50M annual base fee (msnbc.com). The year Walmart passed Toys “R” Us is given as 1998 by the AP and 1999 by the reference history; we say “by 1999”."
+  },
+  {
+   "label": "Unknown",
+   "text": "how much equity the buyers put into the 2005 deal was not confirmed from the text we read and is left out. The purchase prices of FAO Schwarz (2009 and 2016) were not disclosed. How many of the 120 stores announced for the 2026 holiday season have opened is not known to us; the press reports describe a plan. The widely repeated figure of about $400M a year in interest is consistent with the filings ($394M to $537M a year), and we cite the filings instead."
+  },
+  {
+   "label": "General knowledge",
+   "text": "KB Toys liquidated its stores after a December 2008 bankruptcy; we cite only the 2009 trademark purchase from the filing. The company’s headquarters was in Wayne, New Jersey."
+  },
+  {
+   "label": "Videos",
+   "text": "airing years for the three commercials come from the uploaders’ titles and were not independently confirmed. News segments are dated by their upload date."
+  },
+  {
+   "label": "Archive",
+   "text": "home page captures from 1998–1999 survive without images and a February 2001 capture resolves to an unrelated site, so the earliest screenshot shown is from December 2003. The June 2017 capture includes the site’s own email sign-up pop-up."
+  }
+ ]
+}

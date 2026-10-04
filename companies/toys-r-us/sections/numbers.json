@@ -1,0 +1,218 @@
+{
+ "kicker": "The money",
+ "title": "What the stores earned, and who got it",
+ "label": "The numbers",
+ "lede": "Toys “R” Us filed annual reports for all twelve of its private years, because its bonds were public. They show a retailer that earned an operating profit in seven of its last eight full years, and a capital structure that took nearly all of it.[^1][^9][^10]",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Seventeen years of sales: flat, up, then down",
+   "subtitle": "Net sales by fiscal year, $ billions. Numbered points mark the turns.",
+   "labels": ["2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016"],
+   "format": {
+    "pre": "$",
+    "suf": "B",
+    "dec": 1
+   },
+   "xLabel": "Fiscal year (ends late January or early February of the following year)",
+   "series": [
+    {
+     "label": "Net sales",
+     "data": [11.332, 11.019, 11.305, 11.32, 11.1, 11.333, 13.05, 13.794, 13.724, 13.568, 13.864, 13.909, 13.543, 12.543, 12.361, 11.802, 11.54],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "The Amazon alliance",
+     "text": "Online sales are handed to Amazon under a ten-year agreement.[^32]"
+    },
+    {
+     "i": 5,
+     "title": "The buyout",
+     "text": "Taken private on July 21, 2005, in a $6.6B merger.[^3]"
+    },
+    {
+     "i": 11,
+     "title": "The peak",
+     "text": "Net sales of $13.9B in fiscal 2011. The IPO filed in 2010 is still pending.[^10][^11]"
+    },
+    {
+     "i": 13,
+     "title": "The write-down",
+     "text": "The IPO is withdrawn in March 2013. The year ends with a $1.04B net loss.[^12][^9]"
+    },
+    {
+     "i": 16,
+     "title": "The last full year",
+     "text": "$11.5B of sales, $460M of operating earnings, $457M of interest.[^1]"
+    }
+   ],
+   "source": "Fiscal 2000–2004: 10-K for fiscal 2004, Exhibit 13[^6]. Fiscal 2005–2009: five-year table in the 10-K for fiscal 2009[^7]. Fiscal 2010–2013: statements of operations[^10][^9]. Fiscal 2014–2016: 10-K for fiscal 2016[^1]. Fiscal 2005 is shown as later presented ($11,333M; originally reported as $11,275M[^3])."
+  },
+  {
+   "kind": "chart",
+   "id": "interestChart",
+   "title": "Interest expense, before and after the buyout",
+   "subtitle": "$ millions by fiscal year. The buyout closed on July 21, 2005, about halfway through fiscal 2005.",
+   "chart": {
+    "type": "bar",
+    "legend": false,
+    "height": 340,
+    "labels": ["2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016"],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "Interest expense",
+      "data": [121, 119, 142, 130, 394, 537, 503, 419, 447, 521, 442, 480, 524, 451, 429, 457],
+      "colors": ["grey", "grey", "grey", "grey", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red", "red"]
+     }
+    ],
+    "notes": [
+     {
+      "text": ["Buyout closes", "July 2005"],
+      "s": 0,
+      "i": 4,
+      "dx": -70,
+      "dy": -40
+     }
+    ]
+   },
+   "source": "Exhibit 12 to the 10-Ks for fiscal 2005[^4], 2009[^8], 2013[^9] and 2016[^2], rounded to the nearest $ million. The twelve red bars sum to $5,604M (derived)."
+  },
+  {
+   "kind": "chart",
+   "id": "opVsInterest",
+   "title": "Operating earnings against the interest bill",
+   "subtitle": "$ millions by fiscal year. What the business earned before interest and tax, and what the debt cost.",
+   "chart": {
+    "type": "bar",
+    "height": 340,
+    "labels": ["2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016"],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "Operating earnings (loss)",
+      "data": [784, 646, 582, 556, -350, 191, 378, 460],
+      "color": "brand"
+     },
+     {
+      "label": "Interest expense",
+      "data": [447, 521, 442, 480, 524, 451, 429, 457],
+      "color": "red"
+     }
+    ]
+   },
+   "source": "Consolidated statements of operations in the 10-Ks for fiscal 2011[^10], 2013[^9] and 2016[^1]. The fiscal 2013 operating loss includes a $378M goodwill impairment[^9]."
+  },
+  {
+   "kind": "flow",
+   "title": "Where fiscal 2016’s operating earnings went",
+   "subtitle": "The last full year before the filing, $ millions.",
+   "from": {
+    "label": "operating earnings, fiscal 2016",
+    "value": 460
+   },
+   "format": "usdM",
+   "to": [
+    {
+     "label": "Interest expense",
+     "value": 457,
+     "color": "red",
+     "note": "99% of operating earnings (derived: 457 ÷ 460).[^1]"
+    },
+    {
+     "label": "Left over (derived remainder)",
+     "value": 3,
+     "color": "grey",
+     "note": "460 − 457. After $2M of interest income and $34M of income tax, the year ended in a $29M net loss.[^1]"
+    }
+   ],
+   "source": "Consolidated statement of operations, 10-K for fiscal 2016[^1]. The remainder is derived."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The debt, at four dates",
+   "rows": [
+    {
+     "value": "$5,947M",
+     "text": "total indebtedness on Jan 28, 2006, six months after the buyout[^3]"
+    },
+    {
+     "value": "$5,196M",
+     "text": "total indebtedness on Jan 30, 2010, when the IPO was filed “to primarily repay certain of our existing indebtedness”[^7][^11]"
+    },
+    {
+     "value": "$4,761M",
+     "text": "long-term debt including the current portion on Jan 28, 2017 (derived: 4,642 + 119), with a stockholders’ deficit of $1,292M[^1]"
+    },
+    {
+     "value": "$4.9B",
+     "text": "debt at the Chapter 11 filing, as reported by CNBC[^15]"
+    }
+   ],
+   "source": "10-K filings and press as cited. In twelve years the debt fell by about a fifth while $5.6B of interest was expensed (derived)."
+  },
+  {
+   "kind": "scale",
+   "title": "Twelve years of interest, measured in hardship funds",
+   "subtitle": "Interest expensed from fiscal 2005 to fiscal 2016, set against what the owners paid laid-off workers.",
+   "left": {
+    "value": "$5,604M",
+    "label": "interest expense, fiscal 2005–2016"
+   },
+   "unit": {
+    "value": "$20M",
+    "label": "TRU Financial Assistance Fund, 2018"
+   },
+   "count": 280,
+   "icon": "coin",
+   "equation": "$5,604M ÷ $20M = 280. Interest is the sum of twelve annual figures from Exhibit 12[^2][^8][^9]; fiscal 2005 includes about six months before the buyout. The fund is from the owners’ press release[^17]. Interest was paid to lenders, not to the owners.",
+   "source": "10-K exhibits[^2][^8][^9] and Bain Capital press release[^17]."
+  },
+  {
+   "kind": "table",
+   "title": "The store base",
+   "subtitle": "Stores at fiscal year end.",
+   "columns": ["Date", "U.S. toy stores", "U.S. Babies “R” Us", "U.S. total", "Outside the U.S."],
+   "numeric": [1, 2, 3, 4],
+   "rows": [
+    ["Feb 3, 2001", "710", "145", "not comparable", "491[^6]"],
+    ["Jan 29, 2005", "681", "217", "898 (derived)", "601, of which 302 licensed or franchised[^5]"],
+    ["Jan 28, 2006", "671", "230", "901 (derived)", "641, of which 336 licensed or franchised[^3]"],
+    ["Jan 30, 2010", "not broken out here", "not broken out here", "849", "717 owned, licensed or franchised[^7]"],
+    ["Jan 28, 2017", "not broken out here", "not broken out here", "879", "812 operated and 257 licensed[^1]"],
+    ["Mar 15, 2018", "", "", "735 put into liquidation", "sale processes begun[^14]"]
+   ],
+   "highlight": 5,
+   "source": "10-K filings for fiscal 2004, 2005, 2009 and 2016 and the March 15, 2018 press release, as cited. 2001 excludes 198 Kids “R” Us and 37 Imaginarium stores[^6]. Later U.S. totals include side-by-side and smaller formats, so the columns are not strictly comparable."
+  },
+  {
+   "kind": "counters",
+   "title": "The last full year, fiscal 2016",
+   "items": [
+    {
+     "value": "$11,540M",
+     "text": "net sales, 62% of it in the U.S.[^1]"
+    },
+    {
+     "value": "$1,495M",
+     "text": "e-commerce net sales[^1]"
+    },
+    {
+     "value": "64,000",
+     "text": "employees worldwide, 36,000 of them in the U.S., rising to 107,000 at Christmas[^1]"
+    },
+    {
+     "value": "98%",
+     "text": "of the voting stock still held by the three sponsors, eleven years after the buyout[^1]"
+    }
+   ]
+  }
+ ]
+}

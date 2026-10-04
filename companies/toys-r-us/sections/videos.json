@@ -1,0 +1,80 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "From the jingle to the last night",
+ "lede": "Three commercials from the years when the stores were the market, then the news as it happened in 2017 and 2018, and two later explanations of what went wrong.",
+ "videos": [
+  {
+   "id": "jingle83",
+   "title": "“I’m a Toys R Us Kid”",
+   "year": 1983,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "_KjbL0cnQPE",
+   "caption": "A thirty-second spot built on the jingle. The uploader dates it to 1983; we could not confirm the year. That year the company’s sales passed $1 billion.[^31]"
+  },
+  {
+   "id": "jingle90",
+   "title": "“I Don’t Wanna Grow Up”",
+   "year": 1990,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "mBUL4a45c3M",
+   "caption": "The jingle at the company’s high-water mark. The uploader dates it to 1990, the year a reference history puts its share of U.S. toy sales at 25.4%.[^31]"
+  },
+  {
+   "id": "timessquare",
+   "title": "Times Square flagship commercial",
+   "year": 2001,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "7HEKjKlswPA",
+   "caption": "A spot for the 110,000-square-foot New York flagship, which opened in November 2001 and closed on December 30, 2015.[^36] The year is the uploader’s."
+  },
+  {
+   "id": "cnbc-filing",
+   "title": "CNBC: “Bankruptcy Is ‘Balance Sheet Issue, Not Business Issue’”",
+   "year": 2017,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "OjVJpYdXB68",
+   "caption": "CNBC’s report on the Chapter 11 filing, uploaded September 19, 2017, the day after the petition.[^13] The headline is the company’s own framing of its problem."
+  },
+  {
+   "id": "rally",
+   "title": "PIX11: workers rally for severance in New Jersey",
+   "year": 2018,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "9PrbxST_0fw",
+   "caption": "Local news coverage of employees demanding severance, uploaded June 3, 2018. Five months later KKR and Bain Capital announced a $20M hardship fund.[^17]"
+  },
+  {
+   "id": "laststores",
+   "title": "KRIS 6: “End of an era”",
+   "year": 2018,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "jrkLSy_CrKQ",
+   "caption": "A Corpus Christi station’s report on the last night, uploaded June 29, 2018, when the remaining U.S. stores closed.[^16]"
+  },
+  {
+   "id": "cnbc-rise-fall",
+   "title": "CNBC: “The Rise And Fall Of Toys R Us”",
+   "year": 2018,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "7Actdg5JcM8",
+   "caption": "A five-minute retrospective uploaded March 16, 2018, the day after the wind-down announcement.[^14] Its figures are CNBC’s; ours are in the sections above."
+  },
+  {
+   "id": "wsj",
+   "title": "The Wall Street Journal: “How Toys ‘R’ Us Went Bankrupt”",
+   "year": 2019,
+   "type": "documentary",
+   "provider": "youtube",
+   "embedId": "W9CxiNsX0zs",
+   "caption": "A twelve-minute explainer uploaded November 5, 2019. Its figures are the Journal’s; ours are in the sections above."
+  }
+ ],
+ "note": "Videos are embedded from YouTube and load only when you press play. Airing years for the commercials come from the uploaders."
+}

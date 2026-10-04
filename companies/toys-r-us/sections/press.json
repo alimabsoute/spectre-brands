@@ -1,0 +1,31 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "Today marks the dawn of a new era at Toys“R”Us where we expect that the financial constraints that have held us back will be addressed in a lasting and effective way.",
+   "who": "**Dave Brandon**, chairman and CEO, on the Chapter 11 filing, Sep 18, 2017, as quoted by CNBC[^15]",
+   "big": true
+  },
+  {
+   "q": "This is a profoundly sad day for us as well as the millions of kids and families who we have served for the past 70 years.",
+   "who": "**Dave Brandon**, press release, Mar 15, 2018[^14]"
+  },
+  {
+   "q": "My severance was to work for the liquidator for the next 60 days. I’m still walking away with nothing.",
+   "who": "**Maryjane Williams**, assistant manager with more than 20 years at the company, to Retail Dive, 2018[^18]"
+  },
+  {
+   "q": "Our substantial indebtedness could adversely affect our ability to raise additional capital to fund our operations or refinance our maturing debt, limit our ability to react to changes in the economy or our industries…",
+   "who": "**Toys “R” Us**, risk factors, Form 10-K filed Apr 12, 2017[^1]"
+  },
+  {
+   "q": "Toys ‘R’ Us failed in part because the rules of physical retail had changed. The convenience of a warehouse filled with toys was just no longer enough.",
+   "who": "**David Mayer**, Lippincott, to The Boston Globe, Sep 28, 2026[^27]"
+  },
+  {
+   "q": "Consumer demand in the toy category and for Toys R Us remains strong and we will continue to invest in the channels where the customer wants to experience our brand.",
+   "who": "**Tru Kids**, statement on closing its last two stores, January 2021[^22]"
+  }
+ ]
+}

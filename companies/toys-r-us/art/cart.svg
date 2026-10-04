@@ -1,0 +1,13 @@
+<svg viewBox="0 0 320 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a shopping cart filled with toys: a ball, blocks and a teddy bear">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="150" cy="96" r="30" fill="#e4002b"/><path d="M122 86c18 8 38 8 56 0M150 66v60" fill="none" stroke-width="2"/>
+<path d="M186 84h38v40h-38Z" fill="#f2b33d"/><path d="M196 96l9 16 9-16" fill="none" stroke-width="2.5"/>
+<path d="M214 60h34v34h-34Z" fill="#00a651"/>
+<circle cx="100" cy="92" r="20" fill="#b9793e"/><circle cx="84" cy="74" r="8" fill="#b9793e"/><circle cx="116" cy="74" r="8" fill="#b9793e"/><circle cx="94" cy="90" r="2" fill="#1d1b18"/><circle cx="106" cy="90" r="2" fill="#1d1b18"/><path d="M95 100c4 3 6 3 10 0" fill="none" stroke-width="2"/>
+<path d="M30 60h28l18 60" fill="none"/>
+<path d="M70 120h200l-22 96H96Z" fill="#cfe0f7"/>
+<path d="M82 152h180M90 184h164M118 120l10 96M166 120v96M214 120l-8 96" fill="none" stroke-width="2"/>
+<path d="M96 216l-8 30h160" fill="none"/>
+<circle cx="110" cy="264" r="13" fill="#fbf9f5"/><circle cx="230" cy="264" r="13" fill="#fbf9f5"/><circle cx="110" cy="264" r="3" fill="#1d1b18"/><circle cx="230" cy="264" r="3" fill="#1d1b18"/>
+<path d="M20 284h280" fill="none" stroke-dasharray="2 8"/>
+</g></svg>

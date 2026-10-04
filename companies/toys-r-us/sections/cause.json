@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 40,
+   "title": "The buyout debt",
+   "text": "The 2005 merger left total indebtedness of $5,947M. Interest expense went from $130M in fiscal 2004 to between $394M and $537M in every year after. In fiscal 2016 interest of $457M took 99% of operating earnings of $460M (derived). The company’s own risk factors said the debt could “limit our ability to react to changes in the economy or our industries.”[^1][^3][^4][^8]"
+  },
+  {
+   "weight": 25,
+   "title": "Discounters that sold toys at a loss",
+   "text": "Walmart began using toys as loss leaders in 1990 and Target followed. The Toys “R” Us share of U.S. toy sales fell from 25.4% in 1990 to 18.4% in 1997 and an estimated 17% in 2003, when Walmart had about 21%. In its last 10-K as a listed company it estimated that the leading discounters had about 45% of the market. This damage came before the buyout.[^5][^31][^34]"
+  },
+  {
+   "weight": 15,
+   "title": "A decade lost online",
+   "text": "After a failed 1999 holiday season online, the company paid Amazon a base fee of $50M a year from 2000 to run its site, sued in 2004 and was released by a court in 2006. In fiscal 2016 e-commerce was $1,495M of $11,540M in sales, 13% (derived).[^1][^5][^32][^33]"
+  },
+  {
+   "weight": 10,
+   "title": "No exit for the owners",
+   "text": "The $800M initial public offering filed in May 2010, meant mainly to repay debt, was withdrawn in March 2013. Fiscal 2013 brought a $378M goodwill impairment and a $1.04B net loss. The sponsors still held 98% of the voting stock in 2017.[^1][^9][^11][^12]"
+  },
+  {
+   "weight": 10,
+   "title": "Credit ran out at the worst time of year",
+   "text": "The 10-K warned that vendors might demand advance payment if they doubted the company’s credit, “including due to pending debt maturities.” It filed in September, before the holiday season, and by March the chief executive said “we no longer have the financial support to continue the Company’s U.S. operations.”[^1][^13][^14]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings document the debt, the interest and the lost market share. How much each contributed is a matter of opinion, and the owners’ own account, in their 2018 press release, blamed “the severe disruption in the retail industry.”[^17]"
+}

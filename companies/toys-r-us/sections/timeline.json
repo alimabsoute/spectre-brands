@@ -1,0 +1,289 @@
+{
+ "kicker": "Timeline",
+ "title": "Seventy-eight years, 32 moments",
+ "lede": "From a baby furniture store in Washington to pop-up shops in malls, with the money and the rivals alongside. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money & debt",
+   "color": "#4f7a4a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "brand": {
+   "label": "Brand",
+   "color": "#93743a"
+  },
+  "death": {
+   "label": "Death & estate",
+   "color": "#a8321f"
+  },
+  "afterlife": {
+   "label": "Afterlife",
+   "color": "#888888"
+  }
+ },
+ "events": [
+  {
+   "date": "1948",
+   "year": "1948",
+   "cat": "corporate",
+   "title": "Children’s Bargain Town",
+   "text": "Charles Lazarus, 25, opens a baby furniture store in Washington, D.C.",
+   "src": [5, 29]
+  },
+  {
+   "date": "1957",
+   "year": "1957",
+   "cat": "brand",
+   "title": "The Toys “R” Us name",
+   "text": "Lazarus opens a store that sells only toys, run like a supermarket, with a backward R on the sign.",
+   "src": [5, 29, 30]
+  },
+  {
+   "date": "1965",
+   "year": "1965",
+   "cat": "brand",
+   "title": "Geoffrey the giraffe",
+   "text": "The mascot, descended from an earlier character called Dr. G. Raffe, takes his name. His first TV commercial airs in 1973.",
+   "src": [35, 30]
+  },
+  {
+   "date": "1966",
+   "year": "1966",
+   "cat": "money",
+   "title": "Sold to Interstate Stores",
+   "text": "Lazarus sells his four toy supermarkets for $7.5M and stays on to run them.",
+   "src": [31]
+  },
+  {
+   "date": "1974",
+   "year": "1974",
+   "cat": "money",
+   "title": "The parent goes bankrupt",
+   "text": "Interstate files for bankruptcy. There are 51 Toys “R” Us stores, and more open during the reorganization.",
+   "src": [31]
+  },
+  {
+   "date": "1978",
+   "year": "1978",
+   "cat": "corporate",
+   "title": "Toys “R” Us, Inc.",
+   "text": "Interstate emerges with 63 toy stores, takes the Toys “R” Us name and is led by Lazarus as a public company.",
+   "src": [31, 29]
+  },
+  {
+   "date": "1983",
+   "year": "1983",
+   "cat": "corporate",
+   "title": "$1 billion in sales",
+   "text": "Sales reach $1.3B. The first Kids “R” Us clothing stores open. Stores in Canada and Singapore follow in 1984.",
+   "src": [31]
+  },
+  {
+   "date": "1990",
+   "year": "1990",
+   "cat": "rivals",
+   "title": "Peak share, and Walmart arrives",
+   "text": "Toys “R” Us holds 25.4% of U.S. toy sales. Walmart, at 9.5%, begins using hot toys as loss leaders.",
+   "src": [31]
+  },
+  {
+   "date": "1994",
+   "year": "1994",
+   "cat": "corporate",
+   "title": "Lazarus steps down",
+   "text": "The founder hands the chief executive’s job to Michael Goldstein.",
+   "src": [29, 31]
+  },
+  {
+   "date": "1996",
+   "year": "1996",
+   "cat": "corporate",
+   "title": "Babies “R” Us",
+   "text": "The first three baby superstores open.",
+   "src": [31]
+  },
+  {
+   "date": "1998",
+   "year": "1998",
+   "cat": "brand",
+   "title": "toysrus.com",
+   "text": "The company starts selling online. Its share of U.S. toy sales has fallen to 18.4% (1997).",
+   "src": [31]
+  },
+  {
+   "date": "1999",
+   "year": "1999",
+   "cat": "rivals",
+   "title": "Walmart is the largest toy seller",
+   "text": "Walmart passes Toys “R” Us in U.S. toy sales. That Christmas some toysrus.com orders arrive late.",
+   "src": [31, 33, 34]
+  },
+  {
+   "date": "2000",
+   "year": "2000",
+   "cat": "rivals",
+   "title": "The Amazon alliance",
+   "text": "A ten-year agreement makes Amazon the exclusive online outlet for Toys “R” Us, for a base fee of $50M a year plus a share of sales.",
+   "src": [32]
+  },
+  {
+   "date": "Nov 2001",
+   "year": "2001",
+   "cat": "brand",
+   "title": "Times Square flagship",
+   "text": "A 110,000-square-foot store opens in New York with a 60-foot indoor Ferris wheel.",
+   "src": [5, 31, 36]
+  },
+  {
+   "date": "May 21",
+   "year": "2004",
+   "cat": "rivals",
+   "title": "Suing Amazon",
+   "text": "The company sues to enforce its exclusivity rights. Amazon counterclaims in June.",
+   "src": [5]
+  },
+  {
+   "date": "Aug 11",
+   "year": "2004",
+   "cat": "corporate",
+   "title": "Strategic review",
+   "text": "The board says it will pursue separating the toy business from Babies “R” Us and may sell the toy business.",
+   "src": [5]
+  },
+  {
+   "date": "Mar 17",
+   "year": "2005",
+   "cat": "money",
+   "title": "Merger agreement",
+   "text": "Bain Capital, KKR and Vornado agree to buy the whole company for $26.75 a share.",
+   "src": [5]
+  },
+  {
+   "date": "Jul 21",
+   "year": "2005",
+   "cat": "money",
+   "title": "The buyout closes",
+   "text": "A $6.6B merger takes the company private. By January 2006 total indebtedness is $5,947M and 87 U.S. toy stores are slated to close.",
+   "src": [3]
+  },
+  {
+   "date": "Mar 1",
+   "year": "2006",
+   "cat": "rivals",
+   "title": "Court severs the Amazon deal",
+   "text": "New Jersey Superior Court Judge Margaret Mary McVeigh rules that Amazon breached the agreement. No damages are awarded.",
+   "src": [32]
+  },
+  {
+   "date": "2009",
+   "year": "2009",
+   "cat": "rivals",
+   "title": "Buying up the fallen",
+   "text": "The company acquires FAO Schwarz in May and the KB Toys brand in September. On July 21 Amazon pays $51M to settle.",
+   "src": [7]
+  },
+  {
+   "date": "May 28",
+   "year": "2010",
+   "cat": "money",
+   "title": "IPO filed",
+   "text": "An S-1 proposes an offering of up to $800M, mainly to repay debt. Total indebtedness is $5,196M.",
+   "src": [11, 7]
+  },
+  {
+   "date": "Mar 29",
+   "year": "2013",
+   "cat": "money",
+   "title": "IPO withdrawn",
+   "text": "The company says it has “determined not to pursue” the offering “at this time.” Fiscal 2013 ends with a net loss of $1.04B.",
+   "src": [12, 9]
+  },
+  {
+   "date": "Dec 30",
+   "year": "2015",
+   "cat": "brand",
+   "title": "Times Square closes",
+   "text": "The company declines to renew the flagship lease, citing “meaningful rent savings.”",
+   "src": [36]
+  },
+  {
+   "date": "Oct 4",
+   "year": "2016",
+   "cat": "corporate",
+   "title": "FAO Schwarz sold",
+   "text": "The brand goes to ThreeSixty Group. Terms are not disclosed.",
+   "src": [37]
+  },
+  {
+   "date": "Sep 18",
+   "year": "2017",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "Toys “R” Us and certain subsidiaries file in the Eastern District of Virginia, with about $4.9B of debt.",
+   "src": [13, 15]
+  },
+  {
+   "date": "Mar 15",
+   "year": "2018",
+   "cat": "death",
+   "title": "Wind-down announced",
+   "text": "The company seeks court approval to liquidate all 735 U.S. stores.",
+   "src": [14]
+  },
+  {
+   "date": "Mar 22",
+   "year": "2018",
+   "cat": "death",
+   "title": "Charles Lazarus dies",
+   "text": "The founder dies at 94, a week after the announcement.",
+   "src": [29, 30]
+  },
+  {
+   "date": "Jun 29",
+   "year": "2018",
+   "cat": "death",
+   "title": "Last U.S. stores close",
+   "text": "More than 30,000 workers are left looking for work.",
+   "src": [16]
+  },
+  {
+   "date": "Oct – Nov",
+   "year": "2018",
+   "cat": "death",
+   "title": "The lenders keep the name; the workers get a fund",
+   "text": "The trademark auction is cancelled in October. On November 20, KKR and Bain Capital announce a $20M hardship fund.",
+   "src": [19, 17]
+  },
+  {
+   "date": "Nov 2019",
+   "year": "2019",
+   "cat": "afterlife",
+   "title": "Two small stores",
+   "text": "Tru Kids opens stores of about 6,000 square feet in Paramus, New Jersey, and Houston. Both close in January 2021.",
+   "src": [21, 22]
+  },
+  {
+   "date": "Mar 15",
+   "year": "2021",
+   "cat": "afterlife",
+   "title": "WHP Global takes control",
+   "text": "The brand manager acquires a controlling interest in Tru Kids. A flagship opens at American Dream that December.",
+   "src": [23, 24]
+  },
+  {
+   "date": "Sep 2026",
+   "year": "2026",
+   "cat": "afterlife",
+   "title": "120 stores for the holidays",
+   "text": "WHP Global and Go! Retail Group announce 120 U.S. stores, many small and temporary.",
+   "src": [27, 28]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "kicker": "The story",
+ "title": "A supermarket for toys, sold three times",
+ "lede": "Toys “R” Us did not run out of customers. In its last full year it sold $11.5 billion of toys and baby goods. It ran out of room to pay for a buyout that had been charged to its own account twelve years earlier.",
+ "chapters": [
+  {
+   "when": "1948 – 1978 · Birth",
+   "title": "Shopping carts, high shelves and a backward R",
+   "big": "$7.5M",
+   "cap": "what Interstate Stores paid for Lazarus’s four toy supermarkets in 1966",
+   "color": "#3F8A5A",
+   "body": "Charles Lazarus was 25 when he opened Children’s Bargain Town, a baby furniture store in Washington, D.C., in 1948.[^29][^5] Customers kept asking for toys. In 1957 he opened a store that sold only toys and called it Toys “R” Us, with the R reversed to look like a child’s handwriting.[^29][^30] He modeled it on the self-service supermarkets of the 1950s: carts at the door, merchandise stacked high, prices cut.[^30]\n\nIn 1966, with four stores and about $12M in revenue, he sold the business to Interstate Stores for $7.5M and stayed on to run it.[^31] Interstate overexpanded its discount chains and filed for bankruptcy in 1974, when there were 51 Toys “R” Us stores.[^31] The toy division kept opening stores through the reorganization. In 1978 the company came out of court with 63 toy stores, Lazarus in charge and a new name: Toys “R” Us, Inc.[^31][^29] The brand’s first bankruptcy made it; the second ended it.",
+   "art": "art/cart.svg",
+   "artCaption": "Original illustration: the shopping cart Lazarus borrowed from the supermarket."
+  },
+  {
+   "when": "1978 – 1997 · Rise",
+   "title": "The category killer",
+   "big": "25.4%",
+   "cap": "share of U.S. retail toy sales in 1990, per a reference history",
+   "color": "#0047ba",
+   "body": "The format was simple and hard to copy at scale: every toy, all year, in a warehouse by the highway, tracked by computer. Market share went from 5% in 1978 to 9% in 1981, 15% in 1987 and 25.4% in 1990.[^31] Sales passed $1 billion in 1983.[^31] Kids “R” Us clothing stores followed in 1983, the first stores abroad in 1984, and Babies “R” Us in 1996.[^31]\n\nGeoffrey the giraffe, the mascot since 1965, appeared in his first television commercial in 1973.[^35][^30] By the 1980s and early 1990s the jingle, “I don’t wanna grow up, I’m a Toys R Us kid,” had become what the Associated Press later called “an anthem for children across the country.”[^16][^30] Lazarus stepped down as chief executive in 1994.[^29]",
+   "pull": {
+    "text": "There’s never been a better time to be a Toys“R”Us kid.",
+    "who": "toysrus.com home page, December 2003[^38]"
+   },
+   "video": "jingle90"
+  },
+  {
+   "when": "1998 – 2005 · Squeeze",
+   "title": "Walmart on one side, Amazon on the other",
+   "big": "$50M",
+   "cap": "base fee paid to Amazon each year to run toysrus.com",
+   "color": "#93743a",
+   "body": "Walmart started using hot toys as loss leaders in 1990.[^31] The Toys “R” Us share of the market fell to 18.4% by 1997 while Walmart’s rose from 9.5% to 16.4%, and by 1999 Walmart was the country’s largest toy seller.[^31][^34] By 2003 an analyst put Walmart at about 21% and Toys “R” Us at about 17% (estimates).[^34]\n\nOnline, the company launched toysrus.com in 1998 and failed to deliver some 1999 holiday orders by Christmas.[^31][^33] In 2000 it signed a ten-year deal that made Amazon its exclusive online outlet, for a base fee of $50M a year plus a percentage of sales.[^32] It sued in May 2004, saying Amazon had let other merchants sell toys.[^5] In March 2006 a New Jersey judge found Amazon had breached the agreement and severed it, without damages.[^32] Amazon paid $51M to settle in July 2009.[^7] By then the company had spent six years without a website of its own.\n\nIn August 2004 the board said it would explore selling the toy business and spinning off Babies “R” Us.[^5] It sold the whole company instead.",
+   "image": {
+    "image": "img/archive-2003-12-home.avif",
+    "caption": "toysrus.com on December 1, 2003. The button at top right reads “Shop online at Toysrus.com, teamed with amazon.com.”[^38]",
+    "alt": "Toys R Us home page from December 2003 showing a button for the Amazon-run online store"
+   }
+  },
+  {
+   "when": "2005 – 2016 · The buyout",
+   "title": "A profitable retailer with an unpayable mortgage",
+   "big": "$6.6B",
+   "cap": "the July 21, 2005 merger, at $26.75 a share",
+   "color": "#a8321f",
+   "body": "On July 21, 2005, entities affiliated with Bain Capital, Kohlberg Kravis Roberts and Vornado Realty Trust took the company private in a $6.6B merger. Shareholders received $26.75 a share, about $5.9B.[^3] The deal was funded with the company’s own cash, equity from the investors and new debt, including a $1.9B unsecured bridge loan.[^3] Six months later total indebtedness was $5,947M.[^3] Interest expense went from $130M in fiscal 2004 to $394M in fiscal 2005 and $537M in fiscal 2006.[^4][^8]\n\nThe business underneath kept working. Net sales rose to $13.9B in fiscal 2011 and operating earnings ran between $556M and $784M a year from fiscal 2009 to 2012.[^9][^10] The plan was to list the shares again and use the money to pay down debt: an $800M offering was filed in May 2010.[^11] It was withdrawn on March 29, 2013.[^12] That fiscal year ended with a goodwill write-down and a net loss of $1.04B.[^9] The owners, who held 98% of the voting stock, had no exit, and the company had no way to shrink the debt.[^1]",
+   "art": "art/debt-ball.svg",
+   "artCaption": "Original illustration: a toy block chained to a weight."
+  },
+  {
+   "when": "2017 – 2018 · Death",
+   "title": "One last Christmas, in court",
+   "big": "735",
+   "cap": "U.S. stores put into liquidation on March 15, 2018",
+   "color": "#a8321f",
+   "body": "On September 18, 2017, Toys “R” Us filed for Chapter 11 in Richmond, Virginia, with about $4.9B of debt and a commitment for more than $3B of bankruptcy financing.[^13][^15] The chief executive, Dave Brandon, called it “the dawn of a new era.”[^15] The company said it would keep its roughly 1,600 stores open through the holidays.[^15]\n\nIt lasted 178 days (derived). On March 15, 2018, the company asked the court for permission to wind down the U.S. business and liquidate the inventory in all 735 U.S. stores.[^14] Lazarus died a week later, on March 22, at 94.[^29][^30] The last stores closed on the night of June 29, 2018, and more than 30,000 people were out of work.[^16]\n\nThey were told there would be no severance; the going-out-of-business sales were, in the chief executive’s words to staff as reported by Retail Dive, to be considered their severance.[^18] After months of protests, KKR and Bain Capital put $10M each into a hardship fund. The workers had asked for $75M.[^17][^18]",
+   "pull": {
+    "text": "I am very disappointed with the result, but we no longer have the financial support to continue the Company’s U.S. operations.",
+    "who": "Dave Brandon, chairman and CEO, press release of March 15, 2018[^14]"
+   },
+   "image": {
+    "image": "img/interior-2018-muncie.avif",
+    "caption": "Empty shelves at the liquidation sale in Muncie, Indiana, June 17, 2018. Photo: Talor Berthelson, via Wikimedia Commons, CC BY 2.0.[^39]",
+    "alt": "Empty store shelves behind yellow caution tape in a closing Toys R Us"
+   }
+  },
+  {
+   "when": "2018 – 2026 · Afterlife",
+   "title": "A name looking for a store",
+   "big": "120",
+   "cap": "stores announced for the 2026 holiday season, most on leases of up to 12 months",
+   "color": "#7b62a8",
+   "body": "The trademarks were supposed to be auctioned in October 2018. The lenders cancelled the sale and kept them, planning “a new, operating Toys R Us and Babies R Us branding company.”[^19][^20] That company, Tru Kids, opened two small stores in late 2019 and closed both in January 2021.[^21][^22]\n\nWHP Global, a brand management firm, took a controlling interest in March 2021.[^23] It put Toys “R” Us shops inside Macy’s stores, opened a 20,000-square-foot flagship at the American Dream mall in New Jersey, and in 2023 announced up to 24 flagships with the pop-up operator Go! Retail Group.[^24][^25][^26] In September 2026 the plan was 120 stores for the holidays. The Boston Globe found that many are small and temporary; the one in Braintree, Massachusetts, is about 5,000 square feet.[^27]",
+   "image": {
+    "image": "img/archive-2018-07-farewell.avif",
+    "caption": "The last home page of the old company, captured July 2, 2018: “Promise us just this one thing: Don’t ever grow up. Play on!”[^38]",
+    "alt": "Toys R Us farewell page with a cartoon giraffe and the words Play on"
+   }
+  }
+ ]
+}

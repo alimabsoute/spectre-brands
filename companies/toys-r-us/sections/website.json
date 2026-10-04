@@ -1,0 +1,64 @@
+{
+ "kicker": "The old website",
+ "title": "What customers actually saw",
+ "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. Captures were found with the CDX API in October 2026.[^38]",
+ "snips": [
+  {
+   "text": "“There’s never been a better time to be a Toys“R”Us kid”",
+   "when": "Home page banner · Dec 1, 2003[^38]"
+  },
+  {
+   "text": "“Shop online at Toysrus.com, teamed with amazon.com”",
+   "when": "Header button · Dec 1, 2003[^38]"
+  },
+  {
+   "text": "“Visit the Center of the Toy Universe: Toys“R”Us Times Square, New York”",
+   "when": "Home page · Dec 1, 2003[^38]"
+  },
+  {
+   "text": "“Thanks to each of you who shared your amazing journey to (and through) parenthood with us… Promise us just this one thing: Don’t ever grow up. Play on!”",
+   "when": "Farewell page · Jul 2, 2018[^38]"
+  },
+  {
+   "text": "“Got some questions? We have answers for you in our Store Closing FAQ.”",
+   "when": "Farewell page · Jul 2, 2018[^38]"
+  }
+ ],
+ "note": "Home page captures from 1998 and 1999 exist but their images were never archived, and a February 2001 capture of the bare domain resolves to an unrelated site, so they are not shown. The footer of the July 2018 page reads “© 2018 Geoffrey, LLC,” the subsidiary that held the trademarks.",
+ "captures": [
+  {
+   "date": "Dec 2003",
+   "label": "The Amazon years",
+   "url": "http://www.toysrus.com/",
+   "wayback": "https://web.archive.org/web/20031201073712/http://www9.toysrus.com/",
+   "image": "img/archive-2003-12-home.avif",
+   "h": 480,
+   "captured": "Dec 1, 2003",
+   "title": "A front door to someone else’s store",
+   "text": "The company’s own site was a brochure: store locator, investor relations, a baby registry. Shopping happened at a co-branded store run by Amazon, reached by the button at top right."
+  },
+  {
+   "date": "Jun 2017",
+   "label": "Three months before",
+   "url": "https://www.toysrus.com/",
+   "wayback": "https://web.archive.org/web/20170602221040/https://www.toysrus.com/",
+   "image": "img/archive-2017-06-home.avif",
+   "h": 480,
+   "captured": "Jun 2, 2017",
+   "title": "Three months before the filing",
+   "text": "A full online store, with a Babies“R”Us link above the header. The pop-up asking for an email address is part of the original page.",
+   "warn": "The capture’s own sign-up pop-up covers part of the page."
+  },
+  {
+   "date": "Jul 2018",
+   "label": "Play on",
+   "url": "http://www.toysrus.com/",
+   "wayback": "https://web.archive.org/web/20180702003114/http://www.toysrus.com:80/",
+   "image": "img/archive-2018-07-farewell.avif",
+   "h": 480,
+   "captured": "Jul 2, 2018",
+   "title": "The farewell",
+   "text": "Three days after the last stores closed, the store was gone from the site. What remained was a thank-you note, a store closing FAQ and a page on the company’s history."
+  }
+ ]
+}

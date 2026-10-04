@@ -1,0 +1,88 @@
+{
+ "kicker": "Afterlife",
+ "title": "What became of it",
+ "lede": "The stores, the debt and the jobs are gone. The name, the giraffe and the jingle were the only assets the lenders chose to keep.",
+ "items": [
+  {
+   "status": "Licensed",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "Controlled since March 2021 by WHP Global, a brand management firm, alongside funds managed by Solus and Ares.[^23] It appears on shops inside Macy’s, a flagship at American Dream in New Jersey, and stores operated with Go! Retail Group.[^24][^25][^26][^27]"
+  },
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The U.S. stores",
+   "text": "All 735 were put into liquidation in March 2018 and the last closed on June 29, 2018.[^14][^16] The Times Square flagship had already closed in December 2015.[^36]"
+  },
+  {
+   "status": "Dispersed",
+   "color": "var(--mute)",
+   "title": "The workers",
+   "text": "More than 30,000 lost their jobs without severance.[^16][^18] The $20M fund set up by KKR and Bain Capital was open to those with at least a year of tenure and annual income between $5,000 and $110,000.[^17] Vornado is not named in the fund’s announcement.[^17]"
+  },
+  {
+   "status": "Died",
+   "color": "var(--mute)",
+   "title": "The founder",
+   "text": "Charles Lazarus died on March 22, 2018, a week after the wind-down was announced. He was 94.[^29][^30]"
+  },
+  {
+   "status": "Smaller",
+   "color": "var(--green)",
+   "title": "The idea",
+   "text": "The new stores are a fraction of the old ones. The 2019 stores were about 6,500 square feet, “about one-seventh of the size of the old Toys R Us stores,” and a 2026 store near Boston is about 5,000.[^22][^27] The toy supermarket, as a format, has not come back."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the name",
+   "subtitle": "Six owners in seventy years. Two of the changes of hands happened in bankruptcy court.",
+   "nodes": [
+    {
+     "when": "1957",
+     "owner": "Charles Lazarus",
+     "what": "Opens the first store under the Toys “R” Us name.[^5][^29]"
+    },
+    {
+     "when": "1966",
+     "owner": "Interstate Stores",
+     "what": "Buys the four-store chain. Lazarus stays to run it.[^31]",
+     "price": "$7.5M"
+    },
+    {
+     "when": "1974 – 1978",
+     "owner": "Interstate in bankruptcy",
+     "what": "The parent fails; the toy division carries the reorganized company, which is renamed Toys “R” Us, Inc.[^31]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Jul 2005",
+     "owner": "Bain Capital, KKR and Vornado",
+     "what": "Take the public company private at $26.75 a share.[^3]",
+     "price": "$6.6B"
+    },
+    {
+     "when": "Sep 2017 – 2018",
+     "owner": "Chapter 11",
+     "what": "The U.S. business is liquidated. The trademark auction is cancelled and the lenders keep the brand.[^13][^14][^19]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "2019",
+     "owner": "Tru Kids",
+     "what": "The lenders’ new company relaunches the website and opens two stores, which close in January 2021.[^21][^22]"
+    },
+    {
+     "when": "Mar 2021 – today",
+     "owner": "WHP Global",
+     "what": "Acquires a controlling interest and licenses the name to Macy’s and store operators.[^23][^25][^27]",
+     "price": "not disclosed",
+     "status": "current"
+    }
+   ],
+   "source": "10-K filings[^3][^5], reference history[^31], 8-Ks[^13][^14] and press as cited."
+  }
+ ]
+}

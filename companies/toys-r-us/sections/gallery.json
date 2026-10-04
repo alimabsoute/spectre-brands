@@ -1,0 +1,108 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Rainbow stripes, a backward R and a giraffe",
+ "label": "Brand gallery",
+ "lede": "The brand was built to be read from a moving car: letters in six colours, a striped facade and a mascot tall enough to see over the shelves. Here it is as it survives in photographs and the archive, with our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/logo-2003.avif",
+   "date": "Dec 2003",
+   "caption": "The logo with a star behind the R, as it appeared on the home page in December 2003.",
+   "alt": "Toys R Us logo in multicoloured letters with a star behind the R",
+   "credit": "Cropped from an Internet Archive capture of toysrus.com.[^38] Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/storefront-2018-boardman.avif",
+   "date": "Jun 2018",
+   "caption": "A store in Boardman, Ohio, that kept its older facade to the end: striped panels, a brown mansard roof and the earlier lettering. Photographed on its last day, June 27, 2018, according to the photographer.",
+   "alt": "Older style Toys R Us storefront with rainbow striped panels and a brown roof",
+   "credit": "Photo: Larry Hachucka, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VINTAGE_Toys_%E2%80%9CR%E2%80%9D_Us;_Boardman_Ohio.jpg), CC BY-SA 4.0."
+  },
+  {
+   "image": "img/storefront-2018-modesto.avif",
+   "date": "Apr 2018",
+   "caption": "The later blue-box storefront in Modesto, California, with its going-out-of-business banner.",
+   "alt": "Blue Toys R Us store with a going out of business banner",
+   "credit": "Photo: TaurusEmerald, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Toys_R_Us_Modesto_Closing.jpg), CC BY-SA 4.0."
+  },
+  {
+   "image": "img/interior-2018-times-square.avif",
+   "date": "May 2018",
+   "caption": "A later Times Square store, two days before it closed, according to the photographer. The original flagship there had closed in December 2015.[^36]",
+   "alt": "Shoppers inside a Toys R Us store with everything must go signs",
+   "credit": "Photo: A.sostika, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Toys_%22R%22_Us_store_in_Times_Square.jpg), CC BY-SA 4.0."
+  },
+  {
+   "image": "img/interior-2018-muncie.avif",
+   "date": "Jun 2018",
+   "caption": "The liquidation sale in Muncie, Indiana, twelve days before the end.",
+   "alt": "Empty shelves and caution tape in a closing store",
+   "credit": "Photo: Talor Berthelson, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Toys_%22R%22_Us_Store_Closing_01.jpg), CC BY 2.0."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, thirteen months apart",
+   "ratio": "4/3",
+   "before": {
+    "label": "June 2017",
+    "image": "img/archive-2017-06-home.avif",
+    "caption": "A working online store, three months before the Chapter 11 filing.[^38]",
+    "alt": "Toys R Us home page in June 2017"
+   },
+   "after": {
+    "label": "July 2018",
+    "image": "img/archive-2018-07-farewell.avif",
+    "caption": "A farewell note and a store closing FAQ, three days after the last stores closed.[^38]",
+    "alt": "Toys R Us farewell page in July 2018"
+   },
+   "source": "Internet Archive Wayback Machine captures of toysrus.com[^38]."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The storefront.",
+   "caption": "Stripes, a mansard roof and a long neck at the door. An original illustration, not an official asset."
+  },
+  {
+   "art": "art/cart.svg",
+   "title": "The format.",
+   "caption": "Lazarus took the shopping cart from the supermarket and filled it with toys.[^30]"
+  },
+  {
+   "art": "art/ferris-wheel.svg",
+   "title": "The flagship.",
+   "caption": "The Times Square store had a 60-foot indoor Ferris wheel.[^5]"
+  },
+  {
+   "art": "art/debt-ball.svg",
+   "title": "The problem.",
+   "caption": "$5,947M of debt six months after the buyout.[^3]"
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#0047ba",
+   "label": "Header blue (2017 site)"
+  },
+  {
+   "hex": "#003399",
+   "label": "Header blue (2003 site)"
+  },
+  {
+   "hex": "#ffcc33",
+   "label": "Page yellow (2003 site)"
+  },
+  {
+   "hex": "#e4002b",
+   "label": "Logo red (approx.)"
+  },
+  {
+   "hex": "#00a651",
+   "label": "Logo green (approx.)"
+  }
+ ],
+ "disclaimer": "Colours were sampled by eye from archived captures[^38] and are approximate. Toys “R” Us, Babies “R” Us and Geoffrey are trademarks of their owner and appear here in historical and editorial context. Drawings are original illustrations, not the trademarked logo or character."
+}

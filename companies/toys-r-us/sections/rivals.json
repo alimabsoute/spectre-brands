@@ -1,0 +1,139 @@
+{
+ "kicker": "The rivals",
+ "title": "The toy store lost to stores that were not toy stores",
+ "lede": "Toys “R” Us outlasted every other toy chain. It was beaten by retailers for whom toys were one aisle, priced to bring shoppers in for everything else.",
+ "blocks": [
+  {
+   "kind": "bars",
+   "title": "Share of U.S. toy sales, holiday 2003",
+   "subtitle": "Analyst estimates reported by the Associated Press. Kmart and KB Toys were each put at 4% to 5%; the midpoint is drawn.",
+   "format": "pct",
+   "itemLabel": "Retailer",
+   "valueLabel": "Estimated share",
+   "items": [
+    {
+     "label": "Walmart",
+     "value": 21,
+     "display": "about 21%",
+     "note": "About 3,000 U.S. stores.",
+     "color": "ink"
+    },
+    {
+     "label": "Toys “R” Us",
+     "value": 17,
+     "display": "about 17%",
+     "note": "681 U.S. toy stores.",
+     "self": true
+    },
+    {
+     "label": "Target",
+     "value": 9,
+     "display": "about 9%",
+     "color": "grey"
+    },
+    {
+     "label": "Kmart",
+     "value": 4.5,
+     "display": "4% to 5%",
+     "color": "grey"
+    },
+    {
+     "label": "KB Toys",
+     "value": 4.5,
+     "display": "4% to 5%",
+     "color": "grey"
+    }
+   ],
+   "source": "Estimates by Sean McGowan of Harris Nesbitt Gerard, in an AP report of November 30, 2003[^34]. Estimates, not measured figures."
+  },
+  {
+   "kind": "chart",
+   "id": "shareChart",
+   "title": "Twenty-five years of market share",
+   "subtitle": "Toys “R” Us and Walmart, share of U.S. retail toy sales, at the dates we could source.",
+   "chart": {
+    "type": "line",
+    "height": 320,
+    "labels": ["1978", "1981", "1987", "1990", "1997", "2003"],
+    "y": {
+     "format": "pct",
+     "min": 0,
+     "max": 30
+    },
+    "series": [
+     {
+      "label": "Toys “R” Us",
+      "data": [5, 9, 15, 25.4, 18.4, 17],
+      "color": "brand",
+      "points": true
+     },
+     {
+      "label": "Walmart",
+      "data": [null, null, null, 9.5, 16.4, 21],
+      "color": "ink",
+      "points": true
+     }
+    ]
+   },
+   "source": "1978–1997 from a reference history[^31]; 2003 is an analyst estimate[^34]. The points are unevenly spaced in time and come from different sources, so read the direction, not the slope."
+  },
+  {
+   "kind": "multiples",
+   "title": "Who won, who died",
+   "subtitle": "The toy chains are gone or reduced to names. The general merchants and the website remain.",
+   "metric": "Position in toys",
+   "items": [
+    {
+     "name": "Toys “R” Us",
+     "status": "ghost",
+     "self": true,
+     "value": "735 → 0",
+     "text": "U.S. stores liquidated in 2018.[^14][^16] The name is licensed by WHP Global.[^23]"
+    },
+    {
+     "name": "Walmart",
+     "status": "alive",
+     "value": "about 21%",
+     "text": "Estimated share of U.S. toy sales in 2003, up from 9.5% in 1990. The largest toy seller by 1999.[^31][^34]"
+    },
+    {
+     "name": "Target",
+     "status": "alive",
+     "value": "about 9%",
+     "text": "Estimated share in 2003.[^34] It later ran the relaunched toysrus.com for Tru Kids.[^21]"
+    },
+    {
+     "name": "Amazon",
+     "status": "alive",
+     "value": "$51M",
+     "text": "What it paid in 2009 to settle with the partner whose online toy store it ran from 2000 to 2006.[^7][^32]"
+    },
+    {
+     "name": "KB Toys",
+     "status": "dead",
+     "value": "4% to 5%",
+     "text": "Estimated share in 2003.[^34] Toys “R” Us bought its brand and trademarks on September 3, 2009.[^7]"
+    },
+    {
+     "name": "FAO Schwarz",
+     "status": "acquired",
+     "statusLabel": "Sold twice",
+     "value": "2009, 2016",
+     "text": "Acquired by Toys “R” Us in May 2009 and sold to ThreeSixty Group in October 2016.[^7][^37]"
+    },
+    {
+     "name": "Child World and Lionel",
+     "status": "dead",
+     "value": "152 and 78 stores",
+     "text": "The two nearest toy superstore rivals in the late 1980s, per a reference history.[^31] Neither survives; we did not source their closing dates."
+    }
+   ],
+   "source": "10-K for fiscal 2009[^7], reference history[^31], AP[^34] and press as cited. The headline figures are not like for like."
+  },
+  {
+   "kind": "quote",
+   "text": "Currently, the leading discounters are estimated to account for approximately 45% of total sales in the United States toy market, and as their share continues to increase, we are likely to experience ongoing pricing pressures.",
+   "who": "Toys “R” Us, Form 10-K for fiscal 2004, filed April 2005[^5]"
+  }
+ ]
+}

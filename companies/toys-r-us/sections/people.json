@@ -1,0 +1,49 @@
+{
+ "kicker": "The people",
+ "title": "Who built it, who bought it, who closed it",
+ "lede": "Roles and dates are from filings and the press reports cited. Later careers are included only where we found a source.",
+ "people": [
+  {
+   "name": "Charles Lazarus",
+   "role": "Founder; chairman and CEO until 1994",
+   "text": "Born October 4, 1923. Opened Children’s Bargain Town at 25, the first Toys “R” Us in 1957, sold it in 1966, and led it out of its parent’s bankruptcy in 1978.[^29][^30][^31]",
+   "later": "Died March 22, 2018, a week after the wind-down announcement.[^29]"
+  },
+  {
+   "name": "Michael Goldstein",
+   "role": "CEO from 1994; later chairman",
+   "text": "Succeeded Lazarus as chief executive in 1994 and became chairman in 1998.[^31] As a friend of Lazarus, he confirmed the founder’s death to the Associated Press.[^30]"
+  },
+  {
+   "name": "John Eyler",
+   "role": "CEO from January 2000",
+   "text": "Took over after the 1999 holiday season, when stores ran short of popular toys and the website delivered late. The Amazon alliance and the Times Square flagship date from his tenure.[^31]"
+  },
+  {
+   "name": "Bain Capital, KKR and Vornado Realty Trust",
+   "role": "Owners, 2005 – 2018",
+   "text": "The three sponsors bought the company on July 21, 2005, and still held 98% of the voting stock in 2017.[^1][^3]",
+   "later": "KKR and Bain Capital each put $10M into the 2018 hardship fund.[^17]"
+  },
+  {
+   "name": "Dave Brandon",
+   "role": "Chairman and CEO at the end",
+   "text": "Called the Chapter 11 filing “the dawn of a new era” in September 2017 and announced the U.S. wind-down six months later.[^14][^15]"
+  },
+  {
+   "name": "Judge Margaret Mary McVeigh",
+   "role": "New Jersey Superior Court",
+   "text": "Wrote the 131-page opinion of March 2006 that found Amazon in breach and ended the online alliance.[^32]"
+  },
+  {
+   "name": "Richard Barry",
+   "role": "President and CEO, Tru Kids",
+   "text": "Led the lenders’ successor company and opened the two 2019 stores.[^21]"
+  },
+  {
+   "name": "Yehuda Shmidman",
+   "role": "Chairman and CEO, WHP Global",
+   "text": "Vice chairman of Tru Kids from 2019; his firm took control of the brand in March 2021.[^23]"
+  }
+ ]
+}
