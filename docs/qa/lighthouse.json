@@ -1,0 +1,316 @@
+{
+ "/": {
+  "performance": 94,
+  "accessibility": 96,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2853,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "color-contrast",
+   "label-content-name-mismatch",
+   "unused-css-rules",
+   "cache-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/about/": {
+  "performance": 99,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 1953,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/aol/": {
+  "performance": 90,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 3609,
+  "cls": 0,
+  "tbt": 57,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/blockbuster/": {
+  "performance": 96,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2706,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/category/consumer/": {
+  "performance": 99,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 1952,
+  "cls": 0,
+  "tbt": 42,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/category/dotcom/": {
+  "performance": 96,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2702,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/category/electronics/": {
+  "performance": 98,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2402,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/category/film/": {
+  "performance": 99,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 1954,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/category/retail/": {
+  "performance": 99,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 1954,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/circuit-city/": {
+  "performance": 92,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 3306,
+  "cls": 0,
+  "tbt": 35,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/crystal-pepsi/": {
+  "performance": 93,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 3158,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/groupon/": {
+  "performance": 97,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2557,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/kb-toys/": {
+  "performance": 97,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2556,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "td-has-header",
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/kiddie-city/": {
+  "performance": 99,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2107,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/pets-com/": {
+  "performance": 94,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 3007,
+  "cls": 0,
+  "tbt": 43,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/quibi/": {
+  "performance": 97,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2557,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/radioshack/": {
+  "performance": 97,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2557,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/toys-r-us/": {
+  "performance": 95,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2857,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/webvan/": {
+  "performance": 96,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2707,
+  "cls": 0,
+  "tbt": 9,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ "/zima/": {
+  "performance": 96,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 100,
+  "lcp": 2707,
+  "cls": 0,
+  "tbt": 0,
+  "failed": [
+   "unused-css-rules",
+   "cache-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ }
+}

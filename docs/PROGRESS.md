@@ -35,6 +35,13 @@ Updated after every commit so a resumed session can pick up where the last one s
 | 016 | howard-johnsons | restaurants | ghost | in research |
 | 017 | burger-chef | restaurants | dead | in research |
 
+## Session notes
+- 2026-10-03 evening: all 14 brand-research agents were cut off together by the account's session rate
+  limit. Partial folders were left under `companies/` (untracked). They are being resumed five at a time,
+  and each brand is committed as soon as it builds. Do not run more than about five research agents at once.
+- Order of resumption: kb-toys, zima, aol, toys-r-us, groupon; then circuit-city, kiddie-city, crystal-pepsi,
+  blockbuster, quibi; then dreamcast, atari, howard-johnsons, burger-chef.
+
 ## How to resume
 1. `node build.mjs` and fix whatever a half-finished brand folder reports (a folder without all core
    sections fails the build; finish it following `docs/ADD_A_BRAND.md`, or move it out of `companies/`).

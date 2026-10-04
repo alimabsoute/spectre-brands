@@ -44,8 +44,8 @@ table.cmp caption{caption-side:top;text-align:left;font-weight:600;padding-botto
 table.cmp thead th{text-align:left;font-size:var(--t-sm);color:var(--ink);border-bottom:1px solid var(--ink);padding:.6rem .9rem .5rem 0;font-weight:600;vertical-align:bottom}
 table.cmp td,table.cmp tbody th{border-bottom:1px solid var(--line);padding:.65rem .9rem .65rem 0;vertical-align:top;color:var(--ink-2);text-align:left;font-weight:400}
 table.cmp td:first-child,table.cmp tbody th{font-weight:600;color:var(--ink)}
-table.cmp tr.me td{background:var(--brand-soft)}
-table.cmp tr.me td:first-child{box-shadow:inset 3px 0 0 var(--brand);padding-left:.6rem}
+table.cmp tr.me td,table.cmp tr.me th{background:var(--brand-soft)}
+table.cmp tr.me th{box-shadow:inset 3px 0 0 var(--brand);padding-left:.6rem}
 table.cmp .num{text-align:right;font-variant-numeric:tabular-nums}
 .tbl-scroll{overflow-x:auto}
 table.cmp.wide{min-width:44rem}
