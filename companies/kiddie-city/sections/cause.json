@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "A bigger rival, then the discounters",
+   "text": "The Times opened its 1991 bankruptcy report with “more than a decade of unsuccessfully competing with Toys ‘R’ Us.” Toys “R” Us had four times as many stores in 1988 and, by an analyst’s estimate, about twice the sales per store of Child World, whose average was close to Lionel’s (derived). By 1993 Kmart, Wal-Mart and Target were taking toy sales as well.[^10][^16][^19][^23]"
+  },
+  {
+   "weight": 25,
+   "title": "Thin capital and nervous lenders",
+   "text": "In 1982 an analyst said lack of capital kept Lionel from carrying a full inventory year-round. Banks refused further support after December 1981 and declined to renew a $65M line in 1991. In December 1992 the company stopped paying suppliers and landlords.[^1][^16][^23]"
+  },
+  {
+   "weight": 20,
+   "title": "Growth by acquisition and overreach",
+   "text": "Lionel bought 26 stores in 1980 for $12.25M (derived) just before a recession and closed 49 stores (derived) within 13 months of filing. After 1985 it expanded again, to about 100 stores, and closed 30 during 1991.[^1][^4][^20][^26]"
+  },
+  {
+   "weight": 10,
+   "title": "A takeover fight and distracted management",
+   "text": "A bid valued at $8.25 a share was resisted through 1989, shareholders questioned a stock sale to investors tied to management in 1990, and a dissident investor attacked the board in 1991. The 1991 Times report said the attacks “exacerbated” the company’s troubles.[^12][^15][^16]"
+  },
+  {
+   "weight": 10,
+   "title": "Recession and a one-season business",
+   "text": "The chain sold 60% of its toys in November and December. Poor Christmas seasons in 1981, 1990 and 1992 each preceded a filing or a round of closings.[^1][^10][^16][^23]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The press of the time documents the symptoms. How much each one contributed is a matter of opinion."
+}

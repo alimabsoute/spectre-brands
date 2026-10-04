@@ -1,0 +1,67 @@
+{
+ "kicker": "The story",
+ "title": "A train maker’s toy stores, and the rival they never caught",
+ "lede": "Kiddie City did not fail once. Its owner went through Chapter 11 in 1982, recovered, and went through it again in 1991. Both times the trigger was the same: a weak Christmas, and lenders who would not wait for the next one.",
+ "chapters": [
+  {
+   "when": "1957 – 1981 · Trains out, toy stores in",
+   "title": "Lionel keeps the stores and sells the trains",
+   "big": "105",
+   "cap": "stores before the 1982 bankruptcy, as later reported by the Times",
+   "color": "#3F8A5A",
+   "body": "Kiddie City was founded in Philadelphia in 1957.[^24] It sold toys the way a supermarket sold groceries: a large self-service store with long aisles and shopping carts, at discount prices. A Rochester reporter who visited one in 1979 wrote of “aisles piled 10 feet high with toys.”[^28]\n\nThe Lionel Corporation, the New York company famous for electric trains, sold the rights to manufacture those trains to General Mills in 1969 and concentrated on toy retailing.[^1][^9] It kept a royalty of 3.5% of train sales, worth $679,534 in 1980.[^1] We could not find a contemporary source online for when Lionel bought Kiddie City or what it paid, so this page does not give a date or a price for that deal.\n\nThe stores traded as Lionel Kiddie City, Lionel Playworld and Lionel Toy Warehouse.[^16] In 1980 Lionel bought two more chains: Fun City Toys, with nine stores in Texas, for $4.5M, and the Consolidated Toy Company, with 17 stores in the Middle West, for $7.75M.[^1] By early 1982 it had more than 90 stores in 22 states by one Times count, and 105 by another.[^1][^4]",
+   "video": "play78"
+  },
+  {
+   "when": "Feb 1982 – 1985 · The first bankruptcy",
+   "title": "A bad Christmas and $91 million owed to toy makers",
+   "big": "$51M",
+   "cap": "lost in 1982, “some $51 million” in the Times’s words",
+   "color": "#C2412D",
+   "body": "On February 19, 1982 Lionel and two subsidiaries, Lionel Leisure and Consolidated Toy, filed for Chapter 11 in the Southern District of New York.[^2] Management blamed poor Christmas sales. Analysts blamed the acquisitions, made just before the economy turned, and a shortage of capital that left the stores without full shelves for most of the year.[^1] The company had repaid $85M of unsecured debt in December 1981, the banks refused to continue their support, and it owed toy manufacturers about $91M.[^1]\n\nCreditors forced out the two top officers in July 1982.[^3] Michael J. Vastola, who had joined in 1971 as a junior accountant, became chairman and chief executive in March 1983, at 37. By then the chain had shrunk from 105 stores to 56.[^4]\n\nThe reorganization plan offered unsecured creditors $70M in cash, preferred stock and about 35% of the common shares.[^5][^6] Most of the cash was to come from selling Lionel’s 82% stake in Dale Electronics for $50M. Shareholders objected, and in November 1983 the Second Circuit reversed the approval of that sale.[^2] Our sources do not show how the plan was finally funded. Lionel emerged from Chapter 11 in 1985.[^16][^27]",
+   "pull": {
+    "text": "You could say that the theory of buying existing stores rather than opening stores on your own like Toys R Us just didn’t work.",
+    "who": "Stewart Robbins, analyst, Paine Webber Mitchell Hutchins, in The New York Times, Feb 25, 1982[^1]"
+   },
+   "video": "frown"
+  },
+  {
+   "when": "1985 – 1988 · The comeback",
+   "title": "A kangaroo on 34th Street",
+   "big": "$5.8M",
+   "cap": "profit in 1987, on revenues of $343.6M",
+   "color": "#8A6212",
+   "body": "Out of bankruptcy, Lionel expanded again.[^24][^27] The chain’s symbol was a kangaroo, and its jingle told children to “turn that frown upside down.”[^10][^28] In 1987 Lionel earned $5.8M on revenues of $343.6M. A merger with Child World, the second largest toy chain, came close that year and fell apart when the stock market crashed.[^10][^20]\n\nAt the end of August 1988 Kiddie City opened in Manhattan, in the old Franklin Simon department store on West 34th Street: 27,000 square feet on two floors, 28 checkout registers and about 14,000 different toys. The company said the store needed $10M to $15M of sales a year to make a profit. Lionel then had 90 stores in 16 states and was the fourth largest toy chain in the country. Toys “R” Us had 358.[^10]\n\nAsked why Kiddie City had not come to New York sooner, Vastola gave a one-word answer: “Stupidity.”[^10]",
+   "art": "art/kangaroo.svg",
+   "artCaption": "Original illustration in the spirit of the kangaroo mascot. Not the trademarked character."
+  },
+  {
+   "when": "1989 – Jun 1991 · The takeover fight",
+   "title": "An $8.25 offer, refused",
+   "big": "$8.25",
+   "cap": "a share, offered in cash and securities in September 1989",
+   "color": "#16161A",
+   "body": "In February 1989 Robert I. Toussie, a New York real estate developer whose partnership owned 9.9% of Lionel, said he wanted to buy the company.[^11] In September he offered a package he valued at $8.25 a share, about $110M for the 13.4 million shares and more than $150M including debt.[^12] Lionel resisted. In November Toussie said he was re-evaluating the bid in view of Lionel’s “extremely poor” operating results.[^13] In January 1990 Lionel paid the partnership $500,000 to settle litigation and the tender offer ended.[^14]\n\nThe business kept weakening. In the year to January 31, 1991 Lionel lost $5.9M on revenue of $426M. To raise cash it sold the Lionel trademarks, its last tie to the trains, to Lionel Trains Inc. for $10M. Its banks, led by Manufacturers Hanover and Chemical Bank, declined to renew a $65M working-capital line.[^16]\n\nOn June 14, 1991 Lionel filed for Chapter 11 again, with 97 stores. The shares closed at 15/16 of a dollar.[^16][^17]",
+   "pull": {
+    "text": "It was an unfinanced, conditional tender offer, meaning they just didn’t have the money.",
+    "who": "Michael J. Vastola, on the Toussie bid, The New York Times, Jun 15, 1991[^16]"
+   },
+   "art": "art/toy-cart.svg",
+   "artCaption": "Original illustration. The stores gave shoppers supermarket carts, even in Manhattan.[^10]"
+  },
+  {
+   "when": "Jun 1991 – Jun 1993 · Liquidation",
+   "title": "From 97 stores to 28, then none",
+   "big": "28",
+   "cap": "stores in seven states when the creditors voted to liquidate",
+   "color": "#C2412D",
+   "body": "Lionel closed its western stores first, including four in Utah in October 1991.[^18] By June 1992 it had closed 30 of 101 stores and was down to 71.[^20] That month it opened merger talks with Child World, which was also in Chapter 11. The talks collapsed in August and Child World closed.[^20][^21]\n\nChristmas 1992 was poor. Lionel stopped paying suppliers and landlords in December, closed 13 stores after the holiday and announced 27 more closings in January 1993, leaving 29 stores around Philadelphia, central New Jersey, Baltimore, Washington, Cleveland and south Florida.[^23] For the year to January 30, 1993 it lost $100.3M on sales of $291.5M.[^26][^27]\n\nOn May 25, 1993 the creditors’ committee voted to liquidate Lionel Leisure. Lionel announced it on June 2.[^24][^27] A store manager in Bel Air, Maryland said staff learned by electronic mail about two hours before the press.[^27] The date the last store closed is not in our sources.",
+   "pull": {
+    "text": "Everyone was hoping we would weather the storm.",
+    "who": "Tim Gnap, manager of the Bel Air, Md. Kiddie City, The Baltimore Sun, Jun 6, 1993[^27]"
+   },
+   "art": "art/closing-store.svg",
+   "artCaption": "Original illustration of a going-out-of-business sale. Not a photograph of a real store."
+  }
+ ]
+}

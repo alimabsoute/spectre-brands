@@ -1,0 +1,15 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a big-box toy supermarket with an orange sign band, a kangaroo silhouette on the roof and shopping carts at the door">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 292 H430"/>
+<rect x="30" y="112" width="380" height="180" fill="#fbf9f5"/>
+<rect x="30" y="112" width="380" height="58" fill="#f28a1c"/>
+<g fill="#c0341d"><rect x="60" y="126" width="26" height="30" rx="3"/><rect x="92" y="126" width="26" height="30" rx="3"/><rect x="124" y="126" width="26" height="30" rx="3"/><rect x="156" y="126" width="26" height="30" rx="3"/><rect x="204" y="126" width="26" height="30" rx="3"/><rect x="236" y="126" width="26" height="30" rx="3"/><rect x="268" y="126" width="26" height="30" rx="3"/><rect x="300" y="126" width="26" height="30" rx="3"/></g>
+<g class="screen"><path d="M352 112 C346 96 350 78 362 66 C360 54 364 44 370 40 C372 48 374 52 378 54 C386 56 392 62 392 70 L382 74 C384 86 380 100 384 112 Z" fill="#b5651d"/><path d="M352 112 C340 110 330 100 322 84" /><circle cx="381" cy="62" r="1.6" fill="#1d1b18"/></g>
+<rect x="176" y="196" width="88" height="96" fill="#2b2a28"/><path d="M220 196 V292"/>
+<rect x="52" y="196" width="100" height="62" fill="#dcebfa"/><rect x="288" y="196" width="100" height="62" fill="#dcebfa"/>
+<circle cx="76" cy="236" r="12" fill="#ffd21f"/><rect x="96" y="220" width="22" height="30" fill="#2f6fb5"/><path d="M124 250 L134 224 L146 250Z" fill="#c0341d"/>
+<rect x="300" y="222" width="26" height="28" fill="#3f8a5a"/><circle cx="346" cy="236" r="12" fill="#c0341d"/><rect x="364" y="226" width="16" height="24" fill="#ffd21f"/>
+<path d="M96 270 h34 l-5 16 h-24 Z" fill="#fbf9f5"/><path d="M88 264 l8 6"/><circle cx="104" cy="290" r="3" fill="#1d1b18"/><circle cx="122" cy="290" r="3" fill="#1d1b18"/>
+<path d="M312 270 h34 l-5 16 h-24 Z" fill="#fbf9f5"/><path d="M304 264 l8 6"/><circle cx="320" cy="290" r="3" fill="#1d1b18"/><circle cx="338" cy="290" r="3" fill="#1d1b18"/>
+<path d="M40 84 c8 -10 22 -10 30 0 M150 60 c8 -10 22 -10 30 0" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

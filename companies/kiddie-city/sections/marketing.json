@@ -1,0 +1,57 @@
+{
+ "kicker": "The brand",
+ "title": "A kangaroo, a jingle and a lot of local television",
+ "lede": "What people remember about Kiddie City is not the balance sheet. It is the kangaroo, the orange sign and a jingle. We have no figure for what Lionel spent on advertising, and we do not guess.",
+ "blocks": [
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "drawing",
+     "art": "art/kangaroo.svg",
+     "title": "The kangaroo",
+     "caption": "Original illustration, not the trademarked character.",
+     "body": "The Times called the kangaroo “Kiddie City’s symbol” in 1988, when a Lego kangaroo taller than the chief operating officer stood at the door of the Manhattan store.[^10] A 2017 retrospective names the mascots as Kaycee and Baby.[^28]"
+    },
+    {
+     "kind": "text",
+     "title": "The slogans",
+     "body": "The same retrospective records two catch phrases: “Toy Capital of the World” and “Turn that Frown Upside Down.”[^28] The second gives its title to a surviving 1983 Playworld commercial.[^33]\n\nIn New York the company also used celebrity appearances, such as the Jets running back Freeman McNeil, and counted on about 600,000 people passing the 34th Street store each day.[^10]"
+    }
+   ]
+  },
+  {
+   "kind": "video",
+   "video": "kc84"
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "What the 1988 Manhattan store tells us about the format",
+   "compact": true,
+   "rows": [
+    {
+     "value": "14,000",
+     "text": "different toys stocked in one store[^10]"
+    },
+    {
+     "value": "60%",
+     "text": "of the chain’s toys were sold in November and December[^10]"
+    },
+    {
+     "value": "15–50%",
+     "text": "below the suggested retail prices charged at F.A.O. Schwarz or Macy’s[^10]"
+    },
+    {
+     "value": "$3,999.99",
+     "text": "for a gas-powered Bugatti toy car, the most expensive item the reporter saw[^10]"
+    }
+   ],
+   "source": "The New York Times, November 13, 1988.[^10]"
+  },
+  {
+   "kind": "text",
+   "title": "What sold",
+   "body": "In 1988 video games were “far and away the biggest category” in the store, and Lionel’s chief operating officer said about 90% of that business was Nintendo. Boys’ action figures were second and board games third.[^10] The reliance on one season was the weakness: both bankruptcies followed a poor Christmas.[^1][^16][^23]"
+  }
+ ]
+}

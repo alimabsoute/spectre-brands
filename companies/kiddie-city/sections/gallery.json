@@ -1,0 +1,69 @@
+{
+ "kicker": "Brand gallery",
+ "title": "An orange sign and a kangaroo",
+ "label": "Brand gallery",
+ "lede": "No freely licensed photograph of a Kiddie City store exists that we could find, and there was never a website to archive. The brand survives on videotape. These are our own drawings in its spirit, and they are not official artwork.",
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The toy supermarket.",
+   "caption": "A big box with a wide sign band, carts at the door and a kangaroo overhead. Original illustration; the sign lettering is deliberately blank."
+  },
+  {
+   "art": "art/kangaroo.svg",
+   "title": "The kangaroo.",
+   "caption": "The chain’s symbol was a kangaroo.[^10] This is our own animal, not the trademarked mascot."
+  },
+  {
+   "art": "art/toy-cart.svg",
+   "title": "The cart.",
+   "caption": "Shoppers pushed supermarket carts through aisles of about 14,000 different toys.[^10] Original illustration."
+  },
+  {
+   "art": "art/closing-store.svg",
+   "title": "The sale.",
+   "caption": "June 1993: everything must go. Original illustration, not a photograph of a real store."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same store, 1988 and 1993",
+   "ratio": "4/3",
+   "before": {
+    "label": "1988",
+    "art": "art/hero.svg",
+    "bg": "#eef2fb",
+    "caption": "Ninety stores in 16 states and a profit the year before.[^10]",
+    "alt": "Drawing of a toy supermarket open for business"
+   },
+   "after": {
+    "label": "June 1993",
+    "art": "art/closing-store.svg",
+    "bg": "#f1efea",
+    "caption": "Twenty-eight stores, all to be liquidated.[^24]",
+    "alt": "Drawing of the same store during a going-out-of-business sale"
+   },
+   "source": "Both panels are original illustrations, not photographs. Store counts: The New York Times[^10] and UPI[^24]."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#f28a1c",
+   "label": "Sign orange (approx.)"
+  },
+  {
+   "hex": "#c0341d",
+   "label": "Letter red (approx.)"
+  },
+  {
+   "hex": "#2f6fb5",
+   "label": "Letter shadow blue (approx.)"
+  },
+  {
+   "hex": "#b5651d",
+   "label": "Kangaroo brown (drawing)"
+  }
+ ],
+ "disclaimer": "Colours were matched by eye to a 1984 television commercial as it survives on YouTube[^34], so they are approximate. Kiddie City, Playworld and the kangaroo were trademarks of their owners and are discussed here in historical and editorial context. The drawings are original and are not the trademarked logo or character."
+}

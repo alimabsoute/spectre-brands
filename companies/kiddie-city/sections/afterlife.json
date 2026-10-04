@@ -1,0 +1,103 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Sold",
+   "color": "var(--blue)",
+   "title": "The Lionel name",
+   "text": "Lionel Corporation sold the Lionel trademarks to Lionel Trains Inc., the train maker owned by Richard Kughn, for **$10M** in 1990.[^16] The train business was doing well without the toy stores: Kughn told the Los Angeles Times that sales had tripled in four years to $60M.[^31]"
+  },
+  {
+   "status": "Unclaimed",
+   "color": "var(--mute)",
+   "title": "The Kiddie City name",
+   "text": "We found no retailer that has traded as Kiddie City since 1993, and no record of who bought the name in the liquidation, if anyone did. The ownership of the trademark today is **unknown** to us."
+  },
+  {
+   "status": "Buried",
+   "color": "var(--red)",
+   "title": "The company",
+   "text": "Lionel said it would negotiate “an orderly liquidation” with its creditors’ committee.[^24][^26] What creditors and shareholders finally received is not in our sources. Litigation from the estate was still in the appeals court in 1994.[^29]"
+  },
+  {
+   "status": "Dispersed",
+   "color": "var(--mute)",
+   "title": "The employees",
+   "text": "Lionel had 2,500 workers a year before the end.[^26] The Bel Air, Maryland store alone had 25, and its manager had been with Lionel Leisure for 15 years.[^27]"
+  },
+  {
+   "status": "Re-let",
+   "color": "var(--gold)",
+   "title": "The buildings",
+   "text": "The stores were ordinary big boxes and were easy to re-let. The Kiddie City in Greece, New York became a Home Depot.[^28] In Bel Air, an employee leaving her shift said she had heard Toys “R” Us was looking for a site nearby.[^27] We have no complete list of what replaced the stores."
+  },
+  {
+   "status": "Cited",
+   "color": "var(--green)",
+   "title": "The court case",
+   "text": "The 1983 appeal over the Dale Electronics sale, In re Lionel Corp., set the “sound business reason” test for selling a bankrupt company’s assets outside a plan. Restructuring lawyers still cite it.[^2][^35]"
+  },
+  {
+   "status": "Outlasted",
+   "color": "var(--red)",
+   "title": "The rival",
+   "text": "Toys “R” Us, which Lionel could not catch, announced the closing of its U.S. stores in March 2018.[^32]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "subtitle": "The stores and the Lionel name parted company in 1990. Only one of them is still in use.",
+   "nodes": [
+    {
+     "when": "1957",
+     "owner": "Kiddie City",
+     "what": "Founded in Philadelphia as a toy supermarket.[^24]"
+    },
+    {
+     "when": "By 1969–70",
+     "owner": "Lionel Corporation",
+     "what": "Lionel sells its train-making rights in 1969 and concentrates on toy stores. The date and price of its purchase of Kiddie City are not in our sources.[^1][^9]"
+    },
+    {
+     "when": "Feb 1982",
+     "owner": "Lionel Corporation, in Chapter 11",
+     "what": "First bankruptcy. The chain is cut from 105 stores to 56.[^2][^4]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "1985",
+     "owner": "Lionel Corporation, reorganized",
+     "what": "Emerges and expands again under Michael Vastola.[^16][^27]"
+    },
+    {
+     "when": "1990",
+     "owner": "Lionel Trains Inc.",
+     "what": "Buys the Lionel trademarks. The stores keep trading as Lionel Kiddie City.[^16]",
+     "price": "$10M"
+    },
+    {
+     "when": "Jun 1991",
+     "owner": "Lionel Corporation, in Chapter 11",
+     "what": "Second bankruptcy, with 97 stores.[^16]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Jun 1993",
+     "owner": "Creditors",
+     "what": "The creditors’ committee votes to liquidate. The last 28 stores close.[^24][^27]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Today",
+     "owner": "No known operator",
+     "what": "No store trades as Kiddie City. Who holds the name is unknown to us.",
+     "status": "current"
+    }
+   ],
+   "source": "UPI[^24], The New York Times[^1][^4][^9][^16], the Second Circuit[^2] and The Baltimore Sun[^27]."
+  }
+ ]
+}

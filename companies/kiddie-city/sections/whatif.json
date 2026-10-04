@@ -1,0 +1,27 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Four decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Build, don’t buy",
+   "actual": "In 1980 Lionel bought Fun City Toys (nine stores in Texas, $4.5M) and Consolidated Toy (17 stores in the Middle West, $7.75M). An analyst said the purchases came just before the economy declined and that some locations were poor.[^1] Within three years the chain had shrunk from 105 stores to 56.[^4]",
+   "whatif": "Opening its own stores in markets it already supplied, as Toys “R” Us did, would have been slower and would have kept $12.25M (derived) and the banks’ patience for the Christmas of 1981. It would not have closed the gap in scale."
+  },
+  {
+   "tab": "Take the $8.25",
+   "actual": "Lionel resisted Robert Toussie’s 1989 offer of $8.25 a share and paid $500,000 to end the fight in January 1990.[^12][^14] Vastola later called the bid unfinanced.[^16] Seventeen months after the settlement the shares were at 15/16 of a dollar and the company was in Chapter 11.[^16]",
+   "whatif": "If the bid could have been financed, shareholders would have received roughly nine times what the stock was worth in June 1991 (derived: $8.25 ÷ $0.9375 ≈ 8.8). Whether new owners, who included a former Toys “R” Us executive[^30], would have run the stores better is unknowable."
+  },
+  {
+   "tab": "Merge with Child World in 1987",
+   "actual": "Lionel and Child World almost merged in 1987. The deal fell apart when the stock market crashed.[^20] They tried again in June 1992, when both were in Chapter 11, and failed within two months.[^20][^21]",
+   "whatif": "A combined No. 2 with more than 200 stores might have bought on better terms. It would also have carried both companies’ debts and overlapping stores into the 1990–91 recession, and the 1992 attempt suggests toy makers had limited patience for either."
+  },
+  {
+   "tab": "Shrink sooner",
+   "actual": "Lionel kept 97 stores in 15 states when it filed in 1991 and retreated to 29 stores in six mid-Atlantic, Ohio and Florida markets only in January 1993, after it had stopped paying suppliers.[^17][^23]",
+   "whatif": "Retreating to the Philadelphia, New Jersey and Baltimore–Washington core in 1991, while it still had $50M of fresh credit[^16], might have left a regional chain. The fate of other regional toy chains suggests it would have bought time, not safety."
+  }
+ ]
+}

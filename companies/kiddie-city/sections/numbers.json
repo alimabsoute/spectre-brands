@@ -1,0 +1,238 @@
+{
+ "kicker": "The money",
+ "title": "Two bankruptcies in the numbers that survive",
+ "lede": "Lionel was a public company, but its filings predate EDGAR and are not online. What follows is every figure we could confirm from court opinions and the press of the time. The gaps in the charts are gaps in the record, not zeros.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Stores: built, halved, rebuilt, liquidated",
+   "subtitle": "Lionel’s toy stores under all names, at the dates a source gives a count.",
+   "labels": [
+    "Early ’82",
+    "Mar ’83",
+    "Sep ’83",
+    "Nov ’88",
+    "Jun ’91",
+    "Jun ’92",
+    "Oct ’92",
+    "Feb ’93",
+    "Jun ’93"
+   ],
+   "format": "num",
+   "xLabel": "Date of the report (not evenly spaced)",
+   "series": [
+    {
+     "label": "Stores",
+     "data": [
+      105,
+      56,
+      59,
+      90,
+      97,
+      71,
+      69,
+      29,
+      28
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "the first peak",
+     "text": "105 stores, after buying 26 in Texas and the Midwest in 1980. Chapter 11 follows on February 19, 1982.[^1][^2][^4]"
+    },
+    {
+     "i": 1,
+     "title": "cut by half",
+     "text": "56 stores a year into the first bankruptcy.[^4]"
+    },
+    {
+     "i": 3,
+     "title": "the comeback",
+     "text": "90 stores in 16 states and a new store in Manhattan.[^10]"
+    },
+    {
+     "i": 4,
+     "title": "the second filing",
+     "text": "97 stores on June 14, 1991. The company had 101 before it began closing them.[^16][^20]"
+    },
+    {
+     "i": 7,
+     "title": "the retreat",
+     "text": "29 stores in six markets after the Christmas of 1992.[^23]"
+    },
+    {
+     "i": 8,
+     "title": "the vote",
+     "text": "28 stores when the creditors’ committee votes to liquidate.[^24][^27]"
+    }
+   ],
+   "source": "Counts as reported: 105 and 56[^4], 59[^8], 90[^10], 97[^16][^17], 71[^20], 69[^22], 29[^23], 28[^24][^25]. A 1982 Times article gives “more than 90 stores in 22 states” for the same period as the 105 figure[^1]; a 2017 retrospective gives “more than 150”, which no contemporary source we found supports.[^28]"
+  },
+  {
+   "kind": "chart",
+   "id": "kcSales",
+   "title": "Sales, in the years a figure survives",
+   "subtitle": "Lionel Corporation revenue, $ millions. Only six years are documented in our sources.",
+   "chart": {
+    "type": "bar",
+    "height": 320,
+    "legend": false,
+    "labels": [
+     "1981",
+     "1982",
+     "1987",
+     "FY to Jan ’90",
+     "FY to Jan ’91",
+     "FY to Jan ’93"
+    ],
+    "y": {
+     "format": "usdM",
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Revenue ($M)",
+      "data": [
+       295.1,
+       338.6,
+       343.6,
+       429,
+       426,
+       291.5
+      ],
+      "colors": [
+       "grey",
+       "grey",
+       "brand",
+       "brand",
+       "brand",
+       "red"
+      ]
+     }
+    ]
+   },
+   "source": "1981 and 1982: Second Circuit opinion[^2]. 1987[^10]. Fiscal years ended January 1990 and January 31, 1991[^16]. Fiscal year ended January 30, 1993[^26][^27]. The 1981–82 figures are consolidated and include Dale Electronics. Years not shown are not in our sources."
+  },
+  {
+   "kind": "chart",
+   "id": "kcProfit",
+   "title": "Profit and loss, where reported",
+   "subtitle": "$ millions. Four results over eleven years, and the basis differs between them.",
+   "chart": {
+    "type": "bar",
+    "height": 300,
+    "legend": false,
+    "labels": [
+     "1982",
+     "1987",
+     "FY to Jan ’90",
+     "FY to Jan ’91",
+     "FY to Jan ’93"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "Profit or loss ($M)",
+      "data": [
+       -51,
+       5.8,
+       0.3,
+       -5.9,
+       -100.3
+      ],
+      "colors": [
+       "red",
+       "green",
+       "green",
+       "red",
+       "red"
+      ]
+     }
+    ]
+   },
+   "source": "1982: “some $51 million” lost[^4]. 1987: earned $5.8M[^10]. Year to January 1990: an operating profit of $300,000, not a net figure; year to January 31, 1991: a loss of $5.9M[^16]. Year to January 30, 1993: a loss of $100.3M[^26][^27]. The 1982 bankruptcy petition separately gave a $5.5M loss for 1981.[^1]"
+  },
+  {
+   "kind": "flow",
+   "title": "Where the 101 stores of 1991 went",
+   "subtitle": "Store closings between the second bankruptcy and the liquidation vote.",
+   "format": "num",
+   "from": {
+    "label": "Stores before the 1991 closings",
+    "value": 101
+   },
+   "to": [
+    {
+     "label": "Closed during 1991",
+     "value": 30,
+     "color": "gold",
+     "note": "Including the western stores[^18][^20]"
+    },
+    {
+     "label": "Closed 1992 to May 1993 (derived remainder)",
+     "value": 43,
+     "color": "red",
+     "note": "101 − 30 − 28"
+    },
+    {
+     "label": "Still open at the liquidation vote",
+     "value": 28,
+     "color": "ink",
+     "note": "In seven states[^24]"
+    }
+   ],
+   "source": "101 stores and 30 closings in 1991[^20]; 28 stores at liquidation[^24][^25]. The middle figure is derived. Sources differ by a store or two from month to month, and at least one store opened in this period, so treat the split as approximate."
+  },
+  {
+   "kind": "counters",
+   "title": "Who was owed money in 1982",
+   "items": [
+    {
+     "value": "$91M",
+     "text": "owed to toy manufacturers at the first filing[^1]"
+    },
+    {
+     "value": "$135.6M",
+     "text": "in pre-petition claims, $80M of it held by the 13 members of the creditors’ committee[^2]"
+    },
+    {
+     "value": "$5.5M",
+     "text": "owed to Atari, the largest trade creditor named in the petition[^1]"
+    },
+    {
+     "value": "$22.5M",
+     "text": "lost in toy retailing over the two years ending December 1982, by the appeals court’s count[^2]"
+    }
+   ],
+   "source": "The New York Times[^1] and Committee of Equity Security Holders v. Lionel Corp.[^2]. The court’s $22.5M and the Times’s “some $51 million” for 1982 alone[^4] are not reconciled in our sources; they may be measured on different bases."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The second bankruptcy, 1991 to 1993",
+   "rows": [
+    {
+     "value": "$65M",
+     "text": "working-capital line the banks declined to renew in 1991[^16]"
+    },
+    {
+     "value": "$55M",
+     "text": "debtor-in-possession credit from CIT, running through June 1993[^20][^22]"
+    },
+    {
+     "value": "$32.5M",
+     "text": "net loss in the first nine months of fiscal 1992, on sales of $152.1M[^23]"
+    },
+    {
+     "value": "34¢",
+     "text": "lost per dollar of sales in the final fiscal year (derived: $100.3M ÷ $291.5M)[^26]"
+    }
+   ],
+   "source": "UPI reported that Lionel listed $351.5M of assets and $255M of liabilities, including $55.7M of publicly held debt, when it filed in 1991.[^24] We have not seen the petition itself."
+  }
+ ]
+}

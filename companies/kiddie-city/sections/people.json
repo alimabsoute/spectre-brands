@@ -1,0 +1,48 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it, and who tried to buy it",
+ "lede": "Ages and titles are as given in the press at the time. Later careers are left out where we have no source.",
+ "people": [
+  {
+   "name": "Michael J. Vastola",
+   "role": "Chairman and CEO, 1983 – 1993",
+   "text": "Joined Lionel in 1971 as a junior accountant and was vice president of finance when it filed in 1982. Named chairman and chief executive in March 1983, aged 37, and led the company out of Chapter 11, through the takeover fight and into the second filing.[^4][^16][^23]"
+  },
+  {
+   "name": "Leonard Wasserman",
+   "role": "Chairman and CEO, Lionel Leisure",
+   "text": "Lionel’s senior vice president for retail. He served as acting president and chief executive of the parent from July 1982 to March 1983, then returned to running the stores subsidiary.[^3][^4]"
+  },
+  {
+   "name": "Ronald Saypol",
+   "role": "President and CEO until Jul 1982",
+   "text": "Resigned at 52, with chief operating officer Richard R. Schilling Jr., under pressure from creditors five months into the first bankruptcy.[^3]"
+  },
+  {
+   "name": "Marvin Katz",
+   "role": "Chief operating officer, 1988",
+   "text": "Walked a Times reporter through the new Manhattan store and its 28 registers. Asked by a shopper how many Lazer Tag sets he had, he answered: “I have 98,000.”[^10]"
+  },
+  {
+   "name": "Neil B. Friedman",
+   "role": "COO of Lionel Leisure from Jun 1991",
+   "text": "A former Hasbro marketing executive, named a director and chief operating officer of the stores subsidiary on the day of the second filing, at 43.[^16][^17]"
+  },
+  {
+   "name": "George A. Padgett",
+   "role": "Senior vice president and general counsel",
+   "text": "The company’s spokesman through the takeover fight and the second bankruptcy. In June 1992 he said the remaining stores were profitable.[^12][^20]"
+  },
+  {
+   "name": "Robert I. Toussie",
+   "role": "Bidder, 1989",
+   "text": "A New York real estate developer, 48 at the time, whose partnership held 9.9% of Lionel and offered $8.25 a share. He dropped the bid in January 1990 after a $500,000 settlement.[^11][^12][^14]"
+  },
+  {
+   "name": "Richard P. Kughn",
+   "role": "Owner of Lionel Trains Inc.",
+   "text": "A Detroit real estate developer and train collector who bought the train business in 1986. His company bought the Lionel trademarks from the retailer in 1990.[^9][^16]",
+   "later": "Told the Los Angeles Times in 1990 that train sales had tripled in four years to $60M.[^31]"
+  }
+ ]
+}

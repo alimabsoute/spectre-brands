@@ -1,0 +1,181 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Lionel’s SEC filings predate EDGAR and are not online, so the primary sources here are two federal appeals court opinions. Everything else is contemporary press, read in full. New York Times archive links may need a subscription; we read those articles through Internet Archive copies of the same pages.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Lydia Chavez, [“Ill-Timed Acquisitions Helped Force Lionel Into Chapter 11”](https://www.nytimes.com/1982/02/25/business/ill-timed-acquisitions-helped-force-lionel-into-chapter-11.html), The New York Times, Feb 25, 1982."
+  },
+  {
+   "id": 2,
+   "text": "U.S. Court of Appeals, Second Circuit, [Committee of Equity Security Holders v. Lionel Corp., 722 F.2d 1063](https://openjurist.org/722/f2d/1063), decided Nov 29, 1983."
+  },
+  {
+   "id": 3,
+   "text": "[“2 Lionel Chiefs Are Replaced”](https://www.nytimes.com/1982/07/12/business/2-lionel-chiefs-are-replaced.html), The New York Times, Jul 12, 1982."
+  },
+  {
+   "id": 4,
+   "text": "[“Lionel Officer Promoted To Chairman and Chief”](https://www.nytimes.com/1983/03/17/business/business-people-lionel-officer-promoted-to-chairman-and-chief.html), The New York Times, Mar 17, 1983."
+  },
+  {
+   "id": 5,
+   "text": "[“Unsecured Credit Pact With Lionel”](https://www.nytimes.com/1983/03/23/business/unsecured-credit-pact-with-lionel.html), The New York Times, Mar 23, 1983."
+  },
+  {
+   "id": 6,
+   "text": "[“A Creditor Plan Filed by Lionel”](https://www.nytimes.com/1983/06/21/business/a-creditor-plan-filed-by-lionel.html), The New York Times, Jun 21, 1983."
+  },
+  {
+   "id": 7,
+   "text": "[“Lionel Corp. to Sell 82% Stake in Dale”](https://www.nytimes.com/1983/09/27/business/lionel-corp-to-sell-82-stake-in-dale.html), The New York Times, Sep 27, 1983."
+  },
+  {
+   "id": 8,
+   "text": "[“The New Game at Toys ‘R’ Us”](https://www.nytimes.com/1983/09/04/business/the-new-game-at-toys-r-us.html), The New York Times, Sep 4, 1983."
+  },
+  {
+   "id": 9,
+   "text": "Kenneth N. Gilpin and Calvin Sims, [“A Toy Train Collector Finds a Niche at Lionel”](https://www.nytimes.com/1986/04/17/business/business-people-a-toy-train-collector-finds-a-niche-at-lionel.html), The New York Times, Apr 17, 1986."
+  },
+  {
+   "id": 10,
+   "text": "[“Kiddie City Tests Discount Toys in Manhattan”](https://www.nytimes.com/1988/11/13/business/kiddie-city-tests-discount-toys-in-manhattan.html), The New York Times, Nov 13, 1988."
+  },
+  {
+   "id": 11,
+   "text": "Reuters, [“Toussie Seeks To Acquire Lionel”](https://www.nytimes.com/1989/02/14/business/company-news-toussie-seeks-to-acquire-lionel.html), The New York Times, Feb 14, 1989."
+  },
+  {
+   "id": 12,
+   "text": "[“Lionel Receives Takeover Offer”](https://www.nytimes.com/1989/09/12/business/company-news-lionel-receives-takeover-offer.html), The New York Times, Sep 12, 1989."
+  },
+  {
+   "id": 13,
+   "text": "Reuters, [“Toussie to Review Offer to Buy Lionel”](https://www.nytimes.com/1989/11/23/business/toussie-to-review-offer-to-buy-lionel.html), The New York Times, Nov 23, 1989."
+  },
+  {
+   "id": 14,
+   "text": "[“Briefs”](https://www.nytimes.com/1990/01/23/business/briefs-988190.html), The New York Times, Jan 23, 1990 (Lionel’s settlement with Toussie)."
+  },
+  {
+   "id": 15,
+   "text": "[“Lionel Is Urged To Sell Big Stake”](https://www.nytimes.com/1990/04/06/business/company-news-lionel-is-urged-to-sell-big-stake.html), The New York Times, Apr 6, 1990, with correction of Apr 7."
+  },
+  {
+   "id": 16,
+   "text": "Anthony Ramirez, [“Lionel Seeks Chapter 11 Protection”](https://www.nytimes.com/1991/06/15/business/lionel-seeks-chapter-11-protection.html), The New York Times, Jun 15, 1991."
+  },
+  {
+   "id": 17,
+   "text": "Jack Lesar, [“Lionel, one-time trainmaker, files for bankruptcy”](https://www.upi.com/Archives/1991/06/14/Lionel-one-time-trainmaker-files-for-bankruptcy/3411676872000/), UPI, Jun 14, 1991."
+  },
+  {
+   "id": 18,
+   "text": "Angelyn Nelson Hutchinson, [“Lionel Playworld Begins Shutting Its Doors in Utah”](https://www.deseret.com/1991/10/22/18947572/lionel-playworld-begins-shutting-its-doors-in-utah/), Deseret News, Oct 22, 1991."
+  },
+  {
+   "id": 19,
+   "text": "Adam Bryant, [“Child World Files for Bankruptcy”](https://www.nytimes.com/1992/05/08/business/company-news-child-world-files-for-bankruptcy.html), The New York Times, May 8, 1992."
+  },
+  {
+   "id": 20,
+   "text": "Adam Bryant, [“Child World And Lionel in Merger Talks”](https://www.nytimes.com/1992/06/12/business/company-news-child-world-and-lionel-in-merger-talks.html), The New York Times, Jun 12, 1992."
+  },
+  {
+   "id": 21,
+   "text": "[“Child World Will Close as Talks With Lionel Fail”](https://www.nytimes.com/1992/08/05/business/company-news-child-world-will-close-as-talks-with-lionel-fail.html), The New York Times, Aug 5, 1992."
+  },
+  {
+   "id": 22,
+   "text": "[“Court Allows Lionel to Increase Borrowing”](https://www.nytimes.com/1992/10/14/business/company-news-court-allows-lionel-to-increase-borrowing.html), The New York Times, Oct 14, 1992."
+  },
+  {
+   "id": 23,
+   "text": "[“Lionel closing 27 stores in struggle for survival”](https://web.archive.org/web/20120322165900/http://findarticles.com/p/articles/mi_m3092/is_n3_v32/ai_13456769/), Discount Store News, Feb 1, 1993 (Internet Archive copy of FindArticles)."
+  },
+  {
+   "id": 24,
+   "text": "[“Lionel, the toy merchant, going out of business”](https://www.upi.com/Archives/1993/06/02/Lionel-the-toy-merchant-going-out-of-business/8677738993600/), UPI, Jun 2, 1993."
+  },
+  {
+   "id": 25,
+   "text": "The Associated Press, [“Lionel Will Liquidate, Closing Kiddie City Toy Chain”](https://www.nytimes.com/1993/06/03/business/company-news-lionel-will-liquidate-closing-kiddie-city-toy-chain.html), The New York Times, Jun 3, 1993."
+  },
+  {
+   "id": 26,
+   "text": "[“Kiddie City Is Going Bye-Bye”](https://www.mcall.com/1993/06/03/kiddie-city-is-going-bye-bye/), The Morning Call (Allentown, Pa.), Jun 3, 1993."
+  },
+  {
+   "id": 27,
+   "text": "Frank Lynch, [“25 to lose jobs in Bel Air when Kiddie City closes”](https://www.baltimoresun.com/1993/06/06/25-to-lose-jobs-in-bel-air-when-kiddie-city-closes/), The Baltimore Sun, Jun 6, 1993."
+  },
+  {
+   "id": 28,
+   "text": "Alan Morrell, [“Whatever Happened to ... Kiddie City toy stores?”](https://www.democratandchronicle.com/story/news/local/rocroots/places/2017/12/02/whatever-happened-kiddie-city-stores/915549001/), Rochester Democrat and Chronicle, Dec 2, 2017. A retrospective."
+  },
+  {
+   "id": 29,
+   "text": "U.S. Court of Appeals, Second Circuit, [In re Lionel Corp. (Klein v. Civale & Trovato, Inc.), 29 F.3d 88](https://openjurist.org/29/f3d/88), 1994."
+  },
+  {
+   "id": 30,
+   "text": "[“Market Place: Another Offer for Child World”](https://www.nytimes.com/1991/02/21/business/market-place-another-offer-for-child-world.html), The New York Times, Feb 21, 1991."
+  },
+  {
+   "id": 31,
+   "text": "Donald Woutat, [“Getting on the Right Track: After Years of Decline, Lionel Train Is Making a Comeback”](https://www.latimes.com/archives/la-xpm-1990-12-25-fi-7131-story.html), Los Angeles Times, Dec 25, 1990."
+  },
+  {
+   "id": 32,
+   "text": "[“Toys ‘R’ Us to close all 800 of its U.S. stores”](https://www.baltimoresun.com/2018/03/14/toys-r-us-to-close-all-800-of-its-us-stores-including-9-in-baltimore-region-affecting-33000-jobs/), The Baltimore Sun, Mar 14, 2018."
+  },
+  {
+   "id": 33,
+   "text": "[“1983 Lionel Playworld ‘Turn that frown upsidedown’ TV Commercial”](https://www.youtube.com/watch?v=kCmqhqo8wYE), YouTube, uploaded by ewjxn on Sep 5, 2019, with the uploader’s note on when and where it aired."
+  },
+  {
+   "id": 34,
+   "text": "[“Kiddie City - November 1984 Commercial”](https://www.youtube.com/watch?v=HUzqGlIhueA), YouTube, uploaded by 80s Flashback on Oct 16, 2020."
+  },
+  {
+   "id": 35,
+   "text": "Weil, Gotshal & Manges, Restructuring blog, [“A Lionel of Bankruptcy Jurisprudence”](https://restructuring.weil.com/363-sales/a-lionel-of-bankruptcy-jurisprudence/), on the continuing importance of the 1983 decision."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "$12.25M for 26 stores is $4.5M + $7.75M and 9 + 17 stores.[^1] 49 stores closed is 105 − 56.[^4] Lionel’s sales per store of about $4.4M is $426M ÷ 97, mixing revenue for the year to January 1991 with a June 1991 store count.[^16] The 34 cents lost per dollar is $100.3M ÷ $291.5M.[^26] The 43 stores in the flow diagram is 101 − 30 − 28.[^20][^24] 358 ÷ 90 ≈ 4.0.[^10] $8.25 ÷ $0.9375 ≈ 8.8.[^12][^16]"
+  },
+  {
+   "label": "Estimates",
+   "text": "Sales per store for Toys “R” Us and Child World are an analyst’s estimates quoted by the Times in 1992.[^19] Single-store sales in Pennsylvania are figures from American Business Information quoted by The Morning Call.[^26]"
+  },
+  {
+   "label": "Conflicts between sources",
+   "text": "The store count before the first bankruptcy is “more than 90” in one Times article and 105 in another; a 2017 retrospective says “more than 150”, which we treat as **unverified**.[^1][^4][^28] The chain is called the second, third and fourth largest by different sources.[^10][^16][^26] The appeals court counted $22.5M of retailing losses over 1981–82, the Times “some $51 million” for 1982 alone.[^2][^4] Sources give 28 or 29 stores, and six or seven states, for the last months.[^23][^24][^25] The Times says the Toussie bid was dropped at $95.4M; the September 1989 offer was valued at about $110M.[^12][^15]"
+  },
+  {
+   "label": "Unknown",
+   "text": "When and for how much Lionel bought Kiddie City. Store counts and sales for 1957–1980 and 1984–1986. Advertising spending. How the 1985 reorganization was finally funded after the Dale Electronics ruling. The date the last store closed. What creditors and shareholders recovered. Who, if anyone, owns the Kiddie City name today."
+  },
+  {
+   "label": "Secondary and retrospective",
+   "text": "The mascot names, the slogans and the fate of the Greece, N.Y. store come from a 2017 newspaper retrospective written by a former employee.[^28] Airing dates of commercials are the uploaders’ unless stated."
+  },
+  {
+   "label": "How we read the sources",
+   "text": "New York Times articles were read in Internet Archive copies of the nytimes.com pages. The two UPI articles were read through a text-extraction tool that returned the sentences containing figures and quotations; we could not open the raw pages directly, so the UPI figures (97 stores in 15 states; $351.5M of assets, $255M of liabilities and $55.7M of public debt; 36 closings from January 1993; founding in 1957) should be checked against the linked pages before being reused."
+  },
+  {
+   "label": "Images",
+   "text": "We found no freely licensed photograph of a Kiddie City or Playworld store on Wikimedia Commons, and the chain closed before it could have had a website. The page therefore uses original drawings and embedded commercials only. The accent red and the orange in the drawings were matched by eye to the 1984 commercial.[^34]"
+  },
+  {
+   "label": "General knowledge",
+   "text": "That Toys “R” Us, Kmart, Wal-Mart and Target sold toys nationally in this period."
+  }
+ ]
+}

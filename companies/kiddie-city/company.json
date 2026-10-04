@@ -1,0 +1,103 @@
+{
+ "name": "Kiddie City",
+ "number": "007",
+ "tier": "dead",
+ "tierWhy": "Lionel Corporation announced on June 2, 1993 that it would liquidate Lionel Leisure and close its last 28 Kiddie City and Playworld stores; we found no business trading under the name since.[^24][^25][^26]",
+ "category": "retail",
+ "cause": "competition",
+ "years": "1957 – 1993",
+ "died": 1993,
+ "dates": [
+  {
+   "date": "1982-02-19",
+   "text": "owner Lionel Corporation filed for Chapter 11 for the first time"
+  },
+  {
+   "date": "1991-06-14",
+   "text": "owner Lionel Corporation filed for Chapter 11 a second time, with 97 stores"
+  },
+  {
+   "date": "1993-06-02",
+   "text": "owner Lionel Corporation said it would liquidate and close the last 28 stores"
+  }
+ ],
+ "published": "2026-10-03",
+ "place": "Toy supermarkets · Philadelphia, Pennsylvania",
+ "title": "Kiddie City (1957–1993): post-mortem · Spectre Brands",
+ "description": "Lionel sold its toy trains and kept the toy stores. A sourced post-mortem of Lionel Kiddie City and Playworld: two bankruptcies, a failed takeover and a liquidation, built from court opinions and contemporary press.",
+ "theme": {
+  "accent": "#c0341d",
+  "soft": "#eef2fb"
+ },
+ "card": {
+  "blurb": "The company that made Lionel trains sold the trains and kept the toy stores. It went through Chapter 11 twice in nine years trying to keep up with Toys “R” Us.",
+  "stat": {
+   "value": "$100.3M",
+   "label": "lost in its last fiscal year, on $291.5M of sales"
+  },
+  "spark": [
+   105,
+   56,
+   59,
+   90,
+   97,
+   71,
+   69,
+   29,
+   28,
+   0
+  ],
+  "peak": 0
+ },
+ "hero": {
+  "dates": "Founded in Philadelphia in 1957. Liquidation announced Jun 2, 1993.",
+  "standfirst": "Lionel gave up making toy trains to run toy supermarkets. The trains are still made. The supermarkets are not.",
+  "deck": "Kiddie City, with its sister chains Lionel Playworld and Lionel Toy Warehouse, was at different times the second, third or fourth largest toy chain in the United States. Its owner filed for Chapter 11 in 1982, came back in 1985, fought off a takeover bid in 1989 and filed again in 1991. Two years later the creditors voted to liquidate. This brand predates EDGAR and the web, so the page is built from two federal appeals court opinions and the newspapers and wire services of the time. It has fewer numbers than our other post-mortems, and it says so where the record runs out.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a toy supermarket with a kangaroo on the roof. Not an official asset; the lettering and the animal are our own drawing.",
+  "motion": "float"
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "105",
+    "text": "stores before the first bankruptcy, cut to 56 by March 1983[^4]"
+   },
+   {
+    "value": "$426M",
+    "text": "revenue in the year to January 31, 1991, with a $5.9M loss[^16]"
+   },
+   {
+    "value": "$100.3M",
+    "text": "loss in the final fiscal year, on sales of $291.5M[^26][^27]"
+   },
+   {
+    "value": "28",
+    "text": "stores left when creditors voted to liquidate[^24][^27]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It was always the small one.",
+   "text": "In 1982 Toys “R” Us had 9.5% of a $9 billion toy market and Lionel about 3%.[^1] In 1988 Toys “R” Us had 358 stores and Lionel 90.[^10]"
+  },
+  {
+   "title": "It grew by buying, at the wrong time.",
+   "text": "Lionel paid $12.25M (derived) for 26 stores in Texas and the Midwest in 1980, just before a recession. Fifteen months after the second purchase it was in Chapter 11.[^1][^2]"
+  },
+  {
+   "title": "Lenders decided both bankruptcies.",
+   "text": "Banks refused further support after December 1981, and declined to renew a $65M credit line in 1991.[^1][^16]"
+  },
+  {
+   "title": "The offer it refused was worth more than what was left.",
+   "text": "A 1989 bid valued the shares at $8.25 each. On the day of the 1991 filing they closed at 15/16 of a dollar.[^12][^16]"
+  },
+  {
+   "title": "The discounters finished it.",
+   "text": "By 1993 the trade press counted Kmart, Wal-Mart and Target, not just Toys “R” Us, as the winners.[^23]"
+  }
+ ]
+}

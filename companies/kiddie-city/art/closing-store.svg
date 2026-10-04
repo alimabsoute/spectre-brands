@@ -1,0 +1,16 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of the same toy supermarket during a going-out-of-business sale, with a banner across the windows and empty shelves inside">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 292 H430"/>
+<rect x="30" y="112" width="380" height="180" fill="#e9e6e0"/>
+<rect x="30" y="112" width="380" height="58" fill="#c9c4bb"/>
+<g fill="#9a9184"><rect x="60" y="126" width="26" height="30" rx="3"/><rect x="92" y="126" width="26" height="30" rx="3"/><rect x="156" y="126" width="26" height="30" rx="3"/><rect x="204" y="126" width="26" height="30" rx="3"/><rect x="268" y="126" width="26" height="30" rx="3"/><rect x="300" y="126" width="26" height="30" rx="3"/></g>
+<path d="M124 156 l10 -30 M236 126 l26 30" stroke="#9a9184" stroke-width="2"/>
+<rect x="176" y="196" width="88" height="96" fill="#2b2a28"/><path d="M220 196 V292"/>
+<rect x="52" y="196" width="100" height="62" fill="#f4f2ee"/><rect x="288" y="196" width="100" height="62" fill="#f4f2ee"/>
+<path d="M60 222 H144 M60 244 H144 M296 222 H380 M296 244 H380" stroke="#9a9184" stroke-width="2"/>
+<path d="M40 182 L400 174 L402 200 L42 210 Z" fill="#ffd21f"/>
+<g stroke="#c0341d" stroke-width="5"><path d="M62 196 H100 M112 195 H170 M184 193 H250 M264 191 H310 M324 190 H380"/></g>
+<rect x="196" y="226" width="48" height="30" fill="#fbf9f5"/><path d="M204 236 H236 M204 246 H228" stroke-width="2"/>
+<path d="M88 286 h30 l-4 -14 h-22 Z" fill="#fbf9f5" transform="rotate(-70 103 280)"/>
+<path d="M330 60 c8 -10 22 -10 30 0 M70 70 c8 -10 22 -10 30 0" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

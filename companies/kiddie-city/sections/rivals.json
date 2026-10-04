@@ -1,0 +1,214 @@
+{
+ "kicker": "The rivals",
+ "title": "Three toy supermarket chains, and the discounters behind them",
+ "lede": "Toy supermarkets were a three-chain business for two decades. Lionel and Child World chased Toys “R” Us, tried to merge with each other twice, and closed within a year of each other.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Who won, who died",
+   "subtitle": "The toy supermarket chains of the 1980s and what became of them.",
+   "metric": "Stores",
+   "items": [
+    {
+     "name": "Lionel (Kiddie City, Playworld)",
+     "status": "dead",
+     "self": true,
+     "value": "97 stores (Jun 1991)",
+     "text": "Chapter 11 in 1982 and 1991. Liquidated from June 1993.[^16][^24]",
+     "data": [
+      105,
+      56,
+      59,
+      90,
+      97,
+      71,
+      69,
+      29,
+      28,
+      0
+     ],
+     "range": [
+      "1982: 105",
+      "1993"
+     ]
+    },
+    {
+     "name": "Child World / Children’s Palace",
+     "status": "dead",
+     "value": "125 stores (May 1992)",
+     "text": "The No. 2 chain. Filed for Chapter 11 on May 7, 1992 and ceased operations that summer after merger talks with Lionel failed.[^19][^21]"
+    },
+    {
+     "name": "Toys “R” Us",
+     "status": "dead",
+     "statusLabel": "Won, then liquidated in 2018",
+     "value": "358 stores (1988)",
+     "text": "The leader throughout. It outlived both rivals by 25 years, then closed its U.S. stores in 2018 under nearly $8 billion of debt.[^10][^32]"
+    },
+    {
+     "name": "Kmart, Wal-Mart, Target",
+     "status": "alive",
+     "statusLabel": "The discounters",
+     "value": "No count in our sources",
+     "text": "By 1993 the trade press said the spoils of the toy superstore contraction went to discounters with expanded toy departments.[^23]"
+    }
+   ],
+   "source": "Store counts as cited. No single source gives all chains at one date, so the dates differ."
+  },
+  {
+   "kind": "bars",
+   "title": "Share of the U.S. toy market, 1982",
+   "subtitle": "Share of a toy market of about $9 billion, as given by analysts when Lionel first filed.",
+   "format": "pct",
+   "itemLabel": "Retailer",
+   "valueLabel": "Share",
+   "items": [
+    {
+     "label": "Toys “R” Us",
+     "value": 9.5,
+     "color": "ink"
+    },
+    {
+     "label": "Child World",
+     "value": 3,
+     "display": "about 3%",
+     "color": "grey"
+    },
+    {
+     "label": "Lionel",
+     "value": 3,
+     "display": "about 3%",
+     "self": true
+    }
+   ],
+   "source": "The New York Times, February 25, 1982. The rest of the market was held by general merchandise stores.[^1]"
+  },
+  {
+   "kind": "scale",
+   "title": "One Lionel store for every four Toys “R” Us stores",
+   "icon": "store",
+   "count": 4,
+   "left": {
+    "value": "358",
+    "label": "Toys “R” Us stores in November 1988[^10]"
+   },
+   "unit": {
+    "value": "90",
+    "label": "Lionel stores at the same date"
+   },
+   "per": "the whole Lionel chain (90 stores)",
+   "equation": "358 ÷ 90 ≈ 4.0. Both counts are from the same New York Times article.[^10]"
+  },
+  {
+   "kind": "bars",
+   "title": "Sales per store, early 1990s",
+   "subtitle": "Annual sales per store, $ millions. A bigger chain bought better and sold more from each box.",
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "itemLabel": "Store or chain",
+   "valueLabel": "Annual sales per store",
+   "items": [
+    {
+     "label": "Toys “R” Us, average (analyst estimate)",
+     "value": 9.0,
+     "display": "about $9M",
+     "color": "ink",
+     "note": "“Roughly twice” Child World’s[^19]"
+    },
+    {
+     "label": "Child World, average (analyst estimate)",
+     "value": 4.5,
+     "color": "grey",
+     "note": "1992[^19]"
+    },
+    {
+     "label": "Lionel, average (derived)",
+     "value": 4.4,
+     "self": true,
+     "note": "$426M ÷ 97 stores[^16]"
+    },
+    {
+     "label": "Kiddie City, Langhorne and Springfield, Pa.",
+     "value": 3.6,
+     "note": "Each, 1993[^26]"
+    },
+    {
+     "label": "Kiddie City, Whitehall, Pa.",
+     "value": 1.8,
+     "note": "1993[^26]"
+    }
+   ],
+   "source": "Child World and Toys “R” Us: estimate by analyst Sean McGowan, quoted in the Times in May 1992.[^19] Lionel: derived from revenue for the year to January 31, 1991 and the store count of June 1991[^16], so it is approximate. Individual stores: American Business Information figures quoted by The Morning Call.[^26]"
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "name": "Lionel",
+    "tag": "Kiddie City, Playworld, Toy Warehouse",
+    "alive": false,
+    "rows": [
+     [
+      "Stores, late 1988",
+      "90 in 16 states[^10]"
+     ],
+     [
+      "Growth method",
+      "Bought chains in 1980; analysts called it ill-timed[^1]"
+     ],
+     [
+      "Inventory",
+      "Could not afford a full range year-round[^1]"
+     ],
+     [
+      "Bank credit",
+      "Withdrawn in 1981 and 1991[^1][^16]"
+     ],
+     [
+      "End",
+      "Liquidated 1993[^24]"
+     ]
+    ]
+   },
+   "right": {
+    "name": "Toys “R” Us",
+    "tag": "The category leader",
+    "alive": false,
+    "rows": [
+     [
+      "Stores, late 1988",
+      "358[^10]"
+     ],
+     [
+      "Growth method",
+      "Opened its own stores[^1]"
+     ],
+     [
+      "Inventory",
+      "About $100M, much of it financed by vendors (1983)[^8]"
+     ],
+     [
+      "Bank credit",
+      "Not at issue in our sources"
+     ],
+     [
+      "End",
+      "U.S. stores closed 2018[^32]"
+     ]
+    ]
+   },
+   "source": "The New York Times, 1982–1991[^1][^8][^10][^16], UPI[^24] and The Baltimore Sun[^32]."
+  },
+  {
+   "kind": "quote",
+   "text": "They have paid a lot of attention to real estate and location and it has paid off.",
+   "who": "Michael J. Vastola, Lionel chairman, on Toys “R” Us, The New York Times, Sep 4, 1983[^8]"
+  },
+  {
+   "kind": "note",
+   "body": "Rankings moved around. The Times called Lionel the fourth largest toy chain in 1988 and the third largest chain of toy supermarkets in 1991.[^10][^16] The Morning Call in 1993 said it had been the second largest toy retailer.[^26] We report each claim with its source and do not pick one."
+  }
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "kicker": "Timeline",
+ "title": "Thirty-six years, 34 moments",
+ "lede": "From a Philadelphia toy supermarket to a creditors’ vote. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "stores": {
+   "label": "Stores",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Bankruptcy & end",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1957",
+   "cat": "stores",
+   "title": "Kiddie City is founded",
+   "text": "The chain starts in Philadelphia.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "",
+   "year": "1969",
+   "cat": "corporate",
+   "title": "Lionel sells the trains",
+   "text": "Lionel Corporation sells the rights to make Lionel trains to General Mills and concentrates on toy retailing. It keeps a 3.5% royalty.",
+   "src": [
+    1,
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1970",
+   "cat": "stores",
+   "title": "Whitehall, Pa. store opens",
+   "text": "The Kiddie City on MacArthur Road in the Lehigh Valley opens. It will still be trading in June 1993.",
+   "src": [
+    26
+   ]
+  },
+  {
+   "date": "",
+   "year": "1971",
+   "cat": "corporate",
+   "title": "Vastola joins",
+   "text": "Michael J. Vastola joins Lionel as a junior accountant.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Late",
+   "year": "1979",
+   "cat": "stores",
+   "title": "Rochester stores open",
+   "text": "Two Kiddie City stores open in the Rochester, N.Y. area, among the first toy supermarkets there.",
+   "src": [
+    28
+   ]
+  },
+  {
+   "date": "",
+   "year": "1980",
+   "cat": "money",
+   "title": "Fun City Toys bought",
+   "text": "Lionel pays $4.5M for a nine-store Texas chain.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Nov",
+   "year": "1980",
+   "cat": "money",
+   "title": "Consolidated Toy bought",
+   "text": "Lionel pays $7.75M for 17 toy stores in the Middle West.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1981",
+   "cat": "money",
+   "title": "$85M repaid, banks pull back",
+   "text": "Lionel repays $85M of unsecured debt. The banks refuse to continue their support.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Feb 19",
+   "year": "1982",
+   "cat": "death",
+   "title": "First Chapter 11",
+   "text": "Lionel, Lionel Leisure and Consolidated Toy file in the Southern District of New York. Toy makers are owed about $91M.",
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "1982",
+   "cat": "corporate",
+   "title": "Top two officers replaced",
+   "text": "Ronald Saypol and Richard R. Schilling Jr. resign under pressure from creditors.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "1983",
+   "cat": "corporate",
+   "title": "Vastola becomes chairman and CEO",
+   "text": "The chain has shrunk from 105 stores to 56. Lionel lost “some $51 million” in 1982.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "1983",
+   "cat": "money",
+   "title": "Deal with creditors",
+   "text": "The creditors’ committee agrees to $70M in cash, $10M of preferred stock and about 35% of the common shares.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1983",
+   "cat": "money",
+   "title": "Plan filed",
+   "text": "The reorganization plan is filed with the bankruptcy court.",
+   "src": [
+    2,
+    6
+   ]
+  },
+  {
+   "date": "Sep 7",
+   "year": "1983",
+   "cat": "money",
+   "title": "Dale sale approved",
+   "text": "The bankruptcy court approves selling Lionel’s 82% of Dale Electronics to Peabody International for $50M.",
+   "src": [
+    2,
+    7
+   ]
+  },
+  {
+   "date": "Nov 29",
+   "year": "1983",
+   "cat": "money",
+   "title": "Second Circuit reverses",
+   "text": "The court of appeals reverses approval of the Dale sale, in an opinion still cited in bankruptcy law.",
+   "src": [
+    2,
+    35
+   ]
+  },
+  {
+   "date": "",
+   "year": "1985",
+   "cat": "corporate",
+   "title": "Out of Chapter 11",
+   "text": "Lionel emerges from bankruptcy and begins expanding again.",
+   "src": [
+    16,
+    24,
+    27
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "1986",
+   "cat": "corporate",
+   "title": "Kughn buys the train business",
+   "text": "Richard P. Kughn, a Detroit developer and collector, buys the Lionel train division from Kenner Parker Toys.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1987",
+   "cat": "rivals",
+   "title": "Child World merger falls through",
+   "text": "Lionel and Child World almost merge. The deal falls apart when the stock market crashes.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "1988",
+   "cat": "stores",
+   "title": "Kiddie City opens in Manhattan",
+   "text": "A 27,000 square foot store opens on West 34th Street. The chain has 90 stores in 16 states.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Feb 13",
+   "year": "1989",
+   "cat": "money",
+   "title": "Toussie wants the company",
+   "text": "Robert I. Toussie L.P., owner of 9.9%, tells the SEC it wants to acquire Lionel. The shares jump $1 to $6.75.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Sep 11",
+   "year": "1989",
+   "cat": "money",
+   "title": "The $8.25 offer",
+   "text": "Toussie offers cash and securities valued at $8.25 a share, about $110M.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Nov",
+   "year": "1989",
+   "cat": "money",
+   "title": "Bid under review",
+   "text": "Toussie says it is re-evaluating its offer because of “extremely poor” operating results.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1990",
+   "cat": "money",
+   "title": "Tender offer ends",
+   "text": "Lionel pays Toussie $500,000 to settle litigation and the hostile offer is dropped.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "1990",
+   "cat": "money",
+   "title": "Shareholders ask questions",
+   "text": "Trendex Capital Management asks the board to examine the sale of a block of stock to investors tied to management.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "",
+   "year": "1990",
+   "cat": "money",
+   "title": "Lionel trademarks sold",
+   "text": "Lionel sells the trademarks and other rights to Lionel Trains Inc. for $10M to raise cash.",
+   "src": [
+    16
+   ]
+  },
+  {
+   "date": "Jun 14",
+   "year": "1991",
+   "cat": "death",
+   "title": "Second Chapter 11",
+   "text": "Lionel files again with 97 stores, after its banks decline to renew a $65M credit line. CIT provides up to $50M.",
+   "src": [
+    16,
+    17,
+    29
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1991",
+   "cat": "stores",
+   "title": "Western stores close",
+   "text": "Lionel Playworld begins closing its four Utah stores and its other stores in the West.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "May 7",
+   "year": "1992",
+   "cat": "rivals",
+   "title": "Child World files",
+   "text": "The second largest toy retailer files for Chapter 11 and says it will close 54 of 125 stores.",
+   "src": [
+    19
+   ]
+  },
+  {
+   "date": "Jun 11",
+   "year": "1992",
+   "cat": "rivals",
+   "title": "Merger talks with Child World",
+   "text": "Two bankrupt chains discuss combining into about 140 stores. Lionel has 71.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "1992",
+   "cat": "rivals",
+   "title": "Talks collapse",
+   "text": "Child World says it will cease operations and close its 71 remaining stores.",
+   "src": [
+    21
+   ]
+  },
+  {
+   "date": "Oct 13",
+   "year": "1992",
+   "cat": "money",
+   "title": "More borrowing for Christmas",
+   "text": "The bankruptcy court lets Lionel borrow more under its $55M credit facility. It operates 69 stores.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Jan 11",
+   "year": "1993",
+   "cat": "stores",
+   "title": "27 more closings",
+   "text": "After a poor Christmas, Lionel says it will close 27 more stores and two distribution centers, leaving 29 stores in six markets.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "May 25",
+   "year": "1993",
+   "cat": "death",
+   "title": "Creditors vote to liquidate",
+   "text": "The creditors’ committee votes to liquidate Lionel Leisure.",
+   "src": [
+    27
+   ]
+  },
+  {
+   "date": "Jun 2",
+   "year": "1993",
+   "cat": "death",
+   "title": "Liquidation announced",
+   "text": "Lionel says it will go out of business and close its 28 remaining stores.",
+   "src": [
+    24,
+    25,
+    26
+   ]
+  }
+ ]
+}

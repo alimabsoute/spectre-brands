@@ -1,0 +1,14 @@
+<svg viewBox="0 0 360 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a shopping cart piled high with boxed toys, a ball and a toy train">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="190" cy="298" rx="130" ry="9" fill="#eef2fb" stroke="none"/>
+<rect x="110" y="70" width="70" height="76" fill="#c0341d"/><path d="M110 96 H180 M145 70 V146"/>
+<rect x="186" y="52" width="64" height="94" fill="#2f6fb5"/><circle cx="218" cy="92" r="16" fill="#ffd21f"/>
+<circle cx="268" cy="118" r="28" fill="#3f8a5a"/><path d="M244 104 C262 112 276 112 292 104"/>
+<rect x="128" y="28" width="56" height="42" fill="#ffd21f"/>
+<rect x="96" y="118" width="60" height="28" rx="6" fill="#2b2a28"/><rect x="104" y="104" width="22" height="16" fill="#c0341d"/><circle cx="110" cy="148" r="7" fill="#fbf9f5"/><circle cx="140" cy="148" r="7" fill="#fbf9f5"/>
+<path d="M40 96 L72 104 L104 232 H288 L312 146 H82" fill="#fbf9f5" fill-opacity=".85"/>
+<path d="M120 146 L132 232 M160 146 L166 232 M200 146 L200 232 M240 146 L234 232 M278 146 L266 232 M88 176 H304 M96 204 H296"/>
+<path d="M104 232 L96 262 H280"/>
+<circle cx="116" cy="280" r="12" fill="#1d1b18"/><circle cx="262" cy="280" r="12" fill="#1d1b18"/>
+<path d="M40 96 L22 92" stroke-width="6" stroke="#c0341d"/>
+</g></svg>
