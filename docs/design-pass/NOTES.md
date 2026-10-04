@@ -261,3 +261,22 @@ Approach: the opener takes its shape from the brand's strongest asset, so the 17
 - Phone: the image is the first thing on the page, edge to edge, above the brand name. Upright pictures are cropped
   shorter there so the name still lands on the first screen.
 - This builds on area 2, which had already replaced the drawing with the real image.
+
+## 10. Search
+
+References:
+
+- **Mintlify command palette** (Mobbin): results under small group headings, key hints along the bottom.
+- **fal command palette** (Mobbin): something useful before you type, each row with a square thumbnail, a title
+  and one line of detail.
+- **`@shadcn/command` and `@shadcn/kbd`**: the parts (input, list, group, item, empty) and the key caps.
+
+What changed:
+
+- Each brand row has its logo (or lead image), its name, a line of detail and its Dead or Ghost tag.
+- Results are grouped: Brands, Categories, Sections (the sections of the page you are on) and Pages.
+- Before anything is typed the palette lists recently viewed brands (kept in the browser's local storage), then
+  five featured brands, then the categories. A footer shows the keys.
+- Keyboard behaviour is unchanged: "/" or Ctrl/Cmd+K opens it, arrows move, Enter opens, Esc closes.
+- "Featured" is the brand named in `site.json` plus the next four by number. Nothing new is stored in the data.
+- If local storage is blocked the recent group is simply absent.

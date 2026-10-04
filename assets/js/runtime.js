@@ -47,28 +47,47 @@
   const menuBtn = $('#menuBtn'), mnav = $('#mnav');
   if (menuBtn) menuBtn.addEventListener('click', () => { const open = mnav.hidden; mnav.hidden = !open; menuBtn.setAttribute('aria-expanded', String(open)); });
 
-  // ---- search (command palette). "/" or Ctrl/Cmd+K opens it. ----
-  const dlg = $('#cmdk');
+  // ---- search (command palette). "/" or Ctrl/Cmd+K opens it. Results are grouped (Brands, Categories, the
+  // Sections of this page, Pages); before anything is typed it lists recently viewed and featured brands. ----
+  const dlg = $('#cmdk'), slug = $('main.company') ? location.pathname.replace(/\//g, '') : '';
+  let recent = [];
+  try {
+    recent = JSON.parse(localStorage.getItem('sb-recent') || '[]');
+    if (slug) localStorage.setItem('sb-recent', JSON.stringify([slug, ...recent.filter(s => s !== slug)].slice(0, 5)));
+  } catch { recent = []; } // storage can be blocked; search works without it
   if (dlg && dlg.showModal) {
     const q = $('#cmdkQ'), list = $('#cmdkList'), empty = $('#cmdkEmpty');
     let items = null, sel = 0, shown = [];
     const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;');
+    const here = $$('#pagenav a[data-sec]').map(a => ({ n: a.textContent, u: a.getAttribute('href'), g: 'Sections', y: 'On this page' }));
+    const row = (x, i) => `<li role="option" id="cmdk-${i}" aria-selected="${i === sel}"><a href="${x.u}" tabindex="-1"><span class="cmdk-th">${x.i ? `<img src="${x.i}" alt="" loading="lazy">` : x.g === 'Categories' ? parseInt(x.y, 10) : ''}</span><span class="cmdk-t"><b>${esc(x.n)}</b><span>${esc([x.c, x.y, x.k].filter(Boolean).join(' · ') || x.b || '')}</span></span>${x.r ? `<span class="tag ${x.r}">${esc(x.t)}</span>` : ''}</a></li>`;
     const render = () => {
-      const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
-      shown = (items || []).map(x => { const hay = [x.n, x.t, x.c, x.y, x.d, x.k, x.b, x.p].join(' ').toLowerCase(); const name = x.n.toLowerCase(); if (!terms.every(t => hay.includes(t))) return null; return [terms.reduce((a, t) => a + (name.startsWith(t) ? 3 : name.includes(t) ? 2 : 0), 0), x]; }).filter(Boolean).sort((a, b) => b[0] - a[0]).map(x => x[1]).slice(0, 30);
+      const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean), all = items || [];
+      let groups;
+      if (!terms.length) {
+        const seen = recent.filter(s => s !== slug).map(s => all.find(x => x.u === `/${s}/`)).filter(Boolean);
+        groups = [['Recently viewed', seen], ['Featured', all.filter(x => x.f && !seen.includes(x))], ['Categories', all.filter(x => x.g === 'Categories')]];
+      } else {
+        const hits = [...all, ...here].map(x => { const hay = [x.n, x.t, x.c, x.y, x.d, x.k, x.b, x.p].join(' ').toLowerCase(), name = x.n.toLowerCase(); return terms.every(t => hay.includes(t)) ? [terms.reduce((a, t) => a + (name.startsWith(t) ? 3 : name.includes(t) ? 2 : 0), 0), x] : null; }).filter(Boolean).sort((a, b) => b[0] - a[0]).map(h => h[1]);
+        groups = ['Brands', 'Categories', 'Sections', 'Pages'].map(g => [g, hits.filter(x => x.g === g).slice(0, 12)]);
+      }
+      groups = groups.filter(g => g[1].length);
+      shown = groups.flatMap(g => g[1]);
       sel = Math.min(sel, Math.max(0, shown.length - 1));
-      list.innerHTML = shown.map((x, i) => `<li role="option" id="cmdk-${i}" aria-selected="${i === sel}"><a href="${x.u}" tabindex="-1"><b>${esc(x.n)}</b><span>${esc([x.c, x.y, x.k].filter(Boolean).join(' · ') || x.b)}</span><em>${esc(x.t)}</em></a></li>`).join('');
+      let i = 0;
+      list.innerHTML = groups.map(([name, rows]) => `<li role="presentation" class="cmdk-g">${name}</li>` + rows.map(x => row(x, i++)).join('')).join('');
       empty.hidden = shown.length > 0 || !items;
       q.setAttribute('aria-activedescendant', shown.length ? 'cmdk-' + sel : '');
     };
+    const go = x => { if (x.u[0] === '#') { dlg.close(); location.hash = x.u; } else location.href = x.u; };
     const open = () => { if (dlg.open) return; dlg.showModal(); q.value = ''; sel = 0; q.focus(); if (!items) fetch('/search.json' + V).then(r => r.json()).then(d => { items = d; render(); }).catch(() => { items = []; render(); }); else render(); };
     $$('[data-search]').forEach(b => b.addEventListener('click', open));
     $('[data-close]', dlg).addEventListener('click', () => dlg.close());
-    dlg.addEventListener('click', e => { if (e.target === dlg) dlg.close(); });
+    dlg.addEventListener('click', e => { if (e.target === dlg || e.target.closest('a[href^="#"]')) dlg.close(); });
     q.addEventListener('input', () => { sel = 0; render(); });
     q.addEventListener('keydown', e => {
       if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); sel = (sel + (e.key === 'ArrowDown' ? 1 : -1) + shown.length) % (shown.length || 1); render(); $('#cmdk-' + sel)?.scrollIntoView({ block: 'nearest' }); }
-      if (e.key === 'Enter' && shown[sel]) location.href = shown[sel].u;
+      if (e.key === 'Enter' && shown[sel]) go(shown[sel]);
     });
     document.addEventListener('keydown', e => {
       const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName);

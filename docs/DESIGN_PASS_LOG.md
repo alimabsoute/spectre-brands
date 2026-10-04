@@ -391,3 +391,33 @@ the existing breadcrumb already follows it and was left alone.
   under the first screen. The phone height of upright images was then cut from 26rem to 19rem; see re-measured after
   the change: the name is at 642 px on Circuit City and 625 px on Zima.
 - `npm run check` passed.
+
+## 10. Search
+
+### Research
+
+Mobbin (`search_screens`, web):
+
+| Query | Top hits |
+| --- | --- |
+| search results dropdown with thumbnails grouped under headings | [Square image library](https://mobbin.com/screens/1d2591d5-1c06-4ec5-9ae5-3d00e4117dc2), [Dropbox Dash image results under an "Images" heading](https://mobbin.com/screens/191c036f-1da7-49ca-8034-5b340b7c77ef), [v0 template results](https://mobbin.com/screens/786b6317-93ca-4bbc-940c-0627a4d0c228) |
+| command palette with recent items shown before typing and keyboard hints in the footer | [Mintlify: grouped results ("Dashboard", "Pages") and key hints in the footer](https://mobbin.com/screens/7c7ad31f-9dfe-4be7-83d7-6002fe31d4d0), [fal: "Suggestions" before typing, a square thumbnail, title and one line per row](https://mobbin.com/screens/d8e46a56-c6c6-4db3-b85f-83bd6cedc01f), [v0: commands and recent items](https://mobbin.com/screens/29db691c-e7fb-4ee3-9f4b-e16c4970b92a) |
+
+21st.dev (`search`, components): "command palette" returned [rafa-porto Command Palette](https://21st.dev/@rafa-porto/components/command-palette),
+[ddoemonn Command Palette](https://21st.dev/@ddoemonn/components/command-palette) and
+[moumensoliman Command Palette with Argument Chips](https://21st.dev/@moumensoliman/components/command-palette).
+
+shadcn (CLI `view`): `@shadcn/command` (input wrapper, list, empty, group, item, shortcut; built on `cmdk`),
+`@shadcn/command-dialog` (the same inside a dialog) and `@shadcn/kbd` (key caps, grouped).
+
+### Verified (Playwright, 1280 and 375)
+
+- Empty palette on the homepage: groups "Featured" (Pets.com, Webvan, RadioShack, Circuit City, Toys "R" Us, each
+  with a logo and its Dead or Ghost tag) and "Categories" (seven rows with their counts).
+- Query "toy": "Brands" (Toys "R" Us, KB Toys, Kiddie City) then "Categories" (Toy stores). Kiddie City has no
+  thumbnail because it has no image at all.
+- Keyboard: two presses of the down arrow selected Kiddie City; Enter opened `/kiddie-city/`.
+- On `/circuit-city/` after that visit the empty palette led with "Recently viewed: Kiddie City".
+- Query "what if" on a brand page gave one "Sections" row; Enter closed the palette and moved to `#whatif`.
+- `npm run check` passed; it still tests "/" then "radio" then Enter, and now also that the empty palette lists
+  featured brands with thumbnails and tiers.

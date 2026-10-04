@@ -109,6 +109,9 @@ if (!args.has('--no-browser')) {
     if (outline === 'none') bad('/ keyboard', 'focused element has no visible outline');
     await page.keyboard.press('/');
     if (!(await page.evaluate(() => document.getElementById('cmdk').open))) bad('/ search', 'pressing "/" did not open search');
+    await page.waitForSelector('#cmdkList [role=option]', { timeout: 5000 }).catch(() => {});
+    const pal = await page.evaluate(() => ({ groups: [...document.querySelectorAll('#cmdkList .cmdk-g')].map(g => g.textContent), thumbs: document.querySelectorAll('#cmdkList .cmdk-th img').length, tiers: document.querySelectorAll('#cmdkList .tag').length }));
+    if (!pal.groups.includes('Featured') || !pal.thumbs || !pal.tiers) bad('/ search', `the empty palette should list featured brands with thumbnails and tiers (got ${JSON.stringify(pal)})`);
     await page.keyboard.type('radio'); await page.waitForTimeout(400); await page.keyboard.press('Enter');
     await page.waitForURL('**/radioshack/', { timeout: 5000 }).catch(() => bad('/ search', 'typing "radio" + Enter did not open /radioshack/'));
     const hidden = await page.evaluate(() => [...document.querySelectorAll('.rv, .info')].filter(e => getComputedStyle(e).opacity !== '1').length);
