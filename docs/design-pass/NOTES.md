@@ -206,3 +206,32 @@ What changed:
   is shown but cannot be sorted or set in its own column without editing the data.
 - **Gap: portraits.** `people.json` has no image field. Matching by file name is a stopgap that only finds the
   three photographs already in galleries.
+
+## 8. Maps
+
+References:
+
+- **GetYourGuide map** (Mobbin): each pin carries its name on the map, so nobody has to match numbers to a key.
+- **mapcn MarkerLabel** (21st.dev): a text label positioned beside its marker. The pattern, done here in SVG.
+- **ZARA stores** (Mobbin): a plain, quiet map with a text list beside it and no card chrome.
+
+What changed on the four existing maps:
+
+- The map runs the full width of the page (it used to share the row with a card).
+- Every place is labelled on the map itself. A label sits next to its pin where there is room; otherwise it
+  moves out and a leader line joins it to the pin. Highlighted places are placed first and set in bold; places
+  closed by the selected date are hollow and struck through.
+- Dots and type are sized in screen pixels, so they are the same size on a phone. A phone labels only the
+  highlighted and the picked places.
+- The numbered pins and the legend card grid are gone. A place's detail shows in a panel under the map (the
+  step's first highlighted place by default, or whichever pin is picked). The same list is kept, folded, under
+  "All N places as a list", which is also what a reader without JavaScript gets.
+- The year scrubber (play, previous, next, dates) is kept, and so is the link with the timeline.
+- Step notes are plain bold captions with a straight leader line. The handwriting and the sketched boxes are
+  gone, so rough.js and the handwriting font are no longer loaded for the map.
+- Land is a shade darker and pins are solid colour, so the map is less pale.
+
+**Gap: no new maps.** The brief names Circuit City (567 stores), Toys "R" Us, KB Toys and Blockbuster. None of
+them, and none of the other nine brands without a map, has location data in its JSON: no coordinates, no
+per-state counts, no table of places (the search is in the log). Store counts exist only as totals. Adding a map
+would mean sourcing and geocoding store lists, which is new data, not presentation.

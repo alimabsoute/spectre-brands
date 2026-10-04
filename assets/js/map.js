@@ -1,19 +1,20 @@
-/* Optional "map" module: a US map (d3 Albers USA, Census state shapes from us-atlas) whose pins,
-   notes and choropleth layers are driven by a horizontal timeline. Data: #bo-data.map (see SCHEMA.md). */
+/* Optional "map" module: a US map (d3 Albers USA, Census state shapes from us-atlas) whose pins, labels,
+   notes and choropleth layers are driven by a horizontal timeline. Every place is labelled on the map itself,
+   with a leader line where the label has to sit away from its pin. Data: #bo-data.map (see SCHEMA.md). */
 (function () {
   const M = window.BO && BO.data && BO.data.map;
   const svg = document.getElementById('mapOv'), base = document.getElementById('mapBase');
   if (!M || !svg) return;
-  const NS = 'http://www.w3.org/2000/svg', HAND = '#1f2a44';
-  const PAL = { a: ['#F6B8A8', '#C4644D'], b: ['#CDBCEA', '#7B62A8'], c: ['#AECDEC', '#43709F'], d: ['#BFE0B5', '#4F8A45'], e: ['#F7DC9C', '#B08A2E'] };
-  const LAND = '#ECEBE7', EDGE = '#FFFFFF';
+  const NS = 'http://www.w3.org/2000/svg', VW = 975, VH = 610;
+  const PAL = { a: '#C4644D', b: '#7B62A8', c: '#43709F', d: '#4F8A45', e: '#B08A2E' };
+  const LAND = '#E2E0D9', EDGE = '#FCFBF8';
   const el = (t, a, p) => { const e = document.createElementNS(NS, t); for (const k in a) e.setAttribute(k, a[k]); p && p.appendChild(e); return e; };
   const $ = id => document.getElementById(id);
   const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;');
   const inl = s => esc(s).replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>');
   const fnl = ids => (ids || []).map(n => `<sup class="fn"><a href="#src-${n}">${n}</a></sup>`).join('');
   const steps = M.steps || [], pins = M.pins || [];
-  let P = null, cur = 0, timer = null, states = null, names = {};
+  let P = null, cur = 0, timer = null, states = null, sel = -1, nodes = [], annoG = null;
 
   // --- timeline track ---
   const track = $('tlTrack');
@@ -48,21 +49,25 @@
     track.querySelectorAll('.tl-dot').forEach((b, k) => { b.classList.toggle('on', k === i); b.classList.toggle('past', k < i); });
     $('tlFill').style.width = (steps.length > 1 ? i / (steps.length - 1) * 100 : 0) + '%';
     const hl = new Set(s.pins || []);
-    svg.querySelectorAll('.pin').forEach(g => {
-      const p = pins[+g.dataset.i], st = stateOf(p, s.date);
-      g.setAttribute('class', `pin ${st}${hl.has(p.id) ? ' hl' : ''}`);
-    });
-    svg.querySelectorAll('.lead').forEach(l => l.setAttribute('class', 'lead ' + stateOf(pins[+l.dataset.i], s.date)));
-    $('mapKey').querySelectorAll('li').forEach(li => { const p = pins[+li.dataset.i]; li.className = stateOf(p, s.date) + (hl.has(p.id) ? ' hl' : ''); });
+    nodes.forEach(n => { n.state = stateOf(n.p, s.date); n.hl = hl.has(n.p.id); });
     $('stepCard').innerHTML = `<div class="sc-k">Step ${i + 1} of ${steps.length} · <b>${esc(s.label)}</b></div><h4>${inl(s.title)}</h4><p>${inl(s.text)}${fnl(s.src)}</p>${s.note ? `<p class="sc-note">${esc(s.note.text.join(' '))}</p>` : ''}${s.estimate ? `<p class="sc-est">${inl(s.estimate)}</p>` : ''}<p class="sc-tl"><a href="#timeline">Find this date in the timeline</a></p>`;
     const st = $('mapStat');
     if (s.stat) { st.innerHTML = `<b>${esc(s.stat.value)}</b><span>${inl(s.stat.label)}</span>`; st.classList.add('on'); } else st.classList.remove('on');
     if (states) paintLayer(s.layer);
-    drawNote(s);
+    // the place panel follows the step: its first highlighted place, else whatever was picked, if still on the map
+    const first = nodes.find(n => n.hl && n.state !== 'hidden');
+    place(first ? first.i : nodes[sel] && nodes[sel].state !== 'hidden' ? sel : -1);
     if (!silent) document.dispatchEvent(new CustomEvent('bo:time', { detail: { t: frac(s.date), from: 'map' } }));
   }
   // the timeline tells the map which date it is showing
   document.addEventListener('bo:time', e => { if (e.detail.from !== 'map' && P) { stop(); go(stepAt(e.detail.t), true); } });
+
+  // --- the place panel: what a pin is, in words ---
+  function place(i) {
+    sel = i; const n = nodes[i], p = n && n.p;
+    $('placeCard').innerHTML = p ? `<div class="sc-k">${n.state === 'closed' ? 'Closed by this date' : 'On the map'}${p.when ? ` · <b>${esc(p.when)}</b>` : ''}</div><h4>${inl(p.title)}</h4><p>${inl(p.text)}${fnl(p.src)}</p>` : '<div class="sc-k">Places</div><p>Pick a pin to read about that place.</p>';
+    layout();
+  }
 
   // --- choropleth ---
   function paintLayer(k) {
@@ -83,49 +88,73 @@
     return `<b>${esc(n)}</b><br>${esc(fill(L.tip, k))}` + (L.also || []).map(a => '<br>' + esc(fill(a.tip, a.layer))).join('');
   }
 
-  // --- notes ---
-  function drawNote(s) {
-    const g = svg.querySelector('.anno'); if (!g) return; g.innerHTML = '';
-    if (!s.note || typeof rough === 'undefined' || !P || innerWidth < 700) return;
-    const rc = rough.svg(svg), n = s.note, fs = 20;
-    const t = el('text', { x: n.box[0] + 12, y: n.box[1] + fs + 5, 'font-size': fs, 'font-weight': 600 }, g);
-    n.text.forEach((ln, j) => { const ts = el('tspan', { x: n.box[0] + 12, dy: j ? fs * 1.1 : 0 }, t); ts.textContent = ln; });
-    let bb = t.getBBox(); if (!bb.width) bb = { width: Math.max(...n.text.map(l => l.length)) * fs * .42, height: n.text.length * fs * 1.1 };
-    const [x, y] = n.box, w = bb.width + 24, h = bb.height + 16;
-    g.insertBefore(rc.rectangle(x, y, w, h, { roughness: 1.2, stroke: HAND, strokeWidth: 1.4, fill: '#FFFFFF', fillStyle: 'solid', seed: 11 + cur * 7 }), t);
-    let tg = null;
-    if (n.at) { const p = pins.find(q => q.id === n.at); tg = p ? pinXY(p) : null; }
-    else if (n.ll) tg = P(n.ll);
-    if (!tg) return;
-    const cx = Math.max(x, Math.min(tg[0], x + w)), cy = Math.max(y, Math.min(tg[1], y + h));
-    let sx = cx, sy = cy; if (cx > x && cx < x + w && cy > y && cy < y + h) { sx = x + w / 2; sy = y + h; }
-    const mx = (sx + tg[0]) / 2 + (tg[1] - sy) * .18, my = (sy + tg[1]) / 2 - (tg[0] - sx) * .18;
-    const ex = tg[0] - Math.cos(Math.atan2(tg[1] - my, tg[0] - mx)) * 16, ey = tg[1] - Math.sin(Math.atan2(tg[1] - my, tg[0] - mx)) * 16;
-    g.appendChild(rc.curve([[sx, sy], [mx, my], [ex, ey]], { roughness: 1, stroke: HAND, strokeWidth: 1.6, seed: 12 + cur * 7 }));
-    const an = Math.atan2(ey - my, ex - mx);
-    [.45, -.45].forEach((d, q) => g.appendChild(rc.line(ex, ey, ex - 11 * Math.cos(an + d), ey - 11 * Math.sin(an + d), { roughness: .7, stroke: HAND, strokeWidth: 1.6, seed: 13 + cur * 7 + q })));
+  // --- pins, labels and the step's note. Sizes are set in screen pixels, so a phone gets the same dot and
+  // type size as a desktop; on a phone only the highlighted and the picked places are labelled. ---
+  function layout() {
+    if (!P || !nodes.length && !annoG) return;
+    const wpx = svg.clientWidth || VW, k = VW / wpx, small = wpx < 560, fs = (small ? 11 : 12.5) * k, gap = 9 * k, boxes = [];
+    const free = b => b[0] > 2 && b[2] < VW - 2 && b[1] > 2 && b[3] < VH - 2 && !boxes.some(o => b[0] < o[2] && b[2] > o[0] && b[1] < o[3] && b[3] > o[1]);
+    const s = steps[cur];
+    // the note: a short bold caption with a leader to what it is about
+    annoG.innerHTML = '';
+    if (s && s.note && !small) {
+      const n = s.note, x = n.box[0], y = n.box[1], t = el('text', { class: 'anno-t', x, y: y + fs * 1.1, 'font-size': fs * 1.08, 'stroke-width': 3.5 * k }, annoG);
+      n.text.forEach((ln, j) => { el('tspan', { x, dy: j ? fs * 1.38 : 0 }, t).textContent = ln; });
+      const w = Math.max(...[...t.children].map(c => c.getComputedTextLength())), h = n.text.length * fs * 1.38, bx = [x - 4 * k, y - 2 * k, x + w + 4 * k, y + h + 2 * k];
+      boxes.push(bx);
+      const tg = n.at ? (nodes.find(q => q.p.id === n.at) || {}).xy : n.ll ? P(n.ll) : null;
+      if (tg) { const cx = Math.max(bx[0], Math.min(tg[0], bx[2])), cy = Math.max(bx[1], Math.min(tg[1], bx[3])); annoG.insertBefore(el('line', { class: 'anno-l', x1: cx, y1: cy, x2: tg[0], y2: tg[1], 'stroke-width': 1.2 * k }), t); if (!n.at) el('circle', { cx: tg[0], cy: tg[1], r: 2.5 * k, fill: '#16161A' }, annoG); }
+    }
+    nodes.forEach(n => {
+      const on = n.state !== 'hidden', r = (n.hl || n.i === sel ? 8 : 6) * k;
+      n.g.setAttribute('class', `pin ${n.state}${n.hl ? ' hl' : ''}${n.i === sel ? ' sel' : ''}`);
+      n.dot.setAttribute('r', r); n.dot.setAttribute('stroke-width', 1.6 * k); n.pulse.setAttribute('r', r); n.pulse.setAttribute('stroke-width', 2 * k); n.hit.setAttribute('r', 18 * k);
+      if (on) boxes.push([n.xy[0] - r, n.xy[1] - r, n.xy[0] + r, n.xy[1] + r]);
+    });
+    // labels: highlighted places first, so they get the positions next to their pins
+    [...nodes].sort((a, b) => (b.hl + (b.i === sel)) - (a.hl + (a.i === sel)) || a.i - b.i).forEach(n => {
+      const show = n.state !== 'hidden' && (!small || n.hl || n.i === sel);
+      n.t.style.display = n.lead.style.display = show ? '' : 'none';
+      if (!show) return;
+      n.t.setAttribute('class', `plab ${n.state}${n.hl || n.i === sel ? ' hl' : ''}`);
+      n.t.setAttribute('font-size', fs); n.t.setAttribute('stroke-width', 3.2 * k);
+      const w = n.t.getComputedTextLength(), h = fs * 1.15, [x, y] = n.xy, d = .72;
+      let best = null;
+      for (const m of [1, 2.4, 4, 6, 8.5]) {
+        const g = gap * m + 6 * k;
+        const cands = [[x + g, y - h / 2], [x - g - w, y - h / 2], [x + g * d, y - g * d - h], [x + g * d, y + g * d], [x - g * d - w, y - g * d - h], [x - g * d - w, y + g * d], [x - w / 2, y - g - h], [x - w / 2, y + g]];
+        best = cands.map(c => [c[0], c[1], c[0] + w, c[1] + h]).find(free);
+        if (best) { n.far = m > 1; break; }
+      }
+      if (!best) { best = [x + gap + 6 * k, y - h / 2, x + gap + 6 * k + w, y + h / 2]; n.far = false; }
+      boxes.push(best);
+      n.t.setAttribute('x', best[0]); n.t.setAttribute('y', best[3] - h * .22);
+      const lx = Math.max(best[0], Math.min(x, best[2])), ly = Math.max(best[1], Math.min(y, best[3]));
+      n.lead.setAttribute('x1', x); n.lead.setAttribute('y1', y); n.lead.setAttribute('x2', lx); n.lead.setAttribute('y2', ly);
+      n.lead.setAttribute('stroke-width', 1 * k); n.lead.style.display = n.far ? '' : 'none';
+    });
   }
 
-  const pinXY = p => { const q = P(p.ll); if (!q) return null; return p.offset ? [q[0] + p.offset[0], q[1] + p.offset[1]] : q; };
-
   function drawPins() {
-    const defs = el('defs', {}, svg), f = el('filter', { id: 'pinShadow', x: '-50%', y: '-50%', width: '200%', height: '200%' }, defs);
-    el('feDropShadow', { dx: 0, dy: 1, stdDeviation: 1.2, 'flood-color': '#000', 'flood-opacity': .22 }, f);
-    (M.rings || []).forEach(r => { const c = P(r.ll); if (!c) return; const rad = r.miles * 1300 / 3959; el('circle', { cx: c[0], cy: c[1], r: rad, fill: 'none', stroke: (PAL[r.cat] || PAL.a)[1], 'stroke-width': 1.3, 'stroke-dasharray': '5 5', opacity: .55 }, svg); });
-    el('g', { class: 'anno' }, svg);
-    const g = el('g', { class: 'pins' }, svg);
-    pins.forEach((p, i) => {
-      const t = P(p.ll); if (!t) return; const q = pinXY(p), c = PAL[p.cat] || PAL.a;
-      if (p.offset) { const l = el('g', { class: 'lead', 'data-i': i }, g); el('line', { x1: t[0], y1: t[1], x2: q[0], y2: q[1], stroke: c[1], 'stroke-width': 1.2 }, l); el('circle', { cx: t[0], cy: t[1], r: 2.6, fill: c[1] }, l); }
-      const pg = el('g', { class: 'pin', 'data-i': i, tabindex: 0, role: 'button', 'aria-label': p.label + ': ' + p.title }, g);
-      el('circle', { class: 'pulse', cx: q[0], cy: q[1], r: 13, fill: 'none', stroke: c[1] }, pg);
-      el('circle', { class: 'pd', cx: q[0], cy: q[1], r: 13, fill: c[0], stroke: c[1], 'stroke-width': 1, filter: 'url(#pinShadow)' }, pg);
-      const tx = el('text', { class: 'pn', x: q[0], y: q[1] + 5, 'text-anchor': 'middle', 'font-size': 14 }, pg); tx.textContent = p.label;
-      const show = () => { const k = $('mapKey').children[i]; $('mapKey').querySelectorAll('li').forEach(x => x.classList.toggle('sel', x === k)); };
-      pg.addEventListener('click', () => { show(); const k = $('mapKey').children[i]; if (innerWidth < 700 && k) k.scrollIntoView({ behavior: 'smooth', block: 'center' }); });
-      pg.addEventListener('keydown', e => { if (e.key === 'Enter') pg.dispatchEvent(new Event('click')); });
-    });
-    $('mapKey').innerHTML = pins.map((p, i) => `<li data-i="${i}"><span class="kn" style="background:${(PAL[p.cat] || PAL.a)[0]};border-color:${(PAL[p.cat] || PAL.a)[1]}">${esc(p.label)}</span><div><b>${inl(p.title)}</b>${p.when ? ` <span class="kw">${esc(p.when)}</span>` : ''}<br>${inl(p.text)}${fnl(p.src)}</div></li>`).join('');
+    (M.rings || []).forEach(r => { const c = P(r.ll); if (!c) return; el('circle', { cx: c[0], cy: c[1], r: r.miles * 1300 / 3959, fill: 'none', stroke: PAL[r.cat] || PAL.a, 'stroke-width': 1.3, 'stroke-dasharray': '5 5', opacity: .6 }, svg); });
+    const leads = el('g', { class: 'leads' }, svg);
+    annoG = el('g', { class: 'anno' }, svg);
+    const g = el('g', { class: 'pins' }, svg), labels = el('g', { class: 'labels', 'aria-hidden': 'true' }, svg);
+    nodes = pins.map(p => {
+      const xy = P(p.ll); if (!xy) return null;
+      const c = PAL[p.cat] || PAL.a, name = String(p.title).split(':')[0].replace(/\*\*/g, '').trim();
+      const pg = el('g', { class: 'pin', tabindex: 0, role: 'button', 'aria-label': p.title + (p.when ? ', ' + p.when : '') }, g);
+      const hit = el('circle', { cx: xy[0], cy: xy[1], r: 18, fill: 'transparent' }, pg);
+      const pulse = el('circle', { class: 'pulse', cx: xy[0], cy: xy[1], r: 8, fill: 'none', stroke: c }, pg);
+      const dot = el('circle', { class: 'pd', cx: xy[0], cy: xy[1], r: 6, fill: c, stroke: '#FCFBF8' }, pg);
+      const t = el('text', { class: 'plab' }, labels); t.textContent = name;
+      const lead = el('line', { class: 'plead', stroke: c }, leads);
+      const n = { i: 0, p, xy, g: pg, hit, pulse, dot, t, lead, state: 'active', hl: false };
+      pg.addEventListener('click', () => place(n.i));
+      pg.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); place(n.i); } });
+      return n;
+    }).filter(Boolean);
+    nodes.forEach((n, k) => { n.i = k; });
   }
 
   function init(us) {
@@ -153,6 +182,7 @@
     if (typeof d3 === 'undefined' || !d3.geoAlbersUsa) return;
     fetch('/assets/vendor/states-10m.json').then(r => r.json()).then(init, () => init(null));
   };
-  (document.fonts && document.fonts.load ? document.fonts.load('600 20px Caveat').catch(() => 0) : Promise.resolve()).then(start, start);
-  let rw; addEventListener('resize', () => { clearTimeout(rw); rw = setTimeout(() => P && drawNote(steps[cur]), 200); });
+  (document.fonts && document.fonts.ready ? document.fonts.ready : Promise.resolve()).then(start, start);
+  // labels are laid out again whenever the map changes size (including the first time it is actually drawn)
+  new ResizeObserver(() => layout()).observe(svg);
 })();

@@ -303,6 +303,58 @@ card was added.
 ### Verified
 
 - Portraits (read back from the built HTML): Quibi has two (Katzenberg, Whitman) and Groupon one (Mason). No
-  other brand has a licensed photograph of a person in its data, so the other 14 rosters have no portrait column.
+  other brand has a licensed photograph of a person in its data, so the other 15 rosters have no portrait column.
 - Screenshots reviewed at 1280 and 375: `docs/design-pass/after/07-modules/`.
+- `npm run check` passed.
+
+## 8. Maps
+
+### Research
+
+Mobbin (`search_screens`, web):
+
+| Query | Top hits |
+| --- | --- |
+| store locator page with a wide map, pins and labelled locations | [DoorDash Merchant customer locations](https://mobbin.com/screens/8046ca00-d520-440f-a559-5ed186bab058), [ZARA stores: a country list beside a labelled map](https://mobbin.com/screens/db7da190-c4ae-4a0e-aba9-ac5ad8281986), [GetYourGuide map: pins with name labels attached, list beside](https://mobbin.com/screens/7d8762de-2deb-4393-8667-dd8751d3b206) |
+| annotated map with text labels connected to places by leader lines | GetYourGuide map again, [Tana canvas with an arrow annotation](https://mobbin.com/screens/8cb5fd7e-63dd-4a64-b684-6d2f6c2b589d), [Cofounder document comments](https://mobbin.com/screens/b281e31b-4f28-456e-88bd-83791e276879) |
+| data journalism map of the United States shaded by state with a time slider | [DoorDash Merchant sales chart](https://mobbin.com/screens/6b8d79ca-10a6-40f6-804c-0d9a7211aa98), [Klaviyo activity map with a period switch](https://mobbin.com/screens/9e0750ed-89c5-4296-87cd-44844b5fa846), [Basecamp Lineup](https://mobbin.com/screens/5a2553d7-3ada-4773-a5f8-c3c4e9809115) |
+
+21st.dev (`search`, components):
+
+| Query | Top hits |
+| --- | --- |
+| map annotations | [mapcn MarkerContent](https://21st.dev/@mapcn/components/mapcn-marker-content), [mapcn MarkerLabel: a label positioned beside its marker](https://21st.dev/@mapcn/components/mapcn-marker-label), [mapcn MarkerTooltip](https://21st.dev/@mapcn/components/mapcn-marker-tooltip) |
+| interactive map tooltip | mapcn MarkerTooltip, [originui Tooltip](https://21st.dev/@originui/components/tooltip), [lovesickfromthe6ix Interactive Map](https://21st.dev/@lovesickfromthe6ix/components/interactive-map) |
+
+shadcn (CLI `view`): `@shadcn/popover` (anchored content with a title and description). Not used: a place's
+detail goes in a fixed panel under the map instead of a floating card over it.
+
+### Location data for brands without a map
+
+Searched every `companies/*/company.json` and `companies/*/sections/*.json`:
+
+- Coordinates (`"ll"`): only in the four existing `map.json` files (Pets.com, Webvan, RadioShack, Howard Johnson's).
+- Other coordinate or state keys (`lat`, `lng`, `lon`, `latitude`, `longitude`, `coords`, `coordinates`, `state`,
+  `states`): none.
+- Tables, bar charts or small multiples that name four or more US states: none in the 13 brands without a map.
+
+So no map was added for Circuit City, Toys "R" Us, KB Toys, Blockbuster or any other brand.
+
+### Verified
+
+Probed in a browser at a busy step, both widths (screenshots in `docs/design-pass/after/08-maps/`):
+
+| Map | Step | 1280: places shown / labelled | 375: places shown / labelled |
+| --- | --- | --- | --- |
+| Webvan | Sep 2000 | 13 / 13 | 13 / 9 |
+| Pets.com | Nov 2000 | 10 / 10 | 10 / 4 |
+| Howard Johnson's | 2016 | 8 / 8 | 8 / 2 |
+| RadioShack | 2009 | 2 / 2 | 2 / 0 |
+
+- On a phone only the highlighted and the picked places are labelled, which is why RadioShack shows none at a
+  step that highlights no place.
+- Clicking a pin put that place in the panel under the map ("Carol Stream, IL: Chicago").
+- Stepping the map still moved the timeline selection (Webvan, Sep 2000 selected "Sep 5 2000").
+- Map width at 1280: 1,080 px (measured from the screenshot). Before it was roughly 730 px: that figure is
+  worked out from the old CSS (a 19rem card and padding beside it), not measured.
 - `npm run check` passed.
