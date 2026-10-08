@@ -1,0 +1,250 @@
+{
+ "kicker": "The money",
+ "title": "How one product line moved the whole company",
+ "lede": "Sharper Image’s fiscal year ended January 31; “fiscal 2004” is the year to January 31, 2005. Figures are from its last annual report, which includes restated results after a stock-option review, and from its final sales release.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Revenue up, then down",
+   "subtitle": "$ millions. Fiscal 2007 is total company sales, a slightly narrower measure than revenue.",
+   "labels": [
+    "FY02",
+    "FY03",
+    "FY04",
+    "FY05",
+    "FY06",
+    "FY07"
+   ],
+   "format": "usdM",
+   "series": [
+    {
+     "label": "Revenue",
+     "data": [
+      513.8,
+      647.5,
+      760.0,
+      669.0,
+      525.3,
+      374.9
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 2,
+     "title": "the peak",
+     "text": "$760.0M, 40% of it from air purifiers.[^1]"
+    },
+    {
+     "i": 4,
+     "title": "the founder leaves",
+     "text": "$525.3M in the year Thalheimer departed.[^1][^2]"
+    },
+    {
+     "i": 5,
+     "title": "the last year",
+     "text": "$374.9M of sales, down 26%.[^6]"
+    }
+   ],
+   "source": "Annual report for fiscal 2006[^1]; January 2008 sales release[^6]. The release puts fiscal 2006 sales at $506.7M, against $525.3M of revenue in the annual report."
+  },
+  {
+   "kind": "chart",
+   "id": "shrpNet",
+   "title": "Net earnings",
+   "subtitle": "$ millions, as restated in the fiscal 2006 annual report.",
+   "views": [
+    {
+     "label": "Net earnings",
+     "chart": {
+      "type": "bar",
+      "height": 300,
+      "legend": false,
+      "labels": [
+       "FY02",
+       "FY03",
+       "FY04",
+       "FY05",
+       "FY06"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Net earnings or loss ($M)",
+        "data": [
+         13.9,
+         21.0,
+         11.6,
+         -16.1,
+         -59.9
+        ],
+        "colors": [
+         "green",
+         "green",
+         "green",
+         "red",
+         "red"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "source": "Annual report for fiscal 2006.[^1] Rounded from thousands."
+  },
+  {
+   "kind": "bars",
+   "title": "Comparable-store sales",
+   "subtitle": "Change against the year before.",
+   "format": {
+    "suf": "%",
+    "dec": 1
+   },
+   "itemLabel": "Fiscal year",
+   "valueLabel": "Change",
+   "items": [
+    {
+     "label": "FY02",
+     "value": 13.6,
+     "color": "green"
+    },
+    {
+     "label": "FY03",
+     "value": 15.3,
+     "color": "green"
+    },
+    {
+     "label": "FY04",
+     "value": -1.1,
+     "color": "red"
+    },
+    {
+     "label": "FY05",
+     "value": -16.0,
+     "color": "red"
+    },
+    {
+     "label": "FY06",
+     "value": -25.4,
+     "color": "red"
+    },
+    {
+     "label": "FY07",
+     "value": -13,
+     "color": "red",
+     "note": "Whole-number figure from the sales release"
+    }
+   ],
+   "source": "Annual report for fiscal 2006[^1] and January 2008 sales release.[^6]"
+  },
+  {
+   "kind": "bars",
+   "title": "Air purifiers’ share of revenue",
+   "subtitle": "The air-purification line as a share of total revenue. Dollar notes are our calculation (share × revenue).",
+   "format": {
+    "suf": "%",
+    "dec": 1
+   },
+   "itemLabel": "Fiscal year",
+   "valueLabel": "Share",
+   "items": [
+    {
+     "label": "FY04",
+     "value": 40.0,
+     "color": "brand",
+     "note": "≈ $304M (derived)"
+    },
+    {
+     "label": "FY05",
+     "value": 27.7,
+     "color": "brand",
+     "note": "≈ $185M (derived)"
+    },
+    {
+     "label": "FY06",
+     "value": 23.4,
+     "color": "brand",
+     "note": "≈ $123M (derived)"
+    }
+   ],
+   "source": "Annual report for fiscal 2006.[^1]"
+  },
+  {
+   "kind": "waffle",
+   "title": "Fiscal 2004: one line, 40 squares",
+   "subtitle": "Share of revenue in the peak year.",
+   "items": [
+    {
+     "label": "Air-purification products",
+     "value": 40.0,
+     "color": "brand"
+    },
+    {
+     "label": "Massage chairs",
+     "value": 8.8,
+     "color": "gold"
+    },
+    {
+     "label": "Everything else",
+     "value": 51.2,
+     "color": "grey",
+     "note": "Derived remainder"
+    }
+   ],
+   "source": "Annual report for fiscal 2006.[^1] “Everything else” is 100 minus the two disclosed lines."
+  },
+  {
+   "kind": "counters",
+   "title": "Inside the stores",
+   "items": [
+    {
+     "value": "$676 → $383",
+     "text": "annualized net sales per square foot, fiscal 2003 to 2006[^1]"
+    },
+    {
+     "value": "$151 → $98",
+     "text": "average store transaction, fiscal 2004 to 2006[^1]"
+    },
+    {
+     "value": "98.6M → 76.8M",
+     "text": "catalogs mailed, fiscal 2005 to 2006[^1]"
+    },
+    {
+     "value": "187",
+     "text": "stores at January 31, 2007[^1]"
+    }
+   ],
+   "source": "Annual report for fiscal 2006.[^1]"
+  },
+  {
+   "kind": "bars",
+   "title": "What the name fetched",
+   "subtitle": "Cash paid at each sale of the Sharper Image brand, $ millions.",
+   "format": "usdM",
+   "itemLabel": "Sale",
+   "valueLabel": "Price",
+   "items": [
+    {
+     "label": "Hilco/Gordon Brothers, 2008",
+     "value": 49,
+     "color": "grey",
+     "note": "Also bought the catalog, website and store inventory"
+    },
+    {
+     "label": "Iconix, 2011",
+     "value": 65.65,
+     "color": "blue"
+    },
+    {
+     "label": "ThreeSixty Group, 2016",
+     "value": 100,
+     "color": "brand"
+    }
+   ],
+   "source": "Asset-sale 8-K[^11]; Iconix filings.[^13][^14]"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "kicker": "The story",
+ "title": "From a runner’s watch to an air purifier",
+ "lede": "Sharper Image sold novelty for thirty years. In its last five it sold, above all, clean air.",
+ "chapters": [
+  {
+   "when": "1977 – 2001 · The catalog",
+   "title": "Gadgets you could try in the mall",
+   "big": "1977",
+   "cap": "the year the company was founded",
+   "color": "#1f4e79",
+   "body": "The company was founded in 1977, mailed its first catalog in 1979, opened its first stores in 1981 and went online in 1994.[^1] Its founder, Richard Thalheimer, broke into the market with a waterproof runner’s watch advertised in a magazine, and took the company public in 1987.[^3]\n\nThe formula was a monthly catalog and a chain of mall stores full of massage chairs, nose-hair trimmers and gadgets that customers could pick up and play with.[^3]",
+   "video": "q-ball"
+  },
+  {
+   "when": "2002 – 2004 · The boom",
+   "title": "The Ionic Breeze years",
+   "big": "40.0%",
+   "cap": "of fiscal 2004 revenue from air purifiers",
+   "color": "#1f4e79",
+   "body": "Its leading proprietary product was the Ionic Breeze Quadra, a fanless electrostatic air purifier.[^16] From fiscal 2002 to 2004 revenue rose from $513.8M to $760.0M, net earnings peaked at $21.0M in fiscal 2003, and the store count grew from 127 to 175.[^1] Comparable-store sales rose 13.6% and then 15.3%.[^1]\n\nIn fiscal 2004 the air-purification line produced 40.0% of the company’s revenue.[^1] The company said a single supplier in Asia made its air purifiers and a number of other products.[^1]",
+   "video": "infomercial"
+  },
+  {
+   "when": "2002 – 2005 · The review",
+   "title": "Suing Consumer Reports",
+   "big": "$525,000",
+   "cap": "paid to Consumers Union for its legal costs",
+   "color": "#b3261e",
+   "body": "Consumer Reports criticised the Ionic Breeze in its February 2002 and October 2003 issues. Sharper Image sued Consumers Union, its publisher, claiming the tests were unreliable because they assumed a fan.[^4][^16]\n\nIn an order dated November 9, 2004, Judge Maxine Chesney in San Francisco granted Consumers Union’s special motion to strike the complaint under California’s anti-SLAPP law: “Sharper Image has not demonstrated a reasonable probability that any of the challenged statements were false.”[^4][^16] The company dropped its appeal and paid Consumers Union $525,000 in fees and costs.[^5] Five class actions followed by April 2006, claiming the purifier did not perform as advertised.[^1]",
+   "art": "art/purifier.svg",
+   "artCaption": "Original illustration of a tower air purifier beside a magazine with a low rating. The magazine and rating are invented."
+  },
+  {
+   "when": "2005 – 2007 · The slide",
+   "title": "Revenue down a third, the founder out",
+   "big": "−25.4%",
+   "cap": "comparable-store sales in fiscal 2006",
+   "color": "#b3261e",
+   "body": "Revenue fell to $669.0M in fiscal 2005 and $525.3M in fiscal 2006, with net losses of $16.1M and $59.9M. Sales per square foot dropped from $618 to $383.[^1] The air-purifier share fell to 23.4%.[^1]\n\nIn May 2006 an investor group, Knightspoint, which owned 12.8% of the shares, settled a proxy fight in exchange for board seats. On September 25, 2006 Thalheimer departed as chairman and chief executive and director Jerry W. Levin took over on an interim basis.[^2][^3] The board also announced a review of its stock-option grants and restated three years of results.[^3]",
+   "video": "quadra2006"
+  },
+  {
+   "when": "2008 · The end",
+   "title": "Chapter 11, a stalking horse and a new name",
+   "big": "184",
+   "cap": "stores open when the company filed for bankruptcy",
+   "color": "#5a5a62",
+   "body": "Sales for the year to January 31, 2008 fell 26% to $374.9M.[^6] On February 19, 2008 the company filed for Chapter 11 in Delaware with 184 stores.[^7][^8] Nasdaq told the company on February 20 that its shares would be delisted, and suspended them on February 29.[^9][^17]\n\nIn May a joint venture of Gordon Brothers and Hilco agreed to buy the trade name, the catalog and website business and the right to liquidate the stores for $51.25M in cash, subject to an auction.[^10] The sale closed on June 5 at a base price of $49M; the going-out-of-business sales had begun on May 31.[^11] To satisfy the purchase agreement, the company renamed itself TSIC, Inc. on July 17, 2008.[^12]",
+   "video": "ap2008"
+  },
+  {
+   "when": "2008 – today · The licence",
+   "title": "A name worth more than the stores",
+   "big": "$100M",
+   "cap": "paid for the brand in December 2016",
+   "color": "#5a5a62",
+   "body": "Iconix Brand Group bought the Sharper Image trademark and related rights in October 2011 for $65.65M in cash.[^13] In December 2016 it sold them for $100M to ThreeSixty Group, which it described as the brand’s largest licensee.[^14]\n\nIn October 2026 sharperimage.com was trading as an online gadget shop.[^15]",
+   "image": {
+    "image": "img/ces-2012.avif",
+    "caption": "Licensed Sharper Image speakers at CES, January 2012. Photo: The Conmunity – Pop Culture Geek, via Wikimedia Commons, CC BY 2.0.",
+    "alt": "Portable speakers on white shelves at a trade-show stand"
+   }
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a tall air purifier next to an open consumer magazine showing a single low rating dot">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 280 H420"/>
+<rect x="80" y="40" width="70" height="240" rx="28" fill="#c9ced6"/>
+<rect class="screen" x="100" y="70" width="30" height="160" rx="14" fill="#6fb3e0"/>
+<path d="M104 90 H126 M104 110 H126 M104 130 H126 M104 150 H126 M104 170 H126 M104 190 H126 M104 210 H126" stroke="#3d6d99" stroke-width="2"/>
+<path d="M200 250 L250 130 L320 150 L270 270 Z" fill="#ffffff"/>
+<path d="M320 150 L380 130 L360 250 L270 270" fill="#f4f1ea"/>
+<path d="M240 165 L290 178 M234 185 L284 198 M228 205 L278 218" stroke="#9a9184"/>
+<circle cx="335" cy="180" r="10" fill="#b3261e"/>
+<circle cx="330" cy="210" r="10"/><circle cx="325" cy="240" r="10"/>
+</g></svg>

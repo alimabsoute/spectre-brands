@@ -1,0 +1,102 @@
+{
+ "name": "Sharper Image",
+ "number": "023",
+ "tier": "ghost",
+ "tierWhy": "The stores were liquidated in 2008 and the company renamed itself TSIC, Inc., but the name was sold. It changed hands twice more, for $65.7M in 2011 and $100M in 2016, and sharperimage.com was still selling gadgets in October 2026.[^11][^13][^14][^15]",
+ "category": "electronics",
+ "cause": "fad",
+ "years": "1977 – 2008",
+ "died": 2008,
+ "dates": [
+  {
+   "date": "2004-11-09",
+   "text": "lost its lawsuit against Consumer Reports over the Ionic Breeze"
+  },
+  {
+   "date": "2008-02-19",
+   "text": "filed for Chapter 11 in Delaware"
+  },
+  {
+   "date": "2008-05-31",
+   "text": "began going-out-of-business sales"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Gadget stores, catalog and website · San Francisco, California",
+ "title": "Sharper Image (1977–2008): post-mortem · Spectre Brands",
+ "description": "The gadget catalog that became a mall chain of 190 stores, then came to depend on one air purifier. A sourced post-mortem of Sharper Image, built from its SEC filings, court coverage and the later sales of its name.",
+ "theme": {
+  "accent": "#1f4e79",
+  "soft": "#edf3f9"
+ },
+ "card": {
+  "blurb": "A San Francisco gadget catalog that became a mall fixture. By 2004 its Ionic Breeze air purifiers were 40% of revenue; when Consumer Reports panned them and sales fell away, the chain went bankrupt in 2008.",
+  "stat": {
+   "value": "40%",
+   "label": "of fiscal 2004 revenue came from one product line: air purifiers"
+  },
+  "spark": [
+   514,
+   648,
+   760,
+   669,
+   525,
+   375
+  ],
+  "peak": 2
+ },
+ "hero": {
+  "dates": "Founded in 1977. Chapter 11 filed Feb 19, 2008.",
+  "standfirst": "It sold the things nobody needed but everybody wanted to try in the mall. Then it sold mostly one thing.",
+  "deck": "Sharper Image began in 1977 with a runner’s watch advertised in a magazine, mailed its first catalog in 1979 and opened stores in 1981. By fiscal 2004 it had 175 stores and $760M of revenue, and 40% of that came from its own fanless Ionic Breeze air purifiers. Consumer Reports said the purifiers did little; the company sued and lost. Air-purifier sales collapsed, revenue fell by almost a third in two years, a shareholder forced the founder out in 2006, and in February 2008 the company filed for Chapter 11. The stores were liquidated; the name lived on as a licence. This page is built from its SEC filings, court coverage in the Los Angeles Times, and the filings of the companies that bought the brand.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a slim tower air purifier glowing blue beside a shop window. Not an official asset or product drawing.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/ces-2012.avif",
+    "caption": "Sharper Image-branded speakers at CES in Las Vegas, January 2012, three years after the stores closed. Photo: The Conmunity – Pop Culture Geek, Wikimedia Commons, CC BY 2.0.",
+    "alt": "Shelves of small portable speakers in a trade-show booth"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "$760M",
+    "text": "revenue in fiscal 2004, the peak, with 175 stores[^1]"
+   },
+   {
+    "value": "40.0%",
+    "text": "of that year’s revenue from the air-purification line[^1]"
+   },
+   {
+    "value": "−25.4%",
+    "text": "comparable-store sales in fiscal 2006, after −16.0% the year before[^1]"
+   },
+   {
+    "value": "$49M",
+    "text": "base price for the trade name, catalog, website and inventory in June 2008[^11]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "One product carried the company.",
+   "text": "Air purifiers were 40.0% of revenue in fiscal 2004, 27.7% in 2005 and 23.4% in 2006, and the company warned that their sales would keep falling.[^1]"
+  },
+  {
+   "title": "Most of the lost revenue was purifiers.",
+   "text": "From fiscal 2004 to 2006 revenue fell by about $235M. By our calculation from the company’s percentages, about $181M of that was the air-purification line.[^1] (derived)"
+  },
+  {
+   "title": "It sued its critic, and lost.",
+   "text": "A federal judge dismissed its suit against Consumer Reports in November 2004, finding no reasonable probability that the reviews were false. The company later paid $525,000 of Consumers Union’s costs.[^4][^5]"
+  },
+  {
+   "title": "The founder went, the slide did not stop.",
+   "text": "Richard Thalheimer left as chairman and chief executive on September 25, 2006. Sales fell another 26% the next year, and the company filed for Chapter 11 in February 2008.[^2][^6][^7]"
+  }
+ ]
+}

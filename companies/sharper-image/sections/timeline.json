@@ -1,0 +1,269 @@
+{
+ "kicker": "Timeline",
+ "title": "Thirty-one years, 22 moments",
+ "lede": "From a magazine ad for a watch to a licence worth $100M. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "product": {
+   "label": "Product & stores",
+   "color": "#93743a"
+  },
+  "death": {
+   "label": "Courts & end",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1977",
+   "cat": "corporate",
+   "title": "Founded",
+   "text": "The company is founded; Thalheimer’s first hit is a waterproof runner’s watch sold through a magazine ad.",
+   "src": [
+    1,
+    3
+   ]
+  },
+  {
+   "date": "",
+   "year": "1979",
+   "cat": "product",
+   "title": "The first catalog",
+   "text": "The first Sharper Image catalog is mailed.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1981",
+   "cat": "product",
+   "title": "Into stores",
+   "text": "The company begins opening its own stores.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1987",
+   "cat": "money",
+   "title": "Public",
+   "text": "Sharper Image goes public.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "",
+   "year": "1994",
+   "cat": "product",
+   "title": "Online",
+   "text": "The company starts selling online.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "2002",
+   "cat": "death",
+   "title": "First review",
+   "text": "Consumer Reports reviews the Ionic Breeze.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "",
+   "year": "2002",
+   "cat": "money",
+   "title": "127 stores",
+   "text": "Fiscal 2002: $513.8M of revenue, comparable-store sales up 13.6%.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "2003",
+   "cat": "death",
+   "title": "Second review",
+   "text": "Consumer Reports criticises the Ionic Breeze Quadra again; Sharper Image sues Consumers Union.",
+   "src": [
+    4,
+    16
+   ]
+  },
+  {
+   "date": "",
+   "year": "2003",
+   "cat": "money",
+   "title": "Best profit",
+   "text": "Fiscal 2003 net earnings reach $21.0M on $647.5M of revenue.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "2004",
+   "cat": "money",
+   "title": "The peak",
+   "text": "Fiscal 2004 revenue is $760.0M; air purifiers are 40.0% of it. 175 stores.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Nov 9",
+   "year": "2004",
+   "cat": "death",
+   "title": "Suit thrown out",
+   "text": "A federal judge grants Consumers Union’s anti-SLAPP motion and strikes the complaint.",
+   "src": [
+    4,
+    16
+   ]
+  },
+  {
+   "date": "",
+   "year": "2005",
+   "cat": "death",
+   "title": "$525,000",
+   "text": "Sharper Image drops its appeal and pays Consumers Union’s fees and costs.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "",
+   "year": "2005",
+   "cat": "money",
+   "title": "First loss",
+   "text": "Fiscal 2005 revenue falls to $669.0M; net loss of $16.1M; comparable-store sales down 16.0%.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "May",
+   "year": "2006",
+   "cat": "corporate",
+   "title": "Proxy settlement",
+   "text": "Knightspoint, owner of 12.8% of the shares, wins board seats without a vote.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Sep 25",
+   "year": "2006",
+   "cat": "corporate",
+   "title": "Founder out",
+   "text": "Richard Thalheimer departs as chairman and CEO; Jerry W. Levin becomes interim CEO.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "2006",
+   "cat": "money",
+   "title": "−25.4%",
+   "text": "Fiscal 2006 revenue is $525.3M and the net loss $59.9M. Air purifiers fall to 23.4% of revenue.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "2007",
+   "cat": "money",
+   "title": "Another 26% gone",
+   "text": "Sales for the year to January 31, 2008 fall to $374.9M.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Feb 19",
+   "year": "2008",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "The company files in Delaware with 184 stores.",
+   "src": [
+    7,
+    8
+   ]
+  },
+  {
+   "date": "Feb 29",
+   "year": "2008",
+   "cat": "death",
+   "title": "Suspended",
+   "text": "Nasdaq suspends the shares; delisting follows in April.",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "Jun 5",
+   "year": "2008",
+   "cat": "death",
+   "title": "Sold for $49M",
+   "text": "Gordon Brothers and Hilco buy the name, the catalog, the website and the inventory. Store closing sales began May 31.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Jul 17",
+   "year": "2008",
+   "cat": "corporate",
+   "title": "TSIC, Inc.",
+   "text": "The company gives up its name, as the sale agreement required.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Oct 26",
+   "year": "2011",
+   "cat": "corporate",
+   "title": "Iconix buys the brand",
+   "text": "Iconix Brand Group pays $65.65M for the trademark and related rights.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Dec 30",
+   "year": "2016",
+   "cat": "corporate",
+   "title": "$100M",
+   "text": "Iconix sells the brand to ThreeSixty Group, its largest licensee.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "2026",
+   "cat": "corporate",
+   "title": "Still selling",
+   "text": "sharperimage.com trades as an online gadget shop.",
+   "src": [
+    15
+   ]
+  }
+ ]
+}

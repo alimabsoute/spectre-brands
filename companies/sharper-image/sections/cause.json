@@ -1,0 +1,28 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 40,
+   "title": "A one-product boom",
+   "text": "The air-purification line was 40.0% of revenue in fiscal 2004 and 23.4% two years later. By our calculation about $181M of the $235M fall in revenue over those two years came from that one line.[^1] (derived)"
+  },
+  {
+   "weight": 20,
+   "title": "Credibility lost in court",
+   "text": "Consumer Reports panned the Ionic Breeze in 2002 and 2003. The company’s suit was struck in November 2004, it paid $525,000 of the publisher’s costs, and five class actions over the purifier’s performance followed.[^1][^4][^5][^16]"
+  },
+  {
+   "weight": 20,
+   "title": "Nothing to replace it",
+   "text": "Massage chairs, its other big line, fell from 9.1% to 6.3% of revenue. Average store transactions fell from $151 to $98 and sales per square foot from $618 to $383 between fiscal 2004 and 2006.[^1] An analyst told the Los Angeles Times the company had nothing new “that people overwhelmingly feel like they really need to own.”[^3]"
+  },
+  {
+   "weight": 20,
+   "title": "Turmoil at the top",
+   "text": "A shareholder fight in 2006, the founder’s exit in September, an interim chief executive and a stock-option review that restated three years of results all came as sales were falling.[^2][^3] Sales fell another 26% in the next fiscal year.[^6]"
+  }
+ ],
+ "disclaimer": "The weights are our judgment of how much each factor contributed. Reasonable readers could weigh them differently."
+}

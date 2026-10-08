@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Don’t sue",
+   "actual": "Sharper Image sued Consumers Union over two reviews, lost, and paid $525,000 of its costs.[^4][^5]",
+   "whatif": "Without the lawsuit the reviews would still have existed, but there would have been no court finding against the company to report. It might have redesigned or repositioned the product instead of defending it."
+  },
+  {
+   "tab": "Diversify sooner",
+   "actual": "Air purifiers and massage chairs were nearly half of revenue in fiscal 2004; the company itself listed its dependence on them as a risk.[^1]",
+   "whatif": "Using the boom years’ profits, $21.0M in fiscal 2003 alone, to build more proprietary lines might have cushioned the fall. Whether any gadget could have matched the Ionic Breeze is unknowable.[^1]"
+  },
+  {
+   "tab": "Become a brand, not a chain",
+   "actual": "The stores were liquidated in 2008, while the name went on to sell for $65.65M in 2011 and $100M in 2016.[^11][^13][^14]",
+   "whatif": "The company had already started licensing its name before it failed.[^1] Closing most stores and leaning on the catalog, website and licences while it still had cash might have kept the company, not just the name, alive."
+  }
+ ]
+}

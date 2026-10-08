@@ -1,0 +1,14 @@
+<svg viewBox="0 0 440 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a mall shop window with a slim silver tower air purifier glowing blue, a massage chair and a small gadget on a plinth">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 290 H430"/>
+<rect x="30" y="40" width="380" height="250" fill="#eef1f4"/>
+<rect x="30" y="40" width="380" height="44" fill="#1f4e79"/>
+<path d="M120 62 H320" stroke="#ffffff" stroke-width="5"/>
+<rect x="50" y="100" width="340" height="170" fill="#e3f1fb"/>
+<rect x="110" y="120" width="40" height="140" rx="16" fill="#c9ced6"/>
+<rect class="screen" x="122" y="140" width="16" height="90" rx="8" fill="#6fb3e0"/>
+<path d="M118 260 H142"/>
+<path d="M210 260 V200 Q210 160 245 160 H270 Q290 160 290 185 V220 H330 V260 Z" fill="#2b2a28"/>
+<path d="M230 200 H280" stroke="#6b6660"/>
+<rect x="345" y="230" width="30" height="30" fill="#ffffff"/><circle cx="360" cy="216" r="12" fill="#c9ced6"/>
+</g></svg>

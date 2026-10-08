@@ -1,0 +1,74 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Licensed",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "Bought by Gordon Brothers and Hilco in 2008, by Iconix in 2011 for $65.65M, and by ThreeSixty Group in 2016 for $100M. In October 2026 sharperimage.com was selling gadgets under the name.[^11][^13][^14][^15]"
+  },
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The stores",
+   "text": "Going-out-of-business sales began on May 31, 2008, run by the Hilco and Gordon Brothers joint venture.[^11]"
+  },
+  {
+   "status": "Renamed",
+   "color": "var(--mute)",
+   "title": "The company",
+   "text": "The bankrupt company became TSIC, Inc. on July 17, 2008, and kept filing monthly operating reports with the SEC.[^12]"
+  },
+  {
+   "status": "Delisted",
+   "color": "var(--red)",
+   "title": "The shareholders",
+   "text": "Nasdaq suspended the shares on February 29, 2008 and moved to delist them in April.[^17]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "nodes": [
+    {
+     "when": "1977",
+     "owner": "Richard Thalheimer",
+     "what": "Founds the company.[^1][^3]"
+    },
+    {
+     "when": "1987",
+     "owner": "Public (Nasdaq: SHRP)",
+     "what": "Initial public offering.[^3]"
+    },
+    {
+     "when": "Feb 2008",
+     "owner": "Sharper Image, in Chapter 11",
+     "what": "Files in Delaware.[^7]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Jun 2008",
+     "owner": "Gordon Brothers and Hilco joint venture",
+     "what": "Buys the trade name, catalog, website and inventory.[^11]",
+     "price": "$49M base price"
+    },
+    {
+     "when": "Oct 2011",
+     "owner": "Iconix Brand Group",
+     "what": "Buys the trademark from Sharper Image Acquisition LLC.[^13]",
+     "price": "$65.65M"
+    },
+    {
+     "when": "Dec 2016",
+     "owner": "ThreeSixty Group",
+     "what": "Buys the brand from Iconix.[^14]",
+     "price": "$100M",
+     "status": "current"
+    }
+   ],
+   "source": "SEC filings of Sharper Image and Iconix.[^11][^13][^14] We could not confirm that ThreeSixty still owns the name in 2026."
+  }
+ ]
+}

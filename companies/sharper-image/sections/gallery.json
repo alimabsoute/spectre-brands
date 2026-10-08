@@ -1,0 +1,28 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Brushed metal and blue light",
+ "label": "Brand gallery",
+ "lede": "One freely licensed photograph of licensed Sharper Image products from Wikimedia Commons, and our own drawings. We found no freely licensed photograph of a company-run store. The drawings are original illustrations, not official artwork.",
+ "archive": [
+  {
+   "image": "img/ces-2012.avif",
+   "date": "Jan 2012",
+   "caption": "Sharper Image-branded speakers at CES, during the Iconix years.[^13]",
+   "alt": "Small portable speakers on white shelves",
+   "credit": "Photo: The Conmunity – Pop Culture Geek, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CES_2012_-_The_Sharper_Image_(6764179179).jpg), CC BY 2.0."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The store window.",
+   "caption": "184 stores at the bankruptcy filing.[^8] Original illustration."
+  },
+  {
+   "art": "art/purifier.svg",
+   "title": "The purifier and the review.",
+   "caption": "40.0% of revenue in fiscal 2004.[^1] Original illustration; the magazine is invented."
+  }
+ ],
+ "disclaimer": "Sharper Image is a trademark of its current owner; it appears here for commentary and historical record."
+}

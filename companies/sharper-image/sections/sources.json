@@ -1,0 +1,105 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Sharper Image was a public company from 1987 to 2008, so the numbers come from its SEC filings and press releases. The lawsuit comes from the court’s order and contemporary press; the later sales of the name from Iconix’s filings. Every link was opened while this page was researched.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Sharper Image Corporation, [annual report (Form 10-K) for the fiscal year ended January 31, 2007](https://www.sec.gov/Archives/edgar/data/811696/000119312507127055/d10k.htm), SEC EDGAR, filed May 31, 2007."
+  },
+  {
+   "id": 2,
+   "text": "Sharper Image Corporation, [current report (Form 8-K) on the departure of Richard Thalheimer](https://www.sec.gov/Archives/edgar/data/811696/000119312506200134/d8k.htm), SEC EDGAR, filed Sep 29, 2006."
+  },
+  {
+   "id": 3,
+   "text": "Alana Semuels, [“Sharper Image CEO, Founder Is Ousted”](https://www.latimes.com/archives/la-xpm-2006-sep-27-fi-sharp27-story.html), Los Angeles Times, Sep 27, 2006."
+  },
+  {
+   "id": 4,
+   "text": "Bloomberg News, [“Sharper Image Suit Is Tossed”](https://www.latimes.com/archives/la-xpm-2004-nov-11-fi-sharper11-story.html), Los Angeles Times, Nov 11, 2004."
+  },
+  {
+   "id": 5,
+   "text": "[“Sharper Image Drops Lawsuit Against Consumers Union”](https://www.buildinggreen.com/news-analysis/sharper-image-drops-lawsuit-against-consumers-union), BuildingGreen (Environmental Building News), Sep 1, 2005."
+  },
+  {
+   "id": 6,
+   "text": "Sharper Image Corporation, [“Sharper Image Reports January Sales”](https://www.sec.gov/Archives/edgar/data/811696/000118143108008592/rrd194392_23252.htm), press release (8-K exhibit 99.1), Feb 7, 2008."
+  },
+  {
+   "id": 7,
+   "text": "Sharper Image Corporation, [current report (Form 8-K) on the Chapter 11 filing](https://www.sec.gov/Archives/edgar/data/811696/000118143108012416/rrd196043.htm), SEC EDGAR, filed Feb 21, 2008."
+  },
+  {
+   "id": 8,
+   "text": "Sharper Image Corporation, [“Sharper Image Corporation Files for Bankruptcy Court Protection”](https://www.sec.gov/Archives/edgar/data/811696/000118143108012416/rrd196043_23454.htm), press release (8-K exhibit 99.1), Feb 20, 2008."
+  },
+  {
+   "id": 9,
+   "text": "Sharper Image Corporation, [current report (Form 8-K) on the Nasdaq delisting notice](https://www.sec.gov/Archives/edgar/data/811696/000118143108013421/rrd196641.htm), SEC EDGAR, filed Feb 26, 2008."
+  },
+  {
+   "id": 10,
+   "text": "Sharper Image Corporation, [current report (Form 8-K) on the asset purchase agreement with the Hilco/Gordon Brothers joint venture](https://www.sec.gov/Archives/edgar/data/811696/000090951808000461/mm05-1908_8k.htm), SEC EDGAR, filed May 20, 2008."
+  },
+  {
+   "id": 11,
+   "text": "Sharper Image Corporation, [current report (Form 8-K) on the completed sale of substantially all assets](https://www.sec.gov/Archives/edgar/data/811696/000090951808000539/mm06-1108_8k.htm), SEC EDGAR, filed Jun 11, 2008."
+  },
+  {
+   "id": 12,
+   "text": "TSIC, Inc. (f/k/a The Sharper Image Corporation), [current report (Form 8-K) on the change of name](https://www.sec.gov/Archives/edgar/data/811696/000090951808000618/mm07-2108_8k.htm), SEC EDGAR, filed Jul 21, 2008."
+  },
+  {
+   "id": 13,
+   "text": "Iconix Brand Group, [current report (Form 8-K) on the acquisition of the Sharper Image brand](https://www.sec.gov/Archives/edgar/data/857737/000114420411059809/v238348_8k.htm), SEC EDGAR, filed Oct 27, 2011."
+  },
+  {
+   "id": 14,
+   "text": "Iconix Brand Group, [“Iconix Brand Group Announces Agreement to Divest Sharper Image Brand”](https://www.sec.gov/Archives/edgar/data/857737/000095012716000100/a16-21_ex99point1.htm), press release (8-K exhibit 99.1), Dec 30, 2016."
+  },
+  {
+   "id": 15,
+   "text": "[sharperimage.com](https://www.sharperimage.com/), home page titled “Sharper Image® | Electronics, Gadgets & Gifts for Men,” loaded Oct 8, 2026."
+  },
+  {
+   "id": 16,
+   "text": "[Sharper Image Corporation v. Consumers Union of United States](https://en.wikisource.org/wiki/Sharper_Image_Corporation_v._Consumers_Union_of_United_States), order granting special motion to strike, U.S. District Court for the Northern District of California, Nov 9, 2004 (text on Wikisource)."
+  },
+  {
+   "id": 17,
+   "text": "Sharper Image Corporation, [current report (Form 8-K) on the Nasdaq delisting](https://www.sec.gov/Archives/edgar/data/811696/000118143108024093/rrd202315.htm), SEC EDGAR, filed Apr 7, 2008."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "Air-purifier revenue is the disclosed share times total revenue: 40.0% × $760.0M ≈ $304M (fiscal 2004); 27.7% × $669.0M ≈ $185M (2005); 23.4% × $525.3M ≈ $123M (2006). The fall of about $181M compares with a total revenue fall of $234.8M. Because the shares are rounded, these are approximations.[^1]"
+  },
+  {
+   "label": "Restated",
+   "text": "The fiscal 2006 annual report restated earlier years after a stock-option review. The Los Angeles Times, before the restatement, gave a fiscal 2005 net loss of $15.6M; we use the restated $16.1M.[^1][^3]"
+  },
+  {
+   "label": "Two measures",
+   "text": "The fiscal 2007 figure ($374.9M) is “total company sales” from a press release; the company’s annual reports use revenue, which is slightly higher ($525.3M against $506.7M of sales for fiscal 2006).[^1][^6] The company filed no annual report for fiscal 2007."
+  },
+  {
+   "label": "Conflicts",
+   "text": "The court’s order is dated November 9, 2004; the Los Angeles Times reported the ruling as Wednesday, November 10.[^4][^16] The Times’s infobox gives 1972 as the founding year; the company’s own filings say 1977, which we use.[^1][^3]"
+  },
+  {
+   "label": "Unknown",
+   "text": "The date the last store closed, what creditors recovered, and who owns the name in 2026. Press reports describe a separate licence for the catalog and website held by another company after 2009; we could not confirm it from a primary source and leave it out."
+  },
+  {
+   "label": "Videos",
+   "text": "Air dates of the commercials are the uploaders’. The retrospective is embedded as commentary; no figure here is taken from it."
+  },
+  {
+   "label": "Images",
+   "text": "The photograph is from Wikimedia Commons under the licence in its credit. A Commons photo labelled “The Sharper Image” in Vanuatu shows an unrelated shop and is not used. Drawings are original."
+  }
+ ]
+}

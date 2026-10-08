@@ -1,0 +1,61 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Two-minute spots for silent air",
+ "lede": "Sharper Image sold the Ionic Breeze with long-form infomercials and two-minute spots. These are uploads by collectors of old television, plus wire-service news of the bankruptcy and one retrospective. Where a date comes only from the uploader, the caption says so.",
+ "videos": [
+  {
+   "id": "q-ball",
+   "title": "Sharper Image “Q-Ball” commercial",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "PRQik2pfQ8o",
+   "caption": "A gadget spot from the catalog years. The date (“ca. 1999”) is the uploader’s."
+  },
+  {
+   "id": "infomercial",
+   "title": "The Sharper Image Ionic Breeze infomercial (full)",
+   "year": 2001,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "UaUr_2bg6c4",
+   "caption": "A half-hour infomercial for the purifier that would become 40% of revenue by fiscal 2004.[^1] The 2001 date is the uploader’s."
+  },
+  {
+   "id": "quadra2004",
+   "title": "Ionic Breeze Quadra two-minute spot",
+   "year": 2004,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "i6xkxi1CrKo",
+   "caption": "A two-minute spot from the peak year. The 2004 date is the uploader’s."
+  },
+  {
+   "id": "quadra2006",
+   "title": "Ionic Breeze Quadra commercial, September 2006",
+   "year": 2006,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "jHqDencYglQ",
+   "caption": "The uploader dates this airing to September 25, 2006, the day Richard Thalheimer left the company.[^2] We have not verified the air date."
+  },
+  {
+   "id": "ap2008",
+   "title": "AP Money Minute: Sharper Image goes belly up",
+   "year": 2008,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "V2XZyH1Ai7E",
+   "caption": "Associated Press video on the February 2008 bankruptcy filing.[^7]"
+  },
+  {
+   "id": "retro",
+   "title": "Do you remember The Sharper Image? The rise and fall",
+   "year": 2021,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "JrnGiqBWOEg",
+   "caption": "A fan retrospective, embedded as commentary; no figure on this page is taken from it. The year is approximate, from the upload age YouTube shows."
+  }
+ ]
+}
