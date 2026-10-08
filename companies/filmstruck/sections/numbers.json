@@ -1,0 +1,316 @@
+{
+ "kicker": "The money",
+ "title": "A business without published numbers",
+ "lede": "FilmStruck was a small line inside Turner, which was a division of Time Warner and then of AT&T. None of them reported its subscribers, revenue or costs. What follows is what can be counted: films, prices, signatures, and the size of the company that closed it.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "The catalog: built for two years, gone in a day",
+   "subtitle": "Films available on the U.S. service, as the press reported them. The counts come from different outlets and are not measured the same way.",
+   "labels": [
+    "Apr 2016",
+    "Oct 2016",
+    "Nov 2016",
+    "Early 2018",
+    "Feb 2018",
+    "Oct 2018",
+    "Nov 30, 2018"
+   ],
+   "format": "num",
+   "xLabel": "Date of the report (not evenly spaced)",
+   "series": [
+    {
+     "label": "Films",
+     "data": [
+      0,
+      900,
+      1100,
+      1200,
+      1800,
+      1800,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 1,
+     "title": "the plan",
+     "text": "“More than 900” films promised for the base service two weeks before launch.[^5]"
+    },
+    {
+     "i": 2,
+     "title": "launch",
+     "text": "“More than 1,100” in the complete collection on opening day, by The Verge’s report.[^7]"
+    },
+    {
+     "i": 4,
+     "title": "Warner Bros.",
+     "text": "More than 600 studio classics a month take the lineup past 1,800.[^12]"
+    },
+    {
+     "i": 5,
+     "title": "the announcement",
+     "text": "“Some 1,800” films when the closure is announced.[^19]"
+    },
+    {
+     "i": 6,
+     "title": "dark",
+     "text": "The streams stop the morning after the last day of service.[^33]"
+    }
+   ],
+   "source": "April 2016 is the announcement, before any film was available.[^1] 900: Multichannel News.[^5] 1,100: The Verge.[^7] “Around 1,200 when it first launched” and “more than 1,800”: Variety, February 2018; we place the 1,200 just before the Warner Bros. deal.[^12] “Some 1,800”: Variety, October 2018.[^19] Zero: the service ended.[^19][^33]"
+  },
+  {
+   "kind": "chart",
+   "id": "fsPrices",
+   "title": "What it cost, beside what came before and after",
+   "subtitle": "U.S. monthly prices in dollars, as reported at each service’s launch or closure.",
+   "chart": {
+    "type": "bar",
+    "height": 340,
+    "legend": false,
+    "labels": [
+     "MUBI (2016)",
+     "FilmStruck",
+     "FilmStruck annual, per month",
+     "Warner Archive",
+     "FilmStruck + Criterion",
+     "Criterion Channel, charter (2019)",
+     "Criterion Channel (2019)",
+     "HBO Max (2020)"
+    ],
+    "y": {
+     "format": "usd2",
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Monthly price ($)",
+      "data": [
+       4.99,
+       6.99,
+       8.25,
+       9.99,
+       10.99,
+       9.99,
+       10.99,
+       14.99
+      ],
+      "colors": [
+       "grey",
+       "brand",
+       "brand",
+       "grey",
+       "brand",
+       "green",
+       "green",
+       "blue"
+      ]
+     }
+    ]
+   },
+   "source": "MUBI, as The Verge described it in November 2016.[^7] FilmStruck tiers.[^4] The annual plan was $99; $8.25 a month is derived ($99 ÷ 12).[^4] Warner Archive’s price when it closed in February 2018.[^12] Criterion Channel prices.[^35] HBO Max at launch.[^37] The British FilmStruck Curzon cost £5.99 a month and is left off because it was priced in pounds.[^11]"
+  },
+  {
+   "kind": "scale",
+   "title": "A year for the price of nine months",
+   "icon": "ticket",
+   "count": 9,
+   "left": {
+    "value": "$99",
+    "label": "a year of FilmStruck with the Criterion Channel[^4]"
+   },
+   "unit": {
+    "value": "$10.99",
+    "label": "one month on the monthly plan"
+   },
+   "per": "one month at $10.99",
+   "equation": "$99 ÷ $10.99 ≈ 9.0. Paying monthly for a year would have cost $131.88, so the annual plan saved $32.88. Both prices are from Variety.[^4]"
+  },
+  {
+   "kind": "waffle",
+   "title": "What the Warner Bros. deal added",
+   "subtitle": "Share of the roughly 1,800 films a month on the U.S. service after February 26, 2018 (derived).",
+   "format": "pct",
+   "itemLabel": "Source of the films",
+   "valueLabel": "Share of the lineup",
+   "items": [
+    {
+     "label": "Warner Bros. classics",
+     "value": 33,
+     "note": "more than 600 films a month",
+     "color": "brand"
+    },
+    {
+     "label": "Everything else",
+     "value": 67,
+     "note": "about 1,200: Criterion, Janus and other licensed libraries",
+     "color": "grey"
+    }
+   ],
+   "source": "Variety, February 26, 2018: “more than 600 classic Hollywood films each month” and a lineup of “more than 1,800 movies per month, up from around 1,200.”[^12] The shares are derived, 600 ÷ 1,800 and 1,200 ÷ 1,800, and are approximate because both figures are lower bounds."
+  },
+  {
+   "kind": "bars",
+   "title": "How small was niche?",
+   "subtitle": "People, on four different measures. FilmStruck’s bar is an outside estimate; the owners never published a figure.",
+   "format": "num",
+   "itemLabel": "Measure",
+   "valueLabel": "People",
+   "items": [
+    {
+     "label": "Netflix subscribers, late 2018",
+     "value": 137000000,
+     "display": "about 137 million",
+     "color": "grey",
+     "note": "As The Ringer put it: “in the neighborhood of 137 million”[^31]"
+    },
+    {
+     "label": "Americans aged 18–49 Turner thought would be interested",
+     "value": 15000000,
+     "display": "15 million",
+     "color": "blue",
+     "note": "Turner’s own estimate from a 2016 survey of 2,000 film fans[^4]"
+    },
+    {
+     "label": "Petition signatures, read Oct 8, 2026",
+     "value": 106696,
+     "display": "106,696",
+     "color": "gold",
+     "note": "“Keep FilmStruck Alive,” Change.org[^25]"
+    },
+    {
+     "label": "FilmStruck subscribers (estimate)",
+     "value": 100000,
+     "display": "100,000 (estimate)",
+     "color": "brand",
+     "self": true,
+     "note": "Los Angeles Times, November 2018[^23]"
+    }
+   ],
+   "source": "The Ringer[^31], Variety[^4], Change.org[^25] and the Los Angeles Times.[^23] On these figures the estimated subscriber base was under 1% of the audience Turner had projected (derived: 100,000 ÷ 15,000,000 ≈ 0.7%), and Netflix was about 1,370 times larger (derived)."
+  },
+  {
+   "kind": "chart",
+   "id": "fsPetition",
+   "title": "The petition, signature by signature",
+   "subtitle": "“Keep FilmStruck Alive” on Change.org, at the counts the press reported and the count on the page today.",
+   "chart": {
+    "type": "bar",
+    "height": 320,
+    "legend": false,
+    "labels": [
+     "Oct 30, 2018",
+     "Nov 1",
+     "Nov 9",
+     "Nov 15",
+     "Nov 16",
+     "Oct 8, 2026"
+    ],
+    "y": {
+     "format": "num",
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Signatures",
+      "data": [
+       5000,
+       11000,
+       40000,
+       50000,
+       55000,
+       106696
+      ],
+      "colors": [
+       "grey",
+       "grey",
+       "grey",
+       "grey",
+       "brand",
+       "gold"
+      ]
+     }
+    ]
+   },
+   "source": "5,000 “two days ago” and “over 11,000”: Paste, November 1.[^21] “Over 40,000”: Variety, November 9.[^24] “Over 50,000”: /Film, November 15.[^27] “More than 55,000”: The Hollywood Reporter, November 16.[^30] 106,696: the petition page as we read it on October 8, 2026.[^25] The first five are lower bounds as reported, not exact counts. The petition was created on October 26, 2018, according to the date in the page’s data.[^25]"
+  },
+  {
+   "kind": "flow",
+   "title": "What AT&T paid Time Warner’s shareholders",
+   "subtitle": "Implied value of the consideration at the closing price on June 14, 2018, $ billions.",
+   "format": {
+    "pre": "$",
+    "suf": "B",
+    "dec": 1
+   },
+   "from": {
+    "label": "Implied value",
+    "value": 81.0
+   },
+   "to": [
+    {
+     "label": "AT&T common stock",
+     "value": 38.5,
+     "color": "blue",
+     "note": "about 1.185 billion shares at $32.52[^15]"
+    },
+    {
+     "label": "Cash",
+     "value": 42.5,
+     "color": "brand",
+     "note": "$53.75 a share[^15]"
+    }
+   ],
+   "source": "AT&T Inc., Form 8-K filed June 15, 2018.[^15] This is the consideration paid to shareholders only. The Los Angeles Times described the deal as an “$85.4-billion merger”; the two figures measure different things and we have not reconciled them.[^22]"
+  },
+  {
+   "kind": "counters",
+   "title": "The company FilmStruck ended up inside",
+   "items": [
+    {
+     "value": "$31B",
+     "text": "and more in 2017 revenue for HBO, Turner and Warner Bros. together, by AT&T’s account[^16]"
+    },
+    {
+     "value": "170M",
+     "text": "and more direct-to-consumer relationships AT&T claimed on the day the deal closed[^16]"
+    },
+    {
+     "value": "$13.2M",
+     "text": "a year at most from 100,000 subscribers at $10.99 a month: an illustration built on an estimate, not a reported figure (derived)[^4][^23]"
+    },
+    {
+     "value": "0.04%",
+     "text": "what that would be of the media business’s 2017 revenue (derived)[^16]"
+    }
+   ],
+   "source": "AT&T press release on the completion of the merger.[^16] The last two counters are derived: 100,000 × $10.99 × 12 = $13.19M, and $13.19M ÷ $31,000M ≈ 0.04%. They assume the Los Angeles Times estimate was right[^23] and that every subscriber paid the top monthly price[^4], so they are a ceiling on U.S. subscription revenue under that estimate, not a measurement."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "What the owners said about the money",
+   "rows": [
+    {
+     "value": "“Niche”",
+     "text": "the word Turner’s general manager used for the opportunity in 2016, and the owners used for the problem in 2018[^5][^19]"
+    },
+    {
+     "value": "Declined",
+     "text": "to disclose subscribers in February 2018 and October 2018[^12][^19]"
+    },
+    {
+     "value": "“Sub-scale”",
+     "text": "AT&T’s term, sixteen days before the closure, for the direct-to-consumer efforts whose resources it would consolidate[^17]"
+    },
+    {
+     "value": "Not enough",
+     "text": "to be profitable, Turner executives said of 100,000 subscribers, according to a Los Angeles Times columnist[^22]"
+    }
+   ],
+   "source": "Multichannel News[^5], Variety[^12][^19], AT&T’s Form 8-K of October 10, 2018[^17] and the Los Angeles Times.[^22]"
+  }
+ ]
+}

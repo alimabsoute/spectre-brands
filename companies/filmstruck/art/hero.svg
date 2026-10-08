@@ -1,0 +1,24 @@
+<svg viewBox="0 0 420 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a laptop on a desk streaming a black-and-white film scene of a figure under a street lamp, with a reel of film unspooling beside it">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M14 336 H406" fill="none"/>
+<rect x="70" y="70" width="250" height="170" rx="10" fill="#2a2724"/>
+<rect class="screen" x="86" y="86" width="218" height="138" fill="#e9e6df"/>
+<path d="M86 196 H304 V224 H86 Z" fill="#b9b4a9"/>
+<path d="M232 100 V196 M232 100 h22" fill="none"/>
+<path d="M246 104 h18 l-4 12 h-10 Z" fill="#f6d04d"/>
+<path d="M236 118 L214 196 H286 L266 118" fill="#fbf9f5" stroke="none" opacity=".7"/>
+<circle cx="170" cy="150" r="10" fill="#2a2724"/>
+<path d="M156 196 l6 -32 h16 l8 32 Z" fill="#2a2724"/>
+<path d="M152 142 h36 M160 142 l4 -10 h12 l4 10" fill="#2a2724"/>
+<path d="M86 96 H304 M86 214 H304" fill="none" stroke="#2a2724" stroke-width="10"/>
+<path d="M44 262 H346 L320 240 H70 Z" fill="#c9c4bb"/>
+<path d="M44 262 H346 v10 a8 8 0 0 1 -8 8 H52 a8 8 0 0 1 -8 -8 Z" fill="#9a9184"/>
+<path d="M160 251 h70" fill="none" stroke-width="5"/>
+<g class="spin" style="transform-origin:356px 296px">
+<circle cx="356" cy="296" r="38" fill="#c41538"/>
+<circle cx="356" cy="296" r="7" fill="#fbf9f5"/>
+<g fill="#fbf9f5"><circle cx="356" cy="274" r="8"/><circle cx="375" cy="307" r="8"/><circle cx="337" cy="307" r="8"/></g>
+</g>
+<path d="M330 324 C300 356 240 318 200 340 C170 356 130 330 96 344" fill="none" stroke-width="9"/>
+<path d="M330 324 C300 356 240 318 200 340 C170 356 130 330 96 344" fill="none" stroke="#5a5650" stroke-width="4" stroke-dasharray="2 9"/>
+</g></svg>

@@ -1,0 +1,74 @@
+{
+ "kicker": "The old website",
+ "title": "filmstruck.com, from “Coming Soon” to “now closed”",
+ "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. The archive’s index listed no successfully saved copy of the home page between September 2017 and December 2018 when we searched it.[^39]",
+ "snips": [
+  {
+   "text": "“**For Film Lovers. By Film Lovers.**”",
+   "when": "filmstruck.com · Apr 28, 2016[^39]"
+  },
+  {
+   "text": "“Exclusive streaming home of The Criterion Collection.” “Shown commercial-free and as the director intended.”",
+   "when": "filmstruck.com · Apr 28, 2016[^39]"
+  },
+  {
+   "text": "“**The largest library of indie films available anywhere.**”",
+   "when": "filmstruck.com · Apr 18, 2017[^39]"
+  },
+  {
+   "text": "“We regret to inform you that FilmStruck is now closed. Our last day of service was November 29, 2018.”",
+   "when": "filmstruck.com · Dec 7, 2018[^39]"
+  },
+  {
+   "text": "“FilmStruck was truly a labor of love, and in a world with an abundance of entertainment options – THANK YOU for choosing us.”",
+   "when": "filmstruck.com · Dec 7, 2018[^39]"
+  }
+ ],
+ "note": "Film stills inside the screenshots belong to their rights holders and appear only as part of the archived pages.",
+ "captures": [
+  {
+   "date": "Apr 2016",
+   "label": "Coming Soon",
+   "url": "http://filmstruck.com/",
+   "wayback": "https://web.archive.org/web/20160428020642/http://filmstruck.com:80/",
+   "image": "img/archive-2016-04-teaser.avif",
+   "h": 440,
+   "captured": "Apr 28, 2016",
+   "title": "Two days after the announcement",
+   "text": "A holding page with an email box, a 60-second trailer and four promises: watch anywhere, the exclusive streaming home of the Criterion Collection, rare footage and special features, and no commercials.[^39]"
+  },
+  {
+   "date": "Nov 2016",
+   "label": "Launch week",
+   "url": "http://www.filmstruck.com/",
+   "wayback": "https://web.archive.org/web/20161104040115/http://www.filmstruck.com/",
+   "image": "img/archive-2016-11-launch.avif",
+   "h": 560,
+   "captured": "Nov 4, 2016",
+   "title": "Three days after opening",
+   "text": "“Hard to find films at your fingertips,” a 14-day free trial, and Amazon Fire TV and Apple TV logos in the how-to-watch panel. The Criterion Channel is offered as an add-on a week before the library leaves Hulu.[^3][^39]"
+  },
+  {
+   "date": "Apr 2017",
+   "label": "Exclusive home",
+   "url": "https://www.filmstruck.com/",
+   "wayback": "https://web.archive.org/web/20170418172151/https://www.filmstruck.com/",
+   "image": "img/archive-2017-04-home.avif",
+   "h": 560,
+   "captured": "Apr 18, 2017",
+   "title": "A redesigned front page",
+   "text": "Criterion’s mark leads the page, above a menu of Films, Directors, Ways to Watch and Pricing & Plans. Three months later The Verge published its complaint about the site.[^39][^9]"
+  },
+  {
+   "date": "Dec 2018",
+   "label": "Closed",
+   "url": "https://www.filmstruck.com/",
+   "wayback": "https://web.archive.org/web/20181207134858/https://www.filmstruck.com/",
+   "image": "img/archive-2018-12-closed.avif",
+   "h": 420,
+   "captured": "Dec 7, 2018",
+   "title": "Eight days after the end",
+   "text": "A single box on a black page, a link to the FAQs and a thank-you. By October 2026 the address forwarded to tcm.com.[^39]"
+  }
+ ]
+}

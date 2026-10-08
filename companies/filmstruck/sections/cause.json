@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 40,
+   "title": "A new owner that wanted scale",
+   "text": "AT&T completed its purchase of Time Warner on June 14, 2018. Its chief at WarnerMedia told staff the company needed viewers for “hours a day,” and on October 10 it told the SEC it would fund a large streaming service partly by “consolidating resources from sub-scale D2C efforts.” FilmStruck’s closure was announced sixteen days later, in a statement that called it “largely a niche service.”[^15][^17][^19][^22]"
+  },
+  {
+   "weight": 25,
+   "title": "Too few subscribers to argue with",
+   "text": "No figure was ever published. The Los Angeles Times estimated 100,000 subscribers, against Turner’s own 2016 estimate of 15 million interested Americans, and a columnist there reported Turner executives saying that was not enough to be profitable. Deadline called it “a small but dedicated pool of subscribers.”[^4][^22][^23][^28]"
+  },
+  {
+   "weight": 15,
+   "title": "Consolidation that had already begun",
+   "text": "Before AT&T arrived, Time Warner was already merging its small streaming services: Warner Archive was closed into FilmStruck in February 2018. Variety reported that two sources said the decision to close FilmStruck itself was made before the AT&T deal completed. DramaFever and Super Deluxe went in the same month.[^12][^18][^19]"
+  },
+  {
+   "weight": 10,
+   "title": "A library it did not own",
+   "text": "The heart of the premium tier belonged to Criterion and Janus Films, and the base service was licensed from some 30 distributors. Within three weeks of the closure Criterion announced it would take its channel elsewhere, “wholly owned and controlled by the Criterion Collection.” What FilmStruck owned outright was a name, an app and its programming.[^1][^5][^29]"
+  },
+  {
+   "weight": 10,
+   "title": "A crowded market and a rough product",
+   "text": "The base tier cost a dollar less than Netflix’s cheapest plan and had to be bought on top of it. Variety listed Netflix, Hulu, Amazon, Fandor and Tribeca Shortlist as competition on the day the prices were set. The website used a Flash player and drew a full-length complaint from The Verge.[^4][^8][^9]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. FilmStruck’s owners never published its subscribers, revenue or costs, so the case that it could not pay its way rests on one newspaper estimate and unnamed executives. How much the closure owed to AT&T and how much to decisions already made inside Time Warner is disputed in our sources."
+}

@@ -1,0 +1,60 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "FilmStruck is a terrific example of our strategy to meet consumer demand for great content across all screens.",
+   "who": "**John Martin**, chairman and CEO of Turner, press release, Apr 2016[^1]"
+  },
+  {
+   "q": "We’ve had a great five years at Hulu, but the opportunity to build our own channel with the help of an incredible team like the one at TCM is a dream come true for our company.",
+   "who": "**The Criterion Collection**, The Current, Oct 2016[^3]"
+  },
+  {
+   "q": "This is a new way for us to experiment and maybe take some risks that I wouldn’t want to take with a gem of a treasured brand such as TCM.",
+   "who": "**Jennifer Dorian**, Multichannel News, Oct 17, 2016[^5]"
+  },
+  {
+   "q": "A new generation of film nerds will be raised on it.",
+   "who": "**The Guardian**, on the British launch, Feb 18, 2018[^11]"
+  },
+  {
+   "q": "But after sitting down and looking at it, rather than having two overlapping services going after the same audience, we decided to combine them.",
+   "who": "**Craig Hunegs**, on closing Warner Archive into FilmStruck, Variety, Feb 26, 2018[^12]"
+  },
+  {
+   "q": "While FilmStruck has a very loyal fanbase, it remains largely a niche service.",
+   "who": "**Turner and Warner Bros. Digital Networks**, statement, Oct 26, 2018[^19]",
+   "big": true
+  },
+  {
+   "q": "Like many of you, we are disappointed by this decision.",
+   "who": "**The Criterion Collection**, The Current, Oct 26, 2018[^20]"
+  },
+  {
+   "q": "The closing of FilmStruck is a bracing reminder that corporations have no particular commitment to art, even when they own it.",
+   "who": "**Akiva Gottlieb**, Los Angeles Times, Nov 3, 2018[^23]"
+  },
+  {
+   "q": "FilmStruck is not just a niche market, it is a massive archive dedicated to keeping art of the past alive, much in the way a museum keeps artists from centuries ago alive.",
+   "who": "**Kevin Bahr**, “Keep FilmStruck Alive,” Change.org[^25]"
+  },
+  {
+   "q": "The FilmStruck service was (IS) the best streaming service for fans of cinema of all kinds: classic studio movies, independent cinema, international treasures.",
+   "who": "**Paul Thomas Anderson, Christopher Nolan, Barbra Streisand and 18 others**, letter to Toby Emmerich, published by Deadline, Nov 14, 2018[^26]",
+   "big": true
+  },
+  {
+   "q": "I don’t know if it will do anything, but we have to at least try.",
+   "who": "**Barry Jenkins**, The Hollywood Reporter, Nov 16, 2018[^30]"
+  },
+  {
+   "q": "FilmStruck was a niche service. It never tried to be anything but.",
+   "who": "**Keith Phipps**, The Ringer, Nov 28, 2018[^31]"
+  },
+  {
+   "q": "But it still stung when faced with the reality that, at the push of a button, a corporation could make our Ozu disappear.",
+   "who": "**Michael Koresky**, Film Comment, January–February 2019[^33]"
+  }
+ ]
+}

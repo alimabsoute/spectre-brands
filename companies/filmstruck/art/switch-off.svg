@@ -1,0 +1,17 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a television on a stand showing a black screen with a small white notice box, its power plug pulled out of the wall socket">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 276 H430" fill="none"/>
+<rect x="50" y="40" width="270" height="180" rx="8" fill="#2a2724"/>
+<rect x="64" y="54" width="242" height="152" fill="#0f0e0d"/>
+<rect x="104" y="86" width="162" height="82" fill="none" stroke="#fbf9f5" stroke-width="2"/>
+<g fill="none" stroke="#fbf9f5" stroke-width="3"><path d="M122 106 h126 M134 120 h102"/></g>
+<rect x="160" y="134" width="50" height="16" rx="4" fill="#c41538" stroke="none"/>
+<path d="M150 220 l-14 40 h98 l-14 -40" fill="#9a9184"/>
+<path d="M112 262 H258" fill="none" stroke-width="7"/>
+<rect x="376" y="96" width="44" height="64" rx="6" fill="#fbf9f5"/>
+<path d="M392 116 v12 M404 116 v12 M398 140 v6" fill="none"/>
+<path d="M320 190 C352 200 330 252 356 250 C378 248 366 210 372 196" fill="none" stroke-width="4"/>
+<rect x="360" y="176" width="26" height="22" rx="4" fill="#c9c4bb" transform="rotate(-18 373 187)"/>
+<path d="M374 172 l4 -12 M384 176 l4 -12" fill="none"/>
+<g fill="none" stroke="#c41538" stroke-width="2.5"><path d="M352 138 l-10 -8 M350 152 h-14 M356 166 l-10 8"/></g>
+</g></svg>

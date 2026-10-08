@@ -1,0 +1,92 @@
+{
+ "kicker": "The story",
+ "title": "Two years, one month and a great many letters",
+ "lede": "FilmStruck is unusual among the brands on this site: almost nobody who used it has a bad word for the product. The argument was over whether a company the size of AT&T had any use for something that small.",
+ "chapters": [
+  {
+   "when": "Apr 2016 · The announcement",
+   "title": "The films the big services were dropping",
+   "big": "1,000+",
+   "cap": "films from the Janus library promised to the Criterion Channel",
+   "color": "#c41538",
+   "body": "On April 26, 2016 Turner, then a division of Time Warner, announced what it called its “first direct-to-consumer product in the U.S.”: a subscription service named FilmStruck, to be “developed and managed by Turner Classic Movies (TCM) in collaboration with the Criterion Collection” and launched that fall.[^1][^2] It would carry no advertising. The films would come from independent libraries such as Janus Films, Flicker Alley, Icarus, Kino, Milestone and Zeitgeist, and from major studios including Warner Bros.[^1]\n\nThe other half of the announcement was Criterion. The company had streamed its library on Hulu for five years. From November 11 FilmStruck would be its exclusive streaming home, and a premium tier called the Criterion Channel, programmed by Criterion’s own staff, would offer what its president Peter Becker described as “continual access to more than 1,000 films from the Janus Films library.”[^1][^3]\n\nThere was a gap to fill. TechCrunch, citing a report from the site AllFlicks, wrote that the number of films in Netflix’s catalog had fallen by 33 percent in two years.[^8] Turner had commissioned a survey of 2,000 film fans and drew from it an estimate of 15 million Americans aged 18 to 49 who would be interested in such a service.[^4] Jennifer Dorian, the general manager of TCM and FilmStruck, said the cable channel itself was “doing well and thriving” and that the new service was a way “to experiment and maybe take some risks.”[^5]",
+   "pull": {
+    "text": "The economics work for streaming to niche audiences, so we were thinking that art house, independent cinema is a niche that’s underserved and we could be the home for it.",
+    "who": "Jennifer Dorian, general manager of TCM and FilmStruck, Multichannel News, Oct 17, 2016[^5]"
+   },
+   "image": {
+    "image": "img/archive-2016-04-teaser.avif",
+    "caption": "filmstruck.com as the Internet Archive saved it on April 28, 2016, two days after the announcement: “Coming Soon...” and “For Film Lovers. By Film Lovers.”[^39]",
+    "alt": "The FilmStruck holding page of April 2016 with an email sign-up box over a black-and-white film still"
+   }
+  },
+  {
+   "when": "Oct – Nov 2016 · Launch",
+   "title": "Two tiers, and a two-week delay",
+   "big": "$6.99",
+   "cap": "a month for the base service; $10.99 with the Criterion Channel",
+   "color": "#16161A",
+   "body": "On October 6 Turner set the launch for October 19 and gave the prices: $6.99 a month for FilmStruck, $10.99 a month for FilmStruck with the Criterion Channel, and $99 a year for both.[^4] The annual plan cost about the same as nine months paid monthly (derived).[^4] The day before the launch date, Turner postponed it to November to, in its words, “complete a seamless registration process for subscribers.”[^6][^3]\n\nThe service opened on November 1, 2016 with a 14-day free trial.[^7][^8] It ran on the web, on phones, on Amazon Fire TV and on the fourth-generation Apple TV, with Chromecast and Roku promised.[^8] The Verge reported a complete collection of more than 1,100 films; TechCrunch put the Criterion Channel alone at 1,200 titles.[^7][^8]\n\nThe price drew comment from the first day. TechCrunch noted that the entry tier was “only a dollar less than Netflix’s cheapest “Basic” plan,” on top of whatever a film fan already paid for other services. The Verge compared it with MUBI, which offered a rotating set of 30 films for $4.99 a month.[^7][^8]\n\nThe films were praised. The website was not. In July 2017 a Verge writer at the end of his free trial listed a Flash video player, a login button that vanished in narrow windows and a catalog with no single list of every film, under the headline “The world’s greatest movies are trapped on a terrible website.”[^9]",
+   "pull": {
+    "text": "At the same time, the website is genuinely terrible. It’s clumsy, frustrating, unintuitive — everything the movies aren’t.",
+    "who": "Russell Brandom, The Verge, Jul 7, 2017[^9]"
+   },
+   "video": "trial"
+  },
+  {
+   "when": "Jan – Jun 2018 · Growth",
+   "title": "Casablanca arrives, and so does Europe",
+   "big": "1,800",
+   "cap": "films a month after the Warner Bros. deal, up from about 1,200 at launch",
+   "color": "#8A6212",
+   "body": "In 2018 Time Warner put more of itself behind the service. On January 19 Turner International and Warner Bros. Digital Networks said they would take FilmStruck abroad, starting in Britain as FilmStruck Curzon, with more markets to follow “over the next two years.”[^10] The British version opened in February at £5.99 a month with just over 160 titles, 34 of them from Criterion.[^11] France and Spain were announced in May and launched in June.[^14][^19]\n\nOn February 26 the American service got the films its users had asked for most. Warner Bros. agreed to supply more than 600 classic Hollywood films each month, among them Casablanca, Citizen Kane and Singin’ in the Rain, and closed its own Warner Archive streaming service, which had launched in 2013 at $9.99 a month. Its customers were moved to FilmStruck. The lineup grew to more than 1,800 films a month from about 1,200 at launch, and the price stayed where it was.[^12][^13] A monthly feature called TCM Select added introductions by the TCM host Ben Mankiewicz.[^12]\n\nNeither company would say how many subscribers either service had. Craig Hunegs of Warner Bros. said only that FilmStruck had “many times more.”[^12] As late as April 26, 2018 Coleman Breland, the Turner executive in charge, was telling a Hollywood gala that FilmStruck was “helping a new generation, a younger generation, fall in love with films.”[^22]",
+   "pull": {
+    "text": "We never really thought about raising the price. We never went down the path of, ‘How do we make more money?’",
+    "who": "Coleman Breland, president of Turner Classic Movies and FilmStruck, Variety, Feb 26, 2018[^12]"
+   },
+   "art": "art/shelf.svg",
+   "artCaption": "Original illustration of a shelf of films with a gap in it. The spines are blank on purpose; this is not Criterion’s or anyone’s packaging."
+  },
+  {
+   "when": "Jun – Oct 2018 · The new owner",
+   "title": "Sub-scale",
+   "big": "$81.0B",
+   "cap": "implied value of AT&T’s purchase of Time Warner at closing, June 14, 2018",
+   "color": "#3d5f86",
+   "body": "AT&T and Time Warner had signed their merger agreement on October 22, 2016, ten days before FilmStruck opened (derived).[^15] The deal closed at 5:57 p.m. Eastern time on June 14, 2018, after a federal judge rejected the government’s attempt to block it. By AT&T’s own arithmetic the stock and cash paid to Time Warner shareholders were worth about $81.0 billion.[^15][^22] The press release that day twice named FilmStruck among the assets AT&T was getting, once as “more targeted digital content” and once among its direct-to-consumer properties.[^16]\n\nThe new owner’s priorities were different. A Los Angeles Times columnist quoted John Stankey, the AT&T executive put in charge of the renamed WarnerMedia, telling staff in July that the company needed viewers for “hours a day,” not hours a week or a month.[^22] On October 10 AT&T announced a new streaming service for the fourth quarter of 2019 and told the SEC how it would be paid for: “incremental efficiencies within the WarnerMedia operations, consolidating resources from sub-scale D2C efforts, fallow library content, and technology reuse.”[^17]\n\nThe closures came quickly. Warner Bros. shut DramaFever, its Korean-drama service, on October 16. Turner said it would close the comedy studio Super Deluxe a few days later.[^18][^19] On Friday, October 26, Turner and Warner Bros. Digital Networks announced that FilmStruck would stop on November 29 and had already stopped taking sign-ups.[^19]\n\nVariety reported that two sources said the decision had been made before AT&T’s deal closed, and that the companies again declined to say how many subscribers there were.[^19] The Los Angeles Times estimated 100,000. One of its columnists wrote that Turner executives said that was not enough to make the service profitable.[^22][^23]",
+   "pull": {
+    "text": "While FilmStruck has a very loyal fanbase, it remains largely a niche service.",
+    "who": "Turner and Warner Bros. Digital Networks, statement to Variety, Oct 26, 2018[^19]"
+   },
+   "art": "art/switch-off.svg",
+   "artCaption": "Original illustration: a set with its plug pulled. The notice on the screen is a sketch, not a reproduction of the real closing page, which is shown further down."
+  },
+  {
+   "when": "Oct 26 – Nov 29, 2018 · The protest",
+   "title": "Round up your buddies",
+   "big": "21",
+   "cap": "filmmakers and actors signed the first letter to Warner Bros.",
+   "color": "#c41538",
+   "body": "Criterion answered the same morning: “Like many of you, we are disappointed by this decision.”[^20] Kevin Bahr started a Change.org petition, “Keep FilmStruck Alive.” It had 11,000 signatures by November 1 and more than 40,000 by November 9, when Barbra Streisand and Guillermo del Toro were urging people to sign.[^21][^24][^25]\n\nBehind the scenes, Steven Spielberg and Martin Scorsese had approached WarnerMedia’s chief, John Stankey.[^28] The director Edgar Wright emailed Spielberg to ask what he could do. “[Spielberg] said, ‘Well, if you want to, round up your buddies,’” Wright told The Hollywood Reporter.[^30] The result was a letter to Toby Emmerich, chairman of Warner Bros. Pictures Group, sent on the night of Monday, November 12 and signed by 21 people, among them Paul Thomas Anderson, Alfonso Cuarón, Leonardo DiCaprio, Barry Jenkins, Christopher Nolan and Barbra Streisand.[^26][^30] Emmerich had no responsibility for FilmStruck, which sat under Turner.[^30] Deadline published the letter on November 14, and a second, with more than 30 further names, the same day.[^26][^27][^30]\n\nThe next day Deadline reported that Stankey was working on “something of a compromise”: a new version of the idea inside the streaming service planned for late 2019.[^28] Then Criterion announced that the Criterion Channel would relaunch in spring 2019 as a service “wholly owned and controlled by the Criterion Collection,” and that its library would also be on WarnerMedia’s platform.[^29][^30]\n\nFilmStruck itself was not reprieved. Its last day was November 29. A subscriber writing in Film Comment recorded that the stream stopped at around 9 a.m. on November 30, seven minutes from the end of the film he was watching.[^33]",
+   "pull": {
+    "text": "For a phone company based in Dallas, why are you making Barry Jenkins and Martin Scorsese mad if you don’t have to? So don’t.",
+    "who": "An unnamed Turner source, The Hollywood Reporter, Nov 16, 2018[^30]"
+   },
+   "art": "art/letter.svg",
+   "artCaption": "Original illustration of a much-signed letter. The scrawls are not anyone’s real signature."
+  },
+  {
+   "when": "2019 – 2026 · After",
+   "title": "The library outlived the name",
+   "big": "130",
+   "cap": "days between FilmStruck’s last day and the Criterion Channel’s first (derived)",
+   "color": "#4f7a4a",
+   "body": "Criterion told its readers it would be “starting from scratch, with no subscribers,” and asked former FilmStruck customers to sign up as charter subscribers at $9.99 a month or $89.99 a year.[^29][^35] The Criterion Channel opened in the United States and Canada on Monday, April 8, 2019 with more than 1,000 films, at $10.99 a month or $99.99 a year for everyone else. That was the monthly price FilmStruck had charged for the same tier.[^4][^35][^36]\n\nThe Warner Bros. classics waited longer. WarnerMedia’s service launched on May 27, 2020 as HBO Max, at $14.99 a month. The launch release listed “a selection of classic films curated in partnership with TCM” and films from the Criterion Collection among its contents.[^37]\n\nThe name has not been used again as far as we can find. Of the two U.S. trademark registrations for FILMSTRUCK, the one covering streaming services was cancelled on September 29, 2023 because no declaration of continued use was filed. The other, for entertainment services, is still registered to Turner Classic Movies, Inc.[^38] The address filmstruck.com forwards to tcm.com.[^39]\n\nThe petition is still online. When we read it on October 8, 2026 it stood at 106,696 signatures, slightly more than the number of subscribers the service was ever estimated to have had.[^23][^25]",
+   "pull": {
+    "text": "We will be starting from scratch, with no subscribers, so we will need all the help we can get.",
+    "who": "The Criterion Collection, announcing the independent Criterion Channel, Nov 2018[^29]"
+   },
+   "video": "ccannounce"
+  }
+ ]
+}

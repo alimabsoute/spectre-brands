@@ -1,0 +1,135 @@
+{
+ "kicker": "The field",
+ "title": "Small film services, 2016 to 2019",
+ "lede": "FilmStruck was one of several services built for people who watch old and foreign films. This is what our sources say happened to the ones they mention. Status is as of the dates given, except where we checked a website ourselves.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Who was closed, who was folded in, who is left",
+   "subtitle": "Services named in the coverage of FilmStruck, with the price or figure our sources give.",
+   "metric": "Price or size",
+   "items": [
+    {
+     "name": "FilmStruck",
+     "status": "dead",
+     "statusLabel": "Closed Nov 29, 2018",
+     "self": true,
+     "value": "$6.99–$10.99 a month",
+     "text": "About 1,800 films. Subscribers estimated at 100,000 by the Los Angeles Times; never disclosed.[^19][^23]",
+     "data": [
+      0,
+      900,
+      1100,
+      1200,
+      1800,
+      1800,
+      0
+     ],
+     "range": [
+      "2016",
+      "2018"
+     ]
+    },
+    {
+     "name": "Warner Archive (streaming)",
+     "status": "merged",
+     "statusLabel": "Folded into FilmStruck, 2018",
+     "value": "$9.99 a month",
+     "text": "Warner Bros.’s own classic-film service, launched in 2013. Shut in February 2018 and its customers moved to FilmStruck.[^12]"
+    },
+    {
+     "name": "DramaFever",
+     "status": "dead",
+     "statusLabel": "Closed Oct 16, 2018",
+     "value": "Founded 2009",
+     "text": "Korean-drama service bought by Warner Bros. in 2016 and closed ten days before FilmStruck’s announcement.[^18]"
+    },
+    {
+     "name": "Fandor",
+     "status": "dead",
+     "statusLabel": "Staff laid off Dec 2018",
+     "value": "$24.99 offer",
+     "text": "Offered FilmStruck subscribers a half-price year in November 2018. Film Comment reported that it laid off its staff and sold its assets on December 7. We did not check what became of the name afterward.[^22][^33]"
+    },
+    {
+     "name": "MUBI",
+     "status": "alive",
+     "statusLabel": "Site live, Oct 2026",
+     "value": "$4.99 a month in 2016",
+     "text": "A rotating collection of 30 films, and The Verge’s first comparison for FilmStruck. Its website loaded when we checked on October 8, 2026; we did not check its current price.[^7][^39]"
+    },
+    {
+     "name": "The Criterion Channel",
+     "status": "alive",
+     "statusLabel": "Independent since 2019",
+     "value": "$10.99 a month in 2019",
+     "text": "FilmStruck’s premium tier, relaunched by Criterion alone on April 8, 2019 with more than 1,000 films.[^35][^36][^39]"
+    }
+   ],
+   "source": "Variety[^12][^18][^19], the Los Angeles Times[^22][^23], Film Comment[^33], The Verge[^7], Criterion[^35] and Widescreen Review.[^36]"
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "name": "FilmStruck",
+    "tag": "Owned by Turner, then AT&T",
+    "alive": false,
+    "rows": [
+     [
+      "Opened",
+      "Nov 1, 2016"
+     ],
+     [
+      "Top monthly price",
+      "$10.99"
+     ],
+     [
+      "Films",
+      "about 1,800 (2018)"
+     ],
+     [
+      "Owner’s other business",
+      "HBO, Turner, Warner Bros., and a phone network"
+     ],
+     [
+      "Subscribers",
+      "never disclosed"
+     ]
+    ]
+   },
+   "right": {
+    "name": "The Criterion Channel",
+    "tag": "Owned by Criterion",
+    "alive": true,
+    "rows": [
+     [
+      "Opened",
+      "Apr 8, 2019"
+     ],
+     [
+      "Monthly price at launch",
+      "$10.99"
+     ],
+     [
+      "Films at launch",
+      "more than 1,000"
+     ],
+     [
+      "Owner’s other business",
+      "Blu-ray and DVD editions"
+     ],
+     [
+      "Subscribers",
+      "not in our sources"
+     ]
+    ]
+   },
+   "source": "FilmStruck: The Verge, Variety and AT&T.[^7][^4][^19][^16] Criterion Channel: Criterion and Widescreen Review.[^29][^35][^36]"
+  },
+  {
+   "kind": "text",
+   "title": "The argument about size",
+   "body": "The closure started an argument that our sources did not settle. Dan Rayburn, an analyst at Frost & Sullivan, told NPR that a service like FilmStruck “just doesn’t have a lot of subscribers” and was “too expensive to run” on its own.[^32] The Ringer accepted the owners’ description, writing that “FilmStruck was a niche service. It never tried to be anything but,” and asked whether anything could survive between a hundred thousand subscribers and Netflix’s hundred million.[^31]\n\nCriterion’s answer was to try, with one tier, one owner and no parent company to satisfy. Its channel was live when we checked in October 2026.[^39] That shows a service of this kind can last. It does not show that FilmStruck, with Turner’s costs and a second library to license, would have."
+  }
+ ]
+}

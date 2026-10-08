@@ -1,0 +1,80 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "How it was sold, and how its successor was announced",
+ "lede": "Eight videos, all still on the YouTube channels of the companies involved or of the press. Years are the upload dates shown by YouTube; we have not confirmed where else the spots ran.",
+ "videos": [
+  {
+   "id": "intro",
+   "title": "Criterion: “Introducing FilmStruck”",
+   "year": 2016,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "leQBDVBZlzQ",
+   "caption": "A three-minute introduction on the Criterion Collection’s channel, uploaded on October 6, 2016, the day the prices and the first launch date were announced.[^41][^4]"
+  },
+  {
+   "id": "trial",
+   "title": "TCM: “Introducing FilmStruck: Free Trial”",
+   "year": 2016,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "ceGpP84q-Fw",
+   "caption": "A 31-second spot on Turner Classic Movies’ channel, uploaded on October 13, 2016, six days before the original launch date. The service offered a 14-day free trial when it opened on November 1.[^41][^7]"
+  },
+  {
+   "id": "hader",
+   "title": "Criterion: “Adventures in Moviegoing: Bill Hader’s First Date”",
+   "year": 2016,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "TFpxAwz4afQ",
+   "caption": "A 52-second excerpt from the Criterion Channel’s guest-programmer series, uploaded on November 10, 2016. Hader later signed the first letter to Warner Bros.[^41][^26]"
+  },
+  {
+   "id": "techcrunch",
+   "title": "TechCrunch: “FilmStruck Can Provide Your Art Movie Fix”",
+   "year": 2016,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "UwwnRpunVDw",
+   "caption": "A short news item on TechCrunch’s channel, uploaded on November 18, 2016. TechCrunch’s written report of the launch is one of our sources.[^41][^8]"
+  },
+  {
+   "id": "uk",
+   "title": "FilmStruck UK: “Welcome to FilmStruck!”",
+   "year": 2018,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "sI_HE0-FZTw",
+   "caption": "A one-minute spot on the British service’s own channel, uploaded on February 7, 2018, the month FilmStruck Curzon opened.[^41][^11]"
+  },
+  {
+   "id": "tcmselect",
+   "title": "TCM: “TCM Select now on FilmStruck”",
+   "year": 2018,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "-9UXLauIT2o",
+   "caption": "Uploaded by Turner Classic Movies on February 26, 2018, the day the Warner Bros. classics deal was announced.[^41][^12]"
+  },
+  {
+   "id": "ccannounce",
+   "title": "Criterion: “New, Independent Criterion Channel to Launch Spring 2019”",
+   "year": 2018,
+   "type": "event",
+   "provider": "youtube",
+   "embedId": "fMlDZSOhT5o",
+   "caption": "Criterion’s video announcement of its independent service, uploaded on November 20, 2018, nine days before FilmStruck’s last day.[^41][^29]"
+  },
+  {
+   "id": "cctrailer",
+   "title": "Criterion: “Criterion Channel Trailer”",
+   "year": 2019,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "E5sd_wn2ztg",
+   "caption": "The trailer for the relaunched channel, uploaded on March 22, 2019, ahead of the April 8 opening.[^41][^35]"
+  }
+ ],
+ "note": "We describe each video by its title, uploader, length and upload date as YouTube shows them. FilmStruck’s own U.S. channel still carries a 31-second “Introducing FilmStruck” that we have not embedded because it appears to duplicate the TCM spot."
+}

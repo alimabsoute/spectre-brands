@@ -1,0 +1,119 @@
+{
+ "name": "FilmStruck",
+ "number": "035",
+ "tier": "dead",
+ "tierWhy": "The service streamed its last films on November 29, 2018, and filmstruck.com now forwards to tcm.com. Turner Classic Movies, Inc. still holds one live U.S. trademark registration for the name, but we found nothing operating under it.[^19][^38][^39]",
+ "category": "film",
+ "cause": "management",
+ "years": "2016 – 2018",
+ "died": 2018,
+ "dates": [
+  {
+   "date": "2016-11-01",
+   "text": "launched in the United States at $6.99 a month, two weeks later than planned"
+  },
+  {
+   "date": "2018-10-26",
+   "text": "stopped taking new subscribers and said it would close in five weeks"
+  },
+  {
+   "date": "2018-11-29",
+   "text": "had its last day of service"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Classic and arthouse film streaming · Atlanta, Georgia",
+ "title": "FilmStruck (2016–2018): post-mortem · Spectre Brands",
+ "description": "Turner Classic Movies and the Criterion Collection built a streaming service of about 1,800 classic and arthouse films. Five months after AT&T bought Time Warner, it was closed as a niche service. A sourced post-mortem of FilmStruck.",
+ "theme": {
+  "accent": "#c41538",
+  "soft": "#fbeaee"
+ },
+ "card": {
+  "blurb": "Turner Classic Movies and the Criterion Collection made the streaming service film lovers had asked for. Its owner was bought by a phone company that wanted viewers for hours a day, and it was shut with 34 days’ notice.",
+  "stat": {
+   "value": "758",
+   "label": "days of service, November 1, 2016 to November 29, 2018 (derived)"
+  },
+  "spark": [
+   0,
+   900,
+   1100,
+   1200,
+   1800,
+   1800,
+   0
+  ],
+  "peak": 4,
+  "logo": "img/logo-2016.avif",
+  "logoYear": "2016"
+ },
+ "hero": {
+  "dates": "Announced Apr 26, 2016. Launched Nov 1, 2016. Closure announced Oct 26, 2018. Last day Nov 29, 2018.",
+  "standfirst": "It had Casablanca, Seven Samurai and the whole Criterion library on one bill. Its owners never said how many people paid for it, and closed it 34 days after saying they would.",
+  "deck": "FilmStruck was a subscription streaming service for classic, foreign and independent films, run by Turner Classic Movies with the Criterion Collection. It opened in the United States on November 1, 2016, added the Warner Bros. classics in February 2018 and reached Britain, France and Spain that year. In June 2018 AT&T completed its purchase of Turner’s parent, Time Warner. In October AT&T told investors it would pay for a large new streaming service partly by “consolidating resources from sub-scale D2C efforts,” and sixteen days later Turner and Warner Bros. Digital Networks announced that FilmStruck would close. Directors wrote letters, more than 50,000 people signed a petition within three weeks, and the service still went dark on schedule. This page is built from two AT&T filings with the SEC, company announcements, the trade and daily press of the time and archived copies of filmstruck.com. FilmStruck’s subscriber count, revenue and costs were never published, and we say so wherever that matters.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of an old film streaming on a laptop, with a reel beside it. Not an official asset, and not a still from any real film.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/archive-2016-04-teaser.avif",
+    "caption": "“Coming Soon” page, April 2016",
+    "alt": "The filmstruck.com holding page of April 2016, with the FilmStruck wordmark over a black-and-white film still and the line For Film Lovers. By Film Lovers."
+   },
+   {
+    "image": "img/archive-2017-04-home.avif",
+    "caption": "The home page, April 2017",
+    "alt": "The filmstruck.com home page in April 2017, promoting itself as the exclusive home for Criterion streaming with a 14-day free trial"
+   },
+   {
+    "image": "img/archive-2018-12-closed.avif",
+    "caption": "The closing notice, December 2018",
+    "alt": "A black page with a white-bordered box reading We regret to inform you that FilmStruck is now closed"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The service in four numbers",
+  "rows": [
+   {
+    "value": "1,800",
+    "text": "films a month after the Warner Bros. classics were added in February 2018[^12]"
+   },
+   {
+    "value": "$6.99",
+    "text": "a month for the base service, or $10.99 with the Criterion Channel[^4]"
+   },
+   {
+    "value": "100,000",
+    "text": "subscribers, a Los Angeles Times estimate; the owners never gave a figure[^19][^23]"
+   },
+   {
+    "value": "34",
+    "text": "days between the closure announcement and the last day of service (derived)[^19]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It was built as an experiment in a niche.",
+   "text": "Turner’s general manager for the service said in 2016 that “the economics work for streaming to niche audiences.” Two years later the owners’ closing statement called FilmStruck “largely a niche service.”[^5][^19]"
+  },
+  {
+   "title": "The numbers were never published.",
+   "text": "Turner and Warner Bros. declined to give subscriber counts in February 2018 and again at the closure. The only figure is a Los Angeles Times estimate of 100,000, and a columnist at the same paper reported that Turner executives said that was not enough to be profitable.[^12][^19][^22][^23]"
+  },
+  {
+   "title": "A new owner wanted scale.",
+   "text": "AT&T completed its purchase of Time Warner on June 14, 2018. On October 10 it told the SEC that its new streaming service would be funded in part by “consolidating resources from sub-scale D2C efforts.” FilmStruck’s closure was announced on October 26.[^15][^17][^19]"
+  },
+  {
+   "title": "The decision may predate the merger.",
+   "text": "Variety reported that two sources said the plan to close FilmStruck was made before AT&T’s deal closed. Either way, Warner Bros. had already folded its own Warner Archive service into FilmStruck that February, and closed DramaFever ten days before.[^12][^18][^19]"
+  },
+  {
+   "title": "The protest saved the library, not the service.",
+   "text": "Twenty-one filmmakers wrote to Warner Bros., a second letter followed, and a petition passed 55,000 signatures. FilmStruck closed on the announced date. Criterion relaunched its channel as an independent service on April 8, 2019.[^26][^30][^36]"
+  }
+ ]
+}

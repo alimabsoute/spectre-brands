@@ -1,0 +1,26 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a shelf of film cases with plain spines in several colours; a block of spines in the middle is missing and one case leans into the gap">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="14" y="30" width="412" height="16" fill="#8a6a45"/>
+<rect x="14" y="246" width="412" height="18" fill="#8a6a45"/>
+<path d="M24 46 V246 M416 46 V246" fill="none"/>
+<g>
+<rect x="34" y="96" width="24" height="150" fill="#2a2724"/>
+<rect x="58" y="96" width="24" height="150" fill="#fbf9f5"/>
+<rect x="82" y="96" width="30" height="150" fill="#c41538"/>
+<rect x="112" y="96" width="22" height="150" fill="#f6d04d"/>
+<rect x="134" y="96" width="26" height="150" fill="#3d5f86"/>
+<rect x="160" y="96" width="22" height="150" fill="#fbf9f5"/>
+<rect x="304" y="96" width="24" height="150" fill="#2a2724"/>
+<rect x="328" y="96" width="28" height="150" fill="#4f7a4a"/>
+<rect x="356" y="96" width="22" height="150" fill="#fbf9f5"/>
+<rect x="378" y="96" width="28" height="150" fill="#c41538"/>
+</g>
+<rect x="196" y="92" width="24" height="150" fill="#e8a23c" transform="rotate(14 208 246)"/>
+<g fill="none" stroke-width="2">
+<path d="M42 116 h8 M66 116 h8 M92 116 h10 M119 116 h8 M143 116 h8 M167 116 h8 M312 116 h8 M338 116 h8 M363 116 h8 M388 116 h8"/>
+<path d="M46 150 v60 M70 150 v60 M97 150 v60 M123 150 v60 M147 150 v60 M171 150 v60 M316 150 v60 M342 150 v60 M367 150 v60 M392 150 v60"/>
+</g>
+<g fill="none" stroke="#9a9184" stroke-dasharray="5 7" stroke-width="2">
+<rect x="246" y="96" width="24" height="150"/><rect x="270" y="96" width="24" height="150"/>
+</g>
+</g></svg>

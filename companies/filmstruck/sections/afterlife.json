@@ -1,0 +1,108 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Retired",
+   "color": "var(--mute)",
+   "title": "The name",
+   "text": "Nothing we could find trades as FilmStruck. Of two U.S. registrations for the mark, both filed on April 1, 2016, the one covering streaming services was cancelled on September 29, 2023. The other, for entertainment services, is still registered to Turner Classic Movies, Inc., whose declaration of continued use was accepted on December 6, 2023. We do not know what use was claimed.[^38]"
+  },
+  {
+   "status": "Forwarded",
+   "color": "var(--blue)",
+   "title": "The website",
+   "text": "filmstruck.com showed a closing notice in December 2018. When we requested it on October 8, 2026 it forwarded to tcm.com.[^39]"
+  },
+  {
+   "status": "Independent",
+   "color": "var(--green)",
+   "title": "The Criterion Channel",
+   "text": "Relaunched by Criterion alone on April 8, 2019, in the United States and Canada, at $10.99 a month or $99.99 a year, with lower prices for those who signed up before launch. Its website was live when we checked in October 2026; we did not confirm its current prices.[^34][^35][^36][^39]"
+  },
+  {
+   "status": "Absorbed",
+   "color": "var(--blue)",
+   "title": "The Warner Bros. classics",
+   "text": "Went to HBO Max, which launched on May 27, 2020 at $14.99 a month with “a selection of classic films curated in partnership with TCM” and films licensed from Criterion.[^37]"
+  },
+  {
+   "status": "Closed",
+   "color": "var(--red)",
+   "title": "The international services",
+   "text": "FilmStruck Curzon in Britain and the French and Spanish services opened between February and June 2018 and ceased on the same day as the American one.[^11][^19]"
+  },
+  {
+   "status": "Refunded",
+   "color": "var(--gold)",
+   "title": "The subscribers",
+   "text": "The closing notice promised an email “with details about your account and the refund process as applicable.” Watchlists were not carried anywhere; one subscriber described his queue being wiped on the morning of November 30.[^19][^33]"
+  },
+  {
+   "status": "Still open",
+   "color": "var(--gold)",
+   "title": "The petition",
+   "text": "“Keep FilmStruck Alive” was never closed. It showed 106,696 signatures on October 8, 2026, against a goal the page gave as 150,000.[^25]"
+  },
+  {
+   "status": "Unknown",
+   "color": "var(--mute)",
+   "title": "The staff",
+   "text": "Turner declined to say how many people worked on FilmStruck or how many were affected by the closure.[^19]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "nodes": [
+    {
+     "when": "Apr 2016",
+     "owner": "Turner Classic Movies, Inc. (Time Warner)",
+     "what": "Files two trademark applications for FILMSTRUCK on April 1 and announces the service on April 26.[^1][^38]",
+     "price": "Built in-house"
+    },
+    {
+     "when": "Feb 2018",
+     "owner": "Turner, with Warner Bros. Digital Networks",
+     "what": "Warner Bros. becomes a partner in the service, adds its classics and closes Warner Archive’s streaming service into it.[^12]",
+     "price": "No price disclosed"
+    },
+    {
+     "when": "Jun 14, 2018",
+     "owner": "AT&T Inc. (WarnerMedia)",
+     "what": "Acquires Time Warner, and FilmStruck with it. Closes the service on November 29.[^15][^19]",
+     "price": "About $81.0B for all of Time Warner"
+    },
+    {
+     "when": "2023 – 2026",
+     "owner": "Turner Classic Movies, Inc.",
+     "what": "Lets one registration lapse and keeps the other. The service has not returned.[^38]",
+     "price": "Not for sale as far as we know",
+     "status": "current"
+    }
+   ],
+   "source": "AT&T Inc., Form 8-K, June 15, 2018[^15]; Variety[^12][^19]; USPTO status records.[^38] FilmStruck was closed by its owner and was never in bankruptcy. Our sources do not trace the corporate ownership of Turner Classic Movies, Inc. after 2020, so the last step names only the registrant shown by the USPTO."
+  },
+  {
+   "kind": "counters",
+   "title": "The gap between the two services",
+   "compact": true,
+   "items": [
+    {
+     "value": "130",
+     "text": "days from FilmStruck’s last day to the Criterion Channel’s first (derived)[^19][^36]"
+    },
+    {
+     "value": "545",
+     "text": "days from FilmStruck’s last day to the launch of HBO Max (derived)[^19][^37]"
+    },
+    {
+     "value": "$0",
+     "text": "difference between FilmStruck’s top monthly price and the Criterion Channel’s at launch: both $10.99[^4][^35]"
+    }
+   ],
+   "source": "Variety[^19][^4], Criterion[^35], Widescreen Review[^36] and WarnerMedia.[^37]"
+  }
+ ]
+}

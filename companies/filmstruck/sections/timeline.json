@@ -1,0 +1,357 @@
+{
+ "kicker": "Timeline",
+ "title": "Ten years, 31 moments",
+ "lede": "From the announcement to a forwarded web address. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "product": {
+   "label": "Product",
+   "color": "#4f7a4a"
+  },
+  "owner": {
+   "label": "AT&T",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Closure & protest",
+   "color": "#a8321f"
+  },
+  "after": {
+   "label": "Afterlife",
+   "color": "#93743a"
+  }
+ },
+ "events": [
+  {
+   "date": "Apr 26",
+   "year": "2016",
+   "cat": "corporate",
+   "title": "Turner announces FilmStruck",
+   "text": "A subscription service from Turner Classic Movies with the Criterion Collection, due in the fall. Criterion will leave Hulu for it.",
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "date": "Oct 6",
+   "year": "2016",
+   "cat": "product",
+   "title": "Prices and a date",
+   "text": "Launch is set for October 19: $6.99 a month, $10.99 with the Criterion Channel, $99 a year. Criterion posts a three-minute introduction video the same day.",
+   "src": [
+    4,
+    41
+   ]
+  },
+  {
+   "date": "Oct 18",
+   "year": "2016",
+   "cat": "product",
+   "title": "The launch is postponed",
+   "text": "The day before the planned opening, Turner delays it to November to finish the sign-up process.",
+   "src": [
+    6,
+    3
+   ]
+  },
+  {
+   "date": "Oct 22",
+   "year": "2016",
+   "cat": "owner",
+   "title": "AT&T agrees to buy Time Warner",
+   "text": "The date of the merger agreement, as given in AT&T’s later filing.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "Nov 1",
+   "year": "2016",
+   "cat": "product",
+   "title": "FilmStruck opens",
+   "text": "United States only, with a 14-day free trial, on the web, phones, Amazon Fire TV and Apple TV.",
+   "src": [
+    7,
+    8
+   ]
+  },
+  {
+   "date": "Nov 11",
+   "year": "2016",
+   "cat": "product",
+   "title": "Criterion leaves Hulu",
+   "text": "FilmStruck becomes the exclusive streaming home of the Criterion Collection.",
+   "src": [
+    3,
+    8
+   ]
+  },
+  {
+   "date": "Jul 7",
+   "year": "2017",
+   "cat": "product",
+   "title": "“A terrible website”",
+   "text": "The Verge praises the films and lists the faults of the site, including a Flash video player.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Jan 19",
+   "year": "2018",
+   "cat": "corporate",
+   "title": "International plans",
+   "text": "Turner International and Warner Bros. Digital Networks say FilmStruck will launch abroad, starting in Britain with the cinema chain Curzon.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "2018",
+   "cat": "product",
+   "title": "FilmStruck Curzon opens in Britain",
+   "text": "£5.99 a month, just over 160 titles, 34 of them from Criterion.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Feb 26",
+   "year": "2018",
+   "cat": "corporate",
+   "title": "Warner Bros. classics arrive",
+   "text": "More than 600 Warner Bros. films a month are added and Warner Archive’s streaming service is shut. The lineup grows to more than 1,800.",
+   "src": [
+    12,
+    13
+   ]
+  },
+  {
+   "date": "Apr 26",
+   "year": "2018",
+   "cat": "corporate",
+   "title": "“If you love film, you’ll love FilmStruck”",
+   "text": "Coleman Breland promotes the service at a Hollywood gala, six months to the day before its closure is announced.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "May 24",
+   "year": "2018",
+   "cat": "corporate",
+   "title": "France and Spain announced",
+   "text": "With local partners including StudioCanal and MK2. Both launch in June.",
+   "src": [
+    14,
+    19
+   ]
+  },
+  {
+   "date": "Jun 14",
+   "year": "2018",
+   "cat": "owner",
+   "title": "AT&T completes the purchase",
+   "text": "The merger closes at 5:57 p.m. Eastern. AT&T’s press release names FilmStruck among its new direct-to-consumer properties.",
+   "src": [
+    15,
+    16
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "2018",
+   "cat": "owner",
+   "title": "“Hours a day”",
+   "text": "John Stankey, the new head of WarnerMedia, tells staff the company needs far more viewing time, as later quoted by the Los Angeles Times.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Oct 10",
+   "year": "2018",
+   "cat": "owner",
+   "title": "A new service, and how to pay for it",
+   "text": "AT&T announces a streaming service for late 2019, to be funded partly by “consolidating resources from sub-scale D2C efforts.”",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "Oct 16",
+   "year": "2018",
+   "cat": "owner",
+   "title": "DramaFever closes",
+   "text": "Warner Bros. Digital Networks shuts its Korean-drama service the same day it announces the closure.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "Oct 26",
+   "year": "2018",
+   "cat": "death",
+   "title": "FilmStruck’s closure is announced",
+   "text": "Sign-ups stop at once; the last day will be November 29. Criterion says it is disappointed. A petition is started the same day.",
+   "src": [
+    19,
+    20,
+    25
+   ]
+  },
+  {
+   "date": "Nov 1",
+   "year": "2018",
+   "cat": "death",
+   "title": "11,000 signatures",
+   "text": "The petition has more than doubled in two days, Paste reports.",
+   "src": [
+    21
+   ]
+  },
+  {
+   "date": "Nov 3",
+   "year": "2018",
+   "cat": "death",
+   "title": "An estimate of 100,000",
+   "text": "The Los Angeles Times refers to the service’s “estimated 100,000 subscribers.” No official figure is ever given.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Nov 9",
+   "year": "2018",
+   "cat": "death",
+   "title": "40,000 signatures",
+   "text": "Barbra Streisand and Guillermo del Toro urge their followers to sign.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "Nov 12",
+   "year": "2018",
+   "cat": "death",
+   "title": "The letter to Toby Emmerich",
+   "text": "Twenty-one filmmakers and actors send a letter to the chairman of Warner Bros. Pictures Group.",
+   "src": [
+    26,
+    30
+   ]
+  },
+  {
+   "date": "Nov 14",
+   "year": "2018",
+   "cat": "death",
+   "title": "Deadline publishes two letters",
+   "text": "The first is followed by a second with more than 30 further signers, including Sofia Coppola, Mira Nair and John Ridley.",
+   "src": [
+    26,
+    27,
+    30
+   ]
+  },
+  {
+   "date": "Nov 15",
+   "year": "2018",
+   "cat": "death",
+   "title": "“Something of a compromise”",
+   "text": "Deadline reports that Stankey plans a new version of the idea inside the service due in late 2019.",
+   "src": [
+    28
+   ]
+  },
+  {
+   "date": "Nov 16",
+   "year": "2018",
+   "cat": "after",
+   "title": "The Criterion Channel will return",
+   "text": "Criterion says it will relaunch its channel in spring 2019 as an independent service. Its post is dated November 15; the press reported it on Friday the 16th.",
+   "src": [
+    29,
+    30
+   ]
+  },
+  {
+   "date": "Nov 29",
+   "year": "2018",
+   "cat": "death",
+   "title": "Last day of service",
+   "text": "The U.S. and international services both cease.",
+   "src": [
+    19,
+    39
+   ]
+  },
+  {
+   "date": "Nov 30",
+   "year": "2018",
+   "cat": "death",
+   "title": "The streams stop",
+   "text": "At around 9 a.m., by one subscriber’s account.",
+   "src": [
+    33
+   ]
+  },
+  {
+   "date": "Jan 30",
+   "year": "2019",
+   "cat": "after",
+   "title": "A launch date for Criterion",
+   "text": "April 8, 2019, in the United States and Canada, with lower prices for charter subscribers.",
+   "src": [
+    34,
+    35
+   ]
+  },
+  {
+   "date": "Apr 8",
+   "year": "2019",
+   "cat": "after",
+   "title": "The Criterion Channel opens",
+   "text": "More than 1,000 films at $10.99 a month.",
+   "src": [
+    35,
+    36
+   ]
+  },
+  {
+   "date": "May 27",
+   "year": "2020",
+   "cat": "after",
+   "title": "HBO Max launches",
+   "text": "WarnerMedia’s service arrives at $14.99 a month with TCM-curated classics and Criterion films.",
+   "src": [
+    37
+   ]
+  },
+  {
+   "date": "Sep 29",
+   "year": "2023",
+   "cat": "after",
+   "title": "A trademark lapses",
+   "text": "The FILMSTRUCK registration covering streaming services is cancelled. A second registration, for entertainment services, is kept.",
+   "src": [
+    38
+   ]
+  },
+  {
+   "date": "Oct 8",
+   "year": "2026",
+   "cat": "after",
+   "title": "Where things stand",
+   "text": "filmstruck.com forwards to tcm.com. The petition shows 106,696 signatures.",
+   "src": [
+    25,
+    39
+   ]
+  }
+ ]
+}

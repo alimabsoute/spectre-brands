@@ -1,0 +1,107 @@
+{
+ "kicker": "Brand gallery",
+ "title": "A red wordmark and a great many spines",
+ "label": "Brand gallery",
+ "lede": "The wordmark, the site as it looked, and two freely licensed photographs of things FilmStruck was built on: Criterion’s shelf of editions and the TCM host who introduced its Hollywood classics. The drawings are our own.",
+ "archive": [
+  {
+   "image": "img/logo-2016.avif",
+   "date": "2016",
+   "caption": "The FilmStruck wordmark, with “FILM” in red.",
+   "alt": "The FilmStruck wordmark: a stylised F made of two bars, the word FILM in red and STRUCK in dark grey",
+   "credit": "FilmStruck wordmark, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FilmStruck_logo.png), marked public domain there as a simple text logo. It remains a trademark of its owner."
+  },
+  {
+   "image": "img/archive-2016-04-teaser.avif",
+   "date": "2016",
+   "caption": "The “Coming Soon” page, two days after the announcement.",
+   "alt": "The FilmStruck holding page of April 2016",
+   "credit": "Screenshot of an [Internet Archive capture](https://web.archive.org/web/20160428020642/http://filmstruck.com:80/) of filmstruck.com. Shown for commentary."
+  },
+  {
+   "image": "img/archive-2017-04-home.avif",
+   "date": "2017",
+   "caption": "The home page five months after launch.",
+   "alt": "The FilmStruck home page of April 2017",
+   "credit": "Screenshot of an [Internet Archive capture](https://web.archive.org/web/20170418172151/https://www.filmstruck.com/) of filmstruck.com. Shown for commentary."
+  },
+  {
+   "image": "img/criterion-editions-2025.avif",
+   "date": "2025",
+   "caption": "The Criterion Collection section of a Barnes & Noble store, photographed in January 2025. FilmStruck’s premium tier was a streaming version of this shelf.",
+   "alt": "Eight rows of wooden shelves filled with Criterion Collection Blu-ray and DVD cases, spines out",
+   "credit": "Photo: BallofyaRn, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Criterion_Collection_section_at_Barnes_%26_Noble.jpg), CC0."
+  },
+  {
+   "image": "img/mankiewicz-2025.avif",
+   "date": "2025",
+   "caption": "Ben Mankiewicz, the TCM host who recorded introductions for FilmStruck’s TCM Select, at the TCM Classic Film Festival in April 2025.[^12]",
+   "alt": "Ben Mankiewicz in a dark suit on a red carpet in front of a TCM Classic Film Festival backdrop",
+   "credit": "Photo: PrinceArchelaus, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ben_Mankiewicz_at_the_2025_TCM_Classic_Film_Festival.jpg), CC BY 4.0. Cropped only by resizing."
+  },
+  {
+   "image": "img/archive-2018-12-closed.avif",
+   "date": "2018",
+   "caption": "The closing notice.",
+   "alt": "The FilmStruck closing notice on a black page",
+   "credit": "Screenshot of an [Internet Archive capture](https://web.archive.org/web/20181207134858/https://www.filmstruck.com/) of filmstruck.com. Shown for commentary."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The first page and the last",
+   "ratio": "16/9",
+   "before": {
+    "label": "April 2016",
+    "image": "img/archive-2016-04-teaser.avif",
+    "caption": "“Coming Soon...”[^39]",
+    "alt": "The FilmStruck holding page of April 2016"
+   },
+   "after": {
+    "label": "December 2018",
+    "image": "img/archive-2018-12-closed.avif",
+    "caption": "“FilmStruck is now closed.”[^39]",
+    "alt": "The FilmStruck closing notice of December 2018"
+   },
+   "source": "Internet Archive captures of filmstruck.com from April 28, 2016 and December 7, 2018.[^39] The two screenshots are cropped to different heights."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The idea.",
+   "caption": "An old film on a new screen. Original illustration, not an official asset."
+  },
+  {
+   "art": "art/shelf.svg",
+   "title": "The library.",
+   "caption": "About 1,800 films at the peak, then a gap.[^12] Original illustration with blank spines."
+  },
+  {
+   "art": "art/letter.svg",
+   "title": "The letter.",
+   "caption": "Twenty-one signatures on the first one.[^30] Original illustration; the scrawls are not real signatures."
+  },
+  {
+   "art": "art/switch-off.svg",
+   "title": "The switch.",
+   "caption": "November 29, 2018.[^19] Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#e01e46",
+   "label": "FilmStruck red, sampled from the 2018 closing page"
+  },
+  {
+   "hex": "#c41538",
+   "label": "This page’s accent, darkened for contrast"
+  },
+  {
+   "hex": "#16161A",
+   "label": "Wordmark grey-black"
+  }
+ ],
+ "disclaimer": "FilmStruck, TCM and the Criterion Collection are trademarks of their owners. The wordmark and screenshots are shown for commentary and historical record. The drawings are original and are not official assets."
+}

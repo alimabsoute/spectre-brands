@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Keep it running until the big service was ready",
+   "actual": "FilmStruck closed on November 29, 2018. The WarnerMedia service that was to carry its films was planned for the fourth quarter of 2019 and launched as HBO Max on May 27, 2020. Deadline wrote in November 2018 that it “really doesn’t make sense to shutter the service so abruptly.”[^17][^19][^28][^37]",
+   "whatif": "Eighteen more months of FilmStruck would have kept the subscribers, the programmers and the goodwill of the filmmakers who wrote in, and delivered all three to HBO Max on its first day. It would also have meant eighteen more months of whatever the service was losing, a figure nobody outside the company knows. AT&T had told investors that closing such services was part of how the new one would be paid for."
+  },
+  {
+   "tab": "Hand the whole thing to Criterion",
+   "actual": "WarnerMedia let Criterion take its own channel independent. The FilmStruck name, the Warner Bros. classics and the TCM programming stayed behind. Criterion started again “with no subscribers” 130 days after the shutdown (derived).[^29][^36]",
+   "whatif": "A sale or licence of the whole service to Criterion would have kept the subscriber list and the Hollywood classics together with the art house films, which is what the service’s users had asked for most.[^12] It would also have left Warner Bros. licensing Casablanca to someone else’s service just as it was building its own. We have no evidence that such a deal was discussed."
+  },
+  {
+   "tab": "One service with the studio classics from day one",
+   "actual": "For its first sixteen months FilmStruck had no deep Hollywood catalog, while Warner Bros. sold its classics separately on Warner Archive for $9.99 a month. Access to those films was the top request from FilmStruck’s users. The two services were combined only in February 2018.[^12]",
+   "whatif": "A single service with 1,800 films from November 2016 would have had sixteen more months to build an audience before the merger closed, and one fewer rival inside the same company. Whether that audience would have reached a size AT&T thought worth keeping cannot be known from our sources. The only estimate, 100,000, was made after the combination."
+  }
+ ]
+}
