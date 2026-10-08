@@ -1,0 +1,79 @@
+{
+ "kicker": "The people",
+ "title": "Founders, operators and the lawyers",
+ "lede": "Titles are as given in the sources. Later careers are left out where we have no source.",
+ "people": [
+  {
+   "name": "Marno McDermott",
+   "role": "Founder",
+   "text": "A University of Minnesota graduate who discovered Mexican food in California, built Zapata Foods and sold it to Heublein for $4M, then opened Chi-Chi’s as a sit-down version.[^1]",
+   "later": "His son Michael revived the name in 2025.[^29]"
+  },
+  {
+   "name": "Max McGee",
+   "role": "Co-founder",
+   "text": "A former Green Bay Packers wide receiver who owned the Left Guard bar and restaurant. Half of it became the first Chi-Chi’s.[^1][^42]"
+  },
+  {
+   "name": "John Stephens",
+   "role": "Stockbroker and franchisor",
+   "text": "A Minneapolis stockbroker who bought the rights to operate and franchise Chi-Chi’s through his publicly traded company.[^1]"
+  },
+  {
+   "name": "Shelly Frank",
+   "role": "President and chief executive, 1977–1986",
+   "text": "Negotiated Heublein’s purchase of Zapata, then worked on new concepts at Kentucky Fried Chicken. He joined at 33 and moved the headquarters to Louisville.[^1]",
+   "later": "Retired in 1986, by a reference history’s account.[^2]"
+  },
+  {
+   "name": "Hal Smith",
+   "role": "Chief executive, 1986–1992",
+   "text": "Came from Chili’s. He cut corporate staff, shortened managers’ hours and stayed on under Foodmaker until he quit in June 1992.[^2]"
+  },
+  {
+   "name": "Joe Micatrotto",
+   "role": "President after 1992",
+   "text": "A long-time Chi-Chi’s employee who became president when Smith’s successor moved on after six months, and who went on to lead Family Restaurants.[^2]"
+  },
+  {
+   "name": "Kevin S. Relyea",
+   "role": "Chairman and chief executive of Prandium",
+   "text": "Ran the parent through its 2002 Chapter 11 and resigned all his positions on December 30, 2002.[^2][^7]"
+  },
+  {
+   "name": "Hugh G. Hilton",
+   "role": "Chief executive of Prandium from Feb 2003",
+   "text": "A member of the turnaround firm Alvarez & Marsal, appointed interim chief executive. He signed the filing that reported Chi-Chi’s Chapter 11.[^7][^9]"
+  },
+  {
+   "name": "Bill Zavertnik",
+   "role": "Chief operating officer of Chi-Chi’s, 2003",
+   "text": "The company’s voice in the first weeks of the outbreak. He announced that green onions had been removed from every kitchen before the cause was confirmed.[^14]"
+  },
+  {
+   "name": "Jack Utsick",
+   "role": "Would-be buyer",
+   "text": "An entertainment promoter whose company Worldwide Entertainment was majority owner of the entity that signed a letter of intent for Chi-Chi’s in October 2003.[^9][^15]"
+  },
+  {
+   "name": "William Marler",
+   "role": "Plaintiffs’ lawyer",
+   "text": "A Seattle lawyer who represented about a third of the claimants and handled the class action for people who received shots.[^20][^23]"
+  },
+  {
+   "name": "Joseph Kadow",
+   "role": "Senior vice president, Outback Steakhouse",
+   "text": "Explained the purchase: Outback wanted locations, and took no brand, operations or recipes.[^20]"
+  },
+  {
+   "name": "Francis Leroy",
+   "role": "Licensee for Europe",
+   "text": "A Belgian operator who held the Chi-Chi’s rights for Europe, North Africa and Asia in 2014 and spoke of 400 restaurants in Europe.[^40]"
+  },
+  {
+   "name": "Michael McDermott",
+   "role": "Founder of Chi-Chi’s Restaurants LLC",
+   "text": "The founder’s son, with a career at Kona Grill and Rojo Mexican Grill. He announced the agreement with Hormel in 2024 and opened the St. Louis Park restaurant in 2025.[^30][^36]"
+  }
+ ]
+}

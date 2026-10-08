@@ -1,0 +1,405 @@
+{
+ "kicker": "Timeline",
+ "title": "Fifty years, 36 moments",
+ "lede": "From half a bar in Richfield to one restaurant in St. Louis Park. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "outbreak": {
+   "label": "The outbreak",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Bankruptcy & end",
+   "color": "#a8321f"
+  },
+  "after": {
+   "label": "Afterlife",
+   "color": "#93743a"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1975–76",
+   "cat": "corporate",
+   "title": "The first restaurant",
+   "text": "Marno McDermott opens Chi-Chi’s in half of Max McGee’s Left Guard bar in Richfield, Minnesota. Sources give 1975 or 1976.",
+   "src": [
+    1,
+    2,
+    42
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1977",
+   "cat": "corporate",
+   "title": "Shelly Frank and Louisville",
+   "text": "Frank leaves Kentucky Fried Chicken to run the company for John Stephens & Co., which holds the franchise rights. Headquarters move to Louisville.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1983",
+   "cat": "money",
+   "title": "Profit of $9.1M",
+   "text": "Company-owned restaurants have gone from one to 46 in two years, by a reference history’s account.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "1984",
+   "cat": "money",
+   "title": "Peak profit",
+   "text": "Net income reaches $16.7M, the highest the reference history records.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "1985",
+   "cat": "corporate",
+   "title": "42 openings in a year",
+   "text": "27 company-owned and 15 franchised restaurants open.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "1986",
+   "cat": "corporate",
+   "title": "Hal Smith takes over",
+   "text": "Frank retires. The chain has 200 restaurants and falling profits.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "1988",
+   "cat": "money",
+   "title": "Foodmaker buys the chain",
+   "text": "The owner of Jack in the Box pays about $235M.",
+   "src": [
+    1,
+    2,
+    15
+   ]
+  },
+  {
+   "date": "",
+   "year": "1990",
+   "cat": "money",
+   "title": "Best year for sales",
+   "text": "Sales of $450M, as a reference history gives them.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1992",
+   "cat": "corporate",
+   "title": "Smith quits",
+   "text": "He cites personal reasons. Two presidents follow within a year.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1992",
+   "cat": "corporate",
+   "title": "Consul bought out of Chapter 11",
+   "text": "Chi-Chi’s pays $8.7M in cash for a major franchisee and keeps 22 of its 26 restaurants.",
+   "src": [
+    2,
+    11
+   ]
+  },
+  {
+   "date": "Jan 27",
+   "year": "1994",
+   "cat": "money",
+   "title": "Family Restaurants Inc.",
+   "text": "Foodmaker contributes Chi-Chi’s to a new company owned with Apollo and Green Equity Investors. The price is about $270.0M including assumed debt.",
+   "src": [
+    3,
+    11,
+    46
+   ]
+  },
+  {
+   "date": "Q4",
+   "year": "1994",
+   "cat": "money",
+   "title": "$144.78M written off",
+   "text": "All the goodwill recorded for the Chi-Chi’s merger is written off in its first year.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "1996",
+   "cat": "corporate",
+   "title": "A new president",
+   "text": "Roger Chamness joins as president of Chi-Chi’s.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1996",
+   "cat": "money",
+   "title": "Sales fall 11.5%",
+   "text": "Comparable-restaurant sales drop 11.5%; the division’s EBITDA is a loss of $4.3M.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Q4",
+   "year": "1998",
+   "cat": "corporate",
+   "title": "48 restaurants marked for divestment",
+   "text": "The parent records a provision of $22.9M. Twenty of the 48 are later kept because their leases cannot be ended.",
+   "src": [
+    5,
+    6
+   ]
+  },
+  {
+   "date": "",
+   "year": "1999",
+   "cat": "corporate",
+   "title": "Prandium",
+   "text": "Family Restaurants renames itself Prandium Inc.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Jun 28",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "El Torito sold",
+   "text": "Chi-Chi’s becomes the parent’s largest remaining chain.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "May 6",
+   "year": "2002",
+   "cat": "death",
+   "title": "Prandium files Chapter 11",
+   "text": "A pre-packaged plan for the parent and one subsidiary. It is confirmed on June 20 and takes effect on July 2. The operating subsidiaries, including Chi-Chi’s, are not part of it.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Dec 30",
+   "year": "2002",
+   "cat": "corporate",
+   "title": "The chief executive resigns",
+   "text": "Kevin S. Relyea leaves. In February 2003 two members of the turnaround firm Alvarez & Marsal take over.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "May 14",
+   "year": "2003",
+   "cat": "money",
+   "title": "A $6.4M offer for the parent",
+   "text": "Investors sign a non-binding letter of intent to buy Prandium for $6.4M in cash plus contingent payments. The deal falls apart that summer.",
+   "src": [
+    8,
+    17
+   ]
+  },
+  {
+   "date": "Oct 3–6",
+   "year": "2003",
+   "cat": "outbreak",
+   "title": "The exposure",
+   "text": "Most of the patrons who will fall ill eat at the Beaver Valley Mall restaurant in these four days.",
+   "src": [
+    12,
+    13
+   ]
+  },
+  {
+   "date": "Oct 8",
+   "year": "2003",
+   "cat": "death",
+   "title": "Chi-Chi’s files Chapter 11",
+   "text": "Chi-Chi’s, Inc. and Koo Koo Roo file in Delaware. Chi-Chi’s has a letter of intent from a buyer.",
+   "src": [
+    9,
+    16
+   ]
+  },
+  {
+   "date": "Oct 31",
+   "year": "2003",
+   "cat": "corporate",
+   "title": "Prandium deregisters",
+   "text": "The parent files a Form 15 and stops reporting to the SEC. It has about 264 stockholders of record.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Nov 3",
+   "year": "2003",
+   "cat": "outbreak",
+   "title": "The advisory",
+   "text": "Pennsylvania’s health department issues an advisory and the restaurant closes.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Nov 14",
+   "year": "2003",
+   "cat": "outbreak",
+   "title": "A third death",
+   "text": "At least 490 people are ill. The chain removes green onions from all its restaurants.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Nov 21",
+   "year": "2003",
+   "cat": "outbreak",
+   "title": "The CDC names green onions",
+   "text": "A dispatch reports about 555 cases as of November 20 and traces the onions to Mexico.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Aug 3",
+   "year": "2004",
+   "cat": "death",
+   "title": "Outback wins the auction",
+   "text": "The bankruptcy court approves Outback Steakhouse as bidder for the designation rights to 76 properties, for $42.5M.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "Sep 20",
+   "year": "2004",
+   "cat": "death",
+   "title": "The restaurants close",
+   "text": "The Outback deal closes and Chi-Chi’s ceases operations. Its website says “Adios.”",
+   "src": [
+    19,
+    21,
+    22
+   ]
+  },
+  {
+   "date": "Sep 1",
+   "year": "2005",
+   "cat": "outbreak",
+   "title": "The final count",
+   "text": "The CDC’s investigators publish their study: 601 patients, three deaths, at least 124 hospitalised.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Sep",
+   "year": "2005",
+   "cat": "outbreak",
+   "title": "A $6.25M settlement",
+   "text": "A federal judge approves a settlement for a man who needed a liver transplant.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "2005",
+   "cat": "outbreak",
+   "title": "$162.23 each",
+   "text": "Cheques go out to 4,931 people who received shots, from an $800,000 class settlement. Total settlements pass $40M.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Oct 26",
+   "year": "2009",
+   "cat": "after",
+   "title": "MegaMex Foods",
+   "text": "Hormel and Herdez Del Fuerte close a 50/50 joint venture whose brands include Chi-Chi’s.",
+   "src": [
+    26
+   ]
+  },
+  {
+   "date": "Sep 29",
+   "year": "2019",
+   "cat": "after",
+   "title": "Luxembourg closes",
+   "text": "The two Chi-Chi’s restaurants in Luxembourg close at the end of a franchise agreement. One had opened in 1989.",
+   "src": [
+    39
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "2024",
+   "cat": "after",
+   "title": "A licence for the founder’s son",
+   "text": "Michael McDermott announces an agreement with Hormel to open Chi-Chi’s restaurants.",
+   "src": [
+    29,
+    30,
+    31
+   ]
+  },
+  {
+   "date": "Oct 6",
+   "year": "2025",
+   "cat": "after",
+   "title": "St. Louis Park",
+   "text": "The first new Chi-Chi’s opens at 1602 West End Boulevard.",
+   "src": [
+    35,
+    36
+   ]
+  },
+  {
+   "date": "Nov",
+   "year": "2025",
+   "cat": "after",
+   "title": "No second conversion",
+   "text": "The Rojo Mexican Grill in Maple Grove closes without becoming a Chi-Chi’s; a different site is said to be planned.",
+   "src": [
+    37
+   ]
+  }
+ ]
+}

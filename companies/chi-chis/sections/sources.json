@@ -1,0 +1,225 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Chi-Chi’s was a subsidiary for its last sixteen years, so the primary sources are the SEC filings of its owners and of the company that bought its real estate, and the CDC’s two reports on the outbreak. Its years as a public company, 1977 to 1988, predate EDGAR; for those we rely on the chain’s own history page and a reference history, and say so.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Chi-Chi’s Inc., [“Chi-Chi’s History”](https://web.archive.org/web/19980509001214/http://www.chi-chis.com:80/history.htm), chi-chis.com, as captured by the Internet Archive on May 9, 1998."
+  },
+  {
+   "id": 2,
+   "text": "[“History of Chi-Chi’s Inc.”](https://www.fundinguniverse.com/company-histories/chi-chi-s-inc-history/), FundingUniverse, reproducing the International Directory of Company Histories, vol. 51 (2003). A reference history."
+  },
+  {
+   "id": 3,
+   "text": "Family Restaurants, Inc., [Form 10-K for the year ended Dec 31, 1995](https://www.sec.gov/Archives/edgar/data/813856/0000892569-96-000355.txt), filed Apr 1, 1996 (SEC EDGAR)."
+  },
+  {
+   "id": 4,
+   "text": "Family Restaurants, Inc., [Form 10-K for the year ended Dec 28, 1997](https://www.sec.gov/Archives/edgar/data/813856/0000892569-98-000883.txt), filed Mar 30, 1998 (SEC EDGAR)."
+  },
+  {
+   "id": 5,
+   "text": "Prandium, Inc., [Form 10-K for the year ended Dec 26, 1999](https://www.sec.gov/Archives/edgar/data/813856/0001017062-00-000798.txt), filed Mar 29, 2000 (SEC EDGAR)."
+  },
+  {
+   "id": 6,
+   "text": "Prandium, Inc., [Form 10-K for the year ended Dec 30, 2001](https://www.sec.gov/Archives/edgar/data/813856/0001017062-02-000597.txt), filed Apr 1, 2002 (SEC EDGAR)."
+  },
+  {
+   "id": 7,
+   "text": "Prandium, Inc., [Form 10-K for the year ended Dec 29, 2002](https://www.sec.gov/Archives/edgar/data/813856/0001017062-03-000687.txt), filed Mar 31, 2003 (SEC EDGAR)."
+  },
+  {
+   "id": 8,
+   "text": "Prandium, Inc., [Form 10-Q for the quarter ended Jun 29, 2003](https://www.sec.gov/Archives/edgar/data/813856/0001193125-03-035722.txt), filed Aug 13, 2003 (SEC EDGAR)."
+  },
+  {
+   "id": 9,
+   "text": "Prandium, Inc., [Form 8-K, event of Oct 8, 2003](https://www.sec.gov/Archives/edgar/data/813856/0001193125-03-059872.txt), filed Oct 9, 2003 (SEC EDGAR)."
+  },
+  {
+   "id": 10,
+   "text": "Prandium, Inc., [Form 8-K, event of Oct 31, 2003](https://www.sec.gov/Archives/edgar/data/813856/0001193125-03-070995.txt), filed Oct 31, 2003 (SEC EDGAR)."
+  },
+  {
+   "id": 11,
+   "text": "Foodmaker, Inc., [Form 10-K for the year ended Oct 2, 1994](https://www.sec.gov/Archives/edgar/data/0000807882/000080788294000031/0000807882-94-000031.txt) (SEC EDGAR)."
+  },
+  {
+   "id": 12,
+   "text": "Centers for Disease Control and Prevention, [“Hepatitis A Outbreak Associated with Green Onions at a Restaurant: Monaca, Pennsylvania, 2003”](https://web.archive.org/web/20231130231140/https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5247a5.htm), Morbidity and Mortality Weekly Report, posted Nov 21, 2003 (Internet Archive copy of cdc.gov). The report calls the restaurant “Restaurant A.”"
+  },
+  {
+   "id": 13,
+   "text": "C. Wheeler and others, [“An outbreak of hepatitis A associated with green onions”](https://pubmed.ncbi.nlm.nih.gov/16135833/), New England Journal of Medicine 353(9):890–897, Sep 1, 2005. Abstract, as indexed by PubMed."
+  },
+  {
+   "id": 14,
+   "text": "Charles Sheehan, The Associated Press, [“3 dead, 490 sickened in hepatitis A outbreak”](https://www2.ljworld.com/news/2003/nov/15/3_dead_490/), Lawrence Journal-World, Nov 15, 2003."
+  },
+  {
+   "id": 15,
+   "text": "David Goetz, [“Chi-Chi’s becomes tougher sell”](https://marlerclark.com/news_events/chi-chis-becomes-tougher-sell-2), The Courier-Journal (Louisville), Nov 30, 2003, as reproduced on the website of the law firm Marler Clark."
+  },
+  {
+   "id": 16,
+   "text": "[“Chi Chi’s restaurant chain files Chap. 11 bankruptcy”](https://vindyarchives.com/news/2003/oct/12/region), wire and staff reports, The Vindicator (Youngstown), Oct 12, 2003."
+  },
+  {
+   "id": 17,
+   "text": "Andy Fixmer, [“Prandium Struggles as Sale Falls Through, Debt Burdens”](https://www.ocbj.com/imported/prandium-struggles-as-sale-falls-through-debt/), Orange County Business Journal, Nov 9, 2003."
+  },
+  {
+   "id": 18,
+   "text": "Outback Steakhouse, Inc., [Form 8-K, event of Aug 30, 2004](https://www.sec.gov/Archives/edgar/data/0000874691/000087469104000093/chichisform8kv2.htm), dated Sep 3, 2004 (SEC EDGAR)."
+  },
+  {
+   "id": 19,
+   "text": "Outback Steakhouse, Inc., [Form 10-K for the year ended Dec 31, 2004](https://www.sec.gov/Archives/edgar/data/0000874691/000087469105000040/form10-k2004.htm) (SEC EDGAR)."
+  },
+  {
+   "id": 20,
+   "text": "Bruce Schreiner, The Associated Press, [“Outback Steakhouse closes on acquisition of Chi-Chi’s restaurants”](https://www.hepatitisblog.com/?p=25999), September 2004, as reproduced on Marler Clark’s Hepatitis Blog on Sep 23, 2004."
+  },
+  {
+   "id": 21,
+   "text": "Sopaporn Saeung, [“Chi-Chi’s restaurant closes doors after 27 years”](https://idsnews.com/article/2004/10/chi-chis-restaurant-closes-doors-after-27-years), Indiana Daily Student, Oct 14, 2004."
+  },
+  {
+   "id": 22,
+   "text": "Chi-Chi’s Inc., [closing message](https://web.archive.org/web/20041010214646/http://www.chi-chis.com/main.htm), chi-chis.com, as captured by the Internet Archive on Oct 10, 2004."
+  },
+  {
+   "id": 23,
+   "text": "Jason Cato, [“Chi-Chi’s checks to arrive soon”](https://marlerclark.com/news_events/chi-chis-checks-to-arrive-soon-2), Pittsburgh Tribune-Review, Dec 21, 2005, as reproduced on the website of Marler Clark."
+  },
+  {
+   "id": 24,
+   "text": "The Associated Press, [“Hepatitis victim settles Chi-Chi’s lawsuit”](https://www.nbcnews.com/health/health-news/hepatitis-victim-settles-chi-chis-lawsuit-flna1c9437677), NBC News, Sep 30, 2005."
+  },
+  {
+   "id": 25,
+   "text": "Matt Simmons, [“On this day: November 3, 2003, Chi-Chi’s restaurant in Monaca linked to hepatitis A outbreak”](https://www.wpxi.com/archive/this-day-november-3-2003-chi-chis-restaurant-monaca-linked-hepatitis-outbreak/3O6NHOMGEREALKJPEVMZPXZHV4), WPXI, Nov 3, 2020. A retrospective."
+  },
+  {
+   "id": 26,
+   "text": "Hormel Foods Corporation, [“Hormel Foods and Herdez Del Fuerte Announce Close of MegaMex Foods Agreement”](https://www.sec.gov/Archives/edgar/data/0000048465/000110465909060402/a09-32240_1ex99.htm), press release of Oct 26, 2009, filed as an exhibit to Form 8-K (SEC EDGAR)."
+  },
+  {
+   "id": 27,
+   "text": "Hormel Foods Corporation, [Form 10-K for the year ended Oct 26, 2025](https://www.sec.gov/Archives/edgar/data/48465/000004846525000059/hrl-20251026.htm), filed Dec 5, 2025 (SEC EDGAR)."
+  },
+  {
+   "id": 28,
+   "text": "[chichis.com](https://www.chichis.com/), the Chi-Chi’s grocery brand’s website, © 2026 Hormel Foods, LLC, read on Oct 8, 2026."
+  },
+  {
+   "id": 29,
+   "text": "[“Chi-Chi’s restaurant chain returning in 2025, first stores opening in Minnesota”](https://www.fox9.com/news/chi-chis-restaurant-chain-returning-minnesota), FOX 9 Minneapolis-St. Paul, Dec 4, 2024."
+  },
+  {
+   "id": 30,
+   "text": "Alicia Kelso, [“Chi-Chi’s is plotting a comeback next year”](https://www.nrn.com/casual-dining/chi-chi-s-is-plotting-a-comeback-next-year), Nation’s Restaurant News, Dec 4, 2024."
+  },
+  {
+   "id": 31,
+   "text": "[“Snell & Wilmer Secures Long-Term Licensing Agreement to Help Relaunch Chi-Chi’s Restaurant Chain”](https://swlaw.com/client_news/snell-wilmer-secures-long-term-licensing-agreement-to-help-relaunch-chi-chis-restaurant-chain), Snell & Wilmer, Dec 11, 2024. A law firm’s announcement."
+  },
+  {
+   "id": 32,
+   "text": "[“Chi-Chi’s opening its first Minnesota restaurant this year”](https://fox9.com/news/chi-chis-opening-st-louis-park-maple-grove), FOX 9 Minneapolis-St. Paul, Feb 25, 2025."
+  },
+  {
+   "id": 33,
+   "text": "[“Chi-Chi’s is ready to open its first restaurant in 20 years”](https://www.restaurantbusinessonline.com/emerging-brands/chi-chis-ready-open-its-first-restaurant-20-years), Restaurant Business, 2025 (published before the Oct 6 opening; we did not record the day)."
+  },
+  {
+   "id": 34,
+   "text": "[“Chi-Chi’s restaurant in St. Louis Park to begin construction”](https://www.fox9.com/news/chi-chis-restaurant-st-louis-park-begin-construction), FOX 9 Minneapolis-St. Paul, Aug 19, 2025."
+  },
+  {
+   "id": 35,
+   "text": "Howard Thompson, [“When will Chi-Chi’s open? Owner sets opening date for St. Louis Park restaurant”](https://www.fox9.com/news/revived-chi-chis-restaurant-st-louis-park-sets-opening-date), FOX 9 Minneapolis-St. Paul, Sep 30, 2025."
+  },
+  {
+   "id": 36,
+   "text": "[“CHI-CHI’s opens first restaurant following brand relaunch”](https://www.inforum.com/business/chi-chis-opens-first-restaurant-following-brand-relaunch), The Forum of Fargo-Moorhead (InForum), Oct 6, 2025."
+  },
+  {
+   "id": 37,
+   "text": "Corey Bork, [“Rojo Mexican Grill in Maple Grove Closes, Chi-Chi’s To Open at Different Location”](https://ccxmedia.org/news/rojo-mexican-grill-in-maple-grove-closes-chi-chis-to-open-at-different-location/), CCX Media, Nov 11, 2025."
+  },
+  {
+   "id": 38,
+   "text": "[Chi-Chi’s, St. Louis Park](https://www.chichisrestaurants.com/), the restaurant’s website, read on Oct 8, 2026."
+  },
+  {
+   "id": 39,
+   "text": "[“Chi-Chi’s to close on 29 September”](https://en.paperjam.lu/article/delano_chi-chis-close-29-september), Delano (Paperjam, Luxembourg), Sep 24, 2019."
+  },
+  {
+   "id": 40,
+   "text": "Johan Van Geyte, [“Chi-Chi’s plans large European expansion”](https://www.retaildetail.eu/en/news/mode/chi-chis-plans-large-european-expansion), RetailDetail, May 12, 2014."
+  },
+  {
+   "id": 41,
+   "text": "[“What Happened To Chi-Chi’s Restaurants?”](https://thetakeout.com/1849663561), The Takeout, first published Oct 12, 2022 and since updated. A secondary account."
+  },
+  {
+   "id": 42,
+   "text": "[“Chi-Chi’s Mexican Restaurante”](https://greetingsfromsiouxfalls.com/chi-chi-s), Greetings from Sioux Falls, a local-history website. A secondary account citing the Minneapolis Star of 1977."
+  },
+  {
+   "id": 43,
+   "text": "Wikimedia Commons: [“Chi-Chi’s in Brussels - Sarah Stierch.jpg”](https://commons.wikimedia.org/wiki/File:Chi-Chi%27s_in_Brussels_-_Sarah_Stierch.jpg), photograph by Sarah Stierch, Aug 9, 2011, CC BY 4.0; [“Chi-Chi’s at Parkway Center Mall (15061585908).jpg”](https://commons.wikimedia.org/wiki/File:Chi-Chi%27s_at_Parkway_Center_Mall_(15061585908).jpg), photograph by Nicholas Eckhart, Jun 28, 2013, CC BY 2.0; [“Asian King Buffet Former Chi Chi’s - panoramio.jpg”](https://commons.wikimedia.org/wiki/File:Asian_King_Buffet_Former_Chi_Chi%27s_-_panoramio.jpg), photograph by Corey Coyle, Nov 18, 2012, CC BY 3.0."
+  },
+  {
+   "id": 44,
+   "text": "YouTube uploads, with the uploaders’ own titles and dates: [deputay](https://www.youtube.com/watch?v=-Z4G9YtJTSo), [augustv123](https://www.youtube.com/watch?v=OZ_hl6lN4LY), [Betamax King](https://www.youtube.com/watch?v=RE1HTLIWD54), [Captain Mr. Oracle](https://www.youtube.com/watch?v=-atsLrrrgMo), [vintagecommercial](https://www.youtube.com/watch?v=pA3qAVOLIsU), [Dr. Audrey Guskey](https://www.youtube.com/watch?v=jweH_ahvisU) and [FOX 9 Minneapolis-St. Paul](https://www.youtube.com/watch?v=yD1lKymv6j0)."
+  },
+  {
+   "id": 45,
+   "text": "Chi-Chi’s Inc., [home page](https://web.archive.org/web/19990422132200/http://www.chi-chis.com/), chi-chis.com, as captured by the Internet Archive on Apr 22, 1999."
+  },
+  {
+   "id": 46,
+   "text": "Family Restaurants, Inc., [Form 10-K for the year ended Dec 25, 1994](https://www.sec.gov/Archives/edgar/data/813856/0000892569-95-000075.txt), filed Mar 27, 1995 (SEC EDGAR)."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "Sales fell 33% from 1996 to 2002: 1 − $186.4M ÷ $278.1M.[^4][^7] $450M of notes is $300.0M of senior notes plus $150.0M principal of discount notes; the discount notes raised $109.0M.[^46] $173M + $62M + $35M = $270M, which matches Family Restaurants’ stated price of about $270.0M; the pairing of the two filings is ours.[^11][^46] 2002 divisional EBITDA of $9,161,000 is 4.9% of sales of $186,400,000.[^7] The waffle shares are 23 ÷ 76 and 15 ÷ 76, and $42.5M ÷ 76 ≈ $559,000.[^18] 35 + 25 + 15 + 1 = 76.[^19] 9,000 ÷ 601 ≈ 15.0.[^12][^13] 4,931 × $162.23 = $799,956.[^23] Twenty-six days is October 8 to November 3, 2003.[^9][^25] “Six of the seven years” counts the comparable-sales figures for 1996 to 2002.[^4][^5][^7] That Chi-Chi’s was Prandium’s largest chain after 2000 is from its 2001 sales of $205.9M out of $289.9M.[^6] The timeline’s “fifty years” is 1975–76 to 2025."
+  },
+  {
+   "label": "The homepage sparkline",
+   "text": "The card’s series (1, 92, 200, 235, 202, 177, 153, 136, 76, 0, 1) mixes kinds of count: the company’s own figure for year five[^1], a reference history’s 200 for 1986[^2], 235 operated or franchised in January 1994[^3], company-operated plus franchised and licensed at the end of 1996, 1998, 2000 and 2002[^4][^5][^7], the 76 properties in the Outback sale, which is a transaction and not a census of open restaurants[^18], zero after the closing[^21] and the one licensed restaurant open since 2025.[^36]"
+  },
+  {
+   "label": "Conflicts between sources",
+   "text": "**The founding year.** A reference history and the revived company say 1975; the chain’s own history page said the original restaurant was created in 1976, a local-history site says it opened in 1976, a 2025 local report says the founder started it in 1976, and the closing message thanked customers “of the past 27 years,” which counts from 1977.[^1][^2][^22][^37][^38][^42] We head the page 1975 and say so here. **The place.** The company’s page calls it a Minneapolis bar “now known as the Richfield Chi-Chi’s”; the reference history says “downtown.”[^1][^2] **The name.** The company said it was the nickname of McDermott’s wife. A local-history site reports that McDermott told the Minneapolis Star in 1977 it was Spanish slang; we did not read that article, so that is **unverified**.[^1][^42] **The outbreak.** The CDC’s first report gives about 555 cases and three deaths as of November 20, 2003, and its final study 601 patients and three deaths. Press reports from 2004 onward give 660 ill and four dead; we could not find the basis for the higher figures and use the CDC’s.[^12][^13][^20][^23] **Restaurants in late 2003.** 128 in 20 states in a wire report of the filing; “all its 100 locations” in the AP a month later; and plans to close 11 more in a business journal.[^14][^16][^17] **The 1988 sale.** $235M in two secondary sources; we did not find a contemporary report or filing. The reference history gives 129 company-operated and 77 franchised restaurants at the sale, and a newspaper “more than 230” at the peak.[^2][^15] **The 1994 deal.** Family Restaurants says Foodmaker received $205.0M in cash less assumed leases and debt; Foodmaker says $208M less about $35M of debt, or about $173M. Family Restaurants says Chi-Chi’s operated or franchised 235 restaurants; the reference history says 237. A newspaper dates the deal to 1993, when it was agreed.[^2][^3][^11][^15] **Profits in the 1980s.** The reference history gives peak 1984 net income as $16.7M in one paragraph and $15.6M in another.[^2] **Hormel.** A magazine says Hormel “bought the rights” to the brand in the United States in 1987; Hormel’s own filings list the trademark among those “owned or licensed.”[^27][^41]"
+  },
+  {
+   "label": "Secondary and retrospective",
+   "text": "Everything before 1994 rests on the chain’s own history page and a reference history, not on filings: first-year sales, the 92 restaurants, 1980s profits, Hal Smith’s changes, the Foodmaker price and the 1990 and 1992 sales figures.[^1][^2] The Courier-Journal, Tribune-Review and 2004 Associated Press articles were read as reproduced on a plaintiffs’ law firm’s websites, not on the newspapers’ own.[^15][^20][^23] The date of Pennsylvania’s advisory comes from a 2020 television retrospective.[^25] The status of restaurants in Belgium and Vienna comes from one magazine article and is **unverified**.[^41] Jack Butorac’s statement that Foodmaker lost 55 percent of sales in two years is his own and is contradicted in direction, if not in detail, by the reference history, which has sales rising to 1990.[^2][^15]"
+  },
+  {
+   "label": "Unknown",
+   "text": "Chi-Chi’s own profit or loss for any year after 1988. Division sales for 1994 and 1995. How many restaurants were open on the last day. What creditors of Chi-Chi’s, Inc. recovered and when the case closed. Whether Chi-Chi’s recovered anything from its suppliers. What became of the buyer’s October 2003 letter of intent, beyond the fact that no sale closed. How and when the restaurant trademarks passed to Hormel. The terms of the 2024 licence. Whether any Chi-Chi’s restaurant operates outside the United States today."
+  },
+  {
+   "label": "How we read the sources",
+   "text": "SEC filings were downloaded from EDGAR as full-text submissions and searched; the figures in the charts were read from the “Selected Operating Data” tables.[^4][^5][^6][^7] The CDC report would not load from cdc.gov and was read in an Internet Archive copy.[^12] The New England Journal of Medicine study was read as its abstract only, retrieved through the National Library of Medicine’s interface; the PubMed page itself did not load for us.[^13] The chain’s own pages were read in Internet Archive captures.[^1][^22][^45] Newspaper and trade articles were loaded directly and read in full, except that the NBC News page showed only its opening paragraph and a photo caption.[^24] We could not load the Star Tribune, The New York Times or the Pittsburgh Post-Gazette, and cite none of them. The two live websites were read on October 8, 2026.[^28][^38]"
+  },
+  {
+   "label": "Images",
+   "text": "Three photographs are from Wikimedia Commons under the licences stated.[^43] The building in the third is identified as a former Chi-Chi’s only by its photographer’s title. Website images are cropped from Internet Archive captures.[^1][^22][^45] We did not use the chain’s logo, and the drawings avoid it. Embedded commercials are shown as they aired and include it. The accent red was matched by eye to the signs in the 2011 photograph."
+  },
+  {
+   "label": "General knowledge",
+   "text": "That Jack in the Box is a fast-food chain and that Taco Bell is a Mexican-style fast-food chain. That Monaca is in Beaver County, north-west of Pittsburgh (also stated in several sources above)."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 400 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a glass jar of red salsa with a blank label on a grocery shelf beside a bag of tortilla chips">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="10" y="268" width="380" height="20" fill="#c9c4bc"/>
+<path d="M60 288 h60 v14 h-60 Z M250 288 h70 v14 h-70 Z" fill="#fbf9f5"/>
+<path d="M78 295 h24 M266 295 h36" fill="none" stroke-width="2"/>
+<rect x="70" y="92" width="110" height="26" rx="5" fill="#f2c94c"/>
+<path d="M82 96 v18 M98 96 v18 M114 96 v18 M130 96 v18 M146 96 v18 M162 96 v18" fill="none" stroke="#b58e1c" stroke-width="2"/>
+<path d="M66 132 c0 -10 6 -14 14 -14 h90 c8 0 14 4 14 14 v124 c0 8 -4 12 -12 12 h-94 c-8 0 -12 -4 -12 -12 Z" fill="#b3202a"/>
+<g fill="#7dbb42" stroke-width="2"><circle cx="84" cy="140" r="5"/><circle cx="164" cy="146" r="5"/><circle cx="96" cy="252" r="5"/><circle cx="156" cy="250" r="5"/></g>
+<rect x="66" y="160" width="118" height="76" fill="#fbf9f5"/>
+<path d="M82 182 h86 M92 198 h66 M100 214 h50" fill="none" stroke="#c9c4bc" stroke-width="5"/>
+<path d="M76 130 v20" fill="none" stroke="#fbf9f5" stroke-width="4"/>
+<path d="M232 96 l16 -14 l14 14 l14 -14 l14 14 l14 -14 l14 14 l14 -14 l12 14 v172 h-126 Z" fill="#f1dcae"/>
+<rect x="232" y="140" width="126" height="70" fill="#7dbb42"/>
+<g fill="#f2c94c"><path d="M262 198 l22 -42 l22 42 Z M300 198 l20 -34 l20 34 Z"/></g>
+<path d="M248 232 h94 M260 246 h70" fill="none" stroke="#c9c4bc" stroke-width="5"/>
+</g></svg>

@@ -1,0 +1,109 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "On shelves",
+   "color": "var(--green)",
+   "title": "The grocery brand",
+   "text": "Chi-Chi’s salsas, dips, tortillas and chips are sold by Hormel Foods, whose 2025 annual report lists the name among its significant owned or licensed trademarks. The brand has been part of MegaMex Foods, Hormel’s joint venture with Herdez Del Fuerte, since 2009.[^26][^27][^28]"
+  },
+  {
+   "status": "Open",
+   "color": "var(--green)",
+   "title": "One restaurant in Minnesota",
+   "text": "Chi-Chi’s Restaurants LLC, formed by Michael McDermott under licence from Hormel, opened at 1602 West End Boulevard, St. Louis Park on October 6, 2025. Its website listed that single location on October 8, 2026.[^30][^36][^38]"
+  },
+  {
+   "status": "Stalled",
+   "color": "var(--gold)",
+   "title": "The second restaurant",
+   "text": "McDermott said two restaurants would open in Minnesota in 2025. The Maple Grove site he named closed in November 2025 without converting; a local report said a Chi-Chi’s would open at a different location “yet to be determined.” We found no announcement of one.[^29][^32][^37]"
+  },
+  {
+   "status": "Converted",
+   "color": "var(--blue)",
+   "title": "The buildings",
+   "text": "Outback Steakhouse bought the rights to 76 properties to turn into its own brands or sell on. By the end of 2004 it still held 35.[^19][^20] The Beaver Valley Mall restaurant became a Three Amigos.[^23] Other buildings have had other tenants, such as the buffet in our gallery.[^43]"
+  },
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The company",
+   "text": "Chi-Chi’s, Inc. was liquidated in its Chapter 11 case. Its parent, Prandium, stopped reporting to the SEC on October 31, 2003.[^10][^23] What creditors finally received is not in our sources."
+  },
+  {
+   "status": "Settled",
+   "color": "var(--mute)",
+   "title": "The lawsuits",
+   "text": "About 550 suits were filed. By December 2005 more than $40M had been paid and fewer than ten cases were outstanding, according to the plaintiffs’ lawyer who handled the class action.[^23]"
+  },
+  {
+   "status": "Mostly gone",
+   "color": "var(--mute)",
+   "title": "The restaurants abroad",
+   "text": "The parent counted eight franchised or licensed Chi-Chi’s abroad at the end of 2002.[^7] A Belgian operator had fifteen in Belgium and two in Germany in 2014; the two in Luxembourg closed in 2019.[^39][^40] A 2022 magazine article, later updated, says the Belgian restaurants closed in 2022 and the last one, in Vienna, in 2024. We could not confirm that from a primary source, so treat it as **unverified**.[^41]"
+  },
+  {
+   "status": "Documented",
+   "color": "var(--blue)",
+   "title": "The finding",
+   "text": "The CDC’s investigators concluded that green onions contaminated before they arrived caused the outbreak, and that putting them in large batches of salsa served to every customer contributed to its size. Their first report said the onions were likely contaminated in the distribution system or during growing, harvest, packing or cooling.[^12][^13]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "subtitle": "Two founders, a stockbroker’s public company, three leveraged owners, a bankruptcy court and a food company.",
+   "nodes": [
+    {
+     "when": "1975–76",
+     "owner": "Marno McDermott and Max McGee",
+     "what": "Open the first restaurant in half of McGee’s bar in Richfield, Minnesota.[^1][^42]"
+    },
+    {
+     "when": "1977",
+     "owner": "John Stephens & Co., later Chi-Chi’s Inc.",
+     "what": "A publicly traded company holds the rights to operate and franchise. Shelly Frank runs it from Louisville.[^1]"
+    },
+    {
+     "when": "Apr 1988",
+     "owner": "Foodmaker Inc.",
+     "what": "The owner of Jack in the Box buys the company.[^1][^2]",
+     "price": "about $235M"
+    },
+    {
+     "when": "Jan 1994",
+     "owner": "Family Restaurants Inc.",
+     "what": "Owned by Apollo, Foodmaker and Green Equity Investors. Renamed Prandium in 1999.[^2][^3][^46]",
+     "price": "about $270.0M"
+    },
+    {
+     "when": "Oct 2003",
+     "owner": "Chi-Chi’s, Inc., in Chapter 11",
+     "what": "Files in Delaware with 128 restaurants.[^9][^16]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Sep 2004",
+     "owner": "Outback Steakhouse (the sites only)",
+     "what": "Buys designation rights to 76 properties. The brand and recipes are not included.[^18][^20]",
+     "price": "$42.5M"
+    },
+    {
+     "when": "By 2009",
+     "owner": "Hormel Foods",
+     "what": "Sells Chi-Chi’s grocery products and, by 2024, is described as the owner of the trademarks. How and when the restaurant marks reached Hormel is not in our sources.[^26][^29]"
+    },
+    {
+     "when": "Dec 2024",
+     "owner": "Hormel Foods, licensed to Chi-Chi’s Restaurants LLC",
+     "what": "A long-term licence lets Michael McDermott use the name and logo on restaurants.[^30][^31]",
+     "status": "current"
+    }
+   ],
+   "source": "Chi-Chi’s own history page[^1], a reference history[^2], SEC filings of Family Restaurants, Prandium, Outback and Hormel[^3][^9][^18][^26], the Associated Press[^20] and trade and local press.[^29][^30][^31] A secondary source dates Hormel’s rights to the name on grocery products to 1987; we could not confirm the year.[^41]"
+  }
+ ]
+}

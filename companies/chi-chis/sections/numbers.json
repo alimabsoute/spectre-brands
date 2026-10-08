@@ -1,0 +1,438 @@
+{
+ "kicker": "The money",
+ "title": "Seven years of filings, one direction",
+ "lede": "Chi-Chi’s was a division of other companies after 1988, so its own accounts are thin. Its parent reported the division separately from 1996 to 2002, and those seven years are the core of this section. Earlier figures come from the chain’s own history page and a reference history, and are marked.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Restaurants: up in ten years, down in twenty",
+   "subtitle": "Restaurants in the system at the dates a source gives a count. The kinds of count differ; see the source line.",
+   "labels": [
+    "1975–76",
+    "c. 1981",
+    "1986",
+    "Jan ’94",
+    "1996",
+    "1998",
+    "2000",
+    "2002",
+    "Sep ’04",
+    "Oct ’25"
+   ],
+   "format": "num",
+   "xLabel": "Date of the count (not evenly spaced)",
+   "series": [
+    {
+     "label": "Restaurants",
+     "data": [
+      1,
+      92,
+      200,
+      235,
+      202,
+      177,
+      153,
+      136,
+      0,
+      1
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 1,
+     "title": "year five",
+     "text": "92 company-owned and franchised restaurants, from four in the first full year.[^1]"
+    },
+    {
+     "i": 3,
+     "title": "the third owner",
+     "text": "235 restaurants operated or franchised when Family Restaurants takes over.[^3]"
+    },
+    {
+     "i": 4,
+     "title": "reported on its own",
+     "text": "184 company-operated and 18 franchised or licensed at the end of 1996.[^4]"
+    },
+    {
+     "i": 7,
+     "title": "the last annual report",
+     "text": "128 company-operated and 8 franchised or licensed, all 8 of them abroad.[^7]"
+    },
+    {
+     "i": 8,
+     "title": "closed",
+     "text": "The U.S. restaurants cease operations on September 20, 2004.[^21]"
+    },
+    {
+     "i": 9,
+     "title": "one again",
+     "text": "A licensed restaurant opens in St. Louis Park, Minnesota.[^36]"
+    }
+   ],
+   "source": "1975–76: the first restaurant.[^1][^2] 92 in “year five”, which we place about 1981.[^1] 200 by 1986, from a reference history.[^2] 235 operated or franchised in January 1994.[^3] 1996 to 2002: company-operated plus franchised and licensed at each year end (184+18, 165+12, 140+13, 128+8).[^4][^5][^7] Zero is the U.S. chain after September 20, 2004; licensed restaurants abroad stayed open and are not counted.[^21][^40]"
+  },
+  {
+   "kind": "chart",
+   "id": "ccSales",
+   "title": "Chi-Chi’s sales, as its owners reported them",
+   "subtitle": "$ millions. The first bar is Foodmaker’s fiscal year to October 3, 1993 (53 weeks); 1994 and 1995 were not reported separately.",
+   "chart": {
+    "type": "bar",
+    "height": 320,
+    "legend": false,
+    "labels": [
+     "FY1993",
+     "1994",
+     "1995",
+     "1996",
+     "1997",
+     "1998",
+     "1999",
+     "2000",
+     "2001",
+     "2002"
+    ],
+    "y": {
+     "format": "usdM",
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Sales ($M)",
+      "data": [
+       404.5,
+       null,
+       null,
+       278.1,
+       245.8,
+       243.7,
+       227.7,
+       217.5,
+       205.9,
+       186.4
+      ],
+      "colors": [
+       "grey",
+       "grey",
+       "grey",
+       "brand",
+       "brand",
+       "brand",
+       "brand",
+       "brand",
+       "brand",
+       "red"
+      ]
+     }
+    ]
+   },
+   "source": "FY1993: Foodmaker’s annual report, which consolidated Chi-Chi’s.[^11] 1996 and 1997: Family Restaurants.[^4] 1998 and 1999: Prandium.[^5] 2000 to 2002: Prandium.[^6][^7] Figures are rounded from thousands. Fiscal 2000 had 53 weeks.[^7] From 1996 to 2002 sales fell 33% (derived)."
+  },
+  {
+   "kind": "chart",
+   "id": "ccComps",
+   "title": "Sales at comparable restaurants",
+   "subtitle": "Change on the year before, in percent, as reported in each year’s filing.",
+   "chart": {
+    "type": "bar",
+    "height": 300,
+    "legend": false,
+    "labels": [
+     "1996",
+     "1997",
+     "1998",
+     "1999",
+     "2000",
+     "2001",
+     "2002"
+    ],
+    "y": {
+     "format": "pct"
+    },
+    "series": [
+     {
+      "label": "Comparable-restaurant sales (%)",
+      "data": [
+       -11.5,
+       -8.2,
+       1.8,
+       -0.5,
+       -1.1,
+       -1.2,
+       -6.6
+      ],
+      "colors": [
+       "red",
+       "red",
+       "green",
+       "red",
+       "red",
+       "red",
+       "red"
+      ]
+     }
+    ]
+   },
+   "source": "Family Restaurants and Prandium annual reports.[^4][^5][^6][^7] In 2002 the fall was $13.1M on a comparable base.[^7]"
+  },
+  {
+   "kind": "chart",
+   "id": "ccEbitda",
+   "title": "What the division earned before overheads above it",
+   "subtitle": "Chi-Chi’s divisional EBITDA, $ millions. It covers restaurant cash flow less the division’s own administration, before interest, depreciation and the parent’s costs.",
+   "chart": {
+    "type": "bar",
+    "height": 300,
+    "legend": false,
+    "labels": [
+     "1996",
+     "1997",
+     "1998",
+     "1999",
+     "2000",
+     "2001",
+     "2002"
+    ],
+    "y": {
+     "format": {
+      "pre": "$",
+      "suf": "M",
+      "dec": 1
+     }
+    },
+    "series": [
+     {
+      "label": "Divisional EBITDA ($M)",
+      "data": [
+       -4.3,
+       0.0,
+       1.4,
+       5.9,
+       0.6,
+       4.8,
+       9.2
+      ],
+      "colors": [
+       "red",
+       "grey",
+       "green",
+       "green",
+       "green",
+       "green",
+       "green"
+      ]
+     }
+    ]
+   },
+   "source": "Family Restaurants and Prandium annual reports.[^4][^5][^6][^7] Exact figures in thousands: (4,278), 36, 1,426, 5,942, 557, 4,775 and 9,161. The 2002 figure is 4.9% of sales (derived). The filings’ definition excludes interest and depreciation, so this is not profit."
+  },
+  {
+   "kind": "flow",
+   "title": "The 1994 deal, as the two sides described it",
+   "subtitle": "What Family Restaurants paid for Chi-Chi’s, $ millions.",
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 0
+   },
+   "from": {
+    "label": "Purchase price, per Family Restaurants",
+    "value": 270
+   },
+   "to": [
+    {
+     "label": "Cash to Foodmaker",
+     "value": 173,
+     "color": "brand",
+     "note": "“approximately $173 million”[^11]"
+    },
+    {
+     "label": "Stake in Family Restaurants",
+     "value": 62,
+     "color": "gold",
+     "note": "A 39% interest, valued at $62M[^11]"
+    },
+    {
+     "label": "Chi-Chi’s debt assumed",
+     "value": 35,
+     "color": "grey",
+     "note": "“approximately $35 million”[^11]"
+    }
+   ],
+   "source": "The total is Family Restaurants’ figure of about $270.0M, “including the assumption of capitalized lease and debt obligations.”[^46] The three parts are Foodmaker’s.[^11] That they add up to the total is our arithmetic (derived), and the two filings differ slightly on the cash; see the data notes. Foodmaker also received a warrant."
+  },
+  {
+   "kind": "waffle",
+   "title": "What Outback actually bought",
+   "subtitle": "The 76 properties in the designation-rights sale, by how Chi-Chi’s held them (shares derived).",
+   "format": "pct",
+   "itemLabel": "Kind of property",
+   "valueLabel": "Share of the 76",
+   "items": [
+    {
+     "label": "Owned land and building",
+     "value": 30,
+     "note": "23 properties",
+     "color": "brand"
+    },
+    {
+     "label": "Ground leases",
+     "value": 30,
+     "note": "23 properties",
+     "color": "gold"
+    },
+    {
+     "label": "Sale-leasebacks with purchase options",
+     "value": 20,
+     "note": "15 properties",
+     "color": "blue"
+    },
+    {
+     "label": "Ordinary leases",
+     "value": 20,
+     "note": "15 properties",
+     "color": "grey"
+    }
+   ],
+   "source": "Outback Steakhouse, Form 8-K, September 3, 2004.[^18] Shares are derived and rounded to whole squares: 23 of 76 is 30.3% and 15 of 76 is 19.7%. The price works out to about $559,000 a property (derived: $42.5M ÷ 76)."
+  },
+  {
+   "kind": "flow",
+   "title": "Where the 76 properties stood at the end of 2004",
+   "subtitle": "Outback’s account of its designation rights three months after closing.",
+   "format": "num",
+   "from": {
+    "label": "Properties in the sale",
+    "value": 76
+   },
+   "to": [
+    {
+     "label": "Still held by Outback",
+     "value": 35,
+     "color": "brand",
+     "note": "14 owned, 10 sale-leasebacks, 9 ground leases, 2 leases[^19]"
+    },
+    {
+     "label": "Rights assigned to a third party",
+     "value": 25,
+     "color": "gold",
+     "note": "For $9,975,000, October 2004[^19]"
+    },
+    {
+     "label": "Chi-Chi’s required to keep",
+     "value": 15,
+     "color": "grey",
+     "note": "November 2004[^19]"
+    },
+    {
+     "label": "Excluded by Chi-Chi’s",
+     "value": 1,
+     "color": "red",
+     "note": "Outback was paid $1,100,000[^19]"
+    }
+   ],
+   "source": "Outback Steakhouse, annual report for 2004.[^19]"
+  },
+  {
+   "kind": "scale",
+   "title": "Fifteen people given shots for every one who fell ill",
+   "icon": "person",
+   "count": 15,
+   "left": {
+    "value": "9,000",
+    "label": "people given immune globulin, approximately[^12]"
+   },
+   "unit": {
+    "value": "601",
+    "label": "patients with hepatitis A[^13]"
+   },
+   "per": "the 601 patients",
+   "equation": "9,000 ÷ 601 ≈ 15.0. The 9,000 is the CDC’s approximate figure from November 2003; the 601 is its final count, published in 2005.[^12][^13]"
+  },
+  {
+   "kind": "bars",
+   "title": "How the count grew",
+   "subtitle": "Cases attributed to the Beaver Valley Mall restaurant, by source and date.",
+   "format": "num",
+   "itemLabel": "Source",
+   "valueLabel": "Cases",
+   "items": [
+    {
+     "label": "Associated Press, Nov 14, 2003",
+     "value": 490,
+     "display": "at least 490",
+     "color": "grey",
+     "note": "Three deaths[^14]"
+    },
+    {
+     "label": "CDC dispatch, as of Nov 20, 2003",
+     "value": 555,
+     "display": "about 555",
+     "color": "grey",
+     "note": "Three deaths[^12]"
+    },
+    {
+     "label": "CDC investigators, published Sep 2005",
+     "value": 601,
+     "self": true,
+     "note": "Three deaths; at least 124 hospitalised[^13]"
+    },
+    {
+     "label": "Press reports, 2004 and 2005",
+     "value": 660,
+     "color": "gold",
+     "note": "Four deaths[^20][^23]"
+    }
+   ],
+   "source": "Associated Press[^14][^20], CDC[^12][^13] and the Pittsburgh Tribune-Review.[^23] We use the CDC’s published count and note the press figure; see “Conflicts between sources.”"
+  },
+  {
+   "kind": "counters",
+   "title": "The bill for the outbreak",
+   "items": [
+    {
+     "value": "$40M+",
+     "text": "paid by the chain and its insurers to settle cases by December 2005[^23]"
+    },
+    {
+     "value": "$6.25M",
+     "text": "the largest settlement we found, for a man who needed a liver transplant[^24]"
+    },
+    {
+     "value": "$162.23",
+     "text": "to each of 4,931 people who had received shots, from an $800,000 class settlement[^23]"
+    },
+    {
+     "value": "$55M",
+     "text": "that Chi-Chi’s sought from suppliers, saying the outbreak ended a planned sale of the chain[^23]"
+    }
+   ],
+   "source": "Pittsburgh Tribune-Review, December 21, 2005[^23] and the Associated Press.[^24] About 550 lawsuits were filed.[^23] 4,931 × $162.23 is $799,956 (derived)."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "A Chi-Chi’s restaurant, from the filings",
+   "rows": [
+    {
+     "value": "5,000–10,600",
+     "text": "square feet of floor space in a typical restaurant[^3][^7]"
+    },
+    {
+     "value": "200–400",
+     "text": "guests seated in the restaurant and lounge[^3][^7]"
+    },
+    {
+     "value": "$7.62",
+     "text": "average check in 1997[^4]"
+    },
+    {
+     "value": "$11.51",
+     "text": "average food check in 2002[^7]"
+    }
+   ],
+   "source": "Family Restaurants and Prandium annual reports.[^3][^4][^7] The filings label the measure “average check” in 1997 and “average food check” in 2002, so the two may not be like for like."
+  }
+ ]
+}

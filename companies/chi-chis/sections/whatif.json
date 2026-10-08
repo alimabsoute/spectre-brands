@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three points where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "No outbreak",
+   "actual": "Chi-Chi’s filed for Chapter 11 on October 8, 2003 with a non-binding letter of intent from a buyer. The outbreak became public on November 3. The sale never closed, and the chain later sought $55M from suppliers for the lost deal.[^9][^15][^23][^25]",
+   "whatif": "A sale might have closed and some restaurants might have traded on under a new owner. The same sources give reasons to doubt it: the letter of intent was non-binding, a former executive understood the deal to be off before the outbreak, and comparable sales had just fallen 6.6% in a year.[^7][^15] A smaller Chi-Chi’s under an entertainment promoter is the optimistic case."
+  },
+  {
+   "tab": "No 1994 merger",
+   "actual": "Foodmaker put Chi-Chi’s into Family Restaurants in January 1994 in a deal financed with $450M of notes. The $144.78M of goodwill attached to Chi-Chi’s was written off that year, and comparable sales fell 11.5% in 1996.[^3][^4][^46]",
+   "whatif": "Kept inside Foodmaker, Chi-Chi’s would have had one owner and less debt directly above it. But Foodmaker was dealing with its own food-safety crisis at Jack in the Box in 1993, and guest counts at Chi-Chi’s were already falling, according to a reference history.[^2][^11] A different owner would not have changed what customers were choosing instead."
+  },
+  {
+   "tab": "Shrink early",
+   "actual": "In late 1998 the parent marked 48 Chi-Chi’s restaurants for divestment, then kept 20 of them because it could not get out of the leases. Company-operated restaurants drifted down from 184 in 1996 to 128 in 2002.[^4][^6][^7]",
+   "whatif": "A faster cut to the best hundred restaurants in the mid-1990s might have left a profitable regional chain; the division’s EBITDA did improve as weak sites closed, to $9.2M in 2002.[^7] The leases are the obstacle the filings name, and the money to buy them out would have had to come from a parent that had none to spare."
+  }
+ ]
+}

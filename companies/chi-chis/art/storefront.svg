@@ -1,0 +1,18 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a closed stucco restaurant with a red tile awning, a blank sign and a notice on the locked door">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="10" y="252" width="420" height="30" fill="#d9d5cf"/>
+<path d="M40 252 V110 h110 V70 h140 v40 h110 v142 Z" fill="#f1dcae"/>
+<rect x="170" y="84" width="100" height="34" rx="6" fill="#fbf9f5"/>
+<path d="M186 101 h68" fill="none" stroke="#c9c4bc" stroke-dasharray="6 8"/>
+<path d="M150 150 h140 l16 30 h-172 Z" fill="#b3202a"/>
+<path d="M160 165 h126 M176 150 l-8 30 M204 150 l-4 30 M236 150 l4 30 M264 150 l8 30" fill="none" stroke="#7d141b" stroke-width="2"/>
+<rect x="190" y="182" width="60" height="70" fill="#6b4a2c"/>
+<path d="M220 182 v70" fill="none"/>
+<rect x="198" y="198" width="44" height="26" fill="#fbf9f5" transform="rotate(-4 220 211)"/>
+<path d="M204 208 h30 M204 216 h22" fill="none" stroke-width="2" transform="rotate(-4 220 211)"/>
+<path d="M210 232 h20" fill="none" stroke="#f2c94c" stroke-width="5"/>
+<g fill="#3d4a54"><path d="M64 150 h60 v60 h-60 Z M316 150 h60 v60 h-60 Z"/></g>
+<path d="M64 150 a30 22 0 0 1 60 0 M316 150 a30 22 0 0 1 60 0" fill="#f1dcae"/>
+<path d="M70 158 l48 44 M322 158 l48 44" fill="none" stroke="#6b7a85" stroke-width="2"/>
+<g fill="#7dbb42"><path d="M26 252 c-6 -24 6 -36 10 -52 c6 16 14 30 6 52 Z M404 252 c-6 -20 4 -30 8 -44 c6 14 12 26 6 44 Z"/></g>
+</g></svg>

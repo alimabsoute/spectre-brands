@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "Three owners, each using debt",
+   "text": "Foodmaker paid about $235M in 1988 and, by a former executive’s account, borrowed against Chi-Chi’s real estate to do it. The 1994 deal was financed with $450M of notes and wrote off $144.78M of Chi-Chi’s goodwill within the year. The parent filed its own Chapter 11 in 2002, warned of going-concern doubt nine months later, and Chi-Chi’s listed more than $100M of debts when it filed.[^3][^7][^15][^16][^46]"
+  },
+  {
+   "weight": 25,
+   "title": "Ten years of falling sales",
+   "text": "Comparable-restaurant sales fell in six of the seven years from 1996 to 2002, by 11.5% and 8.2% at the start and 6.6% at the end. Division sales dropped from $278.1M to $186.4M. A reference history describes guest counts already falling in 1992 as Taco Bell and casual-dining chains took customers.[^2][^4][^5][^7]"
+  },
+  {
+   "weight": 20,
+   "title": "The hepatitis A outbreak",
+   "text": "601 people were infected and three died after eating at one restaurant. The chain said sales were damaged systemwide, a consultant called it “a tough sell,” the planned sale did not close, and more than $40M went to settlements. It came four weeks after the Chapter 11 filing, so it cannot be the cause of the insolvency. It is the reason there was no buyer for the business as a going concern.[^9][^13][^15][^23]"
+  },
+  {
+   "weight": 15,
+   "title": "Expansion in the 1980s",
+   "text": "The chain opened 42 restaurants in 1985 alone. A reference history lists the results: restaurants of 10,000 to 12,000 square feet that were too big to run profitably, clustered sites that cut each other’s sales, failures in New York and New England, and a $20M write-off for 21 closures by 1988.[^2]"
+  },
+  {
+   "weight": 10,
+   "title": "A parent with other problems",
+   "text": "From 1994 Chi-Chi’s shared an owner with El Torito, then Koo Koo Roo and Hamburger Hamlet. A 1996 restructuring cut two-thirds of the jobs at its Louisville office. The parent bought and sold whole divisions, changed its name, lost its chief executive at the end of 2002 and its finance chief in August 2003, and was run by a turnaround firm when Chi-Chi’s filed.[^6][^7][^15][^17]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings show what happened to sales and debt, and the CDC shows what happened in Monaca. How far the outbreak shortened the chain’s life is a matter of opinion: the company itself argued in court that it destroyed a sale."
+}

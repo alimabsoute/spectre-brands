@@ -1,0 +1,121 @@
+{
+ "name": "Chi-Chi’s",
+ "number": "037",
+ "tier": "ghost",
+ "tierWhy": "Hormel Foods still sells salsa, chips and tortillas under the Chi-Chi’s name, and a restaurant licensed by Hormel to the founder’s son has traded as Chi-Chi’s in St. Louis Park, Minnesota since October 6, 2025; the original chain closed in September 2004.[^21][^28][^36][^38]",
+ "category": "restaurants",
+ "cause": "debt",
+ "years": "1975 – 2004",
+ "died": 2004,
+ "dates": [
+  {
+   "date": "2003-10-08",
+   "text": "filed for Chapter 11 in Delaware, four weeks before a hepatitis A outbreak was traced to one of its restaurants"
+  },
+  {
+   "date": "2004-09-20",
+   "text": "ceased operations as Outback Steakhouse closed its $42.5 million purchase of the rights to 76 restaurant properties"
+  },
+  {
+   "date": "2025-10-06",
+   "text": "reopened as a single licensed restaurant in St. Louis Park, Minnesota"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Full-service Mexican restaurants · Louisville, Kentucky",
+ "title": "Chi-Chi’s (1975–2004): post-mortem · Spectre Brands",
+ "description": "A Minnesota Mexican restaurant that grew past 230 locations, was sold three times with borrowed money, filed for Chapter 11 in October 2003 and was then hit by the largest hepatitis A outbreak then recorded in the United States. A sourced post-mortem of Chi-Chi’s.",
+ "theme": {
+  "accent": "#b3202a",
+  "soft": "#fbecec"
+ },
+ "card": {
+  "blurb": "A Mexican restaurant that began in a corner of a Minnesota bar grew past 230 locations and changed owners three times. It was already bankrupt when green onions at one Pennsylvania restaurant infected 601 people.",
+  "stat": {
+   "value": "601",
+   "label": "people infected at one restaurant in 2003, by the CDC’s final count"
+  },
+  "spark": [
+   1,
+   92,
+   200,
+   235,
+   202,
+   177,
+   153,
+   136,
+   76,
+   0,
+   1
+  ],
+  "peak": 3
+ },
+ "hero": {
+  "dates": "First restaurant opened 1975 or 1976. Chapter 11 filed Oct 8, 2003. Restaurants closed Sep 20, 2004. One reopened Oct 6, 2025.",
+  "standfirst": "Chi-Chi’s is remembered as the chain a hepatitis outbreak killed. Its owner’s SEC filings show it was bankrupt four weeks before anyone knew about the outbreak.",
+  "deck": "Chi-Chi’s started in half of a bar in Richfield, Minnesota and was billed at its peak as the largest Mexican restaurant chain east of the Mississippi. It was sold to Foodmaker in 1988 and folded into Family Restaurants, later Prandium, in 1994, each time with borrowed money. Sales at its restaurants fell in six of the seven years from 1996 to 2002. On October 8, 2003 Chi-Chi’s filed for Chapter 11. In November, health officials traced a hepatitis A outbreak to green onions served at its restaurant in the Beaver Valley Mall near Pittsburgh. The last restaurants closed in September 2004 when Outback Steakhouse bought the real estate. The name survived on grocery shelves, and in 2025 it went back on one restaurant. This page is built from the SEC filings of the chain’s owners, the CDC’s reports and the press of the time, and it says where they disagree.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a margarita, salsa and a basket of chips. Not an official asset and not the chain’s logo.",
+  "motion": "float",
+  "archive": [
+   {
+    "image": "img/archive-1999-04-home.avif",
+    "caption": "chi-chis.com, April 1999",
+    "alt": "A pale yellow web page with a cartoon to-go box mascot, a list of links marked with gold stars and the line Life always needs a little Salsa"
+   },
+   {
+    "image": "img/brussels.avif",
+    "caption": "A licensed Chi-Chi’s in Brussels, 2011",
+    "alt": "A stone office building with two red neon Chi-Chi’s signs over arched ground-floor openings and people crossing the street"
+   },
+   {
+    "image": "img/parkway.avif",
+    "caption": "A closed Chi-Chi’s at a dead mall, 2013",
+    "alt": "A stucco mall entrance with a red tile awning and the ghost outline of removed sign letters on the wall"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "235",
+    "text": "restaurants operated or franchised when Family Restaurants took the chain over in January 1994[^3]"
+   },
+   {
+    "value": "$144.8M",
+    "text": "of goodwill from that purchase written off within the same year[^3]"
+   },
+   {
+    "value": "601",
+    "text": "hepatitis A patients traced to one restaurant in 2003; three died, by the CDC’s final count[^13]"
+   },
+   {
+    "value": "$42.5M",
+    "text": "paid by Outback Steakhouse for the rights to 76 properties. The name was not part of the sale[^18][^20]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It was bankrupt before the outbreak.",
+   "text": "Chi-Chi’s, Inc. filed for Chapter 11 on October 8, 2003. Pennsylvania’s health department issued its first advisory about the Beaver Valley Mall restaurant on November 3 (26 days later, derived).[^9][^25]"
+  },
+  {
+   "title": "The sales decline was ten years old.",
+   "text": "Comparable-restaurant sales fell 11.5% in 1996, 8.2% in 1997 and 6.6% in 2002, and rose in only one year between. Company-operated restaurants went from 184 to 128.[^4][^5][^7]"
+  },
+  {
+   "title": "Each owner bought it with debt.",
+   "text": "Foodmaker paid $235M in 1988. The 1994 deal that created Family Restaurants was financed with $450M of notes and a $150M credit line, and the $144.8M of goodwill it put on the books for Chi-Chi’s was written off that year. The parent went through its own Chapter 11 in 2002.[^2][^3][^7][^46]"
+  },
+  {
+   "title": "The outbreak ended the sale, not the solvency.",
+   "text": "A buyer had signed a letter of intent for Chi-Chi’s when it filed. After 601 infections and three deaths at one restaurant, the chain said sales were hurt systemwide and later claimed $55M for the lost deal. It paid more than $40M in settlements.[^9][^13][^15][^23]"
+  },
+  {
+   "title": "The name outlived the restaurants twice.",
+   "text": "Outback bought sites, not the brand. Hormel kept selling Chi-Chi’s salsa, licensed restaurants went on trading in Europe for years, and in 2025 Hormel licensed the name to the founder’s son for a new restaurant.[^20][^26][^29][^40]"
+  }
+ ]
+}

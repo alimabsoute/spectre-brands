@@ -1,0 +1,71 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Margaritas on television, then the evening news",
+ "lede": "Five commercials as collectors have preserved them, one local news report from the first week of the outbreak and one from the reopening. Airing years of the commercials come from the uploaders and we could not confirm them.",
+ "videos": [
+  {
+   "id": "c85",
+   "title": "A Chi-Chi’s commercial dated 1985",
+   "year": 1985,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "-Z4G9YtJTSo",
+   "caption": "Uploaded by deputay and dated 1985 by the uploader.[^44] A reference history says 42 restaurants opened that year.[^2]"
+  },
+  {
+   "id": "c87",
+   "title": "A fajita commercial dated 1987",
+   "year": 1987,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "OZ_hl6lN4LY",
+   "caption": "Uploaded by augustv123, who dates it to 1987, the year before Foodmaker bought the chain.[^44][^2]"
+  },
+  {
+   "id": "c91",
+   "title": "A Chi-Chi’s commercial dated 1991",
+   "year": 1991,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "RE1HTLIWD54",
+   "caption": "Uploaded by Betamax King and dated 1991 by the uploader, in the Foodmaker years.[^44]"
+  },
+  {
+   "id": "c96",
+   "title": "A “20th anniversary” commercial dated 1996",
+   "year": 1996,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "-atsLrrrgMo",
+   "caption": "Uploaded by Captain Mr. Oracle, whose title dates it to 1996 and calls it a 20th-anniversary spot.[^44] If that is right, the chain was counting from 1976, the year its own website gave for the first restaurant.[^1]"
+  },
+  {
+   "id": "salsa91",
+   "title": "Chi-Chi’s salsa, the grocery product",
+   "year": 1991,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "pA3qAVOLIsU",
+   "caption": "A commercial for the jarred salsa, uploaded by vintagecommercial and dated 1991 by the uploader.[^44] The grocery line is the part of the brand that never closed.[^28]"
+  },
+  {
+   "id": "kdka",
+   "title": "KDKA: “Chi Chi’s Hepatitis Crisis”",
+   "year": 2003,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "jweH_ahvisU",
+   "caption": "A two-minute Pittsburgh television report, uploaded by the channel Dr. Audrey Guskey and dated November 4, 2003 in the upload’s title, the day after the state’s advisory.[^44][^25] We could not confirm the air date independently."
+  },
+  {
+   "id": "fox9",
+   "title": "FOX 9: “Chi-Chi’s reopens in Minnesota after 20 years”",
+   "year": 2025,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "yD1lKymv6j0",
+   "caption": "The Minneapolis station’s report on the St. Louis Park opening, published on its own channel in 2025.[^44] The station’s written reports are among our sources.[^35]"
+  }
+ ],
+ "note": "We found no embeddable footage of the September 2004 closings."
+}

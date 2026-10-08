@@ -1,0 +1,104 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Stucco, red tile and a line about salsa",
+ "label": "Brand gallery",
+ "lede": "Two pages of the chain’s own website from the Internet Archive and three freely licensed photographs. The drawings are our own and do not reproduce the logo.",
+ "archive": [
+  {
+   "image": "img/archive-1999-04-home.avif",
+   "date": "1999",
+   "caption": "The home page of chi-chis.com, with online ordering, a to-go mascot and the slogan “Life always needs a little Salsa.”",
+   "alt": "A pale yellow home page with a cartoon to-go box, links marked by gold stars and a slogan about salsa",
+   "credit": "Cropped from an [Internet Archive capture](https://web.archive.org/web/19990422132200/http://www.chi-chis.com/) of April 22, 1999. Shown for commentary."
+  },
+  {
+   "image": "img/archive-2004-10-adios.avif",
+   "date": "2004",
+   "caption": "The closing message that replaced the site.",
+   "alt": "An orange textured page with a single sentence ending in Adios",
+   "credit": "Cropped from an [Internet Archive capture](https://web.archive.org/web/20041010214646/http://www.chi-chis.com/main.htm) of October 10, 2004. Shown for commentary."
+  },
+  {
+   "image": "img/brussels.avif",
+   "date": "2011",
+   "caption": "A Chi-Chi’s restaurant in Brussels, photographed in August 2011, seven years after the American chain closed.",
+   "alt": "A stone building with red neon Chi-Chi’s signs over two ground-floor arches",
+   "credit": "Photo: Sarah Stierch, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chi-Chi%27s_in_Brussels_-_Sarah_Stierch.jpg), CC BY 4.0."
+  },
+  {
+   "image": "img/parkway.avif",
+   "date": "2013",
+   "caption": "A former Chi-Chi’s at the closed Parkway Center Mall, June 2013. The outline of the removed sign is still on the wall.",
+   "alt": "A stucco mall entrance with a red tile awning and the faint outline of removed letters",
+   "credit": "Photo: Nicholas Eckhart from Elyria, Ohio, United States of America, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chi-Chi%27s_at_Parkway_Center_Mall_(15061585908).jpg), CC BY 2.0."
+  },
+  {
+   "image": "img/former.avif",
+   "date": "2012",
+   "caption": "A building identified by its photographer as a former Chi-Chi’s, trading as a buffet in November 2012. The colours are heavily processed in the original.",
+   "alt": "A bright yellow and red stucco restaurant with a tile roof and an Asian King Buffet sign",
+   "credit": "Photo: Corey Coyle, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Asian_King_Buffet_Former_Chi_Chi%27s_-_panoramio.jpg), CC BY 3.0."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "Trading abroad, dark at home",
+   "ratio": "4/3",
+   "before": {
+    "label": "Brussels, 2011",
+    "image": "img/brussels.avif",
+    "caption": "A licensed Chi-Chi’s, open.[^43]",
+    "alt": "A Chi-Chi’s restaurant in Brussels in 2011"
+   },
+   "after": {
+    "label": "Parkway Center Mall, 2013",
+    "image": "img/parkway.avif",
+    "caption": "A former Chi-Chi’s, nine years closed.[^43]",
+    "alt": "A closed former Chi-Chi’s at a mall in 2013"
+   },
+   "source": "Wikimedia Commons photographs by Sarah Stierch (CC BY 4.0) and Nicholas Eckhart (CC BY 2.0).[^43] The two photographs show different buildings."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The table.",
+   "caption": "A margarita, salsa and chips. Original illustration, not an official asset."
+  },
+  {
+   "art": "art/onions.svg",
+   "title": "The bucket.",
+   "caption": "Green onions stored root side down in shipping ice, as the CDC described.[^12] Original illustration."
+  },
+  {
+   "art": "art/storefront.svg",
+   "title": "The building.",
+   "caption": "A closed restaurant with a blank sign. Original illustration, not a real location."
+  },
+  {
+   "art": "art/jar.svg",
+   "title": "The shelf.",
+   "caption": "A jar of salsa and a bag of chips with blank labels: the grocery line that outlived the restaurants.[^28] Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#b3202a",
+   "label": "Sign red (approx.)"
+  },
+  {
+   "hex": "#f1dcae",
+   "label": "Stucco (approx.)"
+  },
+  {
+   "hex": "#7dbb42",
+   "label": "Lime green (drawing)"
+  },
+  {
+   "hex": "#f2c94c",
+   "label": "Chip yellow (drawing)"
+  }
+ ],
+ "disclaimer": "Colours were matched by eye to the photographs and are approximate. Chi-Chi’s is a trademark of its owner and is discussed here in historical and editorial context. The drawings are original illustrations and are not official assets."
+}

@@ -1,0 +1,51 @@
+{
+ "kicker": "Old website",
+ "title": "chi-chis.com, 1998 to 2004",
+ "lede": "Three Internet Archive captures of the chain’s own site: its account of its history, its home page under Koo Koo Roo Enterprises, and the page that replaced everything in September 2004.",
+ "captures": [
+  {
+   "date": "1998-05-09",
+   "label": "1998",
+   "url": "http://www.chi-chis.com/history.htm",
+   "wayback": "https://web.archive.org/web/19980509001214/http://www.chi-chis.com:80/history.htm",
+   "image": "img/archive-1998-05-history.avif",
+   "h": 800,
+   "captured": "May 9, 1998",
+   "title": "“Chi-Chi’s History”",
+   "text": "The company’s own version: a corner of a Minneapolis bar, a first-year forecast of $400,000 and sales of $2M, 92 restaurants by year five.[^1]"
+  },
+  {
+   "date": "1999-04-22",
+   "label": "1999",
+   "url": "http://www.chi-chis.com/",
+   "wayback": "https://web.archive.org/web/19990422132200/http://www.chi-chis.com/",
+   "image": "img/archive-1999-04-home.avif",
+   "h": 860,
+   "captured": "Apr 22, 1999",
+   "title": "The home page",
+   "text": "Online ordering, a “Declaration of Salsafication” and a link to the parent, then called Koo Koo Roo Enterprises. The logo image was not archived.[^45]",
+   "warn": "The logo at top left did not survive in the capture."
+  },
+  {
+   "date": "2004-10-10",
+   "label": "2004",
+   "url": "http://www.chi-chis.com/main.htm",
+   "wayback": "https://web.archive.org/web/20041010214646/http://www.chi-chis.com/main.htm",
+   "image": "img/archive-2004-10-adios.avif",
+   "h": 260,
+   "captured": "Oct 10, 2004",
+   "title": "“Adios”",
+   "text": "One sentence. The page’s metadata gives its creation date as September 20, 2004, the day the Outback sale closed.[^19][^22]"
+  }
+ ],
+ "snips": [
+  {
+   "text": "Chi-Chi’s origin is as remarkable as its success. It started in one corner of a Minneapolis bar (now known as the Richfield Chi-Chi’s)",
+   "when": "History page, captured May 1998"
+  },
+  {
+   "text": "Life always needs a little Salsa",
+   "when": "Home page, captured April 1999"
+  }
+ ]
+}
