@@ -1,0 +1,28 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 45,
+   "title": "A novelty, by design",
+   "text": "The company built Orbitz to be talked about and expected sales to fade: “Our expected life-cycle of the product is coming true.”[^1][^4]"
+  },
+  {
+   "weight": 30,
+   "title": "People did not like drinking it",
+   "text": "Adult tasters gave it two stars; an AP office poll found two thumbs up among more than a dozen.[^1][^2] One panelist wrote: “I don’t like any soft drink I have to chew.”[^2]"
+  },
+  {
+   "weight": 15,
+   "title": "No money to market it",
+   "text": "Clearly Canadian did not advertise its niche brands, calling advertising “quite frankly, not affordable.”[^4]"
+  },
+  {
+   "weight": 10,
+   "title": "Shelf space and distribution",
+   "text": "The company’s filings describe independent distributors being absorbed by the big soft-drink companies and becoming less willing to carry other makers’ new-age drinks.[^6]"
+  }
+ ],
+ "disclaimer": "The weights are our judgment of how much each factor contributed. Reasonable readers could weigh them differently."
+}

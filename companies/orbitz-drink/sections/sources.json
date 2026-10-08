@@ -1,0 +1,61 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Orbitz was one product of a small Canadian company, so the record is thin: a handful of contemporary articles, the company’s own statements to the trade press, and its later SEC filings. This entry is shorter than most for that reason. Every link was opened while this page was researched.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Ted Anthony (Associated Press), [“‘Fluid-Gel’ Soft Drink Has Market in Suspense”](https://www.latimes.com/archives/la-xpm-1996-10-16-fi-54287-story.html), Los Angeles Times, Oct 16, 1996."
+  },
+  {
+   "id": 2,
+   "text": "Rick Bonino, [“Orbitz: The New Soft Drink You Can Chew, Too”](https://www.spokesman.com/stories/1997/jan/29/orbitz-the-new-soft-drink-you-can-chew-too/), The Spokesman-Review, Jan 29, 1997."
+  },
+  {
+   "id": 3,
+   "text": "Michael Trimarchi, [“Cool Drink”](https://www.washingtonpost.com/archive/business/1997/04/21/cool-drink/aaf43bff-d97f-47d1-804f-93436e463af3/), The Washington Post, April 1997."
+  },
+  {
+   "id": 4,
+   "text": "[“Clearly Canadian not deterred by Orbitz collapse”](https://strategyonline.ca/1998/08/31/22740-19980831/), Strategy, Aug 31, 1998."
+  },
+  {
+   "id": 5,
+   "text": "[“Orbitz”](https://www.atlasobscura.com/foods/orbitz-drink), Gastro Obscura (Atlas Obscura), undated; quotes a 2015 News-Press interview with Clearly Canadian."
+  },
+  {
+   "id": 6,
+   "text": "Clearly Canadian Beverage Corporation, [annual report (Form 20-F) for the year ended December 31, 2002](https://www.sec.gov/Archives/edgar/data/808464/000091228203000288/cc20f_2002.htm), SEC EDGAR, filed Jun 24, 2003."
+  },
+  {
+   "id": 7,
+   "text": "[clearlycanadian.com](https://clearlycanadian.com/), shop page titled “Clearly Canadian Shop · Nearly ready,” loaded Oct 8, 2026."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "−84% is ($1.46M − $9.4M) ÷ $9.4M = −84.5%; Strategy says “almost 85%.”[^4]"
+  },
+  {
+   "label": "Company claims",
+   "text": "The million cases by the end of 1996 is the company’s own forecast-style claim, reported by AP in October 1996, not an audited figure.[^1]"
+  },
+  {
+   "label": "Conflicts",
+   "text": "The Washington Post article is dated April 20, 1997 on its page and April 21 in its web address.[^3] Atlas Obscura says Orbitz launched and sold through Orbitz.com in 1996 and was discontinued by 1999; we have no exact date for the last production.[^5]"
+  },
+  {
+   "label": "Unknown",
+   "text": "Total Orbitz sales over its life; the exact discontinuation date; whether the Strategy figures are US or Canadian dollars. Clearly Canadian’s pre-2002 annual reports were filed on paper and are not on EDGAR."
+  },
+  {
+   "label": "Videos",
+   "text": "No Orbitz television commercial could be found, consistent with the company’s no-advertising approach.[^4] The other videos are embedded as commentary."
+  },
+  {
+   "label": "Images",
+   "text": "Both photographs are from Wikimedia Commons under the licences in their credits. Swatches are approximations. The drawing is original."
+  }
+ ]
+}

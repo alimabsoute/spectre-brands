@@ -1,0 +1,52 @@
+{
+ "kicker": "Footage",
+ "title": "No ads, plenty of reviews",
+ "lede": "Clearly Canadian did not advertise Orbitz on television; it relied on sampling and events.[^4] What survives on video is the parent brand’s advertising, a fan’s look at the drink, the 1997 website, and later tastings and retrospectives.",
+ "videos": [
+  {
+   "id": "cc-ad",
+   "title": "Original Clearly Canadian commercial",
+   "year": 1990,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "DMFHSvrdD1A",
+   "caption": "Uploaded by Clearly Canadian itself: the sparkling-water advertising that built the company before Orbitz. The year is approximate."
+  },
+  {
+   "id": "fan",
+   "title": "ORBITZ drink: 90s original",
+   "year": 2009,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "zMnufTOTDQQ",
+   "caption": "A short fan upload showing the drink. We could not establish who made it or when it was filmed; the year is the approximate upload date."
+  },
+  {
+   "id": "website",
+   "title": "The 1997 website for Orbitz",
+   "year": 2023,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "kLYYg3adaA4",
+   "caption": "A walk-through of the archived Orbitz website. Embedded as commentary; nothing on this page is taken from it."
+  },
+  {
+   "id": "review",
+   "title": "Orbitz 1997 soda review",
+   "year": 2023,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "nDTPokoU8Ag",
+   "caption": "A taste test of a decades-old bottle. Embedded as commentary."
+  },
+  {
+   "id": "retro",
+   "title": "Orbitz drink: the rise and fall",
+   "year": 2021,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "dTw6cY4bGUw",
+   "caption": "A retrospective; no figure on this page is taken from it. The year is approximate."
+  }
+ ]
+}

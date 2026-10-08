@@ -1,0 +1,23 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "This could be the pet rock of the beverage industry.",
+   "who": "**Ed Rogers**, New Products Showcase and Learning Center, Oct 1996[^1]",
+   "big": true
+  },
+  {
+   "q": "We want to give them something that’s not only delicious but entertaining.",
+   "who": "**Jonathan Cronin**, Clearly Canadian, Oct 1996[^1]"
+  },
+  {
+   "q": "I don’t like any soft drink I have to chew - too gimmicky!",
+   "who": "**Beverly Smick**, Spokesman-Review reader panel, Jan 1997[^2]"
+  },
+  {
+   "q": "Orbitz is still weird. It’s just not new in 1998.",
+   "who": "**Jonathan Cronin**, Aug 1998[^4]"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "kicker": "The money",
+ "title": "From $9.4M to $1.46M",
+ "lede": "Clearly Canadian did not break out Orbitz in the filings available on SEC EDGAR, which for this company begin in 2002. The Orbitz figures come from the company’s statements to Strategy magazine in 1998; the company figures from its 2002 annual report, in US dollars.",
+ "blocks": [
+  {
+   "kind": "bars",
+   "title": "Orbitz sales, first half of each year",
+   "subtitle": "$ millions, six months to June 30.",
+   "format": "usdM",
+   "itemLabel": "Period",
+   "valueLabel": "Sales",
+   "items": [
+    {
+     "label": "H1 1997",
+     "value": 9.4,
+     "color": "brand"
+    },
+    {
+     "label": "H1 1998",
+     "value": 1.46,
+     "color": "red",
+     "note": "−84% (derived)"
+    }
+   ],
+   "source": "Strategy, Aug 31, 1998.[^4] The article does not say whether these are US or Canadian dollars."
+  },
+  {
+   "kind": "arc",
+   "title": "Clearly Canadian’s revenue after Orbitz",
+   "subtitle": "Total revenues from continuing operations, $ millions.",
+   "labels": [
+    "1998",
+    "1999",
+    "2000",
+    "2001",
+    "2002"
+   ],
+   "format": "usdM",
+   "series": [
+    {
+     "label": "Revenue",
+     "data": [
+      34.9,
+      31.4,
+      23.2,
+      23.3,
+      20.5
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "Orbitz fades",
+     "text": "The last year with a profit: $0.3M.[^6]"
+    },
+    {
+     "i": 4,
+     "title": "2002",
+     "text": "$20.5M of revenue and a $3.6M loss.[^6]"
+    }
+   ],
+   "source": "Clearly Canadian annual report (Form 20-F) for 2002.[^6] Restated for discontinued operations."
+  },
+  {
+   "kind": "chart",
+   "id": "ccNet",
+   "title": "Clearly Canadian net income",
+   "subtitle": "$ millions.",
+   "views": [
+    {
+     "label": "Net income",
+     "chart": {
+      "type": "bar",
+      "height": 280,
+      "legend": false,
+      "labels": [
+       "1998",
+       "1999",
+       "2000",
+       "2001",
+       "2002"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Net income or loss ($M)",
+        "data": [
+         0.31,
+         -9.95,
+         -6.45,
+         -8.75,
+         -3.58
+        ],
+        "colors": [
+         "green",
+         "red",
+         "red",
+         "red",
+         "red"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "source": "Form 20-F for 2002.[^6]"
+  },
+  {
+   "kind": "counters",
+   "title": "The bottle",
+   "items": [
+    {
+     "value": "300 ml",
+     "text": "10.14 fluid ounces, in a tapered glass bottle[^2]"
+    },
+    {
+     "value": "$1.09",
+     "text": "shelf price in Spokane, January 1997[^2]"
+    },
+    {
+     "value": "130",
+     "text": "calories a bottle, no fat[^2]"
+    },
+    {
+     "value": "12–17",
+     "text": "the target age range[^1][^2]"
+    }
+   ],
+   "source": "Spokesman-Review and Associated Press.[^1][^2]"
+  }
+ ]
+}

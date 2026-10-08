@@ -1,0 +1,101 @@
+{
+ "name": "Orbitz",
+ "number": "029",
+ "tier": "dead",
+ "tierWhy": "Clearly Canadian stopped making Orbitz by 1999 and said in 2015 that it no longer had the equipment to make it. Old bottles sell to collectors; we found no official revival.[^5]",
+ "category": "consumer",
+ "cause": "fad",
+ "years": "1996 – 1999",
+ "died": 1999,
+ "dates": [
+  {
+   "date": "1996-10-16",
+   "text": "was introduced to America by the Associated Press as “a lava lamp you can drink”"
+  },
+  {
+   "date": "1998-08-31",
+   "text": "was reported down almost 85% in a year"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Non-carbonated fruit drink · Vancouver, British Columbia",
+ "title": "Orbitz (1996–1999): post-mortem · Spectre Brands",
+ "description": "The fruit drink with floating gel balls that sold a million cases in its first months and almost nothing two years later. A sourced post-mortem of Orbitz, Clearly Canadian’s planned-obsolescence soft drink.",
+ "theme": {
+  "accent": "#e2347d",
+  "soft": "#fdeef5"
+ },
+ "card": {
+  "blurb": "Clearly Canadian’s 1996 drink with colored gel balls suspended in fruit-flavored water. It was a sensation with teenagers for a year; first-half sales fell from $9.4M in 1997 to $1.46M in 1998, and the company stopped making it.",
+  "stat": {
+   "value": "−84%",
+   "label": "Orbitz sales, first half of 1998 against first half of 1997 (derived)"
+  },
+  "spark": [
+   9.4,
+   1.46
+  ],
+  "peak": 0,
+  "logo": "img/bottle.avif",
+  "logoYear": "1990s bottle"
+ },
+ "hero": {
+  "dates": "Launched in 1996. Discontinued by 1999.",
+  "standfirst": "A drink you could chew. Teenagers tried it once.",
+  "deck": "Orbitz was a non-carbonated fruit drink from Clearly Canadian, the Vancouver maker of flavored sparkling waters. Its selling point was the small balls of gellan gum that hung, without sinking, in the liquid. Launched in 1996 for 12- to 17-year-olds, it sold a million cases in its first months, by the company’s account, and was a hit in 1997. In the first half of 1998 its sales fell by almost 85%. The company said this was the life cycle it had expected; by 1999 the drink was gone. This page is built from contemporary press and Clearly Canadian’s own SEC filings.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a tall bottle with colored balls suspended in it and a ringed planet on the label. Not an official asset.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/bottle.avif",
+    "caption": "An unopened Raspberry Citrus bottle, photographed in 2024. Photo: Candeadly, Wikimedia Commons, CC BY 4.0.",
+    "alt": "A 300 ml Orbitz bottle with a yellow planet logo and orange gel balls"
+   },
+   {
+    "image": "img/red-balls.avif",
+    "caption": "A Blueberry Melon Strawberry bottle in 2012. The balls, meant to float, have sunk. Photo: Scott Schiller, Wikimedia Commons, CC BY-SA 2.0.",
+    "alt": "An Orbitz bottle with red gel balls settled at the bottom"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The drink in four numbers",
+  "rows": [
+   {
+    "value": "1M",
+    "text": "cases sold by the end of 1996, according to the company[^1]"
+   },
+   {
+    "value": "$9.4M",
+    "text": "Orbitz sales in the first half of 1997[^4]"
+   },
+   {
+    "value": "$1.46M",
+    "text": "in the first half of 1998[^4]"
+   },
+   {
+    "value": "$1.09",
+    "text": "for a 10.14-ounce bottle in Spokane, January 1997[^2]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "Built to be talked about, not repeated.",
+   "text": "Its spokesman said the aim was to make whoever brought Orbitz into a room “the center of attention for a few moments.”[^1] Reviewers called it a lava lamp, tapioca and worse.[^1][^2]"
+  },
+  {
+   "title": "The collapse was in the plan.",
+   "text": "When first-half sales fell from $9.4M to $1.46M, the marketing chief said: “Our expected life-cycle of the product is coming true.”[^4]"
+  },
+  {
+   "title": "No advertising budget to rescue it.",
+   "text": "Clearly Canadian relied on product placement, sampling and events, saying advertising was “too mass for our products and, quite frankly, not affordable.”[^4]"
+  },
+  {
+   "title": "The parent kept shrinking.",
+   "text": "Clearly Canadian’s revenue fell from $34.9M in 1998 to $20.5M in 2002, with losses in every year after 1998. Its own filings warned that beverage brands may last “a few years” before tastes change.[^6]"
+  }
+ ]
+}

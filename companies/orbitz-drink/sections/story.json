@@ -1,0 +1,51 @@
+{
+ "kicker": "The story",
+ "title": "Planet Orbitz",
+ "lede": "Orbitz was designed as a novelty and sold like one: fast, then not at all.",
+ "chapters": [
+  {
+   "when": "1996 · Launch",
+   "title": "“A lava lamp you can drink”",
+   "big": "1M",
+   "cap": "cases sold by the end of 1996, by the company’s account",
+   "color": "#e2347d",
+   "body": "Clearly Canadian, then nine years old and known for flavored sparkling water, launched Orbitz in 1996.[^1][^4] It used “fluid-gel” technology to keep small balls of gellan gum suspended in non-carbonated fruit drink, in flavors such as raspberry citrus and blueberry melon strawberry.[^1] The company aimed it at 12- to 17-year-olds and talked about a “Jetsons mentality.”[^1]\n\nThe Associated Press called it “a lava lamp you can drink” and, less kindly, “fruit-flavored phlegm in a bottle.” A product consultant called it potentially “the pet rock of the beverage industry.”[^1] The company reported better-than-expected sales: a million cases by the end of the year.[^1]",
+   "video": "cc-ad"
+  },
+  {
+   "when": "1997 · The hit",
+   "title": "Hot with teenagers, panned by adults",
+   "big": "$9.4M",
+   "cap": "Orbitz sales in the first half of 1997",
+   "color": "#e2347d",
+   "body": "By 1997 it came in four flavors and sold for about $1.09 for a 10.14-ounce bottle, at 130 calories. The Spokesman-Review’s adult tasting panel gave it two stars; the only higher score came from a 13-year-old.[^2] The Washington Post reported that Orbitz had “captured a niche market among young people.”[^3]\n\nSales in the first half of 1997 were $9.4M.[^4]",
+   "image": {
+    "image": "img/bottle.avif",
+    "caption": "Raspberry Citrus, 300 ml. Photo: Candeadly, via Wikimedia Commons, CC BY 4.0.",
+    "alt": "Orbitz bottle"
+   }
+  },
+  {
+   "when": "1998 – 1999 · The fall",
+   "title": "“Orbitz is still weird. It’s just not new.”",
+   "big": "−84%",
+   "cap": "first-half sales, 1998 against 1997 (derived)",
+   "color": "#b3261e",
+   "body": "In the first half of 1998 Orbitz sales were $1.46M. Clearly Canadian’s vice-president of marketing, Jonathan Cronin, said: “Orbitz is still weird. It’s just not new in 1998. We weren’t expecting Orbitz to sell in 1998 what it sold in 1997.”[^4] The company had no immediate plan to discontinue it, and moved on to an energy drink and an oxygenated water.[^4]\n\nBy 1999 Orbitz had been discontinued.[^5]",
+   "video": "website"
+  },
+  {
+   "when": "1999 – today · Cult",
+   "title": "Collectors’ bottles",
+   "big": "$50",
+   "cap": "about what an unopened 1990s bottle can fetch on eBay",
+   "color": "#5a5a62",
+   "body": "Clearly Canadian’s total revenue fell from $34.9M in 1998 to $20.5M in 2002, and it lost money every year from 1999 to 2002.[^6] In 2015 a company representative said fans still asked for Orbitz constantly, but that it no longer had the equipment to make it.[^5]\n\nUnopened bottles from the 1990s sell to collectors for around $50.[^5] The balls do not always stay up: in a 2012 photograph of an old bottle they have sunk to the bottom.",
+   "image": {
+    "image": "img/red-balls.avif",
+    "caption": "An old bottle in 2012. Photo: Scott Schiller, via Wikimedia Commons, CC BY-SA 2.0.",
+    "alt": "Orbitz bottle with red gel balls settled at the bottom"
+   }
+  }
+ ]
+}

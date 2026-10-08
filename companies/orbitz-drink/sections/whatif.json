@@ -1,0 +1,17 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Two decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Aim older",
+   "actual": "Orbitz targeted 12- to 17-year-olds and a “Jetsons mentality.”[^1]",
+   "whatif": "Bubble tea later made chewable drinks normal for adults. A version sold as a café drink rather than a teen novelty might have lasted longer. That is hindsight."
+  },
+  {
+   "tab": "Keep the machines",
+   "actual": "In 2015 the company said it no longer had the equipment to make Orbitz, despite steady requests.[^5]",
+   "whatif": "Keeping a small production line could have allowed occasional nostalgia runs, as other brands have done. Whether demand would cover the cost is unknown."
+  }
+ ]
+}

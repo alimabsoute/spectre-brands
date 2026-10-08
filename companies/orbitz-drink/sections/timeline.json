@@ -1,0 +1,122 @@
+{
+ "kicker": "Timeline",
+ "title": "Three years in orbit",
+ "lede": "From launch to the warehouse in about three years. Filter by thread.",
+ "categories": {
+  "product": {
+   "label": "Product",
+   "color": "#93743a"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "death": {
+   "label": "Decline & after",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1996",
+   "cat": "product",
+   "title": "Launch",
+   "text": "Clearly Canadian introduces Orbitz, a fruit drink with suspended gel balls, aimed at 12- to 17-year-olds.",
+   "src": [
+    1,
+    4
+   ]
+  },
+  {
+   "date": "Oct 16",
+   "year": "1996",
+   "cat": "product",
+   "title": "“A lava lamp you can drink”",
+   "text": "An Associated Press feature takes Orbitz national; the company expects a million cases by year end.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jan 29",
+   "year": "1997",
+   "cat": "product",
+   "title": "Two stars",
+   "text": "The Spokesman-Review’s panel tastes it: $1.09 a bottle, 130 calories.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "1997",
+   "cat": "product",
+   "title": "“Orbitz is hot”",
+   "text": "The Washington Post reports it has captured a niche among young people.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "",
+   "year": "1997",
+   "cat": "money",
+   "title": "$9.4M",
+   "text": "Orbitz sales in the first half of 1997.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "",
+   "year": "1998",
+   "cat": "money",
+   "title": "$1.46M",
+   "text": "First-half 1998 sales are down almost 85%.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Aug 31",
+   "year": "1998",
+   "cat": "death",
+   "title": "“Expected life-cycle”",
+   "text": "The marketing chief says the decline was planned for; new drinks are coming.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "",
+   "year": "1999",
+   "cat": "death",
+   "title": "Discontinued",
+   "text": "Orbitz is no longer made.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "",
+   "year": "2002",
+   "cat": "money",
+   "title": "Parent shrinks",
+   "text": "Clearly Canadian’s revenue is $20.5M, down from $34.9M in 1998.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "",
+   "year": "2015",
+   "cat": "death",
+   "title": "No machines",
+   "text": "A company representative says it no longer has the equipment to make Orbitz.",
+   "src": [
+    5
+   ]
+  }
+ ]
+}

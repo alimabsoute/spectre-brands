@@ -1,0 +1,24 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Discontinued",
+   "color": "var(--red)",
+   "title": "The drink",
+   "text": "No longer made since about 1999; Clearly Canadian said in 2015 that it lacked the equipment.[^5]"
+  },
+  {
+   "status": "Collected",
+   "color": "var(--gold)",
+   "title": "The bottles",
+   "text": "Unopened bottles from the 1990s sell for around $50 on eBay.[^5]"
+  },
+  {
+   "status": "Still trading",
+   "color": "var(--gold)",
+   "title": "The maker",
+   "text": "Clearly Canadian still sells its sparkling water under its own name. Its online shop showed only a “nearly ready” notice when we loaded it in October 2026.[^7]"
+  }
+ ]
+}

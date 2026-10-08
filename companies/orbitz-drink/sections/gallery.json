@@ -1,0 +1,44 @@
+{
+ "kicker": "Brand gallery",
+ "title": "A planet on the label",
+ "label": "Brand gallery",
+ "lede": "Two freely licensed photographs of original bottles from Wikimedia Commons, and our own drawing. A Commons photo labelled as a 2023 revival is not used: we could not confirm that it is an official product.",
+ "archive": [
+  {
+   "image": "img/bottle.avif",
+   "date": "Photographed 2024",
+   "caption": "Raspberry Citrus, unopened.",
+   "alt": "Orbitz Raspberry Citrus bottle",
+   "credit": "Photo: Candeadly, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orbitz_bottle.jpg), CC BY 4.0."
+  },
+  {
+   "image": "img/red-balls.avif",
+   "date": "Photographed 2012",
+   "caption": "Blueberry Melon Strawberry, balls settled.",
+   "alt": "Orbitz bottle with red balls",
+   "credit": "Photo: Scott Schiller, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bottle_of_orbitz_drink.jpg), CC BY-SA 2.0."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The bottle.",
+   "caption": "Gel balls “the same density as the surrounding liquid.”[^2] Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#f5e04a",
+   "label": "Raspberry Citrus planet yellow (approximate)"
+  },
+  {
+   "hex": "#f4a6c4",
+   "label": "Blueberry Melon Strawberry pink (approximate)"
+  },
+  {
+   "hex": "#2b5fb3",
+   "label": "Orbit blue (approximate)"
+  }
+ ],
+ "disclaimer": "Orbitz was a trademark of Clearly Canadian Beverage Corporation; it appears here for commentary and historical record."
+}
