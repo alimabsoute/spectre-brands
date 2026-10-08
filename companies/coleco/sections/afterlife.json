@@ -1,0 +1,66 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Sold",
+   "color": "var(--gold)",
+   "title": "The toys and games",
+   "text": "Hasbro bought most of Coleco’s non-cash assets for $85M and warrants in July 1989, putting Scrabble, Parcheesi and Aggravation into Milton Bradley and making Cabbage Patch Kids itself.[^12]"
+  },
+  {
+   "status": "Shell",
+   "color": "var(--mute)",
+   "title": "The company",
+   "text": "Coleco Industries became Ranger Industries. The 1990 plan cancelled the old shares, gave 4,000,000 new shares to unsecured creditors, moved the cash into two trusts and left the company $950,000 and about $178M of tax losses, but no business.[^13]"
+  },
+  {
+   "status": "Gone",
+   "color": "var(--red)",
+   "title": "The workers",
+   "text": "Coleco had an average of 2,500 U.S. employees in 1987 and fewer than 600 when it filed. Most of its last 80 headquarters staff were to be laid off after the Hasbro sale.[^9][^12]"
+  },
+  {
+   "status": "Revived, briefly",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "River West Brands acquired the Coleco trademark in 2005 and sold a Coleco Sonic handheld in 2006. Its Coleco Holdings ended the Coleco Chameleon console in March 2016 before it was made.[^14][^15][^16]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who held the Coleco name",
+   "nodes": [
+    {
+     "when": "1932",
+     "owner": "Connecticut Leather Company",
+     "what": "Founded by Maurice Greenberg; renamed Coleco in 1961.[^11]"
+    },
+    {
+     "when": "Jul 1988",
+     "owner": "Coleco Industries, in Chapter 11",
+     "what": "Files in New York.[^13]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Jul 1989",
+     "owner": "Hasbro",
+     "what": "Buys the right to use the Coleco name on toys with the toy lines.[^12]",
+     "price": "$85M plus warrants"
+    },
+    {
+     "when": "2005",
+     "owner": "River West Brands",
+     "what": "Acquires the trademark; launches the Coleco Sonic in 2006.[^14][^16]"
+    },
+    {
+     "when": "2014",
+     "owner": "Coleco Holdings",
+     "what": "River West’s Coleco company; cancels the Chameleon in 2016.[^15][^16]"
+    }
+   ],
+   "source": "UPI, Ranger Industries’ SEC filing, Engadget and TechSpot.[^12][^13][^14][^15][^16] We did not find who holds the trademark today."
+  }
+ ]
+}

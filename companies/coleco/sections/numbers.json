@@ -1,0 +1,241 @@
+{
+ "kicker": "The money",
+ "title": "Three peaks, one cliff",
+ "lede": "Figures for 1981 to 1985 come from Coleco’s own 1985 annual report and earlier reports, preserved by a collectors’ archive. Later figures are as reported by UPI and the Los Angeles Times. Coleco’s filings from this period are not on SEC EDGAR, which begins later.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Net sales, 1981 to 1987",
+   "subtitle": "$ millions.",
+   "labels": [
+    "1981",
+    "1982",
+    "1983",
+    "1984",
+    "1985",
+    "1986",
+    "1987"
+   ],
+   "format": "usdM",
+   "series": [
+    {
+     "label": "Net sales",
+     "data": [
+      178.0,
+      510.4,
+      596.5,
+      774.9,
+      776.0,
+      500.7,
+      504.5
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 1,
+     "title": "ColecoVision",
+     "text": "Electronics are 73% of sales.[^2]"
+    },
+    {
+     "i": 2,
+     "title": "Adam",
+     "text": "Sales up, but a $7.4M loss.[^3]"
+    },
+    {
+     "i": 4,
+     "title": "the peak",
+     "text": "$600M of Cabbage Patch Kids.[^3]"
+    },
+    {
+     "i": 5,
+     "title": "the fall",
+     "text": "Doll sales drop to about $250M.[^6]"
+    }
+   ],
+   "source": "1985 annual report (1981–85) and UPI (1986–87).[^3][^8]"
+  },
+  {
+   "kind": "chart",
+   "id": "coNet",
+   "title": "Net earnings and losses",
+   "subtitle": "$ millions. 1986 is not shown; see the notes.",
+   "views": [
+    {
+     "label": "Net result",
+     "chart": {
+      "type": "bar",
+      "height": 300,
+      "labels": [
+       "1981",
+       "1982",
+       "1983",
+       "1984",
+       "1985",
+       "1987"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Net earnings (loss)",
+        "data": [
+         7.7,
+         44.9,
+         -7.4,
+         -79.8,
+         82.9,
+         -105.4
+        ],
+        "color": "brand"
+       }
+      ]
+     }
+    }
+   ],
+   "source": "1985 annual report and UPI.[^3][^8] 1985 includes an $18.7M extraordinary tax credit; before it, earnings were $64.2M."
+  },
+  {
+   "kind": "arc",
+   "title": "Cabbage Patch Kids sales",
+   "subtitle": "$ millions, as Coleco reported them.",
+   "labels": [
+    "1983",
+    "1984",
+    "1985",
+    "1986"
+   ],
+   "format": "usdM",
+   "series": [
+    {
+     "label": "Cabbage Patch Kids",
+     "data": [
+      65,
+      540,
+      600,
+      250
+     ],
+     "color": "red"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "launch year",
+     "text": "“The $65 million level achieved in 1983.”[^2]"
+    },
+    {
+     "i": 2,
+     "title": "peak",
+     "text": "$600M.[^3]"
+    },
+    {
+     "i": 3,
+     "title": "after the craze",
+     "text": "“About $250 million.”[^6]"
+    }
+   ],
+   "source": "Coleco’s 1983 and 1985 annual reports and its January 1987 shareholder letter as reported by UPI.[^2][^3][^6] The 1986 figure is approximate."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "waffle",
+     "title": "1982: a games company",
+     "subtitle": "Share of net sales.",
+     "itemLabel": "Segment",
+     "valueLabel": "Share",
+     "items": [
+      {
+       "label": "Electronics",
+       "value": 73.2,
+       "color": "blue",
+       "note": "$373.5M"
+      },
+      {
+       "label": "Toys",
+       "value": 26.8,
+       "color": "red",
+       "note": "$136.8M"
+      }
+     ],
+     "source": "Derived from the 1983 annual report.[^2]"
+    },
+    {
+     "kind": "waffle",
+     "title": "1985: a doll company",
+     "subtitle": "Share of net sales.",
+     "itemLabel": "Segment",
+     "valueLabel": "Share",
+     "items": [
+      {
+       "label": "Toys",
+       "value": 92.8,
+       "color": "red",
+       "note": "$719.8M"
+      },
+      {
+       "label": "Electronics",
+       "value": 7.2,
+       "color": "blue",
+       "note": "$56.2M"
+      }
+     ],
+     "source": "Derived from the 1985 annual report.[^3]"
+    }
+   ]
+  },
+  {
+   "kind": "counters",
+   "title": "The Adam, in numbers",
+   "items": [
+    {
+     "value": "500,000",
+     "text": "Adams Coleco had predicted it would ship in 1983[^4]"
+    },
+    {
+     "value": "~95,000",
+     "text": "Adams it actually shipped that year[^2]"
+    },
+    {
+     "value": "$118.6M",
+     "text": "the loss on disposing of the Adam, 1984[^3]"
+    },
+    {
+     "value": "$140.0M",
+     "text": "operating loss in consumer electronics in 1984, separate from that write-off[^3]"
+    }
+   ],
+   "source": "Coleco annual reports and the Los Angeles Times.[^2][^3][^4]"
+  },
+  {
+   "kind": "bars",
+   "title": "What it owed, July 1988",
+   "subtitle": "$ millions, by creditor group, as listed in the petition.",
+   "format": "usdM",
+   "itemLabel": "Creditors",
+   "valueLabel": "Owed",
+   "items": [
+    {
+     "label": "Bondholders (four issues)",
+     "value": 335,
+     "color": "red"
+    },
+    {
+     "label": "More than 1,200 other creditors",
+     "value": 135.2,
+     "color": "gold"
+    },
+    {
+     "label": "Secured creditors, mainly 11 banks",
+     "value": 104.3,
+     "color": "brand"
+    }
+   ],
+   "source": "Los Angeles Times, Jul 18, 1988.[^10] The groups as reported add up to more than the $540.3M total liabilities; see the notes."
+  }
+ ]
+}

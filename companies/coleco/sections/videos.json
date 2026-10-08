@@ -1,0 +1,52 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Arcade at home, a computer, and a doll",
+ "lede": "Coleco advertised all three of its 1980s hits on national television. The commercials were uploaded by collectors; their dates are the uploaders’.",
+ "videos": [
+  {
+   "id": "cv",
+   "title": "ColecoVision: “Bring the Arcade Experience Home” (1982)",
+   "year": 1982,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "Boegwwbwtl0",
+   "caption": "A launch-year spot for the console Coleco introduced in August 1982.[^1] The year is the uploader’s."
+  },
+  {
+   "id": "adam",
+   "title": "Coleco Adam: “Is That Legal?” (1984)",
+   "year": 1984,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "U-dmEFOT3FY",
+   "caption": "An Adam commercial from the year Coleco cut its wholesale price from $650 to $475.[^4] The year is the uploader’s."
+  },
+  {
+   "id": "cpk",
+   "title": "Cabbage Patch Kids, Coleco toy commercial (1984)",
+   "year": 1984,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "KJN6h2kWrjo",
+   "caption": "From the year the line sold $540M.[^3] The year is the uploader’s."
+  },
+  {
+   "id": "riot",
+   "title": "From 1983: Demand for Cabbage Patch Kids causes chaos in stores",
+   "year": 1983,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "VaQuxCWWTaI",
+   "caption": "Archive local news footage of the first Christmas, when demand was “always exceeding the supply,” as Coleco put it.[^2]"
+  },
+  {
+   "id": "retro",
+   "title": "The Story of the ColecoVision, What Could Have Been!",
+   "year": 2020,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "pkKKBgBXYSI",
+   "caption": "A fan-made video history of the console. We rely on Coleco’s filings for figures."
+  }
+ ]
+}

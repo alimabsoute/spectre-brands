@@ -1,0 +1,242 @@
+{
+ "kicker": "Timeline",
+ "title": "From leather to a shell, in 21 moments",
+ "lede": "Fifty-six years of Coleco and the afterlife of its name. Filter by thread.",
+ "categories": {
+  "product": {
+   "label": "Products",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "corporate": {
+   "label": "Company",
+   "color": "#93743a"
+  },
+  "death": {
+   "label": "Bankruptcy & after",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1932",
+   "cat": "corporate",
+   "title": "Connecticut Leather",
+   "text": "Maurice Greenberg founds the Connecticut Leather Company.",
+   "src": [
+    11,
+    13
+   ]
+  },
+  {
+   "date": "",
+   "year": "1961",
+   "cat": "corporate",
+   "title": "Coleco",
+   "text": "The company changes its name to Coleco.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "1982",
+   "cat": "product",
+   "title": "ColecoVision",
+   "text": "Coleco enters video games; 560,000 consoles ship in North America that year.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1982",
+   "cat": "money",
+   "title": "Sales nearly triple",
+   "text": "$510.4M of sales and $44.9M of profit; electronics are 73% of sales.",
+   "src": [
+    2,
+    3
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1983",
+   "cat": "product",
+   "title": "Adam and the Kids",
+   "text": "Coleco announces a home computer and introduces the Cabbage Patch Kids in the same month.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1983",
+   "cat": "product",
+   "title": "Adam ships",
+   "text": "Late and with early faults; about 95,000 ship in 1983.",
+   "src": [
+    2,
+    4
+   ]
+  },
+  {
+   "date": "",
+   "year": "1983",
+   "cat": "money",
+   "title": "A loss",
+   "text": "A $7.4M net loss, driven by Adam costs in the fourth quarter.",
+   "src": [
+    2,
+    3
+   ]
+  },
+  {
+   "date": "Jan 2",
+   "year": "1985",
+   "cat": "product",
+   "title": "Adam abandoned",
+   "text": "The remaining stock is sold at a loss to an unnamed retail chain.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "",
+   "year": "1984",
+   "cat": "money",
+   "title": "$79.8M loss",
+   "text": "Including $118.6M on disposing of the Adam; equity falls to $10.5M.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "",
+   "year": "1985",
+   "cat": "money",
+   "title": "Record year",
+   "text": "$776.0M of sales, $600M of it Cabbage Patch Kids; net earnings $82.9M.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "1986",
+   "cat": "corporate",
+   "title": "Layoffs",
+   "text": "100 more jobs cut in Connecticut as doll sales slow and Rambo toys disappoint.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1986",
+   "cat": "corporate",
+   "title": "Tomy USA",
+   "text": "Coleco buys the U.S. arm of the Japanese toy maker.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Jan 8",
+   "year": "1987",
+   "cat": "money",
+   "title": "The doll halves",
+   "text": "Cabbage Patch sales fell to about $250M in 1986, Coleco says.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "1988",
+   "cat": "money",
+   "title": "$105.4M loss",
+   "text": "For 1987, on sales of $504.5M.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "May",
+   "year": "1988",
+   "cat": "death",
+   "title": "Losing licences",
+   "text": "Trivial Pursuit is going to Tonka; 475 jobs go and the chairman resigns.",
+   "src": [
+    7,
+    8
+   ]
+  },
+  {
+   "date": "Jul 11",
+   "year": "1988",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "Filed in New York: $384.3M of assets, $540.3M of liabilities.",
+   "src": [
+    10,
+    13
+   ]
+  },
+  {
+   "date": "Jul 7",
+   "year": "1989",
+   "cat": "death",
+   "title": "Sold to Hasbro",
+   "text": "The court approves the $85M sale of nearly all remaining assets.",
+   "src": [
+    12,
+    13
+   ]
+  },
+  {
+   "date": "Feb 28",
+   "year": "1990",
+   "cat": "death",
+   "title": "Ranger Industries",
+   "text": "The plan takes effect; old shares are cancelled and the shell keeps $950,000.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "",
+   "year": "2005",
+   "cat": "corporate",
+   "title": "The name returns",
+   "text": "River West Brands acquires the Coleco trademark.",
+   "src": [
+    16
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "2006",
+   "cat": "product",
+   "title": "Coleco Sonic",
+   "text": "A $50 handheld with 20 Sega games goes on pre-order.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Mar 8",
+   "year": "2016",
+   "cat": "product",
+   "title": "Chameleon cancelled",
+   "text": "Coleco Holdings ends the console project before any product ships.",
+   "src": [
+    15
+   ]
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "kicker": "The story",
+ "title": "Three crazes, one bankruptcy",
+ "lede": "Coleco’s 1980s came in three acts: a games console, a computer and a doll. Each one was bigger than the one before.",
+ "chapters": [
+  {
+   "when": "1932 – 1981 · Leather, pools and toys",
+   "title": "The Connecticut Leather Company",
+   "big": "1932",
+   "cap": "the year Maurice Greenberg founded the Connecticut Leather Company",
+   "color": "#1d4f9a",
+   "body": "Maurice Greenberg, a Russian immigrant, founded the Connecticut Leather Company in 1932. It moved from leather and shoe products into toys in the 1950s, and changed its name to Coleco in 1961.[^11] Plastic wading pools and children’s outdoor furniture “helped launch Coleco in the toy business.”[^9]\n\nIn 1981 Coleco had sales of $178.0M and earned $7.7M.[^3]"
+  },
+  {
+   "when": "1982 · The console",
+   "title": "ColecoVision",
+   "big": "560,000",
+   "cap": "ColecoVision consoles shipped in North America in 1982",
+   "color": "#1d4f9a",
+   "body": "Coleco introduced ColecoVision in August 1982, “taking advantage of consumers’ dissatisfaction with existing systems.”[^1] It shipped 560,000 units in North America that year and nearly as many in the first quarter of 1983, and by the end of 1982 Coleco described it as the number one video game system in the marketplace.[^1]\n\nSales nearly tripled to $510.4M and profit rose to $44.9M. Electronics were $373.5M of the total, 73%.[^2][^3]",
+   "image": {
+    "image": "img/colecovision.avif",
+    "caption": "ColecoVision. Photo: Evan-Amos, via Wikimedia Commons, public domain.",
+    "alt": "ColecoVision console and controller"
+   }
+  },
+  {
+   "when": "1983 – 1984 · The computer",
+   "title": "Adam",
+   "big": "$118.6M",
+   "cap": "the loss on abandoning the Adam computer, 1984",
+   "color": "#b3261e",
+   "body": "In June 1983 Coleco announced it was entering the home-computer business.[^4] The Adam shipped 60 to 90 days late, and “total shipments of ADAM in 1983 were limited to around 95,000 units,” the company admitted; early machines “caused users to experience various difficulties.”[^2] Costs “incurred in anticipation of shipping a much higher volume of ADAM computers than we actually did” produced a fourth-quarter loss, and Coleco lost $7.4M for 1983.[^2][^3]\n\nOn January 2, 1985 it gave up. “Some of the early products just didn’t measure up, and we were never able to recover,” an executive said.[^4] The disposition cost $118.6M and Coleco lost $79.8M for 1984. Its equity fell from $89.4M to $10.5M.[^3]",
+   "video": "adam"
+  },
+  {
+   "when": "1983 – 1985 · The doll",
+   "title": "Cabbage Patch Kids",
+   "big": "$600M",
+   "cap": "Cabbage Patch Kids sales in 1985",
+   "color": "#1d4f9a",
+   "body": "Coleco introduced the Cabbage Patch Kids in June 1983, the same month it announced the Adam.[^4] First-year sales of more than 3.2 million units made it, Coleco said, “the most successful new doll introduction in the industry’s history.”[^2] The line brought in $65M in 1983, $540M in 1984 and $600M in 1985.[^2][^3]\n\n1985 was the best year Coleco ever had: sales of $776.0M and record net earnings of $82.9M, including a tax credit. All remaining Adam and ColecoVision stock was sold off.[^3]",
+   "video": "cpk"
+  },
+  {
+   "when": "1986 – 1990 · The bill",
+   "title": "From $600 million to $250 million",
+   "big": "$540.3M",
+   "cap": "of liabilities listed in the July 1988 bankruptcy petition",
+   "color": "#5a5a62",
+   "body": "Cabbage Patch sales fell to about $250M in 1986, and total sales by roughly a third, to $500.7M. Margins fell too, as Coleco cut prices and paid for rebates and advertising; Furskins bears and Rambo toys sold modestly.[^6][^8] Coleco lost $105.4M in 1987, lost its Trivial Pursuit licence in 1988 and then defaulted on interest on $335M of bonds.[^7][^8]\n\nOn July 11, 1988 it filed for Chapter 11, listing assets of $384.3M and liabilities of $540.3M.[^10][^13] Hasbro bought most of its remaining assets for $85M in July 1989. Under the plan that took effect on February 28, 1990, the old shares were cancelled, the cash went to trusts for creditors, and the company, now named Ranger Industries, kept $950,000 and looked for a business to buy.[^12][^13]",
+   "image": {
+    "image": "img/amsterdam-sign.avif",
+    "caption": "The faded COLECO sign in Amsterdam, New York, where Coleco had its main U.S. plant, 2021. Photo: Tyler A. McNeil, via Wikimedia Commons, CC BY-SA 4.0.",
+    "alt": "A faded COLECO sign on a white industrial building"
+   }
+  }
+ ]
+}

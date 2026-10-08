@@ -1,0 +1,97 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Coleco’s own annual reports for 1982, 1983 and 1985, scanned by a collectors’ archive, supply the figures to 1985. Its successor’s SEC filing describes the bankruptcy, and contemporary wire and newspaper reports cover the rest. Every link was opened while this page was researched.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Coleco Industries, Inc., [1982 Annual Report](https://adamarchive.org/archive/Media/Coleco%20-%20Company%20Reports/Coleco%20Industries,%20Inc.%201982%20Annual%20Report.pdf), via The ADAM Archive (adamarchive.org)."
+  },
+  {
+   "id": 2,
+   "text": "Coleco Industries, Inc., [1983 Annual Report](https://adamarchive.org/archive/Media/Coleco%20-%20Company%20Reports/Coleco%20Industries,%20Inc.%201983%20Annual%20Report.pdf), via The ADAM Archive."
+  },
+  {
+   "id": 3,
+   "text": "Coleco Industries, Inc., [1985 Annual Report](https://adamarchive.org/archive/Media/Coleco%20-%20Company%20Reports/Coleco%20Industries,%20Inc.%201985%20Annual%20Report.pdf), via The ADAM Archive. Includes the five-year financial summary for 1981–1985 and segment data for 1983–1985."
+  },
+  {
+   "id": 4,
+   "text": "[“Coleco Discontinues Its Adam Computer Line”](https://www.latimes.com/archives/la-xpm-1985-01-03-fi-11281-story.html), Los Angeles Times, Jan 3, 1985."
+  },
+  {
+   "id": 5,
+   "text": "[“Coleco Lays Off 100 Workers in Connecticut”](https://www.latimes.com/archives/la-xpm-1986-08-15-fi-3909-story.html), Los Angeles Times, Aug 15, 1986."
+  },
+  {
+   "id": 6,
+   "text": "[“Coleco loss blamed on Cabbage Patch Kids”](https://www.upi.com/Archives/1987/01/08/Coleco-loss-blamed-on-Cabbage-Patch-Kids/5945537080400/), UPI, Jan 8, 1987."
+  },
+  {
+   "id": 7,
+   "text": "[“Coleco Industries, which is battling to avoid bankruptcy, has lost its license…”](https://www.latimes.com/archives/la-xpm-1988-05-23-fi-2235-story.html), Los Angeles Times, May 23, 1988."
+  },
+  {
+   "id": 8,
+   "text": "Bob Webster, [“Coleco seeks bankruptcy protection”](https://www.upi.com/Archives/1988/07/12/Coleco-seeks-bankruptcy-protection/3251584683200/), UPI, Jul 12, 1988."
+  },
+  {
+   "id": 9,
+   "text": "[“Cabbage Patch Doll Maker Is Bankrupt”](https://www.latimes.com/archives/la-xpm-1988-07-12-mn-5746-story.html), Los Angeles Times, Jul 12, 1988."
+  },
+  {
+   "id": 10,
+   "text": "[“Coleco Industries Inc., which last week filed…”](https://www.latimes.com/archives/la-xpm-1988-07-18-fi-4422-story.html), Los Angeles Times, Jul 18, 1988."
+  },
+  {
+   "id": 11,
+   "text": "[“$85-Million Deal: Coleco OKs Hasbro Buyout Offer”](https://www.latimes.com/archives/la-xpm-1989-06-16-fi-2178-story.html), Los Angeles Times, Jun 16, 1989."
+  },
+  {
+   "id": 12,
+   "text": "[“Hasbro completes purchase of Coleco assets”](https://www.upi.com/Archives/1989/07/12/Hasbro-completes-purchase-of-Coleco-assets/5506616219200/), UPI, Jul 12, 1989."
+  },
+  {
+   "id": 13,
+   "text": "Ranger Industries, Inc. (formerly Coleco Industries), [annual report on Form 10-KSB for 1996](https://www.sec.gov/Archives/edgar/data/21610/0001005477-97-001078.txt), filed Apr 15, 1997, SEC EDGAR. Item 1 describes the petition, the Hasbro sale and the 1990 plan."
+  },
+  {
+   "id": 14,
+   "text": "[“Coleco Sonic Handheld debuts: take home 20 Sega 8-bit games for $50”](https://www.engadget.com/2006-10-27-coleco-sonic-handheld-debuts-take-home-20-sega-8-bit-games-for.html), Engadget, Oct 27, 2006."
+  },
+  {
+   "id": 15,
+   "text": "[“Coleco officially pulls its name from the Chameleon”](https://www.engadget.com/2016-03-08-coleco-pulls-support-from-chameleon.html), Engadget, Mar 8, 2016."
+  },
+  {
+   "id": 16,
+   "text": "[“Coleco: Gone But Not Forgotten”](https://www.techspot.com/article/2301-coleco/), TechSpot, Aug 9, 2021."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "$350M is $600M of 1985 Cabbage Patch sales less about $250M in 1986.[^3][^6] Segment shares are our arithmetic from the annual reports: 1982 electronics $373.5M of $510.4M; 1985 toys $719.8M of $776.0M.[^2][^3] “About 77%” is $600M of $776.0M."
+  },
+  {
+   "label": "Conflicts",
+   "text": "The Los Angeles Times dated Coleco’s move into toys to 1954 and, a year earlier, said pools launched it in toys in 1956.[^9][^11] The creditor groups listed in July 1988 ($104.3M secured, $335M of bonds, $135.2M to other creditors) add up to $574.5M, more than the $540.3M total liabilities in the same report; we show them as reported.[^10] UPI gives the petition date as Monday evening, July 11; the Times says “late Monday.”[^8][^10]"
+  },
+  {
+   "label": "Unknown",
+   "text": "Coleco’s 1986 net loss: UPI and the Times reported $105.4M for 1987 and “$215 million over the last two years,” but we did not find the 1986 figure itself, so the chart omits it.[^8][^9] How many Adams were sold in total; who owns the Coleco trademark today."
+  },
+  {
+   "label": "Secondary",
+   "text": "The 2005 acquisition of the trademark by River West Brands and the 2014 formation of Coleco Holdings come from TechSpot, a secondary history.[^16]"
+  },
+  {
+   "label": "Videos",
+   "text": "Commercial dates are the uploaders’. The retrospective is fan-made."
+  },
+  {
+   "label": "Images",
+   "text": "All three photographs are from Wikimedia Commons under the licences in their credits. The swatches are approximations. The drawing is original."
+  }
+ ]
+}

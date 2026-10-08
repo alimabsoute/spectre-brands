@@ -1,0 +1,19 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "Some of the early products just didn’t measure up, and we were never able to recover.",
+   "who": "**Morton E. Handel**, Coleco executive vice president, on the Adam, January 1985[^4]",
+   "big": true
+  },
+  {
+   "q": "That’s the nature of the toy industry. It’s boom or bust.",
+   "who": "**Gary Jacobson**, toy analyst, Kidder, Peabody & Co., on the bankruptcy, July 1988[^8]"
+  },
+  {
+   "q": "Coleco always stood for innovation and the ability to take risks. The industry is poorer because of their demise.",
+   "who": "**Paul Valentine**, toy analyst, Standard & Poor’s, June 1989[^11]"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "kicker": "Brand gallery",
+ "title": "A console, a computer and a sign",
+ "lede": "Three freely licensed photographs from Wikimedia Commons and our own drawing. The drawing is an original illustration, not official artwork.",
+ "archive": [
+  {
+   "image": "img/colecovision.avif",
+   "date": "1982",
+   "caption": "The ColecoVision console and keypad controller.",
+   "alt": "ColecoVision console and controller",
+   "credit": "Photo: Evan-Amos, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ColecoVision-wController-L.jpg), Public domain."
+  },
+  {
+   "image": "img/adam.avif",
+   "date": "1983",
+   "caption": "The Adam Family Computer System with its printer and tape drives.",
+   "alt": "Coleco Adam computer system",
+   "credit": "Photo: Akbkuku, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coleco-ADAM-computer-with-parts_(edit).jpg), CC BY 4.0."
+  },
+  {
+   "image": "img/amsterdam-sign.avif",
+   "date": "Jun 2021",
+   "caption": "What is left of the COLECO sign in Amsterdam, New York.",
+   "alt": "Faded COLECO sign on a building",
+   "credit": "Photo: Tyler A. McNeil, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:COLECO_logo_in_Amsterdam,_New_York.jpg), CC BY-SA 4.0."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The console and the screen.",
+   "caption": "A black console wired to a television. Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#1d4f9a",
+   "label": "Coleco blue (approximate)"
+  },
+  {
+   "hex": "#1d1b18",
+   "label": "Console black (approximate)"
+  }
+ ],
+ "disclaimer": "Coleco, ColecoVision, Adam and Cabbage Patch Kids are or were trademarks of their respective owners; they appear here for commentary and historical record."
+}
