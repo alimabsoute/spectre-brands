@@ -1,0 +1,109 @@
+{
+ "name": "Child World",
+ "number": "026",
+ "tier": "dead",
+ "tierWhy": "Child World liquidated every store in 1992 after merger talks with Lionel failed. No company has revived the name.[^10][^13]",
+ "category": "retail",
+ "cause": "competition",
+ "years": "1962 – 1992",
+ "died": 1992,
+ "dates": [
+  {
+   "date": "1990-11-22",
+   "text": "lost its buyer, Roy Disney’s Trefoil, on Thanksgiving Day"
+  },
+  {
+   "date": "1992-05-06",
+   "text": "filed for Chapter 11 in White Plains, New York"
+  },
+  {
+   "date": "1992-08-05",
+   "text": "was reported closing all its stores after talks with Lionel failed"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Toy supermarkets · Avon, Massachusetts",
+ "title": "Child World (1962–1992): post-mortem · Spectre Brands",
+ "description": "The castle-fronted toy supermarket that was America’s No. 2 toy chain behind Toys “R” Us, until a leveraged parent, a failed sale and the 1990 recession broke it. A sourced post-mortem of Child World and Children’s Palace.",
+ "theme": {
+  "accent": "#c8202f",
+  "soft": "#fcefef"
+ },
+ "card": {
+  "blurb": "A Massachusetts toy supermarket with castle turrets and a roller-skating panda, and for years the No. 2 toy chain in America. Squeezed by Toys “R” Us and loaded with its parent’s debt, it stopped paying its bills in December 1990 and liquidated in 1992.",
+  "stat": {
+   "value": "$334M",
+   "label": "of bank and merchandise debt it stopped paying in December 1990 (derived)"
+  },
+  "spark": [
+   100,
+   176,
+   182,
+   125,
+   71,
+   0
+  ],
+  "peak": 2,
+  "logo": "img/saugus-1993.avif",
+  "logoYear": "1993"
+ },
+ "hero": {
+  "dates": "Founded in Quincy, Massachusetts, in 1962. Liquidated in 1992.",
+  "standfirst": "It built toy stores that looked like castles. Its owners built it a moat of debt.",
+  "deck": "Child World was founded in Quincy, Massachusetts, in 1962 and grew into the country’s second-largest toy retailer, with Children’s Palace stores alongside its own. Cole National bought it in 1981 and floated 18% of it in 1985; then Cole itself went through two leveraged buyouts. By 1990 the chain had about 180 stores, was losing money against Toys “R” Us, and was for sale. Roy Disney’s Trefoil walked away on Thanksgiving Day. Two weeks later Child World stopped paying $122M of bank debt and $212M owed for merchandise. Former Toys “R” Us executives took control in 1991, but in May 1992 it filed for Chapter 11, and by the autumn every store was closed. This page is built from contemporary reports in the Los Angeles Times, UPI and the New York Times, and the bankruptcy court’s own findings.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a toy supermarket with a crenellated front and two red-topped turrets. Not an official asset.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/bay-shore-1979.avif",
+    "caption": "The Child World “discount toy supermarket” at South Shore Mall, Bay Shore, New York, April 1979. Photo: Downtowngal, Wikimedia Commons, CC BY-SA 4.0.",
+    "alt": "A long Child World store with castle battlements and two white turrets"
+   },
+   {
+    "image": "img/saugus-1993.avif",
+    "caption": "The Saugus, Massachusetts store in 1993, after the chain had closed. Photo: Anthony92931, Wikimedia Commons, CC BY-SA 3.0.",
+    "alt": "An empty Child World store with red letters over an arched entrance"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "182",
+    "text": "stores in January 1991[^5]"
+   },
+   {
+    "value": "$192M",
+    "text": "reported loss on $830M of sales in 1990[^12]"
+   },
+   {
+    "value": "$122M + $212M",
+    "text": "bank debt and merchandise bills it stopped paying in December 1990[^5]"
+   },
+   {
+    "value": "4,800",
+    "text": "employees on the day it filed for bankruptcy[^10]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It was a copy of the leader.",
+   "text": "A trade editor said in 1990 that Child World had not set itself apart from Toys “R” Us “and they got their heads handed to them.”[^2] Toys “R” Us held about a quarter of the $13.5 billion American toy market.[^2]"
+  },
+  {
+   "title": "Its owner needed the money more than it did.",
+   "text": "Its parent, CNC Holding, the former Cole National, had been through two leveraged buyouts and was trying to sell Child World to cut its own debt. It could not pay to remodel or expand the chain.[^2][^3][^12]"
+  },
+  {
+   "title": "One lost buyer started the run.",
+   "text": "Trefoil backed out on Thanksgiving 1990 and the shares nearly halved. Two weeks later the chain stopped paying its banks and suppliers, and Mattel and Tyco were projected to take $46M of bad debts between them.[^3][^5] (derived)"
+  },
+  {
+   "title": "The rescue lasted a year.",
+   "text": "Former Toys “R” Us executives took control in 1991. In January 1992 the chain closed 26 stores in Chicago and Texas; in May it filed for bankruptcy; by autumn it was gone.[^1][^6][^7][^10]"
+  }
+ ]
+}

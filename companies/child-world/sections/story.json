@@ -1,0 +1,60 @@
+{
+ "kicker": "The story",
+ "title": "From Quincy to 182 castles, and back to none",
+ "lede": "Child World spent two decades growing and two years dying. The dying began in a boardroom in Cleveland.",
+ "chapters": [
+  {
+   "when": "1962 – 1980 · The toy supermarket",
+   "title": "Castles and a roller-skating panda",
+   "big": "1962",
+   "cap": "the year Child World was founded in Quincy, Massachusetts",
+   "color": "#c8202f",
+   "body": "Child World was founded in 1962 by Sid Shneider and Joseph Arnesano in Quincy, and later moved its headquarters to Avon, Massachusetts.[^11] Its stores had white brick fronts and red-topped turrets, and its mascot was Peter Panda, who arrived on roller skates in its commercials.[^11] It later bought the Children’s Palace chain.[^11]\n\nThe stores called themselves “discount toy supermarkets,” the same big-box formula as Toys “R” Us.",
+   "image": {
+    "image": "img/bay-shore-1979.avif",
+    "caption": "Bay Shore, New York, April 1979. Photo: Downtowngal, via Wikimedia Commons, CC BY-SA 4.0.",
+    "alt": "Child World store with battlements, turrets and a ‘Discount Toy Supermarkets’ sign"
+   }
+  },
+  {
+   "when": "1981 – 1989 · Inside a leveraged parent",
+   "title": "Cole National’s “highest-profile deal”",
+   "big": "18%",
+   "cap": "of Child World sold to the public in 1985",
+   "color": "#c8202f",
+   "body": "Cole National, the Cleveland key-cutting and optical company, bought Child World in 1981, when it ranked second only to Toys “R” Us among toy supermarket chains.[^12] Kohlberg Kravis Roberts took Cole private in a leveraged buyout in 1984; in 1985 Cole sold 18% of Child World to the public, when the chain had more than 100 stores in 21 states. In 1987 a group led by Jeffrey Cole took on more debt to regain control, forming CNC Holding.[^12]\n\nThat left Child World inside a parent that, by 1990, was “struggling under heavy debt and unable to remodel and expand the chain.”[^2]",
+   "video": "ad1981"
+  },
+  {
+   "when": "1990 · The year it was for sale",
+   "title": "Roy Disney’s firm walks away",
+   "big": "$5",
+   "cap": "the share price after Trefoil pulled out, down from $9.75",
+   "color": "#b3261e",
+   "body": "CNC began trying to sell Child World in March 1990. In July, Trefoil Capital Investors, a fund run by Roy E. Disney’s Shamrock Holdings, offered to swap debt securities for CNC’s 82% stake and pay $14 a share for the rest.[^3] Trefoil opened a showpiece store in Torrance, California with a carousel and neon skylights, the first of as many as 20 in the state.[^2]\n\nChild World lost $16M on sales of $280.9M in the six months to August 4, against $10.3M a year earlier.[^3] On Thanksgiving Day Trefoil abandoned the deal without explanation; the next day the shares fell $4.75 to $5.[^3]",
+   "video": "cp1987"
+  },
+  {
+   "when": "Dec 1990 – 1991 · The cash runs out",
+   "title": "Unpaid toy makers and a new owner",
+   "big": "$334M",
+   "cap": "of bank debt and merchandise bills suspended in December 1990 (derived)",
+   "color": "#b3261e",
+   "body": "On December 4, 1990 Child World reported a third-quarter loss of $14.4M and suspended payments on more than $122M of bank debt and $212M owed for merchandise. It cut prices to raise cash, selling an estimated $105M of stock before Christmas.[^4][^5] Mattel and Tyco were projected to report bad-debt exposure of $20M and $26M.[^5] Its chairman and then its chief executive resigned.[^5]\n\nIn March 1991 a group led by two former Toys “R” Us executives, W. John Devine and Ronald Tuchman, agreed to take control. Public shareholders, who had been offered $14 a share months earlier, would get $2.[^6][^7]",
+   "video": "cp1987b"
+  },
+  {
+   "when": "1992 · The end",
+   "title": "Chapter 11, Lionel, and liquidation",
+   "big": "125 → 0",
+   "cap": "stores, from the bankruptcy filing to the autumn",
+   "color": "#5a5a62",
+   "body": "In January 1992 the chain closed 16 stores in Chicago, 10 in Houston and Dallas and three distribution centres, taking a $20M charge.[^1] In May it filed for Chapter 11 in White Plains, New York, closing 54 of its 125 stores, mostly in the Midwest and South, and keeping 71 in the Northeast.[^1] About 1,500 workers were to be laid off.[^8] “We have taken decisive action to remove the uncertainty and doubt that have hung over this company for nearly 18 months,” Devine said.[^1]\n\nIn June it confirmed merger talks with Lionel Corp., itself in Chapter 11, and warned that it would close its 71 stores if they failed.[^9] They failed. The bankruptcy court recorded that Child World had decided to liquidate and expected its going-out-of-business sales to finish by the end of October 1992.[^10][^13]",
+   "image": {
+    "image": "img/saugus-1993.avif",
+    "caption": "Saugus, Massachusetts, 1993. Photo: Anthony92931, via Wikimedia Commons, CC BY-SA 3.0.",
+    "alt": "Closed Child World store in Saugus"
+   }
+  }
+ ]
+}

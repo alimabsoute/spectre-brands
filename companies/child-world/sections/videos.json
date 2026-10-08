@@ -1,0 +1,61 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Peter Panda on roller skates",
+ "lede": "Child World and Children’s Palace advertised on local television across the Northeast and Midwest. These spots were uploaded by collectors; dates are the uploaders’ unless a caption says otherwise.",
+ "videos": [
+  {
+   "id": "ad1980",
+   "title": "Child World toy store commercial, 1980",
+   "year": 1980,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "lJglq1hYCQI",
+   "caption": "A spot from the year before Cole National bought the chain.[^12] The year is the uploader’s."
+  },
+  {
+   "id": "ad1981",
+   "title": "Child World ad, 1981",
+   "year": 1981,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "-sgqcTnXp58",
+   "caption": "The year is the uploader’s."
+  },
+  {
+   "id": "ad1983",
+   "title": "Child World ad, 1983",
+   "year": 1983,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "blA1V7s1mIg",
+   "caption": "The year is the uploader’s."
+  },
+  {
+   "id": "cp1987",
+   "title": "Children’s Palace commercial, 1987",
+   "year": 1987,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "MAfqVgZOX4I",
+   "caption": "An ad for Child World’s second chain, from the year CNC Holding was formed.[^12] The year is the uploader’s."
+  },
+  {
+   "id": "cp1987b",
+   "title": "Children’s Palace / Child World commercial with Big Bird, 1987",
+   "year": 1987,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "zaOcLoM0FYU",
+   "caption": "A joint spot for both names. The year is the uploader’s."
+  },
+  {
+   "id": "cbs",
+   "title": "CBS Boston: The story of toy store giant Child World",
+   "year": 2021,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "KjegQi3voJE",
+   "caption": "The December 2021 report that accompanies the CBS Boston article we cite for the founding.[^11]"
+  }
+ ]
+}

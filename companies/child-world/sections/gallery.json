@@ -1,0 +1,40 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Battlements, turrets and red letters",
+ "label": "Brand gallery",
+ "lede": "Two freely licensed photographs from Wikimedia Commons, thirteen years apart, and our own drawing. The drawing is an original illustration, not official artwork.",
+ "archive": [
+  {
+   "image": "img/bay-shore-1979.avif",
+   "date": "Apr 1979",
+   "caption": "South Shore Mall, Bay Shore, New York: a “discount toy supermarket.”",
+   "alt": "Child World store with battlements and turrets, 1979",
+   "credit": "Photo: Downtowngal, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:80_Child_World_Bay_Shore_NY_1979.jpg), CC BY-SA 4.0."
+  },
+  {
+   "image": "img/saugus-1993.avif",
+   "date": "1993",
+   "caption": "Saugus, Massachusetts, after the liquidation.",
+   "alt": "Empty Child World store, Saugus, 1993",
+   "credit": "Photo: Anthony92931, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Child_World_1993.jpg), CC BY-SA 3.0."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The castle.",
+   "caption": "White brick and red-topped turrets.[^11] Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#c8202f",
+   "label": "Letter red (approximate, from the 1993 photograph)"
+  },
+  {
+   "hex": "#e6e1cf",
+   "label": "Façade cream (approximate)"
+  }
+ ],
+ "disclaimer": "Child World and Children’s Palace were trademarks of Child World, Inc.; they appear here for commentary and historical record."
+}

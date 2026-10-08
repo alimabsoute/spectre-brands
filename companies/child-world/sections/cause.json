@@ -1,0 +1,28 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "A second Toys “R” Us",
+   "text": "Child World used the same toy-supermarket format as the market leader, which had about a quarter of American toy sales. A trade editor said it had not differentiated itself “and they got their heads handed to them.” Its profit margin was “eroded by intense price competition.”[^2][^4]"
+  },
+  {
+   "weight": 30,
+   "title": "An over-borrowed parent",
+   "text": "Cole National went through a leveraged buyout in 1984 and took on more debt in 1987. By 1990 the parent was struggling with heavy debt, could not fund remodelling, and was selling Child World to cut its own borrowings.[^2][^3][^12]"
+  },
+  {
+   "weight": 20,
+   "title": "A failed sale, then a cash crisis",
+   "text": "When Trefoil walked away in November 1990 the shares halved. Within two weeks Child World had stopped paying $122M of bank debt and $212M to suppliers, and toy makers began writing off what it owed.[^3][^5]"
+  },
+  {
+   "weight": 15,
+   "title": "Recession",
+   "text": "An analyst blamed “a combination of the depressed economy, a strong company like Toys ’R’ Us and the lack of consumer spending” when it filed in 1992.[^1]"
+  }
+ ],
+ "disclaimer": "The weights are our judgment of how much each factor contributed. Reasonable readers could weigh them differently."
+}

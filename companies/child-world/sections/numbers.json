@@ -1,0 +1,169 @@
+{
+ "kicker": "The money",
+ "title": "Rising sales, rising losses",
+ "lede": "Child World’s own annual reports from this period are not on SEC EDGAR, which begins later. The figures here are as reported at the time by the Los Angeles Times and UPI, and by a business-history reference for 1990.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Stores, 1985 to 1992",
+   "subtitle": "Store counts as reported at each date.",
+   "labels": [
+    "1985",
+    "Nov 1990",
+    "Jan 1991",
+    "May 1992",
+    "After closings",
+    "Autumn 1992"
+   ],
+   "format": "num",
+   "xLabel": "Not evenly spaced",
+   "series": [
+    {
+     "label": "Stores",
+     "data": [
+      100,
+      176,
+      182,
+      125,
+      71,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "public",
+     "text": "“Over 100 stores in 21 states” when 18% was floated.[^12]"
+    },
+    {
+     "i": 2,
+     "title": "the peak",
+     "text": "182 stores.[^5]"
+    },
+    {
+     "i": 3,
+     "title": "Chapter 11",
+     "text": "125 stores; 54 to close.[^1]"
+    },
+    {
+     "i": 5,
+     "title": "liquidation",
+     "text": "Closing sales due to finish in October.[^10]"
+    }
+   ],
+   "source": "Reported counts.[^1][^3][^5][^10][^12] The 1985 figure is a floor (“over 100”). The Nov 1990 and Jan 1991 counts come from different reports."
+  },
+  {
+   "kind": "chart",
+   "id": "cwLoss",
+   "title": "Losses in 1989 and 1990",
+   "subtitle": "$ millions, as reported.",
+   "views": [
+    {
+     "label": "Net loss",
+     "chart": {
+      "type": "bar",
+      "height": 300,
+      "labels": [
+       "Q2",
+       "Q3",
+       "First half"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "1989",
+        "data": [
+         -5.1,
+         -4.1,
+         -10.3
+        ],
+        "color": "grey"
+       },
+       {
+        "label": "1990",
+        "data": [
+         -8.5,
+         -14.4,
+         -16.0
+        ],
+        "color": "red"
+       }
+      ]
+     }
+    }
+   ],
+   "source": "Los Angeles Times, Oct 25, Nov 24 and Dec 5, 1990.[^2][^3][^4] The first half ended Aug 4, 1990."
+  },
+  {
+   "kind": "bars",
+   "title": "What it stopped paying, December 1990",
+   "subtitle": "$ millions.",
+   "format": "usdM",
+   "itemLabel": "Obligation",
+   "valueLabel": "Amount",
+   "items": [
+    {
+     "label": "Merchandise owed to suppliers",
+     "value": 212,
+     "color": "red"
+    },
+    {
+     "label": "Bank debt",
+     "value": 122,
+     "color": "brand",
+     "note": "“more than”"
+    }
+   ],
+   "source": "Los Angeles Times, Jan 25, 1991.[^5]"
+  },
+  {
+   "kind": "bars",
+   "title": "Toy makers caught out",
+   "subtitle": "Analysts’ projections of bad-debt exposure to Child World, January 1991, $ millions.",
+   "format": "usdM",
+   "itemLabel": "Company",
+   "valueLabel": "Exposure",
+   "items": [
+    {
+     "label": "Tyco Toys",
+     "value": 26,
+     "color": "gold"
+    },
+    {
+     "label": "Mattel",
+     "value": 20,
+     "color": "gold"
+    }
+   ],
+   "source": "Los Angeles Times, Jan 25, 1991. Hasbro also said its quarter would be hit, by an amount it did not give.[^5]"
+  },
+  {
+   "kind": "counters",
+   "title": "The price of a toy chain",
+   "items": [
+    {
+     "value": "$14",
+     "text": "a share offered by Trefoil for public stock, July 1990[^3]"
+    },
+    {
+     "value": "$5",
+     "text": "the share price after Trefoil withdrew, November 1990[^3]"
+    },
+    {
+     "value": "$2",
+     "text": "a share offered by WC Acquisition, March 1991[^6]"
+    },
+    {
+     "value": "$830M",
+     "text": "1990 sales, on which it reportedly lost $192M[^12]"
+    }
+   ],
+   "source": "Los Angeles Times, UPI and Reference for Business.[^3][^6][^12]"
+  }
+ ]
+}

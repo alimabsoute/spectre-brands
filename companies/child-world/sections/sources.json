@@ -1,0 +1,85 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Child World’s filings from this period predate SEC EDGAR’s online archive, so this page relies on contemporary wire and newspaper reports, the bankruptcy court’s published decision and a business-history reference. Every link was opened while this page was researched, except where noted.",
+ "list": [
+  {
+   "id": 1,
+   "text": "[“Child World files Chapter 11; closes stores”](https://www.upi.com/Archives/1992/05/07/Child-World-files-Chapter-11-closes-stores/9265705211200/), UPI, May 7, 1992."
+  },
+  {
+   "id": 2,
+   "text": "Jesus Sanchez, [“Is Child World Just a Plaything for Shamrock?”](https://www.latimes.com/archives/la-xpm-1990-10-25-fi-4459-story.html), Los Angeles Times, Oct 25, 1990."
+  },
+  {
+   "id": 3,
+   "text": "James F. Peltz, [“Roy Disney Firm Scraps Plan to Buy Child World”](https://www.latimes.com/archives/la-xpm-1990-11-24-fi-4690-story.html), Los Angeles Times, Nov 24, 1990."
+  },
+  {
+   "id": 4,
+   "text": "[“Child World Posts Loss, May Sell”](https://www.latimes.com/archives/la-xpm-1990-12-05-fi-5467-story.html), Los Angeles Times, Dec 5, 1990."
+  },
+  {
+   "id": 5,
+   "text": "[“Chief Executive of Child World Resigns”](https://www.latimes.com/archives/la-xpm-1991-01-25-fi-744-story.html), Los Angeles Times, Jan 25, 1991."
+  },
+  {
+   "id": 6,
+   "text": "Barry Flynn, [“Child World bidder says sale agreement in days”](https://www.upi.com/Archives/1991/03/13/Child-World-bidder-says-sale-agreement-in-days/7615668840400/), UPI, Mar 13, 1991."
+  },
+  {
+   "id": 7,
+   "text": "[“CNC to sell Child World stock to WC Acquisition”](https://www.upi.com/Archives/1991/04/08/CNC-to-sell-Child-World-stock-to-WC-Acquisition/9109671083200/), UPI, Apr 8, 1991."
+  },
+  {
+   "id": 8,
+   "text": "[“No. 2 Toy Retail Chain Files for Bankruptcy”](https://www.latimes.com/archives/la-xpm-1992-05-08-fi-1949-story.html), Los Angeles Times, May 8, 1992."
+  },
+  {
+   "id": 9,
+   "text": "[“Child World Confirms Talks With Lionel”](https://www.latimes.com/archives/la-xpm-1992-06-12-fi-351-story.html), Los Angeles Times, Jun 12, 1992."
+  },
+  {
+   "id": 10,
+   "text": "[In re Child World, Inc., 147 B.R. 847](https://hallapproved.com/ny/cases/federal/bankruptcy/1992/1806590/) (Bankr. S.D.N.Y. Oct 30, 1992), decision on motion to reject key employee contracts."
+  },
+  {
+   "id": 11,
+   "text": "[“‘It Was An Unmistakable Experience,’ Remembering Local Toy Store Giant Child World”](https://www.cbsnews.com/boston/news/child-world-childrens-palace-toy-stores-avon-massachusetts/), CBS Boston, Dec 13, 2021."
+  },
+  {
+   "id": 12,
+   "text": "[“Cole National Corporation: History”](https://www.referenceforbusiness.com/history2/31/Cole-National-Corporation.html), Reference for Business (from the International Directory of Company Histories)."
+  },
+  {
+   "id": 13,
+   "text": "[“Company News; Child World Will Close as Talks With Lionel Fail”](https://www.nytimes.com/1992/08/05/business/company-news-child-world-will-close-as-talks-with-lionel-fail.html), The New York Times, Aug 5, 1992. Cited for its headline; the article body was not accessible to us."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "$334M is the $122M of bank debt plus the $212M owed for merchandise reported by the Los Angeles Times.[^5] $46M is the sum of the projected Mattel ($20M) and Tyco ($26M) exposures."
+  },
+  {
+   "label": "Conflicts",
+   "text": "The court’s decision dates the petition May 6, 1992; UPI, writing on May 7, said the company filed “Thursday,” which was May 7.[^1][^10] Reports call Child World the second-largest toy chain (UPI, May 1992) and the third-largest (Los Angeles Times, June 1992).[^1][^9] The Times put remaining staff at about 4,000 after 1,500 layoffs; the court says about 4,800 at the petition.[^8][^10] Reference for Business says CNC sold Child World to “a coalition of former Toys-R-Us executives”; UPI says the 1991 recapitalization sold 82% to its banks and Avon Investors LP, a partnership controlled by Thomas H. Lee Co.[^1][^12] Store counts in late 1990 are given as 176 and 182.[^3][^5]"
+  },
+  {
+   "label": "Secondary",
+   "text": "The 1990 loss of $192M on $830M of sales and the 1981 and 1985 dates come from Reference for Business, a secondary history; we have not seen the underlying filings.[^12]"
+  },
+  {
+   "label": "Unknown",
+   "text": "Annual sales and profits before 1989; the exact date the last store closed; what creditors recovered."
+  },
+  {
+   "label": "Videos",
+   "text": "Commercial dates are the uploaders’. The CBS Boston report accompanies the article we cite."
+  },
+  {
+   "label": "Images",
+   "text": "Both photographs are from Wikimedia Commons under the licences in their credits. The swatches are approximations. The drawing is original."
+  }
+ ]
+}

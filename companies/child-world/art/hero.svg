@@ -1,0 +1,12 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a cream toy supermarket with battlements, two white turrets with red cone roofs, an arched entrance and a red sign band">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 280 H430"/>
+<path d="M40 280 V120 H60 V105 H80 V120 H100 V105 H120 V120 H140 V105 H160 V120 H180 V105 H200 V120 H240 V105 H260 V120 H280 V105 H300 V120 H320 V105 H340 V120 H360 V105 H380 V120 H400 V280 Z" fill="#e6e1cf"/>
+<rect x="100" y="140" width="240" height="34" rx="4" fill="#c8202f"/>
+<path d="M120 157 H320" stroke="#ffffff" stroke-width="5"/>
+<path d="M170 280 V230 A50 50 0 0 1 270 230 V280" fill="#e3f1fb"/>
+<path d="M220 182 V280"/>
+<rect x="18" y="110" width="34" height="170" fill="#ffffff"/><path d="M14 112 L35 60 L56 112 Z" fill="#c8202f"/>
+<rect x="388" y="110" width="34" height="170" fill="#ffffff"/><path d="M384 112 L405 60 L426 112 Z" fill="#c8202f"/>
+<circle class="screen" cx="35" cy="150" r="7" fill="#f2b632"/><circle class="screen" cx="405" cy="150" r="7" fill="#f2b632"/>
+</g></svg>

@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Trefoil closes",
+   "actual": "Roy Disney’s Trefoil abandoned its offer on Thanksgiving Day 1990, citing nothing.[^3]",
+   "whatif": "A well-funded owner with retail experience might have paid suppliers through Christmas 1990 and avoided the payment freeze. Its showpiece Torrance store suggests it would have tried to make Child World less like Toys “R” Us."
+  },
+  {
+   "tab": "Stay regional",
+   "actual": "In 1990 the chain had 176 stores in 31 states. In 1992 it kept only 71 in the Northeast, which it called its profitable core.[^1][^3]",
+   "whatif": "Retreating to the Northeast years earlier, while the parent still had money, might have left a smaller but solvent chain. It would still have faced Toys “R” Us in every market it kept."
+  },
+  {
+   "tab": "Merge with Lionel",
+   "actual": "Talks with Lionel in mid-1992 would have created a 135-store chain; they failed.[^9][^13]",
+   "whatif": "Two bankrupt toy chains combined would have had scale but no money. It is not clear that the merger could have survived the next Christmas."
+  }
+ ]
+}

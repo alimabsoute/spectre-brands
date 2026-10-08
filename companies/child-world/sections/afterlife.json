@@ -1,0 +1,70 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The stores",
+   "text": "54 stores closed with the May 1992 filing; the remaining 71 were liquidated after the Lionel talks failed, with sales expected to end in October 1992.[^1][^10][^13]"
+  },
+  {
+   "status": "Unpaid",
+   "color": "var(--red)",
+   "title": "The employees",
+   "text": "About 4,800 people worked for Child World when it filed. In October 1992 the court allowed it to reject 22 key employees’ contracts, turning their salary-continuation claims into unsecured debts.[^10]"
+  },
+  {
+   "status": "Remembered",
+   "color": "var(--gold)",
+   "title": "Peter Panda",
+   "text": "A Peter Panda costume is kept by the Avon historical society, and a local historian puts it in the window at night.[^11]"
+  },
+  {
+   "status": "Gone",
+   "color": "var(--mute)",
+   "title": "The name",
+   "text": "We found no later owner or use of the Child World name in our sources."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned Child World",
+   "nodes": [
+    {
+     "when": "1962",
+     "owner": "Sid Shneider and Joseph Arnesano",
+     "what": "Found the chain in Quincy.[^11]"
+    },
+    {
+     "when": "1981",
+     "owner": "Cole National",
+     "what": "Buys the No. 2 toy supermarket chain.[^12]"
+    },
+    {
+     "when": "1985",
+     "owner": "Cole National (82%) and public (18%)",
+     "what": "Minority stake floated.[^12]"
+    },
+    {
+     "when": "1987",
+     "owner": "CNC Holding (82%)",
+     "what": "Cole National’s new holding company after a second buyout.[^12]"
+    },
+    {
+     "when": "1991",
+     "owner": "Banks and Avon Investors LP (82%)",
+     "what": "Recapitalization led by former Toys “R” Us executives.[^1][^7]"
+    },
+    {
+     "when": "May 1992",
+     "owner": "Child World, in Chapter 11",
+     "what": "Files in White Plains, New York.[^10]",
+     "status": "bankrupt"
+    }
+   ],
+   "source": "UPI, Los Angeles Times, Reference for Business and the bankruptcy court.[^1][^7][^10][^12]"
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "kicker": "Timeline",
+ "title": "Thirty years, 19 moments",
+ "lede": "From one store in Quincy to the No. 2 toy chain in America, and from a failed sale to an empty castle. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Owners & deals",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "stores": {
+   "label": "Stores",
+   "color": "#93743a"
+  },
+  "death": {
+   "label": "Bankruptcy & end",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1962",
+   "cat": "stores",
+   "title": "Founded",
+   "text": "Sid Shneider and Joseph Arnesano found Child World in Quincy, Massachusetts.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "",
+   "year": "1981",
+   "cat": "corporate",
+   "title": "Cole National buys it",
+   "text": "Child World is then second only to Toys “R” Us among toy supermarkets.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "",
+   "year": "1984",
+   "cat": "corporate",
+   "title": "KKR takes Cole private",
+   "text": "Child World’s parent goes through a leveraged buyout.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "",
+   "year": "1985",
+   "cat": "money",
+   "title": "18% floated",
+   "text": "Cole sells 18% of Child World to the public; the chain has more than 100 stores in 21 states.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "",
+   "year": "1987",
+   "cat": "corporate",
+   "title": "CNC Holding",
+   "text": "Jeffrey Cole’s group takes on more debt to regain control of the parent.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "1990",
+   "cat": "corporate",
+   "title": "For sale",
+   "text": "CNC begins trying to sell Child World.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "1990",
+   "cat": "corporate",
+   "title": "Trefoil’s offer",
+   "text": "Roy Disney’s Trefoil offers debt securities for CNC’s 82% and $14 a share for the public’s 18%.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Oct 25",
+   "year": "1990",
+   "cat": "stores",
+   "title": "Torrance",
+   "text": "A prototype store opens in Torrance, the first of up to 20 planned in California.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Nov 22",
+   "year": "1990",
+   "cat": "death",
+   "title": "Trefoil walks",
+   "text": "The offer is abandoned on Thanksgiving Day; the shares fall to $5 the next day.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Dec 4",
+   "year": "1990",
+   "cat": "death",
+   "title": "Payments suspended",
+   "text": "A $14.4M third-quarter loss; payments stop on $122M of bank debt and $212M of merchandise.",
+   "src": [
+    4,
+    5
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1991",
+   "cat": "corporate",
+   "title": "The bosses leave",
+   "text": "The chief executive resigns, weeks after the chairman. Mattel and Tyco brace for bad debts.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Mar 13",
+   "year": "1991",
+   "cat": "corporate",
+   "title": "Toys “R” Us veterans",
+   "text": "W. John Devine and Ronald Tuchman’s WC Acquisition emerges as the buyer.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Apr 8",
+   "year": "1991",
+   "cat": "money",
+   "title": "$2 a share",
+   "text": "CNC agrees to sell its 82%; public holders are to get $2 a share.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1992",
+   "cat": "stores",
+   "title": "26 stores shut",
+   "text": "Chicago, Houston and Dallas stores and three distribution centres close; a $20M charge.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "May 6",
+   "year": "1992",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "Child World files in White Plains, closing 54 of 125 stores; about 1,500 jobs go.",
+   "src": [
+    1,
+    8,
+    10
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1992",
+   "cat": "corporate",
+   "title": "Lionel talks",
+   "text": "A merger with Lionel is proposed; otherwise the last 71 stores will close.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "1992",
+   "cat": "death",
+   "title": "Talks fail",
+   "text": "Child World says it will close its remaining stores.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Oct 30",
+   "year": "1992",
+   "cat": "death",
+   "title": "Nearly over",
+   "text": "The bankruptcy court records that the closing sales will finish within the month.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "",
+   "year": "1993",
+   "cat": "stores",
+   "title": "Empty castles",
+   "text": "The Saugus, Massachusetts store stands empty.",
+   "src": []
+  }
+ ]
+}
