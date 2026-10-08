@@ -1,0 +1,18 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a self-service salad bar: a wooden counter under a glass guard holding bowls of lettuce, tomatoes, cucumber and dressing, with a stack of chilled plates">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 280 H432" fill="none"/>
+<rect x="40" y="170" width="360" height="110" rx="6" fill="#7a4a2b"/>
+<path d="M40 200 H400 M130 200 V280 M220 200 V280 M310 200 V280" fill="none" stroke="#4a2c1c"/>
+<rect x="30" y="150" width="380" height="24" rx="5" fill="#d9e7ec"/>
+<path d="M60 150 V84 M380 150 V84" fill="none" stroke-width="5"/>
+<path d="M44 84 H396 L372 52 H68 Z" fill="#cfe6ef" fill-opacity=".7"/>
+<path d="M96 76 L112 60 M150 76 L166 60" fill="none" stroke="#fbf7ec"/>
+<g>
+<path d="M62 150 a36 20 0 0 1 72 0 Z" fill="#6fae4a"/><path d="M74 138 q10 -14 20 0 q10 -12 22 2" fill="none" stroke="#3f7a2a"/>
+<path d="M146 150 a32 18 0 0 1 64 0 Z" fill="#c8402d"/><circle cx="166" cy="142" r="6" fill="#e2573f"/><circle cx="186" cy="140" r="6" fill="#e2573f"/>
+<path d="M222 150 a32 18 0 0 1 64 0 Z" fill="#a9d08a"/><circle cx="242" cy="142" r="6" fill="#e6f2d8"/><circle cx="262" cy="140" r="6" fill="#e6f2d8"/>
+<path d="M298 150 a26 16 0 0 1 52 0 Z" fill="#f3e6c2"/><path d="M324 136 L346 104" fill="none" stroke-width="5"/>
+</g>
+<g fill="#fbf7ec"><ellipse cx="376" cy="146" rx="26" ry="6"/><ellipse cx="376" cy="138" rx="26" ry="6"/><ellipse cx="376" cy="130" rx="26" ry="6"/><ellipse cx="376" cy="122" rx="26" ry="6"/></g>
+<path d="M84 240 H110 M174 240 H200 M264 240 H290 M354 240 H380" fill="none" stroke="#f6d04d" stroke-width="5"/>
+</g></svg>

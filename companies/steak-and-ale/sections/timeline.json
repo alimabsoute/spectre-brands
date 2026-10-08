@@ -1,0 +1,418 @@
+{
+ "kicker": "Timeline",
+ "title": "Sixty years, 37 moments",
+ "lede": "From a Dallas coffee shop to a hotel in Minnesota. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Owners & money",
+   "color": "#4f7a4a"
+  },
+  "sibling": {
+   "label": "Bennigan’s & kin",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Bankruptcy",
+   "color": "#a8321f"
+  },
+  "after": {
+   "label": "Afterlife",
+   "color": "#93743a"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1964",
+   "cat": "corporate",
+   "title": "Brinker comes to Dallas",
+   "text": "After leaving Jack in the Box, Norman Brinker opens a coffee shop called Brink’s.",
+   "src": [
+    2,
+    21
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "1966",
+   "cat": "corporate",
+   "title": "The first Steak and Ale",
+   "text": "It opens near Lemmon and Oak Lawn avenues in Dallas. A local news site gives the day as February 26.",
+   "src": [
+    6,
+    12,
+    33
+   ]
+  },
+  {
+   "date": "",
+   "year": "1971",
+   "cat": "money",
+   "title": "Public company",
+   "text": "Steak and Ale goes public with 28 restaurants.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "",
+   "year": "1973",
+   "cat": "corporate",
+   "title": "The alumni start arriving",
+   "text": "Tim Gannon and Chris Sullivan, later founders of Outback Steakhouse, are working at the Steak and Ale in Rockville, Maryland.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "",
+   "year": "1976",
+   "cat": "money",
+   "title": "Merger with Pillsbury",
+   "text": "The chain has 109 restaurants in 24 states. Brinker becomes a Pillsbury executive vice president and director.",
+   "src": [
+    2,
+    6
+   ]
+  },
+  {
+   "date": "",
+   "year": "1976",
+   "cat": "sibling",
+   "title": "The first Bennigan’s",
+   "text": "Brinker develops a second concept inside the same company.",
+   "src": [
+    5,
+    27
+   ]
+  },
+  {
+   "date": "May",
+   "year": "1977",
+   "cat": "corporate",
+   "title": "Chairman of S&A",
+   "text": "Brinker, president of S&A Restaurant Corp. since February 1966, becomes its chairman and chief executive.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1982",
+   "cat": "corporate",
+   "title": "Head of Pillsbury’s restaurants",
+   "text": "Brinker becomes president of the Pillsbury Restaurant Group and chairman of Burger King.",
+   "src": [
+    6,
+    7
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1983",
+   "cat": "sibling",
+   "title": "Bennigan’s gets the growth",
+   "text": "Pillsbury says Bennigan’s has 66 restaurants in 16 states and will have 108 by May.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "1983",
+   "cat": "corporate",
+   "title": "Brinker leaves",
+   "text": "He resigns from S&A and Pillsbury and takes over Chili’s that September.",
+   "src": [
+    2,
+    7
+   ]
+  },
+  {
+   "date": "",
+   "year": "1986",
+   "cat": "corporate",
+   "title": "Jenkins goes to Friday’s",
+   "text": "J. Michael Jenkins leaves S&A to become president of T.G.I. Friday’s. A reference history says he later tried to buy S&A.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "Early",
+   "year": "1988",
+   "cat": "money",
+   "title": "Pillsbury reviews its restaurants",
+   "text": "After a nine-month review it says it will reduce the division. Steak and Ale’s chairman leaves.",
+   "src": [
+    19
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1989",
+   "cat": "money",
+   "title": "Grand Met buys Pillsbury",
+   "text": "The British group pays $5.68 billion and promises to sell the restaurants that serve liquor.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Mar 8",
+   "year": "1989",
+   "cat": "money",
+   "title": "$431 million buyout",
+   "text": "Grand Met agrees to sell 159 Steak and Ale and 221 Bennigan’s restaurants to management, D.J.S./Inverness and Citicorp.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1989",
+   "cat": "money",
+   "title": "Metromedia",
+   "text": "Reference histories and the Dallas Observer date John Kluge’s acquisition of S&A to this year. We found no contemporary report of the terms.",
+   "src": [
+    15,
+    17,
+    18
+   ]
+  },
+  {
+   "date": "",
+   "year": "1992",
+   "cat": "corporate",
+   "title": "Kaufman arrives",
+   "text": "Kluge puts Michael Kaufman, an acquisitions specialist, in charge of his steakhouse company.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "Dec 14",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "107 steakhouses",
+   "text": "A company release counts 107 Steak and Ale restaurants in 24 states. Bob Mandes is the chain’s president.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "Nov",
+   "year": "2001",
+   "cat": "corporate",
+   "title": "Spae takes operations",
+   "text": "Bill Spae becomes chief operating officer of Steak and Ale, and later its president.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Mar 13",
+   "year": "2003",
+   "cat": "money",
+   "title": "For sale",
+   "text": "Metromedia agrees to sell Steak and Ale, with 66 locations, and its Ponderosa and Bonanza chains to APEX, keeping Bennigan’s.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Sep 5",
+   "year": "2003",
+   "cat": "money",
+   "title": "Managed, not sold",
+   "text": "APEX’s principals take over management of all four chains instead. Kaufman steps down.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "Jan 18",
+   "year": "2007",
+   "cat": "corporate",
+   "title": "Another chief executive",
+   "text": "Metromedia Restaurant Group names Vince Runco chief executive.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "Late May",
+   "year": "2008",
+   "cat": "death",
+   "title": "Dover quits",
+   "text": "Clay Dover, chief executive for about six months, resigns over the “strategic direction” of the company.",
+   "src": [
+    5,
+    8
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "2008",
+   "cat": "death",
+   "title": "Lenders",
+   "text": "The Wall Street Journal reports a breach of lending agreements with GE Capital Solutions. The company says it is not preparing a bankruptcy filing.",
+   "src": [
+    4,
+    8,
+    9
+   ]
+  },
+  {
+   "date": "Jul 29",
+   "year": "2008",
+   "cat": "death",
+   "title": "Chapter 7",
+   "text": "S&A Restaurant Corp. and affiliates file 38 petitions in Sherman, Texas. All 58 Steak and Ale restaurants and about 150 company-owned Bennigan’s close.",
+   "src": [
+    4,
+    8,
+    9,
+    16
+   ]
+  },
+  {
+   "date": "Aug 6",
+   "year": "2008",
+   "cat": "death",
+   "title": "Gone everywhere",
+   "text": "A Michigan news site reports the Plymouth restaurant among the 58 closed nationwide.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Oct 22",
+   "year": "2008",
+   "cat": "after",
+   "title": "Atalaya buys the names",
+   "text": "The private-equity firm says it is buying both brands and their trademarks. Metromedia’s other steakhouse unit files for Chapter 11.",
+   "src": [
+    13,
+    15
+   ]
+  },
+  {
+   "date": "Jun 9",
+   "year": "2009",
+   "cat": "corporate",
+   "title": "Norman Brinker dies",
+   "text": "He is 78. Brinker International then has about 1,700 restaurants.",
+   "src": [
+    2,
+    6
+   ]
+  },
+  {
+   "date": "Oct 1",
+   "year": "2009",
+   "cat": "after",
+   "title": "A grocery licence",
+   "text": "The Dallas Observer reports a deal to put Steak and Ale and Bennigan’s dishes in supermarkets.",
+   "src": [
+    26
+   ]
+  },
+  {
+   "date": "May",
+   "year": "2011",
+   "cat": "after",
+   "title": "Mangiamele",
+   "text": "Paul Mangiamele becomes chief executive of Bennigan’s Franchising Co., which also holds Steak and Ale.",
+   "src": [
+    27
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "2011",
+   "cat": "after",
+   "title": "The reunion",
+   "text": "About 400 former employees meet in Dallas; 55 sponsors paid $105,000 for the party.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "2013",
+   "cat": "after",
+   "title": "The estate’s leftovers",
+   "text": "Oak Point Partners buys the remnant assets of the S&A bankruptcy estate, case no. 08-41898.",
+   "src": [
+    16
+   ]
+  },
+  {
+   "date": "Feb 11",
+   "year": "2015",
+   "cat": "after",
+   "title": "Legendary Restaurant Brands",
+   "text": "Paul and Gwen Mangiamele buy the franchisor and trademarks from Fortress Investment Group. Terms are not disclosed.",
+   "src": [
+    27
+   ]
+  },
+  {
+   "date": "Jun 29",
+   "year": "2016",
+   "cat": "after",
+   "title": "A Mexican agreement",
+   "text": "Legendary announces a master development agreement for Mexico. No Steak and Ale there appears on its 2026 locations page.",
+   "src": [
+    30,
+    37
+   ]
+  },
+  {
+   "date": "May",
+   "year": "2018",
+   "cat": "after",
+   "title": "Back on a menu",
+   "text": "Three Steak and Ale dishes, the Kensington Club among them, are added at Bennigan’s.",
+   "src": [
+    31
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "2023",
+   "cat": "after",
+   "title": "The Endeavor deal",
+   "text": "A 15-restaurant agreement with Endeavor Properties names Burnsville, Minnesota as the first site.",
+   "src": [
+    32
+   ]
+  },
+  {
+   "date": "Jul 8",
+   "year": "2024",
+   "cat": "after",
+   "title": "Burnsville opens",
+   "text": "The first new Steak and Ale in 16 years opens beside a Wyndham hotel.",
+   "src": [
+    35,
+    36
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "2026",
+   "cat": "after",
+   "title": "A second is announced",
+   "text": "Former employees John and Dixie Benca plan a franchised restaurant in Anderson, South Carolina for early 2027.",
+   "src": [
+    37
+   ]
+  }
+ ]
+}

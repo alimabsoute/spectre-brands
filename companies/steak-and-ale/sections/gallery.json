@@ -1,0 +1,97 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Half-timber, stained glass and a red sign",
+ "label": "Brand gallery",
+ "lede": "One freely licensed photograph of a closed restaurant, one of the sibling chain, and three captures of the brand’s own website. The drawings are our own and do not reproduce the chain’s logo or crest.",
+ "archive": [
+  {
+   "image": "img/westminster-2011.avif",
+   "date": "2011",
+   "caption": "A closed Steak and Ale at Westminster Mall, Colorado, May 13, 2011. The photographer notes it was demolished between July 2011 and March 2012.",
+   "alt": "An empty single-storey restaurant with white walls, dark timbering and a brick chimney, with a red sign on a pole at the edge of a bare parking lot",
+   "credit": "Photo: Xnatedawgx, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Abandoned_Steak_and_Ale,_Westminster_Mall,_CO.jpg), CC BY-SA 3.0."
+  },
+  {
+   "image": "img/bennigans-denver-2004.avif",
+   "date": "2004",
+   "caption": "A Bennigan’s in Denver, Colorado, from the John Margolies Roadside America archive at the Library of Congress.",
+   "alt": "A Bennigan’s restaurant with green awnings beside a parking lot",
+   "credit": "Photo: John Margolies, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bennigan%27s_Restaurant,_Denver,_Colorado_LCCN2017709086.tif), Public domain."
+  },
+  {
+   "image": "img/archive-2003-02-home.avif",
+   "date": "2003",
+   "caption": "The chain’s home page on February 3, 2003.",
+   "alt": "A blue web page with a Steak and Ale Restaurant logo and round photo buttons for locations, menu and banquets",
+   "credit": "Internet Archive capture of steakandale.com. Shown for commentary."
+  },
+  {
+   "image": "img/archive-2008-01-home.avif",
+   "date": "2008",
+   "caption": "The chain’s last home page design, captured on January 5, 2008.",
+   "alt": "A beige web page with a sepia photograph of a dining room and buttons for locations, Steak 101 and banquets",
+   "credit": "Internet Archive capture of steakandale.com. Shown for commentary."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The site before the end and after the return",
+   "ratio": "16/11",
+   "before": {
+    "label": "January 2008",
+    "image": "img/archive-2008-01-home.avif",
+    "caption": "The last design under S&A Restaurant Corp.[^22]",
+    "alt": "The 2008 Steak and Ale home page"
+   },
+   "after": {
+    "label": "January 2025",
+    "image": "img/archive-2025-01-home.avif",
+    "caption": "The new owners’ site, announcing Burnsville.[^22]",
+    "alt": "The 2025 Steak and Ale home page with an opening announcement"
+   },
+   "source": "Internet Archive captures of steakandale.com.[^22]"
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The order.",
+   "caption": "A steak and a pewter tankard. Original illustration, not an official asset."
+  },
+  {
+   "art": "art/salad-bar.svg",
+   "title": "The salad bar.",
+   "caption": "The feature the chain is credited with bringing to restaurants.[^2] Original illustration."
+  },
+  {
+   "art": "art/tudor-inn.svg",
+   "title": "The inn.",
+   "caption": "A half-timbered roadside restaurant with a blank sign. Original illustration, not a real building."
+  },
+  {
+   "art": "art/closed-door.svg",
+   "title": "The morning.",
+   "caption": "July 29, 2008: a locked door and a notice.[^9] Original illustration, not a photograph."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#8a1c1c",
+   "label": "Sign red (approx.)"
+  },
+  {
+   "hex": "#5b4a3f",
+   "label": "Shingle brown (drawing)"
+  },
+  {
+   "hex": "#f4ecdc",
+   "label": "Stucco (approx.)"
+  },
+  {
+   "hex": "#3162c9",
+   "label": "2003 website blue (approx.)"
+  }
+ ],
+ "disclaimer": "Colours were matched by eye to the 2011 photograph and the 2003 web capture and are approximate. Steak and Ale, Bennigan’s and Kensington Club are trademarks of their owner and are discussed here in historical and editorial context. The drawings are original illustrations and are not official assets."
+}

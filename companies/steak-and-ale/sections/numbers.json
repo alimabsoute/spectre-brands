@@ -1,0 +1,293 @@
+{
+ "kicker": "The money",
+ "title": "Ten years up, twenty years down, one morning",
+ "lede": "Steak and Ale was a public company only from 1971 to 1976, long before EDGAR, and a subsidiary or a private company for the rest of its life. There is no run of annual figures. What follows is every count and dollar amount we could confirm, and the largest gap is the 1980s: no source we read gives a dated count between 1976 and 1989.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Restaurants: one, 159, none, one",
+   "subtitle": "Steak and Ale restaurants at the dates a source gives a count. The chain may have been larger in the mid-1980s; see the peak claims below.",
+   "labels": [
+    "Feb 1966",
+    "1971",
+    "1976",
+    "Mar 1989",
+    "Dec 2000",
+    "Mar 2003",
+    "May 2008",
+    "Jul 29, 2008",
+    "Jul 2024"
+   ],
+   "format": "num",
+   "xLabel": "Date of the count (not evenly spaced)",
+   "series": [
+    {
+     "label": "Restaurants",
+     "data": [
+      1,
+      28,
+      109,
+      159,
+      107,
+      66,
+      58,
+      0,
+      1
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 1,
+     "title": "the offering",
+     "text": "28 restaurants when the company goes public.[^6]"
+    },
+    {
+     "i": 2,
+     "title": "Pillsbury",
+     "text": "109 restaurants in 24 states at the merger.[^2][^6]"
+    },
+    {
+     "i": 3,
+     "title": "the buyout",
+     "text": "159 restaurants sold with 221 Bennigan’s for $431M. The highest dated count we found.[^1]"
+    },
+    {
+     "i": 5,
+     "title": "for sale again",
+     "text": "66 locations when Metromedia agrees to sell the brand. The sale is not completed.[^23]"
+    },
+    {
+     "i": 7,
+     "title": "Chapter 7",
+     "text": "All 58 restaurants, every one company-owned, close the day the parent files.[^8]"
+    },
+    {
+     "i": 8,
+     "title": "Burnsville",
+     "text": "One new restaurant under new owners.[^35]"
+    }
+   ],
+   "source": "1966: the first restaurant.[^6] 1971 and 1976: Nation’s Restaurant News.[^6] The 1976 count is also in The New York Times.[^2] 1989: The New York Times.[^1] 2000: a company release.[^24] 2003: a company release.[^23] May 2008: The Dallas Morning News.[^8] 2024: FSR magazine.[^35]"
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The 1989 buyout, as Grand Met announced it",
+   "rows": [
+    {
+     "value": "$431M",
+     "text": "price for the Dallas restaurant group, to management, D.J.S./Inverness and Citicorp[^1]"
+    },
+    {
+     "value": "$716M",
+     "text": "sales of the group in the year ended May 31, 1988[^1]"
+    },
+    {
+     "value": "$50M",
+     "text": "operating income in that year; one analyst had expected $62M[^1]"
+    },
+    {
+     "value": "33,000",
+     "text": "people employed by the group[^1]"
+    }
+   ],
+   "source": "Eric N. Berg, The New York Times, March 9, 1989.[^1] The figures are for Steak and Ale and Bennigan’s together; the article does not split them. Derived: $431M ÷ 380 restaurants ≈ $1.13M a restaurant; $716M ÷ 380 ≈ $1.88M of sales a restaurant; $50M ÷ $716M ≈ 7.0%; $431M ÷ $50M ≈ 8.6."
+  },
+  {
+   "kind": "flow",
+   "title": "What Grand Met sold",
+   "subtitle": "The 380 restaurants in the March 1989 sale, by brand.",
+   "format": "num",
+   "from": {
+    "label": "Restaurants sold",
+    "value": 380
+   },
+   "to": [
+    {
+     "label": "Bennigan’s",
+     "value": 221,
+     "color": "green",
+     "note": "The younger chain was already the larger[^1]"
+    },
+    {
+     "label": "Steak and Ale",
+     "value": 159,
+     "color": "brand",
+     "note": "42% of the restaurants (derived)[^1]"
+    }
+   ],
+   "source": "The New York Times, March 9, 1989.[^1] 380 is 159 + 221 (derived)."
+  },
+  {
+   "kind": "chart",
+   "id": "saSiblings",
+   "title": "The steakhouse shrank; the tavern did not",
+   "subtitle": "Restaurants in each chain in March 1989 and in 2008. The 2008 Bennigan’s figure is domestic restaurants only.",
+   "chart": {
+    "type": "bar",
+    "height": 320,
+    "labels": [
+     "March 1989",
+     "2008"
+    ],
+    "y": {
+     "format": "num",
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Steak and Ale",
+      "data": [
+       159,
+       58
+      ],
+      "color": "brand"
+     },
+     {
+      "label": "Bennigan’s",
+      "data": [
+       221,
+       255
+      ],
+      "color": "green"
+     }
+    ]
+   },
+   "source": "1989: The New York Times.[^1] 2008: 58 Steak and Ale restaurants in late May, per The Dallas Morning News[^8]; 255 domestic Bennigan’s, of which 159 company-owned and 96 franchised, per the Nation’s Restaurant News Top 100 survey as reported on July 29, 2008, which also put Steak and Ale at “about 55 units.”[^4] The 1989 Bennigan’s figure is not split between company and franchised restaurants."
+  },
+  {
+   "kind": "waffle",
+   "title": "What was left of the 1989 chain",
+   "subtitle": "The 159 Steak and Ale restaurants of March 1989, by whether the chain was still that size in May 2008 (derived).",
+   "format": "pct",
+   "itemLabel": "Outcome",
+   "valueLabel": "Share of the 1989 count",
+   "items": [
+    {
+     "label": "Net reduction by May 2008",
+     "value": 64,
+     "note": "101 fewer restaurants",
+     "color": "grey"
+    },
+    {
+     "label": "Still operating in May 2008",
+     "value": 36,
+     "note": "58 restaurants, closed on July 29",
+     "color": "red"
+    }
+   ],
+   "source": "159 restaurants in 1989[^1] and 58 in May 2008.[^8] Derived: 58 ÷ 159 ≈ 36%. This compares two totals; we do not know which individual restaurants closed or whether any opened in between."
+  },
+  {
+   "kind": "bars",
+   "title": "How big did it get? Four answers",
+   "subtitle": "The dated 1989 count against three figures later given for the chain’s peak.",
+   "format": "num",
+   "itemLabel": "Source",
+   "valueLabel": "Restaurants",
+   "items": [
+    {
+     "label": "“more than 110 locations worldwide” (trade press, 2024)",
+     "value": 110,
+     "display": "110+",
+     "color": "grey",
+     "note": "FSR, republished by the owners[^35]"
+    },
+    {
+     "label": "159 restaurants (Grand Met, March 1989)",
+     "value": 159,
+     "color": "brand",
+     "self": true,
+     "note": "A count at a date, not a claimed peak[^1]"
+    },
+    {
+     "label": "“as large as 280 units in the 1980s” (trade press, 2023)",
+     "value": 280,
+     "color": "grey",
+     "note": "FSR, as republished by the owners; also a 2008 local report[^12][^34]"
+    },
+    {
+     "label": "“nearly 300 locations” (trade press, 2023; owners, 2026)",
+     "value": 300,
+     "display": "nearly 300",
+     "color": "grey",
+     "note": "Restaurant Business and Legendary[^32][^37]"
+    }
+   ],
+   "source": "We could not trace the 280 or 300 figures to a document of the 1980s and treat them as **unverified**. They may count all S&A Restaurant Corp. restaurants, or a year for which we have no source."
+  },
+  {
+   "kind": "counters",
+   "title": "The filing of July 29, 2008",
+   "items": [
+    {
+     "value": "38",
+     "text": "Chapter 7 petitions filed in Sherman, Texas for S&A Restaurant Corp. and affiliates[^4][^9]"
+    },
+    {
+     "value": "$778.9M",
+     "text": "assets, at most, as listed on the petitions[^4]"
+    },
+    {
+     "value": "$324.2M",
+     "text": "debts, at most, as listed on the petitions[^4]"
+    },
+    {
+     "value": "9,000",
+     "text": "and more people out of work, by NPR’s count, across both chains[^10]"
+    }
+   ],
+   "source": "Nation’s Restaurant News[^4][^5], the Associated Press[^9] and NPR.[^10] Petition figures are the upper ends of ranges and are not audited balances. An analyst estimated the closed restaurants’ annual sales at about $500M, some 1% of casual-dining sales.[^5]"
+  },
+  {
+   "kind": "scale",
+   "title": "From one restaurant to 109 in ten years",
+   "icon": "store",
+   "count": 109,
+   "left": {
+    "value": "109",
+    "label": "restaurants in 24 states in 1976[^2]"
+   },
+   "unit": {
+    "value": "1",
+    "label": "restaurant in February 1966"
+   },
+   "equation": "109 ÷ 1. The 1976 count is from The New York Times and Nation’s Restaurant News; the first restaurant opened in February 1966.[^2][^6]"
+  },
+  {
+   "kind": "table",
+   "title": "Metromedia Restaurant Group, in its own words",
+   "subtitle": "How the parent described its four chains on its website.",
+   "columns": [
+    "Page or release",
+    "All four chains",
+    "Steak and Ale"
+   ],
+   "numeric": [],
+   "rows": [
+    [
+     "Release, Dec 14, 2000",
+     "“nearly 1,000 restaurants in the United States and 12 other countries”",
+     "“107 steakhouses in 24 states”"
+    ],
+    [
+     "Release, Mar 13, 2003",
+     "Ponderosa and Bonanza: “almost 500 locations”",
+     "“66 locations”"
+    ],
+    [
+     "Release, Sep 5, 2003",
+     "“more that 800” restaurants “in the U.S. and 15 other countries”",
+     "not stated"
+    ],
+    [
+     "About page, captured Dec 2006",
+     "“more than 800” restaurants",
+     "not stated"
+    ]
+   ],
+   "source": "Internet Archive captures of metromediarestaurants.com and steakandale.com.[^23][^24] The parent’s franchise page, captured in December 2003, put system sales at “more than $1.4 billion.”[^24]"
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Steak and Ale was publicly traded only from 1971 to 1976, before EDGAR, and was a subsidiary or a private company afterwards, so there are no annual reports to cite. The primary sources here are a 1996 proxy statement, the company’s own archived web pages and releases, and a legislative resolution. Everything else is contemporary press and trade press, plus three reference histories. New York Times links may need a subscription; we read those articles through Internet Archive copies of the same pages.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Eric N. Berg, [“2 Pillsbury Chains To Be Sold”](https://www.nytimes.com/1989/03/09/business/2-pillsbury-chains-to-be-sold.html), The New York Times, Mar 9, 1989."
+  },
+  {
+   "id": 2,
+   "text": "William Grimes, [“Norman Brinker, Casual Dining Innovator, Dies at 78”](https://www.nytimes.com/2009/06/10/business/10brinker.html), The New York Times, Jun 10, 2009 (published online Jun 9; corrected Jun 15)."
+  },
+  {
+   "id": 3,
+   "text": "Michael M. Grynbaum, [“Restaurant Chains Close as Diners Reduce Spending”](https://www.nytimes.com/2008/07/30/business/30restaurant.html), The New York Times, Jul 30, 2008."
+  },
+  {
+   "id": 4,
+   "text": "Ron Ruggless, [“S&A files for bankruptcy, closes stores”](https://nrn.com/casual-dining/s-a-files-for-bankruptcy-closes-stores), Nation’s Restaurant News, Jul 29, 2008."
+  },
+  {
+   "id": 5,
+   "text": "Ron Ruggless, [“Bennigan’s brand to carry on after parent’s bankruptcy”](https://www.nrn.com/marketing-branding/bennigan-s-brand-to-carry-on-after-parent-s-bankruptcy), Nation’s Restaurant News, Aug 11, 2008."
+  },
+  {
+   "id": 6,
+   "text": "Ron Ruggless, [“Industry icon Norman Brinker dies”](https://www.nrn.com/archive/industry-icon-norman-brinker-dies), Nation’s Restaurant News, Jun 9, 2009."
+  },
+  {
+   "id": 7,
+   "text": "Brinker International, Inc., [definitive proxy statement (DEF 14A)](https://www.sec.gov/Archives/edgar/data/703351/0000703351-96-000016.txt), filed with the SEC Sep 24, 1996: biography of Norman E. Brinker."
+  },
+  {
+   "id": 8,
+   "text": "Karen Robinson-Jacobs and Rachel Slade, [“Plano-based Bennigan’s closes restaurants”](https://web.archive.org/web/20080731095852/http://www.dallasnews.com/sharedcontent/dws/dn/latestnews/stories/073008dnmetbennigans.140b9e44.html), The Dallas Morning News, Jul 30, 2008 (Internet Archive copy)."
+  },
+  {
+   "id": 9,
+   "text": "The Associated Press, [“Bennigan’s parent files bankruptcy, will close”](https://www.nbcnews.com/id/wbna25916847), NBC News, Jul 29, 2008."
+  },
+  {
+   "id": 10,
+   "text": "[“Bennigan’s Closes, Files For Bankruptcy Protection”](https://www.npr.org/2008/07/30/93057249/bennigans-closes-files-for-bankruptcy-protection), NPR Morning Edition, Jul 30, 2008 (summary page)."
+  },
+  {
+   "id": 11,
+   "text": "Robert Wilonsky, [“News That’s Hard to Swallow: Bye-Bye, Bennigan’s. Put a Fork in Steak & Ale.”](https://www.dallasobserver.com/?p=40555821), Dallas Observer, Jul 29, 2008. Reproduces the company’s statement."
+  },
+  {
+   "id": 12,
+   "text": "Jason Rzucidlo, [“All Steak and Ale Restaurants Nationwide Disappear Abruptly Including Two in Metro Detroit”](https://americajr.com/news/steakandaleclosed0804.html), AmericaJR.com, Aug 6, 2008. A local news site."
+  },
+  {
+   "id": 13,
+   "text": "The Associated Press, [“New owner for Bennigan’s, Steak & Ale”](https://abc13.com/archive/6464897/), ABC13 Houston, October 2008."
+  },
+  {
+   "id": 14,
+   "text": "Suzanne Weinstock, [“Atalaya acquires Bennigan’s brand as parent folds”](https://www.privateequityinternational.com/atalaya-acquires-bennigans-brand-as-parent-folds/), Private Equity International, Oct 24, 2008 (headline and summary; the rest is behind registration)."
+  },
+  {
+   "id": 15,
+   "text": "Robert Wilonsky, [“That Ain’t Cartwright, Hoss: Bonanza Chain Might Meat its Maker”](https://www.dallasobserver.com/?p=40563003), Dallas Observer, Oct 23, 2008."
+  },
+  {
+   "id": 16,
+   "text": "Oak Point Partners, [“S&A Restaurant Corp.”](https://www.oakpointpartners.com/portfolio/sa-restaurant-corp-a3qr7ot8fx6ogtuz), remnant-asset notice giving the case number and filing date. A commercial page by the buyer of the estate’s remnant assets."
+  },
+  {
+   "id": 17,
+   "text": "[“Metromedia Company History”](https://www.fundinguniverse.com/company-histories/metromedia-company-history/), FundingUniverse, a reference history reprinted from the International Directory of Company Histories."
+  },
+  {
+   "id": 18,
+   "text": "[“Ponderosa Steakhouse History”](https://www.fundinguniverse.com/company-histories/ponderosa-steakhouse-history/), FundingUniverse, a reference history."
+  },
+  {
+   "id": 19,
+   "text": "[“The Pillsbury Company History”](https://www.fundinguniverse.com/company-histories/the-pillsbury-company-history/), FundingUniverse, a reference history."
+  },
+  {
+   "id": 20,
+   "text": "Robert Kilborn Jr., [“At restaurant chains, meaty profits even in recession”](https://www.csmonitor.com/1983/0110/011035.html), The Christian Science Monitor, Jan 10, 1983."
+  },
+  {
+   "id": 21,
+   "text": "Texas House of Representatives, [H.R. No. 108](https://capitol.texas.gov/tlodocs/811/billtext/html/HR00108F.htm), 81st Legislature, 1st Called Session, 2009: memorial resolution for Norman Brinker."
+  },
+  {
+   "id": 22,
+   "text": "steakandale.com, Internet Archive captures: [Jan 25, 1999](https://web.archive.org/web/19990125092132/http://steakandale.com:80/), [Mar 1, 2000](https://web.archive.org/web/20000301092340/http://www.steakandale.com:80/), [Feb 3, 2003](https://web.archive.org/web/20030203010151/http://www.steakandale.com:80/), [Jan 5, 2008](https://web.archive.org/web/20080105211052/http://www.steakandale.com:80/) and [Jan 15, 2025](https://web.archive.org/web/20250115190742/https://steakandale.com/)."
+  },
+  {
+   "id": 23,
+   "text": "Steak and Ale news releases on steakandale.com, Internet Archive captures of December 2003: [“Metromedia Restaurant Group Agrees to Sale of Three Brands,” Mar 13, 2003](https://web.archive.org/web/20031217182829/http://www.steakandale.com/news_4.htm); [“Bill Spae Named President and COO for Steak and Ale”](https://web.archive.org/web/20031217101009/http://www.steakandale.com/news_3.htm); [“Steak and Ale Voted #1 Steakhouse in the Nation by Consumers”](https://web.archive.org/web/20031204224914/http://www.steakandale.com/news_2.htm)."
+  },
+  {
+   "id": 24,
+   "text": "Metromedia Restaurant Group, metromediarestaurants.com, Internet Archive captures: [“Holidays are ‘Prime’ Time at Steak and Ale,” Dec 14, 2000](https://web.archive.org/web/20031211055458/http://metromediarestaurants.com/Primerib.htm); [“Metromedia Restaurant Group and APEX Form Strategic Relationship,” Sep 5, 2003](https://web.archive.org/web/20050129023922/http://www.metromediarestaurants.com/pr.09.29.03.html); [franchise page, Dec 2003](https://web.archive.org/web/20031203051044/http://metromediarestaurants.com/franchise.asp); [about page, Dec 2006](https://web.archive.org/web/20061205033404/http://metromediarestaurants.com/about.asp); [news index, Apr 2007](https://web.archive.org/web/20070402144542/http://www.metromediarestaurants.com/news.asp)."
+  },
+  {
+   "id": 25,
+   "text": "[“Steak and Ale, Bennigan’s ‘alums’ gather to reminisce and toast Norman Brinker”](https://www.dallasnews.com/business/2011/10/19/steak-and-ale-bennigans-alums-gather-to-reminisce-and-toast-norman-brinker/), The Dallas Morning News, Oct 18, 2011."
+  },
+  {
+   "id": 26,
+   "text": "Robert Wilonsky, [“Steak and Ale’s Dead. Long Live Steak and Ale!”](https://www.dallasobserver.com/?p=40548106), Dallas Observer, Oct 1, 2009."
+  },
+  {
+   "id": 27,
+   "text": "Ron Ruggless, [“Bennigan’s CEO buys out franchisor”](https://www.nrn.com/restaurant-franchising/bennigan-s-ceo-buys-out-franchisor), Nation’s Restaurant News, Feb 16, 2015."
+  },
+  {
+   "id": 28,
+   "text": "[“Bennigan’s CEO liked the chain so much, he bought the company”](https://www.dallasnews.com/business/2015/02/16/bennigans-ceo-liked-the-chain-so-much-he-bought-the-company/), The Dallas Morning News, Feb 15, 2015."
+  },
+  {
+   "id": 29,
+   "text": "Kate Taylor, [“Bennigan’s CEO Puts His Money Where His Mouth Is and Buys the Company”](https://www.entrepreneur.com/article/242993), Entrepreneur, Feb 17, 2015."
+  },
+  {
+   "id": 30,
+   "text": "Legendary Restaurant Brands, [“Steak and Ale Launches Comeback in Mexico City”](https://bennigans.com/steak-and-ale-launches-comeback-in-mexico-city/), news release, Jun 29, 2016."
+  },
+  {
+   "id": 31,
+   "text": "Bret Thorn, [“Bennigan’s brings back Steak and Ale menu items”](https://www.nrn.com/casual-dining/bennigan-s-brings-back-steak-and-ale-menu-items), Nation’s Restaurant News, May 3, 2018."
+  },
+  {
+   "id": 32,
+   "text": "Joe Guszkowski, [“14 years after disappearing, Steak and Ale is set to return”](https://restaurantbusinessonline.com/operations/14-years-after-disappearing-steak-ale-set-return), Restaurant Business, Jan 17, 2023."
+  },
+  {
+   "id": 33,
+   "text": "Sarah Blaskovich, The Dallas Morning News: [“When iconic Dallas restaurant Steak and Ale returns, Grand Prairie will be first in Texas”](https://www.dallasnews.com/food/restaurant-news/2023/02/22/when-iconic-dallas-restaurant-steak-and-ale-returns-grand-prairie-will-be-first-in-texas/), Feb 22, 2023, and [“Steak and Ale’s resurgence in Texas is delayed but still alive, CEO says”](https://www.dallasnews.com/food/restaurant-news/2024/05/09/is-steak-ale-dead-dallas-resurgence), May 10, 2024."
+  },
+  {
+   "id": 34,
+   "text": "Danny Klein, [“It’s Official: Steak & Ale’s Comeback is Only Months Away”](https://legendaryrestaurantbrands.com/its-official-steak-ales-comeback-is-only-months-away/2023/10/26/), FSR magazine, Oct 24, 2023, as republished by Legendary Restaurant Brands."
+  },
+  {
+   "id": 35,
+   "text": "[“After 16 Years, Steak & Ale Officially Opens Its First New Location”](https://www.fsrmagazine.com/feature/after-16-years-steak-ale-officially-opens-its-first-new-location/), FSR magazine, July 2024; also [republished by Legendary Restaurant Brands](https://legendaryrestaurantbrands.com/?p=1599)."
+  },
+  {
+   "id": 36,
+   "text": "Sharyn Jackson, [“Classic Steak and Ale chain reopens in Burnsville, 16 years after it closed”](https://www.startribune.com/steak-and-ale-open-classic-chain-burnsville-minnesota-salad-bar/600379195/), The Minnesota Star Tribune, Jul 8, 2024."
+  },
+  {
+   "id": 37,
+   "text": "Legendary Restaurant Brands: [locations page](https://bennigans.com/locations/) on bennigans.com, read Oct 2026, and [“From Falling in Love as Employees to Becoming Steak and Ale’s First Southern Franchisees”](https://legendaryrestaurantbrands.com/from-falling-in-love-as-employees-to-becoming-steak-and-ales-first-southern-franchisees/2026/07/29/), an FSR article republished Jul 29, 2026."
+  },
+  {
+   "id": 38,
+   "text": "Wikimedia Commons: [“Abandoned Steak and Ale, Westminster Mall, CO.jpg”](https://commons.wikimedia.org/wiki/File:Abandoned_Steak_and_Ale,_Westminster_Mall,_CO.jpg), photograph by Xnatedawgx, May 13, 2011, CC BY-SA 3.0; [“Bennigan’s Restaurant, Denver, Colorado”](https://commons.wikimedia.org/wiki/File:Bennigan%27s_Restaurant,_Denver,_Colorado_LCCN2017709086.tif), photograph by John Margolies, 2004, Library of Congress, public domain."
+  },
+  {
+   "id": 39,
+   "text": "YouTube uploads, with the uploaders’ own titles and dates: [Retro Man](https://www.youtube.com/watch?v=yFvd6ngYkh8), [The TV Madman](https://www.youtube.com/watch?v=HUUZzWBtsoo), [deputay](https://www.youtube.com/watch?v=412veIac1vI), [Analog Memories](https://www.youtube.com/watch?v=tMq2oDkIvHY), [WESH 2 News](https://www.youtube.com/watch?v=s8y072L4wAc), [Nation’s Restaurant News](https://www.youtube.com/watch?v=0qf3Tpda8sI) and [KARE 11](https://www.youtube.com/watch?v=CIergxNyJX4)."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "$431M ÷ 380 restaurants ≈ $1.13M a restaurant, $716M ÷ 380 ≈ $1.88M of sales a restaurant, $50M ÷ $716M ≈ 7.0% and $431M ÷ $50M ≈ 8.6; 380 is 159 + 221 and 159 ÷ 380 ≈ 42%.[^1] 107 − 66 = 41 fewer restaurants between December 2000 and March 2003.[^23][^24] 159 − 58 = 101 and 58 ÷ 159 ≈ 36%.[^1][^8] “Ten years” is 1966 to 1976 and “sixteen years” is 2008 to 2024. October 22, 2008 is derived from the Associated Press’s “Wednesday” and the Dallas Observer’s “yesterday” of October 23.[^13][^15] “About two months” is late May to July 29, 2008. The fiscal year “ended last May 31” in a March 1989 article is read as May 31, 1988.[^1] “Nine years” is February 2015 to July 2024."
+  },
+  {
+   "label": "The homepage sparkline",
+   "text": "The card’s series (1, 28, 109, 159, 107, 66, 58, 0, 1) is the same as the first chart: counts at the dates sources give them, unevenly spaced.[^1][^6][^8][^23][^24][^35] The peak shown, 159 in March 1989, is the highest dated count we found and not necessarily the chain’s true peak."
+  },
+  {
+   "label": "Conflicts between sources",
+   "text": "**Peak size.** The only dated count from the 1980s is 159 in March 1989.[^1] Later accounts give “more than 110,” “280” and “nearly 300,” and The Dallas Morning News says “several hundred”; we treat all four as **unverified**.[^12][^32][^33][^34][^35][^37] **The 1971 offering.** Nation’s Restaurant News says 28 restaurants; the Texas House resolution says more than 100.[^6][^21] We use 28. **The 2008 count.** 58 in The Dallas Morning News and later trade press, “about 55” in the Nation’s Restaurant News Top 100 data, 50 in Entrepreneur.[^4][^8][^29][^32] **Bennigan’s closings.** About 150 company restaurants in July 2008 reports; “about 240” in 2015 reports.[^8][^9][^27][^29] **Franchised survivors.** 138 in the franchising companies’ statement, 134 by a franchisee’s estimate, “about 140” in The Dallas Morning News.[^5][^8] **Brinker’s departure.** July 1983 in his own company’s proxy statement and 1983 in two obituaries; 1984 in a 2011 newspaper article.[^2][^6][^7][^25] **Brinker’s death.** June 9, 2009 in Nation’s Restaurant News and the Texas House resolution; the Times obituary says he died on the Monday, which was June 8.[^2][^6][^21] **Dover’s resignation.** Late May 2008 in two reports, June in a third.[^4][^5][^8] **Who bought the brands out of bankruptcy.** The Associated Press reported Atalaya in October 2008; a 2015 article says Fortress “had purchased what was left of the company out of bankruptcy.”[^13][^28] **Metromedia.** The reference histories disagree on whether Kluge bought Ponderosa in 1988 or 1989 and do not give a date or price for S&A.[^15][^17][^18] **Burnsville.** Announcements in 2023 gave 6,000 square feet; the opening reports give 5,000.[^34][^35]"
+  },
+  {
+   "label": "Secondary and retrospective",
+   "text": "Everything about 1966 to 1988 comes from obituaries, a 1996 proxy statement, a legislative resolution, a 1983 newspaper article and reference histories written later; we read no document from the chain’s first two decades.[^2][^6][^7][^19][^20][^21] The 53% profit share, the mid-1980s sales trend and the 1988 review are from a reference history of Pillsbury.[^19] Metromedia’s losses are from reference histories and refer to its Ponderosa and Bonanza company.[^17][^18] The Wall Street Journal’s June 2008 report is known to us only through other papers.[^4][^8] The February 26, 1966 opening date is from a single local news site.[^12] The “$100 million in stock” price for the 1976 merger and counts of 111 or 113 restaurants at that date circulate online and are **unverified**; we use 109, from two obituaries.[^2][^6]"
+  },
+  {
+   "label": "Unknown",
+   "text": "Revenue, profit or debt of Steak and Ale alone in any year. The price and terms of the 1976 merger. Restaurant counts between 1976 and 1989 and between 1989 and 2000. Whether the March 1989 buyout closed as announced, and when and on what terms Metromedia took control. Why the 2003 sale to APEX was not completed. Who the lenders were besides GE Capital Solutions, and how much they were owed. What the Chapter 7 estate recovered and paid. How the trademarks passed from Atalaya to Fortress. What Legendary Restaurant Brands paid in 2015. Whether the Mexican and Texas restaurants announced since 2015 are still planned. Sales of the Burnsville restaurant."
+  },
+  {
+   "label": "How we read the sources",
+   "text": "The three New York Times articles could not be opened on nytimes.com and were read in Internet Archive copies of those pages.[^1][^2][^3] The 2008 Dallas Morning News article and the Star Tribune article were also read in Internet Archive copies; the Star Tribune’s own page refused our requests.[^8][^36] The company’s web pages and releases exist only as Internet Archive captures.[^22][^23][^24] The SEC proxy statement was first read through a text-extraction tool and its biography of Brinker (president of S&A from February 1966 to May 1977, then chairman and chief executive to July 1983; from June 1982 also chairman of Burger King and president of the Pillsbury restaurant group) was then checked against the filing on EDGAR.[^7] Private Equity International showed only its headline, summary and date.[^14] NPR’s page is a summary of a radio report.[^10] All other sources loaded directly. Two FSR magazine articles were read as republished on the owners’ site, and one of those also on FSR’s.[^34][^35][^37] Quotations were copied from the pages; typographic quotation marks and apostrophes have been normalised."
+  },
+  {
+   "label": "Images",
+   "text": "The two photographs are from Wikimedia Commons under the licences stated.[^38] The three website images are our screenshots of Internet Archive captures of the brand’s own site and are shown for commentary; the 2025 capture includes a magazine cover displayed by the site itself.[^22] We did not use the chain’s logo as a separate asset, and the drawings avoid it. Embedded commercials are shown as they aired. The accent red was matched by eye to the sign in the 2011 photograph."
+  },
+  {
+   "label": "General knowledge",
+   "text": "That Grand Metropolitan was a British company whose brands included spirits, and that Pillsbury’s mascot is the Doughboy (both also stated in the sources above).[^1][^19] That July 29, 2008 was a Tuesday, as the reports of that day say.[^4][^8]"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "kicker": "The old website",
+ "title": "steakandale.com, from Samuel Johnson to a pop-up",
+ "lede": "Three screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. The domain showed a registrar’s placeholder in January 1999 and the chain’s own pages from 2000.[^22]",
+ "snips": [
+  {
+   "text": "“**You’ve reached the best steakhouse in town.**”",
+   "when": "steakandale.com · Feb 3, 2003[^22]"
+  },
+  {
+   "text": "“Inspired by the welcoming English country inns of the 18th century, we are renowned for our tender, juicy steaks, broad selection of popular beer and wine, and a variety of pasta, chicken, and seafood entrees.”",
+   "when": "steakandale.com · Feb 3, 2003[^22]"
+  },
+  {
+   "text": "“With 66 locations, Steak & Ale is a timeless brand recognized for great-tasting steaks and cozy dining rooms reminiscent of an 18th-century English inn.”",
+   "when": "steakandale.com news page · release of Mar 13, 2003[^23]"
+  },
+  {
+   "text": "“**Steak And Ale Is Officially Open In Burnsville, Minnesota!**”",
+   "when": "steakandale.com · Jan 15, 2025[^22]"
+  }
+ ],
+ "note": "A capture from January 2005 had lost most of its images and is not shown. When we loaded the address in October 2026 it served a Steak and Ale page from the owners’ bennigans.com site.[^37]",
+ "captures": [
+  {
+   "date": "Feb 2003",
+   "label": "The best steakhouse in town",
+   "url": "http://www.steakandale.com/",
+   "wayback": "https://web.archive.org/web/20030203010151/http://www.steakandale.com:80/",
+   "image": "img/archive-2003-02-home.avif",
+   "h": 520,
+   "captured": "Feb 3, 2003",
+   "title": "Weeks before the sale announcement",
+   "text": "The home page quotes Samuel Johnson on taverns, promises that a meal not prepared the way the guest likes it is on the house, and links to “MRG,” the parent. Five weeks later the parent announced it had agreed to sell the chain.[^22][^23]"
+  },
+  {
+   "date": "Jan 2008",
+   "label": "Est. 1966",
+   "url": "http://www.steakandale.com/",
+   "wayback": "https://web.archive.org/web/20080105211052/http://www.steakandale.com:80/",
+   "image": "img/archive-2008-01-home.avif",
+   "h": 520,
+   "captured": "Jan 5, 2008",
+   "title": "The last design",
+   "text": "A darker, more formal page with a “Franchise Info” link and an S&A Restaurant Corp. copyright line. Less than seven months later every restaurant was closed.[^8][^22]",
+   "warn": "One panel of the page was never archived and shows as an empty box."
+  },
+  {
+   "date": "Jan 2025",
+   "label": "Officially open",
+   "url": "https://steakandale.com/",
+   "wayback": "https://web.archive.org/web/20250115190742/https://steakandale.com/",
+   "image": "img/archive-2025-01-home.avif",
+   "h": 560,
+   "captured": "Jan 15, 2025",
+   "title": "The new owners’ site",
+   "text": "Six months after Burnsville opened, a pop-up over the home page shows a trade-magazine cover featuring the owners and announces the opening.[^22][^35]",
+   "warn": "The pop-up covers most of the page in this capture."
+  }
+ ]
+}

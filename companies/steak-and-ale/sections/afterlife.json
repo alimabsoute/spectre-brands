@@ -1,0 +1,108 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Open",
+   "color": "var(--green)",
+   "title": "The name",
+   "text": "One Steak and Ale operates, at 14201 Nicollet Avenue in Burnsville, Minnesota, run by a franchisee, Endeavor Properties. It opened on July 8, 2024 and was still on the owners’ locations page in 2026.[^35][^37]"
+  },
+  {
+   "status": "Announced",
+   "color": "var(--gold)",
+   "title": "The second restaurant",
+   "text": "In mid-2026 the owners announced a franchised restaurant in Anderson, South Carolina, targeted for the first quarter of 2027, and listed Colorado, New Mexico, South Carolina, Texas and Wisconsin as “coming soon.” Earlier plans for Mexico City, Frisco and Grand Prairie, Texas have not produced a restaurant that appears on that page.[^28][^30][^33][^37]"
+  },
+  {
+   "status": "Privately owned",
+   "color": "var(--blue)",
+   "title": "The trademarks",
+   "text": "Held since February 2015 by Legendary Restaurant Brands, the Dallas company of Paul and Gwen Mangiamele, which also owns Bennigan’s.[^27]"
+  },
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The company",
+   "text": "S&A Restaurant Corp. and its affiliates were liquidated under Chapter 7 in the Eastern District of Texas, case no. 08-41898. A firm that buys the leftovers of bankruptcy estates acquired the remnant assets in July 2013. What creditors recovered is not in our sources.[^16]"
+  },
+  {
+   "status": "Franchised",
+   "color": "var(--green)",
+   "title": "The sibling",
+   "text": "Bennigan’s lost its company-owned restaurants in the same filing and survived through its franchisees. The owners’ 2026 locations page lists it in the United States and abroad.[^5][^37]"
+  },
+  {
+   "status": "Gone or reused",
+   "color": "var(--mute)",
+   "title": "The buildings",
+   "text": "One former restaurant, at Westminster Mall in Colorado, stood empty in May 2011 and was demolished within a year, according to the photographer who recorded it.[^38] We have no survey of what became of the others."
+  },
+  {
+   "status": "Everywhere",
+   "color": "var(--green)",
+   "title": "The people",
+   "text": "The Dallas Morning News counted among the chain’s former employees the founders of Outback Steakhouse, a president of P.F. Chang’s and a retired chief of Darden Restaurants. Brinker himself built Chili’s into a company of about 1,700 restaurants before he died in 2009.[^2][^6][^25]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "subtitle": "A founder, a flour company, a distiller for two months, a buyout group, a billionaire, a trustee and two investment firms.",
+   "nodes": [
+    {
+     "when": "1966",
+     "owner": "Norman Brinker",
+     "what": "Opens the first restaurant in Dallas and takes the company public in 1971.[^6]"
+    },
+    {
+     "when": "1976",
+     "owner": "The Pillsbury Co.",
+     "what": "Merges with the 109-restaurant chain. The price is not in a source we read.[^2][^6]"
+    },
+    {
+     "when": "Jan 1989",
+     "owner": "Grand Metropolitan",
+     "what": "Acquires Pillsbury and must sell the restaurants because it distills liquor.[^1]"
+    },
+    {
+     "when": "Mar 1989",
+     "owner": "Management, D.J.S./Inverness and Citicorp",
+     "what": "Agree to buy Steak and Ale and Bennigan’s together.[^1]",
+     "price": "$431M"
+    },
+    {
+     "when": "From 1989",
+     "owner": "Metromedia Co. (John Kluge)",
+     "what": "Holds S&A Restaurant Corp., later within Metromedia Restaurant Group. The date and terms are not in a contemporary source we read.[^15][^17][^18]"
+    },
+    {
+     "when": "Jul 2008",
+     "owner": "S&A Restaurant Corp., in Chapter 7",
+     "what": "A trustee liquidates the company. The trademarks sit with franchising companies outside the filing.[^5][^11]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Oct 2008",
+     "owner": "Atalaya Capital Management",
+     "what": "Buys the brands and trademarks with court approval, having earlier bought securities in the Bennigan’s franchising unit.[^13][^14]",
+     "price": "undisclosed"
+    },
+    {
+     "when": "By 2015",
+     "owner": "Fortress Investment Group",
+     "what": "Named as the seller in 2015. How it came to hold the brands is not in our sources.[^27]"
+    },
+    {
+     "when": "Feb 2015",
+     "owner": "Legendary Restaurant Brands",
+     "what": "Paul and Gwen Mangiamele buy the franchisor and the trademarks.[^27]",
+     "price": "undisclosed",
+     "status": "current"
+    }
+   ],
+   "source": "The New York Times[^1][^2], Nation’s Restaurant News[^5][^6][^27], the Associated Press[^13], the Dallas Observer[^11][^15] and two reference histories.[^17][^18]"
+  }
+ ]
+}

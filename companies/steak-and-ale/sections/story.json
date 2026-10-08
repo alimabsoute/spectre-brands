@@ -1,0 +1,91 @@
+{
+ "kicker": "The story",
+ "title": "An English inn in Dallas, three owners and one Tuesday morning",
+ "lede": "Steak and Ale is remembered as the place casual dining began and as the chain that vanished overnight. In between are thirty years in which it belonged to a flour company, a buyout group and a billionaire, and got smaller.",
+ "chapters": [
+  {
+   "when": "1964 – 1976 · Dallas",
+   "title": "Steak for $1.95 and a salad bar",
+   "big": "109",
+   "cap": "restaurants in 24 states by 1976",
+   "color": "#8a1c1c",
+   "body": "Norman Brinker had been president of Jack in the Box. He sold his stake when that company was about to go public, moved to Dallas in 1964 and opened a coffee shop called Brink’s.[^2][^21] In February 1966 he opened Steak and Ale, near Lemmon and Oak Lawn avenues.[^6][^33] The New York Times later described it as a full-service restaurant for middle-class customers who wanted steak at a reasonable price: an eight-ounce filet cost $1.95 and a 16-ounce strip steak $4.95.[^2]\n\nTwo habits of the chain became habits of the industry. It put a salad bar in the dining room, something then usually found in cafeterias, and it hired college students as servers.[^2][^6] The buildings were dressed as English country inns. The company’s website still opened with Samuel Johnson on taverns in 2003.[^22]\n\nThe company went public in 1971 with 28 restaurants.[^6] In 1976, with 109 restaurants in 24 states, it merged with The Pillsbury Co., and Brinker became a Pillsbury executive vice president and director.[^2][^6] A reference history calls it Pillsbury’s first full-service restaurant chain.[^19] We did not find the price in a source we could read; a figure of $100 million in stock is repeated online and is **unverified** here.",
+   "pull": {
+    "text": "In Roswell, all my friends worked, but the only ones who worked in restaurants were the ones who were too dumb to work in service stations.",
+    "who": "Norman Brinker, quoted from a 2004 interview in his New York Times obituary, Jun 10, 2009[^2]"
+   },
+   "art": "art/salad-bar.svg",
+   "artCaption": "Original illustration of a salad bar. Not an official asset."
+  },
+  {
+   "when": "1976 – 1988 · Pillsbury",
+   "title": "A division of the Doughboy",
+   "big": "53%",
+   "cap": "of Pillsbury’s profit came from restaurants by 1984, per a reference history",
+   "color": "#3d5f86",
+   "body": "Inside Pillsbury, Brinker ran Steak and Ale and a new concept, Bennigan’s, as an independent division.[^2] The first Bennigan’s opened in 1976.[^27] He was president of S&A Restaurant Corp. until May 1977 and then its chairman and chief executive, and from June 1982 he ran the whole Pillsbury Restaurant Group, Burger King included.[^7]\n\nThe growth went to the younger brand. In January 1983 a Pillsbury spokeswoman told The Christian Science Monitor that Bennigan’s had gone from seven restaurants in 1978 to 66 and would have 108 by May.[^20] Brinker left that July to run Chili’s, a chain he had tried to buy for Pillsbury.[^2][^7] The Dallas Morning News wrote in 2011 that most of his early staff left S&A shortly after he did.[^25]\n\nA reference history of Pillsbury says restaurants supplied 53% of its profit by 1984, and that by the mid-1980s Bennigan’s success covered its start-up costs while “sales for chains like Steak & Ale failed to increase.”[^19] J. Michael Jenkins left S&A in 1986 to become president of T.G.I. Friday’s.[^18] Early in 1988 Pillsbury announced, after a nine-month review, that it would shrink its restaurant division, and the chairman of Steak and Ale left the company.[^19]",
+   "pull": {
+    "text": "I am here to celebrate the greatest business fraternity in the United States.",
+    "who": "Tim Gannon, Outback Steakhouse co-founder, who started at a Steak and Ale in 1973, The Dallas Morning News, Oct 18, 2011[^25]"
+   },
+   "video": "c84"
+  },
+  {
+   "when": "1989 · The buyout",
+   "title": "Sold because its new owner made gin",
+   "big": "$431M",
+   "cap": "for 159 Steak and Ale and 221 Bennigan’s restaurants",
+   "color": "#8A6212",
+   "body": "Grand Metropolitan, the British drinks and food group, acquired Pillsbury in January 1989 for $5.68 billion.[^1] State laws barred it from being a distiller and a retailer of liquor at once, so the restaurants that served alcohol had to go.[^1]\n\nOn March 8, 1989 Grand Met said it would sell the Dallas restaurant group for $431 million to an investor group that included top management, the buyout firm D.J.S./Inverness and Citicorp, which would provide some of the financing.[^1] The group employed 33,000 people. Its 159 Steak and Ale and 221 Bennigan’s restaurants had sales of $716 million and operating income of $50 million in the year to May 31, 1988.[^1] That is about $1.1 million a restaurant and 8.6 times operating income (derived). An analyst who had expected $62 million of operating income told the Times it was not “a terribly rich price.”[^1]\n\nWhat happened next is thinly documented. A reference history of Ponderosa says John Kluge’s Metromedia Co. bought S&A and the Bonanza steakhouse chain at about the time of a 1989 management change, and the Dallas Observer dates the Steak and Ale purchase to 1989.[^15][^18] Kluge had bought Ponderosa in 1988.[^17] By 2000 Steak and Ale’s own releases described it as part of Metromedia Restaurant Group.[^24] How the buyout group announced in March 1989 and Metromedia were related is not in the sources we read.",
+   "pull": {
+    "text": "We had been looking at $62 million in operating income. So I would not look at $431 million as a terribly rich price.",
+    "who": "Stephen Carnes, analyst, Piper, Jaffray & Hopwood, The New York Times, Mar 9, 1989[^1]"
+   },
+   "image": {
+    "image": "img/bennigans-denver-2004.avif",
+    "caption": "A Bennigan’s in Denver, photographed in 2004. The sibling chain was sold with Steak and Ale in 1989 and went into the same bankruptcy. Photo: John Margolies, Library of Congress, via Wikimedia Commons, public domain.[^38]",
+    "alt": "A Bennigan’s restaurant with green awnings and a pitched roof beside a parking lot"
+   }
+  },
+  {
+   "when": "1989 – 2007 · Metromedia",
+   "title": "The quiet sibling",
+   "big": "66",
+   "cap": "restaurants in March 2003, down from 107 in December 2000",
+   "color": "#16161A",
+   "body": "Kluge’s restaurant holdings were not a success. A reference history says his steakhouse affiliate lost more than $190 million from 1989 to 1994, and blames competition, scant capital improvements and lingering takeover debt.[^17][^18] Those figures are for Ponderosa and Bonanza, not for S&A, whose results under Metromedia we could not find.\n\nThe counts the company published tell the story for Steak and Ale. A December 2000 release said it served guests “in 107 steakhouses in 24 states.”[^24] A release of March 13, 2003 said “66 locations.”[^23] That is 41 fewer in a little over two years (derived). The chain’s site also carried a release saying it had won the steakhouse category of a trade magazine’s consumer survey, in which its president said its “core baby-boomer customers have rediscovered the chain.”[^23]\n\nThe March 2003 release announced that Metromedia had agreed to sell Steak and Ale, Ponderosa and Bonanza to a Dallas group, APEX, and keep Bennigan’s. “We believe that our best interests are served by focusing on one brand,” its president said.[^23] The sale was not completed. On September 5, 2003 the two companies announced a “strategic relationship” instead, in which APEX’s principals took over management of all four chains.[^24] Metromedia’s franchise page at the time offered Bennigan’s, Bonanza and Ponderosa to franchisees, and not Steak and Ale.[^24]",
+   "pull": {
+    "text": "We believe that our best interests are served by focusing on one brand and speeding along its growth and penetration in the marketplace.",
+    "who": "Michael Kaufman, president, Metromedia Restaurant Group, on selling Steak and Ale, company release, Mar 13, 2003[^23]"
+   },
+   "art": "art/tudor-inn.svg",
+   "artCaption": "Original illustration of a half-timbered restaurant of the kind the chain built. The sign is blank; this is not a drawing of a real restaurant."
+  },
+  {
+   "when": "May – Oct 2008 · Chapter 7",
+   "title": "This location is now closed for business",
+   "big": "58",
+   "cap": "restaurants closed on the morning of July 29, 2008",
+   "color": "#C2412D",
+   "body": "In late May 2008 Clay Dover, Metromedia Restaurant Group’s chief executive for about six months, resigned over the direction of the company.[^5][^8] In June The Wall Street Journal reported that the group had violated its lending agreements with GE Capital Solutions; the company said it was preparing a proposal to its lenders and was not preparing to file for bankruptcy.[^4][^8][^9]\n\nOn Tuesday, July 29 it filed 38 petitions under Chapter 7 in the federal bankruptcy court in Sherman, Texas, for S&A Restaurant Corp. and its affiliates, listing assets of as much as $778.9 million and debts of as much as $324.2 million.[^4][^9] Chapter 7 is liquidation. Managers were told that morning to send their staff home.[^8] At the Steak and Ale on LBJ Freeway a recording told callers the location was closed.[^11] NPR put the number out of work at more than 9,000.[^10]\n\nFranchised restaurants were not in the filing, and 138 of them stayed open; Nation’s Restaurant News described them as franchised Bennigan’s.[^5][^9] The Dallas Morning News reported that the 58 Steak and Ale restaurants operating in late May were “all corporately owned.”[^8] An analyst at Morgan Stanley called Bennigan’s “heavily levered and a weaker player”; the president of Technomic said both chains were victims of “a mature category with too many units and not enough differentiation.”[^4][^5]\n\nOn October 22 a private-equity firm, Atalaya Capital Management, said it was buying the two brands and their trademarks with the court’s approval. The same day Metromedia’s Ponderosa and Bonanza unit filed for Chapter 11.[^13][^15]",
+   "pull": {
+    "text": "I was blindsided by the Chapter 7.",
+    "who": "Larry Briski, president of the Bennigan’s Franchise Operators Association, The Dallas Morning News, Jul 30, 2008[^8]"
+   },
+   "video": "wesh08"
+  },
+  {
+   "when": "2008 – 2026 · The comeback",
+   "title": "Sixteen years for one restaurant",
+   "big": "1",
+   "cap": "Steak and Ale open in 2026, with a second announced for 2027",
+   "color": "#8a1c1c",
+   "body": "For years the name was used for everything except a restaurant. In 2009 a licensing agreement was reported that would put Steak and Ale and Bennigan’s dishes in grocery stores.[^26] Paul Mangiamele became chief executive of Bennigan’s Franchising Co. in May 2011 and began saying he would bring Steak and Ale back.[^25][^27] On February 11, 2015 he and his wife, Gwen, bought the franchisor of both brands and their trademarks from Fortress Investment Group through a new company, Legendary Restaurant Brands.[^27] How the brands had passed from Atalaya to Fortress is not in our sources.\n\nThe announcements came faster than the restaurants. A corporate prototype near Frisco, Texas was expected in 2015 or 2016.[^28] A 2016 agreement was to bring up to 75 restaurants to Mexico, starting with five in Mexico City.[^30] In 2018 three Steak and Ale dishes went on the Bennigan’s menu instead.[^31] In January 2023 Legendary signed a 15-restaurant deal with Kansas-based Endeavor Properties and named Burnsville, Minnesota as the first site; a Texas restaurant in Grand Prairie was promised for 2024 and then postponed.[^32][^33]\n\nThe Burnsville restaurant, first due in April 2024, opened on July 8, 2024 in a 5,000-square-foot space attached to a Wyndham hotel, with 225 seats, a salad bar and a menu running from $15 to $57.[^34][^35][^36] In 2026 the owners’ locations page listed that one Steak and Ale, with five states marked “coming soon,” and they announced a franchised restaurant in Anderson, South Carolina for the first quarter of 2027.[^37]",
+   "pull": {
+    "text": "It’s taken a lot longer than anyone could have imagined.",
+    "who": "Paul Mangiamele, on the Texas restaurant, The Dallas Morning News, May 10, 2024[^33]"
+   },
+   "video": "kare24"
+  }
+ ]
+}

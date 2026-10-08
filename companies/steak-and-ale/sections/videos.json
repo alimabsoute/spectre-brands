@@ -1,0 +1,71 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Tonight at the inn, and the morning it shut",
+ "lede": "Four commercials as collectors have preserved them, one news report from the week of the closings, and two pieces from the afterlife. The airing years of the commercials come from the uploaders and we could not confirm them.",
+ "videos": [
+  {
+   "id": "c78",
+   "title": "Steak and Ale commercial",
+   "year": 1978,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "yFvd6ngYkh8",
+   "caption": "A thirty-second spot uploaded by Retro Man and dated 1978 by the uploader.[^39] By then the chain belonged to Pillsbury, which it had joined in 1976 with 109 restaurants.[^6]"
+  },
+  {
+   "id": "c84",
+   "title": "“Tonight Is Unmistakably”",
+   "year": 1984,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "HUUZzWBtsoo",
+   "caption": "Uploaded by The TV Madman, who dates it to 1984, the year after Norman Brinker left for Chili’s.[^39][^7]"
+  },
+  {
+   "id": "c85",
+   "title": "A commercial dated 1985",
+   "year": 1985,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "412veIac1vI",
+   "caption": "Uploaded by deputay and dated 1985. The uploader’s title says the jingle is sung by Whitney Houston; we found no source for that and treat it as **unverified**.[^39]"
+  },
+  {
+   "id": "c94",
+   "title": "Steak and Ale television commercial",
+   "year": 1994,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "tMq2oDkIvHY",
+   "caption": "Uploaded by Analog Memories and dated 1994 by the uploader, in the Metromedia years.[^39][^17]"
+  },
+  {
+   "id": "wesh08",
+   "title": "WESH 2 News: “Bennigan’s Restaurants Close Across Country”",
+   "year": 2008,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "s8y072L4wAc",
+   "caption": "A two-minute report on WESH 2 News’s own channel; YouTube’s listing dates the upload to 2008. Its subject is the sibling chain, which closed the same morning in the same bankruptcy.[^39][^8]"
+  },
+  {
+   "id": "nrn11",
+   "title": "Nation’s Restaurant News: the Steak and Ale reunion",
+   "year": 2011,
+   "type": "event",
+   "provider": "youtube",
+   "embedId": "0qf3Tpda8sI",
+   "caption": "A one-minute clip published by the trade paper from the October 2011 reunion of former employees in Dallas.[^39][^25]"
+  },
+  {
+   "id": "kare24",
+   "title": "KARE 11: “Foodie Finds: Steak & Ale”",
+   "year": 2024,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "CIergxNyJX4",
+   "caption": "KARE 11’s “Foodie Finds” segment on the Burnsville restaurant, which opened on July 8, 2024.[^39][^35] The year is taken from YouTube’s listing."
+  }
+ ],
+ "note": "We found no embeddable footage of a Steak and Ale restaurant on the day of the closings, only of Bennigan’s."
+}

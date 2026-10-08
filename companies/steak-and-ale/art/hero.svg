@@ -1,0 +1,18 @@
+<svg viewBox="0 0 440 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a grilled steak with a pat of butter on an oval plate beside a pewter tankard of ale with a foaming head">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M14 322 H426" fill="none"/>
+<ellipse cx="170" cy="286" rx="150" ry="34" fill="#f6f1ea"/>
+<ellipse cx="170" cy="282" rx="118" ry="23" fill="#e8dfd2"/>
+<path d="M82 268 C72 236 124 220 172 224 C226 228 266 244 256 274 C248 296 196 300 150 296 C114 294 88 288 82 268 Z" fill="#7b3f24"/>
+<path d="M112 250 L150 280 M146 240 L188 276 M184 238 L226 270 M218 244 L244 264" fill="none" stroke="#3d1d10" stroke-width="5"/>
+<rect x="150" y="238" width="44" height="22" rx="4" fill="#f6d04d" transform="rotate(-10 172 249)"/>
+<path d="M40 286 c14 -12 26 -12 34 0 M262 296 c10 -14 28 -14 40 -4" fill="none" stroke="#4d8a3c" stroke-width="6"/>
+<path d="M300 150 H388 V300 C388 312 378 320 366 320 H322 C310 320 300 312 300 300 Z" fill="#b9bcc2"/>
+<path d="M300 186 H388 M300 282 H388" fill="none"/>
+<path d="M388 178 C430 178 430 276 388 276" fill="none" stroke-width="12"/>
+<path d="M388 178 C430 178 430 276 388 276" fill="none" stroke="#b9bcc2" stroke-width="6"/>
+<path d="M316 204 V266" fill="none" stroke="#e9ebee" stroke-width="6"/>
+<g class="screen"><path d="M294 150 C286 126 312 116 322 128 C330 106 366 106 372 128 C390 118 404 136 392 150 Z" fill="#fbf7ec"/>
+<path d="M312 150 V168 C312 176 322 176 322 168" fill="#fbf7ec"/></g>
+<path d="M330 222 l12 -10 l12 10 l-12 10 Z" fill="#8a1c1c"/>
+</g></svg>

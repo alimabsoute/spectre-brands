@@ -1,0 +1,74 @@
+{
+ "kicker": "Rivals and relatives",
+ "title": "The family it started",
+ "lede": "Steak and Ale’s competitors were, to an unusual degree, its own descendants: a sibling created inside the same company, a founder’s second act, and chains started by former employees.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Who won, who died",
+   "subtitle": "Steak and Ale and the chains closest to it.",
+   "metric": "Restaurants, at the date given",
+   "items": [
+    {
+     "name": "Steak and Ale",
+     "status": "ghost",
+     "self": true,
+     "value": "159 (1989), 58 (2008), 1 (2026)",
+     "text": "Closed in the 2008 Chapter 7. One restaurant has operated under new owners since 2024.[^1][^8][^37]",
+     "data": [
+      1,
+      28,
+      109,
+      159,
+      107,
+      66,
+      58,
+      0,
+      1
+     ],
+     "range": [
+      "1966: 1",
+      "2024: 1"
+     ]
+    },
+    {
+     "name": "Bennigan’s",
+     "status": "ghost",
+     "statusLabel": "Franchised survivor",
+     "value": "255 U.S. (2008), about 25 (2023)",
+     "text": "Created by Brinker in 1976 and sold with Steak and Ale in 1989. Lost its company restaurants in 2008; franchisees kept the name alive.[^4][^5][^32]"
+    },
+    {
+     "name": "Chili’s (Brinker International)",
+     "status": "alive",
+     "value": "about 1,700 restaurants (2009)",
+     "text": "Brinker left Pillsbury in 1983 for a small hamburger chain and built it into one of the largest restaurant companies in the world.[^2][^6]"
+    },
+    {
+     "name": "Outback Steakhouse",
+     "status": "alive",
+     "value": "founded by alumni",
+     "text": "Its co-founders Tim Gannon and Chris Sullivan worked at a Steak and Ale in Maryland in 1973.[^25]"
+    },
+    {
+     "name": "Ponderosa and Bonanza",
+     "status": "dead",
+     "statusLabel": "Chapter 11, Oct 2008",
+     "value": "almost 500 (2003)",
+     "text": "Metromedia’s budget steakhouses, paired with Steak and Ale in the abandoned 2003 sale. Their company filed for Chapter 11 three months after S&A.[^13][^23]"
+    }
+   ],
+   "source": "Counts from The New York Times[^1][^2], Nation’s Restaurant News[^4][^6], Restaurant Business[^32], The Dallas Morning News[^8][^25] and company releases.[^23] They are for different years and are not a like-for-like comparison. We have no sourced count for Outback and give none."
+  },
+  {
+   "kind": "text",
+   "title": "Who invented casual dining",
+   "body": "A 2018 Bennigan’s menu said Steak and Ale “created casual dining,” and the owners say it introduced the salad bar to casual dining.[^31][^37] Nation’s Restaurant News replied that the first claim “is open to debate”: the first T.G.I. Friday’s opened in New York in 1965, a year earlier, though it was then more a bar than a restaurant.[^31] The New York Times credited Brinker more cautiously with having “helped put casual dining and salad bars on the American menu.”[^2]"
+  },
+  {
+   "kind": "quote",
+   "text": "All these bar and grill concepts are very, very similar. They have the same kind of menu, décor, appeal.",
+   "who": "Bob Goldin, executive vice president of Technomic, The New York Times, Jul 30, 2008[^3]"
+  }
+ ]
+}

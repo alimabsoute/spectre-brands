@@ -1,0 +1,119 @@
+{
+ "name": "Steak and Ale",
+ "number": "038",
+ "tier": "ghost",
+ "tierWhy": "Every company-owned Steak and Ale closed when S&A Restaurant Corp. filed for Chapter 7 on July 29, 2008, but new owners reopened the name in Burnsville, Minnesota on July 8, 2024, and their locations page still listed that one restaurant in 2026.[^8][^35][^37]",
+ "category": "restaurants",
+ "cause": "debt",
+ "years": "1966 – 2008",
+ "died": 2008,
+ "dates": [
+  {
+   "date": "1989-03-08",
+   "text": "was put up for sale with Bennigan’s by Grand Metropolitan, for $431 million"
+  },
+  {
+   "date": "2008-07-29",
+   "text": "closed all 58 restaurants as its parent filed for Chapter 7"
+  },
+  {
+   "date": "2024-07-08",
+   "text": "reopened under new owners with one restaurant in Burnsville, Minnesota"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Casual steakhouses · Dallas, Texas",
+ "title": "Steak and Ale (1966–2008): post-mortem · Spectre Brands",
+ "description": "Norman Brinker’s 1966 Dallas steakhouse set the pattern for casual dining, passed through Pillsbury, a leveraged buyout and John Kluge’s Metromedia, and closed its last 58 restaurants overnight in a 2008 Chapter 7. One has reopened. A sourced post-mortem.",
+ "theme": {
+  "accent": "#8a1c1c",
+  "soft": "#f8eceb"
+ },
+ "card": {
+  "blurb": "The Dallas steakhouse that trained a generation of restaurant founders was sold three times, shrank for two decades under a billionaire’s holding company and shut every door in one morning. Sixteen years later one came back, inside a Minnesota hotel.",
+  "stat": {
+   "value": "58",
+   "label": "restaurants, all company-owned, closed on July 29, 2008"
+  },
+  "spark": [
+   1,
+   28,
+   109,
+   159,
+   107,
+   66,
+   58,
+   0,
+   1
+  ],
+  "peak": 3
+ },
+ "hero": {
+  "dates": "First restaurant opened Feb 1966. Chapter 7 filed Jul 29, 2008. Reopened in Burnsville, Minn., Jul 8, 2024.",
+  "standfirst": "It had 109 restaurants in ten years and 159 by 1989. On one Tuesday in 2008 it had none. The name now hangs on a single restaurant in a hotel south of Minneapolis.",
+  "deck": "Norman Brinker opened Steak and Ale in Dallas in February 1966: steak at a moderate price, a salad bar, college students waiting tables, in a building made to look like an English inn. He sold it to Pillsbury in 1976. In 1989 Pillsbury’s new British owner sold it, with its younger sibling Bennigan’s, in a $431 million buyout, and it became part of John Kluge’s Metromedia. The chain shrank from 159 restaurants to 58. On July 29, 2008 its parent, S&A Restaurant Corp., filed for Chapter 7 liquidation and none of them opened. The company was private for almost all of its life and left few filings, so this page is built from the newspapers and trade press of the time, the company’s own archived web pages and one proxy statement. It says where those sources disagree, and they disagree most about how big the chain ever got.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a steak and a pewter tankard of ale. Not an official asset, and not the chain’s logo.",
+  "motion": "float",
+  "archive": [
+   {
+    "image": "img/archive-2003-02-home.avif",
+    "caption": "steakandale.com, February 2003",
+    "alt": "A blue web page headed Steak and Ale Restaurant with the line You’ve reached the best steakhouse in town"
+   },
+   {
+    "image": "img/westminster-2011.avif",
+    "caption": "A closed Steak and Ale in Colorado, 2011",
+    "alt": "An empty half-timbered restaurant building with a red sign on a pole and a bare parking lot"
+   },
+   {
+    "image": "img/archive-2025-01-home.avif",
+    "caption": "steakandale.com, January 2025",
+    "alt": "A web page with a pop-up announcing that Steak and Ale is officially open in Burnsville, Minnesota"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "109",
+    "text": "restaurants in 24 states when Brinker sold to Pillsbury in 1976, ten years after the first[^2][^6]"
+   },
+   {
+    "value": "$431M",
+    "text": "price of the 1989 buyout of 159 Steak and Ale and 221 Bennigan’s restaurants[^1]"
+   },
+   {
+    "value": "58",
+    "text": "restaurants left in May 2008, all company-owned, all closed on July 29[^8]"
+   },
+   {
+    "value": "1",
+    "text": "restaurant open under the name in 2026, in Burnsville, Minnesota[^37]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It was built and sold inside ten years.",
+   "text": "Steak and Ale went public in 1971 with 28 restaurants and merged with Pillsbury in 1976 with 109. Its founder left Pillsbury in 1983 to run Chili’s.[^2][^6][^7]"
+  },
+  {
+   "title": "The 1989 buyout is the best-documented moment.",
+   "text": "Grand Metropolitan sold the Dallas restaurant group for $431M to management and a buyout firm. It had 159 Steak and Ale and 221 Bennigan’s restaurants, $716M of sales and $50M of operating income.[^1]"
+  },
+  {
+   "title": "Under Metromedia the steakhouse shrank and its sibling was favoured.",
+   "text": "The company counted 107 Steak and Ale restaurants in December 2000 and 66 in March 2003, when it agreed to sell the brand in order to focus on Bennigan’s. The sale did not happen.[^23][^24]"
+  },
+  {
+   "title": "It had no franchisees to carry on.",
+   "text": "The 2008 Chapter 7 covered company-owned restaurants. Franchised Bennigan’s stayed open; all 58 Steak and Ale restaurants were corporate, so the whole chain stopped at once.[^5][^8][^28]"
+  },
+  {
+   "title": "The name outlasted the business.",
+   "text": "Atalaya bought the trademarks in October 2008. Paul and Gwen Mangiamele bought them from Fortress in February 2015 and opened one new restaurant nine years later.[^13][^27][^35]"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "Debt, and lenders who ran out of patience",
+   "text": "The chain was bought in a $431M leveraged buyout in 1989 and ended as a subsidiary that, by June 2008, was reported to have breached its lending agreements with GE Capital Solutions and was trying to restructure. An analyst called its sibling “heavily levered.” The petitions listed debts of up to $324.2M, and the owners chose liquidation over reorganisation.[^1][^4][^5][^8]"
+  },
+  {
+   "weight": 25,
+   "title": "A category it started and then got lost in",
+   "text": "Analysts in 2008 described casual dining as a mature category with too many restaurants and too little difference between them, and said the closings would help the survivors. One of the survivors the analysts named, Chili’s, had been built by Steak and Ale’s founder, and Outback Steakhouse was started by two of its former employees.[^2][^3][^5][^25]"
+  },
+  {
+   "weight": 20,
+   "title": "Twenty years as nobody’s priority",
+   "text": "Pillsbury’s growth went to Bennigan’s and Burger King. Metromedia’s count for Steak and Ale fell from 107 to 66 between 2000 and 2003, when it tried to sell the brand to focus on Bennigan’s, and it did not offer Steak and Ale to franchisees. The group’s chief executive changed in 2003, in January 2007, in late 2007 and again in May 2008.[^19][^20][^23][^24][^5]"
+  },
+  {
+   "weight": 15,
+   "title": "No franchisees",
+   "text": "Chapter 7 closed what the company owned. Franchised Bennigan’s stayed open and gave a buyer something to purchase. All 58 Steak and Ale restaurants were corporate, so nothing of the chain was left operating.[^5][^8][^28]"
+  },
+  {
+   "weight": 10,
+   "title": "The summer of 2008",
+   "text": "Wholesale food prices had risen 7.6% in 2007 and 8.5% in the first half of 2008, gasoline was at record prices and credit was tight. The filing came the same day as Mervyn’s.[^3][^5]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. S&A Restaurant Corp. published no accounts that we could find, so the size of its debt and the profitability of Steak and Ale on its own are not known. The press of 2008 wrote mostly about Bennigan’s; how far its troubles were also Steak and Ale’s is a judgment."
+}

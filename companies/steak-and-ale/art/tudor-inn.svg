@@ -1,0 +1,19 @@
+<svg viewBox="0 0 440 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a low half-timbered restaurant in the style of an English inn, with a steep shingled roof, a brick chimney, leaded windows and a blank roadside sign">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 288 H432" fill="none"/>
+<rect x="246" y="62" width="30" height="56" fill="#a5482f"/>
+<path d="M240 62 H282" fill="none" stroke-width="6"/>
+<rect x="60" y="176" width="300" height="112" fill="#f4ecdc"/>
+<path d="M36 180 L96 100 H324 L384 180 Z" fill="#5b4a3f"/>
+<path d="M150 180 L196 122 L242 180 Z" fill="#f4ecdc"/>
+<path d="M196 122 V180 M172 152 H220 M160 180 L196 150 L232 180" fill="none" stroke="#4a2c1c" stroke-width="5"/>
+<g fill="none" stroke="#4a2c1c" stroke-width="5"><path d="M60 176 V288 M360 176 V288 M60 232 H150 M242 232 H360 M110 176 V288 M300 176 V288 M60 288 L110 232 M360 288 L300 232 M110 232 L150 180 M300 232 L262 180"/></g>
+<rect x="172" y="212" width="48" height="76" rx="24" fill="#8a1c1c"/>
+<path d="M172 250 H220" fill="none"/><circle cx="210" cy="258" r="3" fill="#f6d04d"/>
+<g fill="#f3c969"><rect x="70" y="190" width="30" height="34"/><rect x="310" y="190" width="30" height="34"/><rect x="250" y="190" width="40" height="34"/></g>
+<path d="M70 207 H100 M85 190 V224 M310 207 H340 M325 190 V224 M250 207 H290 M270 190 V224" fill="none" stroke-width="2"/>
+<path d="M410 288 V96" fill="none" stroke-width="7"/>
+<rect x="376" y="40" width="60" height="64" rx="6" fill="#8a1c1c"/>
+<path d="M388 60 H424 M388 76 H424 M396 90 H416" fill="none" stroke="#fbf7ec" stroke-width="5"/>
+<path d="M20 288 c6 -24 30 -24 36 0 Z M366 288 c4 -18 22 -18 26 0 Z" fill="#4d8a3c"/>
+</g></svg>
