@@ -1,0 +1,265 @@
+{
+ "kicker": "Timeline",
+ "title": "Sixty-two years, 24 moments",
+ "lede": "From one appliance store to a chain of 228, and from a bankruptcy to a website under new owners. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "stores": {
+   "label": "Stores",
+   "color": "#93743a"
+  },
+  "death": {
+   "label": "Bankruptcy & end",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "Apr 15",
+   "year": "1955",
+   "cat": "stores",
+   "title": "The first store",
+   "text": "Henry Harold Gregg and his wife, Fansy, found the company in Indianapolis.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Feb 3",
+   "year": "2005",
+   "cat": "money",
+   "title": "Private equity arrives",
+   "text": "Freeman Spogli recapitalizes the company, putting in $111.2M of equity; about $286.4M goes to existing shareholders.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jul 20",
+   "year": "2007",
+   "cat": "money",
+   "title": "Public at $13",
+   "text": "The IPO sells 9,375,000 shares at $13.00 on the NYSE. The company has 79 stores in eight states.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "2008",
+   "cat": "stores",
+   "title": "91 stores",
+   "text": "Fiscal 2008 ends with 91 stores, $1.26B of sales and comparable-store sales up 4.8%.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "2009",
+   "cat": "stores",
+   "title": "Comparable sales turn",
+   "text": "Comparable-store sales fall 8.3% in fiscal 2009, the first of eight straight declines.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "2010",
+   "cat": "stores",
+   "title": "131 stores",
+   "text": "Fiscal 2010 ends with 131 stores and $1.53B of sales.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "2011",
+   "cat": "stores",
+   "title": "173 stores",
+   "text": "Sales pass $2B in fiscal 2011.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "2012",
+   "cat": "money",
+   "title": "The peak",
+   "text": "Fiscal 2012: $2.49B of sales, $81.4M of net income, 208 stores. Video products are 43% of sales.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "2013",
+   "cat": "stores",
+   "title": "228 stores",
+   "text": "The chain reaches 228 stores; comparable-store sales fall 8.7%.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "",
+   "year": "2014",
+   "cat": "money",
+   "title": "Break-even",
+   "text": "Net income falls to $0.2M on $2.34B of sales.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "",
+   "year": "2015",
+   "cat": "money",
+   "title": "A $132.7M loss",
+   "text": "Fiscal 2015 includes $47.9M of store impairments; comparable-store sales fall 9.2%.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "",
+   "year": "2016",
+   "cat": "stores",
+   "title": "Appliances first",
+   "text": "In fiscal 2016 appliances are 53% of sales; the company loses $54.9M and has about 5,100 employees.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Jan 26",
+   "year": "2017",
+   "cat": "money",
+   "title": "A bad Christmas",
+   "text": "Holiday-quarter sales fall 23.7%; the nine-month loss is $83.9M. The chain has 220 stores.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Jan 31",
+   "year": "2017",
+   "cat": "death",
+   "title": "NYSE warning",
+   "text": "The exchange says the company’s market value and equity are below its minimum.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Feb 23",
+   "year": "2017",
+   "cat": "stores",
+   "title": "88 stores to close",
+   "text": "The board approves closing 88 stores and three distribution centres.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Feb 27",
+   "year": "2017",
+   "cat": "death",
+   "title": "Trading suspended",
+   "text": "The NYSE suspends trading and starts delisting proceedings.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Mar 6",
+   "year": "2017",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "hhgregg files in the Southern District of Indiana, saying it has a term sheet with an unnamed buyer.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Mar 29",
+   "year": "2017",
+   "cat": "death",
+   "title": "Liquidators on standby",
+   "text": "A consulting agreement with Tiger Capital and Great American covers the 132 remaining stores if no bid arrives.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Apr 8",
+   "year": "2017",
+   "cat": "death",
+   "title": "Liquidation begins",
+   "text": "No going-concern buyer is found; the court approves the liquidation and the sales start.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "May 23",
+   "year": "2017",
+   "cat": "corporate",
+   "title": "The name for sale",
+   "text": "Hilco Streambank is hired to sell the brand, the website and over 16 million customer files.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "2017",
+   "cat": "corporate",
+   "title": "Sold for $400,000",
+   "text": "Valor LLC buys the name and data at auction, outbidding Sears Holdings’ $350,000.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "2017",
+   "cat": "corporate",
+   "title": "The website returns",
+   "text": "hhgregg.com comes back online under Valor, selling Apple watches.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Dec 5",
+   "year": "2024",
+   "cat": "death",
+   "title": "Deregistered",
+   "text": "The old company files to end its SEC registration.",
+   "src": [
+    16
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "2026",
+   "cat": "corporate",
+   "title": "Still online",
+   "text": "hhgregg.com trades as an online electronics shop.",
+   "src": [
+    15
+   ]
+  }
+ ]
+}

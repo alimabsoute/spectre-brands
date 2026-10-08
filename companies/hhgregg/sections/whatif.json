@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Stop at 150",
+   "actual": "The chain grew from 91 to 228 stores in five years, while comparable-store sales fell every year.[^2][^3]",
+   "whatif": "A smaller chain concentrated in its Midwest and Southeast home markets would have had fewer weak stores to write down and more cash when the turn to appliances began. It would still have faced the same pressure on television prices."
+  },
+  {
+   "tab": "Appliances first, sooner",
+   "actual": "Appliances were 37% of sales in fiscal 2012 and 53% in fiscal 2016.[^2][^3]",
+   "whatif": "Appliances need delivery and installation, which suited the chain’s commissioned staff and delivery fleet.[^1] Making the switch five years earlier might have kept it in the business that its founders started."
+  },
+  {
+   "tab": "A slower bankruptcy",
+   "actual": "The company filed in March 2017 and was liquidating within five weeks.[^8][^10]",
+   "whatif": "With more time, some of the 132 stores might have been sold as a going concern, as the company had hoped. Whether a buyer would have paid more than the liquidators is unknowable."
+  }
+ ]
+}

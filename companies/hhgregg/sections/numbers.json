@@ -1,0 +1,325 @@
+{
+ "kicker": "The money",
+ "title": "Growth on the outside, decline on the inside",
+ "lede": "hhgregg’s fiscal year ended March 31; “fiscal 2012” is the year to March 31, 2012. All figures are from its annual reports and press releases on EDGAR. It filed no annual report for fiscal 2017.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Stores: 79 to 228 to none",
+   "subtitle": "Stores open at fiscal year end, and at the dates of the last reports.",
+   "labels": [
+    "IPO ’07",
+    "FY08",
+    "FY09",
+    "FY10",
+    "FY11",
+    "FY12",
+    "FY13",
+    "FY14",
+    "FY15",
+    "FY16",
+    "Dec ’16",
+    "Apr ’17",
+    "May ’17"
+   ],
+   "format": "num",
+   "xLabel": "Not evenly spaced",
+   "series": [
+    {
+     "label": "Stores",
+     "data": [
+      79,
+      91,
+      110,
+      131,
+      173,
+      208,
+      228,
+      228,
+      228,
+      226,
+      220,
+      132,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "the IPO",
+     "text": "79 stores in eight states.[^1]"
+    },
+    {
+     "i": 6,
+     "title": "the peak",
+     "text": "228 stores, held for three years.[^3]"
+    },
+    {
+     "i": 11,
+     "title": "88 closed",
+     "text": "132 stores left after the February closing plan.[^7][^9]"
+    },
+    {
+     "i": 12,
+     "title": "liquidation",
+     "text": "All remaining stores were to close by the end of May 2017.[^11]"
+    }
+   ],
+   "source": "Prospectus[^1], annual reports[^2][^3], third-quarter release[^4], closing plan and consulting agreement[^7][^9]. The final zero is the liquidation announced for April–May 2017; we have no date for the last store."
+  },
+  {
+   "kind": "chart",
+   "id": "hhgSales",
+   "title": "Net sales and net income",
+   "subtitle": "$ millions, fiscal years ended March 31.",
+   "views": [
+    {
+     "label": "Net sales",
+     "chart": {
+      "type": "bar",
+      "height": 320,
+      "legend": false,
+      "labels": [
+       "FY08",
+       "FY09",
+       "FY10",
+       "FY11",
+       "FY12",
+       "FY13",
+       "FY14",
+       "FY15",
+       "FY16"
+      ],
+      "y": {
+       "format": "usdM",
+       "min": 0
+      },
+      "series": [
+       {
+        "label": "Net sales ($M)",
+        "data": [
+         1256.7,
+         1396.7,
+         1534.3,
+         2077.7,
+         2493.4,
+         2474.8,
+         2338.6,
+         2129.4,
+         1960.0
+        ],
+        "colors": [
+         "brand",
+         "brand",
+         "brand",
+         "brand",
+         "brand",
+         "grey",
+         "grey",
+         "grey",
+         "grey"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "label": "Net income",
+     "chart": {
+      "type": "bar",
+      "height": 320,
+      "legend": false,
+      "labels": [
+       "FY08",
+       "FY09",
+       "FY10",
+       "FY11",
+       "FY12",
+       "FY13",
+       "FY14",
+       "FY15",
+       "FY16"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Net income or loss ($M)",
+        "data": [
+         21.4,
+         36.5,
+         39.2,
+         48.2,
+         81.4,
+         25.4,
+         0.2,
+         -132.7,
+         -54.9
+        ],
+        "colors": [
+         "green",
+         "green",
+         "green",
+         "green",
+         "green",
+         "green",
+         "green",
+         "red",
+         "red"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "source": "Annual reports for fiscal 2012[^2] and 2016[^3]. Rounded from thousands."
+  },
+  {
+   "kind": "bars",
+   "title": "Comparable-store sales, year by year",
+   "subtitle": "Change in sales at stores open at least 14 months, against the year before.",
+   "format": {
+    "suf": "%",
+    "dec": 1
+   },
+   "itemLabel": "Fiscal year",
+   "valueLabel": "Change",
+   "items": [
+    {
+     "label": "FY08",
+     "value": 4.8,
+     "color": "green"
+    },
+    {
+     "label": "FY09",
+     "value": -8.3,
+     "color": "red"
+    },
+    {
+     "label": "FY10",
+     "value": -6.6,
+     "color": "red"
+    },
+    {
+     "label": "FY11",
+     "value": -4.0,
+     "color": "red"
+    },
+    {
+     "label": "FY12",
+     "value": -1.1,
+     "color": "red"
+    },
+    {
+     "label": "FY13",
+     "value": -8.7,
+     "color": "red"
+    },
+    {
+     "label": "FY14",
+     "value": -7.3,
+     "color": "red"
+    },
+    {
+     "label": "FY15",
+     "value": -9.2,
+     "color": "red"
+    },
+    {
+     "label": "FY16",
+     "value": -7.7,
+     "color": "red"
+    },
+    {
+     "label": "Q3 FY17",
+     "value": -22.2,
+     "color": "red",
+     "note": "Quarter to Dec 31, 2016 only"
+    }
+   ],
+   "source": "Annual reports[^2][^3] and the third-quarter release[^4]."
+  },
+  {
+   "kind": "waffle",
+   "title": "What it sold, fiscal 2012",
+   "subtitle": "Share of net sales by category in the best year.",
+   "items": [
+    {
+     "label": "Video products",
+     "value": 43,
+     "color": "brand"
+    },
+    {
+     "label": "Home appliances",
+     "value": 37,
+     "color": "blue"
+    },
+    {
+     "label": "Computing and mobile phones",
+     "value": 9,
+     "color": "gold"
+    },
+    {
+     "label": "Other products and services",
+     "value": 11,
+     "color": "grey"
+    }
+   ],
+   "source": "Annual report for fiscal 2012.[^2]"
+  },
+  {
+   "kind": "waffle",
+   "title": "What it sold, fiscal 2016",
+   "subtitle": "After the turn to appliances and furniture.",
+   "items": [
+    {
+     "label": "Home appliances",
+     "value": 53,
+     "color": "blue"
+    },
+    {
+     "label": "Consumer electronics",
+     "value": 36,
+     "color": "brand"
+    },
+    {
+     "label": "Home products (furniture, mattresses)",
+     "value": 6,
+     "color": "green"
+    },
+    {
+     "label": "Computers and tablets",
+     "value": 5,
+     "color": "gold"
+    }
+   ],
+   "source": "Annual report for fiscal 2016.[^3]"
+  },
+  {
+   "kind": "counters",
+   "title": "The last quarter it reported",
+   "items": [
+    {
+     "value": "$453M",
+     "text": "net sales in the quarter to December 31, 2016, down 23.7%[^4]"
+    },
+    {
+     "value": "22.0%",
+     "text": "gross margin, against 26.1% a year earlier[^4]"
+    },
+    {
+     "value": "$58.3M",
+     "text": "net loss in the quarter[^4]"
+    },
+    {
+     "value": "220",
+     "text": "stores open at December 31, 2016[^4]"
+    }
+   ],
+   "source": "Third-quarter fiscal 2017 press release.[^4]"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "We are pleased with our investments made to shift our focus to appliances and furniture.",
+   "who": "**Robert Riesbeck**, chief executive, Jan 26, 2017[^4]",
+   "big": true
+  },
+  {
+   "q": "We expect a quick and smooth process through Chapter 11.",
+   "who": "**hhgregg**, press release, Mar 6, 2017[^8]"
+  },
+  {
+   "q": "Unfortunately, we were unsuccessful in our plan to secure a viable buyer of the business on a going-concern basis within the expedited timeline set by our creditors.",
+   "who": "**Robert Riesbeck**, Apr 7, 2017[^10]"
+  },
+  {
+   "q": "The rebooted HHGregg has nothing to do with the defunct Indianapolis chain.",
+   "who": "**Bisnow**, Aug 24, 2017[^14]"
+  }
+ ]
+}

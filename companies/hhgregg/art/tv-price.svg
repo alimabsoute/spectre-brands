@@ -1,0 +1,12 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a flat-screen television on a stand with a price tag falling downwards">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 270 H420"/>
+<rect x="60" y="40" width="250" height="150" rx="6" fill="#1d1b18"/>
+<rect x="70" y="50" width="230" height="130" fill="#6fb3e0"/>
+<path d="M90 160 L140 110 L170 140 L210 96 L280 160" stroke="#ffffff" stroke-width="3" opacity=".8"/>
+<path d="M185 190 V230 M140 230 H230" stroke-width="4"/>
+<path d="M330 120 L390 120 L404 138 L390 156 L330 156 Z" fill="#f2b632" transform="rotate(28 360 138)"/>
+<circle cx="392" cy="150" r="4" fill="#ffffff"/>
+<path d="M346 136 h28 M346 146 h18" transform="rotate(28 360 138)"/>
+<path d="M350 186 v40 M340 214 l10 14 l10 -14" stroke="#b3261e" stroke-width="4"/>
+</g></svg>

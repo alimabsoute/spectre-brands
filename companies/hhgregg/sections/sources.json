@@ -1,0 +1,105 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "hhgregg was a public company from 2007 to 2017, so the numbers come from its own SEC filings and press releases. The founding, the liquidation’s end and the fate of the name come from local and trade press. Every link was opened while this page was researched.",
+ "list": [
+  {
+   "id": 1,
+   "text": "hhgregg, Inc., [prospectus (Form 424B4) for the initial public offering](https://www.sec.gov/Archives/edgar/data/1396279/000119312507159056/d424b4.htm), SEC EDGAR, filed Jul 20, 2007."
+  },
+  {
+   "id": 2,
+   "text": "hhgregg, Inc., [annual report (Form 10-K) for fiscal 2012](https://www.sec.gov/Archives/edgar/data/1396279/000119312512244215/d340850d10k.htm), SEC EDGAR, filed May 23, 2012."
+  },
+  {
+   "id": 3,
+   "text": "hhgregg, Inc., [annual report (Form 10-K) for fiscal 2016](https://www.sec.gov/Archives/edgar/data/1396279/000139627916000124/hgg-20160331x10k.htm), SEC EDGAR, filed May 19, 2016."
+  },
+  {
+   "id": 4,
+   "text": "hhgregg, Inc., [“hhgregg Announces Third Fiscal Quarter Operating Results”](https://www.sec.gov/Archives/edgar/data/1396279/000139627917000011/pressreleaseex991123116.htm), press release (8-K exhibit 99.1), Jan 26, 2017."
+  },
+  {
+   "id": 5,
+   "text": "hhgregg, Inc., [current report (Form 8-K) on the NYSE notice](https://www.sec.gov/Archives/edgar/data/1396279/000139627917000015/pressreleaseshell2317.htm), SEC EDGAR, filed Feb 3, 2017."
+  },
+  {
+   "id": 6,
+   "text": "hhgregg, Inc., [current report (Form 8-K) on the suspension of trading](https://www.sec.gov/Archives/edgar/data/1396279/000139627917000019/a8-kshell22717.htm), SEC EDGAR, filed Feb 28, 2017."
+  },
+  {
+   "id": 7,
+   "text": "hhgregg, Inc., [current report (Form 8-K) on the closing of 88 stores](https://www.sec.gov/Archives/edgar/data/1396279/000139627917000021/a8-kshell22317.htm), SEC EDGAR, filed Mar 2, 2017."
+  },
+  {
+   "id": 8,
+   "text": "hhgregg, Inc., [“hhgregg Files for Chapter 11 Reorganization”](https://www.sec.gov/Archives/edgar/data/1396279/000139627917000023/chapter11pressreleasefinal.htm), press release (8-K exhibit), Mar 6, 2017."
+  },
+  {
+   "id": 9,
+   "text": "hhgregg, Inc., [current report (Form 8-K) on the liquidation consulting agreement](https://www.sec.gov/Archives/edgar/data/1396279/000139627917000029/a8-kshell33017.htm), SEC EDGAR, filed Mar 31, 2017."
+  },
+  {
+   "id": 10,
+   "text": "hhgregg, Inc., [press release on the approval of the liquidation](https://www.sec.gov/Archives/edgar/data/1396279/000139627917000033/a991april72017prliquateass.htm), (8-K exhibit 99.1), Apr 7, 2017."
+  },
+  {
+   "id": 11,
+   "text": "Katie Cox, [“hhgregg to close all stores after failing to find a buyer”](https://www.kshb.com/news/national/hhgregg-to-shut-down-after-failing-to-obtain-a-buyer), KSHB 41 Kansas City, Apr 7, 2017."
+  },
+  {
+   "id": 12,
+   "text": "Hilco Streambank, [“hhgregg Intellectual Property to be Sold by Hilco Streambank”](https://www.prnewswire.com/news-releases/hhgregg-intellectual-property-to-be-sold-by-hilco-streambank-300462458.html), PR Newswire, May 23, 2017."
+  },
+  {
+   "id": 13,
+   "text": "[“Right to use HHGregg’s name and other intellectual property fetches just $400,000”](https://www.ibj.com/articles/64472-right-to-use-hhgreggs-name-and-other-intellectual-property-fetches-just-400000), Indianapolis Business Journal, Jul 6, 2017."
+  },
+  {
+   "id": 14,
+   "text": "Dees Stribling, [“Defunct HHGregg Relaunches, Sort Of”](https://www.bisnow.com/indianapolis/news/retail/defunct-hhgregg-relauches-sort-of-78147), Bisnow, Aug 24, 2017."
+  },
+  {
+   "id": 15,
+   "text": "[hhgregg.com](https://www.hhgregg.com/), home page titled “HHGregg – HHgregg Electronics,” loaded Oct 8, 2026."
+  },
+  {
+   "id": 16,
+   "text": "hhgregg, Inc., [Form 15 certification of termination of registration](https://www.sec.gov/Archives/edgar/data/1396279/000092963824004170/form1512g.htm), SEC EDGAR, filed Dec 5, 2024."
+  },
+  {
+   "id": 17,
+   "text": "hhgregg, Inc., [current report (Form 8-K) on the Chapter 11 filing and debtor-in-possession financing](https://www.sec.gov/Archives/edgar/data/1396279/000139627917000023/a8-kshell3617.htm), SEC EDGAR, filed Mar 7, 2017."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "$187.6M lost in fiscal 2015 and 2016 is $132.746M + $54.879M.[^3] The card’s “8 straight years” counts fiscal 2009 to fiscal 2016, each with a comparable-store sales decline.[^2][^3]"
+  },
+  {
+   "label": "Fiscal years",
+   "text": "The fiscal year ended March 31. Store counts and sales for fiscal 2008–2012 are from the fiscal 2012 report; 2013–2016 from the fiscal 2016 report. They agree for fiscal 2012."
+  },
+  {
+   "label": "Conflicts",
+   "text": "The company’s March and April 2017 releases give 220 stores in 19 states; Hilco Streambank’s May 2017 release says 229 locations; KSHB lists 20 states.[^8][^11][^12] We use the company’s 220."
+  },
+  {
+   "label": "Not used",
+   "text": "Layoff totals for the liquidation were reported in the press, but we could not open those articles from our research environment and leave them out. The company had about 5,100 employees at March 31, 2016.[^3]"
+  },
+  {
+   "label": "Unknown",
+   "text": "The date the last store closed. What creditors recovered. Who operates hhgregg.com in 2026, and whether Valor LLC still owns the name. Hilco Streambank’s website says the new owner began reopening stores in 2019; we could not load that page and do not rely on it."
+  },
+  {
+   "label": "Videos",
+   "text": "Air dates of the two commercials are the uploaders’ or approximate. The retrospective is embedded as commentary; no figure here is taken from it."
+  },
+  {
+   "label": "Images",
+   "text": "Both photographs are from Wikimedia Commons under the licences in their credits. The colour swatches are approximations taken from the photographs. Drawings are original."
+  }
+ ]
+}

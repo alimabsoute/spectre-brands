@@ -1,0 +1,61 @@
+{
+ "kicker": "The story",
+ "title": "From the appliance store on Keystone Avenue to 228 superstores",
+ "lede": "hhgregg spent fifty years as a regional appliance dealer and ten as a national-scale electronics chain. The second decade undid the first.",
+ "chapters": [
+  {
+   "when": "1955 – 2005 · A family dealer",
+   "title": "Henry and Fansy Gregg’s store",
+   "big": "1955",
+   "cap": "the year Henry Harold Gregg and his wife, Fansy, founded the company in Indianapolis",
+   "color": "#b0123b",
+   "body": "The company was founded on April 15, 1955 in Indianapolis by Henry Harold Gregg and his wife, Fansy.[^11] By the time it prepared to go public it was run by Jerry W. Throgmartin, its chairman and chief executive, and sold “premium video products, brand name appliances, audio products and accessories” through a commissioned sales force, with same-day delivery of “virtually all” of its products.[^1]\n\nIn February 2005 the private-equity firm Freeman Spogli recapitalized the company: its vehicle put in $111.2M of equity, and about $286.4M was paid to the existing shareholders.[^1]",
+   "image": {
+    "image": "img/storefront.avif",
+    "caption": "An hhgregg store in Gainesville, Florida, photographed in December 2008. Photo: William M at en.wikipedia, via Wikimedia Commons, CC BY-SA 3.0.",
+    "alt": "An hhgregg store with a magenta sign over a yellow canopy"
+   }
+  },
+  {
+   "when": "2007 – 2012 · The flat-screen years",
+   "title": "79 stores to 208, on big-screen televisions",
+   "big": "$13.00",
+   "cap": "a share at the initial public offering, July 2007",
+   "color": "#b0123b",
+   "body": "The initial public offering in July 2007 sold 9,375,000 shares at $13.00, 3,750,000 of them new.[^1] The company then had 79 stores in eight states, from Ohio to Alabama, averaging about 30,000 square feet.[^1]\n\nIt opened stores quickly. The count rose from 91 at the end of fiscal 2008 to 208 at the end of fiscal 2012, and sales doubled to $2.49B, with net income of $81.4M.[^2] But the figure that mattered was going the other way. Comparable-store sales fell 8.3% in fiscal 2009, 6.6% in 2010, 4.0% in 2011 and 1.1% in 2012. New stores were covering for older ones.[^2]",
+   "video": "ad2010"
+  },
+  {
+   "when": "2012 – 2016 · The squeeze",
+   "title": "Eight years of shrinking comparable sales",
+   "big": "−9.2%",
+   "cap": "comparable-store sales in fiscal 2015, the worst year before the end",
+   "color": "#b3261e",
+   "body": "The chain reached 228 stores in fiscal 2013 and stopped growing. Sales fell from $2.47B that year to $1.96B in fiscal 2016, and the company lost $132.7M in fiscal 2015, including $47.9M of store impairments, and $54.9M in fiscal 2016.[^3]\n\nIt tried to change what it sold. In fiscal 2012 video products had been 43% of sales; by fiscal 2016 appliances were 53%, consumer electronics 36%, furniture and mattresses 6% and computers 5%.[^2][^3] At the end of fiscal 2016 it had about 5,100 employees.[^3]",
+   "art": "art/tv-price.svg",
+   "artCaption": "Original illustration of a flat-screen television with a falling price tag. The prices are not real."
+  },
+  {
+   "when": "Jan – Mar 2017 · The last holiday",
+   "title": "A 23.7% drop, a delisting and Chapter 11",
+   "big": "−23.7%",
+   "cap": "net sales in the quarter to December 31, 2016, against a year earlier",
+   "color": "#b3261e",
+   "body": "In the 2016 holiday quarter sales fell 23.7% to $453M and comparable-store sales 22.2%. Chief executive Robert Riesbeck blamed “competitive pressures in the market, specifically in consumer electronics,” and a troubled move to a new distribution centre.[^4] The company lost $83.9M in the nine months.[^4]\n\nThe New York Stock Exchange warned on January 31, 2017 that its market value and equity were too small, and suspended trading on February 27.[^5][^6] On February 23 the board approved closing 88 stores, with about $190M of lease obligations attached.[^7] On March 6 the company filed for Chapter 11 in the Southern District of Indiana, saying it had signed a term sheet with an unnamed buyer and expected a “quick and smooth process.”[^8]",
+   "video": "ch11"
+  },
+  {
+   "when": "Apr 2017 – today · Liquidation and a name for sale",
+   "title": "132 stores sold off, the name for $400,000",
+   "big": "$400K",
+   "cap": "paid by Valor LLC for the hhgregg name and customer files",
+   "color": "#5a5a62",
+   "body": "The buyer did not materialize. On March 29 the company signed up Tiger Capital Group and Great American Group to sell the stock in its 132 remaining stores if no going-concern bid arrived by April 7.[^9] None did. The court approved the liquidation and the sales began on April 8, 2017. “We had discussions with more than 50 private equity firms, strategic buyers, and other investors,” Riesbeck said.[^10] The company said it did not expect any value to be left for shareholders.[^10]\n\nThe name, website and a database of more than 16 million customer files were put up for sale.[^12] At an auction in June, Valor LLC paid $400,000, beating Sears Holdings’ $350,000.[^13] By August hhgregg.com was back online, selling Apple watches and promising a grand reopening; the new owner had no connection with the old company.[^14]",
+   "image": {
+    "image": "img/miami-2017.avif",
+    "caption": "The Miami store on March 4, 2017. Photo: Phillip Pessar, via Wikimedia Commons, CC BY 2.0.",
+    "alt": "An hhgregg appliances and electronics store in a Miami shopping centre"
+   }
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Online",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "Valor LLC bought the trademarks, domain names and customer files for $400,000 in June 2017.[^13] The site returned in August 2017, and in October 2026 hhgregg.com was trading as “HHgregg Electronics,” an online shop. We could not establish who runs it today.[^14][^15]"
+  },
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The stores",
+   "text": "88 stores were closed from March 2017 under the February plan, and the remaining 132 were liquidated from April 8 by Tiger Capital Group and Great American Group.[^7][^9][^10]"
+  },
+  {
+   "status": "Wiped out",
+   "color": "var(--red)",
+   "title": "The shareholders",
+   "text": "The company said in April 2017 that it did not expect any value to remain for holders of its common stock.[^10] The shares had been suspended from the NYSE on February 27.[^6]"
+  },
+  {
+   "status": "Deregistered",
+   "color": "var(--mute)",
+   "title": "The company",
+   "text": "hhgregg, Inc. kept filing monthly reports with the SEC during the bankruptcy and ended its registration in December 2024, with 61 holders of record.[^16]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "nodes": [
+    {
+     "when": "1955",
+     "owner": "Henry and Fansy Gregg",
+     "what": "Found the company in Indianapolis.[^11]"
+    },
+    {
+     "when": "Feb 2005",
+     "owner": "Freeman Spogli and management",
+     "what": "Recapitalization.[^1]",
+     "price": "$111.2M equity"
+    },
+    {
+     "when": "Jul 2007",
+     "owner": "Public (NYSE: HGG)",
+     "what": "Initial public offering.[^1]",
+     "price": "$13.00 a share"
+    },
+    {
+     "when": "Mar 2017",
+     "owner": "hhgregg, in Chapter 11",
+     "what": "Files in the Southern District of Indiana.[^8]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Jun 2017",
+     "owner": "Valor LLC",
+     "what": "Buys the name, domains and customer data at auction.[^13]",
+     "price": "$400,000",
+     "status": "current"
+    }
+   ],
+   "source": "SEC filings and Indianapolis Business Journal.[^1][^8][^13]"
+  }
+ ]
+}

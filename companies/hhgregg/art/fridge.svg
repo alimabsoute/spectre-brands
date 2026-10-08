@@ -1,0 +1,10 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a stainless two-door refrigerator and a front-loading washing machine side by side">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 280 H420"/>
+<rect x="90" y="30" width="130" height="250" rx="8" fill="#dfe2e6"/>
+<path d="M155 30 V280"/><path d="M146 110 V170 M164 110 V170" stroke-width="4"/>
+<rect x="104" y="60" width="36" height="26" rx="3" fill="#b7bbc2"/>
+<rect x="250" y="150" width="120" height="130" rx="8" fill="#ffffff"/>
+<path d="M250 178 H370"/><circle cx="270" cy="164" r="5" fill="#f2b632"/><path d="M300 164 h50" stroke="#9a9184"/>
+<circle cx="310" cy="228" r="36" fill="#cfe6f5"/><circle cx="310" cy="228" r="24" fill="#e3f1fb"/>
+</g></svg>

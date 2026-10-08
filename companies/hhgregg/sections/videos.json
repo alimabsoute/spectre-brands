@@ -1,0 +1,61 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Christmas in July, then going out of business",
+ "lede": "hhgregg advertised heavily on local television. These are its spots as uploaded by viewers, its agency and the company itself, and Indianapolis news coverage of the end. Where a date comes only from the uploader, the caption says so.",
+ "videos": [
+  {
+   "id": "ad2010",
+   "title": "hhgregg “Christmas in July” commercial",
+   "year": 2010,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "QJzt8L_i7_U",
+   "caption": "A summer sale spot from the expansion years, when the chain went from 131 to 173 stores.[^2] The 2010 date is the uploader’s."
+  },
+  {
+   "id": "stuffed",
+   "title": "hhgregg “I’m Stuffed” commercial",
+   "year": 2016,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "vDIXNMzfooU",
+   "caption": "A spot uploaded by Hinge, the agency that posted several hhgregg campaigns. The upload is about seven years old; the air date is not given, and the year shown is approximate."
+  },
+  {
+   "id": "ch11",
+   "title": "WTHR: hhgregg files for Chapter 11, finds buyer",
+   "year": 2017,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "bZR6amdp29M",
+   "caption": "Indianapolis station WTHR on the March 6, 2017 filing, when the company said it had a buyer lined up.[^8]"
+  },
+  {
+   "id": "gob",
+   "title": "hhgregg: “Going out of business — total liquidation”",
+   "year": 2017,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "OgW3Zmtl9H4",
+   "caption": "The liquidation advertisement, uploaded to the company’s own YouTube channel. The sales began on April 8, 2017.[^10]"
+  },
+  {
+   "id": "wrtv",
+   "title": "WRTV: hhgregg liquidation begins",
+   "year": 2017,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "gFLwMZT5KN4",
+   "caption": "Local news from Indianapolis as the closing sales started in April 2017.[^10]"
+  },
+  {
+   "id": "cm",
+   "title": "Company Man: The decline of hhgregg",
+   "year": 2018,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "g6j4aoHbWdw",
+   "caption": "A popular retrospective. Embedded as commentary; no figure on this page is taken from it. The year is approximate, from the upload age YouTube shows."
+  }
+ ]
+}

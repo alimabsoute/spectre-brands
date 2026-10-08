@@ -1,0 +1,112 @@
+{
+ "name": "hhgregg",
+ "number": "022",
+ "tier": "ghost",
+ "tierWhy": "Every store was liquidated from April 2017, but a company called Valor LLC bought the name for $400,000 that summer, and hhgregg.com was still trading as an online electronics shop when we loaded it in October 2026.[^10][^13][^15]",
+ "category": "electronics",
+ "cause": "competition",
+ "years": "1955 – 2017",
+ "died": 2017,
+ "dates": [
+  {
+   "date": "2007-07-20",
+   "text": "went public on the New York Stock Exchange at $13.00 a share"
+  },
+  {
+   "date": "2017-03-06",
+   "text": "filed for Chapter 11 in Indianapolis"
+  },
+  {
+   "date": "2017-04-08",
+   "text": "began liquidating all of its remaining stores"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Appliances and electronics superstores · Indianapolis, Indiana",
+ "title": "hhgregg (1955–2017): post-mortem · Spectre Brands",
+ "description": "An Indianapolis appliance store that grew to 228 superstores on big-screen TVs, then watched comparable sales fall for eight straight years. A sourced post-mortem of hhgregg, built from its SEC filings and bankruptcy press releases.",
+ "theme": {
+  "accent": "#b0123b",
+  "soft": "#fbeef2"
+ },
+ "card": {
+  "blurb": "A family appliance store from Indianapolis that went public in 2007 and doubled its store count on flat-screen TVs. Its comparable-store sales fell every year from 2009, and the chain was liquidated in 2017.",
+  "stat": {
+   "value": "8",
+   "label": "straight years of falling comparable-store sales, fiscal 2009–2016"
+  },
+  "spark": [
+   1257,
+   1397,
+   1534,
+   2078,
+   2493,
+   2475,
+   2339,
+   2129,
+   1960
+  ],
+  "peak": 4,
+  "logo": "img/storefront.avif",
+  "logoYear": "2008"
+ },
+ "hero": {
+  "dates": "Founded in Indianapolis on April 15, 1955. Liquidation began Apr 8, 2017.",
+  "standfirst": "It sold the big televisions of the 2000s with commissioned salespeople and next-day delivery. Then the televisions got cheap.",
+  "deck": "hhgregg began as Henry and Fansy Gregg’s appliance store in Indianapolis. Private-equity owners recapitalized it in 2005 and took it public in 2007 with 79 stores, most of its sales in “premium video products.” It expanded to 228 stores and nearly $2.5 billion in sales by 2012, while sales at its established stores fell year after year. It spent its last years trying to become an appliance and furniture store instead. In early 2017 it closed 88 stores, filed for Chapter 11 and, when no buyer came, liquidated the rest. This page is built from its SEC filings and press releases and from local and trade press.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a big-box store front with a television and a refrigerator in the window. Not an official asset; the sign is our own drawing.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/storefront.avif",
+    "caption": "An hhgregg store in Gainesville, Florida, December 2008. Photo: William M, Wikimedia Commons, CC BY-SA 3.0.",
+    "alt": "hhgregg store front with a magenta sign and yellow trim"
+   },
+   {
+    "image": "img/miami-2017.avif",
+    "caption": "The Miami store on March 4, 2017, two days after the company announced it would close 88 stores. Photo: Phillip Pessar, Wikimedia Commons, CC BY 2.0.",
+    "alt": "hhgregg appliances and electronics store front in Miami"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "228",
+    "text": "stores at the peak, from fiscal 2013 to 2015, up from 91 in fiscal 2008[^2][^3]"
+   },
+   {
+    "value": "$2.49B",
+    "text": "net sales in fiscal 2012, the best year, with $81.4M of net income[^2]"
+   },
+   {
+    "value": "$187.6M",
+    "text": "lost in fiscal 2015 and 2016 together (derived)[^3]"
+   },
+   {
+    "value": "$400K",
+    "text": "paid for the name, website and customer files after the liquidation[^13]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "Its sales were built on television.",
+   "text": "At the 2007 offering it described itself as a retailer of “premium video products.” In fiscal 2012 video was still 43% of sales and appliances 37%.[^1][^2]"
+  },
+  {
+   "title": "It grew as its stores got worse.",
+   "text": "Comparable-store sales fell every year from fiscal 2009 to 2016, while the chain grew from 91 stores to 228.[^2][^3]"
+  },
+  {
+   "title": "The turn to appliances came late.",
+   "text": "By fiscal 2016 appliances were 53% of sales. In the holiday quarter of 2016 sales fell 23.7% and the chief executive blamed “competitive pressures in the market, specifically in consumer electronics.”[^3][^4]"
+  },
+  {
+   "title": "Lenders set the timetable.",
+   "text": "The company said it had talked to more than 50 possible buyers, but could not find one “within the expedited timeline set by our creditors.”[^10]"
+  }
+ ]
+}

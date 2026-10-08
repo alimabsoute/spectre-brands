@@ -1,0 +1,50 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Magenta letters over a yellow canopy",
+ "label": "Brand gallery",
+ "lede": "Two freely licensed photographs of hhgregg stores from Wikimedia Commons, and our own drawings. The drawings are original illustrations, not official artwork.",
+ "archive": [
+  {
+   "image": "img/storefront.avif",
+   "date": "Dec 2008",
+   "caption": "Gainesville, Florida, a year after the IPO.",
+   "alt": "hhgregg store front, Gainesville, Florida",
+   "credit": "Photo: William M at en.wikipedia, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hhgregg_storefront.jpg), CC BY-SA 3.0."
+  },
+  {
+   "image": "img/miami-2017.avif",
+   "date": "Mar 4, 2017",
+   "caption": "Miami, two days before the Chapter 11 filing.[^8]",
+   "alt": "hhgregg appliances and electronics store front, Miami",
+   "credit": "Photo: Phillip Pessar, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HH_Gregg_Store_Miami_(33253109365).jpg), CC BY 2.0."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The superstore.",
+   "caption": "About 30,000 square feet on average at the IPO.[^1] Original illustration."
+  },
+  {
+   "art": "art/tv-price.svg",
+   "title": "The television.",
+   "caption": "Video products, 43% of sales in fiscal 2012.[^2] Original illustration."
+  },
+  {
+   "art": "art/fridge.svg",
+   "title": "The refrigerator.",
+   "caption": "Appliances, 53% of sales in fiscal 2016.[^3] Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#b0123b",
+   "label": "Sign magenta (approximate, from photographs)"
+  },
+  {
+   "hex": "#f2b632",
+   "label": "Canopy yellow (approximate, from photographs)"
+  }
+ ],
+ "disclaimer": "hhgregg is a trademark of its current owner; it appears here for commentary and historical record."
+}
