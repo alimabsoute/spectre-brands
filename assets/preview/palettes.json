@@ -1,0 +1,144 @@
+{
+  "directions": [
+    {
+      "id": "retro-pop",
+      "name": "Rewind Club",
+      "mood": "A sunlit record shop for the brands you still remember.",
+      "fonts": {
+        "display": {
+          "family": "Fraunces",
+          "weights": [
+            600,
+            700
+          ]
+        },
+        "text": {
+          "family": "DM Sans",
+          "weights": [
+            400,
+            500,
+            600,
+            700
+          ]
+        }
+      },
+      "tokens": {
+        "bg": "#FFF7E8",
+        "surface": "#FFFFFF",
+        "surface-2": "#FFE5B5",
+        "text": "#29213D",
+        "text-muted": "#62536B",
+        "line": "#DFC9B4",
+        "accent-1": "#E34B32",
+        "accent-2": "#3156C8",
+        "accent-3": "#F4C84A",
+        "dead": "#9E3328",
+        "ghost": "#5A3BC0",
+        "dead-text": "#FFFFFF",
+        "ghost-text": "#FFFFFF"
+      },
+      "categories": {
+        "dotcom": "#3156C8",
+        "electronics": "#007E75",
+        "retail": "#C73568",
+        "consumer": "#CA4B1C",
+        "games": "#6744C5",
+        "film": "#196FA8",
+        "restaurants": "#A45C12"
+      }
+    },
+    {
+      "id": "neon-arcade",
+      "name": "After Hours",
+      "mood": "Warm arcade light, glowing shop signs, and stories after closing.",
+      "fonts": {
+        "display": {
+          "family": "Space Grotesk",
+          "weights": [
+            600,
+            700
+          ]
+        },
+        "text": {
+          "family": "IBM Plex Sans",
+          "weights": [
+            400,
+            500,
+            600
+          ]
+        }
+      },
+      "tokens": {
+        "bg": "#201524",
+        "surface": "#2E2035",
+        "surface-2": "#412C44",
+        "text": "#FFF5E9",
+        "text-muted": "#D0BFD3",
+        "line": "#735D79",
+        "accent-1": "#FFAD66",
+        "accent-2": "#F584BA",
+        "accent-3": "#70DECC",
+        "dead": "#FFAD66",
+        "ghost": "#C5A3FF",
+        "dead-text": "#201524",
+        "ghost-text": "#201524"
+      },
+      "categories": {
+        "dotcom": "#80C8FF",
+        "electronics": "#70DECC",
+        "retail": "#F584BA",
+        "consumer": "#FFAD66",
+        "games": "#C5A3FF",
+        "film": "#FFD774",
+        "restaurants": "#FFA59A"
+      }
+    },
+    {
+      "id": "editorial-vibrant",
+      "name": "The Living Archive",
+      "mood": "A bright culture magazine with the precision of a case file.",
+      "fonts": {
+        "display": {
+          "family": "Bodoni Moda",
+          "weights": [
+            600,
+            700
+          ]
+        },
+        "text": {
+          "family": "Source Sans 3",
+          "weights": [
+            400,
+            500,
+            600,
+            700
+          ]
+        }
+      },
+      "tokens": {
+        "bg": "#F6F8FC",
+        "surface": "#FFFFFF",
+        "surface-2": "#E6F1EE",
+        "text": "#142F3B",
+        "text-muted": "#526575",
+        "line": "#CBD8DE",
+        "accent-1": "#007D78",
+        "accent-2": "#C82F5C",
+        "accent-3": "#E9B83D",
+        "dead": "#AD3150",
+        "ghost": "#176B80",
+        "dead-text": "#FFFFFF",
+        "ghost-text": "#FFFFFF"
+      },
+      "categories": {
+        "dotcom": "#135AC4",
+        "electronics": "#087F83",
+        "retail": "#B5347A",
+        "consumer": "#B9451D",
+        "games": "#7042C1",
+        "film": "#236FA4",
+        "restaurants": "#8B650E"
+      }
+    }
+  ]
+}

@@ -11,6 +11,7 @@ import { SECTIONS, ORDER, TIERS, GROUPS } from './lib/registry.mjs';
 import { head, masthead, pageNav, footer, scripts } from './lib/layout.mjs';
 import { overview, section, heroImages, actImages, actBreak } from './lib/sections.mjs';
 import { home } from './lib/home.mjs';
+import { previewPages } from './lib/preview.mjs';
 import { categoryPage, aboutPage } from './lib/pages.mjs';
 import { row, ledgerHead, decadeOf } from './lib/cards.mjs';
 import { imageInfo, imageKind, strength, picture, PROVIDERS, VIDEO_TYPES } from './lib/media.mjs';
@@ -188,6 +189,8 @@ for (const k of site.categories.filter(k => k.n)) {
     ld: { '@context': 'https://schema.org', '@type': 'CollectionPage', name: k.label, url: `${site.url}/category/${k.id}/`, hasPart: list.map(c => ({ '@type': 'Article', headline: c.title, url: `${site.url}/${c.slug}/` })) } });
 }
 page('/about/', { title: 'About and methodology · Spectre Brands', description: 'How Spectre Brands chooses sources, what Dead and Ghost mean, the data-honesty rules every post-mortem follows, and the trademark and fair-use position.', body: aboutPage(site, companies), cls: 'about' });
+// Isolated design review pages; deliberately absent from production navigation, search and sitemap.
+previewPages({ site, companies, img, version: V, write, rd, root: ROOT });
 write('404.html', head({ site, title: 'Not found · Spectre Brands', description: 'Page not found', path: '/404.html', version: V }) + masthead(site, companies, '') + '<main id="main"><header class="page-hero"><div class="wrap"><h1>Nothing is buried here.</h1><p class="lede">That page does not exist. <a href="/">Back to the index</a>, or press / to search.</p></div></header></main>' + footer(site, companies) + scripts('', V));
 
 // search index, sitemap, robots

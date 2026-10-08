@@ -1,0 +1,32 @@
+[
+  {
+    "family": "Fraunces",
+    "source": "https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&display=swap",
+    "files": 2
+  },
+  {
+    "family": "DM Sans",
+    "source": "https://fonts.googleapis.com/css2?family=DM%20Sans:wght@400;500;600;700&display=swap",
+    "files": 4
+  },
+  {
+    "family": "Space Grotesk",
+    "source": "https://fonts.googleapis.com/css2?family=Space%20Grotesk:wght@600;700&display=swap",
+    "files": 2
+  },
+  {
+    "family": "IBM Plex Sans",
+    "source": "https://fonts.googleapis.com/css2?family=IBM%20Plex%20Sans:wght@400;500;600&display=swap",
+    "files": 3
+  },
+  {
+    "family": "Bodoni Moda",
+    "source": "https://fonts.googleapis.com/css2?family=Bodoni%20Moda:wght@600;700&display=swap",
+    "files": 2
+  },
+  {
+    "family": "Source Sans 3",
+    "source": "https://fonts.googleapis.com/css2?family=Source%20Sans%203:wght@400;500;600;700&display=swap",
+    "files": 4
+  }
+]
