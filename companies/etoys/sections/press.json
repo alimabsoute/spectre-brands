@@ -1,0 +1,19 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "EToys can take its place in the pantheon of core Internet stocks, like an Amazon.com or an EBay.",
+   "who": "**Gail Bronson**, IPO Monitor, in the Los Angeles Times, May 21, 1999[^4]",
+   "big": true
+  },
+  {
+   "q": "We are disappointed that sales have not materialized to the degree we had expected.",
+   "who": "**Toby Lenk**, president and chief executive, Dec 15, 2000[^5]"
+  },
+  {
+   "q": "Their TV advertising alone made eToys a household name, even though the households didn’t necessarily have Internet access. For KB to acquire that is a rip-off.",
+   "who": "**Chris Byrne**, toy analyst, in Wired, May 17, 2001[^11]"
+  }
+ ]
+}

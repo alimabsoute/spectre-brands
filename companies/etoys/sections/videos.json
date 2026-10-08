@@ -1,0 +1,61 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Where the holidays come to you",
+ "lede": "eToys spent $55.5M on advertising in its first public year.[^1] These are its television spots as uploaded by collectors of old broadcasts, and one retrospective. Air dates come from the uploaders unless a caption says otherwise.",
+ "videos": [
+  {
+   "id": "feb1999",
+   "title": "eToys commercial, February 1999",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "-I0zacoImJ0",
+   "caption": "A spot from three months before the IPO. The date is the uploader’s."
+  },
+  {
+   "id": "ad1999",
+   "title": "eToys.com ad, 1999",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "klwzBWeAYbM",
+   "caption": "From the year of the offering. The year is the uploader’s."
+  },
+  {
+   "id": "summer2000",
+   "title": "eToys Summer Shop (recorded May 25, 2000)",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "60A9qrXo5Yo",
+   "caption": "A summer promotion; the recording date is the uploader’s."
+  },
+  {
+   "id": "nov2000",
+   "title": "eToys.com commercial (recorded Nov 5, 2000)",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "k3Y92aCmmbU",
+   "caption": "From the start of the last holiday season, six weeks before the profit warning.[^5] The recording date is the uploader’s."
+  },
+  {
+   "id": "holiday2000",
+   "title": "eToys “Where the Holidays Come to You” (2000)",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "OdsvsHOfFRM",
+   "caption": "The holiday campaign of the quarter that missed its forecast by almost half.[^2][^5] The year is the uploader’s."
+  },
+  {
+   "id": "retro",
+   "title": "The dotcom bubble and the rise and fall of eToys",
+   "year": 2021,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "46__gJvXPxc",
+   "caption": "A retrospective discussion, embedded as commentary; no figure on this page is taken from it. The year is approximate, from the upload age YouTube shows."
+  }
+ ]
+}

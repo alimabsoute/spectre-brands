@@ -1,0 +1,208 @@
+{
+ "kicker": "Timeline",
+ "title": "From Toys.com to Toys “R” Us",
+ "lede": "Incorporation to liquidation took six years; the store itself was open for three and a half. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "ops": {
+   "label": "Store & warehouses",
+   "color": "#93743a"
+  },
+  "death": {
+   "label": "Bankruptcy & after",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "Nov",
+   "year": "1996",
+   "cat": "corporate",
+   "title": "Toys.com",
+   "text": "The company is incorporated in Delaware as Toys.com.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1997",
+   "cat": "corporate",
+   "title": "eToys Inc.",
+   "text": "After a brief spell as eToys.com Inc., the company takes the name eToys Inc.; Idealab holds its founding shares.",
+   "src": [
+    1,
+    3
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1997",
+   "cat": "ops",
+   "title": "Open for business",
+   "text": "eToys begins selling on its website.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1999",
+   "cat": "money",
+   "title": "First full year",
+   "text": "In the year to March 1999: $30.0M of sales, a $28.6M net loss.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "May 20",
+   "year": "1999",
+   "cat": "money",
+   "title": "The IPO",
+   "text": "8.32 million shares at $20; first-day close $76.56; market value $7.78 billion.",
+   "src": [
+    3,
+    4
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1999",
+   "cat": "ops",
+   "title": "Britain",
+   "text": "eToys.co.uk opens.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "1999",
+   "cat": "money",
+   "title": "$25",
+   "text": "The shares end 1999 at $25.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "",
+   "year": "2000",
+   "cat": "money",
+   "title": "A $189.6M loss",
+   "text": "Year to March 2000: $151.0M of sales, $55.5M of advertising, 1.9 million customers.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun 12",
+   "year": "2000",
+   "cat": "money",
+   "title": "Preferred stock",
+   "text": "eToys sells $100M of convertible preferred stock, which converts into ever more shares as the price falls.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Dec 15",
+   "year": "2000",
+   "cat": "death",
+   "title": "The warning",
+   "text": "Holiday sales will be $120M–$130M, not $210M–$240M; cash will last to about March 31.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Jan 4",
+   "year": "2001",
+   "cat": "death",
+   "title": "700 job notices",
+   "text": "About 700 of roughly 1,000 staff are given notice; two warehouses and the UK site close.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Mar 7",
+   "year": "2001",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "eToys files in Delaware, owing about $274M, and closes its website that night.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Mar 8",
+   "year": "2001",
+   "cat": "death",
+   "title": "Delisted",
+   "text": "Nasdaq delists the shares.",
+   "src": [
+    7,
+    8
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "2001",
+   "cat": "death",
+   "title": "Inventory sold",
+   "text": "KB Toys buys most of the stock for about $5.4M.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "May",
+   "year": "2001",
+   "cat": "corporate",
+   "title": "The name sold",
+   "text": "KB Toys pays nearly $3.4M for the name, website and software.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Nov 5",
+   "year": "2002",
+   "cat": "death",
+   "title": "Liquidation plan",
+   "text": "The plan for EBC I, Inc., formerly eToys, takes effect; the companies are to be dissolved.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Jun 7",
+   "year": "2005",
+   "cat": "death",
+   "title": "Creditors v. Goldman",
+   "text": "New York’s Court of Appeals lets the fiduciary-duty claim over the IPO price go forward.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "2009",
+   "cat": "corporate",
+   "title": "Toys “R” Us",
+   "text": "Toys “R” Us buys eToys.com from the bankrupt Parent Company.",
+   "src": [
+    14
+   ]
+  }
+ ]
+}

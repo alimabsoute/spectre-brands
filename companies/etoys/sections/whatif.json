@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Price the IPO higher",
+   "actual": "The shares were sold at $20 and closed the first day at $76.56. eToys raised $166.4M before fees.[^3][^4]",
+   "whatif": "Its creditors argued the price was set too low. Selling the same shares even at half the first-day close would have raised far more cash for the bad Christmas of 2000. Whether that would have been enough to reach profitability is unknowable."
+  },
+  {
+   "tab": "Fewer warehouses",
+   "actual": "eToys planned more than 1.4 million square feet of new distribution space for 2000.[^1]",
+   "whatif": "Using third parties for fulfilment, or growing capacity a year at a time, would have cut fixed costs when sales fell short. It would also have risked the delivery problems the company was built to avoid."
+  },
+  {
+   "tab": "Sell in 2000",
+   "actual": "It hired Goldman Sachs to explore a sale only after the December 2000 warning.[^5][^6]",
+   "whatif": "A merger with a store chain while the shares still traded above $20 might have kept the business alive. In 2001 the only buyer was KB Toys, paying a few million dollars for the pieces.[^10][^11]"
+  }
+ ]
+}

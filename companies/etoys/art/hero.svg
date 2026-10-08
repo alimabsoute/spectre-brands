@@ -1,0 +1,11 @@
+<svg viewBox="0 0 440 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of an open cardboard shipping box with a red and blue toy rocket lifting out of it">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 296 H420"/>
+<path d="M120 190 H320 V296 H120 Z" fill="#d9b98a"/>
+<path d="M120 190 L90 150 H190 L220 190 M320 190 L350 150 H250 L220 190" fill="#e6cda6"/>
+<path d="M180 236 H260" stroke="#9a7a4f"/>
+<path d="M220 30 Q246 60 246 110 V150 H194 V110 Q194 60 220 30 Z" fill="#2f3e9e"/>
+<circle cx="220" cy="90" r="12" fill="#e3f1fb"/>
+<path d="M194 130 L172 160 H194 M246 130 L268 160 H246" fill="#d12f2f"/>
+<path class="screen" d="M206 150 L212 176 M234 150 L228 176 M220 150 V182" stroke="#f2b632" stroke-width="4"/>
+</g></svg>

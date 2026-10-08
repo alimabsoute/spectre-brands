@@ -1,0 +1,199 @@
+{
+ "kicker": "The money",
+ "title": "Sales grew five times. Losses grew seven.",
+ "lede": "eToys’ fiscal year ended March 31. Figures are from its SEC filings; it filed no annual report for the year to March 2001.",
+ "blocks": [
+  {
+   "kind": "chart",
+   "id": "etysPL",
+   "title": "Net sales and net loss",
+   "subtitle": "$ millions. The last bar is nine months, to December 31, 2000.",
+   "views": [
+    {
+     "label": "Sales vs loss",
+     "chart": {
+      "type": "bar",
+      "height": 320,
+      "labels": [
+       "FY to Mar 1998",
+       "FY to Mar 1999",
+       "FY to Mar 2000",
+       "9 mo. to Dec 2000"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Net sales ($M)",
+        "data": [
+         0.7,
+         30.0,
+         151.0,
+         182.0
+        ],
+        "color": "brand"
+       },
+       {
+        "label": "Net loss ($M)",
+        "data": [
+         -2.3,
+         -28.6,
+         -189.6,
+         -196.2
+        ],
+        "color": "red"
+       }
+      ]
+     }
+    }
+   ],
+   "source": "Annual report for fiscal 2000[^1] and quarterly report to December 31, 2000.[^2]"
+  },
+  {
+   "kind": "flow",
+   "title": "Where the money went, year to March 2000",
+   "subtitle": "Every cost line against $151.0M of net sales. Total costs were $344.1M.",
+   "format": "usdM",
+   "from": {
+    "label": "Total costs",
+    "value": 344.1
+   },
+   "to": [
+    {
+     "label": "Cost of goods sold",
+     "value": 122.0,
+     "color": "grey"
+    },
+    {
+     "label": "Marketing and sales (incl. $55.5M advertising)",
+     "value": 120.5,
+     "color": "brand"
+    },
+    {
+     "label": "Web site and technology",
+     "value": 43.4,
+     "color": "blue"
+    },
+    {
+     "label": "Goodwill amortization (BabyCenter)",
+     "value": 27.8,
+     "color": "plum"
+    },
+    {
+     "label": "General and administrative",
+     "value": 16.7,
+     "color": "gold"
+    },
+    {
+     "label": "Deferred compensation",
+     "value": 13.7,
+     "color": "teal"
+    }
+   ],
+   "source": "Annual report for fiscal 2000.[^1] Total costs are cost of sales plus operating expenses (derived)."
+  },
+  {
+   "kind": "arc",
+   "title": "The share price",
+   "subtitle": "Dollars per share at selected points.",
+   "labels": [
+    "IPO price",
+    "Day 1 close",
+    "Q1 FY00 high",
+    "Q3 FY00 high",
+    "Dec 31 ’99",
+    "Q4 FY00 low"
+   ],
+   "format": "usd2",
+   "series": [
+    {
+     "label": "Share price",
+     "data": [
+      20.0,
+      76.56,
+      77.0,
+      84.5,
+      25.0,
+      8.84
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 1,
+     "title": "the debut",
+     "text": "Up 283% on the day.[^4]"
+    },
+    {
+     "i": 3,
+     "title": "the high",
+     "text": "$84.50 in the quarter to December 1999.[^1]"
+    },
+    {
+     "i": 5,
+     "title": "the slide",
+     "text": "A low of $8.84 in the quarter to March 2000.[^1]"
+    }
+   ],
+   "xLabel": "Not evenly spaced",
+   "source": "Prospectus[^3], Los Angeles Times[^4], quarterly high and low prices in the annual report[^1], and the court’s account of the year-end price.[^13]"
+  },
+  {
+   "kind": "bars",
+   "title": "Holiday 2000: forecast and result",
+   "subtitle": "Net sales for the quarter to December 31, 2000, $ millions.",
+   "format": "usdM",
+   "itemLabel": "Figure",
+   "valueLabel": "Net sales",
+   "items": [
+    {
+     "label": "October forecast, top",
+     "value": 240,
+     "color": "grey"
+    },
+    {
+     "label": "October forecast, bottom",
+     "value": 210,
+     "color": "grey"
+    },
+    {
+     "label": "Actual",
+     "value": 131.2,
+     "color": "red",
+     "self": true
+    },
+    {
+     "label": "Same quarter, 1999",
+     "value": 106.8,
+     "color": "brand"
+    }
+   ],
+   "source": "December 15, 2000 press release[^5] and the quarterly report.[^2]"
+  },
+  {
+   "kind": "counters",
+   "title": "The last nine months",
+   "items": [
+    {
+     "value": "$139.6M → $62.8M",
+     "text": "cash, March 31 to December 31, 2000[^1][^2]"
+    },
+    {
+     "value": "3.4M",
+     "text": "cumulative customer accounts by December 2000[^2]"
+    },
+    {
+     "value": "$196.2M",
+     "text": "net loss in the nine months to December 31, 2000[^2]"
+    },
+    {
+     "value": "$416.6M",
+     "text": "total net losses from the start to December 2000 (derived)[^1][^2]"
+    }
+   ],
+   "source": "SEC filings.[^1][^2]"
+  }
+ ]
+}

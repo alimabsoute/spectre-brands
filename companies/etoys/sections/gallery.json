@@ -1,0 +1,38 @@
+{
+ "kicker": "Brand gallery",
+ "title": "A red e and a blue box",
+ "label": "Brand gallery",
+ "lede": "One logo from Wikimedia Commons and our own drawings. We found no freely licensed photograph of eToys’ offices or warehouses. The drawings are original illustrations, not official artwork.",
+ "archive": [
+  {
+   "image": "img/logo.avif",
+   "date": "Undated",
+   "caption": "An eToys.com logo. Commons does not date it, so it may come from a later owner of the name.",
+   "alt": "eToys.com logo",
+   "credit": "From [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:EToys_logo.png), where it is marked public domain."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The box.",
+   "caption": "Everything eToys sold arrived in one.[^1] Original illustration."
+  },
+  {
+   "art": "art/boxes.svg",
+   "title": "The warehouse.",
+   "caption": "Five distribution centres in March 2000, two more planned.[^1] Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#2f3e9e",
+   "label": "Logo blue (approximate, from the Commons file)"
+  },
+  {
+   "hex": "#d12f2f",
+   "label": "Logo red (approximate)"
+  }
+ ],
+ "disclaimer": "eToys is a trademark of its owner; it appears here for commentary and historical record."
+}

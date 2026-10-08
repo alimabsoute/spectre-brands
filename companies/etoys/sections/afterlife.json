@@ -1,0 +1,74 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Unknown",
+   "color": "var(--mute)",
+   "title": "The name",
+   "text": "KB Toys bought it in 2001; The Parent Company owned eToys.com by 2008; Toys “R” Us bought it in February 2009.[^11][^14] etoys.com did not respond when we tried it in October 2026, and we could not establish who owns the name."
+  },
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The company",
+   "text": "eToys became EBC I, Inc. Its liquidating plan took effect on November 5, 2002; its assets were to be used to pay creditors and the companies dissolved.[^12]"
+  },
+  {
+   "status": "Sold",
+   "color": "var(--gold)",
+   "title": "The inventory",
+   "text": "KB Toys bought most of the unsold stock for about $5.4M in April 2001 to sell at its outlets and on KBkids.com.[^10]"
+  },
+  {
+   "status": "In court",
+   "color": "var(--mute)",
+   "title": "The IPO",
+   "text": "The creditors’ committee sued Goldman Sachs over the offering price. In 2005 New York’s Court of Appeals allowed the fiduciary-duty claim to proceed; it did not decide whether the allegations were true.[^13] We have not traced the case to its end."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "nodes": [
+    {
+     "when": "1996",
+     "owner": "Toys.com / eToys Inc.",
+     "what": "Incorporated in Delaware, backed by Idealab.[^1][^3]"
+    },
+    {
+     "when": "May 1999",
+     "owner": "Public (Nasdaq: ETYS)",
+     "what": "Initial public offering.[^3]",
+     "price": "$20.00 a share"
+    },
+    {
+     "when": "Mar 2001",
+     "owner": "eToys, in Chapter 11",
+     "what": "Files in Delaware and closes the site.[^8]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "May 2001",
+     "owner": "KB Toys",
+     "what": "Buys the name, website and software at auction.[^11]",
+     "price": "≈ $3.4M"
+    },
+    {
+     "when": "2008",
+     "owner": "The Parent Company",
+     "what": "Owner of eToys.com when it filed for bankruptcy in December 2008.[^14]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Feb 2009",
+     "owner": "Toys “R” Us",
+     "what": "Buys eToys.com, BabyUniverse.com and ePregnancy.com.[^14]",
+     "price": "Not disclosed"
+    }
+   ],
+   "source": "SEC filings, Wired and the Los Angeles Times.[^8][^11][^14] How the name passed from KB Toys to The Parent Company is not covered by our sources."
+  }
+ ]
+}

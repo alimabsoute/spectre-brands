@@ -1,0 +1,93 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "eToys was public from 1999 to 2001, so its finances come from its SEC filings and press releases. The IPO day, the asset sales and the later fate of the name come from contemporary press; the underpricing claim from the court’s opinion. Every link was opened while this page was researched.",
+ "list": [
+  {
+   "id": 1,
+   "text": "eToys Inc., [annual report (Form 10-K) for the fiscal year ended March 31, 2000](https://www.sec.gov/Archives/edgar/data/1052245/000091205700027125/a10-k.txt), SEC EDGAR, filed Jun 2, 2000."
+  },
+  {
+   "id": 2,
+   "text": "eToys Inc., [quarterly report (Form 10-Q) for the quarter ended December 31, 2000](https://www.sec.gov/Archives/edgar/data/1052245/000091205701005726/a2034712z10-q.txt), SEC EDGAR, filed Feb 14, 2001."
+  },
+  {
+   "id": 3,
+   "text": "eToys Inc., [prospectus (Form 424B4) for the initial public offering](https://www.sec.gov/Archives/edgar/data/1052245/000104746999021620/0001047469-99-021620.txt), SEC EDGAR, dated May 19, 1999."
+  },
+  {
+   "id": 4,
+   "text": "Karen Kaplan, [“EToys Rockets in Biggest Debut for Southland IPO”](https://www.latimes.com/archives/la-xpm-1999-may-21-fi-39388-story.html), Los Angeles Times, May 21, 1999."
+  },
+  {
+   "id": 5,
+   "text": "eToys Inc., [“eToys Expects Lower Than Estimated Fiscal Third Quarter Operating Results”](https://www.sec.gov/Archives/edgar/data/1052245/000091205700053869/a2033537zex-99_1.txt), press release (8-K exhibit 99.1), Dec 15, 2000."
+  },
+  {
+   "id": 6,
+   "text": "eToys Inc., [“eToys Releases Cost Reduction Details”](https://www.sec.gov/Archives/edgar/data/1052245/000091205701000278/a2034554zex-99_1.txt), press release (8-K exhibit 99.1), Jan 4, 2001."
+  },
+  {
+   "id": 7,
+   "text": "eToys, Inc., [current report (Form 8-K) on the bankruptcy filing](https://www.sec.gov/Archives/edgar/data/1052245/000091205701517634/a2050578z8-k.htm), SEC EDGAR, filed May 25, 2001."
+  },
+  {
+   "id": 8,
+   "text": "eToys, Inc., [“eToys Announces Bankruptcy Filing and Securities Delisting”](https://www.sec.gov/Archives/edgar/data/1052245/000091205701517634/a2050578zex-99_1.htm), press release (8-K exhibit 99.1), Mar 7, 2001."
+  },
+  {
+   "id": 9,
+   "text": "Joanna Glasner, [“EToys’ IPO Rocket Ride”](https://www.wired.com/1999/05/etoys-ipo-rocket-ride/), Wired, May 20, 1999."
+  },
+  {
+   "id": 10,
+   "text": "[“KB Toys to Pay $5.4 Million for EToys’ Assets”](https://www.latimes.com/archives/la-xpm-2001-apr-27-fi-56327-story.html), Los Angeles Times, Apr 27, 2001."
+  },
+  {
+   "id": 11,
+   "text": "[“KB Toys Gets eToys Web Site”](https://www.wired.com/2001/05/kb-toys-gets-etoys-web-site/), Wired, May 17, 2001."
+  },
+  {
+   "id": 12,
+   "text": "EBC I, Inc. (formerly eToys Inc.), [current report (Form 8-K) on the confirmation and effective date of the liquidating plan](https://www.sec.gov/Archives/edgar/data/1052245/000104746902003610/a2094006z8-k.htm), SEC EDGAR, filed Nov 19, 2002."
+  },
+  {
+   "id": 13,
+   "text": "[EBC I, Inc. v. Goldman Sachs & Co.](https://www.law.cornell.edu/nyctap/I05_0083.htm), New York Court of Appeals, decided Jun 7, 2005 (text via Cornell Legal Information Institute)."
+  },
+  {
+   "id": 14,
+   "text": "Associated Press, [“Toys R Us buys retailer EToys.com, related sites”](https://www.latimes.com/archives/la-xpm-2009-feb-13-fi-toys13-story.html), Los Angeles Times, Feb 13, 2009."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "Loss per dollar of sales: $189.6M ÷ $151.0M = $1.26. Gross margin: $29.1M ÷ $151.0M = 19.2%. Total costs: $122.0M cost of sales + $222.1M operating expenses = $344.1M. Total net losses to December 2000: $2.3M + $28.6M + $189.6M + $196.2M = $416.6M.[^1][^2]"
+  },
+  {
+   "label": "Fiscal years",
+   "text": "eToys’ annual report calls the year to March 31, 2000 “Fiscal 1999” in places. We label years by the date they ended to avoid confusion."
+  },
+  {
+   "label": "Conflicts",
+   "text": "The first-day close is $76.56 in the Los Angeles Times and the court’s opinion and $77 in Wired; the opening trade is $78 in the Times and Wired and $79 in the opinion.[^4][^9][^13] The company put its liabilities at about $274.0M at January 31, 2001; the Los Angeles Times reported $285M of debts listed in the filing.[^8][^10]"
+  },
+  {
+   "label": "Allegations",
+   "text": "The claims against Goldman Sachs are allegations in a complaint. The 2005 ruling only held that one claim was adequately pleaded.[^13]"
+  },
+  {
+   "label": "Unknown",
+   "text": "What creditors recovered; how the case against Goldman ended; how the name moved from KB Toys to The Parent Company; and who owns it now. etoys.com did not respond to our requests on October 8, 2026, so we do not link it."
+  },
+  {
+   "label": "Videos",
+   "text": "All air dates are the uploaders’. The retrospective is embedded as commentary; no figure here is taken from it."
+  },
+  {
+   "label": "Images",
+   "text": "The logo is from Wikimedia Commons, marked public domain; its date and owner are not given. The colour swatches are approximations. Drawings are original."
+  }
+ ]
+}

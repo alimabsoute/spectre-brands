@@ -1,0 +1,14 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a warehouse interior with pallet racks stacked with shipping boxes">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 280 H420"/>
+<path d="M30 280 V80 L220 30 L410 80 V280" fill="#eceae6"/>
+<path d="M60 280 V110 M200 280 V110 M240 280 V110 M380 280 V110 M60 170 H200 M60 225 H200 M240 170 H380 M240 225 H380" stroke="#3d5f86"/>
+<g fill="#d9b98a">
+<rect x="70" y="130" width="36" height="38"/><rect x="112" y="130" width="36" height="38"/><rect x="154" y="140" width="38" height="28"/>
+<rect x="70" y="190" width="56" height="33"/><rect x="132" y="185" width="60" height="38"/>
+<rect x="250" y="135" width="40" height="33"/><rect x="296" y="128" width="36" height="40"/>
+<rect x="250" y="188" width="80" height="35"/><rect x="336" y="195" width="36" height="28"/>
+<rect x="80" y="245" width="44" height="33"/><rect x="270" y="240" width="54" height="38"/>
+</g>
+<circle cx="220" cy="62" r="8" fill="#d12f2f"/>
+</g></svg>

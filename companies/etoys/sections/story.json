@@ -1,0 +1,61 @@
+{
+ "kicker": "The story",
+ "title": "Toys.com to EBC I, Inc.",
+ "lede": "eToys lasted three and a half years as a store. Most of its money was spent in one of them.",
+ "chapters": [
+  {
+   "when": "1996 – 1999 · The start-up",
+   "title": "A toy store with no stores",
+   "big": "Oct 1997",
+   "cap": "the month eToys began selling on its website",
+   "color": "#2f3e9e",
+   "body": "The company was incorporated in Delaware as Toys.com in November 1996, became eToys.com Inc. in May 1997 and eToys Inc. that June. It began selling in October 1997.[^1] Its first backer was Idealab, the Pasadena incubator, which held about 18.3 million shares before the IPO.[^3] Its founder and chief executive, Toby Lenk, was a former Disney strategic-planning executive.[^4]\n\nIn its first two years it sold about $30M of toys, games, software and music to 365,000 customers and lost $30.8M.[^4]",
+   "video": "feb1999"
+  },
+  {
+   "when": "May 1999 · The offering",
+   "title": "Worth more than Toys “R” Us",
+   "big": "$76.56",
+   "cap": "the first day’s closing price, against $20 at the offering",
+   "color": "#2f3e9e",
+   "body": "Goldman Sachs led the offering of 8,320,000 shares at $20, raising $166.4M before fees.[^3] On May 20, 1999 the first trade was at $78; the shares reached $85 and closed at $76.56, up 283%, valuing eToys at $7.78 billion, more than Toys “R” Us or Mattel.[^4] At the day’s high, Wired put its value at more than $8.5 billion.[^9] Lenk’s stake was worth $547M at the close; the company had 306 full-time employees.[^4]\n\nIn 2005 New York’s highest court let eToys’ creditors pursue Goldman for breach of fiduciary duty, on allegations that it underpriced the shares to benefit clients who allegedly kicked back part of their trading profits. The allegations were not proven at that stage.[^13]",
+   "video": "ad1999"
+  },
+  {
+   "when": "1999 – 2000 · The first holiday",
+   "title": "$55.5M of advertising",
+   "big": "79.8%",
+   "cap": "of net sales spent on marketing and sales in the year to March 2000",
+   "color": "#b3261e",
+   "body": "With the IPO money and $150M of convertible notes, eToys bought BabyCenter, opened a British site and expanded its warehouses.[^1] In the year to March 31, 2000 net sales rose to $151.0M, but marketing and sales cost $120.5M, including $55.5M of advertising and $50.3M of fulfilment, customer service and card fees.[^1] Gross profit was $29.1M. The net loss was $189.6M.[^1]\n\nIt had 1.9 million customers and 940 full-time employees.[^1] It ran five distribution centres, from Commerce, California to Swindon, England, and planned two more of more than 700,000 square feet each.[^1]",
+   "art": "art/boxes.svg",
+   "artCaption": "Original illustration of a warehouse stacked with shipping boxes. The quantities are not real."
+  },
+  {
+   "when": "Dec 2000 · The second holiday",
+   "title": "Half the forecast",
+   "big": "$131.2M",
+   "cap": "holiday-quarter sales, against a forecast of $210M to $240M",
+   "color": "#b3261e",
+   "body": "On December 15, 2000 eToys warned that holiday-quarter sales would be $120M to $130M, not $210M to $240M, and that cash would last only to about March 31, 2001.[^5] It blamed “a harsh retail climate,” “the current disfavor of Internet retailing,” and shoppers “meaningfully distracted by the presidential election.”[^5] The actual figure was $131.2M, up 23% on the year before; the quarter’s loss was $85.8M.[^2]\n\nOn January 4, 2001 it gave notice to about 700 of its roughly 1,000 employees, closed two warehouses and shut its British site.[^6] Within weeks every remaining employee had a termination notice.[^2]",
+   "video": "holiday2000"
+  },
+  {
+   "when": "Mar 2001 – 2002 · The end",
+   "title": "Bankrupt, and the name sold for $3.4M",
+   "big": "$274M",
+   "cap": "of liabilities at January 31, 2001",
+   "color": "#5a5a62",
+   "body": "On March 7, 2001 eToys filed for Chapter 11 in Delaware, saying its liabilities of about $274.0M would “substantially exceed” anything a buyer would pay. It closed the website at the end of that day; Nasdaq delisted the shares the next morning.[^8][^7]\n\nKB Toys bought most of the inventory for about $5.4M in April, and the name, website and software for nearly $3.4M in May.[^10][^11] The company became EBC I, Inc., and its liquidating plan took effect on November 5, 2002.[^12]",
+   "video": "retro"
+  },
+  {
+   "when": "2001 – today · The name",
+   "title": "KB Toys, The Parent Company, Toys “R” Us",
+   "big": "2009",
+   "cap": "the year Toys “R” Us bought eToys.com",
+   "color": "#5a5a62",
+   "body": "KB Toys sent eToys visitors to its own KBkids.com site.[^11] By 2008 eToys.com belonged to The Parent Company, which filed for bankruptcy that December; in February 2009 Toys “R” Us bought eToys.com, BabyUniverse.com and ePregnancy.com for an undisclosed price.[^14]\n\nWhen we tried etoys.com in October 2026 it did not respond. We could not establish who owns the name today."
+  }
+ ]
+}
