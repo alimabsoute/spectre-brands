@@ -1,0 +1,78 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Shell",
+   "color": "var(--gold)",
+   "title": "The company",
+   "text": "theglobe.com, inc. still exists and still files. Its 2025 annual report, filed April 1, 2026, ticks the box for a shell company, reports no employees as of March 23, 2026, and says its liabilities exceed its assets. It says it would prefer to avoid filing for bankruptcy.[^15]"
+  },
+  {
+   "status": "Switched off",
+   "color": "var(--red)",
+   "title": "The community",
+   "text": "The site at www.theglobe.com closed on August 15, 2001, together with Webjump.[^8][^11] We could not load the Internet Archive while researching this page, so we have not shown captures of it."
+  },
+  {
+   "status": "Sold on",
+   "color": "var(--blue)",
+   "title": "The games sites",
+   "text": "Games Domain and Console Domain went to British Telecommunications and Kids Domain to Kaboose in October 2001; Happy Puppy followed in February 2002. Computer Games magazine and Chips & Bits were shut in 2007.[^11][^12]"
+  },
+  {
+   "status": "Sold on",
+   "color": "var(--blue)",
+   "title": ".travel",
+   "text": "The .travel registry, Tralliance, went to a company controlled by Michael Egan on September 29, 2008, with an earn-out of 10% of net revenue from .travel names through May 5, 2015.[^13]"
+  },
+  {
+   "status": "Moved on",
+   "color": "var(--green)",
+   "title": "The founders",
+   "text": "Krizelman and Paternot left the chief executive’s office by July 2000, when Charles Peck took it.[^7] We have not traced their later careers to sources we could check and leave them out."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who controlled the name",
+   "subtitle": "Control of the company that owns theglobe.com name, from the founders to a shell’s new owner.",
+   "nodes": [
+    {
+     "when": "May 1995",
+     "owner": "Krizelman and Paternot",
+     "what": "Found the company at Cornell.[^1][^10]"
+    },
+    {
+     "when": "1997",
+     "owner": "Michael Egan / Dancing Bear",
+     "what": "The largest shareholder and chairman; a stockholders’ agreement shares board seats with the founders.[^1][^7]"
+    },
+    {
+     "when": "Nov 1998",
+     "owner": "Public (Nasdaq: TGLO)",
+     "what": "The record IPO.[^1][^3]",
+     "price": "$9.00 a share"
+    },
+    {
+     "when": "Apr 2001",
+     "owner": "Public (OTC bulletin board)",
+     "what": "Delisted from Nasdaq.[^11]"
+    },
+    {
+     "when": "Sep 2008",
+     "owner": "Egan-controlled companies",
+     "what": "Receive 229 million new shares with the Tralliance deal; the company becomes a shell.[^13]"
+    },
+    {
+     "when": "Dec 2017",
+     "owner": "Delfin Midstream",
+     "what": "Agrees to buy 70.9% of the shares from Egan and his companies.[^14]",
+     "status": "current"
+    }
+   ],
+   "source": "SEC filings.[^1][^7][^11][^13][^14]"
+  }
+ ]
+}

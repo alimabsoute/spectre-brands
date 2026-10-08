@@ -1,0 +1,93 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "theglobe.com filed with the SEC from its 1998 offering to today, so most figures come from its own prospectuses and annual reports. The offering day and the shutdown are also taken from contemporary press. Every link was opened while this page was researched.",
+ "list": [
+  {
+   "id": 1,
+   "text": "theglobe.com, inc., [prospectus (Form 424B4) for the initial public offering](https://www.sec.gov/Archives/edgar/data/1066684/0000950130-98-005514.txt), SEC EDGAR, filed Nov 13, 1998."
+  },
+  {
+   "id": 2,
+   "text": "Steve Gelsi, [“Internet IPO Theglobe.com Soars”](https://www.cbsnews.com/news/internet-ipo-theglobecom-soars/), CBS MarketWatch, via CBS News, Nov 13, 1998."
+  },
+  {
+   "id": 3,
+   "text": "Walter Hamilton, [“Theglobe.com Sets Record for 1st-Day Trading”](https://www.latimes.com/archives/la-xpm-1998-nov-14-fi-42595-story.html), Los Angeles Times, Nov 14, 1998."
+  },
+  {
+   "id": 4,
+   "text": "Frank Pellegrini, [“Money for Nothing”](https://time.com/archive/6921788/money-for-nothing/), Time, Nov 13, 1998."
+  },
+  {
+   "id": 5,
+   "text": "theglobe.com, inc., [annual report (Form 10-K) for 1999](https://www.sec.gov/Archives/edgar/data/1066684/0000895345-00-000218.txt), SEC EDGAR, filed Mar 30, 2000."
+  },
+  {
+   "id": 6,
+   "text": "theglobe.com, inc., [prospectus (Form 424B4) for the follow-on offering](https://www.sec.gov/Archives/edgar/data/1066684/0000950130-99-003196.txt), SEC EDGAR, filed May 20, 1999."
+  },
+  {
+   "id": 7,
+   "text": "theglobe.com, inc., [annual report (Form 10-K405) for 2000](https://www.sec.gov/Archives/edgar/data/1066684/0000950130-01-001623.txt), SEC EDGAR, filed Apr 2, 2001."
+  },
+  {
+   "id": 8,
+   "text": "theglobe.com, inc., [quarterly report (Form 10-Q) for the quarter to June 30, 2001](https://www.sec.gov/Archives/edgar/data/1066684/000095013001503923/0000950130-01-503923.txt), SEC EDGAR, filed Aug 14, 2001."
+  },
+  {
+   "id": 9,
+   "text": "Christopher Saunders, [“theglobe.com to Close Communities”](https://www.internetnews.com/marketing/theglobe-com-to-close-communities/), InternetNews, Aug 4, 2001."
+  },
+  {
+   "id": 10,
+   "text": "Marc Graser, [“Orbit decays as Globe shuts sites”](https://variety.com/2001/digital/news/orbit-decays-as-globe-shuts-sites-1117850737/), Variety, Aug 5, 2001."
+  },
+  {
+   "id": 11,
+   "text": "theglobe.com, inc., [annual report (Form 10-K) for 2002](https://www.sec.gov/Archives/edgar/data/1066684/0001015402-03-000989.txt), SEC EDGAR, filed Mar 31, 2003."
+  },
+  {
+   "id": 12,
+   "text": "theglobe.com, inc., [annual report (Form 10-K) for 2007](https://www.sec.gov/Archives/edgar/data/1066684/000114420408017833/v108090_10k.htm), SEC EDGAR, filed Mar 27, 2008."
+  },
+  {
+   "id": 13,
+   "text": "theglobe.com, inc., [current report (Form 8-K) on the sale of Tralliance](https://www.sec.gov/Archives/edgar/data/1066684/000114420408055945/v127977_8k.htm), SEC EDGAR, filed Oct 3, 2008."
+  },
+  {
+   "id": 14,
+   "text": "theglobe.com, inc., [current report (Form 8-K) on a change in control](https://www.sec.gov/Archives/edgar/data/1066684/000114420417064787/tv481860_8k.htm), SEC EDGAR, filed Dec 21, 2017."
+  },
+  {
+   "id": 15,
+   "text": "theglobe.com, inc., [annual report (Form 10-K) for 2025](https://www.sec.gov/Archives/edgar/data/1066684/000110465926038019/tglo-20251231x10k.htm), SEC EDGAR, filed Apr 1, 2026."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "$217.1M of total net losses is the sum of the reported losses for 1996 to 2002: $0.75M, $3.585M, $16.046M, $49.601M, $103.866M, $40.620M and $2.615M.[^7][^11] $92.3M raised is $27.3M + $65.0M net proceeds.[^5] $94.1M of write-offs and amortization in 2000–2001 is $41.348M + $27.236M + $17.091M + $8.469M; $58.4M and $35.7M are the restructuring and amortization parts.[^7][^11] $68.6M in 2000 is $41.348M + $27.236M.[^7] The 7.06 ratio is $63.50 ÷ $9.00.[^1][^3] The $4.50 split-adjusted offering price is stated in the 1999 annual report.[^5]"
+  },
+  {
+   "label": "Conflicts",
+   "text": "CBS MarketWatch put the first-day gain at “about 605 percent”; the Los Angeles Times at 606%, which we use.[^2][^3] Time put the market value at about $691M, CBS MarketWatch at $635M; we use CBS’s figure, which states its share count.[^2][^4] Variety says the company was founded in 1994; the prospectus says May 1995, which we use.[^1][^10] Variety says staff peaked at “upward of 350”; the annual reports give about 220 at the end of 1999 and 197 at the end of 2000. The peak may have fallen between year-ends; we report both.[^5][^7][^10] InternetNews put the staff at about 120 and Variety at 121 in August 2001.[^9][^10]"
+  },
+  {
+   "label": "Not charted",
+   "text": "We do not chart 2003 to 2008, when results were split between continuing and discontinued businesses (games, telephony and .travel) and restated more than once. The share-price chart stops at the end of 2001; the 2002 quarterly highs were between $0.08 and $0.17.[^11]"
+  },
+  {
+   "label": "Videos",
+   "text": "The air dates of the two IPO news recordings are inferred from their subject; the uploader gives none. The commercial’s year and the stock footage’s description are the uploaders’. The podcast interview is embedded as recollection and no figure here is taken from it."
+  },
+  {
+   "label": "Images",
+   "text": "The Internet Archive’s availability service did not respond while this page was researched, so there are no screenshots of the site. All drawings are original; the accent colour is our own choice and was not sampled from the brand."
+  },
+  {
+   "label": "General knowledge",
+   "text": "That Yahoo bought GeoCities in 1999 and closed it in 2009."
+  }
+ ]
+}

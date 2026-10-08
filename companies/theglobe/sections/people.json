@@ -1,0 +1,28 @@
+{
+ "kicker": "The people",
+ "title": "Who founded it, who ran it, who owns it",
+ "lede": "Titles and dates are as given in SEC filings and the press cited. Later careers are left out where we have no source.",
+ "people": [
+  {
+   "name": "Todd V. Krizelman",
+   "role": "Co-founder; co-chief executive",
+   "text": "Founded the company with Paternot in May 1995 while at Cornell.[^1][^10] The 2000 annual report describes both as former co-chief executives; together they owned 12% of the shares.[^7]"
+  },
+  {
+   "name": "Stephan J. Paternot",
+   "role": "Co-founder; co-chief executive",
+   "text": "The public face of the offering. Signed a new employment agreement in June 2000, a month before Peck became chief executive.[^7]"
+  },
+  {
+   "name": "Michael S. Egan",
+   "role": "Chairman; chief executive from June 2002",
+   "text": "Controlled Dancing Bear Investments, the largest shareholder, which owned about 28% of the shares in 2001.[^7][^1] Ran the company through its telephony and .travel years and bought its last business in 2008.[^11][^13]",
+   "later": "Agreed with his companies to sell their 70.9% to Delfin Midstream in December 2017.[^14]"
+  },
+  {
+   "name": "Charles Peck",
+   "role": "Chief executive, July 2000 – 2002",
+   "text": "Hired in July 2000 with options at $1.94 a share. Announced the closure of the community in August 2001.[^7][^9]"
+  }
+ ]
+}

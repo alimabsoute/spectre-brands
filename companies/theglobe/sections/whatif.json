@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Price it higher",
+   "actual": "The offering was priced at $9 after a postponement and closed the day at $63.50. The company raised $27.9M.[^2][^3]",
+   "whatif": "A price nearer the first-day trading range would have put far more cash in the company. It would not have changed the business, which was losing money on every dollar of revenue, but it might have bought another year or two."
+  },
+  {
+   "tab": "Keep the cash",
+   "actual": "In 1999 and early 2000 the company spent its stock and cash on four acquisitions, then wrote much of the goodwill off.[^5][^7][^11]",
+   "whatif": "Holding the $65.0M from the 1999 offering in reserve would have given it a cushion when advertising dried up in 2001. Communities with cheaper costs, such as later social networks, show that the audience was real; the cost base was the problem."
+  },
+  {
+   "tab": "Sell in 1999",
+   "actual": "Its larger rival GeoCities was bought by Yahoo in 1999, near the top of the market.",
+   "whatif": "A sale while the shares were above $30 would have handed the problem to a bigger company. Whether the community would have survived inside one is another question; GeoCities itself was closed by Yahoo in 2009."
+  }
+ ]
+}

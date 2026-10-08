@@ -1,0 +1,11 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a grey filing cabinet with one drawer open and empty, and a single sheet of paper inside">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 280 H420"/>
+<rect x="140" y="30" width="160" height="250" rx="6" fill="#c9ccd1"/>
+<rect x="152" y="44" width="136" height="64" rx="4" fill="#b7bbc2"/><path d="M204 76 h32"/>
+<path d="M152 120 H288 V184 H152 Z" fill="#b7bbc2"/>
+<path d="M136 128 L304 128 L330 160 L330 214 L110 214 L110 160 Z" fill="#dfe2e6"/>
+<path d="M110 160 H330"/><path d="M200 186 h40"/>
+<path d="M196 128 L204 104 L244 104 L236 128" fill="#ffffff"/>
+<rect x="152" y="224" width="136" height="44" rx="4" fill="#b7bbc2"/><path d="M204 246 h32"/>
+</g></svg>

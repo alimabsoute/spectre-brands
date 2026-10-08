@@ -1,0 +1,11 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a browser window whose page has been replaced by a blank notice and a sign reading closed">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="40" y="30" width="360" height="240" rx="8" fill="#ffffff"/>
+<path d="M40 64 H400" /><rect x="40" y="30" width="360" height="34" rx="8" fill="#d8dde3"/>
+<circle cx="60" cy="47" r="5" fill="#e2483d"/><circle cx="78" cy="47" r="5" fill="#f2b632"/><circle cx="96" cy="47" r="5" fill="#5fd16b"/>
+<rect x="120" y="38" width="250" height="18" rx="9" fill="#ffffff"/>
+<path d="M90 100 H350 M110 120 H330 M130 140 H310" stroke="#c9c2b5"/>
+<rect x="140" y="170" width="160" height="62" rx="6" fill="#b3261e" transform="rotate(-6 220 201)"/>
+<path d="M170 201 h100" stroke="#ffffff" stroke-width="6" transform="rotate(-6 220 201)"/>
+<path d="M200 170 L220 150 L240 170" transform="rotate(-6 220 201)"/>
+</g></svg>

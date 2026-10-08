@@ -1,0 +1,29 @@
+{
+ "kicker": "Brand gallery",
+ "title": "A home page, drawn from memory of the genre",
+ "label": "Brand gallery",
+ "lede": "The Internet Archive was not responding when this page was researched, so there are no screenshots of the real site here, and we found no freely licensed images of it. These are our own drawings of the kind of thing the company sold. They are not official artwork.",
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The home page.",
+   "caption": "Free personal pages were the core service.[^1] Original illustration; no real page is reproduced."
+  },
+  {
+   "art": "art/ticker.svg",
+   "title": "The ticker.",
+   "caption": "TGLO on Nasdaq, November 13, 1998.[^3] Original illustration."
+  },
+  {
+   "art": "art/closed.svg",
+   "title": "The notice.",
+   "caption": "August 15, 2001.[^11] Original illustration, not a capture of the real closing page."
+  },
+  {
+   "art": "art/shell.svg",
+   "title": "The shell.",
+   "caption": "No employees, no operations, still filing.[^15] Original illustration."
+  }
+ ],
+ "disclaimer": "theglobe.com is a name used by theglobe.com, inc.; it appears here for commentary and historical record."
+}

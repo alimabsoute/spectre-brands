@@ -1,0 +1,303 @@
+{
+ "kicker": "Timeline",
+ "title": "Thirty-one years, 27 moments",
+ "lede": "From a student project to a shell company that still files quarterly reports. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money & stock",
+   "color": "#4f7a4a"
+  },
+  "product": {
+   "label": "Sites & services",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Shutdown & shell",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "May 1",
+   "year": "1995",
+   "cat": "corporate",
+   "title": "Incorporated",
+   "text": "Todd V. Krizelman and Stephan J. Paternot found the company; it is incorporated on May 1, 1995.",
+   "src": [
+    1,
+    11
+   ]
+  },
+  {
+   "date": "",
+   "year": "1997",
+   "cat": "corporate",
+   "title": "The chairman’s agreement",
+   "text": "Michael Egan, his company Dancing Bear Investments, the two founders and two directors sign a stockholders’ agreement on board nominees.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Oct 20",
+   "year": "1998",
+   "cat": "money",
+   "title": "Offering cut",
+   "text": "The planned range of $11 to $13 a share is cut to $8 to $10.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Oct 22",
+   "year": "1998",
+   "cat": "money",
+   "title": "Offering shelved",
+   "text": "The company postpones the IPO because of weak demand.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Nov 12",
+   "year": "1998",
+   "cat": "money",
+   "title": "Priced at $9",
+   "text": "3.1 million shares are priced at $9, raising $27.9M.",
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "date": "Nov 13",
+   "year": "1998",
+   "cat": "money",
+   "title": "A record first day",
+   "text": "The stock opens at $67, touches $97 and closes at $63.50, up 606%, a record first-day gain.",
+   "src": [
+    2,
+    3
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "1999",
+   "cat": "product",
+   "title": "An online store",
+   "text": "Buys factorymall.com (Azazz.com) for $22.8M and turns it into shop.theglobe.com.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "1999",
+   "cat": "product",
+   "title": "Games sites from Britain",
+   "text": "Buys Attitude Network, owner of Games Domain, Kids Domain and Console Domain, for $46.8M.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "May 14",
+   "year": "1999",
+   "cat": "money",
+   "title": "Stock split",
+   "text": "A two-for-one stock split. Later price tables are adjusted for it.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "May",
+   "year": "1999",
+   "cat": "money",
+   "title": "$65M more",
+   "text": "A follow-on offering sells 3.5 million new shares at $20.00, for net proceeds of $65.0M.",
+   "src": [
+    5,
+    6
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1999",
+   "cat": "product",
+   "title": "Web hosting",
+   "text": "Buys the web-hosting assets of Webjump for $13.0M, mostly in shares.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "1999",
+   "cat": "corporate",
+   "title": "220 employees",
+   "text": "The year ends with about 220 full-time staff, 4.7 million unique users and 3.6 million registered members.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "2000",
+   "cat": "product",
+   "title": "Games magazine",
+   "text": "Buys Chips & Bits and Strategy Plus, publisher of Computer Games magazine, for about $15.3M.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "A new chief executive",
+   "text": "Charles Peck becomes chief executive, replacing the founders.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "",
+   "year": "2000",
+   "cat": "money",
+   "title": "The $103.9M year",
+   "text": "Revenue peaks at $29.9M; the net loss is $103.9M, including $41.3M of restructuring and impairment charges.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "2001",
+   "cat": "money",
+   "title": "Delisted",
+   "text": "Nasdaq delists the stock; it moves to the over-the-counter bulletin board.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Aug 3",
+   "year": "2001",
+   "cat": "death",
+   "title": "Closure announced",
+   "text": "The company says it will close the community and Webjump and cut 60 jobs, 49% of staff.",
+   "src": [
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "date": "Aug 15",
+   "year": "2001",
+   "cat": "death",
+   "title": "The site goes dark",
+   "text": "The community at www.theglobe.com closes.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "2001",
+   "cat": "product",
+   "title": "Games sites sold",
+   "text": "Games Domain and Console Domain go to British Telecommunications, Kids Domain to Kaboose.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "2002",
+   "cat": "product",
+   "title": "Happy Puppy sold",
+   "text": "The Happy Puppy games site is sold to Internet Game Distribution.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Jun 1",
+   "year": "2002",
+   "cat": "corporate",
+   "title": "Egan takes over",
+   "text": "Chairman Michael Egan becomes chief executive. By December the company has about 21 employees.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Nov 14",
+   "year": "2002",
+   "cat": "product",
+   "title": "Internet phones",
+   "text": "The company buys voice-over-IP assets for warrants.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "May 9",
+   "year": "2005",
+   "cat": "product",
+   "title": ".travel",
+   "text": "Acquires Tralliance, the registry for the .travel domain.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "2007",
+   "cat": "death",
+   "title": "Games and phones shut",
+   "text": "Management decides to shut the computer games and telephony businesses.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Sep 29",
+   "year": "2008",
+   "cat": "death",
+   "title": "A shell",
+   "text": "Tralliance is sold to a company controlled by Egan, which also receives 229 million new shares. theglobe.com has no operating business left.",
+   "src": [
+    13,
+    15
+   ]
+  },
+  {
+   "date": "Dec 20",
+   "year": "2017",
+   "cat": "corporate",
+   "title": "New controlling owner",
+   "text": "Egan and his companies agree to sell 70.9% of the shares to Delfin Midstream.",
+   "src": [
+    14,
+    15
+   ]
+  },
+  {
+   "date": "Apr 1",
+   "year": "2026",
+   "cat": "death",
+   "title": "Still filing",
+   "text": "The shell files its 2025 annual report. It has no employees, and its liabilities exceed its assets.",
+   "src": [
+    15
+   ]
+  }
+ ]
+}

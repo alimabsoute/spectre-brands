@@ -1,0 +1,28 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 40,
+   "title": "A free service paid for by banner ads",
+   "text": "The prospectus named advertising as the main source of revenue.[^1] In its best year the company took in $29.9M and spent $23.9M on sales and marketing alone; total operating expenses were $115.9M.[^7] When the market for online advertising fell, the company said the decline was the reason it closed the community, which contributed “disproportionately” to its losses.[^8][^9]"
+  },
+  {
+   "weight": 25,
+   "title": "Acquisitions paid in a bubble currency",
+   "text": "With its shares near their peak the company bought factorymall ($22.8M), Attitude Network ($46.8M), Webjump ($13.0M) and Chips & Bits and Strategy Plus ($15.3M), mostly in stock.[^5][^11] In 2000 and 2001 it booked $58.4M of restructuring and impairment charges and $35.7M of goodwill amortization (both derived).[^7][^11]"
+  },
+  {
+   "weight": 20,
+   "title": "A stock price set by a frenzy",
+   "text": "The record first day made the company famous but raised only $27.9M before fees.[^2] Analysts at the time called it a mania: “There’s nothing innovative or singular about the company,” one told CBS MarketWatch.[^2] The share price fell from a quarterly high of $39.47 in mid-1999 to $0.84 by the end of 2000, which ruled out raising more equity.[^5][^7]"
+  },
+  {
+   "weight": 15,
+   "title": "A crowded, copyable idea",
+   "text": "GeoCities offered the same free home pages and had more members: 2.5 million to theglobe.com’s 2 million in November 1998.[^2] Variety’s obituary called theglobe.com “a symbol of Internet-era excess.”[^10]"
+  }
+ ],
+ "disclaimer": "The weights are our judgment of how much each factor contributed. Reasonable readers could weigh them differently."
+}

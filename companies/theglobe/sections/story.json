@@ -1,0 +1,56 @@
+{
+ "kicker": "The story",
+ "title": "Free home pages, a record IPO and a shell",
+ "lede": "theglobe.com had two lives as a public company. In the first it was a web community with a famous stock. In the second it was a holding company looking for a business, and for most of the last eighteen years it has had none.",
+ "chapters": [
+  {
+   "when": "1995 – 1998 · A dorm-room community",
+   "title": "Home pages, chat and a chairman from Florida",
+   "big": "2M",
+   "cap": "members claimed in the November 1998 prospectus",
+   "color": "#1f5f9e",
+   "body": "Todd V. Krizelman and Stephan J. Paternot founded the company in May 1995, when both were students at Cornell University.[^1][^10] The site let people “publish their own content and interact with others having similar interests”: free home pages, discussion forums, chat, e-mail, horoscopes and personals. Almost all of the money came from selling advertising.[^1]\n\nThe largest shareholder was Dancing Bear Investments, controlled by Michael S. Egan, who became chairman.[^1] By the autumn of 1998 the prospectus counted over 2 million members and 7.5 million unique visitors in October. It also showed a company losing far more than it took in: $5.8M lost in the nine months to September 1998.[^1]",
+   "art": "art/hero.svg",
+   "artCaption": "Original illustration of a 1990s personal home page. Not an official asset."
+  },
+  {
+   "when": "Oct – Nov 1998 · The offering",
+   "title": "Postponed in October, a record in November",
+   "big": "606%",
+   "cap": "first-day gain on November 13, 1998, from $9 to $63.50",
+   "color": "#b3261e",
+   "body": "The offering was meant to price on October 20, 1998 at $11 to $13 a share. That day the range was cut to $8 to $10, and two days later the deal was shelved because the market was weak.[^2]\n\nThree weeks later it came back. Bear Stearns priced 3.1 million shares at $9 on November 12, raising $27.9M.[^1][^2] On Friday, November 13 the stock opened on Nasdaq at about 11 a.m. at $67, touched $97 and closed at $63.50, up 606%. That beat the record set four months earlier by Broadcast.com, which had risen 249%.[^2][^3] At the close the market valued the company at about $635M.[^2] Many of the funds that had bought at $9 sold that same day to individual investors at far higher prices; the company kept only what it had raised at $9.[^2]",
+   "video": "cnn98"
+  },
+  {
+   "when": "1999 · Spending the stock",
+   "title": "$65M more, and three acquisitions",
+   "big": "$20.00",
+   "cap": "price per share in the May 1999 follow-on offering",
+   "color": "#1f5f9e",
+   "body": "In May 1999 the company split its stock two-for-one and sold another 3.5 million shares at $20.00, netting $65.0M.[^5][^6] It bought the online store factorymall.com (Azazz.com) in February for $22.8M, the British games network Attitude Network (Games Domain, Kids Domain, Console Domain) in April for $46.8M, and in December the web host Webjump for $13.0M, all paid partly or largely in shares.[^5][^11] In February 2000 it added Chips & Bits, a games retailer, and Strategy Plus, publisher of Computer Games magazine, for about $15.3M.[^11]\n\nThe audience grew: by December 1999 it reported 4.7 million unique users and over 3.6 million registered members, with another 600,000 at Webjump.[^5] So did the losses. The company lost $49.6M in 1999 on revenue of $18.6M, and had about 220 full-time employees at the end of the year.[^5][^7]",
+   "art": "art/ticker.svg",
+   "artCaption": "Original illustration of a stock ticker board. The prices shown are not real quotes."
+  },
+  {
+   "when": "2000 – 2001 · The advertising crash",
+   "title": "A $103.9M year, then the switch-off",
+   "big": "$103.9M",
+   "cap": "net loss in 2000, on revenue of $29.9M",
+   "color": "#b3261e",
+   "body": "Revenue rose to $29.9M in 2000, the best year the company had. It lost $103.9M, including $41.3M of restructuring and impairment charges and $27.2M of goodwill amortization.[^7] The founders, by then described as the former co-chief executives, were replaced as chief executive by Charles Peck in July 2000.[^7] Nasdaq delisted the shares in April 2001, and they moved to the bulletin board.[^11]\n\nOn August 3, 2001 the company said it would close the community at www.theglobe.com and the Webjump hosting service on August 15, and cut 60 jobs, 49% of its workforce, “due to the significant and prolonged decline in the Internet advertising sector.”[^8] Peck said the community operations “contribute disproportionately to our operating losses.”[^9] Variety put the staff at 121, against “upward of 350” at the peak; the share price was under 25 cents.[^10]",
+   "art": "art/closed.svg",
+   "artCaption": "Original illustration of a browser window with a closing notice. Not a capture of the real page."
+  },
+  {
+   "when": "2001 – 2026 · The afterlife of a ticker",
+   "title": "Games, phones, .travel, then nothing",
+   "big": "0",
+   "cap": "employees as of March 23, 2026",
+   "color": "#5a5a62",
+   "body": "The games sites were sold in pieces: Games Domain and Console Domain to British Telecommunications and Kids Domain to Kaboose in October 2001, Happy Puppy in February 2002. Egan became chief executive in June 2002, when the company had about 21 employees and a print magazine.[^11]\n\nUnder Egan it bought internet telephony assets in November 2002 and Tralliance, the registry for the .travel domain, in May 2005. It shut both the games and telephony businesses in March 2007.[^12] On September 29, 2008 it sold Tralliance to a company controlled by Egan, for the cancellation of $4.25M of notes plus interest and unpaid rent, and issued that company 229 million new shares. From then on it was a shell.[^13][^15]\n\nIn December 2017 Egan and his companies agreed to sell their 70.9% to Delfin Midstream.[^14] The shell still files with the SEC. Its 2025 annual report says it had no employees and that its liabilities exceeded its assets.[^15]",
+   "art": "art/shell.svg",
+   "artCaption": "Original illustration of an empty filing cabinet. Not an official asset."
+  }
+ ]
+}

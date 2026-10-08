@@ -1,0 +1,52 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The day the stock went to $97",
+ "lede": "Business television covered the offering live. These are recordings of that coverage, a commercial and later interviews, as uploaded by collectors and podcasters. Where a date comes only from the uploader, the caption says so.",
+ "videos": [
+  {
+   "id": "cnn98",
+   "title": "CNN, Business Unusual: theglobe.com IPO coverage",
+   "year": 1998,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "fDXWIagIB40",
+   "caption": "CNN’s coverage of the offering, recorded off the air and uploaded with the title “TGLO’s IPO Coverage.” The stock closed its first day at $63.50, up 606%.[^3] The date is inferred from the subject; the uploader gives no air date."
+  },
+  {
+   "id": "cnbc98",
+   "title": "CNBC, Business Center: theglobe.com IPO coverage",
+   "year": 1998,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "90XMyHLAmlE",
+   "caption": "CNBC’s report on the debut, from the same uploader. The prices quoted on air should be checked against the closing figures in our sources.[^2][^3]"
+  },
+  {
+   "id": "ad99",
+   "title": "theglobe.com web horoscope commercial",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "vk_ckDj2eOo",
+   "caption": "A television spot for the site’s horoscopes, one of the free features the prospectus lists.[^1] The 1999 date is the uploader’s and we could not confirm it."
+  },
+  {
+   "id": "nyc99",
+   "title": "theGlobe.com, New York City, 1999",
+   "year": 1999,
+   "type": "documentary",
+   "provider": "youtube",
+   "embedId": "vJfwikkV7Bs",
+   "caption": "Stock footage from Journeyman Pictures titled “theGlobe.com, New York City, USA, 1999.” The year and place are the uploader’s description."
+  },
+  {
+   "id": "pod",
+   "title": "Internet History Podcast: theGlobe.com story with Stephan Paternot",
+   "year": 2019,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "lMMB8KXXEjc",
+   "caption": "A long interview with the co-founder, the first of three parts. Embedded as recollection; no figure on this page is taken from it. The year is approximate, from the upload age YouTube shows (“7 years ago” in October 2026)."
+  }
+ ]
+}

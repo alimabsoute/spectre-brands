@@ -1,0 +1,96 @@
+{
+ "name": "theglobe.com",
+ "number": "020",
+ "tier": "ghost",
+ "tierWhy": "The community site closed on August 15, 2001 and the last operating business was sold in 2008, but theglobe.com, inc. still exists as a shell company under its old name: it filed its annual report for 2025 in April 2026, with no employees and no operations.[^11][^13][^15]",
+ "category": "dotcom",
+ "cause": "unit-economics",
+ "years": "1995 – 2001",
+ "died": 2001,
+ "dates": [
+  {
+   "date": "1998-11-13",
+   "text": "set a record for a first-day gain when its shares rose 606% on their Nasdaq debut"
+  },
+  {
+   "date": "2001-08-03",
+   "text": "said it would close its community site and cut 49% of its staff"
+  },
+  {
+   "date": "2001-08-15",
+   "text": "closed the community site at www.theglobe.com"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Online community and home pages · New York, New York",
+ "title": "theglobe.com (1995–2001): post-mortem · Spectre Brands",
+ "description": "The record IPO of the dot-com bubble. A sourced post-mortem of theglobe.com: a 606% first-day gain, $217M of losses in seven years, and the shell company that still carries the name, built from its SEC filings and contemporary press.",
+ "theme": {
+  "accent": "#1f5f9e",
+  "soft": "#eaf1f9"
+ },
+ "card": {
+  "blurb": "Two Cornell students built a site for free home pages and chat. Its shares rose 606% on their first day of trading in 1998. Less than three years later the site was switched off.",
+  "stat": {
+   "value": "606%",
+   "label": "first-day gain on November 13, 1998, then a record"
+  },
+  "spark": [
+   0.2,
+   0.8,
+   5.5,
+   18.6,
+   29.9,
+   16.1,
+   9.7
+  ],
+  "peak": 4
+ },
+ "hero": {
+  "dates": "Incorporated May 1, 1995. Community site closed Aug 15, 2001.",
+  "standfirst": "For one Friday in November 1998 it was the most successful stock offering in history. It never made a profit.",
+  "deck": "theglobe.com let people build free home pages, join chat rooms and post on message boards, and sold advertising against the traffic. Its initial public offering in November 1998 was priced at $9 a share and closed its first day at $63.50, a record gain that came to stand for the bubble. The company then raised another $65M, bought games sites and a web host, and lost $103.9M in 2000 alone. When the online advertising market fell apart it closed the community, sold the games sites and became, by 2008, a public company with nothing in it. This page is built from its SEC filings, which run without a break from 1998 to 2026, and from the press of the time.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a late-1990s home page on a beige monitor, with a globe and a visitor counter. Not an official asset; the page and the globe are our own drawing.",
+  "motion": "spin"
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "$63.50",
+    "text": "first-day closing price on November 13, 1998, after an offering price of $9[^1][^3]"
+   },
+   {
+    "value": "$29.9M",
+    "text": "revenue in 2000, its best year, against a net loss of $103.9M[^7]"
+   },
+   {
+    "value": "$217.1M",
+    "text": "lost in total from 1996 to 2002 (derived from the annual reports)[^7][^11]"
+   },
+   {
+    "value": "0",
+    "text": "employees as of March 23, 2026, when the shell company filed its latest annual report[^15]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The IPO day was the peak of the story, not the business.",
+   "text": "The shares closed at $63.50 on the first day, about $31.75 after the 1999 stock split. No quarter afterwards closed higher than $39.47, and by the fourth quarter of 2000 the high was $0.84.[^3][^5][^7]"
+  },
+  {
+   "title": "It sold advertising and spent more than it took in.",
+   "text": "In 2000 revenue was $29.9M. Sales and marketing alone cost $23.9M, and total operating expenses were $115.9M.[^7]"
+  },
+  {
+   "title": "It bought growth with its stock.",
+   "text": "Attitude Network cost $46.8M in 1999, Webjump $13.0M and Chips & Bits $15.3M in 2000, paid largely in shares. In 2000 and 2001 the company wrote off or amortized $94.1M (derived) of goodwill and intangibles and restructuring.[^5][^7][^11]"
+  },
+  {
+   "title": "The advertising market decided the end.",
+   "text": "The company said it closed the community “due to the significant and prolonged decline in the Internet advertising sector.”[^8]"
+  }
+ ]
+}

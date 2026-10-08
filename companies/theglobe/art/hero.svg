@@ -1,0 +1,16 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a beige late-1990s computer monitor showing a personal home page with a spinning globe, a visitor counter and an under-construction sign">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 300 H430"/>
+<path d="M170 262 L160 296 H280 L270 262 Z" fill="#d9d0bd"/>
+<rect x="70" y="30" width="300" height="236" rx="14" fill="#e6dcc6"/>
+<rect x="92" y="50" width="256" height="180" rx="4" fill="#ffffff"/>
+<rect x="92" y="50" width="256" height="22" fill="#1f5f9e"/>
+<circle cx="104" cy="61" r="4" fill="#ffffff"/><circle cx="118" cy="61" r="4" fill="#ffffff"/>
+<g class="spin" style="transform-origin:150px 128px"><circle cx="150" cy="128" r="34" fill="#9cc3ea"/><path d="M116 128 H184 M150 94 V162 M126 106 Q150 118 174 106 M126 150 Q150 138 174 150"/><path d="M138 100 q14 10 4 24 q-10 10 4 24" fill="#4f9a5a"/></g>
+<path d="M200 104 H326 M200 120 H310 M200 136 H322 M200 152 H290" stroke="#9a9184"/>
+<rect x="108" y="180" width="84" height="24" fill="#1d1b18"/>
+<path d="M118 192 h8 M132 192 h8 M146 192 h8 M160 192 h8 M174 192 h8" stroke="#7fe37f"/>
+<path d="M214 204 L240 176 L266 204 Z" fill="#f2b632"/><path d="M240 186 V194 M240 198 V199"/>
+<rect x="286" y="178" width="44" height="26" rx="3" fill="#e2483d"/><path d="M296 191 h24" stroke="#ffffff"/>
+<circle cx="350" cy="250" r="4" fill="#7fe37f"/>
+</g></svg>
