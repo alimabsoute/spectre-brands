@@ -1,0 +1,74 @@
+{
+ "kicker": "The old website",
+ "title": "Five front pages, 1996 to 2019",
+ "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture.[^26]",
+ "snips": [
+  {
+   "text": "“Welcome To Our Virtual Computer Store”",
+   "when": "Home page · Dec 27, 1996[^26]"
+  },
+  {
+   "text": "“CompUSA is now a Systemax Company.”",
+   "when": "Home page banner · Jan 13, 2008[^26]"
+  }
+ ],
+ "note": "A capture from February 2007, the week of the store-closing announcement, rendered as a blank page and is not shown.",
+ "captures": [
+  {
+   "date": "Dec 1996",
+   "label": "The virtual store",
+   "url": "http://www.compusa.com/",
+   "wayback": "https://web.archive.org/web/19961227044709/http://www.compusa.com/",
+   "image": "img/archive-1996-12-home.avif",
+   "h": 480,
+   "captured": "Dec 27, 1996",
+   "title": "CompUSA Online",
+   "text": "A navigation wheel for sales, tech services, training and store locations, with buttons recommending Internet Explorer and Netscape. A notice at the top says the old site “will be going down soon.”"
+  },
+  {
+   "date": "Mar 2000",
+   "label": "Three companies",
+   "url": "http://www.compusa.com/",
+   "wayback": "https://web.archive.org/web/20000302001803/http://www.compusa.com/",
+   "image": "img/archive-2000-03-home.avif",
+   "h": 440,
+   "captured": "Mar 2, 2000",
+   "title": "The week the buyout closed",
+   "text": "A splash page sending visitors to cozone.com, CompUSA PC or the stores, with a note that the three were “separate web sites.” The tender offer had expired two days earlier.[^6] Cropped to the page content."
+  },
+  {
+   "date": "Jun 2007",
+   "label": "After the cuts",
+   "url": "http://www.compusa.com/",
+   "wayback": "https://web.archive.org/web/20070614040441/http://www.compusa.com/",
+   "image": "img/archive-2007-06-home.avif",
+   "h": 480,
+   "captured": "Jun 14, 2007",
+   "title": "After the closings",
+   "text": "The site three and a half months after the announcement that 126 stores would close.[^12]",
+   "warn": "The main banner image was not archived and renders as a colour block."
+  },
+  {
+   "date": "Jan 2008",
+   "label": "New owner",
+   "url": "http://www.compusa.com/",
+   "wayback": "https://web.archive.org/web/20080113210030/http://www.compusa.com/",
+   "image": "img/archive-2008-01-home.avif",
+   "h": 480,
+   "captured": "Jan 13, 2008",
+   "title": "“Welcome to the all-new CompUSA.com”",
+   "text": "Three days after Systemax completed its purchase of the web business.[^17]"
+  },
+  {
+   "date": "Feb 2019",
+   "label": "The deals site",
+   "url": "http://compusa.com/",
+   "wayback": "https://web.archive.org/web/20190225090918/http://compusa.com/",
+   "image": "img/archive-2019-03-home.avif",
+   "h": 480,
+   "captured": "Feb 25, 2019",
+   "title": "“Powered by DealCentral”",
+   "text": "The old logo over a page of deal categories and links to other stores.[^21]"
+  }
+ ]
+}

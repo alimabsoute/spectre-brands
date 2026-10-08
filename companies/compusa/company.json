@@ -1,0 +1,126 @@
+{
+ "name": "CompUSA",
+ "number": "021",
+ "tier": "dead",
+ "tierWhy": "The last 103 stores went into closing sales in December 2007, the buyer of the name stopped using it after October 2012, a 2018 revival as a deals website has lapsed, and compusa.com returned a hosting error page for an unconnected domain when we loaded it on October 8, 2026.[^13][^19][^20][^21][^22]",
+ "category": "electronics",
+ "cause": "competition",
+ "years": "1984 – 2008",
+ "died": 2008,
+ "dates": [
+  {
+   "date": "2007-12-07",
+   "text": "was sold to Gordon Brothers, which said the last 103 stores would close after the holidays"
+  },
+  {
+   "date": "2007-02-27",
+   "text": "said it would close 126 stores, more than half the chain, within 90 days"
+  },
+  {
+   "date": "2000-01-24",
+   "text": "agreed to be bought by Carlos Slim’s Grupo Sanborns for $10.10 a share"
+  },
+  {
+   "date": "1998-06-22",
+   "text": "agreed to buy its rival Computer City from Tandy"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Computer superstores · Dallas, Texas",
+ "title": "CompUSA (1984–2008): post-mortem · Spectre Brands",
+ "description": "How the first chain of computer superstores grew to $6.3 billion in sales, was bought by Carlos Slim for $10.10 a share and closed its last 103 stores: a sourced post-mortem of CompUSA with charts, commercials and archived pages.",
+ "theme": {
+  "accent": "#c8102e",
+  "soft": "#fdeef1"
+ },
+ "card": {
+  "blurb": "The first chain of computer superstores sold $6.3 billion of PCs a year at its height. Then the PC turned into a cheap commodity that Best Buy, Dell and everyone else sold too.",
+  "stat": {
+   "value": "103",
+   "label": "stores left to close in December 2007"
+  },
+  "spark": [
+   28,
+   76,
+   105,
+   162,
+   211,
+   217,
+   225,
+   103,
+   16,
+   0
+  ],
+  "peak": 6,
+  "logo": "img/logo-2008.avif",
+  "logoYear": "2008"
+ },
+ "hero": {
+  "dates": "Founded in Dallas in 1984 as Soft Warehouse. Sold to a restructuring firm on Dec 7, 2007, which closed the stores. Brand retired by its last owner in 2012.",
+  "standfirst": "It taught America to buy a computer the way it bought a refrigerator. Then America learned to buy one anywhere.",
+  "deck": "CompUSA opened the first computer superstore in 1988 and had 211 of them eleven years later, selling $6.3 billion of hardware, software and training a year. Its own annual report explained the problem: customers needed less help and cared more about price. Carlos Slim’s companies took it private in 2000 for $10.10 a share and spent seven years trying to turn it around. This is the full post-mortem, built from CompUSA’s SEC filings, the filings of its owners and buyers, contemporary press and the archived website. The company was private for its last eight years, so the record is thinner there, and the page says so.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a CompUSA superstore with its stepped entrance. Not an official asset; the lettering is our own.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/archive-1996-12-home.avif",
+    "caption": "compusa.com, Dec 1996",
+    "alt": "CompUSA Online home page in December 1996 with a round green navigation wheel"
+   },
+   {
+    "image": "img/store-santa-clara.avif",
+    "caption": "Santa Clara, California, 2005",
+    "alt": "A CompUSA store with palm trees in front in Santa Clara, California"
+   },
+   {
+    "image": "img/store-last-days-2008.avif",
+    "caption": "“Store closing,” Feb 2008",
+    "alt": "A CompUSA store at dusk with a yellow store closing banner"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "$6.32B",
+    "text": "net sales in the fiscal year ended June 26, 1999, the last full year it reported[^2]"
+   },
+   {
+    "value": "211",
+    "text": "Computer Superstores open at that date, up from 28 in June 1992[^2][^1]"
+   },
+   {
+    "value": "$10.10",
+    "text": "a share paid by Grupo Sanborns in 2000. The stock had traded as high as $37.81 in fiscal 1998[^5][^2]"
+   },
+   {
+    "value": "103",
+    "text": "stores still open when the company was sold to a restructuring firm on December 7, 2007, to be sold or closed[^13]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It started level with Best Buy.",
+   "text": "In fiscal 1992 CompUSA sold $823M and Best Buy $930M. By fiscal 1999 it was $6.3B against $10.1B, and Best Buy sold computers as one of four product categories.[^1][^2][^23]"
+  },
+  {
+   "title": "The stores sold less every year after 1996.",
+   "text": "Sales per square foot fell from $1,405 in fiscal 1996 to $1,139 in fiscal 1999. The company blamed lower selling prices for desktops, notebooks and monitors.[^2]"
+  },
+  {
+   "title": "The best year earned two cents on the dollar.",
+   "text": "Net income peaked at $93.9M in fiscal 1997, or 2.0% of $4.61B in sales. Two years later the company lost $45.7M.[^2]"
+  },
+  {
+   "title": "Buying the rival did not help.",
+   "text": "CompUSA paid about $175M for Computer City in 1998 and closed 59 of its 96 U.S. stores. The ones it kept sold $711 a square foot against $1,177 at its own.[^2]"
+  },
+  {
+   "title": "A rich owner bought seven more years.",
+   "text": "Carlos Slim’s companies took CompUSA private in 2000. In February 2007 it closed 126 stores; in December it sold what was left to a firm that closed it.[^5][^12][^13]"
+  }
+ ]
+}

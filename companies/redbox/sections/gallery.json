@@ -1,0 +1,109 @@
+{
+ "kicker": "Brand gallery",
+ "label": "Brand gallery",
+ "title": "One colour and a touch screen",
+ "lede": "Redbox had no storefront, no uniform and almost no advertising. The brand was the machine: a red cabinet about the size of a soda machine, outside a shop door. These are photographs of the kiosks from 2011 to the shutdown, with our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/kiosk-2012-mcdonalds.avif",
+   "date": "Aug 2012",
+   "caption": "Two kiosks at a McDonald’s drive-through in Loveland, Colorado, the chain where Redbox began.",
+   "alt": "Two red Redbox kiosks under a red awning beside a McDonald’s",
+   "credit": "Photo: Greg Goebel, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RedBox_at_McDonald%27s_in_Loveland_Colorado.jpg), CC BY-SA 2.0."
+  },
+  {
+   "image": "img/kiosk-2012-store.avif",
+   "date": "Jun 2012",
+   "caption": "A kiosk inside a store.",
+   "alt": "A red Redbox DVD rental machine standing inside a shop",
+   "credit": "Photo: Elliott R. Plack, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Redbox_machine.jpg), CC0."
+  },
+  {
+   "image": "img/inside-kiosk-2011.avif",
+   "date": "Jun 2011",
+   "caption": "The disc carousel inside the cabinet. The date is the upload date on Commons.",
+   "alt": "The round carousel of discs inside an opened kiosk",
+   "credit": "Photo: BuickCenturyDriver at English Wikipedia, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inside_Redbox.jpg), CC0."
+  },
+  {
+   "image": "img/kiosk-2020-publix.avif",
+   "date": "Nov 2020",
+   "caption": "The later cabinet design, inside a Publix supermarket in Clearwater, Florida.",
+   "alt": "A red Redbox kiosk with a large screen inside a supermarket",
+   "credit": "Photo: MatthewHoobin, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Redbox_video_rental_kiosk_inside_a_Publix_Super_Market_in_Clearwater,_Florida,_US,_on_15_November_2020.jpg), CC BY-SA 4.0."
+  },
+  {
+   "image": "img/kiosk-2024-cvs.avif",
+   "date": "Jul 2024",
+   "caption": "A kiosk at a CVS pharmacy in Miami, five days after the liquidation was ordered.",
+   "alt": "A Redbox kiosk outside a CVS pharmacy in Miami",
+   "credit": "Photo: Phillip Pessar, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Redbox_at_CVS_pharmacy,_Miami,_Florida,_July_2024.jpg), CC BY 2.0."
+  },
+  {
+   "image": "img/closing-notice-2024.avif",
+   "date": "Jul 2024",
+   "caption": "A supermarket’s notice in Chula Vista, California: out of service after July 22, 2024.",
+   "alt": "Yellow notice taped to a Redbox kiosk",
+   "credit": "Photo: TaurusEmerald, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Redbox_Kiosk_Closing_Notice.jpg), CC BY-SA 4.0."
+  },
+  {
+   "image": "img/out-of-service-2024.avif",
+   "date": "Dec 2024",
+   "caption": "A Walgreens notice on a kiosk in Ripon, California.",
+   "alt": "Paper notice on a kiosk reading This Redbox Kiosk is no longer in service",
+   "credit": "Photo: TaurusEmerald, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Redbox_Out_of_Service_Notice_Walgreens.jpg), CC BY-SA 4.0."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same machine, working and not",
+   "ratio": "4/3",
+   "before": {
+    "label": "2012",
+    "image": "img/kiosk-2012-store.avif",
+    "caption": "A kiosk in service, one of 43,700 at the end of that year.[^11]",
+    "alt": "A Redbox kiosk in service inside a store"
+   },
+   "after": {
+    "label": "Dec 2024",
+    "image": "img/out-of-service-2024.avif",
+    "caption": "A retailer’s notice on a dead kiosk, five months after the shutdown.[^26]",
+    "alt": "Out-of-service notice taped to a Redbox kiosk"
+   },
+   "source": "Photographs from Wikimedia Commons, credited above.[^38] They show different machines in different places."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The kiosk.",
+   "caption": "A red cabinet with a screen and a slot, outside a shop. Original illustration; the sign panel is deliberately blank and it is not the trademarked logo."
+  },
+  {
+   "art": "art/disc-case.svg",
+   "title": "The product.",
+   "caption": "A disc in a slim red case, rented for $1 a day in 2004 and $1.50 from December 2014.[^2][^12] Original illustration."
+  },
+  {
+   "art": "art/unplugged.svg",
+   "title": "The end.",
+   "caption": "A dark screen, a taped notice and a loose plug. Original illustration, not a photograph of a real machine."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#c8102e",
+   "label": "Kiosk red (approx.)"
+  },
+  {
+   "hex": "#fbf9f5",
+   "label": "Sign white"
+  },
+  {
+   "hex": "#2b2a28",
+   "label": "Screen black"
+  }
+ ],
+ "disclaimer": "The red is matched by eye to photographs and is approximate. Redbox and the kiosk design were trademarks of their owners and are shown here in historical and editorial context. The drawings are original and are not the trademarked logo."
+}

@@ -1,0 +1,149 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Coca-Cola’s filings on EDGAR and the trademark register first, then the newspapers and magazines of 1994–1995, then later reporting. The filings say almost nothing about OK, so most of this page rests on contemporary press, read in archived copies.",
+ "list": [
+  {
+   "id": 1,
+   "text": "The Coca-Cola Company, [Form 10-K for fiscal 1994](https://www.sec.gov/Archives/edgar/data/21344/0000021344-95-000007.txt), filed Mar 13, 1995 (EDGAR, CIK 21344). Product list, executive officers and advertising expenditures."
+  },
+  {
+   "id": 2,
+   "text": "The Coca-Cola Company, [Form 10-K for fiscal 1993](https://www.sec.gov/Archives/edgar/data/21344/0000950144-94-000600.txt), filed Mar 14, 1994. Product list."
+  },
+  {
+   "id": 3,
+   "text": "The Coca-Cola Company, [Form 10-K for fiscal 1995](https://www.sec.gov/Archives/edgar/data/21344/0000021344-96-000006.txt), filed Mar 14, 1996. Product list and executive officers."
+  },
+  {
+   "id": 4,
+   "text": "The New York Times, [“Company News; New Product, OK Soda, Is Introduced by Coca-Cola”](https://web.archive.org/web/20150526104910/https://www.nytimes.com/1994/04/21/business/company-news-new-product-ok-soda-is-introduced-by-coca-cola.html), Apr 21, 1994 (archived copy)."
+  },
+  {
+   "id": 5,
+   "text": "Marcy Magiera, [“Come to Generation X: You’re OK, Drink OK”](https://adage.com/article/news/generation-x-drink/87462), Advertising Age, Apr 25, 1994. Paywalled: we could read the headline, byline, date and first sentence only, and cite it for nothing else."
+  },
+  {
+   "id": 6,
+   "text": "John Greenwald, [“Will Teens Buy It?”](https://web.archive.org/web/20240719163623/https://time.com/archive/6725403/will-teens-buy-it/), Time, May 30, 1994 (archived copy)."
+  },
+  {
+   "id": 7,
+   "text": "National Public Radio, All Things Considered, “Coke Hopes to Sell New Drink on How it Feels not Tastes,” May 27, 1994. [Transcript as reproduced on a fan site](https://web.archive.org/web/20041016183939/http://home.pacifier.com/~ntierney/npr.htm), archived by the Internet Archive in 2004. The transcript carries NPR’s notice that it was not proofread against the tape."
+  },
+  {
+   "id": 8,
+   "text": "David Brauer, [“Playing With Our Food: Coca-Cola Puts X-’ers’ Attitude in the Can”](https://web.archive.org/web/20240630162841/https://www.washingtonpost.com/archive/lifestyle/1994/09/03/playing-with-our-food/63dc46c6-818d-40c7-ac93-783df2131534/), The Washington Post, Sep 3, 1994 (archived copy)."
+  },
+  {
+   "id": 9,
+   "text": "The New York Times, [“Phasing Out a Soda”](https://web.archive.org/web/20150526143244/https://www.nytimes.com/1995/09/13/business/phasing-out-a-soda.html), dateline Atlanta, Sep 12; published Sep 13, 1995 (archived copy)."
+  },
+  {
+   "id": 10,
+   "text": "Margot Hornblower, [“Great Xpectations of So-Called Slackers”](https://web.archive.org/web/20120401223258/http://www.time.com/time/magazine/article/0,9171,986481-1,00.html), Time, Jun 9, 1997 (archived copy)."
+  },
+  {
+   "id": 11,
+   "text": "US Patent and Trademark Office, Trademark Status and Document Retrieval, [OK, serial no. 74560509, registration no. 2045286](https://tsdr.uspto.gov/statusview/sn74560509). Filed Aug 10, 1994; first use May 6, 1994; registered Mar 18, 1997; cancelled Dec 20, 2003. Checked Oct 8, 2026."
+  },
+  {
+   "id": 12,
+   "text": "US Patent and Trademark Office, Trademark Status and Document Retrieval, [OK, registration no. 1093933](https://tsdr.uspto.gov/statusview/rn1093933). Registered Jun 20, 1978 for soft drinks; expired Mar 30, 1999. Checked Oct 8, 2026."
+  },
+  {
+   "id": 13,
+   "text": "Michael Schulman, [“Everything Is Going to Be OK”](https://www.thebeliever.net/everything-is-going-to-be-ok/), The Believer, issue 105, Feb 1, 2014. Interviews with Peter Wegner, Todd Waterbury and Daniel Clowes; quotes Mark Pendergrast’s book For God, Country, and Coca-Cola."
+  },
+  {
+   "id": 14,
+   "text": "Dave Gilson, [“Clowes Encounter: An Interview With Daniel Clowes”](https://www.motherjones.com/media/2010/05/dan-clowes-comics-cartoons-interview), Mother Jones, May 13, 2010."
+  },
+  {
+   "id": 15,
+   "text": "Time, [“Top 10 Bad Beverage Ideas: OK Soda”](https://content.time.com/time/specials/packages/article/0,28804,1913612_1913610_1913576,00.html), 2010."
+  },
+  {
+   "id": 16,
+   "text": "Jake Rossen, [“OK Soda: The ’90s Soft Drink for Gen X That Fell Flat”](https://www.mentalfloss.com/food/beverages/ok-soda-coca-cola-history), Mental Floss, Dec 21, 2023."
+  },
+  {
+   "id": 17,
+   "text": "Ashawnta Jackson, [“Sells Like Teen Spirit”](https://daily.jstor.org/sells-like-teen-spirit/), JSTOR Daily, Aug 5, 2021."
+  },
+  {
+   "id": 18,
+   "text": "Tedium, [“OK Soda Marketing History: Not Good, Not Bad, Just OK”](https://tedium.co/2020/05/05/ok-soda-branding-history/), May 5, 2020."
+  },
+  {
+   "id": 19,
+   "text": "Kat Craddock, [“Remember Coca-Cola’s OK Soda?”](https://www.saveur.com/story/drink/remember-coca-cola-ok-soda/), Saveur, Nov 11, 2020."
+  },
+  {
+   "id": 20,
+   "text": "Angela L. Pagán, [“Whatever Happened To Fruitopia, The Discontinued Drink That Ruled The ’90s?”](https://www.thetakeout.com/1723441/discontinued-90s-fruitopia-drink/), The Takeout, Dec 2, 2024."
+  },
+  {
+   "id": 21,
+   "text": "Wikimedia Commons, [File:OK Soda Original 4.jpg](https://commons.wikimedia.org/wiki/File:OK_Soda_Original_4.jpg), photograph by TeemPlayer, dated Nov 23, 2006, CC BY-SA 3.0."
+  },
+  {
+   "id": 22,
+   "text": "YouTube upload pages for the videos embedded on this page (titles, uploaders and upload dates): [“OK Soda Broadcast Ads, 1994”](https://www.youtube.com/watch?v=bQFN45_puoY), [“OK Soda - Thanks for being a devoted caller”](https://www.youtube.com/watch?v=4kVkltl8gRQ), [“1994 OK Soda Commercial”](https://www.youtube.com/watch?v=WaKkmaqx9V8), [“OK Soda Commercials! All Of Them (I Think)”](https://www.youtube.com/watch?v=biNPg50jN3g) and [Slate’s Decoder Ring episode](https://www.youtube.com/watch?v=Ewzvsef1UQo)."
+  },
+  {
+   "id": 23,
+   "text": "US Patent and Trademark Office, Trademark Status and Document Retrieval, OK, [serial no. 74507912](https://tsdr.uspto.gov/statusview/sn74507912) (filed Apr 1, 1994) and [serial no. 74544010](https://tsdr.uspto.gov/statusview/sn74544010) (filed Jun 27, 1994). Both abandoned by the applicant on Feb 3, 1995. Checked Oct 8, 2026."
+  }
+ ],
+ "notes": [
+  {
+   "label": "What is measured and what is not",
+   "text": "Coca-Cola never published sales, share or spending for OK. Its annual reports on Form 10-K name the product once, in the list for 1994.[^1][^2][^3] The only sales figure is a spokesman’s “more than one million cases” in September 1995.[^9] Everything else on this page that looks like a number comes from the press and is attributed where it appears."
+  },
+  {
+   "label": "Eight cities or nine",
+   "text": "Time (May 1994 and June 1997), The Believer and JSTOR Daily say nine test cities; The Washington Post (September 1994) and Mental Floss say eight.[^6][^10][^13][^17][^8][^16] We give both. The cities named in the period sources we read are Boston, Seattle, Austin, Denver and Minneapolis–St. Paul; Saveur adds Providence.[^6][^7][^8][^19] We could not find a complete official list, and longer lists that circulate online are **unverified**."
+  },
+  {
+   "label": "May or July 1994",
+   "text": "The New York Times item of September 1995 says the drink had been sold “since its introduction in July 1994.”[^9] NPR had it on sale on May 27, The Washington Post says test marketing began in May, and the trademark record gives first use as May 6, 1994.[^7][^8][^11] We use May and note the discrepancy. We do not know whether the million cases were counted from May or July."
+  },
+  {
+   "label": "The target",
+   "text": "“3 to 4 percent of the $50 billion worldwide soft-drink market” is The Washington Post’s wording in September 1994; it does not say who set the target.[^8] The Believer (2014) says Zyman predicted “a billion dollars and 4 percent of the US soft-drink share,” without a period citation; treat that version as secondary.[^13] A similar figure is attributed to an Advertising Age article whose full text we could not read, so we do not cite it for this.[^5] A claim found online that the drink reached 3% in some markets has no source we could trace and is left out as **unverified**."
+  },
+  {
+   "label": "Derived figures",
+   "text": "**Derived:** one million cases over about 14 months (July 1994 to September 1995, using the Times’s start date) is roughly 71,000 cases a month (1,000,000 ÷ 14 ≈ 71,400); from May it would be about 16 months and roughly 62,500.[^9] Mountain Dew’s 3.5% share is about 11.7 times Mello Yello’s 0.3% (3.5 ÷ 0.3), drawn as 12 bottles.[^6] Coca-Cola’s advertising rose $182 million, about 16%, from 1993 to 1994 ($1,308M − $1,126M; 182 ÷ 1,126).[^1] “About sixteen months” on sale is May 1994 to September 1995. The spokesman’s remarks are dated to Monday, September 11, 1995 from the Times’s Tuesday, September 12 dateline.[^9] The March 1997 registration came about eighteen months after the September 1995 phase-out.[^11]"
+  },
+  {
+   "label": "The card and chart series",
+   "text": "The series 0, 0, 9, 8, 0 on the homepage card, in the “Sixteen months in test” graphic and in the rivals sparkline is a count of test cities as reported by two different publications (nine by Time in May 1994, eight by The Washington Post in September 1994).[^6][^8] The zeros before the launch and after the phase-out are plotting conventions, not measurements. It is a mix of sources, not a company series."
+  },
+  {
+   "label": "Plans that did not happen",
+   "text": "Time reported in May 1994 that Coca-Cola would roll OK out across the United States that summer and abroad by year-end; The Washington Post reported in September 1994 that it planned to introduce it in four other countries.[^6][^8] The 1995 and 1997 sources describe only a test in eight or nine cities.[^9][^10] We found no evidence of a national or foreign launch, but we did not find a statement cancelling one either."
+  },
+  {
+   "label": "Secondary and recollected claims",
+   "text": "That the name was chosen because O.K. outranks Coca-Cola in worldwide recognition is Coca-Cola’s own claim, repeated in 1994; we did not find the research behind it.[^6][^7][^8] Daniel Clowes’s statements about the Manson likeness and his fee are his recollections, 16 and 20 years later.[^14][^13] His remark that the drink “was gone in two months” does not match the record.[^14][^9] “Millions of kids” calling the hotline is Mark Pendergrast’s phrase as quoted by The Believer; we did not consult the book.[^13] Fruitopia’s 2003 US phase-out is from a 2024 food-site article, not from Coca-Cola.[^20] The trademark records list Coca-Cola as owner of the 1978 registration; we did not check who first applied for it or what product it covered.[^12]"
+  },
+  {
+   "label": "Trademark status and tier",
+   "text": "The Dead tag rests on the two USPTO records for OK that are tied to the soda, both dead when checked on October 8, 2026, and on finding no product or re-release.[^11][^12] We did not run a full search of every mark containing OK, and Coca-Cola may hold others. Advertising Age’s page returns a bot block to scripted requests and a paywall after the first sentence. The New York Times, Time and Washington Post articles are cited from Internet Archive copies that we read in full."
+  },
+  {
+   "label": "Dates of videos",
+   "text": "The 1994 dates on the commercials are the uploaders’. Upload dates are from the YouTube pages.[^22] We could not confirm when the hotline recording was made."
+  },
+  {
+   "label": "General knowledge",
+   "text": "Mountain Dew, Mello Yello and Sprite are still sold. The Coca-Cola Company is headquartered in Atlanta, Georgia. New Coke was introduced in 1985. September 11, 1995 was a Monday."
+  },
+  {
+   "label": "Sources we could not open",
+   "text": "The full text of Advertising Age’s April 25, 1994 article; the Marketing News and Beverage World pieces of May 1994 quoted by Tedium; the Atlanta newspaper survey of teenagers mentioned by The Believer; Mark Pendergrast’s For God, Country, and Coca-Cola and Sergio Zyman’s The End of Marketing as We Know It. Nothing here relies on them directly. Wikipedia was used only to find sources."
+  }
+ ]
+}

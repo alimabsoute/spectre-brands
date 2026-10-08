@@ -1,0 +1,62 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "“You’re going to go out for that.”",
+ "lede": "Kozmo advertised on cable television from 1999. The title is a line from the “Lucy” spot, as transcribed in its uploader’s description.[^30] The spots below are third-party uploads; where a date comes only from the uploader, the caption says so. The last one is from the company that owns the name now.",
+ "videos": [
+  {
+   "id": "spot1999",
+   "title": "Kozmo.com commercial",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "fwMC3etLH1A",
+   "caption": "A 36-second spot uploaded in 2017 by a collector who dates it to 1999. We could not confirm the year. Kozmo’s filing says its cable television advertising began in 1999.[^1][^30]"
+  },
+  {
+   "id": "godfather",
+   "title": "Kozmo.com TV spot, “Godfather”",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "Z2yMnD3cekU",
+   "caption": "Uploaded in 2021 by Media Vision Advertising with no air date. The year shown is approximate: the spot promises free delivery in under an hour, which dates it to before the fee of January 2001.[^12][^30]"
+  },
+  {
+   "id": "lucy",
+   "title": "Kozmo.com TV commercial, “Lucy”",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "jA1czzSmxRg",
+   "caption": "From the same uploader, also undated; the year shown is approximate. The pitch is the one the company was built on: why go out for a magazine, a video or ice cream.[^30]"
+  },
+  {
+   "id": "hoffman",
+   "title": "Kozmo.com commercial with Jackie Hoffman",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "nYCE_sti4lc",
+   "caption": "A fan upload from 2013, titled by the uploader as a Kozmo.com commercial featuring the comedian Jackie Hoffman. The air date is not given and the year shown is approximate.[^30]"
+  },
+  {
+   "id": "edreams",
+   "title": "e-Dreams, the Kozmo documentary",
+   "year": 2001,
+   "type": "documentary",
+   "provider": "youtube",
+   "embedId": "dZttv5xfJ0g",
+   "caption": "Wonsuk Chin’s feature documentary followed Joseph Park and Yong Kang through the rise and the collapse. This is a third-party upload titled “E Dreams 2001”, not the distributor’s; the distributor’s page is in the sources.[^29]"
+  },
+  {
+   "id": "revival2021",
+   "title": "“Kozmo.com Delivers Groceries in 30 Minutes!”",
+   "year": 2021,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "v7lk7TGZAS8",
+   "caption": "Published on July 30, 2021 by a channel named Kozmo Dot Com. Its description announces 30-minute grocery delivery in the San Fernando Valley from July 2021. This is the revived brand, not the original company.[^28]"
+  }
+ ],
+ "note": "We found no embeddable television news report of the April 2001 shutdown."
+}

@@ -1,0 +1,80 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The red box on television",
+ "lede": "Redbox advertised mostly on its own kiosks, so there is little classic television to show. What survives is business news from the growth years, two of the company’s own promotions, and local news from the week it was switched off.",
+ "videos": [
+  {
+   "id": "sony2009",
+   "title": "Bloomberg: “Sony To Source Moviews To Redbox Kiosks” (sic)",
+   "year": 2009,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "EFHqGRDXyDE",
+   "caption": "A short Bloomberg report published on July 21, 2009, four days after the Sony licence was signed. The description gives more than 17,000 Redbox machines at the time.[^7][^37]"
+  },
+  {
+   "id": "cnn2010",
+   "title": "CNN Business: “Redbox: We will stream movies”",
+   "year": 2010,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "LvNplvEAumo",
+   "caption": "Published on September 3, 2010. Coinstar’s chief executive says Redbox will use its customer base to compete with Netflix’s streaming service. The joint venture that tried it launched in 2013 and Redbox left it in 2014.[^37][^11][^12]"
+  },
+  {
+   "id": "halloween2010",
+   "title": "“This Halloween, Get Your Gore at Redbox”",
+   "year": 2010,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "P4iIqnrAbZ8",
+   "caption": "A promotion published on Redbox’s own YouTube channel on October 19, 2010. We do not know whether it ran on television."
+  },
+  {
+   "id": "cnn2011",
+   "title": "CNN Business: “Redbox: DVDs are not dead”",
+   "year": 2011,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "S3nebiyhUkM",
+   "caption": "Published on September 12, 2011. The description names Coinstar chief executive Paul Davis and says Redbox will add to its 33,000 kiosks. The count reached about 44,000 two years later and never went higher.[^37][^11]"
+  },
+  {
+   "id": "datenight",
+   "title": "“Redbox | Date Night”",
+   "year": 2018,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "9_m-i6fK-Cw",
+   "caption": "A one-minute spot from Redbox’s own channel, published on December 31, 2018. The channel’s description says it first aired during the 2018 Redbox Bowl, the college football game the company sponsored."
+  },
+  {
+   "id": "wcnc2024",
+   "title": "WCNC Charlotte: “Redbox kiosks officially shutting down”",
+   "year": 2024,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "BwdGR6SK3u0",
+   "caption": "A local morning news segment published on July 12, 2024, two days after the case was converted to Chapter 7.[^26]"
+  },
+  {
+   "id": "abc4",
+   "title": "ABC4 Utah: “Redbox kiosks turned off after company files for bankruptcy”",
+   "year": 2024,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "ZmcknmsURiY",
+   "caption": "Published on September 16, 2024, as the machines went dark store by store."
+  },
+  {
+   "id": "sixmonths",
+   "title": "“6 months after SHUTDOWN... do Redbox Kiosks STILL work?”",
+   "year": 2025,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "Gke6zYdQLZQ",
+   "caption": "A hobbyist’s video published on April 13, 2025, visiting kiosks that had been left powered on. It is one person’s footage, not a source for any figure on this page."
+  }
+ ],
+ "note": "Videos are embedded from YouTube and load only when you press play. Publication dates are those shown on YouTube. Statements credited to a video’s description are the uploader’s."
+}

@@ -1,0 +1,124 @@
+{
+ "name": "3DO",
+ "number": "030",
+ "tier": "ghost",
+ "tierWhy": "The 3DO Company sold its assets at a bankruptcy auction on August 14, 2003 and nothing is sold under the 3DO name today, but the name is still held and fought over: in July 2026 two unrelated firms each claimed a 3DO trademark, and a third sells games the company once owned.[^16][^35][^33]",
+ "category": "games",
+ "cause": "management",
+ "years": "1991 – 2003",
+ "died": 2003,
+ "dates": [
+  {
+   "date": "1995-12-07",
+   "text": "licensed its unreleased M2 console technology to Matsushita for $100 million"
+  },
+  {
+   "date": "1997-06-23",
+   "text": "sold what was left of its hardware business to Samsung for $20 million"
+  },
+  {
+   "date": "2003-05-28",
+   "text": "filed for Chapter 11 in the Northern District of California"
+  },
+  {
+   "date": "2003-08-14",
+   "text": "had its games and patents auctioned in bankruptcy court for $4,585,000"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Game console standard, then game publisher · Redwood City, California",
+ "title": "3DO (1991–2003): post-mortem · Spectre Brands",
+ "description": "A $699 console nobody at 3DO manufactured, a $100 million sale of its successor, and a second life as the publisher of Army Men: a sourced post-mortem of The 3DO Company, from its SEC filings and the press of the time.",
+ "theme": {
+  "accent": "#1f5fae",
+  "soft": "#eaf1fb"
+ },
+ "card": {
+  "blurb": "Trip Hawkins designed a console and let other companies build it and price it. It launched at $699. A decade and one reinvention later, everything 3DO owned sold for $4.6 million.",
+  "stat": {
+   "value": "$4.6M",
+   "label": "raised when every game and patent was auctioned"
+  },
+  "spark": [
+   10.3,
+   30.4,
+   37.9,
+   92.4,
+   38.9,
+   48.0,
+   122.2,
+   82.8,
+   53.7,
+   30.0
+  ],
+  "peak": 6
+ },
+ "hero": {
+  "dates": "Began operations Oct 1991. Console launched Oct 1993. Chapter 11 on May 28, 2003.",
+  "standfirst": "3DO failed twice: first as the company that would set the standard for every living-room machine, then as the publisher of little green plastic soldiers.",
+  "deck": "The 3DO Company did not make its own console. It designed one, licensed the design to Matsushita, Goldstar and others, and planned to live on a royalty from every disc. The machine reached stores in October 1993 at $699 with almost nothing to play. Three years later 3DO sold its next-generation design for $100 million and became a software publisher, had one profitable year on the back of Army Men, and filed for Chapter 11 in May 2003. This post-mortem is built from the company’s 10-K, 10-Q and 8-K filings on SEC EDGAR and from The New York Times, the Los Angeles Times and trade coverage of the period.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration in the spirit of the first 3DO console. Not an official asset; the shapes above it are our own and are not the 3DO logo.",
+  "motion": "spin",
+  "archive": [
+   {
+    "image": "img/fz1-console-set.avif",
+    "caption": "Panasonic FZ-1, the first 3DO machine",
+    "alt": "Black Panasonic 3DO console with its controller"
+   },
+   {
+    "image": "img/archive-1996-12-home.avif",
+    "caption": "3do.com, Dec 1996",
+    "alt": "3do.com home page in December 1996 with links for The Company, Studio 3DO and 3DO Systems"
+   },
+   {
+    "image": "img/archive-2003-04-home.avif",
+    "caption": "3do.com, Apr 2003",
+    "alt": "3do.com home page in April 2003 with the line We’re Here to Play"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "$699",
+    "text": "price of the first 3DO machine in October 1993, when rival consoles sold for as little as $89[^20][^23]"
+   },
+   {
+    "value": "$100M",
+    "text": "upfront fee Matsushita paid in 1995–96 for the M2 design, a console it never released[^1][^26]"
+   },
+   {
+    "value": "$262.0M",
+    "text": "accumulated deficit on December 31, 2002, in the last balance sheet 3DO filed[^8]"
+   },
+   {
+    "value": "$4.6M",
+    "text": "total paid for its games, tools and patents at the bankruptcy auction ($4,585,000)[^16]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It set the price of nothing it sold.",
+   "text": "3DO licensed the design and collected royalties; Matsushita built the machine and priced it at $699. Hawkins said in 1996: “we had all our eggs in one basket, and we didn’t have control of the basket.”[^20][^25]"
+  },
+  {
+   "title": "The hardware made money only when it was sold off.",
+   "text": "3DO lost $150.5M (derived) from its start to March 1996. Its only large profits, in fiscal 1997 and 1998, came from Matsushita’s $100M licence fee and a $20M sale to Samsung.[^1][^3][^4]"
+  },
+  {
+   "title": "The second company depended on three brands.",
+   "text": "In fiscal 1999 Army Men, BattleTanx and Might and Magic made up about 75% of revenue.[^4] Revenue peaked at $122.2M in fiscal 2000 and fell to $53.7M two years later.[^5][^7]"
+  },
+  {
+   "title": "The founder was the lender of last resort.",
+   "text": "Trip Hawkins lent the company $3M in October 2002 and agreed to lend up to $8M that December. It filed for Chapter 11 five months later.[^10][^11][^14]"
+  },
+  {
+   "title": "The name outlived the assets.",
+   "text": "The games went to seven bidders in 2003. In 2026 two firms were still disputing who owns the 3DO trademark.[^16][^35]"
+  }
+ ]
+}

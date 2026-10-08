@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Leave Computer City alone",
+   "actual": "CompUSA agreed in June 1998 to pay about $275M for Computer City and closed the deal at about $175M. It shut 59 of the 96 U.S. stores, and the 37 it kept sold $711 a square foot against $1,177 at its own stores.[^4][^2] Fiscal 1999 ended with a $45.7M loss.[^2]",
+   "whatif": "Tandy wanted out of computer superstores either way. Had CompUSA simply let the rival close, it would have kept about $175M and avoided a year of conversions, at the price of letting someone else pick up the better locations. The fall in computer prices would have arrived on the same schedule."
+  },
+  {
+   "tab": "Shrink in 2000, not 2007",
+   "actual": "The chain had 217 superstores when it was sold in January 2000 and about 225 stores in February 2007, when it announced 126 closings in one day.[^5][^12] By then, by one report, the owner had put about $2 billion into it.[^14]",
+   "whatif": "A new private owner in 2000 could have cut to the hundred or so strongest stores at once, as was done seven years later. A smaller CompUSA aimed at small businesses and enthusiasts, the customers it said it wanted in 2007[^13], might have lasted longer. Whether it would have been worth $10.10 a share is another matter."
+  },
+  {
+   "tab": "Sell more than computers",
+   "actual": "CompUSA described itself to the end of its public life as a retailer of “personal computers and related products and services.”[^2] It bought a consumer electronics chain, Good Guys, only in 2003.[^10] Best Buy, which sold computers as one category among several, was half again as large by fiscal 1999.[^23][^2]",
+   "whatif": "Moving into televisions and audio in the mid-1990s, when CompUSA was earning its best profits, would have meant competing with Best Buy and Circuit City on their ground rather than waiting for them on its own. It would also have meant a different company from the one its customers knew."
+  }
+ ]
+}

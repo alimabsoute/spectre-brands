@@ -1,0 +1,101 @@
+{
+ "kicker": "Where is it now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Lapsed",
+   "color": "var(--mute)",
+   "title": "The name",
+   "text": "Coca-Cola’s registration for the OK soft drink mark issued in March 1997 and was cancelled in December 2003 because no declaration of continued use was filed. The older 1978 registration expired in 1999.[^11][^12] We did not search for every OK mark Coca-Cola may hold; these are the two tied to the soda."
+  },
+  {
+   "status": "Gone",
+   "color": "var(--red)",
+   "title": "The drink",
+   "text": "Phased out of its test markets from September 1995.[^9] It was never sold nationally, and we found no re-release."
+  },
+  {
+   "status": "Collected",
+   "color": "var(--gold)",
+   "title": "The cans and posters",
+   "text": "Daniel Clowes said in 2010 that the cans were “quite valuable.”[^14] The Believer found poster art selling for hundreds of dollars on eBay in 2014.[^13]"
+  },
+  {
+   "status": "Moved on",
+   "color": "var(--green)",
+   "title": "The makers",
+   "text": "Peter Wegner left advertising and became an artist. Todd Waterbury was executive creative director at Target by 2014.[^13] The Washington Post reported in 1994 that their agency had won the Microsoft account partly on the basis of Coca-Cola’s faith in it.[^8]"
+  },
+  {
+   "status": "Unknown",
+   "color": "var(--blue)",
+   "title": "The hotline",
+   "text": "1-800-I-FEEL-OK was paused in early September 1994 with a promise to return on the 12th.[^8] We could not find when it was switched off."
+  },
+  {
+   "status": "Outlived it, then went too",
+   "color": "var(--mute)",
+   "title": "Fruitopia",
+   "text": "Zyman’s other 1994 launch stayed in Coca-Cola’s product list after OK left it and was phased out in the United States in 2003, by a later account.[^3][^20]"
+  },
+  {
+   "status": "Vindicated, in part",
+   "color": "var(--green)",
+   "title": "The idea",
+   "text": "Advertising that admits it is advertising is now ordinary, as later writers on OK point out.[^18][^17] Wegner’s verdict was that people wanted the brand and did not want the drink.[^13]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "One owner, two dead registrations",
+   "subtitle": "The name was never sold. Coca-Cola held it before the soda existed and let it go after.",
+   "nodes": [
+    {
+     "when": "Jun 1978",
+     "owner": "The Coca-Cola Company",
+     "what": "OK is registered for soft drinks, with first use in commerce given as February 1975.[^12]"
+    },
+    {
+     "when": "Apr – Aug 1994",
+     "owner": "The Coca-Cola Company",
+     "what": "Three new applications for OK. Two are abandoned in February 1995; the third, the red-boxed mark, proceeds.[^23][^11]"
+    },
+    {
+     "when": "May 1994",
+     "owner": "The Coca-Cola Company",
+     "what": "OK soda goes on sale in eight or nine US test cities.[^6][^8]",
+     "price": "1M+ cases"
+    },
+    {
+     "when": "Sep 1995",
+     "owner": "The Coca-Cola Company",
+     "what": "The drink is phased out.[^9]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Mar 1997",
+     "owner": "The Coca-Cola Company",
+     "what": "The 1994 application matures into a registration, eighteen months after the product ended.[^11]"
+    },
+    {
+     "when": "Mar 1999",
+     "owner": "The Coca-Cola Company",
+     "what": "The 1978 registration expires, not renewed.[^12]"
+    },
+    {
+     "when": "Dec 2003",
+     "owner": "The Coca-Cola Company",
+     "what": "The 1997 registration is cancelled.[^11]"
+    },
+    {
+     "when": "Today",
+     "owner": "No live registration that we found",
+     "what": "Both records were dead when checked on October 8, 2026. No drink is sold under the name.[^11][^12]",
+     "status": "current"
+    }
+   ],
+   "source": "US Patent and Trademark Office, Trademark Status and Document Retrieval[^11][^12][^23]; Time[^6]; The Washington Post[^8]; The New York Times[^9]."
+  }
+ ]
+}

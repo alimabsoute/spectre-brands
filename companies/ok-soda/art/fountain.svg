@@ -1,0 +1,13 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a self-serve soda fountain with every nozzle pouring into one paper cup">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 226 L310 226" fill="none" stroke="#9aa0a6" stroke-width="2"/>
+<rect x="40" y="24" width="240" height="84" rx="6" fill="#7d8288"/>
+<g stroke-width="2.4"><rect x="56" y="40" width="34" height="40" fill="#b3261e"/><rect x="100" y="40" width="34" height="40" fill="#3f8a5a"/><rect x="144" y="40" width="34" height="40" fill="#8a6212"/><rect x="188" y="40" width="34" height="40" fill="#e08a1e"/><rect x="232" y="40" width="34" height="40" fill="#5b3a2e"/></g>
+<g fill="#5f6368" stroke-width="2.4"><rect x="66" y="108" width="14" height="14"/><rect x="110" y="108" width="14" height="14"/><rect x="154" y="108" width="14" height="14"/><rect x="198" y="108" width="14" height="14"/><rect x="242" y="108" width="14" height="14"/></g>
+<g fill="none" stroke-width="3"><path d="M73 122 C73 150 130 140 146 164" stroke="#b3261e"/><path d="M117 122 C117 146 142 146 152 164" stroke="#3f8a5a"/><path d="M161 122 L161 164" stroke="#8a6212"/><path d="M205 122 C205 146 180 146 170 164" stroke="#e08a1e"/><path d="M249 122 C249 150 192 140 176 164" stroke="#5b3a2e"/></g>
+<path d="M128 160 L194 160 L186 224 L136 224 Z" fill="#ffffff"/>
+<path d="M131 180 L191 180 L186 222 L136 222 Z" fill="#7a3b2a" stroke="none"/>
+<path d="M128 160 L194 160" stroke-width="3"/>
+<rect x="36" y="210" width="248" height="14" fill="#8b9096" stroke-width="2.4"/>
+<text x="258" y="176" text-anchor="middle" font-family="Caveat, cursive" font-size="19" fill="#1d1b18" stroke="none">all of them</text>
+</g></svg>

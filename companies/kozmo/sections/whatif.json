@@ -1,0 +1,27 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Four decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Charge for delivery from day one",
+   "actual": "Kozmo delivered free, with no minimum order, from March 1998 until January 2001, when it added a charge of about $2 on orders under $25 to $30. Investors expected the fee to raise $20M to $25M.[^1][^12][^18]",
+   "whatif": "A fee and a minimum in 1999 would have meant fewer customers and a slower story to tell investors, and much less money lost per order. The 2005 successor MaxDelivery and the 2018 relaunch of the Kozmo name both started with a minimum order and a delivery fee.[^20][^23] Whether Kozmo could have raised $232M with those terms is another question."
+  },
+  {
+   "tab": "Stay in New York",
+   "actual": "The company opened in ten more cities between June 1999 and September 2000. In its last week it was reported to be ready to close all of them except New York and Boston in exchange for $3M.[^1][^6][^14]",
+   "whatif": "A two-city Kozmo with a fee might have been a small, real business, which is roughly what MaxDelivery set out to be in lower Manhattan.[^20] It would not have justified a $150M Starbucks contract or a Nasdaq listing, and its investors had paid for a national company."
+  },
+  {
+   "tab": "File three months earlier",
+   "actual": "Kozmo filed for its IPO on March 21, 2000, days after the Nasdaq peaked, and withdrew the filing on August 18.[^1][^2]",
+   "whatif": "An offering completed in late 1999 or January 2000 might have raised the $150M. Other delivery companies that did go public in that window still ran out of money in 2001. The cash would have bought time to fix the order economics, not the fix itself."
+  },
+  {
+   "tab": "Buy Urbanfetch",
+   "actual": "Talks to acquire the New York rival Urbanfetch ended in October 2000 after months of negotiation, and Urbanfetch left the consumer business days later.[^11][^12]",
+   "whatif": "A merger would have ended a giveaway war in Manhattan a few months sooner. A consultant quoted at the time thought it would help but would not “solve the fundamental problems of the business.”[^15] Kozmo got the Manhattan market to itself anyway and closed six months later."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a tall, leaning tower of coloured toy blocks with the top blocks falling off">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M30 300 H410"/>
+<rect x="150" y="252" width="48" height="48" fill="#2f8fd0"/><rect x="198" y="252" width="48" height="48" fill="#f2b632"/><rect x="246" y="252" width="48" height="48" fill="#3fa66b"/>
+<rect x="172" y="204" width="48" height="48" fill="#e2483d"/><rect x="220" y="204" width="48" height="48" fill="#6a3fa0"/>
+<rect x="190" y="156" width="48" height="48" fill="#f2b632" transform="rotate(3 214 180)"/>
+<rect x="200" y="108" width="48" height="48" fill="#3fa66b" transform="rotate(7 224 132)"/>
+<rect x="216" y="60" width="48" height="48" fill="#2f8fd0" transform="rotate(13 240 84)"/>
+<rect x="268" y="30" width="44" height="44" fill="#e2483d" transform="rotate(32 290 52)"/>
+<rect x="328" y="92" width="40" height="40" fill="#f2b632" transform="rotate(52 348 112)"/>
+<path d="M322 44 q14 8 18 24 M372 138 q8 14 4 30" stroke-width="2" stroke-dasharray="4 6"/>
+<path d="M162 268 h24 M210 268 h24 M258 268 h24 M184 220 h24 M232 220 h24" stroke="#fbf9f5" stroke-width="4"/>
+<rect x="60" y="270" width="30" height="30" fill="#6a3fa0"/><rect x="340" y="270" width="30" height="30" fill="#e2483d" transform="rotate(-12 355 285)"/>
+<path d="M120 96 l6 -14 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 Z" fill="#f2b632"/>
+</g></svg>

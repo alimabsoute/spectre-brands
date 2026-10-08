@@ -1,0 +1,96 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The company",
+   "text": "Kozmo said on April 11, 2001 that it was liquidating its assets, and stressed that it was not filing for bankruptcy.[^3][^6] What creditors and shareholders received is not in our sources. Amazon had invested **$60M**.[^1]"
+  },
+  {
+   "status": "Revived",
+   "color": "var(--green)",
+   "title": "The name",
+   "text": "Yummy Foods, LLC of Los Angeles has held two KOZMO trademark registrations since October 2011 and renewed them in March 2022.[^25] It relaunched kozmo.com as a grocery delivery site in Los Angeles in March 2018 and advertised 30-minute delivery in 2021.[^23][^28] The Internet Archive has no capture of the site after May 20, 2022, and it did not load for us in October 2026, so we cannot say the service is operating today.[^27]"
+  },
+  {
+   "status": "Imitated",
+   "color": "var(--blue)",
+   "title": "The idea",
+   "text": "Former technology chief Chris Siragusa opened MaxDelivery in Tribeca by 2005: one-hour delivery, a $10 minimum and a $4.95 charge on orders under $50.[^20]"
+  },
+  {
+   "status": "Dispersed",
+   "color": "var(--mute)",
+   "title": "The founders",
+   "text": "By 2008 Joseph Park had co-founded Askville, a question-and-answer site owned by Amazon, and Yong Kang was listed as working in investment banking at Lehman Brothers.[^21]"
+  },
+  {
+   "status": "Laid off",
+   "color": "var(--mute)",
+   "title": "The employees",
+   "text": "About 1,100 people lost their jobs on the last day, most of them couriers and warehouse staff. Only salaried employees, about a quarter, were offered severance.[^6][^7]"
+  },
+  {
+   "status": "On film",
+   "color": "var(--gold)",
+   "title": "The documentary",
+   "text": "Wonsuk Chin’s documentary e-Dreams followed Park and Kang through the company’s rise and fall. It is in the catalogue of the distributor 7th Art Releasing.[^29]"
+  },
+  {
+   "status": "Removed",
+   "color": "var(--red)",
+   "title": "The drop boxes",
+   "text": "The 500 orange return boxes in Starbucks stores were to be taken out in the last week of March 2001, two weeks before the company closed.[^8]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "subtitle": "The original company let its trademark application lapse. Two later applicants picked the name up.",
+   "nodes": [
+    {
+     "when": "1997",
+     "owner": "Kozmo.com, Inc.",
+     "what": "Founded in New York by Joseph Park and Yong Kang.[^1]"
+    },
+    {
+     "when": "Dec 1999",
+     "owner": "Kozmo.com, Inc.",
+     "what": "Applies to register KOZMO.COM. The application is abandoned on December 7, 2000 for failure to respond to the trademark office.[^26]"
+    },
+    {
+     "when": "Apr 2001",
+     "owner": "Kozmo.com, Inc., in liquidation",
+     "what": "Operations end on April 11, 2001. Who bought the domain and other assets is not in our sources.[^3]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Sep 2007",
+     "owner": "EXIM Brands LLC",
+     "what": "An Evanston, Illinois company applies for KOZMO.COM. Abandoned in June 2008.[^26]"
+    },
+    {
+     "when": "Oct 2011",
+     "owner": "Yummy Foods, LLC",
+     "what": "Registers KOZMO for online grocery retail and delivery. What it paid for the domain, if anything, is not public.[^22][^25]",
+     "price": "not disclosed"
+    },
+    {
+     "when": "Mar 2018",
+     "owner": "Yummy Foods, LLC",
+     "what": "Relaunches Kozmo.com in Los Angeles through its Yummy.com grocery business.[^23]"
+    },
+    {
+     "when": "Today",
+     "owner": "Yummy Foods, LLC",
+     "what": "Both registrations are live, renewed March 1, 2022. The website did not load in October 2026.[^25][^27]",
+     "status": "current"
+    }
+   ],
+   "source": "USPTO trademark status records[^25][^26], CNNMoney[^22], Supermarket News[^23] and the Form S-1.[^1]"
+  }
+ ]
+}

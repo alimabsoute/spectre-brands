@@ -1,0 +1,37 @@
+{
+ "kicker": "The people",
+ "title": "Who made it, who backed it, who switched it off",
+ "lede": "Titles are as given in the press at the time. Later careers are left out where we have no source we opened.",
+ "people": [
+  {
+   "name": "Julie Uhrman",
+   "role": "Founder and CEO, 2012 – 2015",
+   "text": "Described by The Verge in 2012 as coming from IGN. She fronted the Kickstarter campaign, defended the first month’s sales as “better than we expected,” wrote the 2015 memo that put the company up for sale and announced her departure the day Razer confirmed the deal.[^2][^14][^24][^26]"
+  },
+  {
+   "name": "Yves Béhar",
+   "role": "Designer, fuseproject",
+   "text": "The designer of the Jambox speaker, named on the Kickstarter page as the console’s designer. A $5,000 reward tier offered a day with him and his team in San Francisco; four backers took it.[^1]"
+  },
+  {
+   "name": "Muffi Ghadiali",
+   "role": "Product lead (as reported in 2012)",
+   "text": "The Verge reported in July 2012 that he appeared to be leaving Amazon’s Lab126, where he had helped ship the Kindle, for Ouya.[^2] His exact title is not in our sources."
+  },
+  {
+   "name": "Ed Fries",
+   "role": "Adviser",
+   "text": "Listed among the project’s advisers in 2012, with Amol Sarva and Peter Pham. The Verge described him as “of Xbox fame.”[^2]"
+  },
+  {
+   "name": "Matt Thorson",
+   "role": "Developer of TowerFall",
+   "text": "Made the console’s best-selling game. It sold about 7,000 copies there, and did better once it moved to PlayStation 4 and PC.[^21]"
+  },
+  {
+   "name": "Min-Liang Tan",
+   "role": "Co-founder and CEO, Razer",
+   "text": "Bought Ouya’s catalogue, store and team in 2015 without its hardware, said Razer would honour the unpaid developer grants, and ran the store until 2019.[^25][^27][^30]"
+  }
+ ]
+}

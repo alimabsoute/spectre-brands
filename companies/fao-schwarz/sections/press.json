@@ -1,0 +1,41 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "No child forgets the first visit to FAO Schwarz.",
+   "who": "**FAO Inc.**, annual report on Form 10-K, filed May 16, 2003, three weeks after it left its first bankruptcy[^1]",
+   "big": true
+  },
+  {
+   "q": "I think consumers were spending less on upscale toy retail products.",
+   "who": "**Maria Weiskott**, Playthings magazine, after the first filing, January 2003[^12]"
+  },
+  {
+   "q": "So, FAO, as a company as we know it, will cease to exist.",
+   "who": "**Carrie Lee**, reporting from the Nasdaq for CNN, December 3, 2003[^15]"
+  },
+  {
+   "q": "FAO Schwarz is more than just a toy store.",
+   "who": "**David E. Shaw**, D. E. Shaw & Co., January 26, 2004[^16]",
+   "big": true
+  },
+  {
+   "q": "The holidays just wouldn’t be the same without FAO Schwarz.",
+   "who": "**David E. Shaw**, before the Fifth Avenue store reopened, November 2004[^18]"
+  },
+  {
+   "q": "The decision to vacate this space is due to the continuing rising costs of operating a retail location on Fifth Avenue in New York City.",
+   "who": "**FAO Schwarz** statement, May 15, 2015, as reported by Reuters[^23]"
+  },
+  {
+   "q": "For over one hundred and fifty years, FAO has provided a magical experience for children and we hope to keep this tradition alive by crafting fine toys and transformative retail experiences for generations to come.",
+   "who": "**Kirk McLean**, ThreeSixty Group, to Fortune, October 4, 2016[^26]"
+  },
+  {
+   "q": "We are about experiences. That’s what’s different from other toy stores.",
+   "who": "**David Niggli**, chief merchandising officer, to the Associated Press, November 2018[^29]",
+   "big": true
+  }
+ ]
+}

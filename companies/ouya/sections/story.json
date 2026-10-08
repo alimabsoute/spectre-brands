@@ -1,0 +1,90 @@
+{
+ "kicker": "The story",
+ "title": "The best month was the first one",
+ "lede": "Ouya did not run out of believers. It ran out of buyers. The 63,416 people who paid for the idea in 2012 were most of the audience it ever demonstrably had, and nothing the company published afterward shows the store earning enough to pay for the hardware business around it.",
+ "chapters": [
+  {
+   "when": "Jul – Aug 2012 · The campaign",
+   "title": "$950,000 asked, nine times that received",
+   "big": "$8.6M",
+   "cap": "pledged by 63,416 backers between July 10 and August 9, 2012",
+   "color": "#3F8A5A",
+   "body": "On July 3, 2012 The Verge reported on a startup with no product and an unusual list of names: Julie Uhrman, a games executive from IGN, as founder and chief executive; the industrial designer Yves Béhar; Ed Fries, formerly of Xbox, as an adviser; and Muffi Ghadiali, who had worked on the Kindle at Amazon.[^2] A week later the company put the idea on Kickstarter: a $99 console built on Android, with a Tegra 3 processor, 1GB of memory and 8GB of storage, easy to root and open to any developer. There was one rule for games, in the campaign’s words: “at least some gameplay has to be free.”[^1]\n\nThe goal was $950,000. The campaign passed $1 million in its first eight hours and closed on August 9 at $8,596,474 from 63,416 backers.[^1][^3] Trade paper MCV counted three Kickstarter records at the time: the most pledged, the fastest $1 million, and the most raised in a single day, $3.2 million.[^4] Of the backers, 58,224 chose a reward that included a console (derived).[^1]\n\nThe page promised those consoles by March 2013.[^1]",
+   "pull": {
+    "text": "People are ready for something new, and Ouya is that thing.",
+    "who": "Julie Uhrman, to Engadget, Aug 9, 2012[^3]"
+   },
+   "video": "kickstarter"
+  },
+  {
+   "when": "Dec 2012 – May 2013 · The backers’ machine",
+   "title": "“Simply not ready for retail”",
+   "big": "3.5",
+   "cap": "out of 10, The Verge’s score for the console that reached backers",
+   "color": "#C2412D",
+   "body": "Developer consoles went out on December 28, 2012 and the backers’ consoles began shipping on March 28, 2013.[^33] In February the company named its retailers, Amazon, Best Buy, GameStop and Target, and a price of $99.99, with extra controllers at $49.99.[^5]\n\nThe first reviews were of the backers’ edition, in early April. Engadget measured a box about three inches on a side that drew roughly 4.5 watts in play, and concluded that the version then shipping “should be considered a beta release.”[^6] The Verge gave it 3.5 out of 10 and listed one thing under “The Good”: inexpensive.[^7] Engadget found the controller rough around the edges, and both reviews faulted the selection of games.[^6][^7]\n\nOn May 9 Ouya announced $15 million of venture funding led by Kleiner Perkins Caufield & Byers, with Mayfield Fund, Nvidia, Shasta Ventures and Occam Partners, and moved the retail launch back three weeks, from June 4 to June 25, saying demand was “beyond our expectations.”[^7][^8][^9] Some backers had still not received their units.[^8]",
+   "pull": {
+    "text": "Ouya isn’t a viable gaming platform, or a good console, or even a nice TV interface.",
+    "who": "David Pierce, The Verge, Apr 4, 2013[^7]"
+   },
+   "video": "verge"
+  },
+  {
+   "when": "Jun – Jul 2013 · In stores",
+   "title": "Sold out on day one, quiet by the end of the month",
+   "big": "27%",
+   "cap": "of owners had paid for a game in the first month, Uhrman told The Verge",
+   "color": "#c2330b",
+   "body": "The console went on sale in the United States, Canada and the United Kingdom on June 25, 2013. Amazon sold out of its stock the same day.[^10] A roundup of retail-unit reviews a week later put the average at 62 out of 100, with the Associated Press’s 7.0 the highest critic score.[^11]\n\nThe first numbers came in July. NPD, which tracks U.S. retail, said sales were “relatively light for a new console,” though its count left out direct sales through ouya.tv.[^12] Developers began publishing their takings: TowerFall, which MCV called arguably the console’s most acclaimed exclusive, had sold about 2,000 copies at $15; NimbleBit had 6,508 downloads and 122 purchases.[^13]\n\nUhrman answered in an interview with The Verge on July 25. Twenty-seven percent of owners had paid for a game, she said, and 13 of the 20 top-grossing titles were converting an average of 8% of players from free to paid. She predicted that by the end of the year “a few developers” would say they had made more than a million dollars on Ouya. The company declined to say how many consoles it had sold.[^14] It never did say.",
+   "pull": {
+    "text": "I think there are a lot of social and mobile app developers that would kill for an 8 percent attach rate on a platform that’s 30 days old.",
+    "who": "Julie Uhrman, to The Verge, Jul 25, 2013[^14]"
+   },
+   "image": {
+    "image": "img/archive-2013-07-home.avif",
+    "caption": "ouya.tv on July 10, 2013, two weeks after the retail launch: “every game on OUYA is free to try.”[^34]",
+    "alt": "ouya.tv home page in July 2013 showing the console, the controller and a $99 price"
+   }
+  },
+  {
+   "when": "Aug 2013 – 2014 · The developers",
+   "title": "A million-dollar fund, and a retreat from the box",
+   "big": "$1M",
+   "cap": "Free the Games Fund, to match Kickstarter money for Ouya exclusives",
+   "color": "#8A6212",
+   "body": "To get more games, Ouya set up a $1 million Free the Games Fund: it would match what a game raised on Kickstarter, from $50,000 up, in return for six months of exclusivity.[^14][^18] By September two campaigns looked wrong. Gridiron Thunder raised $171,009 from 183 backers; Elementary, My Dear Holmes was suspended by Kickstarter.[^18]\n\nUhrman’s first response, a blog post saying that “openness is hard,” did not mention either game. Developers Sophie Houlden and Mike Bithell criticised it publicly, and Houlden pulled her game Rose and Time from the store.[^15][^16] Within two weeks Ouya cut the minimum to $10,000, allowed simultaneous release on PC and dropped a planned $100,000 bonus for the biggest raise. Gridiron Thunder declined the money.[^17]\n\nIn March 2014 the company began moving away from its own hardware. “Ouya Everywhere” would put the store on other makers’ devices, starting with Mad Catz’s $199 M.O.J.O., where it went live on July 1.[^22] In April 2014, Amazon launched its own $99 box for the television with a game controller, and TowerFall’s creator said the game had sold about 7,000 copies on Ouya.[^20][^21]",
+   "pull": {
+    "text": "This isn’t even a response, let alone a decent one.",
+    "who": "Sophie Houlden, developer of Rose and Time, quoted by PocketGamer.biz, Sep 11, 2013[^16]"
+   },
+   "art": "art/matching-fund.svg",
+   "artCaption": "Original illustration. The fund matched what a game raised on Kickstarter; nobody had checked where the first half came from.[^18]"
+  },
+  {
+   "when": "Jan – Jul 2015 · The sale",
+   "title": "A tripped covenant and a quick process",
+   "big": "$10M",
+   "cap": "invested by Alibaba in January 2015, three months before Ouya put itself up for sale",
+   "color": "#3d5f86",
+   "body": "On January 30, 2015 PocketGamer.biz reported that Alibaba had invested $10 million, with the aim of putting Ouya’s library of about 1,000 games on its own set-top box in China.[^23]\n\nIt was not enough. On April 28 Fortune published a confidential memo from Uhrman to investors: the company had tripped a covenant on venture debt from TriplePoint Capital, restructuring talks had failed, and the bank Mesa Global had been hired to find a buyer. The amount of the debt was not disclosed.[^24]\n\nRazer, the gaming hardware maker, closed a deal on June 12 and confirmed it on July 27. It took the content catalogue, the online store and the technical and developer-relations staff. It did not take the hardware. The price was not disclosed; Razer’s chief executive said it was paid in cash.[^25][^26] Uhrman announced her departure on Twitter the same day.[^26] Developers still owed money by the Free the Games Fund were first told the deal was off, then told Razer would pay: $620,000 of the $1 million was still outstanding.[^27][^29]",
+   "pull": {
+    "text": "Our focus now is trying to recover as much investor capital as possible.",
+    "who": "Julie Uhrman, memo to investors, quoted by Fortune, Apr 28, 2015[^24]"
+   },
+   "video": "ignleaves"
+  },
+  {
+   "when": "2015 – Jun 25, 2019 · The switch-off",
+   "title": "Four more years as someone else’s store",
+   "big": "Jun 25",
+   "cap": "2019: the store, accounts and website shut down, six years to the day after the retail launch",
+   "color": "#C2412D",
+   "body": "Razer kept the Ouya store running. The archived home page counted 1,112 games in August 2015 and 1,250 in June 2019; from at least January 2017 its copyright line read “Razer Group.”[^34]\n\nOn May 22, 2019 a notice appeared on Razer’s support site, and ouya.tv carried a banner pointing to it. The game stores for Ouya, Razer’s own Forge TV and the Mad Catz M.O.J.O. would close on June 25. Accounts would be deactivated. Games already downloaded would keep working only if they did not check a purchase with the server when they started.[^30][^31][^32]\n\nTechCrunch’s headline was “Seven years later, the OUYA is dead for real.”[^31]",
+   "image": {
+    "image": "img/archive-2019-06-home.avif",
+    "caption": "ouya.tv on June 2, 2019: “NOTICE: This website will be shutting down on June 25, 2019.”[^34]",
+    "alt": "ouya.tv home page in June 2019 with a black banner announcing the shutdown"
+   }
+  }
+ ]
+}

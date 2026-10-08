@@ -1,0 +1,11 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of two equal stacks of coins joined by an equals sign, one stack marked with a question mark">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 262H380"/>
+<g fill="#e8c53a"><ellipse cx="100" cy="250" rx="46" ry="13"/><ellipse cx="100" cy="228" rx="46" ry="13"/><ellipse cx="100" cy="206" rx="46" ry="13"/><ellipse cx="100" cy="184" rx="46" ry="13"/><ellipse cx="100" cy="162" rx="46" ry="13"/></g>
+<g fill="#ff5a2b"><ellipse cx="300" cy="250" rx="46" ry="13"/><ellipse cx="300" cy="228" rx="46" ry="13"/><ellipse cx="300" cy="206" rx="46" ry="13"/><ellipse cx="300" cy="184" rx="46" ry="13"/><ellipse cx="300" cy="162" rx="46" ry="13"/></g>
+<path d="M180 196h40M180 216h40" stroke-width="5"/>
+<path d="M100 120V84M86 98l14-14 14 14"/>
+<circle cx="300" cy="84" r="34" fill="#fbf9f5"/>
+<path d="M288 74c0-16 26-16 24 0-1 10-12 10-12 22"/><circle cx="300" cy="106" r="1.8" fill="#1d1b18"/>
+<path d="M40 60c8-10 22-10 30 0M330 30c8-10 22-10 30 0" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

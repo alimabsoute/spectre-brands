@@ -1,0 +1,53 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Inside the store, 1986 to 2018",
+ "lede": "A reference history says FAO Schwarz “did not advertise” in the years that made it famous, and we found few commercials to show.[^9] What survives is footage of the store itself: visitors’ tapes and news reports of the closing and the return. Where a date comes only from the uploader, the caption says so.",
+ "videos": [
+  {
+   "id": "b1986",
+   "title": "“Browsing toys and video games at FAO Schwarz in 1986”",
+   "year": 1986,
+   "type": "film",
+   "provider": "youtube",
+   "embedId": "jqv939fasuM",
+   "caption": "Twelve minutes of amateur video inside the store, uploaded by the channel Vampire Robot. The 1986 date is the uploader’s; if it is right, this is the year the flagship moved to 767 Fifth Avenue.[^9][^33]"
+  },
+  {
+   "id": "tv1995",
+   "title": "“FAO Schwarz Toy Store 1995”",
+   "year": 1995,
+   "type": "film",
+   "provider": "youtube",
+   "embedId": "RYlwAH1M6CA",
+   "caption": "Seven minutes of footage uploaded by the archive channel tvdays, which dates it 1995. We could not confirm the date or the original broadcaster.[^34]"
+  },
+  {
+   "id": "ap2015",
+   "title": "Associated Press: “Game Over: FAO Schwarz Toy Store Closes”",
+   "year": 2015,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "y7bicxO2jxI",
+   "caption": "The AP’s report on the closing of the Fifth Avenue flagship in July 2015, from its own channel.[^22]"
+  },
+  {
+   "id": "ap2018",
+   "title": "AP Archive: “Beloved toy store FAO Schwarz makes its NYC return”",
+   "year": 2018,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "8uLGhooCckI",
+   "caption": "AP footage of the new store at 30 Rockefeller Plaza, which opened on November 16, 2018.[^29]"
+  },
+  {
+   "id": "today2018",
+   "title": "TODAY: “FAO Schwarz Reopens: Peek Inside The Iconic Toy Store”",
+   "year": 2018,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "Cz2lejULd_c",
+   "caption": "NBC’s morning show visits the new store. NBC is a neighbor: the store took over the space of the NBC Experience Store.[^28]"
+  }
+ ],
+ "note": "We found no embeddable footage of the 2003 bankruptcies or of the 1986 opening that we could date with confidence."
+}

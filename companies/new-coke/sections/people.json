@@ -1,0 +1,50 @@
+{
+ "kicker": "The people",
+ "title": "Who changed it, who fought it and who changed it back",
+ "lede": "Titles are as given in the press at the time. Later careers are left out where we have no source.",
+ "people": [
+  {
+   "name": "Roberto C. Goizueta",
+   "role": "Chairman and CEO, The Coca-Cola Company",
+   "text": "Introduced the new formula on April 23, 1985 and announced the return of the old one in July.[^8][^16] A reader addressed a letter to “Chief Dodo, The Coca-Cola Company,” and it was delivered.[^1]",
+   "later": "At a tenth-anniversary event in 1995 he called the decision a prime example of “taking intelligent risks.”[^1]"
+  },
+  {
+   "name": "Donald R. Keough",
+   "role": "President and chief operating officer",
+   "text": "Toasted the new drink at Lincoln Center and gave the speech that took it back.[^16][^27] At the 1986 centennial, aged 59, he said: “It all kind of worked out.”[^9]",
+   "later": "Still on Coca-Cola’s board in 2005.[^18] Fortune reported his death in February 2015.[^28]"
+  },
+  {
+   "name": "Brian Dyson",
+   "role": "President, Coca-Cola USA",
+   "text": "The executive who gave the numbers in June 1985: 1,500 calls a day, 110 million triers, an 18-month plan.[^5]"
+  },
+  {
+   "name": "Sergio Zyman",
+   "role": "Head of marketing",
+   "text": "Named by a 2005 retrospective among the “top brass” who decided to concede.[^18]"
+  },
+  {
+   "name": "Gay Mullins",
+   "role": "Founder, Old Cola Drinkers of America",
+   "text": "A Seattle retiree who set up a complaint hotline, claimed 100,000 members and sued. He said he spent about $100,000.[^6][^7][^27] In a taste test he could not pick out the drink he was fighting for.[^7]",
+   "later": "Mother Jones, drawing on Thomas Oliver’s 1986 book, reports that he later asked Coca-Cola for $200,000 for an endorsement and was turned down.[^27]"
+  },
+  {
+   "name": "Roger Enrico",
+   "role": "President, Pepsi-Cola U.S.A.",
+   "text": "Signed the advertisement that said “the other guy just blinked.”[^24]"
+  },
+  {
+   "name": "Harold Burson",
+   "role": "Public relations adviser",
+   "text": "Advised the company to be contrite, though by the same account he too had believed in the new drink.[^18]"
+  },
+  {
+   "name": "Jesse Meyers",
+   "role": "Publisher, Beverage Digest",
+   "text": "The trade source for the share figures of 1985. He called the reversal “absolutely” the result of the negative reaction.[^6]"
+  }
+ ]
+}

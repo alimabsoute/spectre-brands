@@ -1,0 +1,56 @@
+{
+ "kicker": "The people",
+ "title": "Who ordered it, who wrote it, who drew it",
+ "lede": "Titles are as given in the sources cited. Later careers are included only where a source states them.",
+ "people": [
+  {
+   "name": "Sergio Zyman",
+   "role": "Senior vice president and chief marketing officer, The Coca-Cola Company",
+   "text": "Rejoined in August 1993 and introduced OK in New York the following April.[^1][^4] The Believer reports that he predicted a billion dollars in sales and 4% of the market.[^13]",
+   "later": "Still listed as chief marketing officer in the 10-K filed in March 1996.[^3]"
+  },
+  {
+   "name": "Brian Lanahan",
+   "role": "Manager of special projects, Coca-Cola marketing",
+   "text": "The company’s voice in Time’s 1994 report: “You have to first and foremost acknowledge that you are marketing.”[^6]"
+  },
+  {
+   "name": "Peter Wegner",
+   "role": "Associate creative director, Wieden & Kennedy",
+   "text": "Wrote the manifesto and the “coincidences.” He was 31, and defended the campaign in The Washington Post as a game.[^13][^8]",
+   "later": "Left advertising; a multimedia artist in Berkeley, California, by 2014.[^13]"
+  },
+  {
+   "name": "Todd Waterbury",
+   "role": "Wegner’s collaborator on the campaign, Wieden & Kennedy",
+   "text": "The campaign’s “visual mastermind,” in The Believer’s phrase, who hired the cartoonists.[^13]",
+   "later": "Executive creative director at Target by 2014.[^13]"
+  },
+  {
+   "name": "Daniel Clowes",
+   "role": "Cartoonist",
+   "text": "Drew for the cans and gave his character Charles Manson’s eyes. He told The Believer the fee was more than he had made on his last five comics.[^13][^14]",
+   "later": "Published Ghost World. In 2010 he recalled the soda as “gone in two months,” which is shorter than the record shows.[^13][^14]"
+  },
+  {
+   "name": "Charles Burns",
+   "role": "Cartoonist",
+   "text": "The other alternative cartoonist named in the 1994 coverage.[^8]"
+  },
+  {
+   "name": "Tom Pirko",
+   "role": "President, Bevmark",
+   "text": "The consultant who described the taste on NPR and ranked taste below advertising, looks, availability and price.[^7]"
+  },
+  {
+   "name": "Randy Donaldson",
+   "role": "Spokesman, The Coca-Cola Company",
+   "text": "Announced the phase-out and gave the only sales figure.[^9]"
+  },
+  {
+   "name": "Roberto Goizueta",
+   "role": "Chief executive, The Coca-Cola Company",
+   "text": "Rehired Zyman in 1993, according to The Believer.[^13]"
+  }
+ ]
+}

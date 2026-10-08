@@ -1,0 +1,53 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Coming attractions, and the closing sale",
+ "lede": "Two commercials from the years of fastest growth, local news and an investment manager’s commentary from the 2010 bankruptcy, and a staff training tape. Where the year comes only from the uploader, the caption says so.",
+ "videos": [
+  {
+   "id": "lafontaine98",
+   "title": "Hollywood Video commercial with a movie-trailer voiceover",
+   "year": 1998,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "USrkW_5QPa0",
+   "caption": "A 30-second spot in the style of a film trailer. The uploader dates it to 1998 and credits the voice to Don LaFontaine; we could not confirm either. The upload is a 2021 remaster. The chain had 1,260 stores at the end of 1998.[^2]"
+  },
+  {
+   "id": "phantom2000",
+   "title": "Hollywood Video commercial: five-day rentals",
+   "year": 2000,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "CsPa4tfUhCg",
+   "caption": "A spot promoting a new release for five days. The 2000 date is the uploader’s. That was the year the company closed Reel.com’s store and reported its largest loss.[^3]"
+  },
+  {
+   "id": "krqe2010",
+   "title": "KRQE: “Hollywood Video shuts most ABQ stores”",
+   "year": 2010,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "FYkgW8HBLWc",
+   "caption": "A short report from KRQE, the Albuquerque station, published on its own channel on February 5, 2010, days after Movie Gallery’s second Chapter 11 filing.[^15]"
+  },
+  {
+   "id": "narancich2010",
+   "title": "An investment manager on the Hollywood Video bankruptcy",
+   "year": 2010,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "OtPxeektRoQ",
+   "caption": "Shawn Narancich of the investment firm Ferguson Wellman discusses the bankruptcy. Published on the firm’s channel on March 8, 2010. It is commentary, not a source for any figure on this page."
+  },
+  {
+   "id": "training2009",
+   "title": "Hollywood Video staff training video",
+   "year": 2009,
+   "type": "film",
+   "provider": "youtube",
+   "embedId": "69q23MlDCks",
+   "caption": "A 22-minute training tape on greeting and selling to customers. The 2009 date is the uploader’s; the upload is from 2016."
+  }
+ ],
+ "note": "Upload dates were read from the YouTube pages in October 2026. We could not reach the Internet Archive from our research environment, so no archived footage is included."
+}

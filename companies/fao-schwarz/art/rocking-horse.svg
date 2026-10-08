@@ -1,0 +1,15 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a wooden rocking horse with a red saddle on curved rockers, with a price tag tied to its neck">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M40 232 C110 290 290 290 360 232" stroke-width="10" stroke="#8a5a2b"/>
+<path d="M40 232 C110 290 290 290 360 232"/>
+<path d="M128 262 L146 184 M270 262 L250 184 M170 270 L176 190 M232 270 L226 190"/>
+<path d="M112 176 C112 140 150 128 200 132 C240 134 262 146 276 170 C282 186 270 198 250 196 H150 C126 198 112 192 112 176 Z" fill="#fbf9f5"/>
+<path d="M256 150 C262 116 280 92 304 84 L318 62 L322 86 C336 96 346 112 350 126 L332 136 C318 130 306 134 296 150 Z" fill="#fbf9f5"/>
+<path d="M300 84 C286 96 276 118 270 142" stroke="#8a5a2b" stroke-width="6"/>
+<circle cx="322" cy="104" r="2.4" fill="#1d1b18"/>
+<path d="M176 132 C180 116 226 116 232 134 L236 162 H172 Z" fill="#c8102e"/>
+<path d="M112 172 C92 176 82 196 86 222" stroke="#8a5a2b" stroke-width="6"/>
+<path d="M334 120 L300 136" stroke="#c8102e"/>
+<path d="M286 150 l14 26"/><path d="M292 176 h30 l10 14 l-10 14 h-30 Z" fill="#f2c230"/><circle cx="302" cy="190" r="2" fill="#1d1b18"/>
+<path d="M60 60 c8 -10 22 -10 30 0" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

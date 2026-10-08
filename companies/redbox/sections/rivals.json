@@ -1,0 +1,118 @@
+{
+ "kicker": "The rivals",
+ "title": "The last one renting discs",
+ "lede": "Redbox was one of the things that finished off the video store. It then outlasted every other way of renting a disc, including the one that had seemed to be the future.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Four ways to rent a disc. None is left.",
+   "subtitle": "The businesses Redbox competed with or absorbed, and what became of each.",
+   "metric": "Headline figure",
+   "items": [
+    {
+     "name": "Redbox",
+     "status": "dead",
+     "statusLabel": "Liquidated 2024",
+     "self": true,
+     "value": "44,000 kiosks",
+     "text": "At the end of 2013. Shut down on the conversion to Chapter 7 in July 2024.[^11][^26]",
+     "data": [
+      13700,
+      22400,
+      30200,
+      35400,
+      43700,
+      44000,
+      40480,
+      38379,
+      27800
+     ],
+     "range": [
+      "2008: 13,700",
+      "2023: 27,800"
+     ]
+    },
+    {
+     "name": "Blockbuster",
+     "status": "ghost",
+     "statusLabel": "One franchise left",
+     "value": "9,094 stores",
+     "text": "At the end of 2004.[^36] Redbox had more points of sale than that by the end of 2008, with 13,700 kiosks.[^6]"
+    },
+    {
+     "name": "NCR’s DVD kiosks",
+     "status": "acquired",
+     "statusLabel": "Bought by Redbox, 2012",
+     "value": "$100.0M",
+     "text": "Paid by Redbox in June 2012 for about 6,200 active kiosks, which it replaced or removed.[^10][^11]"
+    },
+    {
+     "name": "DVDXpress",
+     "status": "acquired",
+     "statusLabel": "Bought by Coinstar, 2007",
+     "value": "Oct 2007",
+     "text": "A smaller kiosk operator. Coinstar had lent it $4.5M by 2006 and acquired it in October 2007.[^3][^5]"
+    },
+    {
+     "name": "Netflix DVD by mail",
+     "status": "dead",
+     "statusLabel": "Ended Sep 29, 2023",
+     "value": "$82.8M",
+     "text": "DVD revenue in its last year, down from $182.3M in 2021. The same company’s streaming revenue was $33.6 billion.[^35]",
+     "data": [
+      182.3,
+      145.7,
+      82.8
+     ],
+     "range": [
+      "2021: $182.3M",
+      "2023: $82.8M"
+     ]
+    }
+   ],
+   "source": "Company filings as cited. Sparklines: Redbox year-end kiosks for 2008–2013, 2015, 2021 and 2023[^6][^8][^9][^11][^13][^17][^22]; Netflix DVD revenue 2021–2023[^35]."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "name": "Redbox, 2021",
+    "tag": "Kiosks",
+    "alive": false,
+    "rows": [
+     [
+      "Revenue",
+      "$288.5M"
+     ],
+          [
+      "Points of sale",
+      "38,379 kiosks"
+     ],
+     [
+      "Ended",
+      "July 2024"
+     ]
+    ]
+   },
+   "right": {
+    "name": "Netflix DVD, 2021",
+    "tag": "By mail",
+    "alive": false,
+    "rows": [
+     [
+      "Revenue",
+      "$182.3M"
+     ],
+          [
+      "Points of sale",
+      "the post"
+     ],
+     [
+      "Ended",
+      "September 2023"
+     ]
+    ]
+   },
+   "source": "Redbox Entertainment FY2021 10-K[^17]; Netflix FY2023 10-K[^35]; Variety[^26]. Redbox’s figure includes its digital business."
+  }
+ ]
+}

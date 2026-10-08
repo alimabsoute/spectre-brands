@@ -1,0 +1,41 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "We think it’s a tremendous opportunity.",
+   "who": "**Greg Waring**, Redbox vice president of marketing, to the Associated Press, April 2006[^3]"
+  },
+  {
+   "q": "There’s over 13,000 McDonald’s restaurants in the U.S. We foresee a day when we’re in the vast majority of those.",
+   "who": "**Greg Waring**, to the Associated Press, April 2006[^3]",
+   "big": true
+  },
+  {
+   "q": "Our DVD kiosks supply all the functionality of a traditional video rental store, yet occupy an area of less than ten square feet.",
+   "who": "**Coinstar, Inc.**, FY2007 annual report, February 2008[^5]"
+  },
+  {
+   "q": "The home video distribution market is rapidly evolving as newer technologies and distribution channels compete for market share, and we have experienced a secular decline in the physical rental market.",
+   "who": "**Outerwall Inc.**, FY2015 annual report, February 2016[^13]",
+   "big": true
+  },
+  {
+   "q": "Apollo is an ideal partner to support Outerwall’s efforts to continue serving our millions of loyal customers and dedicated retail partners through our unrivaled network of kiosks and automated retail offerings.",
+   "who": "**Erik E. Prusch**, chief executive of Outerwall, July 25, 2016[^14]"
+  },
+  {
+   "q": "Since the acquisition, operating results have not met management’s expectations, particularly Redbox’s kiosk rentals, resulting in insufficient cash flows and working capital to operate the business efficiently.",
+   "who": "**Chicken Soup for the Soul Entertainment**, FY2023 annual report, April 2024[^22]"
+  },
+  {
+   "q": "There is no means to continue to pay employees, to pay any bills.",
+   "who": "**Judge Thomas M. Horan**, July 10, 2024, as reported by The Wall Street Journal and quoted in Variety[^26]",
+   "big": true
+  },
+  {
+   "q": "Redbox is in bankruptcy, and its case immediately converted to chapter 7. As such, there is no more Redbox ‘business’ to operate.",
+   "who": "**CVS Pharmacy**, court filing quoted by Lowpass, July 2024[^29]"
+  }
+ ]
+}

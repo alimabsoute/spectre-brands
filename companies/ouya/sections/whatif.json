@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Ship it later",
+   "actual": "Backers’ consoles shipped from March 28, 2013 and were reviewed as a product in early April. Engadget said the system was “simply not ready for retail”; The Verge wrote that it was “being sold as a product, not a prototype, and that’s just wrong.”[^6][^7][^33] The retail launch followed on June 25, after a three-week delay the company attributed to demand.[^8][^10]",
+   "whatif": "Holding the backers’ units until the software and controller were finished would have broken the March promise on the Kickstarter page[^1] and cost months. It would also have meant the first reviews were of a finished machine. It would not have put more games on it."
+  },
+  {
+   "tab": "Be a store, not a box",
+   "actual": "Ouya announced Ouya Everywhere in March 2014, nine months after launch, and reached its first outside device in July 2014.[^22] By the time it was for sale, the memo to investors pitched the catalogue, not the console: “the largest library of Android content for the TV.”[^24] Razer bought exactly that and left the hardware.[^25]",
+   "whatif": "Starting as a storefront and developer programme for other companies’ Android boxes would have spared the cost of making hardware. It would also have had no Kickstarter moment: the $99 box was what 58,224 backers (derived) paid for.[^1] A store with the same conversion rates on someone else’s box is not obviously a better business."
+  },
+  {
+   "tab": "No venture debt",
+   "actual": "After its $15M round in 2013, Ouya “quietly secured some venture debt from TriplePoint Capital,” in Fortune’s words. A tripped covenant in 2015 put the company on the debtholder’s timetable, with expressions of interest due within the month.[^24]",
+   "whatif": "Without the loan there would have been no covenant to trip and no forced deadline, and Alibaba’s $10M might have bought a slower search for a partner.[^23] There would also have been less money to spend in 2013 and 2014. Since the amount borrowed was never disclosed, how much time it bought or cost is unknowable."
+  }
+ ]
+}

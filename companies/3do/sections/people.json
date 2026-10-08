@@ -1,0 +1,43 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it, who built it and who said no",
+ "lede": "Titles are as given in the filings and the press at the time. Later careers are left out where we have no source.",
+ "people": [
+  {
+   "name": "William M. “Trip” Hawkins III",
+   "role": "Founder, chairman and CEO, 1991 – 2003",
+   "text": "An early Apple employee who founded Electronic Arts in 1982 and gave up its chairmanship in 1994 to run 3DO. He had put $15M of his own money in by late 1994, owned about 38% of the shares in 2002, lent the company money in its last months and bought two lots at its auction.[^7][^10][^16][^22][^23]",
+   "later": "Described in 2014 as the founder of Electronic Arts and Digital Chocolate, when he became an adviser to the mobile company Skillz.[^38]"
+  },
+  {
+   "name": "Hugh Martin",
+   "role": "President from Oct 1995",
+   "text": "Chief operating officer from January 1993. He took full operating control in the September 1996 reorganization, when Hawkins moved to a creative role.[^2][^25]"
+  },
+  {
+   "name": "Dave Needle and RJ Mical",
+   "role": "NTG engineers",
+   "text": "Named in 3DO’s filings as parties, with NTG Engineering, to the 1993 agreements under which 3DO acquired NTG for $21.4M in stock and cash.[^1]"
+  },
+  {
+   "name": "Bob Faber",
+   "role": "Senior vice president, sales and marketing, 1993",
+   "text": "Said he “sighed with relief” when Nintendo and Silicon Graphics announced their console partnership in August 1993, because it showed they were starting from scratch.[^20]"
+  },
+  {
+   "name": "John Adams",
+   "role": "Chief financial officer until 2000",
+   "text": "His plan to leave was announced with the June 2000 profit warning.[^27]"
+  },
+  {
+   "name": "Vinod Khosla",
+   "role": "Early investor and director",
+   "text": "The venture capitalist told the Times in 1994, after the developer surcharge: “Trip doesn’t appreciate the finer nuances of social relationships.”[^23]"
+  },
+  {
+   "name": "Yoichi Morishita",
+   "role": "President of Matsushita",
+   "text": "Announced in July 1997 that Matsushita had stopped developing the M2 console it had paid 3DO $100M to license.[^1][^26]"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "kicker": "The rivals",
+ "title": "Too small for the console war, too early for the streaming box",
+ "lede": "Ouya reached stores five months before the PlayStation 4 and nine months before Amazon put games on a $99 television box. The other Android micro-consoles that shared its store were switched off on the same day it was.",
+ "blocks": [
+  {
+   "kind": "scale",
+   "title": "Sony sold in a day about 16 times what Ouya’s campaign drew in a month",
+   "left": {
+    "value": "1 million",
+    "label": "PlayStation 4 consoles sold in North America in the first 24 hours, by Sony’s count[^19]"
+   },
+   "unit": {
+    "value": "63,416",
+    "label": "backers of the Ouya Kickstarter over 30 days[^1]"
+   },
+   "count": 16,
+   "icon": "gamepad",
+   "equation": "1,000,000 ÷ 63,416 = 15.8, rounded up to 16 icons. Each icon stands for one Ouya campaign’s worth of backers. Backers are not console sales; Ouya never published those.",
+   "per": "63,416 people",
+   "source": "Sony Computer Entertainment press release, November 17, 2013[^19]; Kickstarter[^1]."
+  },
+  {
+   "kind": "multiples",
+   "title": "Boxes for the television, 2013 to 2015",
+   "subtitle": "What each one was, and what became of it.",
+   "metric": "Launch price",
+   "items": [
+    {
+     "name": "Ouya",
+     "status": "dead",
+     "statusLabel": "Store shut 2019",
+     "self": true,
+     "value": "$99",
+     "text": "June 2013. Sold to Razer without its hardware in 2015.[^10][^25]",
+     "data": [
+      500,
+      925,
+      1112,
+      1231,
+      1250,
+      0
+     ],
+     "range": [
+      "Jan 2014",
+      "Jun 2019"
+     ]
+    },
+    {
+     "name": "Mad Catz M.O.J.O.",
+     "status": "dead",
+     "statusLabel": "Store shut 2019",
+     "value": "$199",
+     "text": "Price as of July 2014, when it became the first outside device to carry the Ouya store. Its store closed with Ouya’s.[^22][^30]"
+    },
+    {
+     "name": "Razer Forge TV",
+     "status": "dead",
+     "statusLabel": "Store shut 2019",
+     "value": "n/a",
+     "text": "Razer’s own Android TV console, the intended home for Ouya’s users and games. 9to5Google says it was on the market for a matter of months.[^25][^32]"
+    },
+    {
+     "name": "Amazon Fire TV",
+     "status": "alive",
+     "statusLabel": "Still sold",
+     "value": "$99",
+     "text": "April 2014, with games from EA, Disney and others and a $39.99 controller.[^20]"
+    },
+    {
+     "name": "PlayStation 4",
+     "status": "alive",
+     "statusLabel": "Maker still in consoles",
+     "value": "1M in a day",
+     "text": "November 15, 2013 in the United States and Canada.[^19]"
+    }
+   ],
+   "source": "Company press releases[^19][^20][^22][^25], Razer’s shutdown notice[^30] and 9to5Google[^32]. The sparkline for Ouya is the home-page game counter[^34], not sales. We have no launch price for the Forge TV in our sources."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Switched off",
+    "name": "Ouya",
+    "alive": false,
+    "rows": [
+     [
+      "In stores",
+      "Jun 25, 2013[^10]"
+     ],
+     [
+      "Price",
+      "$99.99 with one controller[^5]"
+     ],
+     [
+      "Who made it",
+      "A startup funded on Kickstarter[^1]"
+     ],
+     [
+      "Games",
+      "Any developer; every game free to try[^1]"
+     ],
+     [
+      "Other uses",
+      "Media apps promised in the campaign[^1]"
+     ],
+     [
+      "Fate",
+      "Hardware dropped 2015, store shut 2019[^25][^30]"
+     ]
+    ]
+   },
+   "right": {
+    "tag": "Still sold",
+    "name": "Amazon Fire TV",
+    "alive": true,
+    "rows": [
+     [
+      "In stores",
+      "Apr 2, 2014[^20]"
+     ],
+     [
+      "Price",
+      "$99; game controller $39.99 extra[^20]"
+     ],
+     [
+      "Who made it",
+      "Amazon[^20]"
+     ],
+     [
+      "Games",
+      "From EA, Disney, Gameloft, Mojang, 2K and others[^20]"
+     ],
+     [
+      "Other uses",
+      "Netflix, Prime Instant Video, Hulu Plus[^20]"
+     ],
+     [
+      "Fate",
+      "Still on sale (general knowledge)"
+     ]
+    ]
+   }
+  }
+ ]
+}

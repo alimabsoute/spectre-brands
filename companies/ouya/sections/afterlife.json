@@ -1,0 +1,99 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Switched off",
+   "color": "var(--red)",
+   "title": "The store and accounts",
+   "text": "Razer deactivated every account on June 25, 2019. Its notice said funds left in accounts “may be turned over to the applicable authority,” and that downloaded games would keep working only if they did not validate a purchase at launch.[^30][^32]"
+  },
+  {
+   "status": "Dropped",
+   "color": "var(--mute)",
+   "title": "The hardware",
+   "text": "Razer said in 2015 that it was “not retaining interest in OUYA hardware or related other assets.”[^25] What happened to those assets, and to Ouya, Inc. itself, is not in our sources."
+  },
+  {
+   "status": "Unused",
+   "color": "var(--mute)",
+   "title": "The name",
+   "text": "Razer’s 2015 press release said it planned to publish Android TV games “under the OUYA moniker as a separate interest.”[^25] We found no product released under the name after the 2019 shutdown, and we have not checked who holds the trademark registration today."
+  },
+  {
+   "status": "Folded in",
+   "color": "var(--blue)",
+   "title": "The team",
+   "text": "The technical and developer-relations staff joined Razer’s software team in 2015 to work on its Forge TV platform, whose store closed on the same day as Ouya’s.[^25][^30]"
+  },
+  {
+   "status": "Paid, on new terms",
+   "color": "var(--gold)",
+   "title": "The developers’ fund",
+   "text": "Razer said it would honour the **$620,000** still unpaid from the Free the Games Fund, to some 27 developers, dropping exclusivity and asking for free copies for its own store’s users instead.[^27][^28] Whether every developer was paid is not in our sources."
+  },
+  {
+   "status": "Kept alive by volunteers",
+   "color": "var(--green)",
+   "title": "The consoles",
+   "text": "A community-written replacement server lets an Ouya sign in and install games again after the official shutdown, by pointing the console at a new address in a configuration file. It is a static stand-in, stores no user data and takes no payments.[^35]"
+  },
+  {
+   "status": "Outlived it",
+   "color": "var(--green)",
+   "title": "TowerFall",
+   "text": "The game that sold about 7,000 copies on Ouya reached $500,000 in revenue after moving to PlayStation 4 and PC.[^21]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the Ouya name",
+   "subtitle": "One sale, of the software and the name without the box.",
+   "nodes": [
+    {
+     "when": "Jul 2012",
+     "owner": "Ouya (the startup)",
+     "what": "Raises $8,596,474 on Kickstarter for a $99 Android console.[^1]"
+    },
+    {
+     "when": "May 2013",
+     "owner": "Ouya, with venture investors",
+     "what": "Kleiner Perkins leads a $15M round with Mayfield, Nvidia, Shasta and Occam. Venture debt from TriplePoint follows.[^8][^24]",
+     "price": "$15M round"
+    },
+    {
+     "when": "Jan 2015",
+     "owner": "Ouya, with Alibaba as an investor",
+     "what": "Alibaba invests to bring the catalogue to its set-top box in China.[^23]",
+     "price": "$10M"
+    },
+    {
+     "when": "Apr 2015",
+     "owner": "Ouya, for sale",
+     "what": "A debt covenant is tripped and a bank is hired to find a buyer.[^24]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Jun 12, 2015",
+     "owner": "Razer",
+     "what": "Acquires the content catalogue, the online store and the team. Not the hardware.[^25]",
+     "price": "Undisclosed, paid in cash[^26]"
+    },
+    {
+     "when": "Jun 25, 2019",
+     "owner": "Razer",
+     "what": "Shuts down the store, accounts and website.[^30]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Today",
+     "owner": "No known user of the name",
+     "what": "Nothing is sold as Ouya. Volunteers run a replacement server for old consoles.[^35] The trademark’s current status is unknown to us.",
+     "status": "current"
+    }
+   ],
+   "source": "Kickstarter[^1], PocketGamer.biz[^8][^23], Fortune[^24], Razer[^25][^30] and Engadget[^26]. Ouya did not go through bankruptcy as far as our sources show; the red markers denote the forced sale and the shutdown."
+  }
+ ]
+}

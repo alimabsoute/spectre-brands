@@ -1,0 +1,97 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Online",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "zanybrainy.com was live when we read it in October 2026. It sells a handful of Zany Brainy-branded items, among them a T-shirt, a backpack, a notebook and stickers, and its “Our Story” page speaks of sharing “a small glimpse of the past.” The pages carry the line “© 2025 ZANY BRAINY” and name no company. We could not establish who owns the trademark or how it left FAO Inc.’s estate.[^26]"
+  },
+  {
+   "status": "Buried",
+   "color": "var(--red)",
+   "title": "The original company",
+   "text": "Zany Brainy, Inc. sold its business in September 2001 and stayed in Chapter 11 as a shell. A liquidating plan was confirmed on March 6, 2002 and every share was cancelled. It ended its SEC registration two weeks later.[^10][^29]"
+  },
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The stores",
+   "text": "FAO Inc. had engaged liquidators by December 2, 2003 and filed for Chapter 11 on December 4 “to liquidate their Zany Brainy business in an orderly manner.” It said the wind-down would be completed early in 2004. What became of the 89 leases is not in our sources.[^17][^25]"
+  },
+  {
+   "status": "Sold on",
+   "color": "var(--blue)",
+   "title": "The sister chains",
+   "text": "FAO Inc., renamed Children’s Books & Toys, Inc., filed two asset purchase agreements in February 2004: one for the FAO Schwarz business, dated January 23, 2004, and one for The Right Start, dated December 15, 2003. No agreement for Zany Brainy is among them.[^28]"
+  },
+  {
+   "status": "Started over",
+   "color": "var(--green)",
+   "title": "The founder and the last chief executive",
+   "text": "David Schlessinger and Thomas Vellios founded Five Below in 2002, a chain selling goods priced at $5 and under to teenagers. It went public in July 2012, when it had 199 stores (as of April 28, 2012), more than Zany Brainy ever had.[^27]"
+  },
+  {
+   "status": "Paid in part",
+   "color": "var(--mute)",
+   "title": "The creditors",
+   "text": "The Waterton deal of July 2001 was expected to pay unsecured creditors 15 to 20 cents on the dollar. Under The Right Start’s deal they were to share $7.5M in cash and 1.1 million Right Start shares. What they finally received is not in our sources.[^8][^11]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "subtitle": "Two public companies, three bankruptcies, and an online shop that does not say whose it is.",
+   "nodes": [
+    {
+     "when": "1991",
+     "owner": "Zany Brainy, Inc.",
+     "what": "Founded by David Schlessinger. First store in Wynnewood, Pennsylvania.[^3][^27]"
+    },
+    {
+     "when": "Jun 1999",
+     "owner": "Zany Brainy, Inc., public",
+     "what": "Listed on Nasdaq at $10.00 a share.[^1]"
+    },
+    {
+     "when": "May 2001",
+     "owner": "Zany Brainy, Inc., in Chapter 11",
+     "what": "Files in Delaware with 187 stores.[^5]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Sep 2001",
+     "owner": "The Right Start, Inc.",
+     "what": "Buys substantially all the assets through its subsidiary ZB Company, Inc.[^10][^11]",
+     "price": "about $100M"
+    },
+    {
+     "when": "2002",
+     "owner": "FAO Inc.",
+     "what": "The Right Start renames itself after buying FAO Schwarz. 169 Zany Brainy stores.[^12][^24]"
+    },
+    {
+     "when": "Jan 2003",
+     "owner": "FAO Inc., in Chapter 11",
+     "what": "Closes 80 Zany Brainy stores and emerges in April with 89.[^13][^14]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Dec 2003",
+     "owner": "FAO Inc., in Chapter 11 again",
+     "what": "Files to liquidate Zany Brainy and sell its other two chains.[^17]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "2026",
+     "owner": "Operator not named",
+     "what": "zanybrainy.com sells branded merchandise. Ownership of the trademark is unknown to us.[^26]",
+     "status": "current"
+    }
+   ],
+   "source": "SEC filings of Zany Brainy, Inc. and of The Right Start, Inc. / FAO Inc.[^1][^5][^10][^11][^12][^13][^14][^17], Publishers Weekly[^24] and zanybrainy.com[^26]."
+  }
+ ]
+}

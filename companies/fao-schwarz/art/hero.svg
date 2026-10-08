@@ -1,0 +1,19 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a glass-fronted toy store with a red canopy, teddy bears in the window and a doorman dressed as a toy soldier">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 300 H430"/>
+<rect x="40" y="60" width="360" height="240" fill="#eef4fa"/>
+<path d="M130 60 V300 M310 60 V300"/>
+<rect x="110" y="84" width="220" height="44" fill="#c8102e"/>
+<g fill="#fbf9f5"><rect x="128" y="98" width="14" height="16" rx="2"/><rect x="150" y="98" width="14" height="16" rx="2"/><rect x="172" y="98" width="14" height="16" rx="2"/><rect x="204" y="98" width="14" height="16" rx="2"/><rect x="226" y="98" width="14" height="16" rx="2"/><rect x="248" y="98" width="14" height="16" rx="2"/><rect x="270" y="98" width="14" height="16" rx="2"/><rect x="292" y="98" width="14" height="16" rx="2"/></g>
+<rect x="176" y="150" width="88" height="150" fill="#fbf9f5"/><path d="M220 150 V300 M206 226 v20 M234 226 v20"/>
+<g class="screen" fill="#c98f4e"><circle cx="76" cy="258" r="20"/><circle cx="76" cy="226" r="14"/><circle cx="64" cy="214" r="6"/><circle cx="88" cy="214" r="6"/><circle cx="352" cy="262" r="16"/><circle cx="352" cy="236" r="12"/><circle cx="342" cy="226" r="5"/><circle cx="362" cy="226" r="5"/></g>
+<circle cx="71" cy="224" r="1.6" fill="#1d1b18"/><circle cx="81" cy="224" r="1.6" fill="#1d1b18"/><circle cx="348" cy="234" r="1.4" fill="#1d1b18"/><circle cx="356" cy="234" r="1.4" fill="#1d1b18"/>
+<rect x="60" y="150" width="34" height="34" fill="#f2c230"/><path d="M60 167 H94 M77 150 V184"/>
+<path d="M336 186 l16 -30 l16 30 Z" fill="#2f6fb5"/>
+<path d="M276 300 V226 h28 V300 Z" fill="#c8102e"/>
+<path d="M283 300 v-22 M297 300 v-22"/>
+<rect x="280" y="176" width="20" height="26" rx="3" fill="#2b2a28"/><path d="M290 176 v-8" stroke="#f2c230"/>
+<rect x="281" y="202" width="18" height="18" rx="6" fill="#f3d2b3"/>
+<path d="M276 240 l-12 20 M304 236 l10 -22"/><path d="M284 240 h12 M284 250 h12" stroke="#f2c230"/>
+<path d="M60 40 c8 -10 22 -10 30 0 M330 30 c8 -10 22 -10 30 0" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

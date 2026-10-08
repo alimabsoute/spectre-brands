@@ -1,0 +1,93 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Red canopies, toy soldiers and a clock tower",
+ "label": "Brand gallery",
+ "lede": "Four photographs and an engraving of the real stores, from freely licensed sources, and our own drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/store-union-square-1893.avif",
+   "date": "1893",
+   "caption": "“F.A.O. Schwarz, 42 East 14th Street, Union Square,” from King’s Handbook of New York City.",
+   "alt": "Engraving of the Schwarz Toy Bazar building",
+   "credit": "Scanned by the British Library, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:(King1893NYC)_pg866_F.A.O._SCHWARZ,_42_EAST_14TH_STREET,_UNION_SQUARE.jpg). Public domain."
+  },
+  {
+   "image": "img/store-fifth-avenue.avif",
+   "date": "2007",
+   "caption": "The entrance at 767 Fifth Avenue, with a doorman in toy-soldier uniform, in March 2007, during the D. E. Shaw years.",
+   "alt": "Glass doors under a red canopy lettered F·A·O·Schwarz, with a doorman saluting",
+   "credit": "Photo: Rob Young, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FAO_Schwarz_Front.jpg), CC BY 2.0."
+  },
+  {
+   "image": "img/piano-2007.avif",
+   "date": "2007",
+   "caption": "The floor piano on the upper level of the Fifth Avenue store, March 2007.",
+   "alt": "Visitors standing on a giant piano keyboard",
+   "credit": "Photo: Rob Young, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giant_Piano_in_FAO_Schwarz_(897354293).jpg), CC BY 2.0."
+  },
+  {
+   "image": "img/store-rockefeller.avif",
+   "date": "2025",
+   "caption": "The flagship at 30 Rockefeller Plaza, August 2025.",
+   "alt": "FAO Schwarz at Rockefeller Plaza with a queue outside",
+   "credit": "Photo: Nielsoncaetanosalmeron, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FAO_Schwarz_Rockefeller_Center.jpg), CC BY 4.0."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The front door, then and now",
+   "ratio": "3/2",
+   "before": {
+    "label": "Fifth Avenue, 2007",
+    "image": "img/store-fifth-avenue.avif",
+    "caption": "767 Fifth Avenue, closed July 15, 2015.[^22]",
+    "alt": "The Fifth Avenue entrance in 2007"
+   },
+   "after": {
+    "label": "Rockefeller Plaza, 2025",
+    "image": "img/store-rockefeller.avif",
+    "caption": "30 Rockefeller Plaza, opened November 16, 2018.[^29]",
+    "alt": "The Rockefeller Plaza store in 2025"
+   },
+   "source": "Photographs from Wikimedia Commons; credits and licenses above."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The door.",
+   "caption": "A doorman dressed as a toy soldier stood at the Fifth Avenue entrance. Our drawing, not an official asset."
+  },
+  {
+   "art": "art/piano.svg",
+   "title": "The piano.",
+   "caption": "The floor piano from “Big,” which the new store brought back.[^29] Original illustration."
+  },
+  {
+   "art": "art/clock-tower.svg",
+   "title": "The clock.",
+   "caption": "Each store had animated displays “highlighted by a signature FAO Schwarz clock tower.”[^1] Original illustration, not a copy of the real one."
+  },
+  {
+   "art": "art/rocking-horse.svg",
+   "title": "The horse.",
+   "caption": "A rocking horse was the company’s long-standing emblem, according to a reference history.[^9] This is our own drawing, not the trademarked mark."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#c8102e",
+   "label": "Canopy red (approx.)"
+  },
+  {
+   "hex": "#f2c230",
+   "label": "Soldier’s braid gold (approx.)"
+  },
+  {
+   "hex": "#2b2a28",
+   "label": "Shako black (approx.)"
+  }
+ ],
+ "disclaimer": "Colors were matched by eye to the 2007 photograph of the Fifth Avenue entrance and are approximate. FAO Schwarz is a trademark of its owner and appears here in historical and editorial context. Drawings are original illustrations, not official assets."
+}

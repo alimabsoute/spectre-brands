@@ -1,0 +1,49 @@
+{
+ "kicker": "Marketing",
+ "title": "The store was the advertisement",
+ "lede": "FAO Schwarz spent on the building, the catalog and the cameras that came to it. Its own filing called this “non-traditional marketing.”[^1]",
+ "blocks": [
+  {
+   "kind": "image",
+   "image": "img/piano-2007.avif",
+   "alt": "Three visitors standing on a giant floor piano keyboard on the upper level of the Fifth Avenue store",
+   "title": "The piano",
+   "caption": "The floor piano at 767 Fifth Avenue in March 2007. Photo: Rob Young, via Wikimedia Commons, CC BY 2.0. A reference history says the 1988 film “Big” brought a flood of requests for the $15,000 instrument and for a smaller model at $6,250.[^9]"
+  },
+  {
+   "kind": "counters",
+   "title": "The catalog and the cameras, 2002",
+   "items": [
+    {
+     "value": "7.8M",
+     "text": "homes received the core catalog in the 2002 holiday season[^1]"
+    },
+    {
+     "value": "500,000",
+     "text": "homes received the “Ultimate Catalog,” with average orders of more than $185[^1]"
+    },
+    {
+     "value": "$13.9M",
+     "text": "of sales came through the catalogs in fiscal 2002[^1]"
+    },
+    {
+     "value": "$5.3M",
+     "text": "came through FAO.com, launched on May 3, 1998[^1]"
+    }
+   ],
+   "source": "FAO Inc. 10-K for fiscal 2002[^1]."
+  },
+  {
+   "kind": "text",
+   "title": "What the filing claimed for the brand",
+   "body": "The 10-K lists film tie-ins from “Men in Black” to “Big,” product launches for Teletubbies, Furby and Pokémon, and hundreds of television interviews conducted in the Fifth Avenue store each holiday season.[^1] A reference history says the company “did not advertise” in the 1980s and was written into children’s books and films instead.[^9]\n\nThe weakness of the method is in the same filing: a large share of FAO Schwarz sales came from products that mass merchants did not carry, and the company warned that sales would suffer if it could not keep those exclusives.[^1]"
+  },
+  {
+   "kind": "drawing",
+   "art": "art/piano.svg",
+   "caption": "Original illustration of a floor piano. Not an official asset.",
+   "title": "Still the centrepiece",
+   "body": "When the store came back in 2018, the Associated Press described a keyboard mat 20 feet long with 60 keys on the upper level, reflected in the ceiling so that it could be seen from the plaza.[^29]"
+  }
+ ]
+}

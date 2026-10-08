@@ -1,0 +1,64 @@
+{
+ "kicker": "The brand",
+ "title": "A wave, a coupon and a computer-generated spokesman",
+ "lede": "The launch reached almost everyone. What Coca-Cola could not buy was permission to take the old drink away. We have no figure for what the campaigns cost, and we do not guess.",
+ "blocks": [
+  {
+   "kind": "flow",
+   "title": "Seven weeks in: who knew, and who had tried it",
+   "subtitle": "Americans aware of the change by June 1985, in millions, as estimated by the president of Coca-Cola USA.",
+   "from": {
+    "label": "aware of the change",
+    "value": 200
+   },
+   "format": {
+    "pre": "",
+    "suf": "M",
+    "dec": 0
+   },
+   "to": [
+    {
+     "label": "Had tried the new Coke",
+     "value": 110,
+     "color": "brand",
+     "note": "“About 80 percent said they would repurchase,” Dyson said.[^5]"
+    },
+    {
+     "label": "Aware, had not tried it (derived remainder)",
+     "value": 90,
+     "color": "grey",
+     "note": "200 − 110 = 90."
+    }
+   ],
+   "source": "Brian Dyson, quoted by UPI, Jun 10, 1985.[^5] These are the company’s own estimates. The remainder is derived."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "text",
+     "title": "Two campaigns for two Cokes",
+     "body": "After July 1985 the company advertised both. Its own history describes “the youthful, leading-edge ‘Catch the Wave’ campaign for the new taste of Coke and the emotional ‘Red, White and You’ for Coca-Cola classic.”[^1]\n\nIn May the newspaper advertisements had said of those who tried the new taste: “Seventy percent of them can’t wait to get more.”[^4]"
+    },
+    {
+     "kind": "text",
+     "title": "The coupon",
+     "body": "Callers to the hotline were offered a coupon for a free six- or eight-pack of the new Coke. Dyson said 90% of callers accepted, and read that as willingness to try the product.[^4][^5]\n\nOne caller told UPI he had phoned to complain, waited ten minutes on hold and was promised a coupon for the drink he was complaining about.[^4]"
+    }
+   ]
+  },
+  {
+   "kind": "video",
+   "video": "cosby"
+  },
+  {
+   "kind": "video",
+   "video": "headroom"
+  },
+  {
+   "kind": "text",
+   "title": "The 2019 campaign",
+   "body": "Thirty-four years later the failure was the selling point. Coca-Cola said Netflix executives visited its archives in Atlanta to study the 1985 packaging and advertising, and that the Duffer Brothers directed an advertisement that put the show’s cast into a 1980s Coca-Cola spot.[^25] A Coca-Cola director, Peter Shoemaker, was quoted as saying that recreating the product “took about six months and was top secret.”[^26]"
+  }
+ ]
+}

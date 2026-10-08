@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "It replaced the original instead of joining it",
+   "text": "Production of the old formula stopped in April 1985.[^7] The company’s first concession, 79 days later, was to offer “the original taste as an option.”[^6] Coca-Cola now describes what it had run into as a bond “they didn’t want anyone, including The Coca-Cola Company, tampering with.”[^1]"
+  },
+  {
+   "weight": 25,
+   "title": "The research asked about taste, not about loss",
+   "text": "The tests were large: nearly 200,000 people, 55–45 blind.[^1][^4] The company’s own history says they did not show the attachment to the old drink.[^1] A marketing professor put it this way in 2005: “They didn’t ask the critical question of Coke users: Do you want a new Coke?”[^17]"
+  },
+  {
+   "weight": 15,
+   "title": "An organized, quotable backlash",
+   "text": "The hotline went from 400 calls a day to 1,500.[^1][^5] Old Cola Drinkers of America claimed 100,000 members, sued and stayed in the papers.[^1][^6] The noise outran the numbers: the company said 80% of triers would buy again.[^5]"
+  },
+  {
+   "weight": 15,
+   "title": "Pepsi called it a surrender",
+   "text": "A company holiday, “the other guy just blinked,” and advertisements claiming a record May.[^5][^6][^24] The change had been read from the first day as Coke moving toward Pepsi’s taste.[^6]"
+  },
+  {
+   "weight": 10,
+   "title": "Once Classic was back, it had no job",
+   "text": "Two sugar colas from one company split the shelf, and buyers chose the old one. By one later account the new formula fell to about 3% in a year and 0.1% by 1999.[^16] The Coke II name, tested from 1990 as “the Coke for Pepsi drinkers,” did not change that.[^13][^21]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. Coca-Cola published no sales figures for the 1985 formula that we found, so the evidence is the company’s own account, call counts and the press of the time. How much each cause contributed is a matter of opinion."
+}

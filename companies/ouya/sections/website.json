@@ -1,0 +1,71 @@
+{
+ "kicker": "The old website",
+ "title": "ouya.tv, from “pre-order” to “shutting down”",
+ "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture.[^34]",
+ "snips": [
+  {
+   "text": "“**Cracking open the last closed platform: the TV.**”",
+   "when": "ouya.tv · Aug 9, 2012[^34]"
+  },
+  {
+   "text": "“Once you’re in—it takes just **$99**—every game on OUYA is **free to try**, free to love and absolutely free to brag about.”",
+   "when": "ouya.tv · Jul 10, 2013[^34]"
+  },
+  {
+   "text": "“**1112** games and counting”, with tiles for “OUYA in China” and controller faceplates at $9.99 each.",
+   "when": "ouya.tv · Aug 11, 2015[^34]"
+  },
+  {
+   "text": "“**NOTICE: This website will be shutting down on June 25, 2019.**”",
+   "when": "ouya.tv · Jun 2, 2019[^34]"
+  }
+ ],
+ "note": "Embedded videos in these pages were not archived and show as empty boxes. The home page counter was drawn by a script; the July 2013 capture shows it mid-animation, so we do not use that reading as a figure.",
+ "captures": [
+  {
+   "date": "Aug 2012",
+   "label": "Pre-order",
+   "url": "http://www.ouya.tv/",
+   "wayback": "https://web.archive.org/web/20120809061252/http://www.ouya.tv/",
+   "image": "img/archive-2012-08-home.avif",
+   "h": 480,
+   "captured": "Aug 9, 2012",
+   "title": "The day the campaign closed",
+   "text": "A single page: “Pre-order OUYA now,” the slogan and a sign-up box. The Kickstarter page sent latecomers here.[^1]",
+   "warn": "The video in the white box was not archived."
+  },
+  {
+   "date": "Jul 2013",
+   "label": "$99",
+   "url": "http://www.ouya.tv/",
+   "wayback": "https://web.archive.org/web/20130710044150/http://www.ouya.tv/",
+   "image": "img/archive-2013-07-home.avif",
+   "h": 480,
+   "captured": "Jul 10, 2013",
+   "title": "Two weeks after the retail launch",
+   "text": "The product photograph, the price and the free-to-try promise. NPD’s “relatively light” assessment came nine days later.[^12]"
+  },
+  {
+   "date": "Aug 2015",
+   "label": "Sold",
+   "url": "http://www.ouya.tv/",
+   "wayback": "https://web.archive.org/web/20150811205546/http://www.ouya.tv/",
+   "image": "img/archive-2015-08-home.avif",
+   "h": 480,
+   "captured": "Aug 11, 2015",
+   "title": "Two weeks after Razer confirmed the deal",
+   "text": "A busier page: 1,112 games, a forum, “OUYA in China,” and accessories on sale. The console itself is no longer the centrepiece.[^25]"
+  },
+  {
+   "date": "Jun 2019",
+   "label": "Notice",
+   "url": "http://www.ouya.tv/",
+   "wayback": "https://web.archive.org/web/20190602134022/http://www.ouya.tv/",
+   "image": "img/archive-2019-06-home.avif",
+   "h": 480,
+   "captured": "Jun 2, 2019",
+   "title": "Twenty-three days to go",
+   "text": "The same page as in 2015 with a black banner across the top and the counter at 1,250.[^30]"
+  }
+ ]
+}

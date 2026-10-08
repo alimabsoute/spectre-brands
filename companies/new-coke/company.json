@@ -1,0 +1,98 @@
+{
+ "name": "New Coke",
+ "number": "027",
+ "tier": "ghost",
+ "tierWhy": "Coca-Cola took the 1985 formula off the market in the early 2000s, but in 2019 it partnered with Netflix “to temporarily bring back 1985’s New Coke” in a limited run of cans for “Stranger Things”; we found nothing sold under the name since.[^21][^25][^31]",
+ "category": "consumer",
+ "cause": "management",
+ "years": "1985 – 2002",
+ "died": 2002,
+ "dates": [
+  {
+   "date": "1985-04-23",
+   "text": "was announced in New York as the first change to Coca-Cola’s formula in 99 years"
+  },
+  {
+   "date": "1985-07-10",
+   "text": "lost its monopoly on the name when Coca-Cola said the old formula would return as Coca-Cola Classic"
+  },
+  {
+   "date": "2019-05-21",
+   "text": "was announced as a limited re-release tied to the third season of “Stranger Things”"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Reformulated cola · Atlanta, Georgia",
+ "title": "New Coke (1985–2002): post-mortem · Spectre Brands",
+ "description": "Coca-Cola changed its formula on April 23, 1985 and brought the old one back 79 days later. A sourced post-mortem of New Coke and Coke II, from the wire reports of 1985 and Coca-Cola’s own account to the 2019 re-release.",
+ "theme": {
+  "accent": "#c1121f",
+  "soft": "#fdeeee"
+ },
+ "card": {
+  "blurb": "Nearly 200,000 taste tests said the new formula was better. Coca-Cola replaced the old one with it, took 1,500 calls a day, and reversed itself in 79 days. The new drink stayed on sale for years as Coke II.",
+  "stat": {
+   "value": "79 days",
+   "label": "from the new formula’s launch to the return of the old one"
+  },
+  "spark": [
+   0,
+   21.7,
+   3,
+   0.1,
+   0
+  ],
+  "peak": 1
+ },
+ "hero": {
+  "dates": "Announced April 23, 1985. Old formula restored July 1985. Renamed Coke II from 1990. Withdrawn in the early 2000s.",
+  "standfirst": "The taste tests said people preferred it. Nobody had asked them how they would feel if the old one was taken away.",
+  "deck": "On April 23, 1985 the Coca-Cola Company replaced the formula of its flagship drink with a sweeter one that had won blind tests of nearly 200,000 people. Within weeks its hotline was taking 1,500 calls a day. On July 10 the company said the old formula would come back as Coca-Cola Classic, and the new one became the smaller of two Cokes, then Coke II, then nothing. This is the post-mortem, built from the wire reports of 1985, the company’s own published account and later reporting.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a red can with a silver wave. Not an official asset and not the trademarked design.",
+  "motion": "fizz"
+ },
+ "keyNumbers": {
+  "caption": "The product in four numbers",
+  "rows": [
+   {
+    "value": "79",
+    "text": "days between the launch of the new formula and the return of the old one, by Coca-Cola’s own count[^1]"
+   },
+   {
+    "value": "200,000",
+    "text": "consumers, nearly, in the taste tests that favored the new formula; a spokesman said “over 190,000” at the time[^1][^4]"
+   },
+   {
+    "value": "1,500",
+    "text": "calls a day to the consumer hotline by June 1985, against 400 a day before the change[^1][^5]"
+   },
+   {
+    "value": "31,600",
+    "text": "calls to the hotline in the two days after the old formula’s return was announced[^1]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The research was large, and it was about taste.",
+   "text": "A spokesman said more than 190,000 people preferred the new formula 55–45 blind and 61–39 when told what it was.[^4] Coca-Cola now says the tests did not show “the bond consumers felt with their Coca-Cola.”[^1]"
+  },
+  {
+   "title": "It did not join the old Coke. It replaced it.",
+   "text": "Production of the original stopped in April 1985.[^7] The complaint that followed was about the loss as much as the flavor."
+  },
+  {
+   "title": "Trial was high and so was the noise.",
+   "text": "By June the company said 110 million people had tried it and about 80% would buy it again, while taking 1,500 mostly negative calls a day.[^5]"
+  },
+  {
+   "title": "The reversal took 79 days.",
+   "text": "The return of the old formula as Coca-Cola Classic was announced on July 10, 1985; Coca-Cola stock rose $2.37 that day.[^6][^8]"
+  },
+  {
+   "title": "The new formula outlived its failure by years.",
+   "text": "It stayed on sale as “Coke,” was tested as Coke II in Spokane in 1990, and was withdrawn in 2002 or 2004, depending on the source.[^13][^19][^21]"
+  }
+ ]
+}

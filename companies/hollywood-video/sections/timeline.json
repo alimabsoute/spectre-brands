@@ -1,0 +1,377 @@
+{
+ "kicker": "Timeline",
+ "title": "Twenty-two years, 34 moments",
+ "lede": "From one store in Oregon to a blog. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "stores": {
+   "label": "Stores & product",
+   "color": "#93743a"
+  },
+  "deal": {
+   "label": "Takeover",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Bankruptcy & end",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "Jun 2",
+   "year": "1988",
+   "cat": "corporate",
+   "title": "Hollywood Entertainment incorporated",
+   "text": "Mark J. Wattles founds the company in Oregon.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1988",
+   "cat": "stores",
+   "title": "First Hollywood Video store opens",
+   "text": "The first store opens four months after incorporation.",
+   "src": [
+    1,
+    5
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "1993",
+   "cat": "money",
+   "title": "Initial public offering",
+   "text": "The company goes public. It ends the year with 25 stores and revenue of $17.3M.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1994",
+   "cat": "stores",
+   "title": "113 stores",
+   "text": "Hollywood opens 33 stores and acquires 55 in one year.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "1995",
+   "cat": "money",
+   "title": "Video Watch bought",
+   "text": "The assets of 42 Video Watch superstores are acquired for about $60.3M. The year ends with 305 stores in 23 states.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1996",
+   "cat": "stores",
+   "title": "250 openings in a year",
+   "text": "The chain reaches 551 stores in 29 states and plans at least 300 more for 1997.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1997",
+   "cat": "stores",
+   "title": "907 stores",
+   "text": "Revenue passes $500M. Long-term obligations reach $233.5M.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Oct 1",
+   "year": "1998",
+   "cat": "money",
+   "title": "Reel.com acquired",
+   "text": "Hollywood buys the online video retailer for about $96.9M. Wattles leaves his full-time post to run it.",
+   "src": [
+    3,
+    4
+   ]
+  },
+  {
+   "date": "Q4",
+   "year": "1998",
+   "cat": "stores",
+   "title": "Revenue sharing and DVD",
+   "text": "Revenue-sharing agreements with studios begin, and DVDs go on rental in most stores.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "",
+   "year": "1998",
+   "cat": "money",
+   "title": "First annual loss",
+   "text": "A net loss of $50.5M on revenue of $763.9M.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "1999",
+   "cat": "stores",
+   "title": "Game Crazy",
+   "text": "67 game departments are open inside Hollywood Video stores by year end. The chain has 1,615 stores.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1999",
+   "cat": "money",
+   "title": "Reel.com files to go public",
+   "text": "A registration statement for a Reel.com offering is filed. The offering does not happen.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Jan 24",
+   "year": "2000",
+   "cat": "money",
+   "title": "Rentrak settlement",
+   "text": "Hollywood pays Rentrak about $14.0M and issues 200,000 shares to settle a suit over revenue sharing.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Jun 12",
+   "year": "2000",
+   "cat": "death",
+   "title": "Reel.com’s store closed",
+   "text": "The e-commerce business is shut down. About 200 of 240 employees are dismissed the next day. The charge is $69.3M.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "Wattles returns",
+   "text": "The founder returns full time to Hollywood.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Q4",
+   "year": "2000",
+   "cat": "money",
+   "title": "Stores written down",
+   "text": "Same-store sales fall for the first time in 21 quarters. An impairment charge of $74.3M follows.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "2000",
+   "cat": "death",
+   "title": "Going-concern warning",
+   "text": "The company is in violation of its credit covenants. Its auditors cite substantial doubt about its ability to continue.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Jan 25",
+   "year": "2001",
+   "cat": "corporate",
+   "title": "A new contract for the founder",
+   "text": "Wattles receives 3 million shares, worth $3.27M that day, under a new employment agreement.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "",
+   "year": "2002",
+   "cat": "money",
+   "title": "Recovery",
+   "text": "Net income of $259.7M, as restated, and long-term obligations down to $388.7M.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Mar 28",
+   "year": "2004",
+   "cat": "deal",
+   "title": "Leonard Green buyout at $14.00",
+   "text": "Hollywood agrees to be taken private by an affiliate of Leonard Green & Partners.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Oct 13",
+   "year": "2004",
+   "cat": "deal",
+   "title": "Price cut to $10.25",
+   "text": "The merger agreement is amended and Hollywood is allowed to seek other bids.",
+   "src": [
+    7,
+    8
+   ]
+  },
+  {
+   "date": "Nov 2",
+   "year": "2004",
+   "cat": "deal",
+   "title": "Blockbuster proposes $11.50",
+   "text": "Blockbuster writes that it is prepared to make an all-cash offer.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Nov 10",
+   "year": "2004",
+   "cat": "deal",
+   "title": "Movie Gallery proposes $11.00",
+   "text": "A written proposal arrives from the Alabama chain.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Jan 9",
+   "year": "2005",
+   "cat": "deal",
+   "title": "Movie Gallery signs at $13.25",
+   "text": "Hollywood ends the Leonard Green agreement, paying $4.0M of expenses, and signs with Movie Gallery.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Feb 2",
+   "year": "2005",
+   "cat": "deal",
+   "title": "Blockbuster raises to $14.50; Wattles resigns",
+   "text": "Blockbuster offers $11.50 in cash and $3.00 in stock. Wattles resigns as chairman and CEO.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Mar 25",
+   "year": "2005",
+   "cat": "deal",
+   "title": "Blockbuster withdraws",
+   "text": "Blockbuster lets its hostile offer expire amid antitrust resistance.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Apr 27",
+   "year": "2005",
+   "cat": "corporate",
+   "title": "Merger completed",
+   "text": "Hollywood becomes a subsidiary of Movie Gallery in a deal valued at about $1.25B including debt.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "FY",
+   "year": "2005",
+   "cat": "money",
+   "title": "$522.95M goodwill impairment",
+   "text": "Movie Gallery reports a net loss of $552.7M for its first year with Hollywood.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "",
+   "year": "2007",
+   "cat": "money",
+   "title": "Trademark written down",
+   "text": "The Hollywood trademark is impaired by $95.4M and $60.5M, to $15.0M.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Oct 16",
+   "year": "2007",
+   "cat": "death",
+   "title": "Movie Gallery’s first Chapter 11",
+   "text": "The company and its U.S. subsidiaries file in Richmond, Virginia.",
+   "src": [
+    13,
+    14
+   ]
+  },
+  {
+   "date": "May 20",
+   "year": "2008",
+   "cat": "corporate",
+   "title": "Emergence",
+   "text": "Movie Gallery leaves bankruptcy. Old shares are cancelled. By late 2008 affiliates of Sopris Capital control 86.3% of the votes.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Feb 2",
+   "year": "2010",
+   "cat": "death",
+   "title": "Second Chapter 11",
+   "text": "About 760 stores begin closing at once. 545 Hollywood Video stores remain.",
+   "src": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "date": "May",
+   "year": "2010",
+   "cat": "death",
+   "title": "Liquidation",
+   "text": "Movie Gallery tells the court it will close its remaining stores. A judge approves on May 19.",
+   "src": [
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "2010",
+   "cat": "corporate",
+   "title": "Brands sent to auction",
+   "text": "The estate submits a plan to auction its intellectual property, including Reel.com, through StreamBank.",
+   "src": [
+    21
+   ]
+  }
+ ]
+}

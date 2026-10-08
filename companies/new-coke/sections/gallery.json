@@ -1,0 +1,85 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Red, silver and one small word",
+ "label": "Brand gallery",
+ "lede": "Two photographs of the 1985 packaging are on Wikimedia Commons in the public domain; both are small and undated. The launch predates the web, so there is no site capture from 1985 to show. The drawings are ours.",
+ "archive": [
+  {
+   "image": "img/photo-new-coke-can.avif",
+   "date": "Undated",
+   "caption": "The 12-ounce can with the “NEW!” flash.",
+   "alt": "A red can with a silver wave, the word Coke in white and a yellow NEW! flash at the top",
+   "credit": "Photo: Jetijonez, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:New_Coke_can.jpg), public domain. Trademarks belong to their owners; shown for commentary."
+  },
+  {
+   "image": "img/photo-new-coke-bottle.avif",
+   "date": "Undated",
+   "caption": "A small bottle with the same label.",
+   "alt": "A small bottle of cola with a red and silver label reading Coke and NEW!",
+   "credit": "Photo: My100cans, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Newcokebottle2.jpg), public domain. Trademarks belong to their owners; shown for commentary."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "One Coke in April, two in July",
+   "ratio": "4/3",
+   "before": {
+    "label": "Apr 1985",
+    "art": "art/hero.svg",
+    "bg": "#fdeeee",
+    "caption": "The new formula replaces the old one.[^3]",
+    "alt": "Drawing of a single red can with a NEW flash"
+   },
+   "after": {
+    "label": "Jul 1985",
+    "art": "art/two-cans.svg",
+    "bg": "#f1efea",
+    "caption": "The old formula returns as Classic and is sold beside it.[^6]",
+    "alt": "Drawing of two red cans, one marked NEW and one marked CLASSIC"
+   },
+   "source": "Both panels are original illustrations, not photographs or official artwork. Dates: The Washington Post[^3] and UPI[^6]."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The can.",
+   "caption": "Red, a silver wave and a flash. Original illustration; it does not reproduce the logo."
+  },
+  {
+   "art": "art/phone.svg",
+   "title": "The hotline.",
+   "caption": "Fifteen hundred calls a day by June 1985, and “a barrage of angry letters.”[^1][^8] Original illustration."
+  },
+  {
+   "art": "art/hoard.svg",
+   "title": "The basement.",
+   "caption": "Coca-Cola’s history describes people hoarding as many as 900 bottles of the old drink.[^1] Original illustration, not a photograph of a real cellar."
+  },
+  {
+   "art": "art/two-cans.svg",
+   "title": "The pair.",
+   "caption": "New and Classic, sold side by side from July 1985.[^6] Original illustration with our own lettering."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#c1121f",
+   "label": "Can red (approx.)"
+  },
+  {
+   "hex": "#d9dde2",
+   "label": "Wave silver (approx.)"
+  },
+  {
+   "hex": "#ffd21f",
+   "label": "Flash yellow (approx.)"
+  },
+  {
+   "hex": "#fbf9f5",
+   "label": "Lettering white"
+  }
+ ],
+ "disclaimer": "Colours were matched by eye to the Wikimedia Commons photographs and are approximate. Coca-Cola, Coke, Coca-Cola Classic and Coke II are trademarks of The Coca-Cola Company and appear here in historical and editorial context. The drawings are original illustrations, not official assets, and do not reproduce the logo."
+}

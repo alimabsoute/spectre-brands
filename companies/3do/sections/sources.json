@@ -1,0 +1,217 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "3DO was a Nasdaq company from May 1993, and its annual reports from fiscal 1996 onward are on SEC EDGAR. Those filings, which also restate the earlier years, are the spine of this page. The console years before EDGAR are filled in from The New York Times and the Los Angeles Times.",
+ "list": [
+  {
+   "id": 1,
+   "text": "The 3DO Company — [Form 10-K for the fiscal year ended March 31, 1996](https://www.sec.gov/Archives/edgar/data/898441/0000891618-96-001082.txt), filed Jun 28, 1996. Business history, the M2 licence, selected financial data for fiscal 1992–1996, the NTG acquisition and the 1993 offering."
+  },
+  {
+   "id": 2,
+   "text": "The 3DO Company — [Form 10-K for the fiscal year ended March 31, 1997](https://www.sec.gov/Archives/edgar/data/898441/0000891618-97-002784.txt), filed Jun 30, 1997."
+  },
+  {
+   "id": 3,
+   "text": "The 3DO Company — [Form 10-K for the fiscal year ended March 31, 1998](https://www.sec.gov/Archives/edgar/data/898441/0000891618-98-003061.txt), filed Jun 25, 1998. The Samsung sale and the second M2 addendum."
+  },
+  {
+   "id": 4,
+   "text": "The 3DO Company — [Form 10-K for the fiscal year ended March 31, 1999](https://www.sec.gov/Archives/edgar/data/898441/0001047469-99-024501.txt), filed Jun 17, 1999. Segment data for fiscal 1995–1999 and revenue by brand."
+  },
+  {
+   "id": 5,
+   "text": "The 3DO Company — [Form 10-K for the fiscal year ended March 31, 2000](https://www.sec.gov/Archives/edgar/data/898441/0000912057-00-030423.txt), filed Jun 29, 2000."
+  },
+  {
+   "id": 6,
+   "text": "The 3DO Company — [Form 10-K for the fiscal year ended March 31, 2001](https://www.sec.gov/Archives/edgar/data/898441/0000950005-01-500257.txt), filed Jun 29, 2001."
+  },
+  {
+   "id": 7,
+   "text": "The 3DO Company — [Form 10-K for the fiscal year ended March 31, 2002](https://www.sec.gov/Archives/edgar/data/898441/0001012870-02-002898.txt), filed Jul 1, 2002. The last annual report, with the going-concern warning."
+  },
+  {
+   "id": 8,
+   "text": "The 3DO Company — [Form 10-Q for the quarter ended December 31, 2002](https://www.sec.gov/Archives/edgar/data/898441/0000950005-03-000284.txt), filed Feb 14, 2003. The last periodic report the company filed."
+  },
+  {
+   "id": 9,
+   "text": "The 3DO Company — [Form 8-K](https://www.sec.gov/Archives/edgar/data/898441/0001133884-02-000947.txt), filed Aug 22, 2002 (one-for-eight reverse stock split)."
+  },
+  {
+   "id": 10,
+   "text": "The 3DO Company — [Form 8-K](https://www.sec.gov/Archives/edgar/data/898441/0000950005-02-000933.txt), filed Oct 7, 2002 ($3,000,000 secured bridge note from William M. Hawkins III)."
+  },
+  {
+   "id": 11,
+   "text": "The 3DO Company — [Form 8-K](https://www.sec.gov/Archives/edgar/data/898441/0000950005-03-000011.txt), filed Jan 7, 2003 (Note and Warrant Purchase Agreement with Mr. Hawkins, up to $8,000,000)."
+  },
+  {
+   "id": 12,
+   "text": "The 3DO Company — [Form 8-K](https://www.sec.gov/Archives/edgar/data/898441/0000950005-03-000550.txt), filed May 8, 2003 (WARN Act notice of a mass layoff)."
+  },
+  {
+   "id": 13,
+   "text": "The 3DO Company — [Form 8-K](https://www.sec.gov/Archives/edgar/data/898441/0000950005-03-000588.txt), filed May 14, 2003, with the press release “The 3DO Company Considers Strategic Options,” May 13, 2003."
+  },
+  {
+   "id": 14,
+   "text": "The 3DO Company — [Form 8-K](https://www.sec.gov/Archives/edgar/data/898441/0000950005-03-000639.txt), filed May 30, 2003, with the press release “The 3DO Company Files Chapter 11,” May 28, 2003."
+  },
+  {
+   "id": 15,
+   "text": "The 3DO Company — [Form 8-K](https://www.sec.gov/Archives/edgar/data/898441/0000950005-03-000654.txt), filed Jun 4, 2003, with the press release “The 3DO Company Notified of Nasdaq Delisting,” May 30, 2003."
+  },
+  {
+   "id": 16,
+   "text": "The 3DO Company — [Form 8-K](https://www.sec.gov/Archives/edgar/data/898441/0000950005-03-000901.txt), filed Sep 5, 2003 (the August 14 auction, its total and winning bidders, board resignations, and the expected liquidation)."
+  },
+  {
+   "id": 17,
+   "text": "U.S. Securities and Exchange Commission — [Order Making Findings and Revoking Registrations by Default](https://www.sec.gov/files/litigation/admin/2008/34-59156.pdf), Exchange Act Release No. 59156, Dec 23, 2008."
+  },
+  {
+   "id": 18,
+   "text": "[“Is 3-D the Next Step in Home Entertainment?”](https://www.latimes.com/archives/la-xpm-1993-01-08-fi-950-story.html), Los Angeles Times, Jan 8, 1993."
+  },
+  {
+   "id": 19,
+   "text": "[“Alphabet Soup, With a Dash of Hype”](https://web.archive.org/web/20180118171348/http://www.nytimes.com/1993/01/08/business/alphabet-soup-with-a-dash-of-hype.html), The New York Times, Jan 8, 1993 (Internet Archive copy)."
+  },
+  {
+   "id": 20,
+   "text": "[“Market Place; Investors can only guess which video game device will conquer.”](https://web.archive.org/web/20180727115233/https://www.nytimes.com/1993/09/09/business/market-place-investors-can-only-guess-which-video-game-device-will-conquer.html), The New York Times, Sep 9, 1993 (Internet Archive copy)."
+  },
+  {
+   "id": 21,
+   "text": "[“3DO Sales Called Pleasing”](https://web.archive.org/web/20150526093407/http://www.nytimes.com/1993/11/20/business/3do-sales-called-pleasing.html), The New York Times, Nov 20, 1993 (Internet Archive copy)."
+  },
+  {
+   "id": 22,
+   "text": "[“Trip Hawkins to Focus His Efforts on Struggling 3DO”](https://www.latimes.com/archives/la-xpm-1994-06-22-fi-7168-story.html), Los Angeles Times, Jun 22, 1994."
+  },
+  {
+   "id": 23,
+   "text": "[“For 3DO, a Make-or-Break Season”](https://web.archive.org/web/20180727120814/https://www.nytimes.com/1994/12/11/business/for-3do-a-make-or-break-season.html?pagewanted=all), The New York Times, Dec 11, 1994 (Internet Archive copy)."
+  },
+  {
+   "id": 24,
+   "text": "[“Technology: Digital Commerce; 3DO’s chief pauses for a mea culpa, then offers an advanced games machine.”](https://web.archive.org/web/20240422160618/https://www.nytimes.com/1995/10/02/business/technology-digital-commerce-3do-s-chief-pauses-for-mea-culpa-then-offers.html), The New York Times, Oct 2, 1995 (Internet Archive copy; we could read only the opening paragraphs)."
+  },
+  {
+   "id": 25,
+   "text": "[“3DO Says ‘I Do’ to a Major Switch in Its Game Strategy”](https://www.latimes.com/archives/la-xpm-1996-09-17-fi-44710-story.html), Los Angeles Times, Sep 17, 1996."
+  },
+  {
+   "id": 26,
+   "text": "Micheal Mullen, [“M2, We Hardly Knew You”](https://web.archive.org/web/19990504114422/http://headline.gamespot.com/news/97_07/03_mtwo/index.html), GameSpot News, Jul 3, 1997 (Internet Archive copy), citing Kyodo."
+  },
+  {
+   "id": 27,
+   "text": "Bloomberg News, [“Video Game Maker 3DO Issues Profit Warning”](https://www.latimes.com/archives/la-xpm-2000-jun-08-fi-38859-story.html), Los Angeles Times, Jun 8, 2000."
+  },
+  {
+   "id": 28,
+   "text": "[“Game Maker 3DO Files for Chapter 11”](https://www.latimes.com/archives/la-xpm-2003-may-29-fi-rup29.2-story.html), Los Angeles Times, May 29, 2003."
+  },
+  {
+   "id": 29,
+   "text": "David Becker, [“3DO files for bankruptcy”](https://www.cnet.com/tech/tech-industry/3do-files-for-bankruptcy/), CNET News.com, May 29, 2003."
+  },
+  {
+   "id": 30,
+   "text": "Rob Fahey, [“Namco, Ubisoft and MS carve up 3DO assets”](https://www.gamesindustry.biz/articles/namco-ubisoft-and-ms-carve-up-3do-assets), GamesIndustry.biz, Aug 18, 2003."
+  },
+  {
+   "id": 31,
+   "text": "Rob Fahey, [“Final results of 3DO asset auctions released”](https://www.gamesindustry.biz/final-results-of-3do-asset-auctions-released), GamesIndustry.biz, Aug 20, 2003."
+  },
+  {
+   "id": 32,
+   "text": "Steven Rodriguez, [“3DO Sells off Game Properties”](https://www.nintendoworldreport.com/news/8929/3do-sells-off-game-properties), Nintendo World Report, Aug 21, 2003. The only source we found for the price of the Microsoft bid."
+  },
+  {
+   "id": 33,
+   "text": "Ziggurat Interactive — [“Ziggurat Interactive Acquires 3DO Games Catalog from Prism Entertainment”](https://www.ziggurat.games/news/acquires-3do-games-catalog), press release, April 2020."
+  },
+  {
+   "id": 34,
+   "text": "[“Ziggurat Interactive acquires 3DO Game Company portfolio”](https://www.gamesindustry.biz/articles/2020-04-27-ziggurat-interactive-acquires-3do-game-company-portfolio), GamesIndustry.biz, Apr 27, 2020."
+  },
+  {
+   "id": 35,
+   "text": "[“Empire Interactive Withdraws From ‘3DO Project’ Due To ‘Likelihood Of Prolonged Legal Disputes’”](https://www.timeextension.com/news/2026/07/empire-interactive-withdraws-from-3do-project-due-to-likelihood-of-prolonged-legal-disputes), Time Extension, July 2026, updated Jul 4, 2026."
+  },
+  {
+   "id": 36,
+   "text": "Phil Hayton, [“Plans to revive the 3DO are already dead, with the publisher claiming it ‘did not anticipate such fragmentation of rights’”](https://www.gamesradar.com/hardware/retro/plans-to-revive-the-3do-are-already-dead-with-the-publisher-claiming-it-did-not-anticipate-such-fragmentation-of-rights/), GamesRadar+, July 2026."
+  },
+  {
+   "id": 37,
+   "text": "Daniel Cooper, [“A strange attempt to revive the 3DO is already dead”](https://www.engadget.com/2206578/3do-revival-empire-interactive/), Engadget, Jul 2, 2026."
+  },
+  {
+   "id": 38,
+   "text": "[“Trip Hawkins joins mobile eSports platform Skillz”](https://www.gamesindustry.biz/articles/2014-12-15-trip-hawkins-joins-mobile-esports-platform-skillz), GamesIndustry.biz, Dec 15, 2014."
+  },
+  {
+   "id": 39,
+   "text": "[“Trip Hawkins 3DO and Jaguar interview 1993 | CBS News Herb Weisbaum”](https://www.youtube.com/watch?v=CeFo6jjpWuE), YouTube, uploaded by Mark Swierszcz on Mar 6, 2024. The date and network are the uploader’s."
+  },
+  {
+   "id": 40,
+   "text": "The Computer Chronicles, [“Consumer Electronics Show 1993”](https://archive.org/details/episode_1023), Stewart Cheifet Productions, 1993, in the Internet Archive’s Computer Chronicles collection."
+  },
+  {
+   "id": 41,
+   "text": "Evan-Amos, photographs of the [Panasonic FZ-1](https://commons.wikimedia.org/wiki/File:3DO-FZ1-Console-Set.jpg) and [Goldstar GDO-101M](https://commons.wikimedia.org/wiki/File:3DO-GDO-101M-Console-Set.jpg) 3DO consoles, Wikimedia Commons, CC BY-SA 3.0."
+  },
+  {
+   "id": 42,
+   "text": "Internet Archive Wayback Machine — captures of 3do.com: [Dec 30, 1996](https://web.archive.org/web/19961230232559/http://www2.3do.com/) and [Apr 1, 2003](https://web.archive.org/web/20030401131749/http://www.3do.com/index.html)."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "Revenue of $92.4M for fiscal 1997 and $38.9M for fiscal 1998 is the sum of the software and hardware segments in the fiscal 1999 10-K ($9,540K + $82,810K; $9,429K + $29,461K).[^4] Fiscal 2003 revenue of about $30M is $20.0M for the nine months to December 2002[^8] plus about $10.0M for the March quarter[^13]; it was never audited and no 10-K was filed. Losses of $150.5M to March 1996 are $2.7M + $15.4M + $51.4M + $46.3M + $34.7M.[^1] The $90M net M2 fee is $100M − $6.0M − $4.0M of Japanese withholding tax.[^1] Hawkins’s $405,000 at auction is $200,000 + $205,000.[^31] The $15,000 “not itemised” line in the auction diagram is $4,585,000[^16] minus the seven reported bids, which total $4,570,000.[^30][^31][^32] $699 ÷ $89 ≈ 7.9; $699 − $399 = $300; $47.5M ÷ $300 ≈ 158,000. $0.46 ÷ 8 ≈ $0.06. $1.3M + $0.75M + $0.45M = $2.5M."
+  },
+  {
+   "label": "As reported and restated",
+   "text": "The homepage sparkline and the revenue chart use each year’s figure as first reported: fiscal 1994–96 from the 1996 10-K, 1997–99 from the 1999 10-K, then one 10-K per year, with a derived, unaudited final point. They therefore mix primary and derived figures. The fiscal 2002 10-K restated software revenue to $8.0M (1998), $46.5M (1999), $118.5M (2000) and $80.0M (2001).[^7] Net income figures for fiscal 2000–2002 are from that same 10-K."
+  },
+  {
+   "label": "Estimates and press figures",
+   "text": "Unit sales (40,000 shipped to the United States by November 1993; 300,000 worldwide by September 1994) are Matsushita’s statements to The New York Times, not audited figures.[^21][^23] Prices of individual auction lots are from trade press; 3DO’s 8-K gives only the total and the names of the bidders, and the Microsoft price appears in one outlet only.[^16][^30][^31][^32] Saturn and PlayStation launch figures and prices are as the Times reported them in dollars.[^23]"
+  },
+  {
+   "label": "Unverified",
+   "text": "A lifetime total of about 2 million 3DO consoles. An initial offering price of $15 a share (the 10-K gives 3,485,000 shares and $47.5M net of $4.6M costs, which implies about $15, but we did not see the prospectus).[^1] That Time magazine named the console a product of the year for 1993. The trademark claims made in 2026 by Empire Interactive and Throwback Entertainment, which we report as claims and did not check against any register.[^35]"
+  },
+  {
+   "label": "Conflicts between sources",
+   "text": "The launch price is $699 in The New York Times[^20][^23], “$700” in other reports[^18][^21][^29]. The Times in December 1994 still called Hawkins chairman of Electronic Arts, six months after the Los Angeles Times reported he was stepping down.[^22][^23] The SEC’s 2008 order says the bankruptcy case “was converted into a Chapter 11 petition” on November 7, 2003, which reads like a slip, since it began as one; we do not state what it was converted to.[^17]"
+  },
+  {
+   "label": "Unknown",
+   "text": "How many consoles were sold in total. What creditors recovered. Which buyer, if any, acquired the 3DO trademark in 2003, and who owns it now. Audited results for the year to March 31, 2003. The exact day in October 1993 the console went on sale; a date of October 4 is often given, and we could not confirm it."
+  },
+  {
+   "label": "The tier",
+   "text": "We list 3DO as a ghost, not dead, on a narrow reading: no product is sold under the name, but the name is still being claimed, registered and argued over, and games the company owned are being re-released by others.[^33][^35] If the 2026 claims lapse with nothing sold, it should be reclassified as dead."
+  },
+  {
+   "label": "How we read the sources",
+   "text": "SEC filings were downloaded from EDGAR and read as text. Los Angeles Times archive pages loaded directly. New York Times articles were read in Internet Archive copies, which is what we link to; the 1995 article showed only its opening paragraphs. GamesRadar+ and Engadget are used for the 2026 episode alongside Time Extension, which did the original reporting."
+  },
+  {
+   "label": "Images and video",
+   "text": "Console photographs are by Evan-Amos on Wikimedia Commons under CC BY-SA 3.0.[^41] Website screenshots are Internet Archive captures with the Wayback toolbar cropped off.[^42] Drawings are original. Air dates of commercials are the uploaders’ unless stated."
+  },
+  {
+   "label": "General knowledge",
+   "text": "That the Sega Saturn, Atari Jaguar and Philips CD-i were later discontinued and that Sony still sells PlayStation consoles. That Panasonic is a Matsushita brand and Goldstar an LG brand."
+  }
+ ]
+}

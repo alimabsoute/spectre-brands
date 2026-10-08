@@ -1,0 +1,419 @@
+{
+ "kicker": "The money",
+ "title": "Six years up, one year down",
+ "lede": "Zany Brainy filed with the SEC from its 1999 offering until 2002, and its buyer did so until 2004. Two sets of figures exist for 1996 to 1999: the company’s own, and a later restatement that adds Noodle Kidoodle’s results as if the two had always been one company. We label which is which.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Stores: 16 to 188 to none",
+   "subtitle": "Zany Brainy stores at the dates the filings give a count. The February 2001 figure includes 60 former Noodle Kidoodle stores.",
+   "labels": [
+    "FY94",
+    "FY95",
+    "FY96",
+    "FY97",
+    "FY98",
+    "FY99",
+    "Feb ’01",
+    "May ’01",
+    "Spring ’02",
+    "Apr ’03",
+    "After Dec ’03"
+   ],
+   "format": "num",
+   "xLabel": "Fiscal year end or date of the report (not evenly spaced)",
+   "series": [
+    {
+     "label": "Stores",
+     "data": [
+      16,
+      31,
+      43,
+      52,
+      75,
+      103,
+      188,
+      187,
+      169,
+      89,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 2,
+     "title": "the first overbuild",
+     "text": "38 stores opened in three years. The company called the results “disappointing” and changed managers.[^1]"
+    },
+    {
+     "i": 5,
+     "title": "the IPO year",
+     "text": "103 stores in 26 states, and the best profit the company made on its own.[^2]"
+    },
+    {
+     "i": 6,
+     "title": "the peak",
+     "text": "188 stores in 34 states after the Noodle Kidoodle merger and 27 openings.[^3]"
+    },
+    {
+     "i": 7,
+     "title": "Chapter 11",
+     "text": "187 stores on May 15, 2001. All of them went to The Right Start in September.[^5][^10]"
+    },
+    {
+     "i": 9,
+     "title": "the parent’s bankruptcy",
+     "text": "FAO Inc. closed 80 Zany Brainy stores in its 2003 reorganization and kept 89.[^14]"
+    },
+    {
+     "i": 10,
+     "title": "liquidation",
+     "text": "FAO Inc. announced on December 2, 2003 that it would liquidate the chain.[^17][^25]"
+    }
+   ],
+   "source": "Fiscal 1994–98: prospectus[^1]. Fiscal 1999: annual report[^2]. February 2001: annual report[^3]. May 2001: press release[^5]. Spring 2002 and April 2003: FAO Inc. annual reports[^12][^14]. The final zero is the announced liquidation of all 89 stores[^17][^25]; we have no date for the last closing."
+  },
+  {
+   "kind": "chart",
+   "id": "zbSales",
+   "title": "Net sales",
+   "subtitle": "$ millions, by fiscal year. Toggle between Zany Brainy’s own figures and the restated figures that include Noodle Kidoodle.",
+   "views": [
+    {
+     "label": "Zany Brainy alone",
+     "chart": {
+      "type": "bar",
+      "height": 320,
+      "legend": false,
+      "labels": [
+       "FY94",
+       "FY95",
+       "FY96",
+       "FY97",
+       "FY98",
+       "FY99"
+      ],
+      "y": {
+       "format": "usdM",
+       "min": 0
+      },
+      "series": [
+       {
+        "label": "Net sales ($M)",
+        "data": [
+         23.5,
+         54.4,
+         92.6,
+         123.3,
+         168.5,
+         241.2
+        ],
+        "colors": [
+         "grey",
+         "grey",
+         "grey",
+         "brand",
+         "brand",
+         "brand"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "label": "Restated with Noodle Kidoodle",
+     "chart": {
+      "type": "bar",
+      "height": 320,
+      "legend": false,
+      "labels": [
+       "FY96",
+       "FY97",
+       "FY98",
+       "FY99",
+       "FY00"
+      ],
+      "y": {
+       "format": "usdM",
+       "min": 0
+      },
+      "series": [
+       {
+        "label": "Net sales ($M)",
+        "data": [
+         152.0,
+         205.0,
+         276.4,
+         376.2,
+         400.5
+        ],
+        "colors": [
+         "grey",
+         "grey",
+         "brand",
+         "brand",
+         "red"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "source": "Zany Brainy alone: prospectus and fiscal 1999 annual report[^1][^2]. Restated: fiscal 2000 annual report, which combines the two companies for every year shown because the merger was accounted for as a pooling of interests[^3]. Fiscal 2000 had 53 weeks. Figures are rounded from thousands."
+  },
+  {
+   "kind": "chart",
+   "id": "zbProfit",
+   "title": "Net income and loss",
+   "subtitle": "$ millions, by fiscal year, on the same two bases.",
+   "views": [
+    {
+     "label": "Zany Brainy alone",
+     "chart": {
+      "type": "bar",
+      "height": 300,
+      "legend": false,
+      "labels": [
+       "FY94",
+       "FY95",
+       "FY96",
+       "FY97",
+       "FY98",
+       "FY99"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Net income or loss ($M)",
+        "data": [
+         -6.7,
+         -7.8,
+         -6.0,
+         -0.2,
+         9.0,
+         6.9
+        ],
+        "colors": [
+         "red",
+         "red",
+         "red",
+         "red",
+         "green",
+         "green"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "label": "Restated with Noodle Kidoodle",
+     "chart": {
+      "type": "bar",
+      "height": 300,
+      "legend": false,
+      "labels": [
+       "FY96",
+       "FY97",
+       "FY98",
+       "FY99",
+       "FY00"
+      ],
+      "y": {
+       "format": "usdM"
+      },
+      "series": [
+       {
+        "label": "Net income or loss ($M)",
+        "data": [
+         -13.1,
+         -1.8,
+         12.6,
+         18.6,
+         -80.7
+        ],
+        "colors": [
+         "red",
+         "red",
+         "green",
+         "green",
+         "red"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "source": "Prospectus and annual reports[^1][^2][^3]. Fiscal 1998 includes a $6.2M net tax benefit (Zany Brainy alone) and fiscal 1999 restated includes a $7.3M tax benefit recorded by Noodle Kidoodle and a $1.6M gain on discontinued operations. Fiscal 2000 includes a $33.9M valuation allowance against deferred tax assets."
+  },
+  {
+   "kind": "bars",
+   "title": "What the company blamed for the 2000 loss",
+   "subtitle": "Items the annual report names as the main reasons for the $80.7M net loss, $ millions. They overlap with tax effects and do not add up to the loss.",
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "itemLabel": "Item",
+   "valueLabel": "Amount",
+   "items": [
+    {
+     "label": "Write-off of deferred tax assets",
+     "value": 33.9,
+     "color": "ink",
+     "note": "A full valuation allowance."
+    },
+    {
+     "label": "Charges tied to the Noodle Kidoodle acquisition",
+     "value": 29.4,
+     "color": "brand",
+     "note": "Includes $20.6M of merger and integration costs and an $8.8M inventory write-off."
+    },
+    {
+     "label": "Losses from ZanyBrainy.com",
+     "value": 11.5,
+     "color": "gold",
+     "note": "The equity loss in the internet joint venture."
+    }
+   ],
+   "source": "Fiscal 2000 annual report[^3]. The report also names the 10.0% fall in comparable-store sales, which it does not put a dollar figure on as a cause of the loss."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "bars",
+     "title": "The share price",
+     "subtitle": "Dollars per share at five points.",
+     "format": "usd2",
+     "itemLabel": "Date",
+     "valueLabel": "Price",
+     "items": [
+      {
+       "label": "IPO price, Jun 3, 1999",
+       "value": 10.0,
+       "color": "ink"
+      },
+      {
+       "label": "First-day close",
+       "value": 11.44,
+       "color": "grey"
+      },
+      {
+       "label": "High, quarter to Oct 1999",
+       "value": 14.06,
+       "color": "brand"
+      },
+      {
+       "label": "Low, quarter to Feb 3, 2001",
+       "value": 0.41,
+       "color": "gold"
+      },
+      {
+       "label": "Close on the day of the filing, May 15, 2001",
+       "value": 0.33,
+       "color": "red"
+      }
+     ],
+     "source": "Prospectus[^1], Publishers Weekly for the first-day close[^19], and the fiscal 2000 annual report for quarterly highs and lows and the May 15 close[^3]."
+    },
+    {
+     "kind": "scale",
+     "title": "One IPO share bought about 30 at the end",
+     "icon": "coin",
+     "count": 30,
+     "left": {
+      "value": "$10.00",
+      "label": "price of one share at the June 1999 offering[^1]"
+     },
+     "unit": {
+      "value": "$0.33",
+      "label": "closing price on May 15, 2001, the day of the Chapter 11 filing[^3]"
+     },
+     "equation": "$10.00 ÷ $0.33 ≈ 30.3. Shareholders received nothing in the sale, and the shares were cancelled in March 2002.[^10][^29]"
+    }
+   ]
+  },
+  {
+   "kind": "flow",
+   "title": "Where the 187 stores went",
+   "subtitle": "The stores The Right Start took over in September 2001, by what became of them.",
+   "format": "num",
+   "from": {
+    "label": "Stores sold to The Right Start, Sep 2001",
+    "value": 187
+   },
+   "to": [
+    {
+     "label": "Closed by spring 2002 (derived)",
+     "value": 18,
+     "color": "gold",
+     "note": "187 − 169"
+    },
+    {
+     "label": "Closed in FAO Inc.’s 2003 reorganization",
+     "value": 80,
+     "color": "red",
+     "note": "Chosen store by store on projected 2003 results[^14]"
+    },
+    {
+     "label": "Open until the December 2003 liquidation",
+     "value": 89,
+     "color": "ink",
+     "note": "In 27 states[^14]"
+    }
+   ],
+   "source": "187 stores[^10][^11]; “reduced to 169 as a result of closures”[^12]; 80 closed and 89 remaining[^14]. The first figure is derived. FAO Inc.’s fiscal 2002 report describes the same closings as 171 stores acquired, two closed during fiscal 2002 and 80 closed in the reorganization; the totals agree."
+  },
+  {
+   "kind": "counters",
+   "title": "The credit squeeze of 2001",
+   "items": [
+    {
+     "value": "$115M",
+     "text": "maximum size of the credit facility signed in July 2000, secured on inventory[^3][^4]"
+    },
+    {
+     "value": "$49.8M",
+     "text": "borrowed under it on March 13, 2001, against availability of $50.7M[^4]"
+    },
+    {
+     "value": "$46.2M",
+     "text": "in accounts payable on May 5, 2001, up from $37.1M three months earlier[^7]"
+    },
+    {
+     "value": "$19.1M",
+     "text": "net loss in the 13 weeks to May 5, 2001, on sales of $66.2M[^7]"
+    }
+   ],
+   "source": "Zany Brainy 8-K of March 15, 2001[^4] and 10-Q for the quarter ended May 5, 2001[^7]. Publishers Weekly reported that the petition listed assets of $201M and liabilities of $131M, with Learning Curve Toys the largest creditor at $3.0M[^21]; we have not seen the petition."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The sale to The Right Start, September 2001",
+   "rows": [
+    {
+     "value": "$63.8M",
+     "text": "paid to Zany Brainy’s bankruptcy lender at closing, from a new Wells Fargo Retail Finance loan[^11]"
+    },
+    {
+     "value": "$26.0M",
+     "text": "of other liabilities assumed, by the buyer’s estimate: trade payables, fees, taxes, wages and gift certificates[^11]"
+    },
+    {
+     "value": "$7.5M",
+     "text": "in cash, in three instalments, plus 1.1 million Right Start shares for unsecured creditors[^11]"
+    },
+    {
+     "value": "$0",
+     "text": "for Zany Brainy’s shareholders[^10]"
+    }
+   ],
+   "source": "The Right Start’s 8-K of September 20, 2001[^11]. Zany Brainy’s own 8-K summarized the consideration as “approximately $100 million.”[^10] The August press release had described it as $11.7M in cash, about $85M of assumed liabilities and 1.1 million shares.[^9]"
+  }
+ ]
+}

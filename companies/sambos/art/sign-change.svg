@@ -1,0 +1,18 @@
+<svg viewBox="0 0 440 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a rooftop sign of six round discs above a tiled roof; a worker on a lift covers the letters, the first disc already showing a peace symbol">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 300 H432" fill="none"/>
+<path d="M20 300 V236 H330 V300" fill="#fbf9f5"/>
+<path d="M8 236 L60 196 H300 L346 236 Z" fill="#b5532a"/>
+<path d="M90 196 l-14 40 M150 196 l-8 40 M210 196 v40 M270 196 l12 40" fill="none" stroke-width="2"/>
+<path d="M40 258 H310" fill="none" stroke="#1f6e4d" stroke-width="12"/>
+<path d="M58 196 V168 M292 196 V168 M40 168 H312" fill="none"/>
+<g fill="#fbf9f5"><circle cx="64" cy="140" r="26"/><circle cx="112" cy="134" r="26"/><circle cx="160" cy="130" r="26"/><circle cx="208" cy="130" r="26"/><circle cx="256" cy="134" r="26"/><circle cx="302" cy="142" r="26"/></g>
+<g fill="none" stroke-width="4"><circle cx="64" cy="140" r="15"/><path d="M64 125 V155 M64 140 L54 151 M64 140 L74 151"/></g>
+<g fill="none" stroke="#9a9184" stroke-width="5"><path d="M104 134 h16 M152 130 h16 M200 130 h16 M248 134 h16 M294 142 h16"/></g>
+<rect x="352" y="150" width="56" height="34" fill="#f6d04d"/>
+<path d="M380 184 L364 300 M380 184 L404 300 M370 256 H398" fill="none" stroke-width="5"/>
+<circle cx="378" cy="118" r="11" fill="#e9c9a4"/>
+<path d="M378 129 V152 M378 136 L338 140" fill="none" stroke-width="5"/>
+<rect x="318" y="128" width="22" height="24" rx="3" fill="#fbf9f5"/>
+<rect x="346" y="296" width="76" height="12" rx="4" fill="#5c5750"/>
+</g></svg>

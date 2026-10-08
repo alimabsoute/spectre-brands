@@ -1,0 +1,392 @@
+{
+ "kicker": "Timeline",
+ "title": "Thirty-five years, 35 moments",
+ "lede": "From a licensing plan to a courtroom auction, and a trademark quarrel 23 years later. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "product": {
+   "label": "Product",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Bankruptcy & end",
+   "color": "#a8321f"
+  },
+  "afterlife": {
+   "label": "Afterlife",
+   "color": "#5c6b73"
+  }
+ },
+ "events": [
+  {
+   "date": "Sep",
+   "year": "1991",
+   "cat": "corporate",
+   "title": "Incorporated as SMSG, Inc.",
+   "text": "The company is incorporated in California and begins operations in October. It takes the name The 3DO Company in September 1992.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1993",
+   "cat": "product",
+   "title": "Prototype shown at CES",
+   "text": "Trip Hawkins demonstrates the system in Las Vegas and calls it the next consumer electronics standard. AT&T joins Time Warner and Matsushita as an investor. The first machines are expected to cost about $700.",
+   "src": [
+    18,
+    19
+   ]
+  },
+  {
+   "date": "Apr 16",
+   "year": "1993",
+   "cat": "money",
+   "title": "NTG bought for $21.4M",
+   "text": "3DO buys the partnership that held a royalty agreement over its technology, for 1,840,000 shares and cash.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "May",
+   "year": "1993",
+   "cat": "money",
+   "title": "Goes public on Nasdaq",
+   "text": "Shares begin trading under the symbol THDO. The offering raises $47.5M after costs.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1993",
+   "cat": "product",
+   "title": "The 3DO Multiplayer goes on sale",
+   "text": "Matsushita sells the first machine under the Panasonic name at $699. The shares reach $47.75 during the month.",
+   "src": [
+    1,
+    20,
+    23
+   ]
+  },
+  {
+   "date": "Nov 19",
+   "year": "1993",
+   "cat": "product",
+   "title": "“Only four games”",
+   "text": "A Matsushita vice president says the machine is selling poorly for lack of software. Colleagues answer that 40,000 have been shipped to the United States and more than 70% sold.",
+   "src": [
+    21
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1994",
+   "cat": "corporate",
+   "title": "3DO opens its own studio",
+   "text": "After a disappointing Christmas the company begins making games itself, in competition with its licensees.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "May",
+   "year": "1994",
+   "cat": "corporate",
+   "title": "AT&T pulls out",
+   "text": "AT&T says it will not make consumer products based on the 3DO design. Shareholders file securities suits the same month; they are dismissed in July 1995.",
+   "src": [
+    23,
+    1
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1994",
+   "cat": "corporate",
+   "title": "Hawkins leaves the EA chair",
+   "text": "He steps down as chairman of Electronic Arts to concentrate on 3DO.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Sep",
+   "year": "1994",
+   "cat": "product",
+   "title": "300,000 machines",
+   "text": "Matsushita says it has sold 200,000 in Japan and 100,000 elsewhere, short of an earlier forecast of half a million in the United States alone.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1994",
+   "cat": "money",
+   "title": "The $3 surcharge",
+   "text": "Hawkins faxes developers a notice of an extra $3 fee per game to subsidise hardware makers. He cuts it to $1 for the rest of 1994.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Nov 22",
+   "year": "1994",
+   "cat": "rivals",
+   "title": "Saturn and PlayStation launch in Japan",
+   "text": "Sega sells out of 250,000 Saturns. Sony sells 100,000 PlayStations in two days from December 3.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1994",
+   "cat": "product",
+   "title": "Price down to $399",
+   "text": "The list price has fallen from $699 in a year. The machine is in more than 6,000 stores. 3DO has about $21M of cash.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "",
+   "year": "1995",
+   "cat": "rivals",
+   "title": "Sega and Sony reach the U.S.",
+   "text": "Both launch 32-bit CD-ROM consoles in 1995. Sanyo and Creative Technology stop investing in their 3DO machines.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Sep",
+   "year": "1995",
+   "cat": "product",
+   "title": "M2 for the PC",
+   "text": "Hawkins says 3DO will make a version of its next-generation M2 technology for personal computers.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "Dec 7",
+   "year": "1995",
+   "cat": "money",
+   "title": "M2 licensed for $100M",
+   "text": "Matsushita takes a perpetual, exclusive licence to the 64-bit M2 design for $100M upfront plus royalties.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "1996",
+   "cat": "rivals",
+   "title": "Goldstar quits",
+   "text": "LG Electronics (Goldstar) leaves the 32-bit business. Matsushita later says it will make no more 3DO Multiplayers.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1996",
+   "cat": "corporate",
+   "title": "New World Computing bought",
+   "text": "3DO pays about 1 million shares, and later about $5.0M in cash under a price guarantee, for the studio behind Might and Magic.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Sep 16",
+   "year": "1996",
+   "cat": "corporate",
+   "title": "“An about-face”",
+   "text": "3DO says it will become a software company and sell or spin off its hardware group, cutting jobs from 450 to 300.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Jun 23",
+   "year": "1997",
+   "cat": "money",
+   "title": "Hardware sold to Samsung",
+   "text": "Samsung buys most of the hardware systems group for $20.0M. 3DO books a gain of $18.0M.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "1997",
+   "cat": "product",
+   "title": "M2 console shelved",
+   "text": "Matsushita’s president says the company has stopped developing the M2 console. On July 23 it returns about 3.2 million 3DO shares and 3DO gives up its M2 royalties.",
+   "src": [
+    26,
+    3
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "1999",
+   "cat": "product",
+   "title": "Army Men carries the publisher",
+   "text": "In the year to March 31, 1999 Army Men is 31% of revenue, Might and Magic 25% and BattleTanx 19%.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "1999",
+   "cat": "money",
+   "title": "$46.4M raised",
+   "text": "A second public offering of shares brings in about $46.4M after costs.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "2000",
+   "cat": "money",
+   "title": "The peak",
+   "text": "Revenue for the year to March 31, 2000 is $122.2M, up 154%. Net income is $0.2M.",
+   "src": [
+    5,
+    6
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "2000",
+   "cat": "money",
+   "title": "Profit warning",
+   "text": "3DO says fiscal 2001 will lag estimates. Its chief financial officer plans to leave. The shares close at $5.59.",
+   "src": [
+    27
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "2001",
+   "cat": "money",
+   "title": "A $77.0M loss",
+   "text": "The loss for the year to March 31, 2001. Sixty-nine jobs are cut.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "2002",
+   "cat": "death",
+   "title": "“Substantial doubt”",
+   "text": "Revenue falls to $53.7M with a $47.3M loss. The workforce has been cut by 160 and the annual report raises doubt about the company’s survival.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Aug 22",
+   "year": "2002",
+   "cat": "money",
+   "title": "One-for-eight reverse split",
+   "text": "Every eight shares become one.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Oct 1",
+   "year": "2002",
+   "cat": "money",
+   "title": "Hawkins lends $3M",
+   "text": "The chief executive lends the company $3,000,000, secured on all its assets. On December 27 he agrees to lend up to $8,000,000.",
+   "src": [
+    10,
+    11
+   ]
+  },
+  {
+   "date": "May 13",
+   "year": "2003",
+   "cat": "death",
+   "title": "“Strategic options”",
+   "text": "3DO says March-quarter revenue was about $10.0M and that it is considering a sale or merger. It gave notice of a mass layoff on May 2.",
+   "src": [
+    12,
+    13
+   ]
+  },
+  {
+   "date": "May 28",
+   "year": "2003",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "The 3DO Company and its California subsidiary file in the Northern District of California.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Jun 9",
+   "year": "2003",
+   "cat": "death",
+   "title": "Delisted",
+   "text": "Nasdaq removes the shares from the National Market.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "Aug 14",
+   "year": "2003",
+   "cat": "death",
+   "title": "The auction",
+   "text": "The assets are sold in bankruptcy court for $4,585,000. Hawkins resigns from the board on August 29.",
+   "src": [
+    16
+   ]
+  },
+  {
+   "date": "Dec 23",
+   "year": "2008",
+   "cat": "death",
+   "title": "Registration revoked",
+   "text": "The SEC revokes the registration of 3DO’s shares. It had filed no periodic report since the quarter ended December 31, 2002.",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "2026",
+   "cat": "afterlife",
+   "title": "A revival, cancelled in a week",
+   "text": "Empire Interactive says it has bought The 3DO Company trademark, then withdraws after Throwback Entertainment says it owns the 3DO mark.",
+   "src": [
+    35,
+    37
+   ]
+  }
+ ]
+}

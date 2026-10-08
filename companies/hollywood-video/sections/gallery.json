@@ -1,0 +1,83 @@
+{
+ "kicker": "Brand gallery",
+ "title": "White letters, red neon, a jagged roofline",
+ "label": "Brand gallery",
+ "lede": "Two freely licensed photographs of real stores, three years apart, and our own drawings. We could not reach the Internet Archive while researching this page, so there are no screenshots of the old website.",
+ "archive": [
+  {
+   "image": "img/store.avif",
+   "date": "Apr 2007",
+   "caption": "A Hollywood Video in San Lorenzo, California, two years into Movie Gallery’s ownership.",
+   "alt": "Hollywood Video storefront with white block letters and a red script word on a dark zigzag fascia",
+   "credit": "Photo: Coolcaesar at English Wikipedia, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hollywoodvideostore.jpg), CC BY-SA 3.0. The logo remains a trademark of its owner."
+  },
+  {
+   "image": "img/closing-aloha.avif",
+   "date": "May 2010",
+   "caption": "A Hollywood Video in Aloha, Oregon, during its closing sale. A Game Crazy sign is at the right.",
+   "alt": "Hollywood Video store at dusk with neon along the roofline and a Store Closing banner",
+   "credit": "Photo: M.O. Stevens, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hollywood_Video_closing_-_Aloha,_Oregon.jpg), CC BY-SA 3.0. The logo remains a trademark of its owner."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "Open, and closing",
+   "ratio": "4/3",
+   "before": {
+    "label": "April 2007",
+    "image": "img/store.avif",
+    "caption": "San Lorenzo, California. The chain had 2,045 stores at the end of 2006.[^12]",
+    "alt": "Hollywood Video store open for business in 2007"
+   },
+   "after": {
+    "label": "May 2010",
+    "image": "img/closing-aloha.avif",
+    "caption": "Aloha, Oregon, with a Store Closing banner. A judge approved the liquidation that month.[^20]",
+    "alt": "Hollywood Video store with a Store Closing banner in 2010"
+   },
+   "source": "Two different stores. Photos by Coolcaesar and M.O. Stevens, via Wikimedia Commons, both CC BY-SA 3.0. Store count from Movie Gallery’s annual report.[^12]"
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The superstore.",
+   "caption": "A strip-mall box of about 6,600 square feet with a zigzag fascia and neon.[^5] Original illustration; the sign lettering is deliberately blank."
+  },
+  {
+   "art": "art/dvd-case.svg",
+   "title": "The rental.",
+   "caption": "A DVD case, a disc and a tape. Rental product was about 78% of 2004 revenue.[^5] Original illustration."
+  },
+  {
+   "art": "art/game-counter.svg",
+   "title": "The game counter.",
+   "caption": "Game Crazy departments took 700 to 900 square feet inside a store.[^5] Original illustration, not an official asset."
+  },
+  {
+   "art": "art/closing-store.svg",
+   "title": "The sale.",
+   "caption": "May 2010: the neon off and a banner over the door. Original illustration, not a photograph of a real store."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#2a2440",
+   "label": "Fascia dark (approx.)"
+  },
+  {
+   "hex": "#e23b3b",
+   "label": "Neon red (approx.)"
+  },
+  {
+   "hex": "#f2d84a",
+   "label": "Column yellow (approx.)"
+  },
+  {
+   "hex": "#fbf9f5",
+   "label": "Letter white"
+  }
+ ],
+ "disclaimer": "Colours were matched by eye to the two Wikimedia Commons photographs, so they are approximate. Hollywood Video and Game Crazy are trademarks of their owners and are discussed here in historical and editorial context. The drawings are original and are not the trademarked logo."
+}

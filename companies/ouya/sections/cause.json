@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "A store where few people paid",
+   "text": "The rule that every game be free to try was the pitch, and it was the problem. A month after launch 27% of owners had bought anything, the top earner had made about $21,000, and nine months later the best-selling game had sold about 7,000 copies. A console sold at $99 needed the store to carry it.[^1][^14][^21]"
+  },
+  {
+   "weight": 25,
+   "title": "Shipped before it was finished",
+   "text": "The machine went to its backers in a state Engadget called a beta and The Verge scored 3.5 out of 10, and those reviews were the public’s first look. Retail-unit reviews three months later averaged 62 out of 100.[^6][^7][^11]"
+  },
+  {
+   "weight": 20,
+   "title": "Squeezed from both sides",
+   "text": "Sony sold a million PlayStation 4s in a day five months after Ouya’s launch, and Amazon put games on a $99 television box four months after that. Ouya’s own answer, in March 2014, was to start moving its store onto other people’s hardware.[^19][^20][^22]"
+  },
+  {
+   "weight": 15,
+   "title": "Venture debt and a covenant",
+   "text": "Ouya borrowed from TriplePoint Capital on top of its venture round. In 2015 it tripped a covenant, failed to restructure, and its chief executive told investors the sale would be quick because of “our debtholder’s timeline.” Alibaba’s $10M three months earlier did not cover it.[^24]"
+  },
+  {
+   "weight": 10,
+   "title": "Goodwill spent on its own developers",
+   "text": "The Free the Games Fund was gamed within weeks, the first response blamed nobody and fixed nothing, developers pulled games, and two years later $620,000 of the $1M was still unpaid when the company was sold.[^15][^16][^18][^27]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. Ouya published no accounts, so the evidence is what the company, its developers and the press said at the time. How much each cause contributed is a matter of opinion."
+}

@@ -1,0 +1,112 @@
+{
+ "name": "Zany Brainy",
+ "number": "025",
+ "tier": "ghost",
+ "tierWhy": "FAO Inc. began liquidating the last 89 Zany Brainy stores in December 2003 and no store has traded under the name since that we could find, but zanybrainy.com was live in October 2026 as a small shop selling Zany Brainy-branded nostalgia merchandise. The site does not say who runs it.[^17][^25][^26]",
+ "category": "retail",
+ "cause": "overexpansion",
+ "years": "1991 – 2003",
+ "died": 2003,
+ "dates": [
+  {
+   "date": "1999-06-03",
+   "text": "went public on Nasdaq at $10.00 a share"
+  },
+  {
+   "date": "2001-05-15",
+   "text": "filed for Chapter 11 in Delaware with 187 stores"
+  },
+  {
+   "date": "2001-09-05",
+   "text": "was sold out of bankruptcy to The Right Start"
+  },
+  {
+   "date": "2003-12-04",
+   "text": "owner FAO Inc. filed for Chapter 11 a second time, to liquidate the last 89 stores"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Educational toys, games and books · King of Prussia, Pennsylvania",
+ "title": "Zany Brainy (1991–2003): post-mortem · Spectre Brands",
+ "description": "An educational toy chain went from 16 stores to 188 in six years, bought its rival, built a website and ran out of credit. A sourced post-mortem of Zany Brainy from SEC filings and the trade press: IPO, Chapter 11, The Right Start, FAO Inc. and liquidation.",
+ "theme": {
+  "accent": "#6a3fa0",
+  "soft": "#f3eefa"
+ },
+ "card": {
+  "blurb": "A toy store with carpets, a reading corner and nothing violent on the shelves. It nearly doubled in size in one year by buying Noodle Kidoodle, lost $80.7M, and was in Chapter 11 five months after that Christmas.",
+  "stat": {
+   "value": "$80.7M",
+   "label": "lost in fiscal 2000, on sales of $400.5M"
+  },
+  "spark": [
+   16,
+   31,
+   43,
+   52,
+   75,
+   103,
+   188,
+   187,
+   169,
+   89,
+   0
+  ],
+  "peak": 6
+ },
+ "hero": {
+  "dates": "First store opened in Wynnewood, Pennsylvania in 1991. Liquidation announced Dec 2, 2003.",
+  "standfirst": "It sold toys that were supposed to be good for children, and for two years it made money doing it. Then it tried to grow three ways at once.",
+  "deck": "Zany Brainy was a chain of “kid-friendly” toy stores with low shelves, a reading area and free events every day. It went public in June 1999 with 82 stores. In the next 14 months it started an internet joint venture, opened dozens of stores and merged with its nearest rival, Noodle Kidoodle. Sales at existing stores then fell 10%, the bank declared a default, and the company filed for Chapter 11 in May 2001. The Right Start bought the stores, bought FAO Schwarz four months later, renamed itself FAO Inc., and went through bankruptcy twice in 2003. The second time it liquidated Zany Brainy. Almost everything on this page comes from the filings both companies made with the SEC.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a Zany Brainy-style store in a suburban shopping centre. Not an official asset; the sign lettering is deliberately blank.",
+  "motion": "float"
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "188",
+    "text": "stores in 34 states at the peak, February 3, 2001, including 60 that had been Noodle Kidoodle[^3]"
+   },
+   {
+    "value": "$400.5M",
+    "text": "net sales in fiscal 2000, the only year as a merged company[^3]"
+   },
+   {
+    "value": "$80.7M",
+    "text": "net loss that year, after a profit of $18.6M the year before on a restated basis[^3]"
+   },
+   {
+    "value": "89",
+    "text": "stores left when FAO Inc. said it would liquidate the chain, December 2, 2003[^14][^25]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It had already overbuilt once.",
+   "text": "The company opened 11 stores in 1994, 15 in 1995 and 12 in 1996, called the results “disappointing”, and hired new managers who slowed down. It lost money every year from 1991 to 1997.[^1]"
+  },
+  {
+   "title": "The profitable period lasted two years.",
+   "text": "Zany Brainy on its own earned $9.0M in fiscal 1998 (including a $6.2M tax benefit) and $6.9M in fiscal 1999.[^1][^2]"
+  },
+  {
+   "title": "Fads flattered the IPO year.",
+   "text": "Pokémon and Beanie Babies were about 6.2% and 5.2% of the merged companies’ 1999 sales, and 2.3% and under 2.0% in 2000.[^3]"
+  },
+  {
+   "title": "Three projects landed in the same year.",
+   "text": "In fiscal 2000 the company absorbed 60 Noodle Kidoodle stores, opened 27 more, changed its merchandising software and funded a loss-making website. Comparable-store sales fell 10.0%.[^3]"
+  },
+  {
+   "title": "The lender moved first.",
+   "text": "In January 2001 the bank’s appraiser marked down the inventory, which cut what the company could borrow. The bank declared a default on February 28. Chapter 11 followed on May 15.[^4][^5]"
+  },
+  {
+   "title": "The buyer was a fraction of its size.",
+   "text": "The Right Start had lost $7.7M on sales of $44.2M in 2000 when it took over a chain that had sold $400.5M. It was in Chapter 11 itself 16 months later.[^3][^13][^23]"
+  }
+ ]
+}

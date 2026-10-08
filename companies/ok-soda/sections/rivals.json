@@ -1,0 +1,144 @@
+{
+ "kicker": "Rivals",
+ "title": "The shelf it was aimed at",
+ "lede": "OK was built to take share from the sodas teenagers already drank, above all Mountain Dew. Its closest relatives were Coca-Cola’s own experiments.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Six drinks from Coca-Cola’s and Pepsi’s 1993–1994 line-ups",
+   "subtitle": "What each was, and what became of it.",
+   "metric": "Headline figure",
+   "items": [
+    {
+     "name": "OK Soda",
+     "status": "dead",
+     "self": true,
+     "value": "1M+ cases",
+     "text": "Sold in test markets from May 1994; phased out from September 1995.[^9]",
+     "data": [
+      0,
+      0,
+      9,
+      8,
+      0
+     ],
+     "range": [
+      "Aug 1993",
+      "late 1995"
+     ]
+    },
+    {
+     "name": "Mountain Dew",
+     "status": "alive",
+     "value": "3.5%",
+     "text": "Pepsi’s citrus soda and the most popular drink aimed at teenagers in 1994, by share of the US market.[^6]"
+    },
+    {
+     "name": "Mello Yello",
+     "status": "alive",
+     "value": "0.3%",
+     "text": "Coca-Cola’s existing answer to Mountain Dew.[^6]"
+    },
+    {
+     "name": "Sprite",
+     "status": "alive",
+     "value": "1994",
+     "text": "Given a new campaign that year, “Obey Your Thirst,” which Time called highly successful.[^6]"
+    },
+    {
+     "name": "Fruitopia",
+     "status": "dead",
+     "statusLabel": "Gone in the US",
+     "value": "1994",
+     "text": "Coca-Cola’s rival to Snapple, launched the same year.[^13] Phased out in the United States in 2003, by a later account.[^20]"
+    },
+    {
+     "name": "Tab Clear",
+     "status": "dead",
+     "value": "1993",
+     "text": "In Coca-Cola’s product list for 1993 and absent from the list for 1994.[^2][^1]"
+    }
+   ],
+   "source": "Time, May 30, 1994[^6]; The New York Times[^9]; The Believer[^13]; Coca-Cola Forms 10-K for 1993 and 1994[^2][^1]; The Takeout[^20]. The OK sparkline is the count of reported test cities from the numbers section."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Dead",
+    "name": "OK Soda",
+    "alive": false,
+    "rows": [
+     [
+      "Maker",
+      "The Coca-Cola Company"
+     ],
+     [
+      "Announced",
+      "Apr 20, 1994[^4]"
+     ],
+     [
+      "Sold in",
+      "Eight or nine US test cities[^6][^8]"
+     ],
+     [
+      "Agency",
+      "Wieden & Kennedy[^4]"
+     ],
+     [
+      "Pitch",
+      "“Things are going to be OK”[^4]"
+     ],
+     [
+      "Reported goal",
+      "3 to 4% of the market[^8]"
+     ],
+     [
+      "Outcome",
+      "Phased out, September 1995[^9]"
+     ]
+    ]
+   },
+   "right": {
+    "tag": "Gone in the US",
+    "name": "Fruitopia",
+    "alive": false,
+    "rows": [
+     [
+      "Maker",
+      "The Coca-Cola Company"
+     ],
+     [
+      "Announced",
+      "1994[^13]"
+     ],
+     [
+      "Sold in",
+      "Through the Coca-Cola bottler system[^1]"
+     ],
+     [
+      "Agency",
+      "Not in the sources we read"
+     ],
+     [
+      "Pitch",
+      "Psychedelic graphics and “new-agey” flavor names[^13]"
+     ],
+     [
+      "Reported goal",
+      "A rival to Snapple[^13]"
+     ],
+     [
+      "Outcome",
+      "In the product list after OK left it; phased out in the US in 2003[^3][^20]"
+     ]
+    ]
+   },
+   "source": "As cited in each row."
+  },
+  {
+   "kind": "text",
+   "title": "The same year, the opposite mood",
+   "body": "The Believer sets the two launches side by side. Fruitopia “drew on the sunnier side of indie culture,” with kaleidoscopic fruit and flavors called Strawberry Passion Awareness, and “remained popular throughout the ’90s.” OK’s graphics came in “stoic grays and reds.”[^13] One advertising executive told Time in 1994 that teenagers had enough to be “bummed out about” and did not want to be reminded of it.[^6]"
+  }
+ ]
+}

@@ -1,0 +1,270 @@
+{
+ "kicker": "The money",
+ "label": "The numbers",
+ "title": "Seventeen years of filings: the kiosks, the rentals and the debt",
+ "lede": "Redbox was never a company with its own published accounts for long. The figures come from whoever owned it: Coinstar and Outerwall to 2015, Redbox Entertainment for 2019 to 2021, and Chicken Soup for the Soul Entertainment after that. Nothing was published for 2016 to 2018, and the charts leave those years blank.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "The rise and fall, in kiosks",
+   "subtitle": "Kiosks at each year end, and at the shutdown. The gap is the private-equity years, for which no figures were published.",
+   "labels": [
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "Jul 2024"
+   ],
+   "format": "num",
+   "xLabel": "Year end",
+   "series": [
+    {
+     "label": "Redbox kiosks",
+     "data": [
+      13700,
+      22400,
+      30200,
+      35400,
+      43700,
+      44000,
+      42280,
+      40480,
+      null,
+      null,
+      null,
+      41420,
+      40026,
+      38379,
+      32000,
+      27800,
+      24000
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "2008: Coinstar takes control",
+     "text": "13,700 DVD kiosks, a count that includes the smaller DVDXpress chain. More than 3,200 are in Walmart stores.[^6]"
+    },
+    {
+     "i": 5,
+     "title": "2013: the peak",
+     "text": "About 44,000 kiosks in 36,400 locations. Only 300 were added during the year.[^11]"
+    },
+    {
+     "i": 13,
+     "title": "2021: the going-concern warning",
+     "text": "38,379 kiosks, and revenue down by two thirds in two years.[^17]"
+    },
+    {
+     "i": 16,
+     "title": "July 2024: switched off",
+     "text": "About 24,000 kiosks were left when the liquidation was ordered.[^26]"
+    }
+   ],
+   "source": "Coinstar and Outerwall 10-Ks for 2008–2015[^6][^8][^9][^11][^13]; Redbox Entertainment 10-K for 2019–2021[^17]; Chicken Soup for the Soul Entertainment 10-Ks for 2022 and 2023, which give approximate counts as of their filing dates[^21][^22]; Variety for July 2024[^26]. The 2014 figure of 42,280 is the U.S. count restated in the FY2015 report; including Canada it was 43,680.[^12][^13]"
+  },
+  {
+   "kind": "chart",
+   "id": "revChart",
+   "title": "Redbox revenue, 2008–2021",
+   "subtitle": "$ millions. No figures were published for 2016–2018.",
+   "chart": {
+    "type": "bar",
+    "legend": false,
+    "labels": [
+     "2008",
+     "2009",
+     "2010",
+     "2011",
+     "2012",
+     "2013",
+     "2014",
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "Revenue",
+      "data": [
+       388.5,
+       773.4,
+       1159.7,
+       1561.6,
+       1908.8,
+       1974.5,
+       1881.7,
+       1760.9,
+       null,
+       null,
+       null,
+       858.4,
+       546.2,
+       288.5
+      ],
+      "colors": [
+       "brand",
+       "brand",
+       "brand",
+       "brand",
+       "brand",
+       "brand",
+       "brand",
+       "brand",
+       "grey",
+       "grey",
+       "grey",
+       "red",
+       "red",
+       "red"
+      ]
+     }
+    ]
+   },
+   "source": "2008 is Coinstar’s DVD services segment, which included DVDXpress[^6]. 2009–2011 are the Redbox segment as shown in the FY2011 10-K[^9]; 2012 and 2013 as shown in the FY2013 10-K[^11]; 2014 and 2015 as shown in the FY2015 10-K, which excludes the closed Canadian business[^13]. 2019–2021 are total net revenue of Redbox Entertainment Inc., which also includes its digital business[^17]. See the data notes on changes of basis."
+  },
+  {
+   "kind": "counters",
+   "title": "The rental, at the peak and two years later",
+   "items": [
+    {
+     "value": "775.7M",
+     "text": "rentals in 2013, the most in any year of the filings[^11]"
+    },
+    {
+     "value": "587.6M",
+     "text": "rentals in 2015, after an 18.1% fall in a single year[^13]"
+    },
+    {
+     "value": "$2.54",
+     "text": "net revenue per rental in 2013[^11]"
+    },
+    {
+     "value": "$2.99",
+     "text": "net revenue per rental in 2015, after the price rose to $1.50 a night[^13][^12]"
+    }
+   ],
+   "source": "Outerwall 10-Ks for FY2013 and FY2015.[^11][^13] On the FY2015 report’s restated basis, which excludes Canada, 2013 rentals were 772.9 million."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "flow",
+     "title": "What Coinstar paid for the second half of Redbox",
+     "subtitle": "The February 26, 2009 purchase of the remaining interests, $ millions.",
+     "format": "usdM",
+     "from": {
+      "label": "Total consideration",
+      "value": 162.4
+     },
+     "to": [
+      {
+       "label": "Cash",
+       "value": 113.9,
+       "color": "green",
+       "note": "Paid to GetAMovie Inc. and other minority holders."
+      },
+      {
+       "label": "Coinstar common stock",
+       "value": 48.5,
+       "color": "brand",
+       "note": "Shares issued to the sellers."
+      }
+     ],
+     "source": "Coinstar FY2009 10-K.[^7] With the earlier payments of $20.0M, $12.0M and $5.1M, Coinstar paid $199.5M for the whole company (derived).[^4][^5]"
+    },
+    {
+     "kind": "scale",
+     "title": "The kiosk network, in Blockbusters",
+     "left": {
+      "value": "44,000",
+      "label": "Redbox kiosks, end of 2013"
+     },
+     "unit": {
+      "value": "9,094",
+      "label": "Blockbuster stores at its 2004 peak"
+     },
+     "count": 5,
+     "icon": "store",
+     "equation": "44,000 ÷ 9,094 = 4.8, shown as 5 stores. Kiosks are from Outerwall’s FY2013 10-K[^11]; Blockbuster’s store count is from its FY2005 10-K[^36]. A kiosk held about 500 to 630 discs[^3][^1], far fewer than a video store, so this compares points of sale, not size.",
+     "source": "Outerwall FY2013 10-K[^11]; Blockbuster FY2005 10-K[^36]."
+    }
+   ]
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The last owner’s books",
+   "rows": [
+    {
+     "value": "$359.9M",
+     "text": "of debt assumed with Redbox in August 2022[^22]"
+    },
+    {
+     "value": "$380.8M",
+     "text": "of goodwill and intangible assets written off in 2023[^22]"
+    },
+    {
+     "value": "$623.0M",
+     "text": "net loss for 2023, on net revenue of $294.4M[^22]"
+    },
+    {
+     "value": "$970.0M",
+     "text": "total liabilities on March 31, 2024, three months before the filing[^23]"
+    }
+   ],
+   "source": "Chicken Soup for the Soul Entertainment FY2023 10-K and first-quarter 2024 10-Q.[^22][^23] These are figures for the whole company, which also owned Crackle and Screen Media, not for Redbox alone."
+  },
+  {
+   "kind": "bars",
+   "title": "Three points on the way down",
+   "subtitle": "Redbox revenue in its best year, its last normal year and its last full year as a separate company, $ millions.",
+   "format": "usdM",
+   "itemLabel": "Year",
+   "valueLabel": "Revenue",
+   "items": [
+    {
+     "label": "2013",
+     "value": 1974.5,
+     "self": true,
+     "note": "The peak, under Coinstar (renamed Outerwall).[^11]"
+    },
+    {
+     "label": "2019",
+     "value": 858.4,
+     "color": "grey",
+     "note": "Under Apollo, before the pandemic.[^17]"
+    },
+    {
+     "label": "2021",
+     "value": 288.5,
+     "color": "red",
+     "note": "85% below the peak (derived).[^17]"
+    }
+   ],
+   "source": "Outerwall FY2013 10-K[^11]; Redbox Entertainment FY2021 10-K[^17]. The two reports define the business differently; see the data notes."
+  }
+ ]
+}

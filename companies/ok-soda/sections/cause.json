@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "The drink did not earn a second purchase",
+   "text": "Coca-Cola blended cola, lemon-lime and fruit flavors into one soda.[^6] The first four people a reporter asked in Minneapolis each compared it to every fountain flavor mixed in one cup, and a 20-year-old said: “The first one tastes good, but you don’t want a second.”[^8] In Coca-Cola’s own focus group the 18-to-20-year-olds “never warmed up at all.”[^6]"
+  },
+  {
+   "weight": 25,
+   "title": "A brand launched before the product was finished",
+   "text": "Advertising Age reported the brand was “admittedly not fully formed” five days after it was announced.[^5] The Believer reports the color of the liquid was undecided while the campaign was being designed.[^13] A consultant close to the launch said on NPR that he was “much less concerned with how the product tastes.”[^7]"
+  },
+  {
+   "weight": 20,
+   "title": "A mainstream target for a niche idea",
+   "text": "Coca-Cola hoped the soda would “become mainstream enough to create new demand,” and the reported goal was 3 to 4% of the market, the size of Mountain Dew.[^4][^8][^6] It sold a little over a million cases in its test markets, which a spokesman said was not “the type of profitable volume we needed.”[^9]"
+  },
+  {
+   "weight": 15,
+   "title": "The audience saw the pitch coming",
+   "text": "The press coverage was, in The Washington Post’s words, “unrelentingly negative,” and a Minneapolis weekly called the campaign “sadly duplicitous.”[^8] One of the cartoonists Coca-Cola hired said he knew “you could not market to cynical hipsters by being cynical and hipsterish.”[^13] Time concluded in 1997 that the early stereotypes of Generation X had been wrong.[^10]"
+  },
+  {
+   "weight": 10,
+   "title": "Attention that did not turn into sales",
+   "text": "More than a million calls reached the hotline by September 1994, and both focus groups “loved the 800 number.”[^8][^6] The same month, a nine-store supermarket chain was selling at most ten 12-packs a week.[^8] People wanted the phone line more than the can."
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. Coca-Cola published no sales breakdown for the brand and gave one sentence of explanation, so the evidence is the press of 1994–1995 and later interviews with the people who made the campaign. How much each cause contributed is a matter of opinion."
+}

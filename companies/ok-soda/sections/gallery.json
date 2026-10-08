@@ -1,0 +1,56 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Grey, black and one red box",
+ "label": "Brand gallery",
+ "lede": "One freely licensed photograph of the original cans exists that we could find. There are no website screenshots here: we did not confirm whether an official OK site was ever archived. The drawings are ours.",
+ "archive": [
+  {
+   "image": "img/photo-2006-four-cans.avif",
+   "date": "1994 cans, photographed 2006",
+   "caption": "The four can designs used in the test markets. Time described them in 1994: a blank-looking young man, a can with no face at all and “a primitively drawn red face.”[^6]",
+   "alt": "Four OK Soda cans in a row, grey and silver with black drawings and a red-bordered OK box on each",
+   "credit": "Photo: TeemPlayer, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:OK_Soda_Original_4.jpg), CC BY-SA 3.0. The can artwork and trademarks belong to their owners; shown for commentary."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The can.",
+   "caption": "A deadpan face on a grey can. Original illustration; not the artwork of Daniel Clowes, Charles Burns or the other artists who drew the real ones.[^8]"
+  },
+  {
+   "art": "art/phone.svg",
+   "title": "The hotline.",
+   "caption": "1-800-I-FEEL-OK took more than a million calls by September 1994.[^8] Original illustration."
+  },
+  {
+   "art": "art/letter.svg",
+   "title": "The chain letter.",
+   "caption": "Mailed in the test markets in May 1994.[^6] Original illustration."
+  },
+  {
+   "art": "art/fountain.svg",
+   "title": "The taste.",
+   "caption": "A “suicide”: every button on the dispenser.[^8] Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#b3261e",
+   "label": "Box red (approx.)"
+  },
+  {
+   "hex": "#c9cdd2",
+   "label": "Can grey (approx.)"
+  },
+  {
+   "hex": "#1d1b18",
+   "label": "Line black"
+  },
+  {
+   "hex": "#eef0f2",
+   "label": "Page tint"
+  }
+ ],
+ "disclaimer": "Colors are approximations taken by eye from the photograph above, not official values. OK and Coca-Cola are trademarks of The Coca-Cola Company and appear here in historical and editorial context. Drawings are original illustrations, not official assets, and do not reproduce the logo or the can artwork."
+}

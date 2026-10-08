@@ -1,0 +1,368 @@
+{
+ "kicker": "Timeline",
+ "title": "Twenty-four years, 33 moments",
+ "lede": "From twelve kiosks to a foreclosure sale, with the money, the studios and the rivals alongside. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "product": {
+   "label": "Product",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Studios & rivals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Death & afterlife",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "2002",
+   "year": "2002",
+   "cat": "corporate",
+   "title": "An idea inside McDonald’s",
+   "text": "By the company’s account the concept originates at McDonald’s Ventures, with an initial launch of 12 kiosks.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "2004",
+   "cat": "product",
+   "title": "The Denver test",
+   "text": "McDonald’s puts DVD rental machines in 104 Denver-area restaurants at $1 a day plus tax, after a smaller test in Washington, D.C. and Las Vegas.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "2005",
+   "year": "2005",
+   "cat": "product",
+   "title": "Five more markets",
+   "text": "The test is extended to more than 800 restaurants in Baltimore, Houston, Minneapolis/St. Paul, Salt Lake City and St. Louis.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "",
+   "cat": "money",
+   "title": "Coinstar buys 47.3%",
+   "text": "Coinstar invests $20.0M under an agreement dated November 17, 2005. A further $12.0M follows in December 2006.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "2006",
+   "cat": "product",
+   "title": "Into the supermarkets",
+   "text": "The Associated Press counts 750 machines in McDonald’s restaurants and 75 in grocery stores, with agreements for 400 more.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Sep",
+   "year": "",
+   "cat": "product",
+   "title": "Reserve online",
+   "text": "Customers can choose a title on the website and collect it at a kiosk.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jan 18",
+   "year": "2008",
+   "cat": "corporate",
+   "title": "Coinstar takes control",
+   "text": "It exercises an option for $5.1M, goes from 47.3% to 51.0% and consolidates Redbox.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "",
+   "cat": "product",
+   "title": "The Walmart agreement",
+   "text": "Coinstar agrees with Walmart to expand its DVD kiosks there over 12 to 18 months. More than 3,200 are installed by year end.",
+   "src": [
+    5,
+    6
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "corporate",
+   "title": "13,700 kiosks",
+   "text": "DVD services revenue for the year is $388.5M.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Feb 26",
+   "year": "2009",
+   "cat": "money",
+   "title": "Coinstar buys the rest",
+   "text": "$162.4M in cash and shares for the remaining interests. Redbox becomes a wholly owned subsidiary.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Jul 17",
+   "year": "",
+   "cat": "rivals",
+   "title": "Sony signs",
+   "text": "A licence under which Redbox expects to pay Sony about $487.0M over the term.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "corporate",
+   "title": "22,400 kiosks",
+   "text": "A net increase of 8,700 in a year. Walmart, Walgreens and McDonald’s account for about 20%, 11% and 9% of Coinstar’s revenue.",
+   "src": [
+    7,
+    8
+   ]
+  },
+  {
+   "date": "Feb 12",
+   "year": "2010",
+   "cat": "rivals",
+   "title": "The Warner settlement",
+   "text": "Redbox accepts a 28-day delay on Warner titles and drops its lawsuit. Agreements with Universal and Fox the same year carry the same window.",
+   "src": [
+    7,
+    8
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "2011",
+   "cat": "product",
+   "title": "Video games",
+   "text": "Game rentals roll out nationally.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "",
+   "cat": "money",
+   "title": "$1.00 becomes $1.20",
+   "text": "The first rise in the nightly price of a standard DVD.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Jun 22",
+   "year": "2012",
+   "cat": "rivals",
+   "title": "NCR’s kiosks bought",
+   "text": "Redbox pays NCR $100.0M for its DVD kiosk business, about 6,200 active machines.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Mar 14",
+   "year": "2013",
+   "cat": "product",
+   "title": "Redbox Instant by Verizon",
+   "text": "The streaming joint venture ends its public beta and launches commercially.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "corporate",
+   "title": "Peak: 44,000 kiosks",
+   "text": "Revenue for the year is $1,974.5M on 775.7 million rentals. Coinstar has renamed itself Outerwall.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Oct 20",
+   "year": "2014",
+   "cat": "product",
+   "title": "Out of streaming",
+   "text": "Redbox withdraws from the joint venture, citing a lower than anticipated subscriber base.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "",
+   "cat": "money",
+   "title": "$1.50 a night",
+   "text": "The DVD price rises by 30 cents and Blu-ray by 50 cents to $2.00.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Mar 31",
+   "year": "2015",
+   "cat": "corporate",
+   "title": "Canada closed",
+   "text": "The shutdown of Redbox Canada is completed.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "money",
+   "title": "Rentals down 18.1%",
+   "text": "587.6 million rentals in the year, against 717.1 million in 2014. Revenue is $1,760.9M.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Jul 25",
+   "year": "2016",
+   "cat": "money",
+   "title": "Apollo’s offer",
+   "text": "Outerwall agrees to be acquired by funds managed by Apollo affiliates for $52.00 a share, about $1.6 billion including net debt.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Sep 27",
+   "year": "",
+   "cat": "corporate",
+   "title": "Taken private",
+   "text": "The tender offer is paid and Outerwall leaves the Nasdaq.",
+   "src": [
+    15
+   ]
+  },
+  {
+   "date": "Oct 22",
+   "year": "2021",
+   "cat": "corporate",
+   "title": "Public again",
+   "text": "Redbox Entertainment Inc. is created by a merger with Seaport Global Acquisition Corp. and trades as RDBX from the next business day.",
+   "src": [
+    16,
+    17
+   ]
+  },
+  {
+   "date": "Mar 29",
+   "year": "2022",
+   "cat": "money",
+   "title": "150 jobs cut",
+   "text": "Two weeks later the annual report shows 2021 revenue of $288.5M and a going-concern warning.",
+   "src": [
+    18,
+    17
+   ]
+  },
+  {
+   "date": "May 10",
+   "year": "",
+   "cat": "corporate",
+   "title": "Sale agreed",
+   "text": "Chicken Soup for the Soul Entertainment will pay 0.087 of a share for each Redbox share.",
+   "src": [
+    19
+   ]
+  },
+  {
+   "date": "Aug 11",
+   "year": "",
+   "cat": "corporate",
+   "title": "Sale completed",
+   "text": "The buyer assumes $359.9M of debt and signs a new credit agreement with HPS Investment Partners.",
+   "src": [
+    20,
+    22
+   ]
+  },
+  {
+   "date": "Sep 29",
+   "year": "2023",
+   "cat": "rivals",
+   "title": "Netflix stops mailing discs",
+   "text": "The DVD-by-mail service that began the shift away from stores ends.",
+   "src": [
+    35
+   ]
+  },
+  {
+   "date": "Apr 19",
+   "year": "2024",
+   "cat": "death",
+   "title": "$623.0M loss",
+   "text": "The owner’s annual report for 2023 says there is substantial doubt it can continue and that it is in default on debt and leases.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Jun 28",
+   "year": "",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "Chicken Soup for the Soul Entertainment files in Delaware, with about $970M of debts and $414M of assets.",
+   "src": [
+    25,
+    26
+   ]
+  },
+  {
+   "date": "Jul 10",
+   "year": "",
+   "cat": "death",
+   "title": "Converted to Chapter 7",
+   "text": "Judge Thomas Horan orders liquidation. About 24,000 kiosks and the streaming services are to shut.",
+   "src": [
+    26,
+    28
+   ]
+  },
+  {
+   "date": "Apr 23",
+   "year": "2025",
+   "cat": "death",
+   "title": "Foreclosure sale",
+   "text": "The date set by HPS, the secured lender, for a sale of collateral including the “Redbox” and “Crackle” trademarks.",
+   "src": [
+    32,
+    33
+   ]
+  }
+ ]
+}

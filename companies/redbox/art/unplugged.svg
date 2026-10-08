@@ -1,0 +1,17 @@
+<svg viewBox="0 0 360 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a switched-off red rental kiosk with a dark screen, a paper notice taped to the front and its power cord lying unplugged on the ground">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M14 296h332"/>
+<path d="M96 60h136l12 26H84z" fill="#9c2a3a"/>
+<rect x="100" y="86" width="128" height="210" rx="6" fill="#9c2a3a"/>
+<rect x="114" y="100" width="100" height="32" rx="4" fill="#e6e2da"/>
+<rect x="118" y="146" width="66" height="50" rx="3" fill="#2b2a28"/>
+<path d="M126 188l50-34" stroke="#55524d" stroke-width="2"/>
+<rect x="194" y="150" width="20" height="30" rx="2" fill="#2b2a28"/>
+<rect x="118" y="210" width="92" height="12" rx="3" fill="#1d1b18"/>
+<rect x="128" y="160" width="78" height="64" fill="#f6e98a" transform="rotate(-5 167 192)"/>
+<g transform="rotate(-5 167 192)" stroke-width="2.4"><path d="M138 174h58M138 186h58M138 198h36" stroke="#55524d"/><path d="M150 158h34" stroke="#d9d2b0" stroke-width="7"/></g>
+<path d="M228 268c30 0 34 22 58 22h18"/>
+<rect x="304" y="280" width="26" height="18" rx="4" fill="#2b2a28"/><path d="M330 285h10M330 293h10"/>
+<rect x="28" y="232" width="34" height="14" fill="#2b2a28"/><path d="M36 232v-8M54 232v-8" />
+<path d="M300 40c8-10 22-10 30 0" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

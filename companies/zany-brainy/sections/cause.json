@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "Too much growth in one year",
+   "text": "In fiscal 2000 the company absorbed 60 Noodle Kidoodle stores, renamed them, opened 27 more and converted its merchandising software. It said the conversion “affected our ability to maintain an adequate and appropriate merchandise mix.” Selling and administrative costs rose from 24.7% of sales to 30.7%. The company’s own press release on the day of the filing put rapid growth first among the reasons.[^3][^5]"
+  },
+  {
+   "weight": 20,
+   "title": "Sales that depended on crazes",
+   "text": "Pokémon and Beanie Babies were about 6.2% and 5.2% of 1999 sales on the restated basis and 2.3% and under 2.0% in 2000. Comparable-store sales fell 10.0% in 2000 and a further 8.7% in the first quarter of 2001. The company’s mission was to avoid mass-market, television-promoted toys, but its best year had leaned on two of them.[^1][^3][^7]"
+  },
+  {
+   "weight": 20,
+   "title": "Borrowing tied to inventory",
+   "text": "The $115M facility let the company borrow against a percentage of appraised inventory. When the bank’s appraiser cut the value in January 2001, borrowing room shrank; by March 13 the company had drawn $49.8M of the $50.7M available. Suppliers then slowed shipments, which hurt sales further.[^4][^7]"
+  },
+  {
+   "weight": 10,
+   "title": "The website",
+   "text": "The company had invested $11.8M in ZanyBrainy.com by April 26, 2000 and booked $11.5M of losses from it in fiscal 2000. The annual report says the internet operation “has not been profitable since its launch in October 1999.” Sales on the site after the company took full ownership were $2.3M.[^2][^3]"
+  },
+  {
+   "weight": 15,
+   "title": "A second owner with less money than the first",
+   "text": "The Right Start had lost $7.7M on $44.2M of sales in 2000. It bought Zany Brainy mostly with a new inventory loan, then bought FAO Schwarz four months later. FAO Inc. blamed its January 2003 filing on weak sales after September 11, the work of integrating three chains, lost vendor credit and tighter lending terms. In December 2003 its chief executive told staff that Wal-Mart had been selling toys below cost since late October and that Target had undercut it.[^11][^14][^18][^23]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings document what happened and what management blamed. How much each factor contributed is a matter of opinion."
+}

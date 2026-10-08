@@ -1,0 +1,351 @@
+{
+ "kicker": "Timeline",
+ "title": "164 years, 31 moments",
+ "lede": "From a Baltimore toy shop to a storefront on Amazon. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Owners",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "stores": {
+   "label": "Stores",
+   "color": "#93743a"
+  },
+  "death": {
+   "label": "Bankruptcy & closing",
+   "color": "#a8321f"
+  },
+  "after": {
+   "label": "Afterlife",
+   "color": "#7b62a8"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1862",
+   "cat": "stores",
+   "title": "Founded in Baltimore",
+   "text": "Frederick August Otto Schwarz opens a toy shop six years after arriving from Westphalia.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1870",
+   "cat": "stores",
+   "title": "Moves to New York",
+   "text": "The Schwarz Toy Bazaar opens on Broadway.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1931",
+   "cat": "stores",
+   "title": "745 Fifth Avenue",
+   "text": "After several moves the store settles on Fifth Avenue.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1963",
+   "cat": "corporate",
+   "title": "The family sells",
+   "text": "The Schwarz family sells the firm to Parents’ Magazine.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1970",
+   "cat": "corporate",
+   "title": "W.R. Grace",
+   "text": "Parents’ sells the company to W.R. Grace & Co.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1974",
+   "cat": "corporate",
+   "title": "Franz Carl Weber",
+   "text": "The Zurich toy retailer buys the company.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1985",
+   "cat": "corporate",
+   "title": "Christiana, then Harris and Morse",
+   "text": "Christiana Companies pays $10.5M. Months later its president, Peter L. Harris, and Peter C. Morse buy the company.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Nov 6",
+   "year": "1986",
+   "cat": "stores",
+   "title": "767 Fifth Avenue opens",
+   "text": "The flagship moves across the street into 40,000 square feet at the foot of the General Motors Building.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1988",
+   "cat": "stores",
+   "title": "“Big”",
+   "text": "The film shows the store’s floor piano. Requests for the $15,000 instrument follow.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1990",
+   "cat": "corporate",
+   "title": "Sold to KBB",
+   "text": "The Dutch retailer Koninklijke Bijenkorf Beheer pays an estimated $40M.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1997",
+   "cat": "stores",
+   "title": "39 locations",
+   "text": "Large stores are readied for Orlando and Las Vegas, and the Manhattan store prepares to grow to 60,000 square feet.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "",
+   "year": "1998",
+   "cat": "corporate",
+   "title": "Vendex takes over KBB",
+   "text": "Vendex International becomes the owner.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Nov 19",
+   "year": "2001",
+   "cat": "money",
+   "title": "Right Start agrees to buy",
+   "text": "The Right Start announces a deal for the flagship, 22 other stores, the catalog and the website. The trade press values it at $55M.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Jan 6",
+   "year": "2002",
+   "cat": "corporate",
+   "title": "The deal closes",
+   "text": "The buyer pays with $15.95M of notes and $20.0M of preferred stock.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "2002",
+   "cat": "corporate",
+   "title": "Renamed FAO Inc.",
+   "text": "The Right Start takes the name of its acquisition. It runs 23 FAO Schwarz, 64 Right Start and 169 Zany Brainy stores.",
+   "src": [
+    2,
+    11
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "2002",
+   "cat": "money",
+   "title": "Suppliers stop shipping",
+   "text": "Several major suppliers have stopped shipping. FAO Inc. says it will close 55 Zany Brainy stores.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Jan 13",
+   "year": "2003",
+   "cat": "death",
+   "title": "First Chapter 11",
+   "text": "FAO Inc. and its main subsidiaries file in Delaware, listing $257.4M of assets and $238.4M of debts.",
+   "src": [
+    1,
+    12
+   ]
+  },
+  {
+   "date": "Apr 23",
+   "year": "2003",
+   "cat": "money",
+   "title": "Out of bankruptcy",
+   "text": "The plan takes effect after 111 store closings, with $30.0M of new preferred stock and a $77.0M credit facility.",
+   "src": [
+    1,
+    13
+   ]
+  },
+  {
+   "date": "Oct 20",
+   "year": "2003",
+   "cat": "money",
+   "title": "“Not experiencing a cash crunch”",
+   "text": "FAO Inc. denies a New York Post report about its cash position.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Nov 7",
+   "year": "2003",
+   "cat": "money",
+   "title": "Notice of default",
+   "text": "The company says holiday sales are “significantly below expectations.” Its lenders deliver a notice of default the same afternoon.",
+   "src": [
+    5,
+    6
+   ]
+  },
+  {
+   "date": "Dec 4",
+   "year": "2003",
+   "cat": "death",
+   "title": "Second Chapter 11",
+   "text": "FAO Inc. files again, to sell FAO Schwarz and The Right Start and liquidate Zany Brainy. Its shares are delisted.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Jan 26",
+   "year": "2004",
+   "cat": "death",
+   "title": "Sale approved",
+   "text": "The court approves the sale of the brand and the New York and Las Vegas stores to a D. E. Shaw affiliate for $40.5M in cash.",
+   "src": [
+    8,
+    16
+   ]
+  },
+  {
+   "date": "Oct 22",
+   "year": "2004",
+   "cat": "stores",
+   "title": "Las Vegas reopens",
+   "text": "The Forum Shops store reopens after remodeling. New York is scheduled to follow on Thanksgiving Day.",
+   "src": [
+    17,
+    18
+   ]
+  },
+  {
+   "date": "Nov 22",
+   "year": "2004",
+   "cat": "after",
+   "title": "The old parent deregisters",
+   "text": "Children’s Books & Toys, Inc., as FAO Inc. was renamed, files to end its SEC registration.",
+   "src": [
+    8,
+    32
+   ]
+  },
+  {
+   "date": "May 28",
+   "year": "2009",
+   "cat": "corporate",
+   "title": "Toys “R” Us buys it",
+   "text": "The parent of Toys “R” Us acquires the business for an undisclosed price.",
+   "src": [
+    19,
+    20
+   ]
+  },
+  {
+   "date": "May 15",
+   "year": "2015",
+   "cat": "death",
+   "title": "Closing announced",
+   "text": "Toys “R” Us says the Fifth Avenue store will close, citing rising costs.",
+   "src": [
+    22,
+    23
+   ]
+  },
+  {
+   "date": "Jul 15",
+   "year": "2015",
+   "cat": "death",
+   "title": "The flagship closes",
+   "text": "The last FAO Schwarz store shuts. The brand continues online and on toys in Toys “R” Us stores.",
+   "src": [
+    22,
+    23
+   ]
+  },
+  {
+   "date": "Oct 4",
+   "year": "2016",
+   "cat": "corporate",
+   "title": "Sold to ThreeSixty Group",
+   "text": "Terms are not disclosed. Toys “R” Us books a $45M gain.",
+   "src": [
+    24,
+    26,
+    27
+   ]
+  },
+  {
+   "date": "Nov 16",
+   "year": "2018",
+   "cat": "after",
+   "title": "30 Rockefeller Plaza",
+   "text": "A new 20,000 square foot flagship opens.",
+   "src": [
+    29
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "2026",
+   "cat": "after",
+   "title": "A shop inside Nordstrom",
+   "text": "FAO Schwarz opens in Nordstrom’s Manhattan flagship on West 57th Street.",
+   "src": [
+    31
+   ]
+  },
+  {
+   "date": "Sep 18",
+   "year": "2026",
+   "cat": "after",
+   "title": "Amazon storefront",
+   "text": "The company says it has stores in New York, Paris, Milan and Beijing.",
+   "src": [
+    30
+   ]
+  }
+ ]
+}

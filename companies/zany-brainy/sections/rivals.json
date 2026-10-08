@@ -1,0 +1,114 @@
+{
+ "kicker": "The rivals",
+ "title": "A small category, and the big boxes around it",
+ "lede": "In its prospectus Zany Brainy named two direct competitors, Noodle Kidoodle and LearningSmith. Within fourteen months one had folded and it had merged with the other. The competitors that mattered at the end were the mass merchants it had set out to be different from.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Who won, who died",
+   "subtitle": "The educational and specialty toy chains named in our sources, and what became of them.",
+   "metric": "Stores",
+   "items": [
+    {
+     "name": "Zany Brainy",
+     "status": "ghost",
+     "self": true,
+     "value": "188 stores (Feb 2001)",
+     "text": "Chapter 11 in May 2001. Liquidated by FAO Inc. from December 2003. The name survives on a small online shop.[^3][^17][^26]",
+     "data": [
+      16,
+      31,
+      43,
+      52,
+      75,
+      103,
+      188,
+      187,
+      169,
+      89,
+      0
+     ],
+     "range": [
+      "FY94: 16",
+      "2004"
+     ]
+    },
+    {
+     "name": "Noodle Kidoodle",
+     "status": "merged",
+     "statusLabel": "Merged into Zany Brainy, 2000",
+     "value": "59 stores (Apr 2000)",
+     "text": "Sales of about $135M in the year to January 2000. Its first store opened in November 1993. All its stores took the Zany Brainy name.[^20]"
+    },
+    {
+     "name": "LearningSmith",
+     "status": "dead",
+     "value": "Closed by Dec 1999",
+     "text": "Named as a direct competitor in the 1999 prospectus. Publishers Weekly dated the start of the “shakeout” to its demise.[^1][^20]"
+    },
+    {
+     "name": "The Right Start",
+     "status": "acquired",
+     "statusLabel": "Buyer, then sold in 2003–04",
+     "value": "68 stores (Aug 2001)",
+     "text": "Infant and toddler products. Bought Zany Brainy in 2001, became FAO Inc., and signed an agreement to sell the Right Start business in December 2003.[^23][^28]"
+    },
+    {
+     "name": "FAO Schwarz",
+     "status": "acquired",
+     "statusLabel": "Sister chain, sold in 2004",
+     "value": "23 stores (spring 2002)",
+     "text": "Bought by The Right Start in January 2002. Down to 15 stores by April 2003. An asset purchase agreement for the business was signed in January 2004.[^12][^14][^28]"
+    }
+   ],
+   "source": "Zany Brainy and FAO Inc. filings[^1][^3][^12][^14][^17][^28] and Publishers Weekly[^20][^23]. Store counts are at different dates and are not directly comparable."
+  },
+  {
+   "kind": "text",
+   "title": "The competitors it listed in 1999",
+   "body": "The prospectus sorted the competition into four groups: mass-market retailers and discounters such as Toys “R” Us and Wal-Mart; smaller educational chains, namely Noodle Kidoodle and LearningSmith; non-toy specialists that sold books, software or crafts; and internet-only retailers such as eToys and Amazon.com.[^1]\n\nIts defence against the first group was the merchandise. Leaving aside books and multimedia, it believed fewer than 30% of the items it carried could be found at Toys “R” Us.[^1]\n\nFour years later the chief executive of its owner blamed the first group directly. He told employees that Wal-Mart had begun selling toys below cost at the end of October 2003 and that Target had then undercut Wal-Mart.[^18]"
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "name": "Zany Brainy",
+    "tag": "Before the merger",
+    "alive": false,
+    "rows": [
+     [
+      "Stores, Apr 2000",
+      "104"
+     ],
+     [
+      "Sales, year to Jan 2000",
+      "$241M"
+     ],
+     [
+      "Book titles per store",
+      "7,000 – 10,000"
+     ]
+    ]
+   },
+   "right": {
+    "name": "Noodle Kidoodle",
+    "tag": "Before the merger",
+    "alive": false,
+    "rows": [
+     [
+      "Stores, Apr 2000",
+      "59"
+     ],
+     [
+      "Sales, year to Jan 2000",
+      "about $135M"
+     ],
+     [
+      "First store",
+      "Nov 1993"
+     ]
+    ]
+   },
+   "source": "Publishers Weekly, May 1, 2000[^20]; Zany Brainy’s store count is also in its annual report.[^2]"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 440 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a giant floor piano keyboard with two pairs of shoes dancing on the keys and music notes above">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M30 250 L80 130 H360 L410 250 Z" fill="#fbf9f5"/>
+<path d="M30 250 v16 H410 v-16" fill="#c8102e"/>
+<path d="M111 130 L72 250 M142 130 L114 250 M173 130 L156 250 M204 130 L198 250 M236 130 L242 250 M267 130 L284 250 M298 130 L326 250 M329 130 L368 250"/>
+<g fill="#2b2a28"><path d="M103 130 h14 l-10 62 h-18 Z"/><path d="M135 130 h14 l-8 62 h-18 Z"/><path d="M196 130 h14 l-2 62 h-18 Z"/><path d="M229 130 h14 l2 62 h-18 Z"/><path d="M261 130 h14 l6 62 h-18 Z"/><path d="M322 130 h14 l12 62 h-18 Z"/></g>
+<g fill="#f2c230"><path d="M150 226 c0 -12 26 -12 26 0 v8 h-26 Z"/><path d="M184 214 c0 -12 26 -12 26 0 v8 h-26 Z"/></g>
+<g fill="#2f6fb5"><path d="M262 222 c0 -12 26 -12 26 0 v8 h-26 Z"/><path d="M296 232 c0 -12 26 -12 26 0 v8 h-26 Z"/></g>
+<g class="screen"><path d="M120 86 v-40 l28 -8 v40"/><ellipse cx="112" cy="88" rx="9" ry="6" fill="#1d1b18"/><ellipse cx="140" cy="80" rx="9" ry="6" fill="#1d1b18"/><path d="M300 70 v-36"/><ellipse cx="292" cy="72" rx="9" ry="6" fill="#1d1b18"/><path d="M300 34 c10 2 16 8 14 18"/></g>
+<path d="M200 60 c10 -8 24 -8 34 0" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

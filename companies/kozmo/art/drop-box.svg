@@ -1,0 +1,12 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of an orange video return drop box standing next to a coffee shop counter with a paper cup">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 270 H350"/>
+<rect x="60" y="80" width="110" height="190" rx="8" fill="#ff6a13"/><rect x="78" y="110" width="74" height="16" rx="4" fill="#2b2a28"/><rect x="78" y="150" width="74" height="60" rx="4" fill="#fbf9f5"/>
+<path d="M90 168 H140 M90 182 H140 M90 196 H124" stroke-width="2"/><path d="M96 80 V62 H134 V80" fill="#6a9a00"/>
+<rect x="88" y="94" width="50" height="22" rx="3" fill="#2b2a28" transform="rotate(-18 113 105)"/><circle cx="104" cy="106" r="4" fill="#fbf9f5" stroke-width="2"/><circle cx="120" cy="101" r="4" fill="#fbf9f5" stroke-width="2"/>
+<rect x="200" y="170" width="140" height="100" fill="#eff5df"/><path d="M192 170 H348"/>
+<path d="M246 110 h44 l-6 60 h-32 Z" fill="#fbf9f5"/><path d="M242 110 h52 v-10 h-52 Z" fill="#6a9a00"/><rect x="252" y="126" width="32" height="20" fill="#dcebfa" stroke-width="2"/>
+<path d="M258 90 C254 80 266 76 262 64 M276 90 C272 80 284 76 280 64" stroke="#9a9184" stroke-width="2"/>
+<text x="270" y="232" text-anchor="middle" font-family="Caveat, cursive" font-size="24" fill="#1f2a44" stroke="none">return here</text>
+<path d="M214 226 C200 226 190 220 176 206" stroke="#1f2a44" stroke-width="2"/><path d="M176 206 l12 2 M176 206 l4 11" stroke="#1f2a44" stroke-width="2"/>
+</g></svg>

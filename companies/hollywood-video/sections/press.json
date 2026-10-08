@@ -1,0 +1,28 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "After being a net user of cash since our inception as a result of rapid store growth, we became a net generator of cash in the fourth quarter of 2000.",
+   "who": "**Hollywood Entertainment**, annual report for 2000[^3]"
+  },
+  {
+   "q": "Our decision not to extend our offers was reached after a careful review of all of the available facts and circumstances.",
+   "who": "**John Antioco**, Blockbuster chief executive, Associated Press, Mar 25, 2005[^9]",
+   "big": true
+  },
+  {
+   "q": "This is what we had said all along, that we thought (Blockbuster’s bid) was going to run into problems.",
+   "who": "**Larry Denedy**, Hollywood spokesman, Associated Press, Mar 25, 2005[^9]"
+  },
+  {
+   "q": "For the near term, we do not intend to make additional significant investments in either a movie kiosk program or the integration of an online video rental channel.",
+   "who": "**Movie Gallery**, annual report for fiscal 2007, filed Dec 2008[^13]",
+   "big": true
+  },
+  {
+   "q": "Hollywood Video may no longer be the neighborhood rental store, but the mission is still the same: help people find something worth watching.",
+   "who": "**hollywoodvideo.com**, “About The New Hollywood Video”, read Oct 2026[^22]"
+  }
+ ]
+}

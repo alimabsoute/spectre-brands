@@ -1,0 +1,197 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Primary sources first. Redbox reported through its owners: Coinstar, later Outerwall (CIK 941604), Redbox Entertainment Inc. (CIK 1820201) and Chicken Soup for the Soul Entertainment (CIK 1679063). SEC filings link to the original text on EDGAR.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Redbox Automated Retail — [“The Redbox Concept” and “The History of Redbox”](https://appliedantitrust.com/21_npvr/01_redbox/TheHistoryofRedbox.pdf), company fact sheet, undated (it gives 24,900 kiosks, which places it around 2010). Copy hosted by AppliedAntitrust.com."
+  },
+  {
+   "id": 2,
+   "text": "Nation’s Restaurant News, in Entrepreneur — [“Denver-area McD Units Test DVD Rentals”](https://www.entrepreneur.com/article/71036), Jun 4, 2004."
+  },
+  {
+   "id": 3,
+   "text": "Joshua Freed, Associated Press, in The Honolulu Advertiser — [“McDonald’s ventures into DVD rentals”](https://the.honoluluadvertiser.com/article/2006/Apr/30/bz/FP604300314.html), Apr 30, 2006."
+  },
+  {
+   "id": 4,
+   "text": "Coinstar, Inc. — [Form 10-K, FY2006](https://www.sec.gov/Archives/edgar/data/941604/000119312507050684/d10k.htm), filed Mar 9, 2007."
+  },
+  {
+   "id": 5,
+   "text": "Coinstar, Inc. — [Form 10-K, FY2007](https://www.sec.gov/Archives/edgar/data/941604/000095013408003747/v36953e10vk.htm), filed Feb 29, 2008."
+  },
+  {
+   "id": 6,
+   "text": "Coinstar, Inc. — [Form 10-K, FY2008](https://www.sec.gov/Archives/edgar/data/941604/000095013409003842/v51175e10vk.htm), filed Feb 26, 2009."
+  },
+  {
+   "id": 7,
+   "text": "Coinstar, Inc. — [Form 10-K, FY2009](https://www.sec.gov/Archives/edgar/data/941604/000119312510037612/d10k.htm), filed Feb 23, 2010."
+  },
+  {
+   "id": 8,
+   "text": "Coinstar, Inc. — [Form 10-K, FY2010](https://www.sec.gov/Archives/edgar/data/941604/000119312511029330/d10k.htm), filed Feb 10, 2011."
+  },
+  {
+   "id": 9,
+   "text": "Coinstar, Inc. — [Form 10-K, FY2011](https://www.sec.gov/Archives/edgar/data/941604/000119312512049236/d271136d10k.htm), filed Feb 9, 2012."
+  },
+  {
+   "id": 10,
+   "text": "Coinstar, Inc. — [Form 10-K, FY2012](https://www.sec.gov/Archives/edgar/data/941604/000119312513046335/d468126d10k.htm), filed Feb 8, 2013."
+  },
+  {
+   "id": 11,
+   "text": "Outerwall Inc. — [Form 10-K, FY2013](https://www.sec.gov/Archives/edgar/data/941604/000144530514000256/a201310-k.htm), filed Feb 6, 2014."
+  },
+  {
+   "id": 12,
+   "text": "Outerwall Inc. — [Form 10-K, FY2014](https://www.sec.gov/Archives/edgar/data/941604/000162828015000486/a201410-k.htm), filed Feb 5, 2015."
+  },
+  {
+   "id": 13,
+   "text": "Outerwall Inc. — [Form 10-K, FY2015](https://www.sec.gov/Archives/edgar/data/941604/000162828016010759/a201510-k.htm), filed Feb 4, 2016."
+  },
+  {
+   "id": 14,
+   "text": "Outerwall Inc. — [Press release, “Outerwall Enters Into Definitive Merger Agreement to Be Acquired by Certain Funds Managed by Affiliates of Apollo Global Management for $52.00 Per Share in Cash” (8-K Ex. 99.1)](https://www.sec.gov/Archives/edgar/data/941604/000119312516655983/d231595dex991.htm), Jul 25, 2016."
+  },
+  {
+   "id": 15,
+   "text": "Outerwall Inc. — [Form 8-K, completion of the acquisition](https://www.sec.gov/Archives/edgar/data/941604/000119312516721745/d267879d8k.htm), filed Sep 27, 2016."
+  },
+  {
+   "id": 16,
+   "text": "Redbox Entertainment Inc. — [Form 8-K, completion of the business combination with Seaport Global Acquisition Corp.](https://www.sec.gov/Archives/edgar/data/1820201/000110465921131160/tm2130841d1_8k.htm), filed Oct 28, 2021."
+  },
+  {
+   "id": 17,
+   "text": "Redbox Entertainment Inc. — [Form 10-K, FY2021](https://www.sec.gov/Archives/edgar/data/1820201/000155837022005521/rdbx-20211231x10k.htm), filed Apr 15, 2022."
+  },
+  {
+   "id": 18,
+   "text": "Redbox Entertainment Inc. — [Form 8-K, reduction in force](https://www.sec.gov/Archives/edgar/data/1820201/000110465922041795/tm2211292d1_8k.htm), filed Apr 1, 2022."
+  },
+  {
+   "id": 19,
+   "text": "Redbox Entertainment Inc. — [Form 8-K, merger agreement with Chicken Soup for the Soul Entertainment](https://www.sec.gov/Archives/edgar/data/1820201/000110465922058605/tm2215031d1_8k.htm), filed May 11, 2022."
+  },
+  {
+   "id": 20,
+   "text": "Chicken Soup for the Soul Entertainment, Inc. — [Form 8-K, completion of the Redbox acquisition](https://www.sec.gov/Archives/edgar/data/1679063/000110465922090071/tm2223232d1_8k.htm), filed Aug 12, 2022."
+  },
+  {
+   "id": 21,
+   "text": "Chicken Soup for the Soul Entertainment, Inc. — [Form 10-K, FY2022](https://www.sec.gov/Archives/edgar/data/1679063/000155837023005316/csse-20221231x10k.htm), filed Mar 31, 2023."
+  },
+  {
+   "id": 22,
+   "text": "Chicken Soup for the Soul Entertainment, Inc. — [Form 10-K, FY2023](https://www.sec.gov/Archives/edgar/data/1679063/000155837024005371/csse-20231231x10k.htm), filed Apr 19, 2024."
+  },
+  {
+   "id": 23,
+   "text": "Chicken Soup for the Soul Entertainment, Inc. — [Form 10-Q, first quarter 2024](https://www.sec.gov/Archives/edgar/data/1679063/000155837024008492/csse-20240331x10q.htm), filed May 20, 2024."
+  },
+  {
+   "id": 24,
+   "text": "Chicken Soup for the Soul Entertainment, Inc. — [Form 8-K, removal of directors](https://www.sec.gov/Archives/edgar/data/1679063/000110465924072312/tm2417465d1_8k.htm), filed Jun 17, 2024."
+  },
+  {
+   "id": 25,
+   "text": "Associated Press, on WCTV — [“Redbox owner files for Chapter 11 bankruptcy protection”](https://www.wctv.tv/2024/07/02/redbox-owner-files-chapter-11-bankruptcy-protection), Jul 2, 2024."
+  },
+  {
+   "id": 26,
+   "text": "Todd Spangler, Variety — [“RIP Redbox: DVD Kiosk-Rental Business Is Shutting Down With Parent’s Bankruptcy Liquidation”](https://variety.com/2024/digital/news/redbox-shutting-down-bankruptcy-liquidation-1236066894/), Jul 11, 2024."
+  },
+  {
+   "id": 27,
+   "text": "CNN Wire, on ABC7 Los Angeles — [“Redbox DVD kiosk-rental business shuts down after parent company files for bankruptcy”](https://abc7.com/post/redbox-shuts-down-dvd-kiosk-rental-business/15051835/), Jul 12, 2024."
+  },
+  {
+   "id": 28,
+   "text": "Natalie Dreier, Cox Media Group, on WSOC-TV — [“Redbox kiosks to go away; parent company changes from Chapter 11 to Chapter 7”](https://www.wsoctv.com/news/trending/redbox-kiosks-go-away-parent-company-changes-chapter-11-chapter-7/ZVZVRDBGJJE2DOIDFILTFLLR3I/), Jul 11, 2024."
+  },
+  {
+   "id": 29,
+   "text": "Janko Roettgers, Lowpass — [“CVS asks court to let it throw out its Redbox kiosks”](https://lowpass.cc/p/cvs-redbox-kiosks-disposal-dump), Jul 18, 2024."
+  },
+  {
+   "id": 30,
+   "text": "Matthew Keys, The Desk — [“CVS calls Redbox kiosks ‘unwanted machines,’ complains they’re holding up store remodels”](https://thedesk.net/2024/07/cvs-redbox-unwanted-machines-kiosks/), Jul 18, 2024."
+  },
+  {
+   "id": 31,
+   "text": "Retail Customer Experience — [“Redbox bankruptcy leaves retailers dealing with abandoned kiosks”](https://www.retailcustomerexperience.com/news/redbox-bankruptcy-leaves-retailers-dealing-with-abandoned-kiosks/), Oct 24, 2024, citing a Media Play News report."
+  },
+  {
+   "id": 32,
+   "text": "HPS Investment Partners, LLC — [Notice of Intent to Hold Foreclosure Sale and Notice of Foreclosure Sale](https://deadline.com/wp-content/uploads/2025/04/Chicken-Soup-foreclosure-auction.pdf), filed in In re Chicken Soup for the Soul Entertainment, Inc., U.S. Bankruptcy Court for the District of Delaware, dated Apr 7, 2025. Copy hosted by Deadline."
+  },
+  {
+   "id": 33,
+   "text": "Dade Hayes, Deadline — [“Redbox, Crackle And Other Chicken Soup For The Soul Entertainment Assets Set For Post-Bankruptcy Auction”](https://deadline.com/2025/04/redbox-crackle-chicken-soup-for-the-soul-entertainment-bankruptcy-auction-1236363107/), Apr 8, 2025."
+  },
+  {
+   "id": 34,
+   "text": "Ernesto Van der Sar, TorrentFreak — [“Bankruptcy Court Clears Path for $100 Million Sale of Redbox’s Piracy Lawsuit Rights”](https://torrentfreak.com/bankruptcy-court-clears-path-for-100-million-sale-of-redboxs-piracy-lawsuit-rights/), Mar 16, 2026."
+  },
+  {
+   "id": 35,
+   "text": "Netflix, Inc. — [Form 10-K, FY2023](https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/nflx-20231231.htm), filed Jan 26, 2024."
+  },
+  {
+   "id": 36,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2005](https://www.sec.gov/Archives/edgar/data/1085734/000119312506055023/d10k.htm), filed Mar 15, 2006."
+  },
+  {
+   "id": 37,
+   "text": "YouTube pages for the embedded videos, read for their titles, dates and descriptions: Bloomberg, [Jul 21, 2009](https://www.youtube.com/watch?v=EFHqGRDXyDE); CNN Business, [Sep 3, 2010](https://www.youtube.com/watch?v=LvNplvEAumo) and [Sep 12, 2011](https://www.youtube.com/watch?v=S3nebiyhUkM); Smokin’ Silicon, [Apr 13, 2025](https://www.youtube.com/watch?v=Gke6zYdQLZQ)."
+  },
+  {
+   "id": 38,
+   "text": "Wikimedia Commons — [Category: Redbox](https://commons.wikimedia.org/wiki/Category:Redbox), the source of the photographs, each credited where it appears."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Editorial: the years",
+   "text": "We date the start to 2002, the year Redbox’s own history gives for the concept and the first 12 kiosks.[^1] An Associated Press report in 2006 said McDonald’s “came up with the idea in 2003”, and the first large test was in Denver in 2004.[^3][^2] We set the end at 2024, when the last owner’s bankruptcy was converted to a liquidation on July 10.[^26] The tier is dead because we found no one using the name afterwards; see “Unknown” below. The headquarters, Oakbrook Terrace, Illinois, is as given by the Associated Press in 2006.[^3]"
+  },
+  {
+   "label": "Derived",
+   "text": "Coinstar’s total outlay of $199.5M is $20.0M + $12.0M + $5.1M + $162.4M.[^4][^5][^7] The 24% fall in rentals from 2013 to 2015 is (775.7 − 587.6) ÷ 775.7; on the FY2015 report’s restated 2013 figure of 772.9 million it is also 24%.[^11][^13] The 85% fall in revenue is 1 − 288.5 ÷ 1,974.5, which compares the Redbox segment of 2013 with the whole of Redbox Entertainment Inc. in 2021.[^11][^17] 44,000 ÷ 9,094 = 4.8.[^11][^36] Nineteen months is March 14, 2013 to October 20, 2014, and twelve days is June 28 to July 10, 2024.[^11][^12][^26] The declines of 36% and 47% in 2020 and 2021 are the report’s own percentages, rounded.[^17]"
+  },
+  {
+   "label": "Basis changes in the filings",
+   "text": "The 2008 kiosk count and revenue are for Coinstar’s DVD services segment, which included the DVDXpress chain.[^6] Revenue for 2009 was first reported as part of that segment and is shown here as the Redbox segment figure in the FY2011 10-K.[^9] The FY2015 10-K restated 2013 and 2014 to exclude Canada: on that basis 2013 revenue was $1,967.7M and year-end kiosks were 42,900, against $1,974.5M and 44,000 as first reported, which are the figures we use for the peak.[^11][^13] Kiosk counts for 2012 and 2013 exclude machines acquired from NCR that had not yet been replaced.[^11] Figures for 2019–2021 are for Redbox Entertainment Inc. as a whole.[^17] The homepage sparkline uses year-end kiosks for 2008–2013, 2015, 2021 and 2023 and ends at zero for the shutdown; it mixes these sources."
+  },
+  {
+   "label": "Estimates and approximations",
+   "text": "The 2022 and 2023 kiosk counts (about 32,000 and about 27,800) are the round figures in the owner’s annual reports, filed in March 2023 and April 2024, not audited year-end counts.[^21][^22] The 36,000 at the merger and 27,000 at the filing are from the Associated Press’s reading of the bankruptcy petition and from the first-quarter report.[^25][^23] The 24,000 kiosks and 1,033 employees at the conversion are Variety’s figures.[^26] Walgreens’ $184,000 a month and the $500 removal cost are from a trade report of a court filing we did not read ourselves.[^31] The $100M for the litigation rights is a minimum under an agreement in principle, not a completed sale.[^34]"
+  },
+  {
+   "label": "Conflicts between sources",
+   "text": "The Chapter 11 petition is dated June 28, 2024 by the Associated Press and Variety and June 29 in a CVS court filing quoted by Lowpass; we use June 28.[^25][^26][^29] The 2022 deal is valued at $370M by Variety and at about $375M by Deadline and The Desk; the debt taken on is given as $359.9M in the buyer’s annual report and as about $325M or $360M in press reports. We use the annual report.[^22][^26][^33][^30][^27] Variety’s article twice gives 2020 as the year of the acquisition; the filings show August 11, 2022.[^20] Press reports give peak kiosk counts of 34,000 to 43,000; the filings give about 44,000 at the end of 2013.[^27][^26][^11]"
+  },
+  {
+   "label": "Unverified",
+   "text": "That HPS Investment Partners itself took ownership of the Redbox and Crackle trademarks at or after the April 2025 sale is stated on Wikipedia without a source we could open, and is **unverified**. The judge’s remarks at the July 10, 2024 hearing are quoted from Variety, which credits The Wall Street Journal; we did not read the Journal’s report or a transcript.[^26] The description of the seller in 2009 as McDonald’s is from Redbox’s fact sheet; the filing names GetAMovie Inc. and does not say who owned it.[^1][^7] The fact sheet’s claim of more than one billion rentals is the company’s.[^1]"
+  },
+  {
+   "label": "Unknown",
+   "text": "Kiosk counts, revenue and debt for 2016–2018, when Redbox was privately held. Who bought the Redbox trademarks, and for how much. How many kiosks were removed, scrapped or left running. What creditors and employees will recover. We could not load redbox.com from our network when we tried on October 8, 2026 and could not reach the Internet Archive for a recent capture, so we make no statement about what the domain shows today."
+  },
+  {
+   "label": "General knowledge",
+   "text": "Chapter 11 is the reorganisation chapter of the U.S. Bankruptcy Code and Chapter 7 the liquidation chapter. A blank-cheque company, or SPAC, is a listed shell formed to merge with a private business. The Redbox Bowl was a college football bowl game sponsored by the company. Crackle is a free, advertising-supported streaming service."
+  },
+  {
+   "label": "Images",
+   "text": "There are no screenshots of redbox.com on this page because the Internet Archive was refusing our requests when it was written. Photographs are from Wikimedia Commons under the licences given in the captions and gallery credits.[^38] Drawings are original illustrations, not official assets. The accent red is our approximation of the kiosk colour, matched by eye to the photographs."
+  }
+ ]
+}

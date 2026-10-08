@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Phase the plan out",
+   "actual": "After the SEC challenged the accounting in 1977, Sambo’s replaced Fraction of the Action with a formula that raised the company’s share of each restaurant’s earnings. Half the managers left within six months and more than 70% within two years.[^2][^6] An analyst told the Times the abrupt termination was the most critical mistake the company made.[^9]",
+   "whatif": "The accounting had to change whatever the company did; the SEC’s point was about how the payments were recorded, not about sharing profits. Keeping the managers’ existing stakes and restating the books might have cost several years of reported earnings and kept the people who ran the restaurants. Whether the company could have afforded those payouts is unknowable from our sources: Time reported that it had decided it could not."
+  },
+  {
+   "tab": "Change the name once, early",
+   "actual": "The company accepted a different name in Ann Arbor in 1972, then went to court to take it back. It fought suits across New England from 1978, renamed 13 restaurants Jolly Tiger and 18 No Place Like Sam’s, won in the Sixth Circuit in November 1981 and converted more than 600 restaurants to Season’s a year later.[^1][^3][^12][^13]",
+   "whatif": "A single national change in the mid-1970s, when the chain had cash and momentum, would have spared it a decade of litigation and three sets of signs. The company’s own experience argues the other way: the Times reported that its Jolly Tiger restaurants did less well than those under the old name.[^2] It would not have fixed the accounting."
+  },
+  {
+   "tab": "Close the weak restaurants sooner",
+   "actual": "The management installed in late 1979 closed only five or six restaurants in two years while the company lost $77.8M, $11.6M and then $29.8M in nine months. Then it closed 447 in under three weeks.[^7][^8]",
+   "whatif": "Closing a few hundred restaurants in 1980, with City Investing’s money newly in hand, might have stopped the losses before the $100M loan came due. It would also have meant admitting the size of the problem to lenders two years earlier, and they might have acted two years earlier as well."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a small cube game console with its power cable pulled out and a dark television behind it">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 262H380"/>
+<rect x="40" y="40" width="230" height="150" rx="8" fill="#2b2a28"/>
+<path d="M120 190v24M190 190v24M96 214h118"/>
+<path d="M130 100l50 34M180 100l-50 34" stroke="#6b6f75"/>
+<path d="M250 170l44-20 46 18v58c0 24-18 36-45 36s-45-12-45-36Z" fill="#8f9399"/>
+<path d="M250 170l45 18 45-20-46-18Z" fill="#3a3c40"/>
+<path d="M295 188v74"/>
+<ellipse cx="295" cy="169" rx="10" ry="4" fill="#6b6f75"/>
+<path d="M340 214c24 0 30 16 22 30s-8 18 6 18"/>
+<rect x="364" y="254" width="20" height="14" rx="3" fill="#fbf9f5"/>
+<path d="M384 258h8M384 264h8"/>
+<path d="M350 196l8-10M362 206l12-4M344 188l2-12" stroke="#c2330b" stroke-width="2.5"/>
+</g></svg>

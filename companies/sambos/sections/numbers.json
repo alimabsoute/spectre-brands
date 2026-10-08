@@ -1,0 +1,283 @@
+{
+ "kicker": "The money",
+ "title": "Up for ten years, down in four",
+ "lede": "Sambo’s was a public company from 1969, but its filings predate EDGAR and are not online. What follows is every figure we could confirm in court opinions and the press of the time. Gaps in the charts are gaps in the record.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Restaurants: one, then 1,117, then one",
+   "subtitle": "Restaurants at the dates a source gives a count. After November 1981 the figures are not like for like; see the source line.",
+   "labels": [
+    "1957",
+    "1967",
+    "c. 1972",
+    "1977",
+    "Dec ’79",
+    "Mar ’81",
+    "Nov 25 ’81",
+    "Jul ’83",
+    "Aug ’84",
+    "1994"
+   ],
+   "format": "num",
+   "xLabel": "Date of the report (not evenly spaced)",
+   "series": [
+    {
+     "label": "Restaurants",
+     "data": [
+      1,
+      67,
+      200,
+      869,
+      1090,
+      1117,
+      667,
+      320,
+      166,
+      1
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 1,
+     "title": "the plan starts",
+     "text": "67 restaurants when Fraction of the Action begins.[^6]"
+    },
+    {
+     "i": 3,
+     "title": "the peak year for profit",
+     "text": "869 restaurants and $22.8M of income. The SEC objects to the accounting that fall.[^6][^9]"
+    },
+    {
+     "i": 5,
+     "title": "the peak count",
+     "text": "1,117 restaurants as the first New England units are renamed.[^3]"
+    },
+    {
+     "i": 6,
+     "title": "the purge",
+     "text": "667 left after 447 closings and 12 sales in under three weeks. Chapter 11 follows two days later.[^8][^10]"
+    },
+    {
+     "i": 7,
+     "title": "Season’s",
+     "text": "320 restaurants remain, all under the Season’s name, after 250 are sold and 112 promised to Godfather’s Pizza.[^13]"
+    },
+    {
+     "i": 8,
+     "title": "the sale",
+     "text": "166 restaurants go to Vicorp.[^14]"
+    }
+   ],
+   "source": "1957: the first restaurant.[^17] 67 and 869: Time.[^6] About 200 “only six years ago”, from a November 1978 article.[^1] 1,090.[^2] 1,117.[^3] 667 remaining.[^8] 320 Season’s restaurants.[^13] 166 is the number sold to Vicorp, not a count of all restaurants then open.[^14] One: the Santa Barbara original, as described in 1994.[^17]"
+  },
+  {
+   "kind": "chart",
+   "id": "sbIncome",
+   "title": "Profit and loss, where reported",
+   "subtitle": "$ millions. Six figures over fifteen years; the last covers nine months only.",
+   "chart": {
+    "type": "bar",
+    "height": 320,
+    "legend": false,
+    "labels": [
+     "1967",
+     "1977",
+     "1978",
+     "1979",
+     "1980",
+     "Jan–Sep 1981"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "Profit or loss ($M)",
+      "data": [
+       1,
+       22.8,
+       7.6,
+       -77.8,
+       -11.6,
+       -29.8
+      ],
+      "colors": [
+       "green",
+       "green",
+       "green",
+       "red",
+       "red",
+       "red"
+      ]
+     }
+    ]
+   },
+   "source": "1967 (“about $1 million”) and 1977: Time.[^6] 1978: The New York Times.[^2] 1979, 1980 and the first nine months of 1981: UPI.[^7] The 1977 and 1978 figures are as the press gave them; the company restated earlier years after the SEC ruling and we have not seen the restated figures.[^2] In December 1979 the Times expected the 1979 loss only to “top $50 million.”[^2]"
+  },
+  {
+   "kind": "chart",
+   "id": "sbShare",
+   "title": "The share price, at five moments",
+   "subtitle": "Dollars per share, at the highs and lows the Times gave in November 1981.",
+   "chart": {
+    "type": "bar",
+    "height": 300,
+    "legend": false,
+    "labels": [
+     "1970 low",
+     "1973 high",
+     "1974 low",
+     "1977 high",
+     "Nov 25, 1981"
+    ],
+    "y": {
+     "format": "usd2",
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Share price ($)",
+      "data": [
+       2.75,
+       24.375,
+       6.625,
+       27,
+       1.75
+      ],
+      "colors": [
+       "grey",
+       "brand",
+       "grey",
+       "brand",
+       "red"
+      ]
+     }
+    ]
+   },
+   "source": "Robert Metz, Market Place, The New York Times, November 27, 1981. Prices were quoted in fractions (2¾, 24⅜, 6⅝, 27 and 1¾) and are converted to decimals here. The shares were split five times between 1970 and 1974; the article does not say whether the earlier prices are adjusted.[^9]"
+  },
+  {
+   "kind": "waffle",
+   "title": "What happened to the chain in November 1981",
+   "subtitle": "Share of the 1,126 restaurants accounted for in the company’s announcement of November 25 (derived).",
+   "format": "pct",
+   "itemLabel": "Outcome",
+   "valueLabel": "Share of restaurants",
+   "items": [
+    {
+     "label": "Kept open",
+     "value": 59,
+     "note": "667 restaurants in 46 states",
+     "color": "brand"
+    },
+    {
+     "label": "Closed",
+     "value": 40,
+     "note": "447 restaurants, from November 9",
+     "color": "red"
+    },
+    {
+     "label": "Sold",
+     "value": 1,
+     "note": "12 restaurants",
+     "color": "gold"
+    }
+   ],
+   "source": "UPI, November 25, 1981.[^8] Percentages are derived: 667, 447 and 12 as shares of their sum, 1,126, rounded to whole squares. The Times gave the chain 1,114 restaurants two days later, so the three figures do not reconcile exactly with the total.[^9]"
+  },
+  {
+   "kind": "flow",
+   "title": "What Vicorp paid for 166 restaurants",
+   "subtitle": "The August 1984 sale approved by the bankruptcy court, $ millions.",
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "from": {
+    "label": "Purchase price",
+    "value": 54.8
+   },
+   "to": [
+    {
+     "label": "Vicorp convertible preferred stock",
+     "value": 35.5,
+     "color": "brand",
+     "note": "Dividend of 10% to 13%[^14]"
+    },
+    {
+     "label": "Cash and assumed secured debt (derived remainder)",
+     "value": 19.3,
+     "color": "gold",
+     "note": "54.8 − 35.5; the split between the two is not in our source"
+    }
+   ],
+   "source": "UPI, August 3, 1984.[^14] The second figure is derived. That works out to about $330,000 a restaurant (derived: $54.8M ÷ 166)."
+  },
+  {
+   "kind": "scale",
+   "title": "Thirteen restaurants in 1977 for every one in 1967",
+   "icon": "store",
+   "count": 13,
+   "left": {
+    "value": "869",
+    "label": "restaurants in 1977[^6]"
+   },
+   "unit": {
+    "value": "67",
+    "label": "restaurants in 1967"
+   },
+   "per": "the whole 1967 chain (67 restaurants)",
+   "equation": "869 ÷ 67 ≈ 13.0. Both counts are from the same Time article.[^6]"
+  },
+  {
+   "kind": "counters",
+   "title": "The debt that forced the filing",
+   "items": [
+    {
+     "value": "$100M",
+     "text": "loan restructured with 17 lenders, among them Prudential, First Interstate, Bank of America, Crocker and Citibank[^10]"
+    },
+    {
+     "value": "$4.8M",
+     "text": "first instalment, missed on September 30, 1981[^10]"
+    },
+    {
+     "value": "$29.8M",
+     "text": "lost in the first nine months of 1981, against $9.35M a year earlier[^7]"
+    },
+    {
+     "value": "10,000",
+     "text": "jobs lost in the November closings, at the top of the company’s range[^10][^11]"
+    }
+   ],
+   "source": "The New York Times[^10] and UPI.[^7][^11] UPI gave the job losses as 9,000 to 10,000."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "Fraction of the Action, as the Times described it in 1979",
+   "rows": [
+    {
+     "value": "$9,000",
+     "text": "basic annual salary of a restaurant manager[^2]"
+    },
+    {
+     "value": "$20,000",
+     "text": "paid by the manager for 20% of the restaurant, and booked by the company as income[^2]"
+    },
+    {
+     "value": "60%",
+     "text": "annual return some managers earned on that investment[^2]"
+    },
+    {
+     "value": "70%",
+     "text": "or more of the managers resigned in the two years after the plan was changed[^2]"
+    }
+   ],
+   "source": "Pamela G. Hollie, The New York Times, December 3, 1979.[^2] Book value per share, by Value Line’s calculation, went from $9.39 in 1977 to $1.95 in 1980 and zero in 1981.[^9]"
+  }
+ ]
+}

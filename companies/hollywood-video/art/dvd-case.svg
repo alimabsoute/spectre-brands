@@ -1,0 +1,14 @@
+<svg viewBox="0 0 360 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a rental DVD case with a five-day rental sticker, a disc and a VHS tape behind it">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="28" y="70" width="170" height="104" rx="8" fill="#2b2a28"/>
+<rect x="44" y="84" width="138" height="30" rx="3" fill="#fbf9f5"/>
+<circle cx="80" cy="144" r="16" fill="#fbf9f5"/><circle cx="146" cy="144" r="16" fill="#fbf9f5"/>
+<rect x="130" y="34" width="132" height="180" rx="6" fill="#2a2440"/>
+<rect x="144" y="48" width="104" height="96" fill="#b3202a"/>
+<path d="M156 164h80M156 180h54" stroke="#fbf9f5" stroke-width="5"/>
+<circle cx="196" cy="96" r="30" fill="#f2b51d"/><path d="M186 82v28l24-14z" fill="#fbf9f5" stroke-width="2.4"/>
+<circle cx="286" cy="150" r="52" fill="#dfe3ea"/><circle cx="286" cy="150" r="14" fill="#fbf9f5"/>
+<path d="M254 116a46 46 0 0 1 60 -6" fill="none" stroke="#9a9184" stroke-width="2"/>
+<rect x="232" y="24" width="96" height="40" rx="6" fill="#f2d84a" transform="rotate(8 280 44)"/>
+<path d="M248 40h64M252 52h40" stroke-width="4" transform="rotate(8 280 44)"/>
+</g></svg>

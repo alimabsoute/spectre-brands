@@ -1,0 +1,27 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Four decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "No Reel.com",
+   "actual": "Hollywood paid about $96.9M for Reel.com in October 1998, funded losses it put at about $60M a year, failed to find outside money and closed the store in June 2000 with a $69.3M charge.[^3]",
+   "whatif": "Without Reel.com the losses of 1998–2000 would have been smaller and the going-concern warning might not have been written. The $74.3M store impairment and the debt taken on to add 1,064 stores in three years (derived: 1,615 − 551) would still have been there, so a hard year in 2000 was likely either way.[^1][^2][^3]"
+  },
+  {
+   "tab": "Go private at $14",
+   "actual": "The Leonard Green buyout was signed at $14.00 a share in March 2004 and amended to $10.25 in October. Hollywood ended it in January 2005.[^5][^6][^7]",
+   "whatif": "A leveraged buyout would also have loaded the company with debt, so it is hard to see a different ending. It would have left Hollywood Video on its own, without the cost of combining two chains that Movie Gallery later said it never finished combining.[^13]"
+  },
+  {
+   "tab": "Take Blockbuster’s $14.50",
+   "actual": "Blockbuster offered $14.50 a share in cash and stock. The board recommended against it because of antitrust uncertainty, and Blockbuster withdrew on March 25, 2005.[^8][^9]",
+   "whatif": "Had regulators allowed it, shareholders would have received $1.25 a share more (derived: $14.50 − $13.25), part of it in Blockbuster stock. The stores would then have belonged to a company that itself filed for Chapter 11 in September 2010.[^24]"
+  },
+  {
+   "tab": "A buyer with less debt",
+   "actual": "Movie Gallery financed the purchase with an $870.0M credit facility, $325.0M of 11% notes and about $180.0M of Hollywood’s own cash.[^11]",
+   "whatif": "With less borrowing, Movie Gallery might have had room to try kiosks or rental by mail, which it said in 2008 it would not fund.[^13] The rental business was shrinking in any case, and the industry leader, Blockbuster, also filed for Chapter 11 that year.[^24]"
+  }
+ ]
+}

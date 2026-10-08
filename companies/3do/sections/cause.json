@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 30,
+   "title": "A licensing model with no control over price or supply",
+   "text": "3DO designed the console and collected royalties; hardware makers built it at a loss and had no reason to build more. To get Matsushita to raise output 3DO had to tax its own developers. Hawkins later said the company “didn’t have control of the basket.”[^1][^23][^25]"
+  },
+  {
+   "weight": 20,
+   "title": "$699 and an empty shelf",
+   "text": "The first machine cost $699 when a Sega or Nintendo cost as little as $89. A Matsushita executive said a month after launch that only four games were available, and advertised titles ran three to six months late.[^20][^21][^23]"
+  },
+  {
+   "weight": 20,
+   "title": "Sony and Sega",
+   "text": "Sega sold 250,000 Saturns in Japan within three weeks of launch, more than the 200,000 3DO machines Matsushita had sold there by September 1994. Both rivals reached the United States in 1995. Every 3DO hardware licensee had stopped by 1996.[^1][^23]"
+  },
+  {
+   "weight": 20,
+   "title": "A publisher that leaned on a few brands",
+   "text": "Three brands made up about 75% of fiscal 1999 revenue. Revenue fell from $122.2M to $53.7M in two years, and CNET wrote at the bankruptcy that Army Men’s popularity had waned and other titles had failed to catch on.[^4][^5][^7][^29]"
+  },
+  {
+   "weight": 10,
+   "title": "Never enough cash",
+   "text": "3DO had about seven months of cash in December 1994, an accumulated deficit of $262.0M by December 2002, and in its last months ran on secured loans from its own chief executive.[^8][^10][^11][^23][^28]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings and the press of the time document the symptoms. How much each one contributed is a matter of opinion."
+}

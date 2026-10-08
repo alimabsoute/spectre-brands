@@ -1,0 +1,80 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "From a 1989 company film to the closing sales",
+ "lede": "A corporate video from the Soft Warehouse years, three commercials from the growth decade, a news clip from the week of the sale, an advertisement from the Systemax revival and a later retrospective.",
+ "videos": [
+  {
+   "id": "softwarehouse",
+   "title": "“1989 Soft Warehouse Video”",
+   "year": 1989,
+   "type": "documentary",
+   "provider": "youtube",
+   "embedId": "Vbei1Eyf33s",
+   "caption": "A nine-minute company video from before the CompUSA name. The title and the 1989 date are the uploader’s; the upload is from August 2026. The company was called Soft Warehouse until March 1991.[^1]"
+  },
+  {
+   "id": "xmas1992",
+   "title": "CompUSA Christmas commercial",
+   "year": 1992,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "F9PmuIfnhoE",
+   "caption": "A 30-second holiday spot. The 1992 date is the uploader’s. The chain had 28 stores in June 1992 and 48 a year later.[^1]"
+  },
+  {
+   "id": "spot1994",
+   "title": "CompUSA commercial, February 26, 1994",
+   "year": 1994,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "1Mnh3vtGCoI",
+   "caption": "According to the uploader, recorded during Winter Olympics coverage on February 26, 1994, two months after James Halpin replaced Nathan Morton and in the one loss-making year of the decade’s first half.[^8][^1]"
+  },
+  {
+   "id": "spot1996",
+   "title": "CompUSA “computer store” commercial",
+   "year": 1996,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "xyKDBKplqK8",
+   "caption": "A 30-second spot dated 1996 by the uploader. Fiscal 1996 ended with 105 stores and net income of $59.7M.[^1]"
+  },
+  {
+   "id": "wagner2001",
+   "title": "CompUSA commercial with Robert Wagner",
+   "year": 2001,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "21TR5mByhNU",
+   "caption": "A spot from the first full year of private ownership. The 2001 date and the identification of the actor are the uploader’s."
+  },
+  {
+   "id": "macsimum2007",
+   "title": "MacsimumNews: “CompUSA closing down; demand for Macs up”",
+   "year": 2007,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "l99Wthzwjdo",
+   "caption": "A three-minute news video from an Apple news site, uploaded on December 10, 2007, three days after the sale to Gordon Brothers.[^13] CompUSA had sold the Macintosh since 1991.[^8]"
+  },
+  {
+   "id": "systemax2008",
+   "title": "CompUSA TV ad, South Florida, November 2008",
+   "year": 2008,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "n-R80Ny7x_c",
+   "caption": "A weekly-offers ad uploaded on October 30, 2008 by a channel named compusatv, for the stores Systemax reopened that year.[^17] The uploader’s description says it ran on WPLG and LATV."
+  },
+  {
+   "id": "postmortar",
+   "title": "Post-Mortar: “CompUSA: The Death of a Tech Giant”",
+   "year": 2022,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "WPvk92itVRk",
+   "caption": "A fourteen-minute independent retrospective published in March 2022. Its claims and figures are the uploader’s; ours are in the sections above."
+  }
+ ],
+ "note": "Dates marked as the uploader’s could not be confirmed against a broadcast record."
+}

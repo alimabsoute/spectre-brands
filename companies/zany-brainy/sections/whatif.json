@@ -1,0 +1,27 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Four decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "No Noodle Kidoodle",
+   "actual": "Zany Brainy merged with Noodle Kidoodle in July 2000, adding 60 stores to its own 104 in one step and issuing about 9.4 million shares. It booked $29.4M of charges tied to the deal that year, and the renamed stores’ sales declined.[^3][^20]",
+   "whatif": "Without the merger the company would have kept its plan of about 25 new stores a year[^2] and avoided the integration charges. It would still have faced the end of the Pokémon and Beanie Babies boom, and a direct rival with 59 stores in New York, Texas, Florida and Michigan, markets it wanted.[^20]"
+  },
+  {
+   "tab": "Stores before software",
+   "actual": "The Noodle Kidoodle integration, 27 store openings and a conversion of the merchandising system all ran in the same fiscal year. The company said the conversion left stores without the right merchandise.[^3]",
+   "whatif": "Doing them one at a time would have meant a slower year and a less exciting story for shareholders. The 1996 management had already learned that lesson once, when it cut openings from 12 in 1996 to nine in 1997 and made its first profit in 1998.[^1] Whether the stock market of 2000 would have tolerated it is unknowable."
+  },
+  {
+   "tab": "A catalogue, not a joint venture",
+   "actual": "Zany Brainy put $5.0M into an internet joint venture in October 1999 and agreed to a further $6.8M in March 2000. It took the site over in December 2000, recorded $11.5M of losses from it for the year, and switched off its shopping pages in May 2001.[^2][^3]",
+   "whatif": "A modest site run alongside the existing catalogue would have cost less. In 1999 the company told investors it feared internet-only retailers such as eToys and Amazon.com[^1], and staying off the web would have looked reckless at the time. The saving would not have covered the fall in store sales."
+  },
+  {
+   "tab": "Waterton instead of The Right Start",
+   "actual": "In July 2001 Zany Brainy agreed to be sold to Waterton Management and kept as a stand-alone company with the same managers. In August the court approved The Right Start’s offer instead, and Waterton invested in The Right Start. Within five months the buyer had also bought FAO Schwarz.[^8][^9][^12][^22]",
+   "whatif": "A stand-alone Zany Brainy would not have been pulled into FAO Schwarz’s troubles after September 11, or shared a lender and a head office with two other chains. It would still have been a specialty toy chain facing Wal-Mart and Target in 2003, with a same-store sales trend that was already negative.[^7][^18]"
+  }
+ ]
+}

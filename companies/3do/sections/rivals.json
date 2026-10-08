@@ -1,0 +1,165 @@
+{
+ "kicker": "The rivals",
+ "title": "Cheaper machines below it, stronger ones behind it",
+ "lede": "3DO had a year’s head start on the 32-bit consoles. It spent that year at the highest price in the shop, and the companies that followed sold their own hardware at prices they chose.",
+ "blocks": [
+  {
+   "kind": "bars",
+   "title": "What a console cost, 1993–1994",
+   "subtitle": "Prices as reported by The New York Times. The Saturn and PlayStation prices are Japanese launch prices converted by the Times.",
+   "format": "usd",
+   "itemLabel": "Machine",
+   "valueLabel": "Price",
+   "items": [
+    {
+     "label": "3DO (Panasonic), October 1993",
+     "value": 699,
+     "self": true,
+     "note": "Launch price[^20][^23]"
+    },
+    {
+     "label": "Philips CD-i, January 1993",
+     "value": 600,
+     "color": "grey",
+     "note": "A CD player for the television, not a 32-bit console[^19]"
+    },
+    {
+     "label": "Sega Saturn, Japan, November 1994",
+     "value": 448,
+     "color": "ink",
+     "note": "[^23]"
+    },
+    {
+     "label": "3DO, December 1994",
+     "value": 399,
+     "self": true,
+     "note": "List price after cuts[^23]"
+    },
+    {
+     "label": "Sony PlayStation, Japan, December 1994",
+     "value": 399,
+     "color": "ink",
+     "note": "[^23]"
+    },
+    {
+     "label": "Sega or Nintendo 16-bit system, 1993",
+     "value": 89,
+     "color": "grey",
+     "note": "“As little as $89”[^23]"
+    }
+   ],
+   "source": "The New York Times, January 8, 1993[^19], September 9, 1993[^20] and December 11, 1994[^23]."
+  },
+  {
+   "kind": "scale",
+   "title": "One 3DO for the price of nearly eight 16-bit consoles",
+   "icon": "gamepad",
+   "count": 8,
+   "left": {
+    "value": "$699",
+    "label": "the 3DO at launch, October 1993[^23]"
+   },
+   "unit": {
+    "value": "$89",
+    "label": "the cheapest Sega or Nintendo system at the time[^23]"
+   },
+   "equation": "$699 ÷ $89 ≈ 7.9, shown as 8. Both prices are from the same New York Times article.[^23]"
+  },
+  {
+   "kind": "multiples",
+   "title": "Who won, who died",
+   "subtitle": "The CD-based machines of 1993–1995, with the one sales figure our sources give for each.",
+   "metric": "Early sales",
+   "items": [
+    {
+     "name": "3DO Interactive Multiplayer",
+     "status": "ghost",
+     "statusLabel": "Abandoned by 1996",
+     "self": true,
+     "value": "300,000 by Sep 1994",
+     "text": "Matsushita’s count, eleven months after launch: 200,000 in Japan and 100,000 elsewhere. Every licensee had stopped making it by 1996.[^23][^1]"
+    },
+    {
+     "name": "Sega Saturn",
+     "status": "dead",
+     "value": "250,000 in under three weeks",
+     "text": "Sold out in Japan after its November 22, 1994 launch. Reached the United States in 1995.[^23][^1]"
+    },
+    {
+     "name": "Sony PlayStation",
+     "status": "alive",
+     "value": "100,000 in two days",
+     "text": "Sony’s entire first Japanese shipment, from December 3, 1994. Reached the United States in 1995. 3DO was publishing games for it by 1999.[^23][^1][^5]"
+    },
+    {
+     "name": "Atari Jaguar",
+     "status": "dead",
+     "value": "No count in our sources",
+     "text": "The Times wrote in December 1994 that 1995 would be a battle “that only two or three contestants will survive,” and named Atari’s machine among them.[^23]"
+    },
+    {
+     "name": "Philips CD-i",
+     "status": "dead",
+     "value": "No count in our sources",
+     "text": "Philips was spending more than $25M on advertising its $600 player when 3DO was unveiled.[^19]"
+    }
+   ],
+   "source": "The New York Times[^19][^23] and 3DO’s 10-K filings[^1][^5]. The figures are from different dates and markets and are not directly comparable. That the Saturn, Jaguar and CD-i were later discontinued and that the PlayStation line continues is general knowledge."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "name": "3DO",
+    "tag": "Licensed the design",
+    "alive": false,
+    "rows": [
+     [
+      "Who built the machine",
+      "Matsushita, Goldstar, Sanyo and others[^1]"
+     ],
+     [
+      "Who set the price",
+      "The manufacturer[^20][^23]"
+     ],
+     [
+      "Royalty per game",
+      "$3, then a disputed $3 surcharge[^23]"
+     ],
+     [
+      "Hardware losses",
+      "Fell on the licensees[^23]"
+     ]
+    ]
+   },
+   "right": {
+    "name": "The incumbents",
+    "tag": "Sega and Nintendo sold their own hardware",
+    "alive": true,
+    "rows": [
+     [
+      "Who built the machine",
+      "The platform owner"
+     ],
+     [
+      "Who set the price",
+      "The platform owner"
+     ],
+     [
+      "Royalty per game",
+      "$9 to $12, by the Times’s account[^23]"
+     ],
+     [
+      "Hardware losses",
+      "Not addressed in our sources"
+     ]
+    ]
+   },
+   "source": "The New York Times, December 11, 1994[^23], and 3DO’s 10-K for fiscal 1996[^1]. The right-hand column describes the incumbents’ model as the Times described it, not audited figures."
+  },
+  {
+   "kind": "quote",
+   "text": "The [64-bit based gaming] market has matured and it is difficult to make a fresh entry.",
+   "who": "Yoichi Morishita, president of Matsushita, on shelving the M2 console, as reported by Kyodo and quoted by GameSpot, Jul 3, 1997[^26]"
+  }
+ ]
+}

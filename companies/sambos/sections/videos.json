@@ -1,0 +1,71 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The chain on television, and the last sign on the news",
+ "lede": "Four spots as collectors have preserved them, and three pieces from June and July 2020. Airing years of the commercials come from the uploaders and we could not confirm them. Advertising of this period may include the chain’s mascots.",
+ "videos": [
+  {
+   "id": "c75",
+   "title": "Sambo’s commercial",
+   "year": 1975,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "NTwloSjyyQg",
+   "caption": "A thirty-second spot from the years of fastest growth, uploaded by Retro Man and dated 1975 by the uploader.[^33] The chain went from 67 restaurants in 1967 to 869 in 1977.[^6]"
+  },
+  {
+   "id": "c77",
+   "title": "“Just What The Family Ordered...”",
+   "year": 1977,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "PBk563xdRM8",
+   "caption": "Uploaded by The Museum of Classic Chicago Television, which dates it to 1977, the chain’s best year for profit.[^33][^6]"
+  },
+  {
+   "id": "c79",
+   "title": "A breakfast commercial",
+   "year": 1979,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "ZkX0fm7I3Vw",
+   "caption": "Dated 1979 by the uploader, robatsea2009.[^33] That was the year the company lost $77.8M and most of its original managers.[^2][^7]"
+  },
+  {
+   "id": "c82",
+   "title": "A commercial dated 1982",
+   "year": 1982,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "4P-PWfKFWMo",
+   "caption": "Uploaded by Captioning for Everyone with closed captions and dated 1982 by the uploader.[^33] If the date is right, it aired while the company was in Chapter 11 and shortly before the restaurants became Season’s.[^13]"
+  },
+  {
+   "id": "keytjune",
+   "title": "KEYT: “American restaurant history changing in Santa Barbara with the end of Sambos”",
+   "year": 2020,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "J2pp2hmV4p4",
+   "caption": "The Santa Barbara station’s report on the decision to drop the name, published on the station’s News Channel 3-12 channel in 2020. The written version of the report is one of our sources.[^24]"
+  },
+  {
+   "id": "keytjuly",
+   "title": "KEYT: “Chad’s name now on historic restaurant site”",
+   "year": 2020,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "uzLDrkjOO_M",
+   "caption": "The same station on the new sign, July 2020.[^26]"
+  },
+  {
+   "id": "owner",
+   "title": "Restaurant Hospitality: the owner on changing the name",
+   "year": 2020,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "JjKAXQi5ZIA",
+   "caption": "A five-minute interview with the owner of the last restaurant, published by the trade magazine Restaurant Hospitality in 2020. It is his account, not a source for any figure on this page.[^33]"
+  }
+ ],
+ "note": "We found no embeddable news footage of the November 1981 closings or the bankruptcy filing."
+}

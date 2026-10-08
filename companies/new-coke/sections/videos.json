@@ -1,0 +1,61 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The launch, the apology and the advertising in between",
+ "lede": "A network news report on the launch, Keough’s speech at the reversal, the advertisements from both sides, and the 2019 revival. Years are the uploaders’ unless a caption says otherwise.",
+ "videos": [
+  {
+   "id": "launch",
+   "title": "CBS Evening News: Coca-Cola launches new Coke",
+   "year": 1985,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "a8j97dOLsyk",
+   "caption": "A two-minute network report on the formula change, posted by the CBS Evening News channel under the title “1985: Coca-Cola launches new Coke.” The announcement was on April 23, 1985.[^1][^29]"
+  },
+  {
+   "id": "keough",
+   "title": "Donald Keough announces Coca-Cola Classic",
+   "year": 1985,
+   "type": "event",
+   "provider": "youtube",
+   "embedId": "t_djFC9Uhuw",
+   "caption": "Nearly six minutes of the company president’s remarks on the return of the original formula, uploaded by the channel CokeConversations as “Don Keough Speech Classic Coke.” The press conference was on July 11, 1985; the upload itself gives no date for the footage.[^1][^29]"
+  },
+  {
+   "id": "cosby",
+   "title": "Bill Cosby for the new taste of Coke",
+   "year": 1985,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "3GmAmT0_zgU",
+   "caption": "A 30-second spot for the reformulated drink. The year is the uploader’s.[^29]"
+  },
+  {
+   "id": "pepsi",
+   "title": "Pepsi: “They changed my Coke”",
+   "year": 1985,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "8_hvOBnsirI",
+   "caption": "Pepsi’s response in a 30-second commercial. The title and year are the uploader’s. Pepsi said its May 1985 sales were up 14%.[^5][^29]"
+  },
+  {
+   "id": "headroom",
+   "title": "Max Headroom: “Catch the Wave”",
+   "year": 1986,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "tpqgNhF8ApE",
+   "caption": "A spot from the “Catch the Wave” campaign, which Coca-Cola says was for the new taste of Coke after Classic returned.[^1] The year is the uploader’s.[^29]"
+  },
+  {
+   "id": "stranger",
+   "title": "“Stranger Things” New Coke commercial",
+   "year": 2019,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "mnjuWCPT5DE",
+   "caption": "A third-party upload of the 2019 advertisement with the show’s cast. Coca-Cola said the Duffer Brothers directed a spot that would run online and in cinemas from May 24, 2019; we could not confirm that this upload is the complete official cut.[^25][^29]"
+  }
+ ]
+}

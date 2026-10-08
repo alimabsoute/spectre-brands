@@ -1,0 +1,299 @@
+{
+ "kicker": "The money",
+ "title": "Two peaks, both followed by a cliff",
+ "label": "The numbers",
+ "lede": "3DO’s fiscal years ended on March 31. Its 10-K filings on SEC EDGAR cover every year from the first to fiscal 2002; the company went bankrupt before filing one for fiscal 2003. All figures are as first reported unless noted.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Revenue, fiscal 1994 to 2003",
+   "subtitle": "$ millions, years ending March 31. The first peak is a licence fee. The second is Army Men.",
+   "labels": [
+    "FY94",
+    "FY95",
+    "FY96",
+    "FY97",
+    "FY98",
+    "FY99",
+    "FY00",
+    "FY01",
+    "FY02",
+    "FY03"
+   ],
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "xLabel": "Fiscal year ending March 31",
+   "series": [
+    {
+     "label": "Total revenue",
+     "data": [
+      10.3,
+      30.4,
+      37.9,
+      92.4,
+      38.9,
+      48.0,
+      122.2,
+      82.8,
+      53.7,
+      30.0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "The console’s first year",
+     "text": "Revenue of $10.3M against a net loss of $51.4M, including a $21.4M charge for buying NTG.[^1]"
+    },
+    {
+     "i": 3,
+     "title": "The M2 fee",
+     "text": "Of $92.4M (derived), $79.2M is hardware royalties and licence fees; Matsushita’s $100M was booked as revenue in stages from fiscal 1996 to fiscal 1998. Software brings in $9.5M.[^1][^4]"
+    },
+    {
+     "i": 4,
+     "title": "Hardware sold",
+     "text": "Samsung buys the hardware group in June 1997. Software revenue is $9.4M.[^3][^4]"
+    },
+    {
+     "i": 6,
+     "title": "The publishing peak",
+     "text": "$122.2M, up 154% in a year, and net income of $0.2M.[^5][^6]"
+    },
+    {
+     "i": 8,
+     "title": "Going-concern warning",
+     "text": "$53.7M of revenue, a $47.3M loss and an accumulated deficit of $251.9M.[^7]"
+    },
+    {
+     "i": 9,
+     "title": "The last year",
+     "text": "About $30M (derived, unaudited): $20.0M in nine months plus about $10.0M in the March quarter. No annual report was filed.[^8][^13][^28]"
+    }
+   ],
+   "source": "FY94–FY96: 10-K for fiscal 1996[^1]. FY97–FY99: 10-K for fiscal 1999; FY97 and FY98 are derived by adding its software and hardware segments[^4]. FY00: 10-K for fiscal 2000[^5]. FY01: 10-K for fiscal 2001[^6]. FY02: 10-K for fiscal 2002[^7]. FY03 is derived from the last 10-Q and a company press release and was never audited[^8][^13]. Later filings restated FY00 to $118.5M and FY01 to $80.0M[^7]."
+  },
+  {
+   "kind": "chart",
+   "id": "tdoNet",
+   "title": "Net income or loss, every year 3DO reported",
+   "subtitle": "$ millions, years ending March 31. Three years in the black out of eleven.",
+   "chart": {
+    "type": "bar",
+    "height": 340,
+    "legend": false,
+    "labels": [
+     "FY92",
+     "FY93",
+     "FY94",
+     "FY95",
+     "FY96",
+     "FY97",
+     "FY98",
+     "FY99",
+     "FY00",
+     "FY01",
+     "FY02"
+    ],
+    "y": {
+     "format": "usdM"
+    },
+    "series": [
+     {
+      "label": "Net income (loss), $M",
+      "data": [
+       -2.7,
+       -15.4,
+       -51.4,
+       -46.3,
+       -34.7,
+       13.3,
+       22.5,
+       -13.2,
+       0.2,
+       -77.0,
+       -47.3
+      ],
+      "colors": [
+       "red",
+       "red",
+       "red",
+       "red",
+       "red",
+       "green",
+       "green",
+       "red",
+       "green",
+       "red",
+       "red"
+      ]
+     }
+    ]
+   },
+   "source": "FY92 (six months from October 1, 1991) to FY96: 10-K for fiscal 1996[^1]. FY97–FY99: 10-K for fiscal 1999[^4]. FY00–FY02: 10-K for fiscal 2002[^7]. In the nine months to December 31, 2002 the company lost a further $10.1M, or $22.8M after preferred dividends and accretion[^8]."
+  },
+  {
+   "kind": "chart",
+   "id": "tdoSplit",
+   "title": "Where the revenue came from, fiscal 1995 to 1999",
+   "subtitle": "$ millions. The hardware business earned most when it was being wound up.",
+   "chart": {
+    "type": "bar",
+    "stacked": true,
+    "height": 320,
+    "labels": [
+     "FY95",
+     "FY96",
+     "FY97",
+     "FY98",
+     "FY99"
+    ],
+    "y": {
+     "format": "usdM",
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Hardware systems (royalties, licence fees, development systems)",
+      "data": [
+       27.1,
+       30.6,
+       82.8,
+       29.5,
+       0
+      ],
+      "color": "grey"
+     },
+     {
+      "label": "Software publishing",
+      "data": [
+       3.3,
+       7.3,
+       9.5,
+       9.4,
+       48.0
+      ],
+      "color": "brand"
+     }
+    ]
+   },
+   "source": "Segment table in the 10-K for fiscal 1999[^4]. Rounded from thousands of dollars."
+  },
+  {
+   "kind": "counters",
+   "title": "The M2 deal, in 3DO’s own figures",
+   "items": [
+    {
+     "value": "$100M",
+     "text": "upfront licence fee from Matsushita, agreed December 7, 1995 and paid in two instalments of $60M and $40M[^1]"
+    },
+    {
+     "value": "$10M",
+     "text": "of that withheld as Japanese tax, $6.0M and $4.0M, leaving $90M (derived)[^1]"
+    },
+    {
+     "value": "$20.0M",
+     "text": "paid by Samsung for most of the hardware group on June 23, 1997, for a gain of $18.0M[^3]"
+    },
+    {
+     "value": "3.2M",
+     "text": "3DO shares Matsushita returned in July 1997 when 3DO gave up its M2 royalties[^3]"
+    }
+   ],
+   "source": "10-K filings for fiscal 1996 and fiscal 1998.[^1][^3]"
+  },
+  {
+   "kind": "flow",
+   "title": "What the auction raised, and from whom",
+   "subtitle": "Winning bids on August 14, 2003, as the trade press reported them. Thousands of dollars.",
+   "format": "usdK",
+   "from": {
+    "label": "Total, per 3DO’s 8-K",
+    "value": 4585
+   },
+   "to": [
+    {
+     "label": "Namco: Street Racing Syndicate",
+     "value": 1500,
+     "color": "blue",
+     "note": "An unfinished game[^30]"
+    },
+    {
+     "label": "Ubi Soft: Might and Magic",
+     "value": 1300,
+     "color": "brand",
+     "note": "Heroes of Might and Magic[^30]"
+    },
+    {
+     "label": "Crave: Army Men",
+     "value": 750,
+     "color": "green",
+     "note": "[^31]"
+    },
+    {
+     "label": "Microsoft: High Heat Baseball",
+     "value": 450,
+     "color": "gold",
+     "note": "Figure from one report[^32]"
+    },
+    {
+     "label": "Trip Hawkins: older titles and internet patents",
+     "value": 405,
+     "color": "plum",
+     "note": "$200K + $205K[^31]"
+    },
+    {
+     "label": "JoWooD: Jacked",
+     "value": 90,
+     "color": "teal",
+     "note": "[^31]"
+    },
+    {
+     "label": "Patent Purchase Manager: tools and IP",
+     "value": 75,
+     "color": "grey",
+     "note": "[^31]"
+    },
+    {
+     "label": "Not itemised (derived remainder)",
+     "value": 15,
+     "color": "light",
+     "note": "4,585 − 4,570"
+    }
+   ],
+   "source": "Total and list of winning bidders: 3DO’s 8-K of September 5, 2003[^16]. Individual prices: GamesIndustry.biz, August 18 and 20, 2003[^30][^31], and Nintendo World Report for the Microsoft bid[^32]. The filing does not give prices by lot, so the split is the press’s and the last line is a derived remainder."
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The share price, at the dates a source gives one",
+   "rows": [
+    {
+     "value": "$47.75",
+     "text": "peak in October 1993, the month the console launched[^23]"
+    },
+    {
+     "value": "$10.63",
+     "text": "in December 1994, quoted as $10.625[^23]"
+    },
+    {
+     "value": "$15.81",
+     "text": "highest close in the March 2000 quarter, the best of the publishing years[^5]"
+    },
+    {
+     "value": "46¢",
+     "text": "on May 29, 2003, the day after the filing, down 65%[^29]"
+    }
+   ],
+   "source": "The New York Times[^23], 3DO’s 10-K for fiscal 2000[^5] and CNET[^29]. Prices after August 22, 2002 follow a one-for-eight reverse split[^9], so the last figure is not comparable with the others: 46 cents then is under 6 cents in old shares (derived: $0.46 ÷ 8)."
+  },
+  {
+   "kind": "note",
+   "body": "How many 3DO machines were sold is not in the company’s filings. Matsushita, the main manufacturer, gave 300,000 worldwide as of September 1994.[^23] A lifetime figure of about 2 million is widely repeated; we could not trace it to a primary source and treat it as **unverified**."
+  }
+ ]
+}

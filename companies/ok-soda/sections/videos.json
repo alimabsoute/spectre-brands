@@ -1,0 +1,52 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "Television chain letters",
+ "lede": "The broadcast ads, a recording from the hotline and a later documentary. These are collectors’ uploads; the 1994 dates are the uploaders’ and match the period the drink was on sale. Upload dates are from the YouTube pages.[^22]",
+ "videos": [
+  {
+   "id": "ads",
+   "title": "OK Soda broadcast ads",
+   "year": 1994,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "bQFN45_puoY",
+   "caption": "A two-and-a-half-minute reel of television spots, titled “OK Soda Broadcast Ads, 1994” by the uploader and posted in June 2014.[^22] The Believer describes the format: a voice reading a chain letter as typewriter text scrolls over a black background.[^13]"
+  },
+  {
+   "id": "hotline",
+   "title": "The hotline: “Thanks for being a devoted caller”",
+   "year": 1994,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "4kVkltl8gRQ",
+   "caption": "A short recording that the uploader presents as audio from the 1-800-I-FEEL-OK line, posted in September 2014. The year is our attribution from the period the line operated; we could not confirm when the recording was made.[^22][^8]"
+  },
+  {
+   "id": "spot",
+   "title": "A single 30-second spot",
+   "year": 1994,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "WaKkmaqx9V8",
+   "caption": "Titled “1994 OK Soda Commercial” by the uploader and posted in May 2022. The date is the uploader’s.[^22]"
+  },
+  {
+   "id": "all",
+   "title": "“OK Soda Commercials! All Of Them (I Think)”",
+   "year": 1994,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "biNPg50jN3g",
+   "caption": "A five-minute compilation posted in September 2013 by Fizzled Out, a blog about discontinued sodas. The uploader’s own title admits it may not be complete.[^22][^18]"
+  },
+  {
+   "id": "slate",
+   "title": "Slate’s Decoder Ring: “The Gen X Soda That Was Just ‘OK’”",
+   "year": 2024,
+   "type": "documentary",
+   "provider": "youtube",
+   "embedId": "Ewzvsef1UQo",
+   "caption": "A 43-minute episode of Slate’s Decoder Ring podcast about the brand, posted on Slate’s channel in February 2024.[^22] A later retelling, not a period source; nothing on this page is cited to it."
+  }
+ ]
+}

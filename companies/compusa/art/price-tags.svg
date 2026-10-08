@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of four price tags descending like stairs, each showing a lower figure of sales per square foot, from 1,405 dollars to 1,139 dollars">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 224 L312 224" fill="none" stroke="#b8ad97" stroke-width="2"/>
+<g font-family="Inter, sans-serif" font-weight="800" font-size="15" text-anchor="middle">
+<path d="M18 44 L74 44 L88 62 L74 80 L18 80 Z" fill="#fffef8"/><circle cx="76" cy="62" r="3" fill="#1d1b18"/>
+<text x="44" y="67" fill="#1d1b18" stroke="none">$1,405</text>
+<path d="M92 84 L148 84 L162 102 L148 120 L92 120 Z" fill="#fffef8"/><circle cx="150" cy="102" r="3" fill="#1d1b18"/>
+<text x="118" y="107" fill="#1d1b18" stroke="none">$1,364</text>
+<path d="M166 124 L222 124 L236 142 L222 160 L166 160 Z" fill="#fffef8"/><circle cx="224" cy="142" r="3" fill="#1d1b18"/>
+<text x="192" y="147" fill="#1d1b18" stroke="none">$1,290</text>
+<path d="M240 164 L296 164 L310 182 L296 200 L240 200 Z" fill="#c8102e"/><circle cx="298" cy="182" r="3" fill="#fff"/>
+<text x="266" y="187" fill="#fff" stroke="none">$1,139</text>
+</g>
+<path d="M88 62 Q120 60 122 80 M162 102 Q194 100 196 120 M236 142 Q268 140 270 160" fill="none" stroke-width="2" stroke-dasharray="4 5"/>
+<g font-family="Inter, sans-serif" font-weight="700" font-size="10" fill="#6b655b" stroke="none" text-anchor="middle">
+<text x="44" y="36">FY1996</text><text x="118" y="76">FY1997</text><text x="192" y="116">FY1998</text><text x="266" y="156">FY1999</text></g>
+<text x="210" y="40" text-anchor="middle" font-family="Caveat, cursive" font-size="19" fill="#1f2a44" stroke="none">sales per square foot</text>
+</g></svg>

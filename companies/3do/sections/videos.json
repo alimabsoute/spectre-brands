@@ -1,0 +1,62 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The most advanced home gaming system in the universe",
+ "lede": "The 1993 unveiling as public television showed it, the founder on network news, two Panasonic commercials, the Army Men campaign that paid for the second company, and a later look back. Where a date comes only from the uploader, the caption says so.",
+ "videos": [
+  {
+   "id": "ces93",
+   "title": "The Computer Chronicles: Consumer Electronics Show 1993",
+   "year": 1993,
+   "type": "news",
+   "provider": "archive",
+   "embedId": "episode_1023",
+   "caption": "The PBS programme’s report from the Las Vegas show where 3DO was unveiled, with new products from Sony, Matsushita, 3DO and MCA. The Internet Archive’s record says it was first broadcast in 1993.[^40]"
+  },
+  {
+   "id": "cbs93",
+   "title": "Trip Hawkins on CBS News",
+   "year": 1993,
+   "type": "interview",
+   "provider": "youtube",
+   "embedId": "CeFo6jjpWuE",
+   "caption": "A two-minute consumer report by Herb Weisbaum on the 3DO and Atari’s Jaguar, with Hawkins interviewed. The 1993 date and the CBS attribution are the uploader’s; the clip was posted in March 2024.[^39]"
+  },
+  {
+   "id": "real93",
+   "title": "Panasonic R.E.A.L. 3DO commercial",
+   "year": 1993,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "aUFt8F4223w",
+   "caption": "A television spot for Panasonic’s machine, as the uploader titles it. The first 3DO console went on sale in October 1993 at $699.[^1][^20] The upload gives no air date; we list it under the launch year."
+  },
+  {
+   "id": "toys94",
+   "title": "3DO: “Toys”",
+   "year": 1994,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "ODohEMlnBEo",
+   "caption": "A spot the uploader titles “Toys” and dates 1994. The machine’s target audience, the Times wrote that December, was men between 18 and 45.[^23]"
+  },
+  {
+   "id": "armymen3d",
+   "title": "Army Men 3D for PlayStation",
+   "year": 1999,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "SmqtAMdtkz0",
+   "caption": "3DO’s 10-K says it ran television campaigns for Army Men 3D on the PlayStation in fiscal 1999, the year Army Men was 31% of its revenue.[^4][^5] The 1999 date on this copy is the uploader’s."
+  },
+  {
+   "id": "whathappened",
+   "title": "Matt McMuscles: “The 3DO: What Happened?”",
+   "year": 2020,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "ay0AtiTfIVk",
+   "caption": "A twenty-minute retrospective published in October 2020. It is commentary, not a source for any figure on this page."
+  }
+ ],
+ "note": "We found no embeddable news footage of the 2003 bankruptcy or the auction."
+}

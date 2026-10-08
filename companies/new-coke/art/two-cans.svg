@@ -1,0 +1,14 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of two red cola cans side by side, one marked NEW with a silver wave and one marked CLASSIC with a white ribbon">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="180" cy="274" rx="150" ry="9" fill="#f6d9d9" stroke="none"/>
+<path d="M52 60 C52 50 148 50 148 60 L152 74 L152 250 C152 266 48 266 48 250 L48 74 Z" fill="#c1121f"/>
+<path d="M48 200 C80 170 104 214 152 130 L152 172 C112 244 84 198 48 238 Z" fill="#d9dde2"/>
+<ellipse cx="100" cy="58" rx="48" ry="9" fill="#d9dde2"/>
+<text x="100" y="116" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="20" fill="#fff" stroke="none" letter-spacing="2">NEW</text>
+<path d="M212 60 C212 50 308 50 308 60 L312 74 L312 250 C312 266 208 266 208 250 L208 74 Z" fill="#a50e19"/>
+<path d="M208 176 C240 150 276 206 312 170 L312 186 C276 222 240 166 208 192 Z" fill="#fbf9f5"/>
+<ellipse cx="260" cy="58" rx="48" ry="9" fill="#d9dde2"/>
+<text x="260" y="116" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="15" fill="#fff" stroke="none" letter-spacing="2">CLASSIC</text>
+<path d="M60 90 V236 M220 90 V236" fill="none" stroke="#e8545c" stroke-width="4"/>
+<path d="M166 150 H194 M186 142 L194 150 L186 158 M174 142 L166 150 L174 158" fill="none"/>
+</g></svg>

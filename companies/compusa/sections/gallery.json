@@ -1,0 +1,93 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Red letters on a pale box",
+ "label": "Brand gallery",
+ "lede": "A CompUSA was a plain big-box building with the name in red capitals over the door. Here is the store as it survives in photographs and the logo as it survives in the archive, with our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/logo-2008.avif",
+   "date": "Jan 2008",
+   "caption": "The logo from the website header, with the “.com” added under Systemax.",
+   "credit": "Cropped from an Internet Archive capture of compusa.com. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/store-santa-clara.avif",
+   "date": "Mar 20, 2005",
+   "caption": "A store on El Camino Real in Santa Clara, California.",
+   "credit": "Photo: Coolcaesar at en.wikipedia, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CompUSA_Santa_Clara_1.jpg), CC BY-SA 3.0."
+  },
+  {
+   "image": "img/store-closing-2008.avif",
+   "date": "Jan 22, 2008",
+   "caption": "“America’s Computer Store” with a “Store closing” banner. The photographer left only the sign in colour.",
+   "credit": "Photo: Terry Ross from Corpus Christi, Texas, United States, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Store_Closing_(2212179765).jpg), CC BY-SA 2.0."
+  },
+  {
+   "image": "img/store-last-days-2008.avif",
+   "date": "Feb 18, 2008",
+   "caption": "The same store four weeks later, in a photograph its author titled “Last Seven Days.”",
+   "credit": "Photo: Terry Ross from Corpus Christi, Texas, United States, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Last_Seven_Days_(2275973005).jpg), CC BY-SA 2.0."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The superstore.",
+   "caption": "The stores averaged about 27,000 square feet in 1996.[^1]"
+  },
+  {
+   "art": "art/beige-pc.svg",
+   "title": "The product.",
+   "caption": "Desktops, notebooks and monitors: the things whose prices kept falling.[^2]"
+  },
+  {
+   "art": "art/price-tags.svg",
+   "title": "Four years of sales per square foot.",
+   "caption": "$1,405 in fiscal 1996, $1,139 in fiscal 1999.[^2]"
+  },
+  {
+   "art": "art/store-closing.svg",
+   "title": "After the holidays.",
+   "caption": "The 103 remaining stores ran closing sales from December 2007.[^13]"
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#c8102e",
+   "label": "Logo red (approx.)"
+  },
+  {
+   "hex": "#27408b",
+   "label": "Gable dot blue (approx.)"
+  },
+  {
+   "hex": "#ece8df",
+   "label": "Storefront off-white (approx.)"
+  },
+  {
+   "hex": "#1d1b18",
+   "label": "Outline black (drawing)"
+  }
+ ],
+ "disclaimer": "Colors were sampled by eye from archived captures and photographs and are approximate.[^26][^28] CompUSA and its logos are trademarks of their owners and appear here in historical and editorial context. Drawings are original illustrations, not official assets.",
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, with and without a shop behind it",
+   "ratio": "10/9",
+   "before": {
+    "label": "June 2007",
+    "image": "img/archive-2007-06-home.avif",
+    "caption": "A retailer with 103 stores.[^26][^13]",
+    "alt": "CompUSA home page, June 2007"
+   },
+   "after": {
+    "label": "February 2019",
+    "image": "img/archive-2019-03-home.avif",
+    "caption": "A list of other retailers’ deals.[^26][^21]",
+    "alt": "CompUSA home page, February 2019"
+   },
+   "source": "Internet Archive Wayback Machine captures of compusa.com[^26]."
+  }
+ ]
+}

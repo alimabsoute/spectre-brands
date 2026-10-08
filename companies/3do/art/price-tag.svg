@@ -1,0 +1,20 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a large price tag reading 699 dollars hanging over a small stack of three game discs">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M180 14c20 10 30 26 28 44" stroke="#8a8378"/>
+<path d="M92 86l116-36 96 60-28 120-158 18-52-66Z" fill="#fbf9f5"/>
+<circle cx="208" cy="78" r="9" fill="#eaf1fb"/>
+<path d="M112 150h150" stroke="#b9b2a4" stroke-width="2"/>
+<g stroke-width="6" stroke="#1f5fae">
+<path d="M118 136c0-12 22-12 22-2 0 14-22 8-22 22 0 12 24 10 24-2M130 118v52"/>
+<path d="M176 126c-14 4-20 16-20 28 0 18 26 18 26 2 0-14-22-14-26-2"/>
+<path d="M200 164c14 0 22-12 22-26 0-18-26-18-26-2 0 14 22 14 26 2"/>
+<path d="M240 164c14 0 22-12 22-26 0-18-26-18-26-2 0 14 22 14 26 2"/>
+</g>
+<path d="M120 196h120M120 212h84" stroke="#b9b2a4" stroke-width="2"/>
+<ellipse cx="96" cy="262" rx="52" ry="12" fill="#dfe6ee"/>
+<ellipse cx="96" cy="252" rx="52" ry="12" fill="#dfe6ee"/>
+<ellipse cx="96" cy="242" rx="52" ry="12" fill="#eef2f6"/>
+<ellipse cx="96" cy="242" rx="12" ry="3" fill="#fbf9f5" stroke-width="2"/>
+<path d="M286 244l10 18h-20Z" fill="#e8c53a" stroke-width="2.5"/>
+<rect x="306" y="246" width="16" height="16" fill="#d1492e" stroke-width="2.5"/>
+</g></svg>

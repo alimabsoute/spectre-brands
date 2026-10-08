@@ -1,0 +1,185 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "The primary sources are the SEC filings of FAO Inc., which owned FAO Schwarz in 2002–04, and of Toys “R” Us, which owned it in 2009–16. The years before 2001 rest on one reference history. Every link below was opened and read while this page was written.",
+ "list": [
+  {
+   "id": 1,
+   "text": "FAO, Inc., [Annual Report on Form 10-K for the fiscal year ended February 1, 2003](https://www.sec.gov/Archives/edgar/data/878720/000110465903010472/j0015_10k.htm), filed May 16, 2003 (SEC EDGAR)."
+  },
+  {
+   "id": 2,
+   "text": "FAO, Inc. (formerly The Right Start, Inc.), [Annual Report on Form 10-K for the fiscal year ended February 2, 2002](https://www.sec.gov/Archives/edgar/data/878720/000091205702018177/a2078731z10-k.htm), filed May 2, 2002 (SEC EDGAR)."
+  },
+  {
+   "id": 3,
+   "text": "FAO, Inc., [Quarterly Report on Form 10-Q for the quarter ended August 2, 2003](https://www.sec.gov/Archives/edgar/data/878720/000110465903020753/a03-3235_110q.htm), filed September 16, 2003 (SEC EDGAR)."
+  },
+  {
+   "id": 4,
+   "text": "FAO, Inc., press release, [“FAO, Inc. Responds to Negative Press Report”](https://www.sec.gov/Archives/edgar/data/878720/000110465903023282/a03-4251_1ex99d1.htm), October 20, 2003, Exhibit 99.1 to Form 8-K filed October 21, 2003."
+  },
+  {
+   "id": 5,
+   "text": "FAO, Inc., [press release of November 7, 2003](https://www.sec.gov/Archives/edgar/data/878720/000110465903025271/a03-4658_3ex99d1.htm) on holiday sales and liquidity, Exhibit 99.1 to Form 8-K filed November 10, 2003."
+  },
+  {
+   "id": 6,
+   "text": "FAO, Inc., press release, [“FAO Receives Notice of Default from Lenders”](https://www.sec.gov/Archives/edgar/data/878720/000110465903025461/a03-5164_1ex99d1.htm), November 10, 2003, Exhibit 99.1 to Form 8-K filed November 12, 2003."
+  },
+  {
+   "id": 7,
+   "text": "FAO, Inc., [Form 8-K reporting its Chapter 11 petitions of December 4, 2003](https://www.sec.gov/Archives/edgar/data/878720/000110465903027853/a03-6040_18k.htm), with the press release [“FAO, Inc. to File for Bankruptcy Protection”](https://www.sec.gov/Archives/edgar/data/878720/000110465903027853/a03-6040_1ex99d1.htm) of December 2, 2003."
+  },
+  {
+   "id": 8,
+   "text": "Children’s Books & Toys, Inc. (formerly FAO, Inc.), [Form 8-K on the sale of the FAO Schwarz and Right Start businesses and the change of name](https://www.sec.gov/Archives/edgar/data/878720/000110465904004843/a04-2086_18k.htm), filed February 17, 2004 (SEC EDGAR)."
+  },
+  {
+   "id": 9,
+   "text": "Frank Uhle, [“FAO Schwarz”](https://www.encyclopedia.com/books/politics-and-business-magazines/fao-schwarz), International Directory of Company Histories (Gale), as reproduced on Encyclopedia.com. A reference history written about 2002; our source for events before 2001."
+  },
+  {
+   "id": 10,
+   "text": "[“Right Start to Buy FAO Schwarz Assets for $55 Million”](https://chiefmarketer.com/right-start-to-buy-fao-schwarz-assets-for-55-million/), Chief Marketer, Nov 19, 2001."
+  },
+  {
+   "id": 11,
+   "text": "[“The Right Start Rebrands Itself FAO Inc.”](https://www.chiefmarketer.com/the-right-start-rebrands-itself-fao-inc), Chief Marketer, Mar 27, 2002."
+  },
+  {
+   "id": 12,
+   "text": "John Mutter, [“FAO Files for Chapter 11”](https://www.publishersweekly.com/pw/print/20030127/40551-fao-files-for-chapter-11.html), Publishers Weekly, Jan 27, 2003."
+  },
+  {
+   "id": 13,
+   "text": "Michael Rubinkam, Associated Press, [“FAO to emerge from bankruptcy next week”](https://lasvegassun.com/news/2003/apr/18/fao-to-emerge-from-bankruptcy-next-week/), Las Vegas Sun, Apr 18, 2003."
+  },
+  {
+   "id": 14,
+   "text": "John Mutter, [“FAO Schwarz Headed Into Bankruptcy”](https://www.publishersweekly.com/pw/print/20031208/19381-fao-schwarz-headed-into-bankruptcy.html), Publishers Weekly, Dec 8, 2003."
+  },
+  {
+   "id": 15,
+   "text": "CNN, [transcript of a market report by Carrie Lee](https://www.cnn.com/TRANSCRIPTS/0312/03/ltm.06.html), aired Dec 3, 2003."
+  },
+  {
+   "id": 16,
+   "text": "[“Toy store deal approved”](https://lasvegassun.com/news/2004/jan/27/toy-store-deal-approved/), Las Vegas Sun, Jan 27, 2004."
+  },
+  {
+   "id": 17,
+   "text": "[“Upscale toy store reopens”](https://lasvegassun.com/news/2004/nov/10/upscale-toy-store-reopens/), Las Vegas Sun, Nov 10, 2004."
+  },
+  {
+   "id": 18,
+   "text": "[“FAO Schwarz to Open for Christmas”](https://vmsd.com/fao-schwarz-open-christmas/), VMSD (Visual Merchandising and Store Design), Nov 22, 2004."
+  },
+  {
+   "id": 19,
+   "text": "Emily Claire Afan, [“Toys ‘R’ Us snaps up FAO Schwarz”](https://kidscreen.com/?p=4682), Kidscreen, May 28, 2009."
+  },
+  {
+   "id": 20,
+   "text": "Toys “R” Us – Delaware, Inc., [condensed consolidated financial statements for the quarter ended October 31, 2009](https://www.sec.gov/Archives/edgar/data/0001005414/000119312509253320/dex993.htm), Exhibit 99.3 to a Toys “R” Us, Inc. Form 8-K filed December 15, 2009."
+  },
+  {
+   "id": 21,
+   "text": "Toys “R” Us, Inc., [Annual Report on Form 10-K for the fiscal year ended January 30, 2010](https://www.sec.gov/Archives/edgar/data/1005414/000119312510065825/d10k.htm), filed March 24, 2010 (SEC EDGAR)."
+  },
+  {
+   "id": 22,
+   "text": "Associated Press, [“Toys R Us says it will close FAO Schwarz store in July”](https://lasvegassun.com/news/2015/may/15/toys-r-us-says-it-will-close-fao-schwarz-store-jul/), Las Vegas Sun, May 15, 2015."
+  },
+  {
+   "id": 23,
+   "text": "Thomson Reuters, [“FAO Schwarz to close flagship New York store”](https://www.cbc.ca/news/business/fao-schwarz-to-close-flagship-new-york-store-1.3077199), CBC News, May 16, 2015."
+  },
+  {
+   "id": 24,
+   "text": "Toys “R” Us, Inc., [Annual Report on Form 10-K for the fiscal year ended January 28, 2017](https://www.sec.gov/Archives/edgar/data/1005414/000100541417000011/tru201610k.htm), filed April 12, 2017 (SEC EDGAR)."
+  },
+  {
+   "id": 25,
+   "text": "Toys “R” Us, Inc., [Annual Report on Form 10-K for the fiscal year ended January 30, 2016](https://www.sec.gov/Archives/edgar/data/1005414/000100541416000080/tru201510k.htm), filed March 24, 2016 (SEC EDGAR)."
+  },
+  {
+   "id": 26,
+   "text": "John Kell, [“Exclusive: Toys ‘R’ Us Is Selling Off Iconic FAO Schwarz Brand”](https://fortune.com/2016/10/04/toys-r-us-sells-fao-schwarz), Fortune, Oct 4, 2016."
+  },
+  {
+   "id": 27,
+   "text": "Wendy Goldman Getzler, [“Toys ‘R’ Us sells FAO Schwarz to ThreeSixty Group”](https://kidscreen.com/?p=91550), Kidscreen, Oct 4, 2016."
+  },
+  {
+   "id": 28,
+   "text": "[“Legendary Toy Store FAO Schwarz to Get New Home at Rockefeller Center: Reports”](https://www.nbcnewyork.com/news/local/fao-schwarz-toy-store-moving-to-rockefeller-center/366905), NBC New York, Dec 8, 2017."
+  },
+  {
+   "id": 29,
+   "text": "Verena Dobnik, Associated Press, [“FAO Schwarz is back: bigger, better, with a focus on ‘experience’”](https://www.csmonitor.com/Business/2018/1116/FAO-Schwarz-is-back-bigger-better-with-a-focus-on-experience), The Christian Science Monitor, Nov 16, 2018."
+  },
+  {
+   "id": 30,
+   "text": "FAO Schwarz, press release, [“FAO Schwarz Brings Its Iconic Toy Store Experience to Amazon.com This Fall”](https://www.morningstar.com/news/pr-newswire/20260918la51250/fao-schwarz-brings-its-iconic-toy-store-experience-to-amazoncom-this-fall), PR Newswire via Morningstar, Sep 18, 2026."
+  },
+  {
+   "id": 31,
+   "text": "Mallory Decker, [“FAO Schwarz Sneaks Back Into Midtown Inside Nordstrom Flagship”](https://hoodline.com/2026/06/fao-schwarz-sneaks-back-into-midtown-inside-nordstrom-flagship/), Hoodline, Jun 27, 2026."
+  },
+  {
+   "id": 32,
+   "text": "Children’s Books & Toys, Inc., [Form 15-12G, certification and notice of termination of registration](https://www.sec.gov/Archives/edgar/data/878720/000110465904037087/0001104659-04-037087-index.htm), filed November 22, 2004 (SEC EDGAR filing index)."
+  },
+  {
+   "id": 33,
+   "text": "[“Browsing toys and video games at Fao Schwarz in 1986”](https://www.youtube.com/watch?v=jqv939fasuM), YouTube, uploaded by Vampire Robot. The date is the uploader’s."
+  },
+  {
+   "id": 34,
+   "text": "[“FAO SCHWARZ TOY STORE 1995”](https://www.youtube.com/watch?v=RYlwAH1M6CA), YouTube, uploaded by tvdays. The date is the uploader’s."
+  },
+  {
+   "id": 35,
+   "text": "U.S. Securities and Exchange Commission, [EDGAR filing list for FAO, Inc. / Children’s Books & Toys, Inc., CIK 878720](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000878720&type=&dateb=&owner=include&count=100), which shows the notice of late filing of December 16, 2003 and no later annual report."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "The 22 stores for about 1985 is 32 − 10.[^9] The $72.1M of other FAO Inc. sales is $460.4M − $269.6M − $118.7M.[^1] The $19.2M of catalog and online sales is $13.9M + $5.3M.[^1] “Fewer than 90 stores” in the what-if is 23 + 64 = 87.[^2] “Within 16 months” runs from January 6, 2002 to April 23, 2003.[^1] The 27 and 45 days before the second filing count from November 7 and October 20 to December 4, 2003.[^4][^6][^7] “Ten sales since 1963” counts 1963, 1970, 1974, 1985, 1985–86, 1990, 2002, 2004, 2009 and 2016; the 1998 takeover of KBB by Vendex changed the owner’s owner and is not counted.[^8][^9][^20][^26] Dollar figures in the charts are rounded from the thousands in the filings."
+  },
+  {
+   "label": "Estimates",
+   "text": "Sales of $197M in 2000, about $50M in 1990 and about $20M in 1985, and the $40M price paid by KBB in 1990, are estimates or approximations given by the International Directory of Company Histories.[^9] The $55M value of the 2001 deal is the trade press’s figure at announcement.[^10]"
+  },
+  {
+   "label": "Conflicts between sources",
+   "text": "The size of the Fifth Avenue store is about 67,000 square feet in FAO Inc.’s 2003 annual report, 45,000 in the Associated Press and Reuters reports of 2015 and 61,000 in an NBC New York report of 2017; a reference history says it opened at 40,000 and was to grow to 60,000 in 1997.[^1][^9][^22][^23][^28] The new store is 20,000 square feet in the AP and “19,000-plus” in NBC New York’s report, and is about eight or about ten blocks from the old one.[^28][^29] The 2002 purchase is $35.95M in the buyer’s accounts and $55M in the press, which counted assumed liabilities and the notes at their original $18M.[^1][^10] The 2004 sale is $40.5M in cash in the 8-K and $41M in press reports.[^8][^16] The Associated Press wrote in 2018 that Right Start bought FAO Schwarz in 2002; it was agreed in November 2001 and closed on January 6, 2002.[^1][^10][^29] The reference history says Vendex acquired FAO Schwarz in 1998; that was through its takeover of KBB, the owner since 1990.[^9] The card’s sparkline uses the same mixed series as the store chart: reference-history counts, one derived figure and counts from SEC filings."
+  },
+  {
+   "label": "Unknown",
+   "text": "FAO Schwarz’s own profit or loss in any year: it was a private company or a division throughout, and FAO Inc. reported its sales but not its earnings. Sales under D. E. Shaw, Toys “R” Us and ThreeSixty Group. The prices paid in 1963, 1970, 1974, 1986, 2009 and 2016. The exact date the Fifth Avenue store reopened in 2004 (our source says it was scheduled for Thanksgiving Day). When the Las Vegas store closed for good. What creditors of FAO Inc. recovered. What now occupies 767 Fifth Avenue. Whether the name is still licensed from the F.A.O. Schwarz Family Foundation."
+  },
+  {
+   "label": "Secondary sources",
+   "text": "Everything on this page dated before November 2001, apart from the founding story repeated in FAO Inc.’s filings, comes from one reference work, the International Directory of Company Histories, read on Encyclopedia.com.[^9] It cites newspapers of the time, which we did not open. Associated Press and Reuters reports were read on the websites of the Las Vegas Sun, CBC News and The Christian Science Monitor, which carried them."
+  },
+  {
+   "label": "How we read the sources",
+   "text": "SEC filings were read in full text from EDGAR. Press pages were fetched and read as text. We did not watch the embedded videos end to end; their captions describe them from their titles, channels and running times, and airing dates are the uploaders’ unless stated.[^33][^34]"
+  },
+  {
+   "label": "Images",
+   "text": "The four photographs and the engraving are from Wikimedia Commons under the licenses stated in the gallery. We could not load Internet Archive captures of fao.com when this page was researched, so there is no “Old website” section. The accent red was matched by eye to the canopy in the 2007 photograph."
+  },
+  {
+   "label": "A date that differs",
+   "text": "FAO Inc.’s filing says FAO.com was “initially launched on May 3, 1998”; the reference history says the company first went online at www.fao.com in 1995.[^1][^9] We use the filing’s date and note the difference."
+  },
+  {
+   "label": "General knowledge",
+   "text": "That Walmart is still trading. That “Big” (1988) starred Tom Hanks. That Thanksgiving Day in 2004 fell on November 25."
+  }
+ ]
+}

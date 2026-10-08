@@ -1,0 +1,102 @@
+{
+ "name": "OK Soda",
+ "number": "028",
+ "tier": "dead",
+ "tierWhy": "Coca-Cola said in September 1995 that it would phase the drink out of its test markets; its US registration of the OK soft drink trademark was cancelled in 2003, and we found no drink sold under the name since.[^9][^11]",
+ "category": "consumer",
+ "cause": "management",
+ "years": "1994 – 1995",
+ "died": 1995,
+ "dates": [
+  {
+   "date": "1994-04-20",
+   "text": "was introduced by Coca-Cola at a New York news conference as a soda for 12- to 25-year-olds"
+  },
+  {
+   "date": "1994-05-27",
+   "text": "was described on NPR by a beverage consultant who said of soft drinks that “the most important thing is advertising”"
+  },
+  {
+   "date": "1995-09-13",
+   "text": "was reported to be on its way out, after selling a little over one million cases in its test markets"
+  },
+  {
+   "date": "2003-12-20",
+   "text": "lost its US trademark registration, cancelled because Coca-Cola did not file to keep it"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Fruity, cola-colored soda · Atlanta, Georgia",
+ "title": "OK Soda (1994–1995): post-mortem · Spectre Brands",
+ "description": "Coca-Cola built a soda for Generation X out of grey cans, chain letters and a telephone hotline, tested it in nine cities and dropped it after about a million cases. A sourced post-mortem from the press of 1994–1995, Coca-Cola’s filings and trademark records.",
+ "theme": {
+  "accent": "#b3261e",
+  "soft": "#eef0f2"
+ },
+ "card": {
+  "blurb": "Coca-Cola’s soda for people who distrusted advertising came in grey cans with a hotline and a manifesto. The hotline took more than a million calls. The drink sold about a million cases and never left its test markets.",
+  "stat": {
+   "value": "1M",
+   "label": "cases sold in its test markets before Coca-Cola phased it out"
+  },
+  "spark": [
+   0,
+   0,
+   9,
+   8,
+   0
+  ],
+  "peak": 2
+ },
+ "hero": {
+  "dates": "Introduced Apr 20, 1994. On sale in test markets from May 1994. Phase-out reported Sep 13, 1995.",
+  "standfirst": "The slogan was “Things are going to be OK.” For the people who called the hotline, perhaps. For the soda, no.",
+  "deck": "OK Soda was a reddish-brown, fruity soft drink that Coca-Cola aimed at 12- to 25-year-olds in 1994, with drab cans drawn by alternative cartoonists, chain letters in the mail and a toll-free number that played back callers’ complaints. Coca-Cola hoped it would become a mainstream brand, and the press reported a target of 3 to 4% of the market. It was sold in eight or nine US cities, depending on the source, and was withdrawn after a little more than a million cases. Coca-Cola’s SEC filings mention it once, in a list of products, so this post-mortem is built mostly from the newspapers and magazines of the time. It has fewer numbers than most pages on this site, and says where the record stops.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a soda can with a blank face. Not an official asset; the face, the label and the lettering are our own drawing, not the artwork on the real cans.",
+  "motion": "bob"
+ },
+ "keyNumbers": {
+  "caption": "The product in four numbers",
+  "rows": [
+   {
+    "value": "1M+",
+    "text": "cases sold between its introduction and September 1995, according to a Coca-Cola spokesman[^9]"
+   },
+   {
+    "value": "9",
+    "text": "US test cities “from Boston to Seattle,” as Time counted them in May 1994; The Washington Post counted eight[^6][^8]"
+   },
+   {
+    "value": "3–4%",
+    "text": "of the soft drink market: the target reported by The Washington Post in September 1994[^8]"
+   },
+   {
+    "value": "1M+",
+    "text": "calls to the 1-800-I-FEEL-OK line by September 1994, according to Coca-Cola[^8]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The brand came before the drink.",
+   "text": "Advertising Age reported five days after the announcement that Coca-Cola would bring to market “a new brand that’s admittedly not fully formed.”[^5] The Believer later reported that the ads were grey partly because the color of the liquid had not been decided.[^13]"
+  },
+  {
+   "title": "The campaign was the part that worked.",
+   "text": "Coca-Cola said the hotline had taken more than a million calls within about four months, from a product on sale in a handful of cities.[^8]"
+  },
+  {
+   "title": "The taste was the part that did not.",
+   "text": "The first four people a Washington Post reporter asked in Minneapolis each compared it to a “suicide,” every soda fountain flavor in one cup. A nine-store supermarket chain there sold at most ten 12-packs a week.[^8]"
+  },
+  {
+   "title": "It was judged as a mainstream brand.",
+   "text": "The target was 3 to 4% of the market, about the size of Mountain Dew.[^8][^6] What it delivered was a little over a million cases, which a spokesman said was not “the type of profitable volume we needed.”[^9]"
+  },
+  {
+   "title": "Nobody has brought it back.",
+   "text": "The trademark registration issued in 1997, after the drink was gone, and was cancelled in 2003.[^11] We found no re-release."
+  }
+ ]
+}

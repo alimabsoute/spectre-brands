@@ -1,0 +1,15 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a strip-centre toy store with a purple sign band of blank multicoloured letter blocks, a globe, books and building blocks in the windows and a kite overhead">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 292 H430"/>
+<rect x="34" y="120" width="372" height="172" fill="#fbf9f5"/>
+<path d="M34 120 Q220 78 406 120 V172 H34 Z" fill="#6a3fa0"/>
+<g><rect x="70" y="128" width="26" height="30" rx="4" fill="#f2b632" transform="rotate(-6 83 143)"/><rect x="102" y="124" width="26" height="30" rx="4" fill="#e2483d" transform="rotate(5 115 139)"/><rect x="134" y="121" width="26" height="30" rx="4" fill="#3fa66b" transform="rotate(-4 147 136)"/><rect x="166" y="119" width="26" height="30" rx="4" fill="#2f8fd0" transform="rotate(6 179 134)"/><rect x="216" y="119" width="26" height="30" rx="4" fill="#e2483d" transform="rotate(-5 229 134)"/><rect x="248" y="120" width="26" height="30" rx="4" fill="#f2b632" transform="rotate(4 261 135)"/><rect x="280" y="122" width="26" height="30" rx="4" fill="#2f8fd0" transform="rotate(-6 293 137)"/><rect x="312" y="125" width="26" height="30" rx="4" fill="#3fa66b" transform="rotate(5 325 140)"/><rect x="344" y="129" width="26" height="30" rx="4" fill="#f2b632" transform="rotate(-4 357 144)"/></g>
+<rect x="178" y="198" width="84" height="94" fill="#2b2a28"/><path d="M220 198 V292"/>
+<rect x="52" y="198" width="106" height="64" fill="#e3f1fb"/><rect x="282" y="198" width="106" height="64" fill="#e3f1fb"/>
+<g class="screen"><circle cx="82" cy="232" r="15" fill="#2f8fd0"/><path d="M70 226 q8 6 4 14 M84 218 q8 8 2 16 q8 2 10 -6" fill="#3fa66b"/><path d="M82 247 V256 M72 256 H92"/></g>
+<rect x="108" y="238" width="12" height="18" fill="#e2483d"/><rect x="120" y="232" width="12" height="24" fill="#f2b632"/><rect x="132" y="240" width="12" height="16" fill="#3fa66b"/>
+<rect x="296" y="238" width="18" height="18" fill="#f2b632"/><rect x="314" y="238" width="18" height="18" fill="#2f8fd0"/><rect x="305" y="220" width="18" height="18" fill="#e2483d"/>
+<path d="M346 256 L360 222 L374 256 Z" fill="#3fa66b"/><circle cx="360" cy="218" r="5" fill="#f2b632"/>
+<path d="M360 40 L384 62 L360 92 L336 62 Z" fill="#e2483d"/><path d="M360 40 V92 M336 62 H384"/><path d="M360 92 q-10 12 2 20 q10 8 -2 18" stroke-width="2"/>
+<path d="M52 70 c8 -10 22 -10 30 0 M110 48 c8 -10 22 -10 30 0" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

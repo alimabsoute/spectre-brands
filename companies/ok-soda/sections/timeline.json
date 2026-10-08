@@ -1,0 +1,330 @@
+{
+ "kicker": "Timeline",
+ "title": "Fifty-one years of a two-letter trademark, 29 moments",
+ "lede": "From an old registration to a cancelled one, with about sixteen months of soda in between. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Coca-Cola",
+   "color": "#16161A"
+  },
+  "product": {
+   "label": "Product",
+   "color": "#b3261e"
+  },
+  "marketing": {
+   "label": "Marketing",
+   "color": "#93743a"
+  },
+  "press": {
+   "label": "Press",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Decline",
+   "color": "#a8321f"
+  },
+  "afterlife": {
+   "label": "Afterlife",
+   "color": "#4f7a4a"
+  }
+ },
+ "events": [
+  {
+   "date": "Feb 21",
+   "year": "1975",
+   "cat": "corporate",
+   "title": "OK is first used on soft drinks",
+   "text": "The date of first use in commerce given in a US trademark registration for OK for soft drinks, listed under Coca-Cola’s name. We do not know what product it was used on.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Jun 20",
+   "year": "1978",
+   "cat": "corporate",
+   "title": "The first OK registration",
+   "text": "Registration No. 1,093,933 is issued. Coca-Cola’s 1994 application claims ownership of it.",
+   "src": [
+    11,
+    12
+   ]
+  },
+  {
+   "date": "1986",
+   "year": "1986",
+   "cat": "corporate",
+   "title": "Sergio Zyman leaves",
+   "text": "He had been senior vice president of marketing for Coca-Cola USA. The Believer later calls New Coke his “last brainstorm.”",
+   "src": [
+    1,
+    13
+   ]
+  },
+  {
+   "date": "Aug 1993",
+   "year": "1993",
+   "cat": "corporate",
+   "title": "Zyman returns as chief marketing officer",
+   "text": "After seven years as a consultant, according to Coca-Cola’s annual report on Form 10-K.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "1993 – 1994",
+   "year": "",
+   "cat": "product",
+   "title": "A year of field study",
+   "text": "Coca-Cola says the campaign was tuned during a year of research among teenagers, on top of a two-year “Global Teenager” program with MIT graduate students.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Early 1994",
+   "year": "1994",
+   "cat": "marketing",
+   "title": "“Obey Your Thirst”",
+   "text": "Coca-Cola launches a Sprite campaign that, in Time’s words, “pointedly refuses to overpromise.” Fruitopia is introduced the same year.",
+   "src": [
+    6,
+    13
+   ]
+  },
+  {
+   "date": "Apr 1",
+   "year": "",
+   "cat": "corporate",
+   "title": "First new trademark application",
+   "text": "Coca-Cola files to register OK for soft drinks, syrups and concentrates. It abandons this application, and a second one filed June 27, on February 3, 1995.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Apr 20",
+   "year": "",
+   "cat": "product",
+   "title": "Introduced in New York",
+   "text": "Zyman presents “a cola-colored, full-calorie soda” for 12- to 25-year-olds. Reporters taste “a slight orange or citrus flavor.”",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Apr 25",
+   "year": "",
+   "cat": "press",
+   "title": "“Admittedly not fully formed”",
+   "text": "Advertising Age reports the brand will reach the market within 30 days.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "May 6",
+   "year": "",
+   "cat": "product",
+   "title": "First sale",
+   "text": "The date of first use in commerce in the trademark record. The Washington Post later says the drink had been test-marketed “since May.”",
+   "src": [
+    11,
+    8
+   ]
+  },
+  {
+   "date": "Mid-May",
+   "year": "",
+   "cat": "marketing",
+   "title": "Chain letters in the mail",
+   "text": "Coca-Cola mails letters in its target markets telling recipients to show them “to six close friends.” Dated from Time’s “two weeks ago.”",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "May 1994",
+   "year": "",
+   "cat": "product",
+   "title": "A cool focus group",
+   "text": "In Minneapolis, 15-to-17-year-olds eventually warm to the taste. The 18-to-20-year-olds never do. Both groups keep calling the 800 number.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "May 27",
+   "year": "",
+   "cat": "press",
+   "title": "NPR: “Who cares?”",
+   "text": "On All Things Considered, consultant Tom Pirko says taste falls “way down in the hierarchy” of why people choose a soft drink. The drink is on sale in Austin, Denver, Minneapolis–St. Paul, Seattle “and a few other cities.”",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "May 30",
+   "year": "",
+   "cat": "press",
+   "title": "Time: “Will Teens Buy It?”",
+   "text": "Nine test cities, four can designs chosen from more than 50, print and TV ads starting that week, and a plan to go national in the summer and abroad by year-end.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Aug 10",
+   "year": "",
+   "cat": "corporate",
+   "title": "The application that sticks",
+   "text": "Coca-Cola files for the red-boxed OK mark, claiming first use on May 6.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Sep 3",
+   "year": "",
+   "cat": "death",
+   "title": "“Dismal sales” in Minneapolis",
+   "text": "The Washington Post finds a store that has not sold one 12-pack and another where the distributor has pulled the product. Coca-Cola says the hotline has taken more than a million calls and announces plans for four other countries.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Sep 12",
+   "year": "",
+   "cat": "marketing",
+   "title": "The hotline’s scheduled return",
+   "text": "Callers in early September are told the interactive services are paused until this date “for purely arbitrary reasons.” We could not confirm what happened on it.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Mar 13",
+   "year": "1995",
+   "cat": "corporate",
+   "title": "One mention in the 10-K",
+   "text": "Coca-Cola’s annual report for 1994 lists “OK soda” among its soft drink products. Advertising for the whole company was $1,308 million.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Sep 5",
+   "year": "",
+   "cat": "corporate",
+   "title": "Trademark published for opposition",
+   "text": "A routine step in the registration, one week before the end.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Sep 11",
+   "year": "",
+   "cat": "death",
+   "title": "“We decided not to continue it”",
+   "text": "Spokesman Randy Donaldson says Coca-Cola has sold more than one million cases and will phase the drink out of its test markets. The Times dates his remarks to “Monday.”",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Sep 13",
+   "year": "",
+   "cat": "death",
+   "title": "“Phasing Out a Soda”",
+   "text": "The New York Times prints the news in four sentences.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Mar 14",
+   "year": "1996",
+   "cat": "corporate",
+   "title": "Gone from the list",
+   "text": "The 10-K for 1995 names Coca-Cola’s soft drinks without OK. Barq’s, bought that year, is new.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Mar 18",
+   "year": "1997",
+   "cat": "afterlife",
+   "title": "Registered, eighteen months late",
+   "text": "The Patent and Trademark Office registers the OK mark to Coca-Cola after a concurrent-use proceeding.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Jun 9",
+   "year": "",
+   "cat": "press",
+   "title": "“The nine-city campaign fizzled”",
+   "text": "Time cites OK in a feature on how marketers misjudged Generation X.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Mar 30",
+   "year": "1999",
+   "cat": "afterlife",
+   "title": "The 1978 registration expires",
+   "text": "It was not renewed.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Dec 20",
+   "year": "2003",
+   "cat": "afterlife",
+   "title": "The 1997 registration is cancelled",
+   "text": "No declaration of continued use was filed. Fruitopia is phased out in the United States the same year.",
+   "src": [
+    11,
+    20
+   ]
+  },
+  {
+   "date": "Spring 2010",
+   "year": "2010",
+   "cat": "afterlife",
+   "title": "“The cans are quite valuable”",
+   "text": "Daniel Clowes tells Mother Jones the eyes on his can were Charles Manson’s. Time puts OK in its “Top 10 Bad Beverage Ideas.”",
+   "src": [
+    14,
+    15
+   ]
+  },
+  {
+   "date": "Feb 2014",
+   "year": "2014",
+   "cat": "afterlife",
+   "title": "The Believer’s long look back",
+   "text": "Michael Schulman interviews the campaign’s creators twenty years on.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Oct 2026",
+   "year": "2026",
+   "cat": "afterlife",
+   "title": "Still gone",
+   "text": "Both registrations show as dead in the USPTO’s database when checked on October 8, 2026. We found no re-release.",
+   "src": [
+    11,
+    12
+   ]
+  }
+ ]
+}

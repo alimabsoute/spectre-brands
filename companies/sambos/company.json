@@ -1,0 +1,115 @@
+{
+ "name": "Sambo’s",
+ "number": "036",
+ "tier": "dead",
+ "tierWhy": "The last restaurant trading as Sambo’s, the 1957 original in Santa Barbara, was renamed Chad’s in July 2020; an unrelated Oregon diner called Lil’ Sambo’s closed in 2022, and the most recent federal trademark application for the name was abandoned in 2010.[^21][^26][^27]",
+ "category": "restaurants",
+ "cause": "management",
+ "years": "1957 – 1984",
+ "died": 1984,
+ "dates": [
+  {
+   "date": "1957-06-17",
+   "text": "opened its first restaurant, on Cabrillo Boulevard in Santa Barbara"
+  },
+  {
+   "date": "1981-11-27",
+   "text": "filed for Chapter 11 after closing 447 restaurants in under three weeks"
+  },
+  {
+   "date": "2020-06-05",
+   "text": "covered the sign on its last restaurant, which was renamed Chad’s the next month"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Pancake and coffee shops · Santa Barbara, California",
+ "title": "Sambo’s (1957–1984): post-mortem · Spectre Brands",
+ "description": "A pancake house that grew to 1,117 coffee shops in 47 states, lost its managers when an accounting ruling ended their profit-sharing plan, and filed for Chapter 11 in 1981. A sourced post-mortem of Sambo’s and its name.",
+ "theme": {
+  "accent": "#1f6e4d",
+  "soft": "#eaf4ee"
+ },
+ "card": {
+  "blurb": "A Santa Barbara pancake house became 1,117 coffee shops by selling its managers a share of the profits. When regulators questioned how that was booked, the plan ended, the managers left and the losses began.",
+  "stat": {
+   "value": "447",
+   "label": "restaurants closed in under three weeks, November 1981"
+  },
+  "spark": [
+   1,
+   67,
+   200,
+   869,
+   1090,
+   1117,
+   667,
+   320,
+   166,
+   1
+  ],
+  "peak": 5
+ },
+ "hero": {
+  "dates": "First restaurant opened Jun 17, 1957. Chapter 11 filed Nov 27, 1981. Last restaurant renamed Jul 2020.",
+  "standfirst": "It had 1,117 coffee shops in 47 states and a name it defended in court for a decade. The name outlived the company by 36 years, on one building.",
+  "deck": "Sambo’s began as a pancake house on the Santa Barbara waterfront and became a chain of more than 1,100 coffee shops. It grew on a plan that sold restaurant managers a share of the profits, and it counted the money they paid in as income. In 1977 the Securities and Exchange Commission objected, the plan was scrapped and most of the managers quit. Losses, a bank default and Chapter 11 followed within four years. All through that time the company was also in court over its name, a slur against Black people that it said was only a blend of its founders’ names. This page is built from court opinions and the newspapers, wire services and magazines of the time, because the company’s filings predate EDGAR. It says where those sources disagree.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a stack of pancakes and a mug of coffee. Not an official asset, and deliberately not the chain’s mascot or logo.",
+  "motion": "float",
+  "archive": [
+   {
+    "image": "img/santa-barbara-2005.avif",
+    "caption": "The original, Santa Barbara, 2005",
+    "alt": "A tile-roofed restaurant with green awnings and a rooftop sign of round discs spelling Sambo’s, with people waiting outside"
+   },
+   {
+    "image": "img/former-alpena-2010.avif",
+    "caption": "A former Sambo’s in Michigan, 2010",
+    "alt": "A low single-storey restaurant building with a shingled roof, operating as a Big Boy"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "1,117",
+    "text": "restaurants in 47 states in 1981, the highest count a contemporary source gives[^3][^6]"
+   },
+   {
+    "value": "$77.8M",
+    "text": "lost in 1979, two years after a record $22.8M profit[^6][^7]"
+   },
+   {
+    "value": "447",
+    "text": "restaurants closed between November 9 and November 25, 1981[^8][^10]"
+   },
+   {
+    "value": "$54.8M",
+    "text": "paid by Vicorp in 1984 for 166 restaurants, the last large block[^14]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The growth was financed by the managers.",
+   "text": "A manager paid $20,000 for 20% of a restaurant, and the company booked that money as income. The chain went from 67 restaurants in 1967 to 869 in 1977.[^2][^6]"
+  },
+  {
+   "title": "An accounting ruling broke the model.",
+   "text": "In 1977 the SEC said the $20,000 was a deposit, not income. Sambo’s restated 20 years of earnings and replaced the plan. Within two years more than 70% of its managers had resigned.[^2]"
+  },
+  {
+   "title": "Profit turned to loss in two years.",
+   "text": "Earnings fell from $22.8M in 1977 to $7.6M in 1978. The company lost $77.8M in 1979 and had not earned a profit since when it filed for bankruptcy.[^2][^7][^9]"
+  },
+  {
+   "title": "The name was a second, separate crisis.",
+   "text": "City officials and civil rights groups in Michigan, Ohio and New England fought the name from 1972 on. A federal appeals court upheld the company’s right to use it on November 4, 1981. Sambo’s filed for Chapter 11 twenty-three days later (derived).[^1][^6][^10][^12]"
+  },
+  {
+   "title": "The name went before the restaurants did.",
+   "text": "In bankruptcy more than 600 restaurants were converted to a format called Season’s. What was left was sold to Godfather’s Pizza, Vicorp and others, and only the first restaurant kept the old sign.[^13][^14][^17]"
+  }
+ ]
+}

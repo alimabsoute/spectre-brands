@@ -1,0 +1,117 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Lapsed",
+   "color": "var(--red)",
+   "title": "The name",
+   "text": "Bought by Systemax in 2008, retired in 2012, used by a deals website from 2018.[^17][^19][^21] On October 8, 2026 compusa.com returned an error page.[^22] We could not establish who holds the trademark now."
+  },
+  {
+   "status": "Closed",
+   "color": "var(--mute)",
+   "title": "The stores",
+   "text": "Sixteen passed to Systemax in early 2008 and traded as CompUSA until the brand was dropped. Systemax closed 31 retail stores in 2015 and left the business.[^17][^20] The rest ran closing sales from December 2007.[^13]"
+  },
+  {
+   "status": "Sold",
+   "color": "var(--blue)",
+   "title": "The website",
+   "text": "CompUSA.com went to Systemax for **$18.9M** with the intellectual property, and contributed to $226.3M of CompUSA sales in Systemax’s 2008 accounts.[^17]"
+  },
+  {
+   "status": "Gone",
+   "color": "var(--mute)",
+   "title": "Systemax’s consumer business",
+   "text": "The TigerDirect operation that absorbed CompUSA was sold to PCM, Inc. on December 1, 2015 and the remainder wound down in 2016.[^20]"
+  },
+  {
+   "status": "Winner",
+   "color": "var(--green)",
+   "title": "Best Buy",
+   "text": "Revenue of **$41.7B** in fiscal 2026.[^24]"
+  },
+  {
+   "status": "Unknown",
+   "color": "var(--gold)",
+   "title": "The owner’s bill",
+   "text": "One 2007 report, citing The Wall Street Journal, put Carlos Slim’s total investment at about $2 billion.[^14] What the Gordon Brothers sale returned was not disclosed.[^13]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the CompUSA name",
+   "subtitle": "Five owners or users in four decades.",
+   "nodes": [
+    {
+     "when": "1984",
+     "owner": "Soft Warehouse, Inc.",
+     "what": "Formed in Dallas. Renamed CompUSA in March 1991 and listed that December.[^1][^8]"
+    },
+    {
+     "when": "Mar 2000",
+     "owner": "Grupo Sanborns and Telmex",
+     "what": "Tender offer for all the shares. América Móvil later reported a 49% interest.[^5][^6][^9]",
+     "price": "$10.10 a share"
+    },
+    {
+     "when": "Dec 2007",
+     "owner": "Specialty Equity (Gordon Brothers)",
+     "what": "Buys the company to sell or close the 103 stores, the web business and the service arm.[^13]",
+     "price": "Not disclosed"
+    },
+    {
+     "when": "Jan 2008",
+     "owner": "Systemax (TigerDirect)",
+     "what": "Buys the brand, trademarks, website and 16 store leases.[^16][^17]",
+     "price": "$30.6M"
+    },
+    {
+     "when": "Oct 2012",
+     "owner": "Brand retired",
+     "what": "Systemax consolidates under TigerDirect.[^19]"
+    },
+    {
+     "when": "Oct 2018",
+     "owner": "DealCentral",
+     "what": "A deals website relaunches compusa.com. TechSpot reported that it had bought the brand; terms were not disclosed.[^21]"
+    },
+    {
+     "when": "Oct 2026",
+     "owner": "Nobody we can find",
+     "what": "The address returns an error page.[^22]",
+     "status": "current"
+    }
+   ]
+  },
+  {
+   "kind": "bars",
+   "title": "What CompUSA was worth, twice",
+   "subtitle": "The 2000 buyout as reported by the AP, against what Systemax paid in 2008. $ millions.",
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "itemLabel": "Transaction",
+   "valueLabel": "Price",
+   "items": [
+    {
+     "label": "Whole company, 217 superstores (2000)",
+     "value": 800,
+     "self": true,
+     "note": "The AP’s figure for the buyout.[^13]"
+    },
+    {
+     "label": "Name, website and 16 store leases (2008)",
+     "value": 30.6,
+     "color": "ink",
+     "note": "Systemax 10-K.[^17]"
+    }
+   ],
+   "source": "AP, December 2007[^13]; Systemax 10-K for 2008[^17]. The two are not like for like: the first bought a whole company with about 20,000 employees[^5], the second a set of assets. Derived: 800 ÷ 30.6 ≈ 26."
+  }
+ ]
+}

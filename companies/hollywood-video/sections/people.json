@@ -1,0 +1,33 @@
+{
+ "kicker": "The people",
+ "title": "Who built it, who bid for it, who bought it",
+ "lede": "Titles and ages are as given in the filings and press of the time. Later careers are left out where we have no source.",
+ "people": [
+  {
+   "name": "Mark J. Wattles",
+   "role": "Founder; chairman and CEO, 1988 – 2005",
+   "text": "Ran a two-store rental business and a convenience-store video distributor before founding Hollywood in June 1988. Left his full-time post from August 1998 to June 2000 to run Reel.com, returned that August, and resigned on February 2, 2005, three weeks after the Movie Gallery agreement.[^1][^4][^8]",
+   "later": "His company Boards, Inc. operated 20 Hollywood Video stores as a licensee, paying $25,000 a store and a 2% royalty.[^5][^8]"
+  },
+  {
+   "name": "F. Bruce Giesbrecht",
+   "role": "President and COO, 2004; CEO from Feb 2005",
+   "text": "Joined Hollywood in May 1993 and became president and chief operating officer in January 2004. The board named him chief executive when Wattles resigned. He was 45.[^5]"
+  },
+  {
+   "name": "Timothy R. Price",
+   "role": "Chief financial officer, 2003 – 2005",
+   "text": "Joined in January 2003 as senior vice president of finance and became chief financial officer that July. He joined Movie Gallery with the merger and became chief financial officer of the combined company in July 2005.[^5][^11]"
+  },
+  {
+   "name": "Joe T. Malugen",
+   "role": "Chairman and CEO, Movie Gallery",
+   "text": "Co-founded Movie Gallery in 1985 and was chairman, president and chief executive when it bought Hollywood. He was 54 in early 2006.[^11]"
+  },
+  {
+   "name": "John Antioco",
+   "role": "CEO, Blockbuster",
+   "text": "Led the hostile bid for Hollywood and announced its end on March 25, 2005.[^9]"
+  }
+ ]
+}

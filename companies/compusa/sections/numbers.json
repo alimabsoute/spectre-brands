@@ -1,0 +1,321 @@
+{
+ "kicker": "The money",
+ "title": "Sales went up eightfold. Profit never caught up",
+ "label": "The numbers",
+ "lede": "CompUSA reported to the SEC from its 1991 offering until March 2000. In those years sales rose from $0.8 billion to $6.3 billion and the best annual profit was $93.9 million. After the buyout the company was private, and the figures come from its owners and the press.",
+ "blocks": [
+  {
+   "kind": "arc",
+   "title": "Stores open, 1992 to the end",
+   "subtitle": "Computer Superstores at fiscal year end (late June) to 1999, then counts from press releases and news reports.",
+   "labels": [
+    "FY92",
+    "FY93",
+    "FY94",
+    "FY95",
+    "FY96",
+    "FY97",
+    "FY98",
+    "FY99",
+    "Jan 2000",
+    "Feb 2007",
+    "Mid 2007",
+    "2008"
+   ],
+   "format": "num",
+   "xLabel": "Fiscal year end, then date of report",
+   "series": [
+    {
+     "label": "Stores",
+     "data": [
+      28,
+      48,
+      76,
+      85,
+      105,
+      129,
+      162,
+      211,
+      217,
+      225,
+      103,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 2,
+     "title": "Growth outruns control",
+     "text": "48 stores became 76 in a year. Fiscal 1994 ended with a $17.0M loss and a new chief executive.[^1][^8]"
+    },
+    {
+     "i": 5,
+     "title": "Peak profit",
+     "text": "$93.9M of net income in fiscal 1997, with 129 stores.[^2]"
+    },
+    {
+     "i": 7,
+     "title": "Computer City absorbed",
+     "text": "37 former Computer City stores and 14 new ones took the count to 211. The year lost $45.7M.[^2]"
+    },
+    {
+     "i": 8,
+     "title": "Sold to Grupo Sanborns",
+     "text": "217 superstores when the $10.10 offer was announced.[^5]"
+    },
+    {
+     "i": 9,
+     "title": "126 to close",
+     "text": "Computerworld counted 225 stores in the U.S. and Puerto Rico on the day more than half were ordered shut.[^12]"
+    },
+    {
+     "i": 10,
+     "title": "103 left",
+     "text": "The stores that were open when Gordon Brothers took over on December 7, 2007.[^13]"
+    }
+   ],
+   "source": "Selected operating data in the 10-Ks for fiscal 1996 and 1999[^1][^2]; the buyout press release for January 2000[^5]; Computerworld and the AP for 2007[^12][^13]. The 2008 zero is the company-owned chain: 16 locations reopened under Systemax that year and are not shown.[^17] Counts between 2000 and 2007 are not in our sources."
+  },
+  {
+   "kind": "chart",
+   "id": "salesChart",
+   "title": "CompUSA vs. Best Buy: annual sales",
+   "subtitle": "$ billions by fiscal year. CompUSA’s year ended in late June; Best Buy’s around the end of February.",
+   "chart": {
+    "type": "line",
+    "labels": [
+     "FY92",
+     "FY93",
+     "FY94",
+     "FY95",
+     "FY96",
+     "FY97",
+     "FY98",
+     "FY99"
+    ],
+    "y": {
+     "format": {
+      "pre": "$",
+      "suf": "B",
+      "dec": 2
+     },
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Best Buy revenues",
+      "data": [
+       0.93,
+       1.62,
+       3.007,
+       5.08,
+       7.215,
+       7.758,
+       8.338,
+       10.065
+      ],
+      "color": "blue"
+     },
+     {
+      "label": "CompUSA net sales",
+      "data": [
+       0.823,
+       1.37,
+       2.219,
+       2.936,
+       3.83,
+       4.611,
+       5.286,
+       6.321
+      ],
+      "color": "brand"
+     }
+    ]
+   },
+   "source": "CompUSA: selected financial data in the fiscal 1996 and fiscal 1999 10-Ks; fiscal 1992 to 1996 are restated to include PCs Compleat[^1][^2]. Best Buy: 10-year financial highlights in its fiscal 2001 annual report[^23]. Figures are rounded from thousands. The fiscal years do not cover the same months."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "chart",
+     "id": "earnChart",
+     "title": "Net income",
+     "subtitle": "$ millions by fiscal year.",
+     "chart": {
+      "type": "bar",
+      "legend": false,
+      "labels": [
+       "FY92",
+       "FY93",
+       "FY94",
+       "FY95",
+       "FY96",
+       "FY97",
+       "FY98",
+       "FY99"
+      ],
+      "y": {
+       "format": {
+        "pre": "$",
+        "suf": "M",
+        "dec": 1
+       }
+      },
+      "series": [
+       {
+        "label": "Net income (loss)",
+        "data": [
+         7.6,
+         9.7,
+         -17.0,
+         24.3,
+         59.7,
+         93.9,
+         31.5,
+         -45.7
+        ],
+        "colors": [
+         "green",
+         "green",
+         "red",
+         "green",
+         "green",
+         "green",
+         "green",
+         "red"
+        ]
+       }
+      ]
+     },
+     "source": "Selected financial data, fiscal 1996 and fiscal 1999 10-Ks[^1][^2]. Fiscal 1998 is after a $55.9M pre-tax write-off of information systems.[^3]"
+    },
+    {
+     "kind": "chart",
+     "id": "sqftChart",
+     "title": "Sales per square foot",
+     "subtitle": "Average net sales per gross square foot, by fiscal year.",
+     "chart": {
+      "type": "line",
+      "legend": false,
+      "labels": [
+       "FY92",
+       "FY93",
+       "FY94",
+       "FY95",
+       "FY96",
+       "FY97",
+       "FY98",
+       "FY99"
+      ],
+      "y": {
+       "format": "usd",
+       "min": 0
+      },
+      "series": [
+       {
+        "label": "Sales per gross square foot",
+        "data": [
+         1452,
+         1458,
+         1268,
+         1336,
+         1405,
+         1364,
+         1290,
+         1139
+        ],
+        "color": "brand"
+       }
+      ]
+     },
+     "source": "Fiscal 1992 to 1994 from the fiscal 1996 10-K[^1]; fiscal 1995 to 1999 from the fiscal 1999 10-K[^2]. The 1996 10-K gave $1,422 for fiscal 1996; the later filing shows $1,405."
+    }
+   ]
+  },
+  {
+   "kind": "flow",
+   "title": "Where the fiscal 1999 charges went",
+   "subtitle": "Non-recurring and restructuring charges for the year ended June 26, 1999, by programme. $ millions, before tax.",
+   "from": {
+    "label": "total charges for the “Fiscal 1999 Initiatives”",
+    "value": 93.847
+   },
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "to": [
+    {
+     "label": "Fourth-quarter restructuring",
+     "value": 67.53,
+     "color": "red",
+     "note": "Mostly write-downs of corporate-sales inventory and the fulfilment centre.[^2]"
+    },
+    {
+     "label": "Information technology",
+     "value": 9.907,
+     "color": "ink",
+     "note": "Personnel costs and professional fees.[^2]"
+    },
+    {
+     "label": "Computer City transition",
+     "value": 9.852,
+     "color": "gold",
+     "note": "Converting the stores it kept.[^2]"
+    },
+    {
+     "label": "CompUSA Net.com realignment",
+     "value": 6.558,
+     "color": "blue",
+     "note": "Turning the mail-order arm into an internet-only business.[^2]"
+    }
+   ],
+   "source": "Table of charges in Management’s Discussion and Analysis, fiscal 1999 10-K[^2]. The filing rounds the total to “approximately $93.8 million.”"
+  },
+  {
+   "kind": "counters",
+   "title": "The buyout, in the filings",
+   "items": [
+    {
+     "value": "$37.81",
+     "text": "highest share price in fiscal 1998, in the quarter that ended December 1997[^2]"
+    },
+    {
+     "value": "$5.63",
+     "text": "lowest price in fiscal 1999, in the quarter that ended March 1999[^2]"
+    },
+    {
+     "value": "$10.10",
+     "text": "a share in cash offered by Grupo Sanborns on January 24, 2000[^5]"
+    },
+    {
+     "value": "69.5M",
+     "text": "shares tendered by February 29, 2000, about 75% of those outstanding[^6]"
+    }
+   ]
+  },
+  {
+   "kind": "scale",
+   "title": "126 stores, in 90 days",
+   "icon": "store",
+   "count": 126,
+   "left": {
+    "value": "126",
+    "label": "stores CompUSA said on February 27, 2007 that it would close within 90 days[^12]"
+   },
+   "unit": {
+    "value": "1",
+    "label": "store per icon"
+   },
+   "equation": "One icon per store. The Everett Herald reported 126 closing and 103 staying open, which sums to 229; Computerworld counted 225 open at the time.[^11][^12]"
+  },
+  {
+   "kind": "note",
+   "body": "Not shown: annual results after 1999. CompUSA stopped filing in March 2000.[^27] América Móvil, a 49% owner, reported CompUSA net losses of Ps.471M for 2000 and Ps.955.1M for 2001 in constant Mexican pesos; we have not converted them.[^9] The last quarterly report it filed showed net sales of $2.73B for the 26 weeks to December 25, 1999, down from $3.13B a year earlier, and a net loss of $14.9M.[^7] Computerworld reported a loss of $45.7M on revenue of about $425M for the third quarter of 2007.[^14] The same $45.7M is, by coincidence, the net loss for fiscal 1999.[^2]"
+  }
+ ]
+}

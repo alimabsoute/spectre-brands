@@ -1,0 +1,16 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of the same toy store during a liquidation sale, with a blank banner across the dark windows, empty shelves and a single block left on the pavement">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 292 H430"/>
+<rect x="34" y="120" width="372" height="172" fill="#eceae5"/>
+<path d="M34 120 Q220 78 406 120 V172 H34 Z" fill="#8f8a9a"/>
+<g fill="#c9c5cf"><rect x="70" y="128" width="26" height="30" rx="4" transform="rotate(-6 83 143)"/><rect x="102" y="124" width="26" height="30" rx="4" transform="rotate(5 115 139)"/><rect x="166" y="119" width="26" height="30" rx="4" transform="rotate(6 179 134)"/><rect x="216" y="119" width="26" height="30" rx="4" transform="rotate(-5 229 134)"/><rect x="280" y="122" width="26" height="30" rx="4" transform="rotate(-6 293 137)"/><rect x="344" y="129" width="26" height="30" rx="4" transform="rotate(-4 357 144)"/></g>
+<rect x="132" y="150" width="26" height="30" rx="4" fill="#c9c5cf" transform="rotate(38 145 165)"/>
+<rect x="178" y="198" width="84" height="94" fill="#2b2a28"/><path d="M220 198 V292"/>
+<rect x="52" y="198" width="106" height="64" fill="#55525a"/><rect x="282" y="198" width="106" height="64" fill="#55525a"/>
+<path d="M60 240 H150 M290 240 H380" stroke="#8f8a9a"/>
+<path d="M44 190 L396 178 V214 L44 226 Z" fill="#f2b632"/>
+<g fill="#1d1b18" stroke="none"><rect x="70" y="200" width="60" height="9" rx="3" transform="rotate(-2 100 204)"/><rect x="146" y="198" width="90" height="9" rx="3" transform="rotate(-2 190 202)"/><rect x="252" y="194" width="50" height="9" rx="3" transform="rotate(-2 277 198)"/><rect x="318" y="192" width="56" height="9" rx="3" transform="rotate(-2 346 196)"/></g>
+<rect x="198" y="232" width="44" height="26" fill="#fbf9f5"/><path d="M206 241 H234 M206 249 H226" stroke-width="2"/>
+<rect x="318" y="270" width="22" height="22" fill="#e2483d" transform="rotate(-10 329 281)"/>
+<path d="M84 286 q10 -8 22 0 M112 290 q8 -6 16 0" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

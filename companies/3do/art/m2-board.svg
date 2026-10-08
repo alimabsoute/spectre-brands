@@ -1,0 +1,17 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a green circuit board with two large chips, a ribbon cable and a rubber stamp marked sold">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M40 70h250a10 10 0 0 1 10 10v150a10 10 0 0 1-10 10H40a10 10 0 0 1-10-10V80a10 10 0 0 1 10-10Z" fill="#3f8a5a"/>
+<rect x="64" y="98" width="70" height="70" rx="4" fill="#33312e"/>
+<rect x="160" y="98" width="70" height="70" rx="4" fill="#33312e"/>
+<path d="M82 116h34M82 130h34M82 144h20M178 116h34M178 130h34M178 144h20" stroke="#b9b2a4" stroke-width="2"/>
+<path d="M64 186h40v18H64ZM118 186h40v18h-40Z" fill="#e8c53a"/>
+<path d="M134 133h26M99 168v18M195 168v30h60v-70h-25M255 198v20H180" stroke="#cfe8d6" stroke-width="2.5"/>
+<circle cx="50" cy="90" r="4" fill="#fbf9f5"/><circle cx="280" cy="90" r="4" fill="#fbf9f5"/><circle cx="50" cy="220" r="4" fill="#fbf9f5"/><circle cx="280" cy="220" r="4" fill="#fbf9f5"/>
+<path d="M300 120h28v60h-28" fill="#dcd7cc"/>
+<path d="M328 130h18M328 142h18M328 154h18M328 166h18" stroke="#8a8378" stroke-width="2.5"/>
+<g transform="rotate(-14 236 232)">
+<rect x="168" y="208" width="140" height="50" rx="6" fill="#fbf9f5" stroke="#c0341d" stroke-width="4"/>
+<path d="M186 244c12 0 12-10 4-12s-6-10 4-10M214 222v22h10v-22h-10M236 222v22h12M260 222v22c14 0 14-22 0-22" stroke="#c0341d" stroke-width="4"/>
+</g>
+<path d="M60 40h100M60 52h60" stroke="#b9b2a4" stroke-width="2"/>
+</g></svg>

@@ -1,0 +1,155 @@
+{
+ "kicker": "The rivals",
+ "title": "Everybody started selling computers",
+ "lede": "CompUSA beat the other computer superstores and bought the largest of them. It lost to stores that sold computers next to televisions, and to manufacturers that sold them with no store at all.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Who sold America its PCs, and what became of them",
+   "subtitle": "The headline figure for each, from the filings we could open.",
+   "metric": "Scale and fate",
+   "items": [
+    {
+     "name": "CompUSA",
+     "status": "dead",
+     "self": true,
+     "value": "$6.32B",
+     "text": "Net sales in fiscal 1999, its last reported year. Closed in 2007–08; the name was retired in 2012.[^2][^13][^19]",
+     "data": [
+      0.823,
+      1.37,
+      2.219,
+      2.936,
+      3.83,
+      4.611,
+      5.286,
+      6.321
+     ],
+     "range": [
+      "FY92: $0.82B",
+      "FY99"
+     ]
+    },
+    {
+     "name": "Best Buy",
+     "status": "alive",
+     "value": "$41.7B",
+     "text": "Revenue in fiscal 2026. It was $0.93B in fiscal 1992, about the size of CompUSA.[^24][^23]",
+     "data": [
+      0.93,
+      1.62,
+      3.007,
+      5.08,
+      7.215,
+      7.758,
+      8.338,
+      10.065
+     ],
+     "range": [
+      "FY92: $0.93B",
+      "FY99: $10.1B"
+     ]
+    },
+    {
+     "name": "Computer City",
+     "status": "acquired",
+     "statusLabel": "Bought by CompUSA",
+     "value": "96 stores",
+     "text": "Tandy’s chain, sold to CompUSA in 1998 for about $175M. CompUSA closed 59 of the U.S. stores and kept 37.[^2]"
+    },
+    {
+     "name": "Good Guys",
+     "status": "acquired",
+     "statusLabel": "Bought by CompUSA",
+     "value": "$2.05",
+     "text": "A share, the price CompUSA agreed to pay in September 2003 for the California electronics chain.[^10]"
+    },
+    {
+     "name": "Circuit City",
+     "status": "ghost",
+     "statusLabel": "Name bought by Systemax",
+     "value": "2012",
+     "text": "The year Systemax, which had bought both names, stopped using Circuit City and CompUSA and wrote off about $34M of intangibles.[^19][^20]"
+    },
+    {
+     "name": "TigerDirect (Systemax)",
+     "status": "acquired",
+     "statusLabel": "Sold to PCM, 2015",
+     "value": "31 stores",
+     "text": "Closed in 2015 when Systemax left the retail store business; the rest of the unit was sold to PCM, Inc. that December. The buyer of the CompUSA name did not last as a storekeeper either.[^20]"
+    }
+   ],
+   "source": "Company filings as cited. Sparklines are the fiscal 1992 to 1999 sales series from the chart in The numbers."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "tag": "Dead",
+    "name": "CompUSA",
+    "alive": false,
+    "rows": [
+     [
+      "What it sold",
+      "Computers, software, training and repairs[^1]"
+     ],
+     [
+      "Sales, fiscal 1992",
+      "$0.82B[^1]"
+     ],
+     [
+      "Sales, fiscal 1999",
+      "$6.32B[^2]"
+     ],
+     [
+      "Net result, fiscal 1999",
+      "$45.7M loss[^2]"
+     ],
+     [
+      "Gross margin, fiscal 1999",
+      "12.7% of sales[^2]"
+     ],
+     [
+      "Outcome",
+      "Sold to a restructuring firm and closed, Dec 2007[^13]"
+     ]
+    ]
+   },
+   "right": {
+    "tag": "Alive",
+    "name": "Best Buy",
+    "alive": true,
+    "rows": [
+     [
+      "What it sold",
+      "Four product categories; computers sat in “home office,” the largest[^23]"
+     ],
+     [
+      "Revenues, fiscal 1992",
+      "$0.93B[^23]"
+     ],
+     [
+      "Revenues, fiscal 1999",
+      "$10.06B[^23]"
+     ],
+     [
+      "Gross margin, fiscal 2000",
+      "19.2% of revenues[^23]"
+     ],
+     [
+      "On the PC, fiscal 2001",
+      "“Desktop computer sales have slowed”[^23]"
+     ],
+     [
+      "Outcome",
+      "$41.7B revenue, fiscal 2026[^24]"
+     ]
+    ]
+   }
+  },
+  {
+   "kind": "text",
+   "title": "The week Dell went to Best Buy",
+   "body": "The AP’s report of the December 2007 sale noted that Dell’s U.S. consumer sales had fallen 26% in the first half of that year, and that Dell had announced the same week that it would sell its machines at Best Buy.[^13] The manufacturer that had done most to sell computers without stores was moving into the big-box chain. The chain built to sell nothing but computers was closing."
+  }
+ ]
+}

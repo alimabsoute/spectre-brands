@@ -1,0 +1,97 @@
+{
+ "kicker": "Brand gallery",
+ "title": "A grey cube, an orange O and a controller with four letters",
+ "label": "Brand gallery",
+ "lede": "The hardware as photographed, the website as archived, the founder on stage, and our drawings in the same spirit.",
+ "archive": [
+  {
+   "image": "img/console-set.avif",
+   "date": "2013",
+   "caption": "The retail console and controller. The four face buttons spell O, U, Y, A.",
+   "alt": "Grey Ouya console and controller on a white background",
+   "credit": "Photo: Evan-Amos, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:OUYA-Console-set-h.jpg), public domain."
+  },
+  {
+   "image": "img/uhrman-xoxo-2013.avif",
+   "date": "2013",
+   "caption": "Julie Uhrman, founder and chief executive, speaking at the XOXO Festival in 2013.",
+   "alt": "Julie Uhrman on stage at XOXO Festival 2013",
+   "credit": "Photo: Duncan Rawlinson - Duncan.co, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Julie_Uhrman_OUYA_XOXO_2013.jpg), CC BY-SA 2.0."
+  },
+  {
+   "image": "img/archive-2013-07-home.avif",
+   "date": "Jul 2013",
+   "caption": "ouya.tv two weeks after the retail launch.",
+   "alt": "ouya.tv in July 2013",
+   "credit": "Cropped from an Internet Archive capture of ouya.tv. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/archive-2015-08-home.avif",
+   "date": "Aug 2015",
+   "caption": "ouya.tv two weeks after the sale to Razer was confirmed.",
+   "alt": "ouya.tv in August 2015",
+   "credit": "Cropped from an Internet Archive capture of ouya.tv. Shown for commentary; trademarks belong to their owners."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, six years apart",
+   "ratio": "16/10",
+   "before": {
+    "label": "July 2013",
+    "image": "img/archive-2013-07-home.avif",
+    "caption": "“A new kind of game console,” two weeks after launch.[^34]",
+    "alt": "ouya.tv home page, July 2013"
+   },
+   "after": {
+    "label": "June 2019",
+    "image": "img/archive-2019-06-home.avif",
+    "caption": "“This website will be shutting down on June 25, 2019.”[^34]",
+    "alt": "ouya.tv home page, June 2019"
+   },
+   "source": "Internet Archive Wayback Machine captures of ouya.tv[^34]."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The box.",
+   "caption": "About three inches on a side, with a rounded base.[^6] Original illustration, not an official asset."
+  },
+  {
+   "art": "art/pledge-meter.svg",
+   "title": "The meter.",
+   "caption": "A $950,000 goal and $8,596,474 pledged.[^1] Original illustration; the proportions are not to scale."
+  },
+  {
+   "art": "art/matching-fund.svg",
+   "title": "The matching fund.",
+   "caption": "Ouya promised to match what a game raised on Kickstarter.[^18] Original illustration."
+  },
+  {
+   "art": "art/unplugged.svg",
+   "title": "The switch-off.",
+   "caption": "June 25, 2019.[^30] Original illustration, not a photograph."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#ff4a1f",
+   "label": "Site orange (approx.)"
+  },
+  {
+   "hex": "#8f9399",
+   "label": "Console grey (drawing)"
+  },
+  {
+   "hex": "#22262a",
+   "label": "Site footer black (approx.)"
+  },
+  {
+   "hex": "#c2330b",
+   "label": "Page accent, darkened for contrast"
+  }
+ ],
+ "disclaimer": "Colours are approximations matched by eye to archived captures and the photograph.[^34] Ouya is a trademark of its owner and appears here in historical and editorial context. Drawings are original illustrations, not official assets."
+}

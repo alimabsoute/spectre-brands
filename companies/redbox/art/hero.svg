@@ -1,0 +1,19 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a red DVD rental kiosk with a touch screen and a disc slot, standing outside a shop door under an awning">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 300H430"/>
+<rect x="24" y="70" width="392" height="230" fill="#fbf9f5"/>
+<path d="M24 70h392v34H24z" fill="#d9dde3"/>
+<rect x="262" y="140" width="130" height="160" fill="#dcebfa"/><path d="M327 140v160M262 214h130"/>
+<rect x="44" y="140" width="64" height="100" fill="#dcebfa"/><path d="M44 190h64"/>
+<path d="M124 96h130l12 26H112z" fill="#c8102e"/>
+<rect x="128" y="122" width="122" height="178" rx="6" fill="#c8102e"/>
+<rect x="140" y="134" width="98" height="38" rx="4" fill="#fbf9f5"/>
+<path d="M152 148h46M152 160h30" stroke="#c8102e" stroke-width="5"/>
+<rect class="screen" x="146" y="184" width="62" height="46" rx="3" fill="#2b2a28"/>
+<g class="screen" stroke-width="2"><rect x="152" y="190" width="14" height="18" fill="#f2b51d"/><rect x="170" y="190" width="14" height="18" fill="#3f8a5a"/><rect x="188" y="190" width="14" height="18" fill="#2f6fb5"/><path d="M152 218h50" stroke="#fbf9f5"/></g>
+<rect x="218" y="186" width="20" height="30" rx="2" fill="#2b2a28"/><path d="M228 192v18" stroke="#9a9184" stroke-width="2"/>
+<rect x="146" y="244" width="92" height="12" rx="3" fill="#1d1b18"/>
+<path d="M160 250h64" stroke="#cfd6e4" stroke-width="4"/>
+<path d="M146 272h92M146 284h60" stroke="#8a0b20" stroke-width="2.4"/>
+<path d="M60 44c8-10 22-10 30 0M330 36c8-10 22-10 30 0" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

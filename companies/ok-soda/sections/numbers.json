@@ -1,0 +1,245 @@
+{
+ "kicker": "The numbers",
+ "title": "A million calls, a million cases and a target nobody put in writing",
+ "lede": "Coca-Cola never published a sales figure for OK in a filing. What exists is one sentence from a spokesman, a target reported by newspapers, a few counts from the campaign and the company-wide advertising line in the 10-K. This section keeps them apart.",
+ "blocks": [
+  {
+   "kind": "counters",
+   "title": "Four figures, four kinds of source",
+   "items": [
+    {
+     "value": "1M+",
+     "text": "**A spokesman’s figure.** Cases sold from introduction to September 1995, as given to The New York Times.[^9] The only sales number Coca-Cola ever gave."
+    },
+    {
+     "value": "3–4%",
+     "text": "**A press report of the target.** The Washington Post said OK’s purpose was to take 3 to 4% of a $50 billion soft drink market, which “would make it the most successful new soda in a dozen years.”[^8]"
+    },
+    {
+     "value": "1M+",
+     "text": "**A company claim.** Calls to the 800 line by early September 1994, “despite the limits of the test markets.”[^8]"
+    },
+    {
+     "value": "1",
+     "text": "**Mentions in Coca-Cola’s annual reports on Form 10-K:** the words “OK soda” in a list of products for 1994. None for 1993 or 1995.[^1][^2][^3]"
+    }
+   ]
+  },
+  {
+   "kind": "arc",
+   "title": "Sixteen months in test",
+   "subtitle": "Number of US test cities reported in the press. The count comes from two different publications and is not a company figure.",
+   "labels": [
+    "Aug 1993",
+    "Apr 1994",
+    "May 1994",
+    "Sep 1994",
+    "Late 1995"
+   ],
+   "format": "num",
+   "xLabel": "Test cities reported",
+   "series": [
+    {
+     "label": "Test cities",
+     "data": [
+      0,
+      0,
+      9,
+      8,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "Zyman returns",
+     "text": "Sergio Zyman rejoins Coca-Cola as chief marketing officer.[^1] No product yet."
+    },
+    {
+     "i": 1,
+     "title": "announced",
+     "text": "Introduced to the press on April 20; not yet on sale.[^4]"
+    },
+    {
+     "i": 2,
+     "title": "nine cities",
+     "text": "Time’s count, “from Boston to Seattle,” with a national rollout planned for the summer.[^6]"
+    },
+    {
+     "i": 3,
+     "title": "eight cities",
+     "text": "The Washington Post’s count, with “dismal sales” in Minneapolis.[^8] We do not know whether a city was dropped or the counts simply differ."
+    },
+    {
+     "i": 4,
+     "title": "phased out",
+     "text": "Withdrawn from “those test markets.”[^9] Plotted as zero; the date the last cans were sold is unknown."
+    }
+   ],
+   "source": "Time, May 30, 1994[^6]; The Washington Post, Sep 3, 1994[^8]; The New York Times, Sep 13, 1995[^9]; Coca-Cola Form 10-K for 1994[^1]. The zeros are plotting conventions. Later lists of test markets name more places than nine; we could not trace them to a period source."
+  },
+  {
+   "kind": "bars",
+   "title": "The share Coca-Cola wanted, and the brands on either side of it",
+   "subtitle": "Percent of the US soft drink market in 1994, as stated in the press. OK’s own share was never published.",
+   "format": "pct",
+   "itemLabel": "Brand or target",
+   "valueLabel": "Share of soft drink market",
+   "items": [
+    {
+     "label": "OK: reported target, upper end",
+     "value": 4,
+     "display": "4%",
+     "note": "“3 to 4 percent” in The Washington Post; 4% and $1 billion in The Believer’s later account.[^8][^13]",
+     "self": true
+    },
+    {
+     "label": "Mountain Dew (Pepsi)",
+     "value": 3.5,
+     "display": "3.5%",
+     "note": "The most popular soda aimed at teenagers, per Time.[^6]",
+     "color": "green"
+    },
+    {
+     "label": "OK: reported target, lower end",
+     "value": 3,
+     "display": "3%",
+     "note": "The Washington Post.[^8]",
+     "self": true
+    },
+    {
+     "label": "Mello Yello (Coca-Cola)",
+     "value": 0.3,
+     "display": "0.3%",
+     "note": "Coke’s existing citrus brand, per Time.[^6]",
+     "color": "grey"
+    }
+   ],
+   "source": "Time, May 30, 1994[^6]; The Washington Post, Sep 3, 1994[^8]; The Believer, Feb 2014[^13]. The Post describes the $50 billion market as worldwide; the other sources describe a US share. Figures are shown side by side for scale only."
+  },
+  {
+   "kind": "scale",
+   "title": "The gap OK was meant to close",
+   "icon": "bottle",
+   "count": 12,
+   "left": {
+    "value": "3.5%",
+    "label": "Mountain Dew’s share of the US soft drink market, 1994[^6]"
+   },
+   "unit": {
+    "value": "0.3%",
+    "label": "Mello Yello’s share"
+   },
+   "equation": "3.5 ÷ 0.3 ≈ 11.7, shown as 12 bottles. Both shares are from Time, May 30, 1994.[^6]",
+   "source": "Time, May 30, 1994.[^6]"
+  },
+  {
+   "kind": "chart",
+   "id": "adChart",
+   "title": "The budget it came out of",
+   "subtitle": "The Coca-Cola Company’s advertising expenditures, all brands, worldwide. OK’s share of this was never disclosed.",
+   "chart": {
+    "type": "bar",
+    "height": 300,
+    "legend": false,
+    "labels": [
+     "1992",
+     "1993",
+     "1994"
+    ],
+    "y": {
+     "format": "usdM",
+     "min": 0,
+     "max": 1500,
+     "title": "Advertising expenditures ($ millions)"
+    },
+    "series": [
+     {
+      "label": "Advertising expenditures ($M)",
+      "data": [
+       1107,
+       1126,
+       1308
+      ],
+      "colors": [
+       "grey",
+       "grey",
+       "brand"
+      ]
+     }
+    ],
+    "notes": [
+     {
+      "text": [
+       "OK, Fruitopia and",
+       "“Obey Your Thirst”",
+       "all launch"
+      ],
+      "s": 0,
+      "i": 2,
+      "dx": -170,
+      "dy": -10
+     }
+    ]
+   },
+   "source": "The Coca-Cola Company, Form 10-K for 1994: “Advertising expenditures were $1,308 million in 1994, $1,126 million in 1993 and $1,107 million in 1992.”[^1] The increase from 1993 to 1994 is $182 million, or about 16% (derived). Nothing in the filing attributes any of it to OK."
+  },
+  {
+   "kind": "table",
+   "title": "What Coca-Cola told its shareholders",
+   "subtitle": "The soft drink product list in three consecutive annual reports on Form 10-K.",
+   "columns": [
+    "Report for",
+    "Filed",
+    "What the list says"
+   ],
+   "rows": [
+    [
+     "1993",
+     "Mar 14, 1994",
+     "Includes “TAB Clear.” No OK.[^2]"
+    ],
+    [
+     "1994",
+     "Mar 13, 1995",
+     "“…TAB, caffeine free TAB, OK soda, Fresca, PowerAde, Fruitopia…” TAB Clear is gone.[^1]"
+    ],
+    [
+     "1995",
+     "Mar 14, 1996",
+     "No OK. Fruitopia remains; Barq’s root beer is added.[^3]"
+    ]
+   ],
+   "highlight": 1
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "Small numbers from the test",
+   "rows": [
+    {
+     "value": "10",
+     "text": "12-packs a week, at most, at Byerly’s, a chain of nine Twin Cities supermarkets, plus about 20 liter bottles[^8]"
+    },
+    {
+     "value": "0",
+     "text": "12-packs sold at one Minneapolis-area SuperAmerica store, according to its manager[^8]"
+    },
+    {
+     "value": "4",
+     "text": "countries outside the United States where Coca-Cola said it planned to introduce OK[^8]"
+    },
+    {
+     "value": "71,000",
+     "text": "cases a month, roughly: one million cases over about 14 months (derived, and it depends on which start date you use)[^9]"
+    }
+   ],
+   "source": "The Washington Post, Sep 3, 1994[^8]; The New York Times, Sep 13, 1995.[^9]"
+  },
+  {
+   "kind": "note",
+   "body": "Unknown, because Coca-Cola did not publish them: OK’s sales in dollars, its market share in any city, what was spent on advertising it, the size of a “case” in the spokesman’s figure, and any write-off. The Times item says the drink was introduced in July 1994; every 1994 source we read has it on sale in May."
+  }
+ ]
+}

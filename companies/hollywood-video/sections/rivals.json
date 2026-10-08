@@ -1,0 +1,176 @@
+{
+ "kicker": "The rivals",
+ "title": "The leader next door, and the ones without stores",
+ "lede": "Nearly every Hollywood Video had a Blockbuster close by. The competitors that mattered in the end had no stores at all.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Who won, who died",
+   "subtitle": "The rental chains of 2004 and the service that replaced them.",
+   "metric": "Stores or subscribers",
+   "items": [
+    {
+     "name": "Hollywood Video",
+     "status": "ghost",
+     "self": true,
+     "value": "2,006 stores (2004)",
+     "text": "Sold to Movie Gallery in 2005 and liquidated in 2010. The name survives on a blog.[^5][^19][^22]",
+     "data": [
+      25,
+      305,
+      907,
+      1615,
+      1819,
+      2006,
+      2054,
+      1646,
+      545,
+      0
+     ],
+     "range": [
+      "1993: 25",
+      "2010"
+     ]
+    },
+    {
+     "name": "Blockbuster",
+     "status": "dead",
+     "statusLabel": "Chapter 11, Sep 2010",
+     "value": "5,803 U.S. stores (2004)",
+     "text": "The leader, with 9,094 stores worldwide. Bid for Hollywood and withdrew. Filed for Chapter 11 on September 23, 2010.[^9][^23][^24]"
+    },
+    {
+     "name": "Movie Gallery",
+     "status": "dead",
+     "value": "2,482 stores (Jan 2005)",
+     "text": "The buyer. 4,749 stores after the merger, Chapter 11 in 2007 and 2010, then liquidation.[^11][^13][^19]",
+     "data": [
+      2482,
+      4749,
+      4642,
+      3889,
+      1906
+     ],
+     "range": [
+      "Jan 2005",
+      "Feb 2010"
+     ]
+    },
+    {
+     "name": "Netflix",
+     "status": "alive",
+     "value": "6.3M subscribers (2006)",
+     "text": "Rental by mail, with no stores. Subscribers went from 857,000 at the end of 2002 to 6.3 million at the end of 2006.[^25]",
+     "data": [
+      857,
+      1487,
+      2610,
+      4179,
+      6316
+     ],
+     "range": [
+      "2002",
+      "2006"
+     ]
+    }
+   ],
+   "source": "Store counts from the companies’ annual reports[^5][^11][^13][^23]; Movie Gallery’s February 2010 figure is from Bloomberg News[^15]. Netflix subscribers in thousands.[^25] The series are not on a common scale."
+  },
+  {
+   "kind": "bars",
+   "title": "Stores at the end of 2004",
+   "subtitle": "The three chains in the takeover fight, just before it was settled.",
+   "format": "num",
+   "itemLabel": "Chain",
+   "valueLabel": "Stores",
+   "items": [
+    {
+     "label": "Blockbuster (U.S., incl. franchised)",
+     "value": 5803,
+     "color": "blue",
+     "note": "Dec 31, 2004[^23]"
+    },
+    {
+     "label": "Movie Gallery",
+     "value": 2482,
+     "color": "ink",
+     "note": "Jan 2, 2005; all stores[^11]"
+    },
+    {
+     "label": "Hollywood Video",
+     "value": 2006,
+     "self": true,
+     "note": "Dec 31, 2004; company-operated[^5]"
+    }
+   ],
+   "source": "Blockbuster[^23], Movie Gallery[^11] and Hollywood Entertainment[^5] annual reports. The bases differ slightly, as noted on each bar."
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "name": "Hollywood Video",
+    "tag": "No. 2, urban and suburban superstores",
+    "alive": false,
+    "rows": [
+     [
+      "U.S. stores, end of 2004",
+      "2,006[^5]"
+     ],
+     [
+      "Typical store",
+      "About 6,600 sq ft[^5]"
+     ],
+     [
+      "Games",
+      "695 in-store Game Crazy departments[^5]"
+     ],
+     [
+      "Rental by mail",
+      "None in our sources"
+     ],
+     [
+      "End",
+      "Liquidated by its owner, 2010[^19]"
+     ]
+    ]
+   },
+   "right": {
+    "name": "Blockbuster",
+    "tag": "The category leader",
+    "alive": false,
+    "rows": [
+     [
+      "U.S. stores, end of 2004",
+      "5,803[^23]"
+     ],
+     [
+      "Worldwide stores, end of 2004",
+      "9,094[^23]"
+     ],
+     [
+      "Bid for Hollywood",
+      "$14.50 a share, withdrawn[^9]"
+     ],
+     [
+      "Rental by mail",
+      "Blockbuster Online[^13]"
+     ],
+     [
+      "End",
+      "Chapter 11, Sep 23, 2010[^24]"
+     ]
+    ]
+   },
+   "source": "Hollywood Entertainment[^5], Blockbuster[^23][^24] and Movie Gallery[^13] filings; the Associated Press.[^9]"
+  },
+  {
+   "kind": "quote",
+   "text": "Substantially all of our stores compete with stores operated by Blockbuster, most in very close proximity.",
+   "who": "Hollywood Entertainment, annual report for 2004[^5]"
+  },
+  {
+   "kind": "note",
+   "body": "The Associated Press reported in 2005 that regulators had blocked a Blockbuster–Hollywood combination once before, in 1999.[^9] We did not find a primary record of that earlier episode and give it only on the AP’s authority."
+  }
+ ]
+}

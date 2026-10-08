@@ -1,0 +1,16 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a bicycle courier in an orange jacket riding past city buildings with a delivery bag holding a videotape and a pint of ice cream">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="20" y="70" width="70" height="210" fill="#eff5df"/><rect x="100" y="110" width="56" height="170" fill="#dcebfa"/><rect x="330" y="50" width="84" height="230" fill="#eff5df"/><rect x="270" y="130" width="52" height="150" fill="#dcebfa"/>
+<g fill="#fbf9f5" stroke-width="2"><rect x="32" y="86" width="14" height="18"/><rect x="60" y="86" width="14" height="18"/><rect x="32" y="122" width="14" height="18"/><rect x="60" y="122" width="14" height="18"/><rect x="344" y="68" width="16" height="20"/><rect x="380" y="68" width="16" height="20"/><rect x="344" y="108" width="16" height="20"/><rect x="380" y="108" width="16" height="20"/><rect x="112" y="126" width="12" height="16"/><rect x="134" y="126" width="12" height="16"/></g>
+<path d="M10 284 H430"/>
+<circle cx="150" cy="244" r="38" fill="#fbf9f5"/><circle cx="296" cy="244" r="38" fill="#fbf9f5"/><circle cx="150" cy="244" r="4" fill="#1d1b18"/><circle cx="296" cy="244" r="4" fill="#1d1b18"/>
+<path d="M150 244 L196 184 L270 184 L296 244 M196 184 L226 244 L270 184 M150 244 L226 244 M270 184 L264 164 L284 160 M196 184 L190 168 M178 168 H204"/>
+<circle cx="226" cy="244" r="8" fill="#6a9a00"/>
+<path d="M192 166 L212 206 L226 242" stroke="#2f4a7a" stroke-width="12"/><path d="M192 166 L212 206 L226 242"/>
+<path d="M182 164 C176 132 196 104 232 106 L248 118 L270 158 L258 162 L236 132 L214 166 Z" fill="#ff6a13"/>
+<circle cx="250" cy="90" r="17" fill="#f2c9a0"/><path d="M233 88 C232 68 268 66 268 88 Z" fill="#6a9a00"/><path d="M266 86 H276"/>
+<rect x="150" y="100" width="48" height="52" rx="6" fill="#ff6a13" transform="rotate(-12 174 126)"/><path d="M160 118 L190 112" stroke="#fbf9f5"/>
+<g class="screen"><rect x="46" y="170" width="34" height="22" rx="3" fill="#2b2a28"/><circle cx="56" cy="181" r="4" fill="#fbf9f5"/><circle cx="70" cy="181" r="4" fill="#fbf9f5"/></g>
+<path d="M352 190 h30 l-4 34 h-22 Z" fill="#fbf9f5"/><path d="M348 190 h38 v-8 h-38 Z" fill="#6a9a00"/>
+<path d="M96 232 H76 M100 250 H70 M96 268 H80" stroke="#9a9184" stroke-width="2"/>
+</g></svg>

@@ -1,0 +1,40 @@
+{
+ "kicker": "Context",
+ "title": "The year everyone tried to sell to Generation X",
+ "lede": "OK arrived in a soft drink market that had stopped growing and a youth market that large companies were studying closely.",
+ "blocks": [
+  {
+   "kind": "text",
+   "title": "A slow market and a crowd of small rivals",
+   "body": "The New York Times described the American carbonated-beverage market in April 1994 as “lackluster,” and read OK as a move against the independent brands in “the growing market for alternative beverages.”[^4] Time quoted the editor of Beverage World: Coke and Pepsi had traditionally let smaller companies innovate, and “now Coke is becoming an innovator too.”[^6]\n\nCoca-Cola launched Fruitopia the same year as a rival to Snapple, and a Sprite campaign, “Obey Your Thirst,” that Time said “pointedly refuses to overpromise.”[^13][^6] A year earlier its product list had included Tab Clear, its clear cola from the year of Crystal Pepsi; by the 1994 report that was gone.[^2][^1]"
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The audience, as Time counted it in May 1994",
+   "rows": [
+    {
+     "value": "27.8M",
+     "text": "teenagers in the United States[^6]"
+    },
+    {
+     "value": "$89B",
+     "text": "spent by American adolescents the previous year, “as much as”[^6]"
+    },
+    {
+     "value": "$3B+",
+     "text": "of their own money spent on soft drinks alone[^6]"
+    },
+    {
+     "value": "2 to 1",
+     "text": "Coca-Cola’s lead over Pepsi in soft drink sales around the world, “more than”[^6]"
+    }
+   ],
+   "source": "John Greenwald, Time, May 30, 1994.[^6] Time does not give its source for the spending figures."
+  },
+  {
+   "kind": "quote",
+   "text": "People who are 19 years old are very accustomed to having been manipulated and knowing that they’re manipulated.",
+   "who": "Tom Pirko, Bevmark, on NPR’s All Things Considered, May 27, 1994[^7]"
+  }
+ ]
+}

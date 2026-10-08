@@ -1,0 +1,97 @@
+{
+ "kicker": "Brand gallery",
+ "title": "A black box, three coloured shapes and a lot of logos that were not 3DO’s",
+ "label": "Brand gallery",
+ "lede": "The machines carried their makers’ names: Panasonic, Goldstar. 3DO’s own identity lived on the box corner and, later, on game cases. These are free-licensed photographs, two archived pages and our own drawings.",
+ "archive": [
+  {
+   "image": "img/fz1-console-set.avif",
+   "date": "1993",
+   "caption": "Panasonic’s FZ-1 R.E.A.L. 3DO Interactive Multiplayer with its controller, the first 3DO machine.",
+   "alt": "Black Panasonic 3DO console and controller",
+   "credit": "Photo: Evan-Amos, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:3DO-FZ1-Console-Set.jpg), CC BY-SA 3.0."
+  },
+  {
+   "image": "img/goldstar-console-set.avif",
+   "date": "1994–96",
+   "caption": "Goldstar’s 3DO machine, on sale in the United States by December 1994.[^23]",
+   "alt": "Goldstar 3DO console and controller",
+   "credit": "Photo: Evan-Amos, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:3DO-GDO-101M-Console-Set.jpg), CC BY-SA 3.0."
+  },
+  {
+   "image": "img/archive-1996-12-home.avif",
+   "date": "Dec 1996",
+   "caption": "3do.com three months after the company said it would leave hardware.",
+   "alt": "3do.com home page in December 1996",
+   "credit": "Cropped from an Internet Archive capture of 3do.com. Shown for commentary; trademarks belong to their owners."
+  },
+  {
+   "image": "img/archive-2003-04-home.avif",
+   "date": "Apr 2003",
+   "caption": "3do.com eight weeks before the bankruptcy filing.",
+   "alt": "3do.com home page in April 2003",
+   "credit": "Cropped from an Internet Archive capture of 3do.com. Shown for commentary; trademarks belong to their owners."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The same address, 1996 and 2003",
+   "ratio": "16/10",
+   "before": {
+    "label": "December 1996",
+    "image": "img/archive-1996-12-home.avif",
+    "caption": "Three divisions: The Company, Studio 3DO and 3DO Systems, with M2 Technology still on the menu.[^42]",
+    "alt": "3do.com home page, December 1996"
+   },
+   "after": {
+    "label": "April 2003",
+    "image": "img/archive-2003-04-home.avif",
+    "caption": "“We’re Here to Play,” above a list of games that would be auctioned four months later.[^42][^16]",
+    "alt": "3do.com home page, April 2003"
+   },
+   "source": "Internet Archive Wayback Machine captures of 3do.com[^42]."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The console.",
+   "caption": "A black CD player with a controller on a cord. Original illustration, not an official asset."
+  },
+  {
+   "art": "art/price-tag.svg",
+   "title": "The price.",
+   "caption": "$699 in October 1993.[^20][^23] Original illustration."
+  },
+  {
+   "art": "art/m2-board.svg",
+   "title": "The successor.",
+   "caption": "M2, licensed to Matsushita for $100M and never released as a console.[^1][^26] Original illustration, not a depiction of the real board."
+  },
+  {
+   "art": "art/gavel.svg",
+   "title": "The auction.",
+   "caption": "August 14, 2003: the franchises sold lot by lot.[^16] Original illustration."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#e0201b",
+   "label": "Site red, 1996 (approx.)"
+  },
+  {
+   "hex": "#6a1fd0",
+   "label": "Site purple, 1996 (approx.)"
+  },
+  {
+   "hex": "#f2e11c",
+   "label": "Site yellow, 1996 (approx.)"
+  },
+  {
+   "hex": "#1f5fae",
+   "label": "Page accent, from the 2003 site blue, darkened"
+  }
+ ],
+ "disclaimer": "Colours were matched by eye to Internet Archive captures of 3do.com[^42] and are approximate. 3DO, Panasonic, Goldstar and the game titles named are trademarks of their owners and appear here in historical and editorial context. Drawings are original illustrations, not official assets."
+}

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 300 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a red soft drink can with a silver wave and a burst reading NEW">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="150" cy="352" rx="96" ry="10" fill="#f6d9d9" stroke="none"/>
+<path d="M92 64 C92 50 208 50 208 64 L214 84 L214 318 C214 340 86 340 86 318 L86 84 Z" fill="#c1121f"/>
+<path d="M86 250 C120 214 150 268 214 160 L214 214 C160 300 124 250 86 296 Z" fill="#d9dde2"/>
+<ellipse cx="150" cy="62" rx="58" ry="12" fill="#d9dde2"/>
+<ellipse cx="150" cy="62" rx="44" ry="7" fill="#b9bfc7"/>
+<path d="M140 60 C146 54 160 56 162 62" fill="none"/>
+<path d="M86 318 C86 340 214 340 214 318" fill="none"/>
+<path d="M100 96 L100 300" fill="none" stroke="#e8545c" stroke-width="5"/>
+<text x="150" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="34" fill="#fff" stroke="none" letter-spacing="3">COLA</text>
+<path d="M214 70 L228 46 L236 72 L262 62 L252 88 L280 96 L256 110 L270 134 L242 128 L236 154 L220 132 L198 146 L200 120 L176 112 L198 98 L190 74 Z" fill="#ffd21f"/>
+<text x="228" y="108" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="18" fill="#1d1b18" stroke="none" transform="rotate(-12 228 108)">NEW!</text>
+<g fill="#fff" stroke-width="2"><circle cx="58" cy="120" r="7"/><circle cx="44" cy="82" r="5"/><circle cx="66" cy="54" r="3"/><circle cx="252" cy="200" r="6"/><circle cx="266" cy="232" r="4"/></g>
+</g></svg>

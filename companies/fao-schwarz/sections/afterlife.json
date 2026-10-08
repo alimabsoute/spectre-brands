@@ -1,0 +1,132 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "In use",
+   "color": "var(--green)",
+   "title": "The name",
+   "text": "ThreeSixty Group bought the brand from Toys “R” Us in October 2016 and has run a flagship at 30 Rockefeller Plaza since November 16, 2018.[^26][^29] In September 2026 the company listed stores in New York, Paris (inside Galeries Lafayette), Milan and Beijing, and opened a storefront on Amazon.[^30]"
+  },
+  {
+   "status": "Licensed",
+   "color": "var(--blue)",
+   "title": "The trademark",
+   "text": "In 2003 the name was used under a perpetual license from the F.A.O. Schwarz Family Foundation, which received royalties.[^1] In 2016 Toys “R” Us still described what it held as “the exclusive right and license to use the FAO SCHWARZ trademarks.”[^25] Whether that arrangement continues under ThreeSixty Group is **unknown** to us."
+  },
+  {
+   "status": "Buried",
+   "color": "var(--red)",
+   "title": "FAO Inc.",
+   "text": "The parent renamed itself Children’s Books & Toys, Inc. in February 2004, as the sale agreement required, told shareholders to expect nothing and filed to end its SEC registration in November 2004.[^8][^32]"
+  },
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "Zany Brainy",
+   "text": "The 89 remaining stores were liquidated from December 2003.[^7][^14]"
+  },
+  {
+   "status": "Sold",
+   "color": "var(--gold)",
+   "title": "The Right Start",
+   "text": "The business that had bought FAO Schwarz was itself sold out of the bankruptcy to Hancock Park Capital, one of FAO Inc.’s shareholders, for about **$5.4M**.[^8]"
+  },
+  {
+   "status": "Vacated",
+   "color": "var(--mute)",
+   "title": "767 Fifth Avenue",
+   "text": "The store left the General Motors Building on July 15, 2015.[^22] What occupies the space now is not in our sources."
+  },
+  {
+   "status": "Bankrupt",
+   "color": "var(--red)",
+   "title": "The last corporate owner",
+   "text": "Toys “R” Us, which owned FAO Schwarz from 2009 to 2016, declared bankruptcy itself not long after selling it.[^29]"
+  },
+  {
+   "status": "Still there",
+   "color": "var(--green)",
+   "title": "The piano and one of the people",
+   "text": "The floor piano went into the new store, and replicas were on sale for $128 in 2018.[^29] David Niggli, who had spent 15 years at F.A.O. Schwarz before becoming president of the FAO Schwarz subsidiary in 2002, was the brand’s chief merchandising officer in 2018 and still held that title in 2026.[^1][^29][^30]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "subtitle": "Ten sales since 1963. Prices are given only where a source states one.",
+   "nodes": [
+    {
+     "when": "1862",
+     "owner": "The Schwarz family",
+     "what": "Frederick August Otto Schwarz opens in Baltimore and moves to New York in 1870.[^1]"
+    },
+    {
+     "when": "1963",
+     "owner": "Parents’ Magazine",
+     "what": "The family sells.[^9]"
+    },
+    {
+     "when": "1970",
+     "owner": "W.R. Grace & Co.",
+     "what": "Seven years later the store changes hands again.[^9]"
+    },
+    {
+     "when": "1974",
+     "owner": "Franz Carl Weber International",
+     "what": "A Zurich toy retailer. The chain grows to 32 stores and then shrinks.[^9]"
+    },
+    {
+     "when": "1985",
+     "owner": "Christiana Companies",
+     "what": "A real estate and investment firm.[^9]",
+     "price": "$10.5M"
+    },
+    {
+     "when": "1985–86",
+     "owner": "Peter L. Harris and Peter C. Morse",
+     "what": "A management buyout. The flagship moves to 767 Fifth Avenue.[^9]"
+    },
+    {
+     "when": "1990",
+     "owner": "KBB, then Vendex",
+     "what": "The Dutch retailer KBB buys the company and is itself taken over by Vendex International in 1998.[^9]",
+     "price": "est. $40M"
+    },
+    {
+     "when": "Jan 2002",
+     "owner": "The Right Start / FAO Inc.",
+     "what": "Buys 23 stores, the catalog and the website with notes and preferred stock.[^1]",
+     "price": "$35.95M"
+    },
+    {
+     "when": "2003",
+     "owner": "FAO Inc., in Chapter 11",
+     "what": "Files on January 13, emerges on April 23, files again on December 4.[^1][^7]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Jan 2004",
+     "owner": "D. E. Shaw affiliate",
+     "what": "Buys the name, the catalog, the website and two stores from the estate.[^8]",
+     "price": "$40.5M cash"
+    },
+    {
+     "when": "May 2009",
+     "owner": "Toys “R” Us",
+     "what": "Runs the Fifth Avenue store until July 15, 2015 and puts the name on private-label toys.[^20][^21][^22]",
+     "price": "undisclosed"
+    },
+    {
+     "when": "Oct 2016",
+     "owner": "ThreeSixty Group",
+     "what": "Opens a new flagship at 30 Rockefeller Plaza in November 2018.[^26][^29]",
+     "price": "undisclosed",
+     "status": "current"
+    }
+   ],
+   "source": "International Directory of Company Histories for 1963–1998[^9]; SEC filings of FAO Inc. and Toys “R” Us[^1][^7][^8][^20][^21]; Fortune and the Associated Press[^26][^29]."
+  }
+ ]
+}

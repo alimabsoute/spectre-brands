@@ -1,0 +1,165 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "The Coca-Cola Company (EDGAR CIK 21344) has never reported the 1985 formula as a separate line, and EDGAR’s full-text search, which starts in 2001, finds the name in only one of its filings: the July 2019 earnings release. The primary sources here are therefore the wire reports of 1985 and the company’s own published history. Several newspaper archives were closed to us; the notes below say which articles we read in full, which in part, and how.",
+ "list": [
+  {
+   "id": 1,
+   "text": "The Coca-Cola Company, [“New Coke: The Most Memorable Marketing Blunder Ever?”](https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever), company history page, read Oct 2026."
+  },
+  {
+   "id": 2,
+   "text": "Mark Potts, [“Coca-Cola: Pausing To Refresh Formula?”](https://www.washingtonpost.com/archive/business/1985/04/23/coca-cola-pausing-to-refresh-formula/badb8a30-1069-4650-8120-b663759ee599/), The Washington Post, Apr 23, 1985. Opening paragraph only."
+  },
+  {
+   "id": 3,
+   "text": "Mark Potts, [“Coca-Cola Sweetens Its Success”](https://www.washingtonpost.com/archive/business/1985/04/24/coca-cola-sweetens-its-success/86d4d700-fb40-478e-b7e6-944a61690f6e/), The Washington Post, Apr 24, 1985. Opening paragraphs only."
+  },
+  {
+   "id": 4,
+   "text": "Charles S. Taylor, [“Coke hotline swamped by calls”](https://www.upi.com/Archives/1985/05/31/Coke-hotline-swamped-by-calls/4435486360000/), UPI, May 31, 1985."
+  },
+  {
+   "id": 5,
+   "text": "Charles S. Taylor, [“New Coke generates 40,000 calls, mostly negative”](https://www.upi.com/Archives/1985/06/10/New-Coke-generates-40000-calls-mostly-negative/8900487224000/), UPI, Jun 10, 1985."
+  },
+  {
+   "id": 6,
+   "text": "Bill Lohmann, [“‘Old Coke’ to return”](https://www.upi.com/Archives/1985/07/10/Old-Coke-to-return/9587489816000/), UPI, Jul 10, 1985."
+  },
+  {
+   "id": 7,
+   "text": "Ellen Marks, [“The man who sparked the nationwide drive forcing the...”](https://www.upi.com/Archives/1985/07/24/The-man-who-sparked-the-nationwide-drive-forcing-the/6093491025600/), UPI, Jul 24, 1985."
+  },
+  {
+   "id": 8,
+   "text": "John Greenwald, [“Coca-Cola’s Big Fizzle”](https://time.com/archive/6672094/coca-colas-big-fizzle/), Time, July 1985 (time.com archive copy)."
+  },
+  {
+   "id": 9,
+   "text": "[“Coke celebrates centennial, announces label changes”](https://www.upi.com/Archives/1986/05/08/Coke-celebrates-centennial-announces-label-changes/6968515908800/), UPI, May 8, 1986."
+  },
+  {
+   "id": 10,
+   "text": "[“Cola buyout curbs focus on antitrust”](https://www.csmonitor.com/1986/0627/fsoda.html), The Christian Science Monitor, Jun 27, 1986."
+  },
+  {
+   "id": 11,
+   "text": "[“Earnings go better for Coke in 1986”](https://www.upi.com/Archives/1987/02/19/Earnings-go-better-for-Coke-in-1986/2209540709200/), UPI, Feb 19, 1987."
+  },
+  {
+   "id": 12,
+   "text": "Mark Potts, [“‘New Coke’ to Try a New Name in Test”](https://www.washingtonpost.com/archive/business/1990/03/07/new-coke-to-try-a-new-name-in-test/4a7a4df3-d03a-4cab-9ccf-34e09634e410/), The Washington Post, March 1990 (the page is dated Mar 6, its address Mar 7). Opening paragraphs only."
+  },
+  {
+   "id": 13,
+   "text": "[“Coke, the Sequel, Hits Spokane Area”](https://www.lmtribune.com/northwest/coke-the-sequel-hits-spokane-area-33cb67f9), Lewiston Tribune, Apr 14, 1990."
+  },
+  {
+   "id": 14,
+   "text": "[“Soft drink sales higher, magazine says; Coke Classic No. 1”](https://www.upi.com/Archives/1991/01/25/Soft-drink-sales-higher-magazine-says-Coke-Classic-No-1/7649664779600/), UPI, Jan 25, 1991."
+  },
+  {
+   "id": 15,
+   "text": "[“Slow Soft Drink Sales Were Tough on Pepsi in 1991”](https://www.csmonitor.com/1992/0207/07085.html), The Christian Science Monitor, Feb 7, 1992."
+  },
+  {
+   "id": 16,
+   "text": "Snopes, [“Was the ‘New Coke’ Fiasco Just a Clever Marketing Ploy?”](https://www.snopes.com/fact-check/new-coke-fiasco/), published May 1, 1999. A secondary account citing Frederick Allen, Mark Pendergrast and David Greising."
+  },
+  {
+   "id": 17,
+   "text": "Michael E. Ross, [“It seemed like a good idea at the time”](https://www.nbcnews.com/id/wbna7209828), msnbc.com, Apr 22, 2005."
+  },
+  {
+   "id": 18,
+   "text": "[“20 years ago today, New Coke fizzed out”](https://www.baltimoresun.com/2005/04/23/20-years-ago-today-new-coke-fizzed-out/), The Baltimore Sun, Apr 23, 2005. A retrospective."
+  },
+  {
+   "id": 19,
+   "text": "The Associated Press, [“Coke dropping ‘Classic’ tagline from logo”](https://www.nbcnews.com/id/wbna28932986), NBC News, Jan 30, 2009."
+  },
+  {
+   "id": 20,
+   "text": "Stephanie Clifford, New York Times News Service, [“A classic name restored, it’s just Coca-Cola again”](https://bendbulletin.com/2009/01/31/a-classic-name-restored-its-just-coca-cola-again/), The Bulletin (Bend, Ore.), Jan 31, 2009."
+  },
+  {
+   "id": 21,
+   "text": "Nick Greene, [“What Was Coke II?”](https://www.mentalfloss.com/food/beverages/what-was-coke-ii), Mental Floss, Jul 29, 2014."
+  },
+  {
+   "id": 22,
+   "text": "The Henry Ford, [“New Coke - Success or Failure”](https://www.thehenryford.org/collections/explore/articles/new-coke), Apr 23, 2015."
+  },
+  {
+   "id": 23,
+   "text": "James Cobb, [“New Coke and Coca-Cola Classic: What the Story Says About America”](https://time.com/3950205/new-coke-history-america/), Time, Jul 10, 2015."
+  },
+  {
+   "id": 24,
+   "text": "[“When Coca-Cola introduced ‘new Coke’”](https://www.washingtonpost.com/lifestyle/magazine/when-coca-cola-introduced-new-coke/2018/04/06/09ef67e4-261e-11e8-b79d-f3d931db7f68_story.html), The Washington Post Magazine, April 2018, quoting the paper’s 1985 coverage."
+  },
+  {
+   "id": 25,
+   "text": "The Coca-Cola Company, [“1985: New Coke and Stranger Things”](https://www.coca-colacompany.com/about-us/history/coke-history-1985-new-coke-and-stranger-things), company page reproducing its May 2019 announcement."
+  },
+  {
+   "id": 26,
+   "text": "[“‘New Coke,’ infamous 1985 failed formula, resurrected for ‘Stranger Things’ partnership”](https://www.fox5atlanta.com/news/new-coke-infamous-1985-failed-formula-resurrected-for-stranger-things-partnership), FOX 5 Atlanta, May 21, 2019."
+  },
+  {
+   "id": 27,
+   "text": "Tim Murphy, [“New Coke Didn’t Fail. It Was Murdered.”](https://www.motherjones.com/food/2019/07/what-if-weve-all-been-wrong-about-what-killed-new-coke/), Mother Jones, Jul 9, 2019."
+  },
+  {
+   "id": 28,
+   "text": "Patricia Sellers, [“Coke’s most powerful boss”](https://fortune.com/2015/02/25/keough-died-coke/), Fortune, Feb 25, 2015, on the death of Donald Keough."
+  },
+  {
+   "id": 29,
+   "text": "YouTube upload pages for the videos embedded on this page (titles and uploaders), including [the CBS Evening News report](https://www.youtube.com/watch?v=a8j97dOLsyk), [the Keough speech](https://www.youtube.com/watch?v=t_djFC9Uhuw), [the Max Headroom commercial](https://www.youtube.com/watch?v=tpqgNhF8ApE) and [the Pepsi commercial](https://www.youtube.com/watch?v=8_hvOBnsirI)."
+  },
+  {
+   "id": 30,
+   "text": "Wikimedia Commons file pages for the two photographs: [New Coke can.jpg](https://commons.wikimedia.org/wiki/File:New_Coke_can.jpg) and [Newcokebottle2.jpg](https://commons.wikimedia.org/wiki/File:Newcokebottle2.jpg), both marked public domain."
+  },
+  {
+   "id": 31,
+   "text": "The Coca-Cola Company, [Form 8-K, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/21344/000002134419000031/a2019q2earningsreleaseex-9.htm) (second-quarter 2019 earnings release), filed Jul 23, 2019."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "31,600 ÷ 400 = 79 and 31,600 ÷ 2 = 15,800 calls a day.[^1] 200M aware − 110M tried = 90M.[^5] “At most 41%” is 100 − 59 from the Shapiro survey.[^6] The rise of about 54% in the share price is $115 ÷ $74.75.[^9] The 79 days are Coca-Cola’s own count from April 23 to July 11.[^1]"
+  },
+  {
+   "label": "Mixed series",
+   "text": "The card sparkline and the share arc (0, 21.7, 3, 0.1, 0) combine a Beverage Digest figure for the old formula’s share quoted by UPI[^6], two figures from a 1999 secondary account[^16], and zeros as plotting conventions. It is an illustration of scale, not a measured series."
+  },
+  {
+   "label": "Unverified",
+   "text": "The 3% and 0.1% shares for the 1985 formula come from Snopes, which cites books we did not read.[^16] The 50,000 cans of the 2019 run are Mother Jones’s figure; Coca-Cola’s page gives none, and other counts circulate that we could not trace.[^25][^27] Goizueta’s “the surest move ever made” is quoted from a 2015 history, not from a 1985 report we opened.[^23] That Coke II was used more widely from 1992 rests on two later summaries.[^21][^22]"
+  },
+  {
+   "label": "Conflicts between sources",
+   "text": "The end of the product is 2002 in Mental Floss and The Henry Ford and 2004 in the Associated Press.[^19][^21][^22] The reversal was announced on July 10 according to UPI and Time, with the press conference on July 11; UPI’s July 24 report says July 9.[^6][^7][^8][^18] The pre-launch tests covered “nearly 200,000” people in the company’s history and “over 190,000” in its spokesman’s words in 1985.[^1][^4] The duration of the testing is three years in Time and four in a 2018 Washington Post summary.[^8][^24] Coke’s 1984 share is 21.7% in UPI and 21.8% in a later Time article citing The New York Times; Dyson said “about 23 percent.”[^5][^6][^23] Peak daily calls are 1,500 in the company’s account and in UPI, and “as many as 8,000” in one later history.[^1][^5][^23] The Henry Ford dates the Coke II name to 1992; the Washington Post and Lewiston Tribune show it on test in 1990.[^12][^13][^22]"
+  },
+  {
+   "label": "Unknown",
+   "text": "Sales of the 1985 formula in any year. The cost of the reformulation, launch and reversal. The results of the Spokane test and the list of markets that later carried Coke II. The exact date the last Coke II was made. How many cans were produced in 2019."
+  },
+  {
+   "label": "How we read the sources",
+   "text": "The UPI and Time articles could not be opened as raw pages; we read them through a text-extraction tool. For four UPI articles it returned the full text[^4][^5][^6][^9] and for the rest a list of the sentences with figures and quotations or a summary[^7][^8][^11][^14][^23], so those figures and quotations should be checked against the linked pages before being reused. The Washington Post archive pages show only their opening paragraphs without a subscription, and we cite them only for what those paragraphs say.[^2][^3][^12] We could not open The New York Times’s 1985 coverage and do not cite it. The Keough quotation is taken from Snopes’s transcription.[^16]"
+  },
+  {
+   "label": "Images",
+   "text": "The two photographs are from Wikimedia Commons, marked public domain by their uploaders, and are undated.[^30] The Internet Archive was rate-limiting requests while this page was built, so no archived web captures are shown. The accent red and the colours of the drawings were matched by eye to those photographs."
+  },
+  {
+   "label": "General knowledge",
+   "text": "That The Coca-Cola Company is based in Atlanta and PepsiCo in Purchase, New York, and that “Stranger Things” is a Netflix series."
+  }
+ ]
+}

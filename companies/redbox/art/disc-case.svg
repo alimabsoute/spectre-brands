@@ -1,0 +1,13 @@
+<svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a rental disc half out of a slim red plastic case with a barcode label">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 236h320" fill="none"/>
+<circle cx="214" cy="118" r="82" fill="#cfd6e4"/>
+<circle cx="214" cy="118" r="24" fill="#fbf9f5"/><circle cx="214" cy="118" r="8" fill="#1d1b18"/>
+<path d="M262 62a74 74 0 0 1 24 40M150 150a70 70 0 0 0 28 36" fill="none" stroke="#2f6fb5" stroke-width="2.4"/>
+<rect x="42" y="40" width="150" height="180" rx="10" fill="#c8102e"/>
+<path d="M192 96a26 26 0 0 0 0 44" fill="#fbf9f5"/>
+<rect x="60" y="58" width="114" height="54" rx="4" fill="#fbf9f5"/>
+<path d="M72 74h60M72 90h40" stroke="#9a9184" stroke-width="2.4" fill="none"/>
+<g stroke-width="3"><path d="M66 176v28M76 176v28M82 176v28M94 176v28M100 176v28M112 176v28M122 176v28M128 176v28" stroke="#fbf9f5"/></g>
+<path d="M60 140h70" stroke="#8a0b20" stroke-width="5" fill="none"/>
+</g></svg>

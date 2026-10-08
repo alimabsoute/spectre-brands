@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 40,
+   "title": "People stopped renting discs",
+   "text": "Rentals peaked at 775.7 million in 2013 and were 587.6 million two years later. Outerwall called it “a secular decline in the physical rental market” and listed streaming and video-on-demand first among the risks. Netflix, which had started the move away from stores, stopped mailing discs itself in September 2023.[^11][^13][^35]"
+  },
+  {
+   "weight": 25,
+   "title": "Debt on a shrinking business",
+   "text": "After a $1.6 billion buyout of its parent in 2016, Redbox was carrying $325.4M of debt at the end of 2021 against $288.5M of revenue. The next owner assumed $359.9M and showed $970.0M of liabilities by March 2024. Each owner’s plan needed rentals to recover, and they did not.[^14][^17][^22][^23]"
+  },
+  {
+   "weight": 15,
+   "title": "No new films to put in the machines",
+   "text": "A new-release business needs new releases. Revenue fell 36% in 2020 and 47% in 2021 as the pandemic emptied the release schedule. The last owner’s plan was “predicated on a partial return to pre-COVID levels in the number and cadence of theatrical releases,” and by 2024 the studios had cut it off for non-payment.[^17][^22]"
+  },
+  {
+   "weight": 10,
+   "title": "The streaming answer was dropped",
+   "text": "Redbox Instant by Verizon launched commercially in March 2013 and Redbox withdrew nineteen months later, citing “a lower than anticipated subscriber base.” Its later free and on-demand services were not enough to carry the debt.[^11][^12][^22]"
+  },
+  {
+   "weight": 10,
+   "title": "The last owner ran out of cash and credit",
+   "text": "Chicken Soup for the Soul Entertainment stopped paying staff and vendors weeks before it filed, and its lender, HPS, alleged gross mismanagement in court papers. The chairman blamed the lenders. The judge found there was no means to pay employees or bills and ordered liquidation twelve days after the filing.[^26][^28][^25]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings document the symptoms. How much each one contributed is a matter of opinion. The allegation of mismanagement is the lender’s and has not, to our knowledge, been ruled on."
+}

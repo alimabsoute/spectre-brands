@@ -1,0 +1,272 @@
+{
+ "kicker": "The money",
+ "title": "What a private company left on the record",
+ "label": "The numbers",
+ "lede": "Ouya never filed with the SEC and never published revenue, losses or the number of consoles it sold. What follows is every figure we could confirm: the Kickstarter page, the funding rounds as reported, what developers and the chief executive said about sales, and the game counter on the company’s own home page. The gaps are gaps in the record.",
+ "blocks": [
+  {
+   "kind": "chart",
+   "id": "ouyaMoney",
+   "title": "Money raised, as reported",
+   "subtitle": "$ millions. Three disclosed sums. The venture debt that forced the sale was never disclosed.",
+   "chart": {
+    "type": "bar",
+    "height": 320,
+    "legend": false,
+    "labels": [
+     "Kickstarter, Aug 2012",
+     "Venture round, May 2013",
+     "Alibaba, Jan 2015"
+    ],
+    "y": {
+     "format": "usdM",
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Raised ($M)",
+      "data": [
+       8.6,
+       15,
+       10
+      ],
+      "colors": [
+       "brand",
+       "grey",
+       "grey"
+      ]
+     }
+    ]
+   },
+   "source": "Kickstarter: $8,596,474, rounded[^1]. Venture round led by Kleiner Perkins Caufield & Byers[^8][^9]. Alibaba[^23][^24]. The three add up to about $33.6M (derived). Fortune reported that Ouya also borrowed from TriplePoint Capital and that the amount “must have been more than” the $10M from Alibaba; the figure itself is unknown.[^24]"
+  },
+  {
+   "kind": "flow",
+   "title": "What 63,416 backers pledged for",
+   "subtitle": "Backers by reward tier on the Kickstarter page as archived in December 2013.",
+   "format": "num",
+   "from": {
+    "label": "Kickstarter backers",
+    "value": 63416
+   },
+   "to": [
+    {
+     "label": "$99: a console and controller",
+     "value": 46127,
+     "color": "brand",
+     "note": "The standard reward[^1]"
+    },
+    {
+     "label": "$140: limited brown-metal edition",
+     "value": 7755,
+     "color": "gold",
+     "note": "Offered in the last week only[^1]"
+    },
+    {
+     "label": "$225: console and two etched controllers",
+     "value": 2500,
+     "color": "blue",
+     "note": "All gone[^1]"
+    },
+    {
+     "label": "$95: early-bird console",
+     "value": 1000,
+     "color": "green",
+     "note": "All gone[^1]"
+    },
+    {
+     "label": "$699 and up: developer and patron tiers",
+     "value": 842,
+     "color": "plum",
+     "note": "600 + 226 + 4 + 12 (derived sum)"
+    },
+    {
+     "label": "$10 and $25: username and emblem, no console",
+     "value": 3668,
+     "color": "grey",
+     "note": "1,770 + 1,898 (derived sum)"
+    },
+    {
+     "label": "Not in a listed tier (derived remainder)",
+     "value": 1524,
+     "color": "light",
+     "note": "63,416 − 61,892"
+    }
+   ],
+   "source": "Internet Archive copy of the Kickstarter page[^1]. Grouped sums and the remainder are derived. MCV’s count on the day the campaign closed differs by a few backers in two tiers.[^4] Backers in tiers that included a console: 58,224, or 92% (derived)."
+  },
+  {
+   "kind": "row",
+   "blocks": [
+    {
+     "kind": "waffle",
+     "title": "Owners who had paid for a game",
+     "subtitle": "One month after the retail launch, as the chief executive told The Verge.",
+     "itemLabel": "Owners",
+     "valueLabel": "Share",
+     "items": [
+      {
+       "label": "Had paid for a game",
+       "value": 27,
+       "color": "brand",
+       "note": "Uhrman’s figure[^14]"
+      },
+      {
+       "label": "Had not (derived)",
+       "value": 73,
+       "color": "light",
+       "note": "100 − 27"
+      }
+     ],
+     "source": "The Verge, July 25, 2013[^14]. The company’s own figure, not audited. Every game on the store was free to try by rule.[^1]"
+    },
+    {
+     "kind": "bars",
+     "title": "What developers said they had made",
+     "subtitle": "First month on sale, July 2013, in dollars.",
+     "format": "usd",
+     "itemLabel": "Game or studio",
+     "valueLabel": "Reported earnings",
+     "items": [
+      {
+       "label": "TowerFall (Matt Thorson)",
+       "value": 21000,
+       "display": "about $21,000",
+       "note": "The top-earning game on the console at that point.[^14]",
+       "self": true
+      },
+      {
+       "label": "Hidden in Plain Sight (Adam Spragg)",
+       "value": 4381,
+       "display": "$4,381",
+       "note": "From 1,900 copies.[^14]",
+       "color": "grey"
+      },
+      {
+       "label": "NimbleBit",
+       "value": 427,
+       "display": "$427",
+       "note": "122 purchases from 6,508 downloads.[^13]",
+       "color": "grey"
+      }
+     ],
+     "source": "The Verge[^14] and MCV, citing Edge[^13]. MCV’s figure for TowerFall, 2,000 copies at $15, would be $30,000 before the store’s cut; the two reports are not reconciled in our sources."
+    }
+   ]
+  },
+  {
+   "kind": "counters",
+   "title": "The best-selling game, nine months later",
+   "items": [
+    {
+     "value": "7,000",
+     "text": "copies of TowerFall sold on Ouya, approximately, as its creator told Eurogamer in April 2014[^21]"
+    },
+    {
+     "value": "$500K",
+     "text": "TowerFall’s overall revenue once it reached PlayStation 4 and PC[^21]"
+    },
+    {
+     "value": "21%",
+     "text": "of that revenue came from Ouya, by Uhrman’s account[^21]"
+    },
+    {
+     "value": "8%",
+     "text": "average free-to-paid conversion for 13 of the top 20 games in July 2013[^14]"
+    }
+   ],
+   "source": "MCV, April 29, 2014, reporting Eurogamer and VG247[^21]; The Verge[^14]."
+  },
+  {
+   "kind": "flow",
+   "title": "The Free the Games Fund, two years on",
+   "subtitle": "Where the $1 million stood when Razer bought Ouya’s software in July 2015.",
+   "format": "usd",
+   "from": {
+    "label": "Fund announced in 2013",
+    "value": 1000000
+   },
+   "to": [
+    {
+     "label": "Not yet paid out",
+     "value": 620000,
+     "color": "red",
+     "note": "Razer’s figure, owed to some 27 developers[^27][^28]"
+    },
+    {
+     "label": "Paid out or otherwise accounted for (derived remainder)",
+     "value": 380000,
+     "color": "grey",
+     "note": "$1,000,000 − $620,000"
+    }
+   ],
+   "source": "The Verge[^27] and KitGuru, citing Eurogamer[^28]. The remainder is derived; no source breaks it down. Razer said it would pay the outstanding sum on new terms: no exclusivity, and free copies for users of its Cortex store to the value of the grant.[^27]"
+  },
+  {
+   "kind": "arc",
+   "title": "Games on the store, by the home page’s own counter",
+   "subtitle": "The number shown on ouya.tv in archived captures, and zero after the store closed.",
+   "labels": [
+    "Jan ’14",
+    "Jul ’14",
+    "Aug ’15",
+    "Jan ’17",
+    "Jun ’19",
+    "After Jun 25, ’19"
+   ],
+   "format": "num",
+   "xLabel": "Date of the archived capture (not evenly spaced)",
+   "series": [
+    {
+     "label": "Games listed",
+     "data": [
+      500,
+      925,
+      1112,
+      1231,
+      1250,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "“500 games and counting”",
+     "text": "A banner on the home page six months after launch. A round number, not a live count.[^34]"
+    },
+    {
+     "i": 1,
+     "title": "Ouya Everywhere",
+     "text": "925 games as the store arrives on Mad Catz’s M.O.J.O.[^34][^22]"
+    },
+    {
+     "i": 2,
+     "title": "Sold",
+     "text": "1,112 games two weeks after Razer confirms the purchase. Razer’s press release says “over 1,000.”[^34][^25]"
+    },
+    {
+     "i": 3,
+     "title": "Razer’s store",
+     "text": "1,231 games. The page footer now reads “Razer Group.”[^34]"
+    },
+    {
+     "i": 4,
+     "title": "The notice",
+     "text": "1,250 games under a banner announcing the shutdown.[^34]"
+    },
+    {
+     "i": 5,
+     "title": "Switched off",
+     "text": "The store closes on June 25, 2019.[^30]"
+    }
+   ],
+   "source": "Read from our screenshots of Internet Archive captures of ouya.tv[^34]. The catalogue kept growing because it cost a developer little to list a game; it says nothing about how many were bought. The final zero is the closure of the store, not a count."
+  },
+  {
+   "kind": "note",
+   "body": "How many Ouya consoles were sold is **unknown**. The company declined to give a number in July 2013[^14] and we found none in any later primary source. The only firm floor is the Kickstarter page: 58,224 backers chose a reward that included a console (derived).[^1] Unit figures that circulate online could not be traced to the company or to a tracker and are left out."
+  }
+ ]
+}

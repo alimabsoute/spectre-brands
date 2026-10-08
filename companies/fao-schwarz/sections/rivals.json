@@ -1,0 +1,55 @@
+{
+ "kicker": "The rivals",
+ "title": "Three chains under one roof, and the stores that undersold them",
+ "lede": "FAO Inc. put three specialty chains together to serve what its chief executive called “the same affluent customer.”[^11] All three were sold or liquidated within two years.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "FAO Inc.’s three brands, a later owner and a competitor",
+   "subtitle": "Store counts are from FAO Inc.’s filings.",
+   "metric": "Stores, early 2002 to April 2003",
+   "items": [
+    {
+     "name": "FAO Schwarz",
+     "status": "ghost",
+     "self": true,
+     "value": "23 → 15",
+     "text": "Then two stores after the January 2004 sale, and none after July 2015. The name was revived in 2018.[^1][^2][^8][^22][^29]"
+    },
+    {
+     "name": "Zany Brainy",
+     "status": "dead",
+     "statusLabel": "Liquidated from Dec 2003",
+     "value": "169 → 89",
+     "text": "Bought out of bankruptcy in September 2001. Same-store sales fell 17.9% in fiscal 2002.[^1][^2][^7]"
+    },
+    {
+     "name": "The Right Start",
+     "status": "acquired",
+     "statusLabel": "Sold, Dec 2003",
+     "value": "64 → 38",
+     "text": "The original business, founded as a catalog in 1985. Sold to Hancock Park Capital for about $5.4M.[^1][^2][^8]"
+    },
+    {
+     "name": "Toys “R” Us",
+     "status": "dead",
+     "statusLabel": "Later bankrupt itself",
+     "value": "owner, 2009–16",
+     "text": "Hired FAO Schwarz’s chief executive in 2000, bought the brand in 2009, closed its last store in 2015 and sold it in 2016.[^9][^20][^22][^24][^29]"
+    },
+    {
+     "name": "Wal-Mart",
+     "status": "alive",
+     "value": "lower prices",
+     "text": "The discounter the press named in both bankruptcies as selling some of the same toys for less.[^13][^14]"
+    }
+   ],
+   "source": "FAO Inc. 10-K reports and 8-K[^1][^2][^7][^8]; Associated Press and Publishers Weekly[^13][^14][^29]. That Walmart is still operating is general knowledge. Whether the Zany Brainy and Right Start names have been used since is outside the scope of this page."
+  },
+  {
+   "kind": "quote",
+   "text": "I think consumers were spending less on upscale toy retail products.",
+   "who": "Maria Weiskott, editor-in-chief of Playthings, quoted by Publishers Weekly from Reuters, January 27, 2003[^12]"
+  }
+ ]
+}

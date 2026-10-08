@@ -1,0 +1,67 @@
+{
+ "kicker": "The old website",
+ "title": "What customers actually saw",
+ "lede": "These are screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. Captures were found with the Archive’s CDX index in October 2026.[^27]",
+ "captures": [
+  {
+   "date": "Dec 1999",
+   "label": "Video catalogue",
+   "url": "http://www.kozmo.com/cgi-bin/ncommerce/;display/category?cgrfnbr=13&cgmenbr=1",
+   "wayback": "https://web.archive.org/web/19991201144521/http://www.kozmo.com:80/cgi-bin/ncommerce/;display/category?cgrfnbr=13&cgmenbr=1",
+   "image": "img/archive-1999-12-category.avif",
+   "h": 800,
+   "captured": "Dec 1, 1999",
+   "title": "Science fiction, in stock",
+   "text": "The New York store’s video shelf. Tabs across the top read videos, DVDs, games, music, books, mags and food. An orange tick marks a title that is in stock.",
+   "warn": "Several images, including the banner, were not saved by the Archive and show as empty frames."
+  },
+  {
+   "date": "Apr 2000",
+   "label": "Front door",
+   "url": "http://www.kozmo.com/",
+   "wayback": "https://web.archive.org/web/20000408214847/http://www.kozmo.com/",
+   "image": "img/archive-2000-04-home.avif",
+   "h": 290,
+   "captured": "Apr 8, 2000",
+   "title": "“where do you want your delivery?”",
+   "text": "Eighteen days after the IPO filing, the home page asked for one thing: a delivery zip code. The service existed only inside its delivery zones, which is what the MSNBC report of April 11 was about.[^17]"
+  },
+  {
+   "date": "Apr 2001",
+   "label": "Closing notice",
+   "url": "http://www.kozmo.com/",
+   "wayback": "https://web.archive.org/web/20010418174636/http://www.kozmo.com/",
+   "image": "img/archive-2001-04-closed.avif",
+   "h": 330,
+   "captured": "Apr 18, 2001",
+   "title": "“Thank you for your business.”",
+   "text": "One week after the shutdown. Drop boxes stayed in place for returns, late fees kept accruing, and any rental not returned by April 16 was charged at full retail value."
+  },
+  {
+   "date": "Feb 2020",
+   "label": "The revival",
+   "url": "https://www.kozmo.com/",
+   "wayback": "https://web.archive.org/web/20200228094407/https://www.kozmo.com/",
+   "image": "img/archive-2020-02-revival.avif",
+   "h": 800,
+   "captured": "Feb 28, 2020",
+   "title": "“Warehouse Club 2.0”",
+   "text": "The same address under Yummy Foods: groceries in two hours, 20% to 50% off retail for buying in multiples, and free delivery only on a $100 order.[^23]"
+  }
+ ],
+ "snips": [
+  {
+   "text": "“videos, games, dvds, music, mags, books, food, basics & more ... delivered in under an hour”",
+   "when": "Home page · Apr 8, 2000 capture[^27]"
+  },
+  {
+   "text": "“While we wish it weren’t so, Kozmo has closed operations. We truly enjoyed serving you and sincerely appreciate your enthusiastic support.”",
+   "when": "Closing notice · Apr 18, 2001 capture[^27]"
+  },
+  {
+   "text": "“Kozmo is re-inventing the warehouse club online!”",
+   "when": "Relaunched site · Feb 28, 2020 capture[^27]"
+  }
+ ],
+ "note": "Screenshots of Internet Archive captures, saved as images. The Archive’s captures of the kozmo.com home page from 2000 are zip-code gates like the one above. Some catalogue pages behind the gate were saved in 1999 and 2000, often without their images.[^27]"
+}

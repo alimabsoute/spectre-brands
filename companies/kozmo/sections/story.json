@@ -1,0 +1,83 @@
+{
+ "kicker": "The story",
+ "title": "Free delivery, in under an hour, to anyone who asked",
+ "lede": "Kozmo did what it promised. Customers loved it, and almost every observer who looked at the arithmetic said the same thing: each delivery cost money, and the orders were too small to pay for it.",
+ "chapters": [
+  {
+   "when": "Apr 1997 – 1998 · Videos by bicycle",
+   "title": "Two bankers, a warehouse and a web page",
+   "big": "3,700",
+   "cap": "registered customers at the end of 1998",
+   "color": "#4f7a00",
+   "body": "Joseph Park and Yong Kang founded Kozmo in 1997. Park had been an analyst at Goldman, Sachs; Kang had worked in media finance at Société Générale. They were 28 and 27 at the end of 1999.[^1] CNET later reported that they were former college roommates who had the idea on a night when they wanted videos and snacks and wished someone would bring them.[^4]\n\nThe company was incorporated in New York in April 1997 and spent its first year raising money and hiring. Its first investors paid 21 cents a share in November 1997. It began taking orders in March 1998, when it opened its first distribution center in New York City.[^1]\n\nThe first product was rented videos. Sales in 1998 were $155,000, of which $108,000 was rental income, and the company ended the year with 3,700 registered customers and a loss of $813,000.[^1]",
+   "image": {
+    "image": "img/archive-1999-12-category.avif",
+    "caption": "The science fiction shelf of the video catalogue, with orange ticks for titles in stock. Internet Archive capture of December 1, 1999; some images in the capture are missing.[^27]",
+    "alt": "Kozmo.com video rental catalogue page, captured December 1999"
+   }
+  },
+  {
+   "when": "1999 · Five cities",
+   "title": "From 3,700 customers to 101,234",
+   "big": "101,234",
+   "cap": "registered customers on December 31, 1999",
+   "color": "#b54708",
+   "body": "In 1999 Kozmo added music, books, magazines, food and convenience items to the videos, and opened in Seattle in June, San Francisco and Boston in September and Washington, D.C. in November.[^1] Each market was served from one or more warehouses of about 10,000 square feet in low-rent areas. Orders went out by van, car, scooter or bicycle. The couriers were called Kozmonauts.[^1]\n\nThe customer count rose from 3,700 to 101,234 in twelve months, and quarterly orders from 29,231 to 177,581. Sales for the year were $3.5M. The net loss was $26.4M.[^1]\n\nThe company began advertising on cable television that year, and marketing and sales expense went from $117,000 in 1998 to $10.3M.[^1] In November it hired a chief financial officer from Ethan Allen, Gerardo Burdo, and a chief operating officer from Federal Express, Kenneth Trevathan.[^1]",
+   "video": "spot1999"
+  },
+  {
+   "when": "Dec 1999 – Mar 2000 · The money arrives",
+   "title": "Amazon, Starbucks and a filing to go public",
+   "big": "$150M",
+   "cap": "promised to Starbucks over five years",
+   "color": "#16161A",
+   "body": "Investors paid $1.80 a share in October 1999, $4.41 in December and January, and $7.55 in March 2000. Amazon.com put in $60M and became the largest shareholder. By March the company had raised about $232.3M in cash from preferred stock, $113.6M of it since New Year.[^1]\n\nIn February 2000 Kozmo signed a five-year agreement with Starbucks. Starbucks would put a Kozmo drop box for returned videos in each of its stores in Kozmo’s markets and promote the service on its cups and napkins. Kozmo would pay Starbucks $15M in 2000, $25M in 2001, $35M in 2002, $35M in 2003 and $40M in 2004.[^1][^19] In March it agreed to deliver Amazon’s books, music and toys within an hour, and gave Amazon a warrant it valued at $35.7M.[^1]\n\nOn March 21, 2000 it filed to sell up to $150M of stock on the Nasdaq under the symbol KZMO, with Credit Suisse First Boston leading. It had 445 salaried and 2,220 hourly employees and said it intended to enter at least ten more markets by the end of the year.[^1]",
+   "pull": {
+    "text": "Kozmo chief executive Joseph Park has said Kozmo will never charge a delivery fee. They don’t require a minimum purchase either.",
+    "who": "Greg Sandoval, CNET News, Feb 29, 2000[^18]"
+   },
+   "art": "art/drop-box.svg",
+   "artCaption": "Original illustration of a video drop box in a coffee shop. Not a drawing of a real store or an official asset."
+  },
+  {
+   "when": "Apr – Dec 2000 · The arithmetic",
+   "title": "Eleven cities, a pulled IPO and the first layoffs",
+   "big": "$12.84",
+   "cap": "spent on delivery staff per order in Q4 1999, against $11.92 of sales per order (derived)",
+   "color": "#C2412D",
+   "body": "The filing that was meant to sell the company also described its problem. In the last quarter of 1999 Kozmo delivered 177,581 orders. Sales were $2.1M, or $11.92 an order. Delivery expense, which the filing says was mostly courier payroll, was $2.3M, or $12.84 an order. Gross profit was $4.72 an order (all three per-order figures derived).[^1]\n\nKozmo reached Chicago and Atlanta in April 2000 and was in 11 cities by late summer.[^14][^15][^17] The same month MSNBC reported that its delivery zones left out most black neighborhoods in Washington, and a civil rights group and two residents sued. The company denied that race played any part. The suit was dismissed at the plaintiffs’ request on September 1, and in December Kozmo and the group announced a joint program, with $125,000 from Kozmo.[^13][^14][^17]\n\nIn August 2000 Kozmo laid off more than 300 people, 275 of them couriers, dispatchers and field staff in New York and Los Angeles. On August 18 it withdrew the IPO filing, citing “unfavorable market conditions.”[^2][^15] Talks to buy its New York rival Urbanfetch ended in October.[^11][^12] By December the founders had handed the company to Burdo.[^10][^13]",
+   "pull": {
+    "text": "These instant gratification orders -- $15 worth of ice cream and videos -- are inherently small-dollar purchases. But every delivery costs money.",
+    "who": "Tim Laseter, Booz-Allen & Hamilton, in Supermarket News, Aug 28, 2000[^15]"
+   },
+   "art": "art/small-order.svg",
+   "artCaption": "Original illustration of a typical small order. Not an official asset."
+  },
+  {
+   "when": "Jan – Apr 2001 · The end",
+   "title": "A delivery fee, a catalogue and a locked door",
+   "big": "1,100",
+   "cap": "employees at the close, down from about 2,000 in January",
+   "color": "#C2412D",
+   "body": "Burdo changed nearly everything the founders had promised. In January 2001 Kozmo began charging about $2 for orders under $25 to $30.[^12][^21] It closed Houston and San Diego on January 8 and cut 120 jobs.[^10][^11] On February 23 it laid off 60 more, said it would mail 400,000 printed catalogues and announced it would drop “.com” from its name.[^9] On March 26 it abandoned the Starbucks agreement and began removing 500 drop boxes.[^8]\n\nThe company said that the average order had risen from $10 to $25 or $30, that membership had reached 400,000 and that New York, San Francisco and Boston had been profitable in December.[^7][^9][^11] Investors had promised $30M in December. One of them later withdrew a $6M commitment.[^4][^6]\n\nA merger with PDQuick, a Los Angeles online grocer, fell through on April 10 when PDQuick’s financing did not arrive. On Wednesday, April 11, 2001 Kozmo said it was “ceasing operations in all nine markets and liquidating its assets.”[^3][^6] It did not file for bankruptcy. Salaried staff, about a quarter of the 1,100, were offered severance. Hourly workers were not.[^6]",
+   "pull": {
+    "text": "Given more time and more hospitable market conditions, Kozmo would have succeeded in rounding the corner and would have continued to grow.",
+    "who": "Gerry Burdo, president and chief executive, statement of Apr 11, 2001, quoted by CNNfn[^3]"
+   },
+   "image": {
+    "image": "img/archive-2001-04-closed.avif",
+    "caption": "The notice that replaced the store. Rentals not returned by April 16, 2001 were charged at full retail value. Internet Archive capture of April 18, 2001.[^27]",
+    "alt": "Kozmo.com closing notice headed Thank you for your business"
+   }
+  },
+  {
+   "when": "2005 – 2022 · The name comes back",
+   "title": "A minimum order, at last",
+   "big": "$35",
+   "cap": "minimum order when the Kozmo name was relaunched in Los Angeles in 2018",
+   "color": "#4f7a00",
+   "body": "Kozmo’s own trademark application had lapsed in December 2000, before the company did.[^26] In 2005 its former technology chief, Chris Siragusa, started MaxDelivery in lower Manhattan with the same one-hour promise, a $10 minimum and a $4.95 charge on orders under $50.[^20]\n\nIn March 2011 Yummy Foods, LLC, which runs the Los Angeles grocery delivery service Yummy.com, applied to register KOZMO. The registrations were issued that October.[^25] A placeholder page promising a relaunch appeared at kozmo.com in September 2013.[^22] The relaunch came on March 21, 2018: next-day delivery of groceries in Los Angeles at warehouse-club prices, with a $5.99 fee and a $35 minimum.[^23][^24]\n\nIn July 2021 the same owner advertised 30-minute grocery delivery under the Kozmo name in the San Fernando Valley.[^28] The registrations were renewed in March 2022. The Internet Archive’s last capture of the site is dated May 20, 2022, and the site did not load when we checked in October 2026.[^25][^27]",
+   "video": "revival2021"
+  }
+ ]
+}

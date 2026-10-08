@@ -1,0 +1,36 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "We are a different kind of toy store with a unique product mission and a passionate commitment to our customers. We believe that learning should be fun.",
+   "who": "**Zany Brainy, Inc.**, prospectus, Jun 3, 1999[^1]",
+   "big": true
+  },
+  {
+   "q": "Shakeout in children’s multimedia retail continues",
+   "who": "**Publishers Weekly**, subheadline on the Noodle Kidoodle merger, May 1, 2000[^20]"
+  },
+  {
+   "q": "The key message here is that the stores are open and stock is on the shelves.",
+   "who": "**Rich Tauberman**, spokesman for Zany Brainy, Publishers Weekly, May 21, 2001[^21]"
+  },
+  {
+   "q": "Zany Brainy’s Chapter 11 filing was about liquidity. Zany Brainy has a strong brand and excellent store locations.",
+   "who": "**Kenneth J. Abdalla**, managing member of Waterton Management, Publishers Weekly, Jul 16, 2001[^22]"
+  },
+  {
+   "q": "The companies are the two most powerful kid’s brands in America today and are a perfect complement to each other.",
+   "who": "**Jerry R. Welch**, chairman and CEO of The Right Start, press release, Aug 16, 2001[^9]",
+   "big": true
+  },
+  {
+   "q": "The current environment for toy retailers is awful.",
+   "who": "**Jerry R. Welch**, letter to FAO Inc. employees, quoted by Playthings, Dec 2, 2003[^18]"
+  },
+  {
+   "q": "That really hurt them. They’ve been struggling for quite some time.",
+   "who": "**An unnamed publisher**, on Zany Brainy’s systems and inventory-control problems, Publishers Weekly, Dec 8, 2003[^25]"
+  }
+ ]
+}

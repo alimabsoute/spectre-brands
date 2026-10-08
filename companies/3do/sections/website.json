@@ -1,0 +1,49 @@
+{
+ "kicker": "The old website",
+ "title": "3do.com, from three divisions to a list of games",
+ "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. A capture from May 2000, the peak year, had lost nearly all its images and is not shown.[^42]",
+ "snips": [
+  {
+   "text": "Three sections: **The Company**, **Studio 3DO** and **3DO Systems**, the last offering “3DO MPEGXpress”, “M2 Technology” and “PC Technology”.",
+   "when": "3do.com · Dec 30, 1996[^42]"
+  },
+  {
+   "text": "“**Meridian 59 Free Trial**”",
+   "when": "3do.com · Dec 30, 1996[^42]"
+  },
+  {
+   "text": "“**We’re Here to Play**”",
+   "when": "3do.com · Apr 1, 2003[^42]"
+  },
+  {
+   "text": "Upcoming games: “Jacked”, “Street Racing Syndicate” and two Army Men titles for the GameCube. New releases: “High Heat Major League Baseball 2004” and “Army Men: RTS”.",
+   "when": "3do.com · Apr 1, 2003[^42]"
+  }
+ ],
+ "note": "Several images in the 2003 page were never archived and show as empty boxes.",
+ "captures": [
+  {
+   "date": "Dec 1996",
+   "label": "Three divisions",
+   "url": "http://www2.3do.com/",
+   "wayback": "https://web.archive.org/web/19961230232559/http://www2.3do.com/",
+   "image": "img/archive-1996-12-home.avif",
+   "h": 440,
+   "captured": "Dec 30, 1996",
+   "title": "After the about-face",
+   "text": "Three months after 3DO said it would become a software company[^25], the home page still gives equal space to 3DO Systems, the hardware group Samsung would buy the following June.[^3] The online game Meridian 59 gets the top link."
+  },
+  {
+   "date": "Apr 2003",
+   "label": "We’re Here to Play",
+   "url": "http://www.3do.com/index.html",
+   "wayback": "https://web.archive.org/web/20030401131749/http://www.3do.com/index.html",
+   "image": "img/archive-2003-04-home.avif",
+   "h": 520,
+   "captured": "Apr 1, 2003",
+   "title": "Eight weeks before Chapter 11",
+   "text": "The page lists Street Racing Syndicate and Jacked as coming soon. Neither had been released when the assets were auctioned in August; they went to Namco and JoWooD.[^16][^30][^31]",
+   "warn": "Some images in this capture were not archived."
+  }
+ ]
+}

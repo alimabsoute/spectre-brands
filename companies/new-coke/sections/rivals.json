@@ -1,0 +1,98 @@
+{
+ "kicker": "The rivals",
+ "title": "One competitor outside the company, one inside it",
+ "lede": "New Coke was built to beat Pepsi. The drink that beat it was the one it had replaced.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Four colas, one casualty",
+   "subtitle": "What each was, and what became of it.",
+   "metric": "Headline figure",
+   "items": [
+    {
+     "name": "New Coke / Coke II",
+     "status": "ghost",
+     "self": true,
+     "value": "about 3%, then 0.1%",
+     "text": "Share in its first year and in 1999, by one later account.[^16] Withdrawn in the early 2000s; a limited re-release in 2019.[^21][^25]",
+     "data": [
+      0,
+      21.7,
+      3,
+      0.1,
+      0
+     ],
+     "range": [
+      "Apr 1985",
+      "2002"
+     ]
+    },
+    {
+     "name": "Coca-Cola Classic",
+     "status": "alive",
+     "statusLabel": "Alive, as Coca-Cola",
+     "value": "19.4% (1990)",
+     "text": "The old formula, back from July 1985 and the leading brand in 1990.[^6][^14] The word “Classic” came off US labels from 2009.[^19]"
+    },
+    {
+     "name": "Pepsi",
+     "status": "alive",
+     "value": "17.3% (1990)",
+     "text": "At 18.8% before the change.[^6] It said May 1985 was its best month ever, and ended the decade behind Classic.[^5][^14]"
+    },
+    {
+     "name": "Diet Coke",
+     "status": "alive",
+     "value": "9.1% (1990)",
+     "text": "The project that produced the new formula, officials said.[^6] Third among all brands in 1990.[^14]"
+    }
+   ],
+   "source": "UPI, Jun 10 and Jul 10, 1985[^5][^6]; UPI, Jan 25, 1991, citing Beverage Industry magazine[^14]; Snopes[^16]; the Associated Press[^19]. Figures from different publishers are not strictly comparable."
+  },
+  {
+   "kind": "bars",
+   "title": "Five years on: the brand table for 1990",
+   "subtitle": "Share of US soft drink sales by brand, per Beverage Industry magazine. The 1985 formula is not listed.",
+   "format": "pct",
+   "itemLabel": "Brand",
+   "valueLabel": "Share, 1990",
+   "items": [
+    {
+     "label": "Coca-Cola Classic",
+     "value": 19.4,
+     "color": "brand"
+    },
+    {
+     "label": "Pepsi",
+     "value": 17.3,
+     "color": "blue"
+    },
+    {
+     "label": "Diet Coke",
+     "value": 9.1,
+     "color": "grey"
+    },
+    {
+     "label": "Diet Pepsi",
+     "value": 6.2,
+     "color": "grey"
+    },
+    {
+     "label": "Dr Pepper",
+     "value": 4.8,
+     "color": "grey"
+    }
+   ],
+   "source": "UPI, Jan 25, 1991.[^14] We read this article through a text-extraction tool that returned its figures as a table; check them against the linked page before reuse."
+  },
+  {
+   "kind": "video",
+   "video": "pepsi"
+  },
+  {
+   "kind": "text",
+   "title": "What Pepsi said",
+   "body": "On the day of the reversal a Pepsi spokesman told UPI: “We’re not surprised to hear Coke is reintroducing its old formula because quite clearly the new formula was universally hated.”[^6] Beverage Digest’s publisher, Jesse Meyers, saw something else in the same decision: a market “getting incredibly diversified,” in which Coca-Cola had found a way “to add another segment.”[^6]"
+  }
+ ]
+}

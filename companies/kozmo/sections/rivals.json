@@ -1,0 +1,107 @@
+{
+ "kicker": "The rivals",
+ "title": "The last mile, 2000–2001",
+ "lede": "Kozmo’s filing listed its competitors as other online retailers, video and convenience stores, and the parcel carriers. The companies that tried to deliver to the door themselves had a bad two years.",
+ "blocks": [
+  {
+   "kind": "multiples",
+   "title": "Four ways to deliver to the door, as things stood in April 2001",
+   "subtitle": "Kozmo and three companies named beside it in the press on the week it closed.",
+   "metric": "Status in April 2001",
+   "items": [
+    {
+     "name": "Kozmo",
+     "status": "dead",
+     "self": true,
+     "value": "Closed Apr 11, 2001",
+     "text": "One-hour delivery in nine cities. Raised about $232.3M in cash by March 2000.[^1][^3]"
+    },
+    {
+     "name": "Urbanfetch",
+     "status": "dead",
+     "statusLabel": "Left consumer delivery",
+     "value": "Out by fall 2000",
+     "text": "Kozmo’s head-to-head rival in New York. It gave up consumer delivery days after merger talks with Kozmo ended in October 2000.[^4][^11]"
+    },
+    {
+     "name": "Webvan",
+     "status": "dead",
+     "statusLabel": "Going-concern warning",
+     "value": "9 markets",
+     "text": "The online grocer said in April 2001 that its auditors doubted it could continue as a going concern.[^5]"
+    },
+    {
+     "name": "Peapod",
+     "status": "acquired",
+     "statusLabel": "Majority-owned by Ahold",
+     "value": "95¢ a share",
+     "text": "Kept alive by the Dutch grocer Royal Ahold, which owned more than half of it. The shares closed at 95 cents after Kozmo’s news.[^5]"
+    }
+   ],
+   "source": "CNET News, The Register and The Globe and Mail.[^4][^5][^11] Webvan is marked dead because it closed later in 2001; that is general knowledge and not from the sources cited here."
+  },
+  {
+   "kind": "quote",
+   "text": "I phone my grocer up and they take my order over the phone. One of the cashiers fills up my order and delivers for three bucks. They’re not building warehouses, they are not buying inventory. They are just using what they have.",
+   "who": "Kevin Noonan, analyst, Yankee Group, in The Globe and Mail, Apr 13, 2001[^5]"
+  },
+  {
+   "kind": "versus",
+   "left": {
+    "name": "Kozmo.com, 2000",
+    "tag": "The original",
+    "alive": false,
+    "rows": [
+     [
+      "Delivery fee",
+      "None[^18]"
+     ],
+     [
+      "Minimum order",
+      "None[^18]"
+     ],
+     [
+      "Promise",
+      "Under one hour[^1]"
+     ],
+     [
+      "Markets",
+      "6, with at least 10 more planned[^1]"
+     ],
+     [
+      "Goods",
+      "Videos, snacks, music, books, magazines[^1]"
+     ]
+    ]
+   },
+   "right": {
+    "name": "Kozmo.com, 2018",
+    "tag": "The relaunch",
+    "alive": true,
+    "rows": [
+     [
+      "Delivery fee",
+      "$5.99[^24]"
+     ],
+     [
+      "Minimum order",
+      "$35, and minimum quantities per item[^23][^24]"
+     ],
+     [
+      "Promise",
+      "Next day[^23]"
+     ],
+     [
+      "Markets",
+      "Los Angeles only[^23]"
+     ],
+     [
+      "Goods",
+      "Groceries, household goods, beer and wine[^23]"
+     ]
+    ]
+   },
+   "source": "CNET News and the Form S-1 for 2000[^1][^18]; Supermarket News and socaltech.com for 2018.[^23][^24] “Alive” describes the relaunch as of 2018, not today."
+  }
+ ]
+}

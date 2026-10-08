@@ -1,0 +1,363 @@
+{
+ "kicker": "Timeline",
+ "title": "Forty-two years, 33 moments",
+ "lede": "From a Dallas software dealer to an error page. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "stores": {
+   "label": "Stores",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals & deals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Closure & afterlife",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1984",
+   "cat": "corporate",
+   "title": "Soft Warehouse is formed",
+   "text": "The company starts in Dallas, selling software and hardware to corporate customers.",
+   "src": [
+    1,
+    8
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "1985",
+   "cat": "stores",
+   "title": "First retail store",
+   "text": "Soft Warehouse opens its first shop.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "1988",
+   "cat": "stores",
+   "title": "First Computer Superstore",
+   "text": "The large-format store that becomes the model for the chain.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1989",
+   "cat": "corporate",
+   "title": "Investor group buys in",
+   "text": "A group led by Ronald N. Dubin acquires Soft Warehouse. Nathan Morton, from Home Depot, is hired as president and CEO late in the year.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "1991",
+   "cat": "corporate",
+   "title": "Renamed CompUSA",
+   "text": "The company drops the Soft Warehouse name.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1991",
+   "cat": "rivals",
+   "title": "Tandy opens Computer City",
+   "text": "The owner of RadioShack starts its own computer superstore chain.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1991",
+   "cat": "money",
+   "title": "Initial public offering",
+   "text": "Shares begin trading at $15, according to a reference history.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Jun 27",
+   "year": "1992",
+   "cat": "stores",
+   "title": "28 stores, $823M",
+   "text": "Net sales for the fiscal year are $822.8M. Best Buy’s for its fiscal 1992 are $929.7M.",
+   "src": [
+    1,
+    23
+   ]
+  },
+  {
+   "date": "",
+   "year": "1993",
+   "cat": "corporate",
+   "title": "Morton becomes chairman",
+   "text": "Nathan Morton adds the chairman’s title, replacing Ronald Dubin.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1993",
+   "cat": "corporate",
+   "title": "Morton resigns",
+   "text": "He leaves at a board meeting. James Halpin, president for six months, takes over.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Jun 25",
+   "year": "1994",
+   "cat": "money",
+   "title": "A $17.0M loss",
+   "text": "Fiscal 1994 ends with 76 stores, $2.2B in sales, a $9.9M restructuring charge and a net loss.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Apr 8",
+   "year": "1996",
+   "cat": "money",
+   "title": "Two-for-one stock split",
+   "text": "",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "May 30",
+   "year": "1996",
+   "cat": "rivals",
+   "title": "PCs Compleat acquired",
+   "text": "A Massachusetts mail-order reseller, acquired in a merger to build a direct-sales business.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun 28",
+   "year": "1997",
+   "cat": "money",
+   "title": "Peak profit",
+   "text": "Net income of $93.9M on sales of $4.61B, with 129 stores.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Jun 22",
+   "year": "1998",
+   "cat": "rivals",
+   "title": "Deal for Computer City",
+   "text": "CompUSA agrees to buy the chain from Tandy for about $275M in a note and cash.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Aug 31",
+   "year": "1998",
+   "cat": "rivals",
+   "title": "Computer City deal closes",
+   "text": "The final price is about $175M. CompUSA will close 59 of the 96 U.S. stores.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Jun 24",
+   "year": "1999",
+   "cat": "corporate",
+   "title": "Restructuring announced",
+   "text": "Corporate fulfilment is outsourced to Ingram Micro. Special charges for the year reach $93.8M.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Jun 26",
+   "year": "1999",
+   "cat": "money",
+   "title": "A $45.7M loss on record sales",
+   "text": "Fiscal 1999: 211 stores, $6.32B in sales, comparable-store sales down 3.4%.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "1999",
+   "cat": "corporate",
+   "title": "2,200 dismissed",
+   "text": "The in-store corporate sales force is replaced by a call centre in Dallas.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Nov 22",
+   "year": "1999",
+   "cat": "money",
+   "title": "The Slim family discloses a stake",
+   "text": "A Schedule 13D is filed for the Slim family, Grupo Carso and Grupo Sanborns.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Jan 24",
+   "year": "2000",
+   "cat": "money",
+   "title": "Sold for $10.10 a share",
+   "text": "Grupo Sanborns agrees to buy the shares it does not own. CompUSA has 217 superstores.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Feb 29",
+   "year": "2000",
+   "cat": "money",
+   "title": "Tender offer expires",
+   "text": "About 69.5 million shares are tendered, giving the buyer about 89.9%.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Mar 10",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "Off the public record",
+   "text": "CompUSA files a Form 15 to end its SEC reporting.",
+   "src": [
+    27
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "2001",
+   "cat": "corporate",
+   "title": "Jury verdict in Dallas",
+   "text": "A jury finds against CompUSA, James Halpin and Slim’s companies in a suit over franchised stores in Mexico. The judge sets aside the awards against CompUSA and Halpin in May.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Sep 29",
+   "year": "2003",
+   "cat": "rivals",
+   "title": "Good Guys bought",
+   "text": "CompUSA agrees to pay $2.05 a share for the West Coast electronics chain.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "2004",
+   "cat": "corporate",
+   "title": "Verdict overturned",
+   "text": "The Dallas Court of Appeals rules that the plaintiff should take nothing from any defendant.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Feb 27",
+   "year": "2007",
+   "cat": "death",
+   "title": "126 stores to close",
+   "text": "More than half the chain, within 90 days. 103 stores remain.",
+   "src": [
+    12,
+    11
+   ]
+  },
+  {
+   "date": "Dec 7",
+   "year": "2007",
+   "cat": "death",
+   "title": "Sold to Gordon Brothers",
+   "text": "The company says it will close its stores after the holidays. Terms are not disclosed.",
+   "src": [
+    13,
+    14
+   ]
+  },
+  {
+   "date": "Jan 6",
+   "year": "2008",
+   "cat": "death",
+   "title": "Systemax buys the name",
+   "text": "The owner of TigerDirect agrees to buy the brand, the website and up to 16 stores.",
+   "src": [
+    16
+   ]
+  },
+  {
+   "date": "Jan 10",
+   "year": "2008",
+   "cat": "death",
+   "title": "Web business changes hands",
+   "text": "Systemax completes the purchase of the e-commerce business for $18.9M. The store leases follow in February and March.",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "Oct 31",
+   "year": "2012",
+   "cat": "death",
+   "title": "Brand retired",
+   "text": "Systemax consolidates its U.S. consumer business under TigerDirect and writes off the CompUSA intangibles.",
+   "src": [
+    19
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "2018",
+   "cat": "death",
+   "title": "A deals site borrows the name",
+   "text": "DealCentral relaunches compusa.com as a coupon and deals page.",
+   "src": [
+    21
+   ]
+  },
+  {
+   "date": "Oct 8",
+   "year": "2026",
+   "cat": "death",
+   "title": "An error page",
+   "text": "compusa.com returns a Wix error page for a domain that is not connected to a site.",
+   "src": [
+    22
+   ]
+  }
+ ]
+}

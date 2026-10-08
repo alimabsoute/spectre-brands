@@ -1,0 +1,48 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it, who bought it, who buried it",
+ "lede": "Roles and dates are from the filings and press cited. The founders of Soft Warehouse are not named in the sources we could open, so they are not named here.",
+ "people": [
+  {
+   "name": "Nathan Morton",
+   "role": "President and CEO from late 1989; chairman in 1993",
+   "text": "A former Home Depot executive with no background in computers, hired to roll out the superstores. Sales rose from $66M in fiscal 1988 to $600M in 1990. He resigned at a board meeting in December 1993.[^8]"
+  },
+  {
+   "name": "Ronald N. Dubin",
+   "role": "Led the 1989 investor group; chairman until 1993",
+   "text": "His group acquired Soft Warehouse in January 1989.[^8]"
+  },
+  {
+   "name": "James F. Halpin",
+   "role": "President and CEO from Dec 1993",
+   "text": "Came from the Home Base home-improvement chain six months before taking over, and was still president and chief executive when the sale to Grupo Sanborns was announced in January 2000. A Dallas jury returned a $175.5M verdict against him personally in 2001, which the trial judge set aside.[^8][^1][^5][^9]",
+   "later": "Described as CompUSA’s former chief executive in a filing covering 2001.[^9]"
+  },
+  {
+   "name": "Carlos Slim Domit",
+   "role": "Chairman, Grupo Sanborns",
+   "text": "Announced the purchase in January 2000 and said the buyers could “re-energize the organization.”[^5]"
+  },
+  {
+   "name": "Carlos Slim Helú",
+   "role": "Controlling owner through Grupo Carso",
+   "text": "The AP described CompUSA in 2007 as controlled by his Grupo Carso. Computerworld, citing The Wall Street Journal, reported that he had put about $2 billion into the chain since 1999.[^13][^14]"
+  },
+  {
+   "name": "Roman Ross",
+   "role": "Chief executive, 2007",
+   "text": "Announced the closing of 126 stores in February 2007 and moved to an advisory role when Gordon Brothers took over in December.[^11][^13]"
+  },
+  {
+   "name": "Bill Weinstein and Stephen Gray",
+   "role": "Ran the wind-down",
+   "text": "A Gordon Brothers principal and the managing partner of CRG Partners. eWeek reported them as interim president and chief restructuring officer.[^13][^15]"
+  },
+  {
+   "name": "Richard Leeds and Gilbert Fiorentino",
+   "role": "CEOs of Systemax and TigerDirect, 2008",
+   "text": "Bought the name, the website and 16 stores. Leeds retired the brand in 2012.[^16][^19]"
+  }
+ ]
+}

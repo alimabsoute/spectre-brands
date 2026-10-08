@@ -1,0 +1,104 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The company",
+   "text": "3DO said after the auction that it would wind down, distribute what remained to creditors and that shareholders should expect nothing.[^16] The SEC revoked the registration of its shares on December 23, 2008, describing it as a void Delaware corporation whose bankruptcy case was still pending.[^17]"
+  },
+  {
+   "status": "Sold",
+   "color": "var(--blue)",
+   "title": "Might and Magic",
+   "text": "Ubi Soft’s winning bid for the Heroes of Might and Magic franchise was **$1.3M**.[^30] It was the oldest of 3DO’s brands, bought with New World Computing in 1996.[^4]"
+  },
+  {
+   "status": "Sold",
+   "color": "var(--blue)",
+   "title": "Army Men",
+   "text": "Crave Entertainment paid **$750,000** for the series that had been 31% of 3DO’s revenue in fiscal 1999.[^31][^4]"
+  },
+  {
+   "status": "Sold",
+   "color": "var(--blue)",
+   "title": "High Heat Baseball and the rest",
+   "text": "Microsoft took High Heat Baseball, reportedly for $450,000. Namco paid $1.5M for the unfinished Street Racing Syndicate and JoWooD about $90,000 for Jacked.[^30][^31][^32]"
+  },
+  {
+   "status": "Bought back",
+   "color": "var(--gold)",
+   "title": "Trip Hawkins",
+   "text": "The founder was among the winning bidders at his own company’s auction: $200,000 for older titles and $205,000 for internet patents. He resigned from the board on August 29, 2003.[^16][^31] The trade press later described him as the founder of Electronic Arts and Digital Chocolate.[^38]"
+  },
+  {
+   "status": "Re-released",
+   "color": "var(--green)",
+   "title": "The older games",
+   "text": "In April 2020 Ziggurat Interactive bought more than 30 titles “originally owned by The 3DO Company and its affiliates”, among them Killing Time, Captain Quazar and Requiem: Avenging Angel, from Prism Entertainment of Palo Alto, and put them on Steam and GOG.[^33][^34]"
+  },
+  {
+   "status": "Disputed",
+   "color": "var(--mute)",
+   "title": "The name",
+   "text": "In July 2026 a company trading as Empire Interactive announced it had acquired “the trademark and select intellectual property rights of The 3DO Company” and talked of a new console. Throwback Entertainment, a Canadian firm, replied that it owns the 3DO trademark and the 3DO.com domain. Empire withdrew within a week, citing “the likelihood of prolonged legal disputes.”[^35][^36][^37] We have not checked either claim against a trademark register."
+  },
+  {
+   "status": "Shelved",
+   "color": "var(--mute)",
+   "title": "M2",
+   "text": "Matsushita stopped work on the M2 console in July 1997. Its president said the technology might be used in information or multimedia equipment.[^26]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name, and the things that carried it",
+   "subtitle": "The hardware, the games and the trademark went separate ways.",
+   "nodes": [
+    {
+     "when": "Sep 1992",
+     "owner": "The 3DO Company",
+     "what": "SMSG, Inc., founded a year earlier, takes the 3DO name.[^1]"
+    },
+    {
+     "when": "Dec 1995",
+     "owner": "Matsushita (M2 only)",
+     "what": "Takes an exclusive, perpetual licence to the next-generation M2 design. It never ships an M2 console.[^1][^26]",
+     "price": "$100M"
+    },
+    {
+     "when": "Jun 1997",
+     "owner": "Samsung (hardware group)",
+     "what": "Buys most of the hardware systems group’s assets. 3DO keeps its name and becomes a publisher.[^3]",
+     "price": "$20M"
+    },
+    {
+     "when": "May 2003",
+     "owner": "The 3DO Company, in Chapter 11",
+     "what": "Files in the Northern District of California, cases 03-31580 and 03-31581.[^16]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Aug 2003",
+     "owner": "Seven auction winners",
+     "what": "Namco, JoWooD, Crave, Microsoft, Patent Purchase Manager, Ubi Soft and Trip Hawkins divide the games and patents.[^16]",
+     "price": "$4.585M"
+    },
+    {
+     "when": "Apr 2020",
+     "owner": "Ziggurat Interactive (older games)",
+     "what": "Buys more than 30 former 3DO titles from Prism Entertainment. The price was not disclosed in the announcement.[^33]"
+    },
+    {
+     "when": "Jul 2026",
+     "owner": "Disputed",
+     "what": "Empire Interactive and Throwback Entertainment each claim a 3DO trademark. No product is on sale under the name.[^35]",
+     "status": "current"
+    }
+   ],
+   "source": "3DO’s SEC filings[^1][^3][^16], GameSpot[^26], Ziggurat Interactive[^33] and Time Extension[^35]. The filings do not say which auction lot, if any, included the 3DO trademark itself."
+  }
+ ]
+}

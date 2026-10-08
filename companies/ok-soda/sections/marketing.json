@@ -1,0 +1,79 @@
+{
+ "kicker": "Marketing",
+ "title": "The campaign was the product",
+ "lede": "Almost everything written about OK is about how it was sold. The methods were unusual for a soft drink in 1994: mail, a telephone line, text on a black screen, and a brand voice that mocked the claims brands make.",
+ "blocks": [
+  {
+   "kind": "counters",
+   "title": "The campaign in numbers",
+   "items": [
+    {
+     "value": "1M+",
+     "text": "calls to 1-800-I-FEEL-OK by September 1994, according to Coca-Cola[^8]"
+    },
+    {
+     "value": "50+",
+     "text": "can designs put to focus groups; they could not agree, so four were used[^6]"
+    },
+    {
+     "value": "10",
+     "text": "points in the OK manifesto, written by Peter Wegner of Wieden & Kennedy[^13]"
+    },
+    {
+     "value": "6",
+     "text": "“close friends” each chain letter asked its recipient to show it to[^6]"
+    }
+   ]
+  },
+  {
+   "kind": "drawing",
+   "art": "art/phone.svg",
+   "title": "A hotline that answered back",
+   "body": "Callers could listen to other callers, leave a message or take the “OK Personality Inventory,” a true-or-false test read in what Time called “ironic tones.” A sample statement: “Sometimes people who feel OK don’t deserve it.”[^6] The Believer traces the test to the Minnesota Multiphasic Personality Inventory and the hotline to an art project, Allan Bridge’s Apology Line.[^13]\n\nCallers were warned that their comments “may be used in advertising or exploited in some other way we haven’t figured out yet.”[^13] They were. “Carbonated tree sap” went from a voicemail into the ads.[^8]",
+   "caption": "Both of Coca-Cola’s Minneapolis focus groups kept calling the 800 number from the observation room.[^6] Original illustration."
+  },
+  {
+   "kind": "drawing",
+   "art": "art/letter.svg",
+   "title": "Chain letters, then chain letters on television",
+   "body": "The letters went out about two weeks before the ads. They promised the usual rewards of a chain letter in the brand’s deadpan: a recipient in North Dakota who followed the instructions found within a month that he had “appeared on nationally syndicated talk shows as an unlikely sex symbol.”[^6]\n\nThe television spots then read the letters aloud over scrolling typewriter text. A follow-up spot reported complaints from a group called Americans Mad About OK, which did not exist.[^13] Wegner told The Washington Post that critics were taking it too literally: “It’s a game. We’re just playing a more sophisticated game.”[^8]",
+   "caption": "Recipients could keep the chain going by mailing the letter or by showing it to six friends.[^6] Original illustration."
+  },
+  {
+   "kind": "video",
+   "video": "all"
+  },
+  {
+   "kind": "table",
+   "title": "From the manifesto",
+   "subtitle": "Five of the ten points, as printed in The Believer. Several appeared on the cans.",
+   "columns": [
+    "No.",
+    "Text"
+   ],
+   "rows": [
+    [
+     "1",
+     "What’s the point of OK? Well, what’s the point of anything?"
+    ],
+    [
+     "4",
+     "OK Soda says, “Don’t be fooled into thinking there has to be a reason for everything.”"
+    ],
+    [
+     "7",
+     "There is no real secret to feeling OK."
+    ],
+    [
+     "9",
+     "Never overestimate the remarkable abilities of “OK” brand soda."
+    ],
+    [
+     "10",
+     "Please wake up every morning knowing that things are going to be OK."
+    ]
+   ],
+   "source": "Michael Schulman, The Believer, Feb 2014.[^13] Versions of points 1 and 4 are also quoted from the cans by Time in 1994 and 1997.[^6][^10]"
+  }
+ ]
+}

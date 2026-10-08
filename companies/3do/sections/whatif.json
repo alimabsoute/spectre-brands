@@ -1,0 +1,27 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Four decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "Launch at $399",
+   "actual": "Panasonic’s machine launched at $699 in October 1993 and was cut to $399 about a year later.[^20][^23] That December Sony introduced the PlayStation in Japan at $399.[^23]",
+   "whatif": "A $399 launch would have needed someone to absorb $300 a unit (derived: $699 − $399). 3DO had raised $47.5M in its offering[^1]; that sum would have covered the gap on fewer than 160,000 machines (derived: $47.5M ÷ $300). The model had no one whose job it was to pay."
+  },
+  {
+   "tab": "Build it yourself",
+   "actual": "3DO licensed the design and left manufacturing, pricing and distribution to Matsushita, Goldstar and others.[^1] In 1996 Hawkins said the company had not had “control of the basket.”[^25]",
+   "whatif": "Sega and Nintendo sold their own hardware and charged developers $9 to $12 a game.[^23] Doing the same would have given 3DO control of the price. It would also have required far more capital than a start-up with a $3 royalty could raise."
+  },
+  {
+   "tab": "Stop after M2",
+   "actual": "Matsushita’s $100M fee and Samsung’s $20M produced net income of $13.3M and $22.5M in fiscal 1997 and 1998.[^1][^3][^4] 3DO then built a publishing business that lost $13.2M, made $0.2M, and lost $77.0M and $47.3M in the next four years.[^4][^6][^7]",
+   "whatif": "Winding down in 1998 with the hardware proceeds would have left shareholders something. Instead the company raised another $46.4M in 1999[^5] and ended with an auction that brought $4.6M and nothing for the shares.[^16]"
+  },
+  {
+   "tab": "Sell at the peak",
+   "actual": "In the March 2000 quarter the shares closed as high as $15.81 and revenue for the year was $122.2M.[^5] Three months later came the profit warning.[^27] By May 2003 the company was looking for a buyer from inside Chapter 11.[^14]",
+   "whatif": "A sale or merger in early 2000 would have been made from strength. The Might and Magic, Army Men and High Heat brands fetched $2.5M between them in 2003 (derived: $1.3M + $0.75M + $0.45M).[^30][^31][^32]"
+  }
+ ]
+}

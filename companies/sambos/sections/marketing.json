@@ -1,0 +1,87 @@
+{
+ "kicker": "The brand",
+ "title": "A name defended in court, then changed three times",
+ "lede": "The company spent a decade and tens of millions of dollars on a name that part of the public read as an insult. This section sets out what the record says about that name. We have no figure for what the controversy cost in sales, and we do not guess.",
+ "blocks": [
+  {
+   "kind": "text",
+   "title": "Where the name came from",
+   "body": "The company’s account never changed: “Sam” from Sam Battistone and “Bo” from F. Newell Bohnett.[^1][^2] The facts agreed in the Ann Arbor case add that the name was chosen because it “conjured up associations with pancakes.”[^12] For years the restaurants used the children’s book openly. Signs at many older restaurants showed a boy, and murals of the story lined the walls; the company said in 1978 that restaurants opened in the previous four years used only tigers.[^1] By 1979 the chain’s symbol was a tiger.[^2]\n\nThe word itself was the problem. The Urban League’s Emergy Jackson told the Times in 1978 that it had been a derogatory term for Black people long before the book was written.[^1] Rhode Island’s Commission for Human Rights found that the name had the effect of telling Black people they were unwelcome.[^18]"
+  },
+  {
+   "kind": "keyfacts",
+   "caption": "The name in numbers",
+   "compact": true,
+   "rows": [
+    {
+     "value": "$31M",
+     "text": "and more spent on national advertising between 1971 and the Ann Arbor trial[^12]"
+    },
+    {
+     "value": "214",
+     "text": "of 238 people surveyed for Rhode Island’s commission said they would avoid the restaurants because of the name[^4]"
+    },
+    {
+     "value": "6 years",
+     "text": "the Ann Arbor restaurant traded as the Jolly Tiger before the company put up Sambo’s signs[^12]"
+    },
+    {
+     "value": "70",
+     "text": "restaurants first planned for New England, a target cut back as hearings dragged on[^1]"
+    }
+   ],
+   "source": "Sambo’s Restaurants v. City of Ann Arbor[^12], UPI[^4] and The New York Times[^1]. In the Rhode Island survey 89% of those asked were Black; 214 of 238 is 90% (derived).[^4]"
+  },
+  {
+   "kind": "bars",
+   "title": "Three replacement names",
+   "subtitle": "Restaurants trading under each substitute name, at the date a source gives a count.",
+   "format": "num",
+   "itemLabel": "Name",
+   "valueLabel": "Restaurants",
+   "items": [
+    {
+     "label": "Jolly Tiger (by March 1981)",
+     "value": 13,
+     "color": "grey",
+     "note": "A trademark the company already owned[^1][^3]"
+    },
+    {
+     "label": "No Place Like Sam’s (March 1981)",
+     "value": 18,
+     "color": "gold",
+     "note": "Massachusetts, Connecticut, New Hampshire[^3]"
+    },
+    {
+     "label": "No Place Like Sam’s (August 1981)",
+     "value": 100,
+     "display": "more than 100",
+     "color": "gold",
+     "note": "Time’s count[^6]"
+    },
+    {
+     "label": "Season’s (late 1982)",
+     "value": 600,
+     "display": "more than 600",
+     "self": true,
+     "note": "After the bankruptcy filing[^13]"
+    }
+   ],
+   "source": "The New York Times[^1][^3][^13] and Time[^6]. The last two bars are lower bounds: the sources say “more than.”"
+  },
+  {
+   "kind": "video",
+   "video": "c75"
+  },
+  {
+   "kind": "text",
+   "title": "Did the name kill it?",
+   "body": "Contemporary reporting says no, or not mainly. The Times wrote in 1978 that the earnings decline was “not directly tied to the controversy over the company’s name,” and its 1981 analysis of the collapse, headlined “Mistakes at Sambo’s,” does not mention the name at all.[^1][^9] The Los Angeles Times concluded in 1998 that the chain’s demise “had more to do with financial mismanagement than with African American opposition to the concept.”[^18]\n\nThe name still cost something. Protests led to long licensing hearings, a closed restaurant in Reading in which the company had invested $800,000, and a shrinking plan for New England.[^1] The restaurants renamed Jolly Tiger did less well than those under the old name, the Times reported.[^2] And a chain that tried three replacement names gave up the recognition its advertising had bought."
+  },
+  {
+   "kind": "quote",
+   "text": "There can be no doubt that the name “Sambo’s” is offensive and harms the general community by promoting racial insensitivity.",
+   "who": "Judge Damon J. Keith, dissenting, Sambo’s Restaurants v. City of Ann Arbor, Nov 4, 1981[^12]"
+  }
+ ]
+}

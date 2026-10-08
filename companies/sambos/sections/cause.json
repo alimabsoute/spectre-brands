@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "The incentive plan, and the way it ended",
+   "text": "Managers’ payments were booked as income until the SEC objected in 1977. The company restated 20 years of earnings and imposed a less generous formula. More than 70% of managers resigned within two years, former managers sued, and an analyst called the abrupt end of the plan the company’s most critical mistake.[^2][^6][^9]"
+  },
+  {
+   "weight": 20,
+   "title": "Growth that needed more growth",
+   "text": "The chain went from 67 restaurants to 869 in ten years and passed 1,000 in 1978. The Times wrote that it had to add restaurants at an ever faster rate to keep income from the plan rising. In 1981 the new management sued 28 former officials, charging that they had inflated profits and expanded too rapidly.[^1][^6][^9]"
+  },
+  {
+   "weight": 20,
+   "title": "Debt and impatient lenders",
+   "text": "By late 1979 Sambo’s had about $100M of obligations and was in technical default. It missed the first $4.8M instalment of a restructured $100M loan in September 1981, and the 17 lenders’ notice of default prompted the Chapter 11 filing.[^2][^10]"
+  },
+  {
+   "weight": 15,
+   "title": "The name",
+   "text": "Lawsuits, licence refusals and a state human rights order slowed expansion in the Northeast and tied up management for a decade. The company won in the Sixth Circuit and still tried three replacement names, giving up a name on which it had spent more than $31M in advertising.[^1][^3][^4][^12][^13]"
+  },
+  {
+   "weight": 10,
+   "title": "A turnaround that cut and rebranded",
+   "text": "City Investing’s team cut costs and staff while losses continued, then closed 447 restaurants in under three weeks. The Season’s format that followed fell short of what a court examiner said it needed, and the estate was sold off in pieces.[^8][^9][^13][^14]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The press of the time documents the symptoms. How much each one contributed, and how far the name deepened the financial trouble, is a matter of opinion."
+}

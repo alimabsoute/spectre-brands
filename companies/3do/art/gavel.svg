@@ -1,0 +1,21 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of an auction gavel above three game boxes, each with a paper lot tag">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 268h320" stroke="#b9b2a4" stroke-width="2" stroke-dasharray="3 8"/>
+<g transform="rotate(-28 190 70)">
+<rect x="150" y="40" width="80" height="44" rx="8" fill="#b5651d"/>
+<path d="M164 40v44M216 40v44" stroke-width="2.5"/>
+<rect x="182" y="84" width="16" height="96" rx="6" fill="#d9a441"/>
+</g>
+<path d="M256 52l14-8M268 74l16 2M246 34l6-14" stroke="#8a8378" stroke-width="2.5"/>
+<rect x="36" y="168" width="78" height="100" rx="3" fill="#3f8a5a"/>
+<path d="M50 190h50M50 204h34" stroke="#cfe8d6" stroke-width="2.5"/>
+<rect x="140" y="168" width="78" height="100" rx="3" fill="#1f5fae"/>
+<path d="M154 190h50M154 204h34" stroke="#dbe7f7" stroke-width="2.5"/>
+<rect x="244" y="168" width="78" height="100" rx="3" fill="#c0341d"/>
+<path d="M258 190h50M258 204h34" stroke="#f6d9d2" stroke-width="2.5"/>
+<g fill="#fbf9f5" stroke-width="2.5">
+<path d="M56 228h40l8 12-8 12H56Z"/><path d="M160 228h40l8 12-8 12h-40Z"/><path d="M264 228h40l8 12-8 12h-40Z"/>
+</g>
+<path d="M66 240h20M170 240h20M274 240h20" stroke-width="2"/>
+<circle cx="62" cy="240" r="1.5" fill="#1d1b18"/><circle cx="166" cy="240" r="1.5" fill="#1d1b18"/><circle cx="270" cy="240" r="1.5" fill="#1d1b18"/>
+</g></svg>

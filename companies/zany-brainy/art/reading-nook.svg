@@ -1,0 +1,19 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a child sitting on a carpet reading a book beside a low shelf of books and toys, under a hanging category banner">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="20" y="250" width="400" height="56" rx="6" fill="#cfe6d6"/>
+<path d="M150 20 V44 M290 20 V44"/><path d="M130 44 H310 V92 L220 80 L130 92 Z" fill="#f2b632"/>
+<rect x="158" y="56" width="124" height="10" rx="5" fill="#fbf9f5"/>
+<rect x="40" y="150" width="200" height="100" fill="#fbf9f5"/><path d="M40 200 H240"/>
+<rect x="52" y="162" width="14" height="38" fill="#e2483d"/><rect x="66" y="156" width="14" height="44" fill="#2f8fd0"/><rect x="80" y="166" width="14" height="34" fill="#3fa66b"/><rect x="94" y="160" width="14" height="40" fill="#f2b632"/><rect x="108" y="164" width="14" height="36" fill="#6a3fa0"/>
+<circle cx="160" cy="182" r="16" fill="#2f8fd0"/><path d="M150 176 q8 6 3 14 M164 168 q8 8 2 16" fill="#3fa66b"/>
+<path d="M196 200 L208 170 L220 200 Z" fill="#e2483d"/>
+<rect x="54" y="214" width="24" height="24" fill="#f2b632"/><rect x="78" y="214" width="24" height="24" fill="#3fa66b"/>
+<rect x="120" y="212" width="46" height="28" rx="4" fill="#6a3fa0"/><circle cx="130" cy="240" r="6" fill="#1d1b18"/><circle cx="156" cy="240" r="6" fill="#1d1b18"/>
+<rect x="184" y="210" width="40" height="30" fill="#e3f1fb"/><path d="M190 232 l8 -10 l8 6 l10 -12"/>
+<ellipse cx="330" cy="262" rx="62" ry="22" fill="#e2483d"/>
+<path d="M300 258 q-6 -44 30 -46 q36 2 30 46 Z" fill="#2f8fd0"/>
+<circle cx="330" cy="188" r="22" fill="#f6d3b0"/><path d="M310 182 q20 -26 40 0" fill="#6b4226"/>
+<circle cx="322" cy="190" r="1.8" fill="#1d1b18"/><circle cx="338" cy="190" r="1.8" fill="#1d1b18"/><path d="M324 198 q6 5 12 0"/>
+<path d="M296 244 L330 236 L364 244 V222 L330 214 L296 222 Z" fill="#fbf9f5"/><path d="M330 214 V236"/>
+<path d="M304 232 q-12 4 -8 12 M356 232 q12 4 8 12"/>
+</g></svg>

@@ -1,0 +1,102 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Retired",
+   "color": "var(--mute)",
+   "title": "The name",
+   "text": "No restaurant we could find trades as Sambo’s. The original gave up the name in July 2020.[^26] The company’s 1981 federal registration was cancelled in 1989, and a 2010 application by a Santa Barbara company was abandoned the same year.[^21][^22] We did not search every trademark record, so we cannot say that nobody holds a claim to it."
+  },
+  {
+   "status": "Open",
+   "color": "var(--green)",
+   "title": "The first restaurant",
+   "text": "The building at 216 West Cabrillo Boulevard serves breakfast and lunch as Chad’s, run by the founder’s grandson. Its website says it has been serving “since 1957.”[^26][^28]"
+  },
+  {
+   "status": "Converted",
+   "color": "var(--blue)",
+   "title": "The restaurants",
+   "text": "Vicorp took 166 in 1984 to turn into Village Inn and Bakers Square, a job that took almost four years instead of two and depressed its profits.[^14][^15] Others became Godfather’s Pizza and Denny’s restaurants.[^13][^24][^31] Old buildings are still recognisable; one in Alpena, Michigan was a Big Boy in 2010.[^32]"
+  },
+  {
+   "status": "Sold off",
+   "color": "var(--red)",
+   "title": "The company",
+   "text": "Sambo’s Restaurants Inc. went into Chapter 11 on November 27, 1981 and its restaurants were sold by a trustee.[^14][^16] What creditors and shareholders finally received is not in our sources."
+  },
+  {
+   "status": "Unresolved",
+   "color": "var(--gold)",
+   "title": "The lawsuits",
+   "text": "Former managers won at least one verdict, of $925,000, and ten other cases were settled in 1980.[^6] The $100M suit against the founders and the 1981 fraud indictments appear in our sources only when they were filed; we do not know how they ended.[^6][^8]"
+  },
+  {
+   "status": "Cited",
+   "color": "var(--green)",
+   "title": "The court cases",
+   "text": "Later courts have cited Sambo’s Restaurants v. City of Ann Arbor on commercial speech and the waiver of constitutional rights, and Sambo’s Restaurants v. Wheeler on informal proofs of claim in bankruptcy, both as recently as 2017 according to the case database we used.[^12][^16]"
+  },
+  {
+   "status": "Closed",
+   "color": "var(--mute)",
+   "title": "The other Sambo’s",
+   "text": "Lil’ Sambo’s in Lincoln City, Oregon, a diner that said it was never part of the chain, faced the same petition in 2020, kept its name and closed in November 2022 when its manager retired from the business.[^27]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "subtitle": "From two partners to a public company, a conglomerate, a bankruptcy trustee and back to the family.",
+   "nodes": [
+    {
+     "when": "1957",
+     "owner": "Sam Battistone and F. Newell Bohnett",
+     "what": "Open the first restaurant in Santa Barbara.[^17]"
+    },
+    {
+     "when": "1969",
+     "owner": "Sambo’s Restaurants Inc., public",
+     "what": "The company’s shares begin trading.[^9]"
+    },
+    {
+     "when": "1979–80",
+     "owner": "City Investing, 34%",
+     "what": "Buys in through its GDV unit and installs new management. The public company still owns the name.[^2][^6]",
+     "price": "$29M"
+    },
+    {
+     "when": "Nov 1981",
+     "owner": "Sambo’s Restaurants Inc., in Chapter 11",
+     "what": "Files with 667 restaurants left. Most are renamed Season’s within a year.[^10][^13]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Aug 1984",
+     "owner": "Vicorp Restaurants",
+     "what": "Buys 166 restaurants from the trustee, the original among them by a later account, to convert to its own brands.[^14][^17]",
+     "price": "$54.8M"
+    },
+    {
+     "when": "About 1986",
+     "owner": "The Battistone family",
+     "what": "Sam D. Battistone buys back the Santa Barbara restaurant, the only one still called Sambo’s. The price is not in our sources.[^17]"
+    },
+    {
+     "when": "1998",
+     "owner": "Chad Stevens",
+     "what": "The founder’s grandson takes over the restaurant.[^24]"
+    },
+    {
+     "when": "Jul 2020",
+     "owner": "Name retired",
+     "what": "The restaurant becomes Chad’s. No one we could find uses the old name.[^26]",
+     "status": "current"
+    }
+   ],
+   "source": "The New York Times[^2][^9][^10][^13], Time[^6], UPI[^14], Deseret News[^17] and KEYT.[^24][^26] That Vicorp held the Santa Barbara restaurant rests on the 1994 Deseret News account, which calls the company “Vicor.”"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it, and who owned it",
+ "lede": "Roles are given as the sources describe them. Later careers are included only where we found a source.",
+ "people": [
+  {
+   "name": "Frederick August Otto Schwarz",
+   "role": "Founder, 1862",
+   "text": "He arrived from Westphalia, opened in Baltimore six years later and moved the business to New York in 1870.[^1]"
+  },
+  {
+   "name": "Peter L. Harris",
+   "role": "Co-owner from 1985–86; led the company until 1992",
+   "text": "A veteran of Lucky Stores who bought the company with Peter C. Morse, moved the flagship to 767 Fifth Avenue and stayed on after the sale to KBB.[^9]",
+   "later": "He stepped down in 1992 and was later named president of the San Francisco 49ers, according to the same history.[^9]"
+  },
+  {
+   "name": "John Eyler",
+   "role": "Top executive, 1992–2000",
+   "text": "He came from Hartmarx Specialty Stores and was credited with raising the share of exclusive merchandise.[^9]",
+   "later": "He left in January 2000 to become president and chief executive of Toys “R” Us. FAO Schwarz sued both.[^9]"
+  },
+  {
+   "name": "Jerry R. Welch",
+   "role": "President and chief executive, The Right Start / FAO Inc.",
+   "text": "He put the three chains together and was still president and chief executive at the second filing. In January 2004 he said the two surviving stores would reopen after four to six months of renovation.[^7][^8][^11][^16]"
+  },
+  {
+   "name": "David E. Shaw",
+   "role": "Chairman, D. E. Shaw & Co.",
+   "text": "His firm held about 47% of FAO Inc.’s voting equity and bought the brand from the estate.[^8] “The holidays just wouldn’t be the same without FAO Schwarz,” he said before the 2004 reopening.[^18]"
+  },
+  {
+   "name": "David Niggli",
+   "role": "President of FAO Schwarz, Inc. from April 2002",
+   "text": "He had spent 15 years at F.A.O. Schwarz, including as chief operating officer.[^1]",
+   "later": "Chief merchandising officer of the revived brand in 2018 and in 2026.[^29][^30]"
+  },
+  {
+   "name": "Kirk McLean",
+   "role": "Co-founder, ThreeSixty Group",
+   "text": "He told Fortune in 2016 that the plan was to take the brand beyond plush toys, and that a store might return.[^26]"
+  }
+ ]
+}

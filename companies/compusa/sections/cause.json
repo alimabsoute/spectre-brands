@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "The computer became a commodity",
+   "text": "Sales per square foot fell from $1,405 in fiscal 1996 to $1,139 in fiscal 1999, and average sales per store fell about 15% in the last of those years, while the number of computers sold went up. The company blamed lower selling prices and a shift to lower-end machines, and wrote that buyers “require less assistance” and had become “increasingly price sensitive.”[^2] A store built to explain the product had less to explain."
+  },
+  {
+   "weight": 25,
+   "title": "Broader stores and direct sellers took the customer",
+   "text": "Best Buy was about CompUSA’s size in fiscal 1992 and half again as large by fiscal 1999. It reported a gross margin of 19.2% of revenues for its fiscal 2000; CompUSA’s was 12.7% in fiscal 1999.[^1][^2][^23] CompUSA’s own list of competitors named electronics and office chains, manufacturers selling direct, internet retailers and mass merchants.[^2] The AP’s 2007 obituary named “big-box retailers such as Best Buy.”[^13]"
+  },
+  {
+   "weight": 15,
+   "title": "A business with no margin for error",
+   "text": "The best year, fiscal 1997, earned 2.0% of sales. Gross margin fell from 14.3% that year to 12.7% two years later, and a 1.6-point fall was enough to turn a $93.9M profit into a loss once restructuring charges were added.[^2]"
+  },
+  {
+   "weight": 15,
+   "title": "Computer City and the 1999 overhaul",
+   "text": "CompUSA paid about $175M for a rival, closed 59 of its 96 U.S. stores and kept 37 that sold $711 a square foot. The same year it wrote off its corporate fulfilment operation and dismissed about 2,200 salespeople. Special charges were $55.9M in fiscal 1998 and $93.8M in fiscal 1999.[^2][^3]"
+  },
+  {
+   "weight": 10,
+   "title": "Seven private years without a fix",
+   "text": "Under Grupo Sanborns and its affiliates the chain lost money in 2000 and 2001, bought Good Guys in 2003 and, in the AP’s words, “went through several CEOs and tried different turnaround strategies.” It still had about 225 stores in February 2007, when it closed 126 of them at once.[^9][^10][^13][^12]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings document the symptoms up to 1999; for the private years we rely on the owners’ filings and press reports. How much each cause contributed is a matter of opinion."
+}

@@ -1,0 +1,121 @@
+{
+ "name": "Kozmo.com",
+ "number": "018",
+ "tier": "ghost",
+ "tierWhy": "Kozmo.com, Inc. shut down and began liquidating on April 11, 2001, but the name did not stay buried: Yummy Foods, LLC of Los Angeles registered the KOZMO trademark in 2011, relaunched kozmo.com as a grocery delivery site in 2018 and renewed the registrations in 2022. The site did not load when we checked in October 2026.[^3][^23][^25][^27]",
+ "category": "dotcom",
+ "cause": "unit-economics",
+ "years": "1998 – 2001",
+ "died": 2001,
+ "dates": [
+  {
+   "date": "2000-03-21",
+   "text": "filed with the SEC to go public on the Nasdaq as KZMO, seeking up to $150 million"
+  },
+  {
+   "date": "2000-08-18",
+   "text": "withdrew its IPO filing, citing unfavorable market conditions"
+  },
+  {
+   "date": "2001-04-11",
+   "text": "stopped deliveries in all nine cities and laid off about 1,100 employees"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "One-hour delivery of videos, snacks and sundries · New York, New York",
+ "title": "Kozmo.com (1998–2001): post-mortem · Spectre Brands",
+ "description": "Free delivery in under an hour, no minimum order, and $232 million of venture money. A sourced post-mortem of Kozmo.com, built from its own IPO filing, contemporary press and the archived website.",
+ "theme": {
+  "accent": "#b54708",
+  "soft": "#eff5df"
+ },
+ "card": {
+  "blurb": "Orange-jacketed couriers brought New Yorkers a video and a pint of ice cream in under an hour, free, with no minimum. Its own IPO filing shows that in late 1999 delivery staff cost more per order than the order brought in.",
+  "stat": {
+   "value": "$26.4M",
+   "label": "lost in 1999, on $3.5M of sales"
+  },
+  "spark": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   8,
+   11,
+   9,
+   0
+  ],
+  "peak": 6,
+  "logo": "img/logo-2001.avif",
+  "logoYear": "2001"
+ },
+ "hero": {
+  "dates": "First delivery center opened in New York in March 1998. Shut down Apr 11, 2001.",
+  "standfirst": "“From the Internet to your door in under an hour.” The delivery was free, and that was the problem.",
+  "deck": "Two bankers in their twenties started Kozmo.com to bring rented videos to Manhattan apartments by bicycle. Within two years it had Amazon and Starbucks as shareholders, 2,665 employees and a filing to go public. The filing never became an offering. It is still the best record of the business, and it shows a company whose delivery expense, mostly courier pay, was larger than its sales in the last quarter of 1999. This post-mortem is built from that filing, the press of 2000 and 2001, trademark records and the archived website.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a bicycle courier in an orange jacket. Not an official asset and not a likeness of any real person.",
+  "motion": "drive",
+  "archive": [
+   {
+    "image": "img/archive-1999-12-category.avif",
+    "caption": "Video catalogue, Dec 1999",
+    "alt": "Kozmo.com science fiction video rental page, December 1999"
+   },
+   {
+    "image": "img/archive-2000-04-home.avif",
+    "caption": "Home page, Apr 2000",
+    "alt": "Kozmo.com home page asking for a delivery zip code, April 2000"
+   },
+   {
+    "image": "img/archive-2001-04-closed.avif",
+    "caption": "Closing notice, Apr 2001",
+    "alt": "Kozmo.com closing notice, April 2001"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "$232.3M",
+    "text": "in cash raised from private investors by March 2000, by the company’s own count[^1]"
+   },
+   {
+    "value": "$7.51",
+    "text": "lost for every $1 of sales in 1999 (derived from the IPO filing)[^1]"
+   },
+   {
+    "value": "11",
+    "text": "cities served at the peak, in August and September 2000[^14][^15]"
+   },
+   {
+    "value": "1,100",
+    "text": "employees laid off when it closed on April 11, 2001[^3][^4]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The courier cost more than the order.",
+   "text": "In the fourth quarter of 1999 Kozmo took in $11.92 per order and spent $12.84 per order on delivery staff alone (both derived from its IPO filing). Gross profit per order was $4.72.[^1]"
+  },
+  {
+   "title": "The price was a promise it could not keep.",
+   "text": "In February 2000 there was no delivery fee and no minimum order. A fee of about $2 on small orders arrived in January 2001, three months before the end.[^12][^18]"
+  },
+  {
+   "title": "It signed commitments sized for a company it never became.",
+   "text": "The Starbucks agreement called for $150M over five years. Kozmo’s sales in the year before it signed were $3.5M.[^1][^19]"
+  },
+  {
+   "title": "The IPO window closed with the filing on the table.",
+   "text": "The registration was filed on March 21, 2000 and withdrawn on August 18, with no shares sold.[^1][^2]"
+  },
+  {
+   "title": "The name outlived the company.",
+   "text": "A Los Angeles grocer registered KOZMO in 2011 and relaunched the site in 2018 with a $35 minimum and a $5.99 delivery fee.[^23][^24][^25]"
+  }
+ ]
+}

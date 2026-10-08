@@ -1,0 +1,83 @@
+{
+ "kicker": "Brand gallery",
+ "title": "Tile roof, green awnings, a row of discs",
+ "label": "Brand gallery",
+ "lede": "Two freely licensed photographs: the first restaurant while it still carried the name, and one of the hundreds of buildings that outlived it. The drawings are our own. None of them reproduces the chain’s logo or its mascots.",
+ "archive": [
+  {
+   "image": "img/santa-barbara-2005.avif",
+   "date": "2005",
+   "caption": "The original restaurant at 216 West Cabrillo Boulevard, Santa Barbara, then the only one left.",
+   "alt": "A tile-roofed restaurant with green awnings, palm trees and a rooftop sign of round discs spelling Sambo’s",
+   "credit": "Photo: Antandrus, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sambos.jpg), public domain."
+  },
+  {
+   "image": "img/former-alpena-2010.avif",
+   "date": "2010",
+   "caption": "A former Sambo’s in Alpena, Michigan, operating as a Big Boy.",
+   "alt": "A low brick restaurant with a shingled roof and a Big Boy statue at the door",
+   "credit": "Photo: TenPoundHammer, cropped by Ubcule, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Big_Boy_former_Sambos_cropped.jpg), CC BY 2.0."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "compare",
+   "title": "The one that kept the name, and one that did not",
+   "ratio": "3/2",
+   "before": {
+    "label": "Santa Barbara, 2005",
+    "image": "img/santa-barbara-2005.avif",
+    "caption": "The first restaurant, still under the original name.[^32]",
+    "alt": "The Santa Barbara restaurant with its rooftop sign in 2005"
+   },
+   "after": {
+    "label": "Alpena, Mich., 2010",
+    "image": "img/former-alpena-2010.avif",
+    "caption": "A former Sambo’s building, by then a Big Boy.[^32]",
+    "alt": "A former Sambo’s building operating as a Big Boy in 2010"
+   },
+   "source": "Wikimedia Commons photographs by Antandrus (public domain) and TenPoundHammer (CC BY 2.0).[^32] The two photographs show different buildings."
+  }
+ ],
+ "drawings": [
+  {
+   "art": "art/hero.svg",
+   "title": "The product.",
+   "caption": "Pancakes, butter and a mug of coffee. Original illustration, not an official asset."
+  },
+  {
+   "art": "art/fraction.svg",
+   "title": "The fraction.",
+   "caption": "A manager’s 20% share cost $20,000.[^2] Original illustration."
+  },
+  {
+   "art": "art/coffee-shop.svg",
+   "title": "The coffee shop.",
+   "caption": "A roadside coffee shop of the 1970s with a blank sign. Original illustration, not a real restaurant."
+  },
+  {
+   "art": "art/sign-change.svg",
+   "title": "The sign.",
+   "caption": "June 2020: the letters are covered.[^23] Original illustration, not a photograph."
+  }
+ ],
+ "swatches": [
+  {
+   "hex": "#1f6e4d",
+   "label": "Awning green (approx.)"
+  },
+  {
+   "hex": "#b5532a",
+   "label": "Roof-tile red (approx.)"
+  },
+  {
+   "hex": "#e3a651",
+   "label": "Pancake gold (drawing)"
+  },
+  {
+   "hex": "#fbf9f5",
+   "label": "Sign white"
+  }
+ ],
+ "disclaimer": "Colours were matched by eye to the 2005 photograph of the Santa Barbara restaurant, so they are approximate and describe that one building, not the chain’s 1970s signs. Sambo’s, Jolly Tiger, No Place Like Sam’s and Season’s were trademarks of their owners and are discussed here in historical and editorial context. The drawings are original illustrations and are not official assets."
+}

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 300 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original drawing of a grey soda can with a blank, unsmiling face and a red-bordered label box">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M40 356 L260 356" fill="none" stroke="#9aa0a6" stroke-width="2"/>
+<path d="M86 62 L96 40 L204 40 L214 62 L214 330 L204 352 L96 352 L86 330 Z" fill="#7d8288"/>
+<ellipse cx="150" cy="40" rx="54" ry="9" fill="#e6e8eb"/>
+<path d="M138 39 h24" stroke-width="2.4"/>
+<path d="M98 70 L98 326" stroke="#ffffff" stroke-width="5"/>
+<rect x="150" y="78" width="64" height="48" fill="#ffffff" stroke="#b3261e" stroke-width="4"/>
+<text x="182" y="109" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="17" fill="#1d1b18" stroke="none" letter-spacing="1">SODA</text>
+<path d="M112 196 C112 150 132 138 152 138 C174 138 192 152 192 196 L188 250 C184 276 168 290 152 290 C136 290 120 276 116 250 Z" fill="#f1f2f3"/>
+<path d="M112 190 C110 150 130 132 152 132 C176 132 196 150 192 192 C184 170 176 160 152 160 C130 160 120 172 112 190 Z" fill="#1d1b18"/>
+<path d="M126 204 h20 M160 204 h20" stroke-width="2.4"/>
+<ellipse cx="136" cy="214" rx="7" ry="4" fill="#ffffff" stroke-width="2"/><ellipse cx="170" cy="214" rx="7" ry="4" fill="#ffffff" stroke-width="2"/>
+<circle cx="136" cy="214" r="2" fill="#1d1b18" stroke="none"/><circle cx="170" cy="214" r="2" fill="#1d1b18" stroke="none"/>
+<path d="M152 220 L148 242 L156 242" fill="none" stroke-width="2.4"/>
+<path d="M140 262 L166 262" stroke-width="2.6"/>
+<path d="M128 224 q8 5 14 0 M164 224 q8 5 14 0" fill="none" stroke-width="1.6"/>
+<rect x="100" y="304" width="34" height="26" fill="#ffffff" stroke-width="2"/>
+<path d="M105 308 v18 M109 308 v18 M114 308 v18 M117 308 v18 M122 308 v18 M126 308 v18 M129 308 v18" stroke-width="1.6"/>
+<text x="174" y="322" text-anchor="middle" font-family="Inter, sans-serif" font-size="8" fill="#1d1b18" stroke="none" letter-spacing="1">12 FL OZ</text>
+<text x="244" y="150" font-family="Caveat, cursive" font-size="20" fill="#5f6368" stroke="none" transform="rotate(8 244 150)">fine.</text>
+</g></svg>

@@ -1,0 +1,124 @@
+{
+ "name": "FAO Schwarz",
+ "number": "024",
+ "tier": "ghost",
+ "tierWhy": "The company that ran the chain, FAO Inc., sold the name out of its second bankruptcy in January 2004, and the last original store, on Fifth Avenue, closed on July 15, 2015; the name now belongs to ThreeSixty Group, which opened a new, smaller flagship at 30 Rockefeller Plaza in November 2018 and was still running it in September 2026.[^8][^22][^26][^29][^30]",
+ "category": "retail",
+ "cause": "management",
+ "years": "1862 – 2015",
+ "died": 2015,
+ "dates": [
+  {
+   "date": "2003-01-13",
+   "text": "parent FAO Inc. filed for Chapter 11 for the first time"
+  },
+  {
+   "date": "2003-12-04",
+   "text": "parent FAO Inc. filed for Chapter 11 a second time, to sell the brand and liquidate Zany Brainy"
+  },
+  {
+   "date": "2015-07-15",
+   "text": "the Fifth Avenue flagship, its last store, closed"
+  },
+  {
+   "date": "2018-11-16",
+   "text": "a new flagship opened at 30 Rockefeller Plaza under new owners"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Luxury toy stores · New York, New York",
+ "title": "FAO Schwarz (1862–2015): post-mortem · Spectre Brands",
+ "description": "America’s most famous toy store has been sold ten times since 1963, went through two bankruptcies in one year and lost its Fifth Avenue flagship. A sourced post-mortem of FAO Schwarz, built from SEC filings and contemporary press.",
+ "theme": {
+  "accent": "#c8102e",
+  "soft": "#fdeef1"
+ },
+ "card": {
+  "blurb": "The toy store from “Big.” A small catalog retailer bought it with notes and stock in 2002, went bankrupt twice in 2003, and the name has been sold three more times since.",
+  "stat": {
+   "value": "$104.9M",
+   "label": "lost by parent FAO Inc. in fiscal 2002, on sales of $460.4M"
+  },
+  "spark": [
+   32,
+   22,
+   39,
+   40,
+   23,
+   15,
+   2,
+   1,
+   0,
+   1
+  ],
+  "peak": 3
+ },
+ "hero": {
+  "dates": "Founded in Baltimore in 1862. Parent bankrupt twice in 2003. Fifth Avenue flagship closed Jul 15, 2015.",
+  "standfirst": "Everyone wanted to own the most famous toy store in America. Nobody could make its chain of stores pay.",
+  "deck": "FAO Schwarz sold expensive toys from a Fifth Avenue showroom that tourists treated as an attraction, and from 1986 it tried to repeat that store in malls across the country. The Schwarz family sold out in 1963, and the business has been sold nine more times since. The buyer that mattered most was The Right Start, a small catalog retailer that bought 23 stores in January 2002 without paying cash, renamed itself FAO Inc. and filed for Chapter 11 twice in the following year. The flagship outlived it by eleven years. This page is built from the SEC filings of FAO Inc. and Toys “R” Us and from contemporary press; the years before 2001 rest on a reference history, and the page says so where that is the case.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a toy store with a red canopy and a toy-soldier doorman. Not an official asset; the lettering is left blank on purpose.",
+  "motion": "float",
+  "archive": [
+   {
+    "image": "img/store-union-square-1893.avif",
+    "caption": "Union Square, 1893",
+    "alt": "Engraving of the Schwarz Toy Bazar building at 42 East 14th Street"
+   },
+   {
+    "image": "img/store-fifth-avenue.avif",
+    "caption": "767 Fifth Avenue, 2007",
+    "alt": "Glass entrance of FAO Schwarz on Fifth Avenue with a doorman dressed as a toy soldier"
+   },
+   {
+    "image": "img/store-rockefeller.avif",
+    "caption": "30 Rockefeller Plaza, 2025",
+    "alt": "FAO Schwarz store at Rockefeller Plaza with a queue outside"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The brand in four numbers",
+  "rows": [
+   {
+    "value": "23",
+    "text": "stores bought by The Right Start in January 2002, paid for with notes and preferred stock[^1][^2]"
+   },
+   {
+    "value": "$104.9M",
+    "text": "net loss of parent FAO Inc. in fiscal 2002, on net sales of $460.4M[^1]"
+   },
+   {
+    "value": "$40.5M",
+    "text": "cash paid by a D. E. Shaw affiliate for the brand and two stores in January 2004[^8]"
+   },
+   {
+    "value": "$45M",
+    "text": "gain Toys “R” Us booked when it sold the brand in fiscal 2016[^24]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The buyer was smaller than what it bought.",
+   "text": "The Right Start had total revenues of $53.6M in fiscal 2000. Within five months in 2001–02 it bought Zany Brainy and FAO Schwarz; in fiscal 2002 those two brands were 90.9% of its retail sales.[^1]"
+  },
+  {
+   "title": "No cash changed hands.",
+   "text": "The $35.95M purchase price for FAO Schwarz was $15.95M of notes and $20.0M of preferred stock. The deal brought in $407,000 of cash.[^1]"
+  },
+  {
+   "title": "The flagship model did not travel.",
+   "text": "FAO Inc. closed eight of the 23 stores it had bought within 16 months “because they did not perform as well as we expected.”[^1]"
+  },
+  {
+   "title": "Lenders and suppliers set the timetable.",
+   "text": "Suppliers stopped shipping in late 2002, and a notice of default on November 7, 2003 came 27 days before the second filing.[^6][^7][^12]"
+  },
+  {
+   "title": "The name was worth more than the stores.",
+   "text": "After 2004 only two stores survived, then one, then none. Toys “R” Us still booked a $45M gain selling the brand in 2016.[^8][^21][^24]"
+  }
+ ]
+}

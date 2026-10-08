@@ -1,0 +1,12 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a ringing red desk telephone beside a tall stack of letters">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="180" cy="270" rx="150" ry="10" fill="#f6d9d9" stroke="none"/>
+<path d="M50 262 L62 190 C66 172 82 164 100 164 L200 164 C218 164 234 172 238 190 L250 262 Z" fill="#c1121f"/>
+<circle cx="150" cy="216" r="34" fill="#fbf9f5"/><circle cx="150" cy="216" r="12" fill="#1d1b18"/>
+<g fill="#1d1b18" stroke="none"><circle cx="150" cy="190" r="4"/><circle cx="172" cy="203" r="4"/><circle cx="172" cy="229" r="4"/><circle cx="150" cy="242" r="4"/><circle cx="128" cy="229" r="4"/><circle cx="128" cy="203" r="4"/></g>
+<path d="M44 150 C30 120 60 96 96 104 L104 132 L196 132 L204 104 C240 96 270 120 256 150 L226 158 L214 140 L86 140 L74 158 Z" fill="#a50e19"/>
+<path d="M30 92 L18 74 M52 78 L46 56 M270 92 L282 74 M248 78 L254 56 M150 84 L150 60" stroke="#c1121f"/>
+<g fill="#fbf9f5"><rect x="270" y="236" width="70" height="26"/><rect x="266" y="210" width="70" height="26" transform="rotate(-4 301 223)"/><rect x="272" y="184" width="70" height="26" transform="rotate(3 307 197)"/><rect x="268" y="158" width="70" height="26" transform="rotate(-3 303 171)"/><rect x="273" y="132" width="70" height="26" transform="rotate(5 308 145)"/></g>
+<path d="M273 132 L308 148 L343 138" transform="rotate(5 308 145)"/>
+<rect x="326" y="136" width="10" height="8" fill="#c1121f" transform="rotate(5 308 145)"/>
+</g></svg>

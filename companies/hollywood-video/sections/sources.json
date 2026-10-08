@@ -1,0 +1,141 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Primary sources first. SEC filings link to the original text on EDGAR (Hollywood Entertainment Corp., CIK 905895; Movie Gallery, Inc., CIK 925178). Movie Gallery stopped filing after its report for the year to January 6, 2008, so the end of the story rests on wire and local press.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Hollywood Entertainment Corp. — [Form 10-K, FY1996](https://www.sec.gov/Archives/edgar/data/905895/0000893877-97-000199.txt), filed Mar 31, 1997."
+  },
+  {
+   "id": 2,
+   "text": "Hollywood Entertainment Corp. — [Form 10-K, FY1999](https://www.sec.gov/Archives/edgar/data/905895/0000905895-00-000013.txt), filed Mar 30, 2000."
+  },
+  {
+   "id": 3,
+   "text": "Hollywood Entertainment Corp. — [Form 10-K, FY2000](https://www.sec.gov/Archives/edgar/data/905895/000090589501500004/r10k-00.txt), filed Apr 2, 2001."
+  },
+  {
+   "id": 4,
+   "text": "Hollywood Entertainment Corp. — [Form 10-K, FY2001](https://www.sec.gov/Archives/edgar/data/905895/000090589502000005/r10k-01.txt), filed Apr 1, 2002."
+  },
+  {
+   "id": 5,
+   "text": "Hollywood Entertainment Corp. — [Form 10-K, FY2004](https://www.sec.gov/Archives/edgar/data/905895/000090589505000003/r10k-04.txt), filed Mar 17, 2005."
+  },
+  {
+   "id": 6,
+   "text": "Hollywood Entertainment Corp. — [Form 8-K, merger agreement with affiliates of Leonard Green & Partners](https://www.sec.gov/Archives/edgar/data/905895/000090589504000004/r8k-329.txt), filed Mar 29, 2004."
+  },
+  {
+   "id": 7,
+   "text": "Hollywood Entertainment Corp. — [Form 8-K, amended and restated merger agreement](https://www.sec.gov/Archives/edgar/data/905895/000090589504000012/r8k-1014.txt), filed Oct 14, 2004."
+  },
+  {
+   "id": 8,
+   "text": "Hollywood Entertainment Corp. — [Schedule 14D-9, response to Blockbuster’s exchange offer](https://www.sec.gov/Archives/edgar/data/905895/000119312505031921/dsc14d9.htm), filed Feb 17, 2005."
+  },
+  {
+   "id": 9,
+   "text": "Associated Press, on NBC News — [“Blockbuster ends bid for rival”](https://www.nbcnews.com/id/wbna7293540), Mar 25, 2005."
+  },
+  {
+   "id": 10,
+   "text": "Movie Gallery, Inc. — [Form 8-K, completion of the acquisition of Hollywood](https://www.sec.gov/Archives/edgar/data/925178/000095014405004654/g94909e8vk.htm), filed Apr 29, 2005."
+  },
+  {
+   "id": 11,
+   "text": "Movie Gallery, Inc. — [Form 10-K, FY2005](https://www.sec.gov/Archives/edgar/data/925178/000092517806000009/r10k-fy05.txt), filed Mar 24, 2006."
+  },
+  {
+   "id": 12,
+   "text": "Movie Gallery, Inc. — [Form 10-K, FY2006](https://www.sec.gov/Archives/edgar/data/925178/000092517807000005/r10k-fy06.txt), filed Mar 16, 2007."
+  },
+  {
+   "id": 13,
+   "text": "Movie Gallery, Inc. — [Form 10-K, FY2007](https://www.sec.gov/Archives/edgar/data/925178/000119312508255936/d10k.htm) (year ended Jan 6, 2008), filed Dec 18, 2008."
+  },
+  {
+   "id": 14,
+   "text": "Movie Gallery, Inc. — [Form 8-K, Chapter 11 filing](https://www.sec.gov/Archives/edgar/data/925178/000119312507219912/d8k.htm), filed Oct 17, 2007."
+  },
+  {
+   "id": 15,
+   "text": "Bloomberg News, in Indianapolis Business Journal — [“Movie Gallery files second bankruptcy in two years”](https://www.ibj.com/articles/16201-movie-gallery-files-second-bankruptcy-in-two-years), Feb 4, 2010."
+  },
+  {
+   "id": 16,
+   "text": "Associated Press, on NBC News — [“Hollywood Video owner files for bankruptcy”](https://www.nbcnews.com/id/wbna35222092), Feb 3, 2010."
+  },
+  {
+   "id": 17,
+   "text": "KRWG Public Media — [“Las Cruces Movie Gallery Closing”](https://www.krwg.org/regional/2010-02-04/las-cruces-movie-gallery-closing), Feb 4, 2010. Carries the company’s statement on the filing."
+  },
+  {
+   "id": 18,
+   "text": "ICv2 — [“Movie Gallery R.I.P.”](https://icv2.com/print/article/17408), May 3, 2010."
+  },
+  {
+   "id": 19,
+   "text": "Associated Press, in The Herald (Everett) — [“No. 2 video rental company to close all remaining stores”](https://www.heraldnet.com/2010/05/10/no-2-video-rental-company-to-close-all-remaining-stores/), May 10, 2010."
+  },
+  {
+   "id": 20,
+   "text": "Nathan Bomey, AnnArbor.com — [“Hollywood Video closing final Ann Arbor store as chain liquidates”](https://www.annarbor.com/business-review/hollywood-video-closing-final-ann-arbor-store-as-chain-liquidates), May 21, 2010."
+  },
+  {
+   "id": 21,
+   "text": "Andrew Allemann, Domain Name Wire — [“Reel.com Bankruptcy Auction Plan Submitted to Court”](https://domainnamewire.com/2010/10/14/reel-com-bankruptcy-auction-plan-submitted-to-court/), Oct 14, 2010."
+  },
+  {
+   "id": 22,
+   "text": "hollywoodvideo.com — [“About The New Hollywood Video”](https://hollywoodvideo.com/about-the-new-hollywoodvideo-com/) and the [home page](https://www.hollywoodvideo.com/), read Oct 8, 2026."
+  },
+  {
+   "id": 23,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2005](https://www.sec.gov/Archives/edgar/data/1085734/000119312506055023/d10k.htm), filed Mar 15, 2006."
+  },
+  {
+   "id": 24,
+   "text": "Blockbuster Inc. — [Form 8-K, Chapter 11 filing](https://www.sec.gov/Archives/edgar/data/1085734/000119312510215765/d8k.htm), Sep 23, 2010."
+  },
+  {
+   "id": 25,
+   "text": "Netflix, Inc. — [Form 10-K, FY2006](https://www.sec.gov/Archives/edgar/data/1065280/000119312507042689/d10k.htm), filed Feb 28, 2007."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "$1,246.8M paid in the acquisition is $862.1M + $384.7M.[^11] Hollywood Video segment revenue under Movie Gallery is rental revenue plus product sales: 857.6 + 75.5 = 933.1; 1,236.5 + 109.3 = 1,345.7; 1,077.8 + 116.9 = 1,194.7 ($M, each rounded from thousands).[^11][^12][^13] 2,006 ÷ 25 ≈ 80.2.[^1][^5] $14.50 − $13.25 = $1.25 a share.[^8] The trademark flow uses $171.0M for a filed value of $170.977M; 95.4 + 60.5 + 15.0 = 170.9.[^13] “Tripled from 551 to 1,615” is 1,615 ÷ 551 ≈ 2.9, and 1,615 − 551 = 1,064 stores added between the end of 1996 and the end of 1999.[^1][^2]"
+  },
+  {
+   "label": "Restated figures",
+   "text": "Results for 2000–2003 are given as restated in the 2004 annual report for lease accounting (net loss of $548.3M for 2000). The figures first reported were a net loss of $530.0M for 2000 and a shareholders’ deficit of $222.4M; the 2000 counters use the first-reported deficit and say so.[^3][^5] Figures for 1995–1999 are as reported in the 1999 annual report and were not restated.[^2]"
+  },
+  {
+   "label": "Mixed series",
+   "text": "The store series on the card, in the arc chart and in the rivals block joins three sources: Hollywood’s year-end counts to 2004[^1][^2][^5], Movie Gallery’s segment counts for January 2006, December 2006 and January 2008[^11][^12][^13], and the company’s February 2010 statement as carried by KRWG.[^17] The final zero stands for the 2010 liquidation and is not a reported count. Counts exclude the 20 licensed stores operated by Boards, Inc.[^5]"
+  },
+  {
+   "label": "Conflicts between sources",
+   "text": "Movie Gallery valued the 2005 deal at about $1.25 billion including assumed debt[^10]; the Associated Press described it in 2010 as an $850 million acquisition plus about $350 million of assumed debt, and in 2005 put Movie Gallery’s bid at about $900 million and Blockbuster’s at about $985 million for the shares and options.[^9][^19] The February 2010 closures are 760 in the company statement and Bloomberg and 805 in the AP.[^15][^16][^17] Press reports of Movie Gallery’s debt in 2010 range from $500 million–$1 billion to roughly $600 million; we give no figure.[^20] Wattles’s resignation is dated February 2, 2005 in the Schedule 14D-9 and was announced on February 3 according to the annual report.[^5][^8]"
+  },
+  {
+   "label": "Unverified or unknown",
+   "text": "The date the last Hollywood Video store closed: July 31, 2010 is widely repeated online, but we found no contemporary source and treat it as **unverified**. Who bought the Hollywood Video trademark and domain in the 2010 auction, what was paid, and who operates hollywoodvideo.com today. Hollywood Video store counts for the end of 2008 and 2009. Movie Gallery’s results after January 6, 2008, other than the 2009 revenue reported by Bloomberg.[^15] Why Leonard Green’s price fell from $14.00 to $10.25: the filings we read record the change, not a single stated reason.[^7][^8] The 1999 antitrust episode mentioned by the AP.[^9]"
+  },
+  {
+   "label": "How we read the sources",
+   "text": "All SEC filings were downloaded from EDGAR and read as text. Press articles were opened at the linked URLs in October 2026. Three trade-press pages on the liquidation and the brand auction (Chain Store Age, KGW, King 5) refused automated access and are not cited. The Internet Archive could not be reached during research, so there are no Wayback captures of hollywoodvideo.com on this page and the paragraph on the site today describes only what the live site showed on October 8, 2026.[^22]"
+  },
+  {
+   "label": "Images and video",
+   "text": "The two photographs are from Wikimedia Commons under CC BY-SA 3.0, credited in the captions; their dates are those given on their Commons pages. Airing years of the two commercials and the training tape are the uploaders’. The KRQE and Ferguson Wellman videos carry their own channels’ 2010 publication dates."
+  },
+  {
+   "label": "General knowledge",
+   "text": "That Netflix rented DVDs by mail and Redbox rented them from kiosks in this period, and that Blockbuster was the largest U.S. video rental chain."
+  }
+ ]
+}

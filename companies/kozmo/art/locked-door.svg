@@ -1,0 +1,13 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a warehouse roll-down door with a padlock and a row of parked delivery bicycles outside">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 268 H350"/>
+<rect x="40" y="50" width="280" height="218" fill="#eff5df"/><rect x="40" y="50" width="280" height="34" fill="#ff6a13"/>
+<rect x="96" y="112" width="168" height="156" fill="#c9ccd1"/>
+<path d="M96 134 H264 M96 156 H264 M96 178 H264 M96 200 H264 M96 222 H264 M96 244 H264" stroke-width="2"/>
+<rect x="166" y="238" width="28" height="24" rx="3" fill="#ffd21f"/><path d="M172 238 V228 C172 216 188 216 188 228 V238"/>
+<rect x="124" y="142" width="112" height="56" fill="#fbf9f5"/>
+<text x="180" y="166" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="15" fill="#1d1b18" stroke="none">CLOSED</text>
+<text x="180" y="186" text-anchor="middle" font-family="Inter, sans-serif" font-size="9" fill="#6d665c" stroke="none">effective immediately</text>
+<g stroke-width="2.5"><circle cx="58" cy="252" r="14" fill="#fbf9f5"/><circle cx="92" cy="252" r="14" fill="#fbf9f5"/><path d="M58 252 L70 232 H86 L92 252 M70 232 L76 252 H58 M86 232 L84 224 H92"/>
+<circle cx="278" cy="252" r="14" fill="#fbf9f5"/><circle cx="312" cy="252" r="14" fill="#fbf9f5"/><path d="M278 252 L290 232 H306 L312 252 M290 232 L296 252 H278 M306 232 L304 224 H312"/></g>
+</g></svg>

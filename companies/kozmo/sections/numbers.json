@@ -1,0 +1,421 @@
+{
+ "kicker": "The money",
+ "title": "One audited year, and it is enough",
+ "lede": "Kozmo never became a public company, so it filed one set of financial statements with the SEC: the IPO registration of March 2000, covering 1997 to 1999. Nothing after December 1999 was ever audited in public. Figures for 2000 and 2001 below come from the press and are marked as such.",
+ "blocks": [
+  {
+   "kind": "chart",
+   "id": "kzQuarter",
+   "title": "1999, quarter by quarter",
+   "subtitle": "Revenue against the three largest operating expenses and the net loss, $ millions.",
+   "chart": {
+    "type": "bar",
+    "height": 340,
+    "labels": [
+     "Q1 1999",
+     "Q2 1999",
+     "Q3 1999",
+     "Q4 1999"
+    ],
+    "y": {
+     "format": "usdM",
+     "min": 0
+    },
+    "series": [
+     {
+      "type": "line",
+      "label": "Net loss",
+      "data": [
+       0.295,
+       1.366,
+       6.177,
+       18.532
+      ],
+      "color": "ink"
+     },
+     {
+      "label": "Revenue",
+      "data": [
+       0.25,
+       0.362,
+       0.78,
+       2.117
+      ],
+      "color": "green"
+     },
+     {
+      "label": "Delivery",
+      "data": [
+       0.112,
+       0.21,
+       0.662,
+       2.281
+      ],
+      "color": "brand"
+     },
+     {
+      "label": "Marketing & sales",
+      "data": [
+       0.116,
+       0.315,
+       2.598,
+       7.223
+      ],
+      "color": "red"
+     },
+     {
+      "label": "General & administrative",
+      "data": [
+       0.075,
+       0.731,
+       2.437,
+       8.308
+      ],
+      "color": "grey"
+     }
+    ],
+    "notes": [
+     {
+      "s": 2,
+      "i": 3,
+      "text": [
+       "Delivery expense passes",
+       "revenue in Q4"
+      ],
+      "dx": -150,
+      "dy": -40
+     }
+    ]
+   },
+   "source": "Unaudited quarterly results in the Form S-1 of March 21, 2000.[^1] The company began in March 1998; quarterly figures for 1998 were not published."
+  },
+  {
+   "kind": "chart",
+   "id": "kzOrder",
+   "title": "What one order brought in, and what it cost to carry",
+   "subtitle": "Derived: quarterly revenue, gross profit and delivery expense divided by the number of orders in the quarter.",
+   "chart": {
+    "type": "bar",
+    "height": 320,
+    "labels": [
+     "Q1 1999",
+     "Q2 1999",
+     "Q3 1999",
+     "Q4 1999"
+    ],
+    "y": {
+     "format": "usd2",
+     "min": 0
+    },
+    "series": [
+     {
+      "label": "Revenue per order",
+      "data": [
+       8.55,
+       8.18,
+       9.98,
+       11.92
+      ],
+      "color": "green"
+     },
+     {
+      "label": "Gross profit per order",
+      "data": [
+       4.55,
+       3.66,
+       4.85,
+       4.72
+      ],
+      "color": "gold"
+     },
+     {
+      "label": "Delivery expense per order",
+      "data": [
+       3.83,
+       4.74,
+       8.47,
+       12.84
+      ],
+      "color": "red"
+     }
+    ]
+   },
+   "source": "Derived from the S-1: orders of 29,231, 44,275, 78,118 and 177,581 in the four quarters of 1999; revenue, gross profit and delivery expense as reported.[^1] The filing says delivery expense is “primarily” payroll for delivery staff. Rent, warehouse staff and marketing are not included, so the full cost of an order was higher."
+  },
+  {
+   "kind": "arc",
+   "title": "Cities served: one, then eleven, then none",
+   "subtitle": "Markets in operation at the dates a source gives a count.",
+   "labels": [
+    "Mar ’98",
+    "Jun ’99",
+    "Sep ’99",
+    "Nov ’99",
+    "Feb ’00",
+    "Apr ’00",
+    "Sep ’00",
+    "Jan ’01",
+    "Apr ’01"
+   ],
+   "format": "num",
+   "xLabel": "Date (not evenly spaced)",
+   "series": [
+    {
+     "label": "Cities",
+     "data": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      8,
+      11,
+      9,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "New York",
+     "text": "The first distribution center opens in March 1998.[^1]"
+    },
+    {
+     "i": 3,
+     "title": "five cities",
+     "text": "Seattle, San Francisco, Boston and Washington are added in six months of 1999.[^1]"
+    },
+    {
+     "i": 6,
+     "title": "the peak",
+     "text": "11 cities in August and September 2000. The filing had promised at least ten more by year-end.[^1][^14][^15]"
+    },
+    {
+     "i": 7,
+     "title": "the first retreat",
+     "text": "Houston and San Diego close on January 8, 2001.[^10][^11]"
+    },
+    {
+     "i": 8,
+     "title": "the end",
+     "text": "All nine remaining markets stop on April 11, 2001.[^3]"
+    }
+   ],
+   "source": "1998 to February 2000: Form S-1.[^1] April 2000: MSNBC, which reported Chicago and Atlanta as newly opened.[^17] 11 cities: Supermarket News and CNN/IDG.[^14][^15] Nine: E-Commerce Times and The Register.[^10][^11] The count of eight in April 2000 is derived (six plus two)."
+  },
+  {
+   "kind": "flow",
+   "title": "Where $30.0M went in 1999",
+   "subtitle": "Cost of revenues plus operating expenses for the year, $ millions. Revenue covered $3.5M of it.",
+   "format": {
+    "pre": "$",
+    "suf": "M",
+    "dec": 1
+   },
+   "from": {
+    "label": "Total costs and expenses, 1999",
+    "value": 30.038
+   },
+   "to": [
+    {
+     "label": "General & administrative",
+     "value": 11.551,
+     "color": "grey",
+     "note": "Salaries, rent and utilities for the new warehouses"
+    },
+    {
+     "label": "Marketing & sales",
+     "value": 10.252,
+     "color": "red",
+     "note": "Cable TV, print, online, direct mail"
+    },
+    {
+     "label": "Delivery",
+     "value": 3.265,
+     "color": "brand",
+     "note": "Mostly courier payroll"
+    },
+    {
+     "label": "Cost of revenues",
+     "value": 1.997,
+     "color": "gold",
+     "note": "Goods sold and rental inventory"
+    },
+    {
+     "label": "Product development",
+     "value": 1.964,
+     "color": "blue",
+     "note": "Web site and systems"
+    },
+    {
+     "label": "Depreciation & amortization",
+     "value": 0.801,
+     "color": "light"
+    },
+    {
+     "label": "Non-cash compensation",
+     "value": 0.208,
+     "color": "light"
+    }
+   ],
+   "source": "Statement of operations in the Form S-1.[^1] The total is derived: $1.997M of cost of revenues plus $28.041M of operating expenses."
+  },
+  {
+   "kind": "bars",
+   "title": "What investors paid per share",
+   "subtitle": "Price of each round of convertible preferred stock.",
+   "format": "usd2",
+   "itemLabel": "Round",
+   "valueLabel": "Price per share",
+   "items": [
+    {
+     "label": "Series A · Nov 1997",
+     "value": 0.21,
+     "note": "1.1M shares",
+     "color": "grey"
+    },
+    {
+     "label": "Series B · Dec 1998 – Jan 1999",
+     "value": 0.21,
+     "note": "5.0M shares",
+     "color": "grey"
+    },
+    {
+     "label": "Series C · Apr 1999",
+     "value": 1.11,
+     "note": "2.5M shares",
+     "color": "gold"
+    },
+    {
+     "label": "Series D · Oct 1999",
+     "value": 1.8,
+     "note": "15.6M shares",
+     "color": "gold"
+    },
+    {
+     "label": "Series E · Dec 1999 – Jan 2000",
+     "value": 4.41,
+     "note": "27.2M shares, half to Amazon",
+     "color": "brand"
+    },
+    {
+     "label": "Series F · Mar 2000",
+     "value": 7.55,
+     "note": "15.3M shares",
+     "color": "brand"
+    }
+   ],
+   "source": "“Certain Relationships and Related Transactions” in the Form S-1.[^1] The price rose 36 times in 28 months (derived). Shares times price comes to $267.7M (derived); the company put the cash it had actually received at about $232.3M, plus $10.0M of marketable securities."
+  },
+  {
+   "kind": "scale",
+   "title": "The Starbucks commitment, measured in Kozmo’s own sales",
+   "left": {
+    "value": "$150M",
+    "label": "owed to Starbucks over five years"
+   },
+   "unit": {
+    "value": "$3.5M",
+    "label": "Kozmo’s revenue in 1999"
+   },
+   "count": 43,
+   "icon": "coin",
+   "equation": "$150.0M ÷ $3.509M ≈ 42.7, rounded to 43. Payments of $15M, $25M, $35M, $35M and $40M for 2000 to 2004, and 1999 revenue, from the Form S-1.",
+   "per": "one year of 1999 revenue",
+   "source": "Form S-1.[^1] Kozmo abandoned the agreement in March 2001.[^8] How much it had paid by then is not in our sources."
+  },
+  {
+   "kind": "table",
+   "title": "The only three years on file",
+   "subtitle": "$ thousands, except customers.",
+   "columns": [
+    "",
+    "1997 (from Apr 17)",
+    "1998",
+    "1999"
+   ],
+   "numeric": [
+    1,
+    2,
+    3
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "0",
+     "155",
+     "3,509"
+    ],
+    [
+     "of which rentals",
+     "0",
+     "108",
+     "1,706"
+    ],
+    [
+     "Gross profit",
+     "0",
+     "120",
+     "1,512"
+    ],
+    [
+     "Marketing & sales",
+     "0",
+     "117",
+     "10,252"
+    ],
+    [
+     "Delivery",
+     "0",
+     "66",
+     "3,265"
+    ],
+    [
+     "Net loss",
+     "(118)",
+     "(813)",
+     "(26,370)"
+    ],
+    [
+     "Cash at year end",
+     "36",
+     "82",
+     "88,867"
+    ],
+    [
+     "Registered customers at year end",
+     "not reported",
+     "3,700",
+     "101,234"
+    ]
+   ],
+   "highlight": 5,
+   "source": "Selected financial data and management’s discussion in the Form S-1.[^1]"
+  },
+  {
+   "kind": "counters",
+   "title": "After the filing: what the company told the press",
+   "items": [
+    {
+     "value": "400,000",
+     "text": "members claimed by early 2001, up from 150,000 a year earlier[^7][^11]"
+    },
+    {
+     "value": "$25–30",
+     "text": "average order by the winter of 2000–01, up from $10. Sources differ on the figure[^7][^11]"
+    },
+    {
+     "value": "3",
+     "text": "markets the company said were profitable in December 2000: New York, San Francisco and Boston[^7][^9]"
+    },
+    {
+     "value": "$3M",
+     "text": "the amount it was reported to be seeking in its last week, to keep New York and Boston open[^6]"
+    }
+   ],
+   "source": "Company statements reported by Bloomberg News, The Register, Computerworld and E-Commerce Times.[^6][^7][^9][^11] None of these figures was audited or filed with the SEC."
+  }
+ ]
+}

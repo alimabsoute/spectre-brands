@@ -1,0 +1,124 @@
+{
+ "name": "Redbox",
+ "number": "034",
+ "tier": "dead",
+ "tierWhy": "The bankruptcy of its last owner, Chicken Soup for the Soul Entertainment, was converted to a Chapter 7 liquidation on July 10, 2024 and the kiosks and streaming services were shut down. The Redbox trademarks were listed for a lender’s foreclosure sale in April 2025, and we found no business renting or streaming under the name since.[^26][^32][^33]",
+ "category": "film",
+ "cause": "disruption",
+ "years": "2002 – 2024",
+ "died": 2024,
+ "dates": [
+  {
+   "date": "2016-09-27",
+   "text": "was taken private with its parent Outerwall by funds managed by Apollo, at $52.00 a share"
+  },
+  {
+   "date": "2022-08-11",
+   "text": "was acquired by Chicken Soup for the Soul Entertainment, which assumed $359.9 million of its debt"
+  },
+  {
+   "date": "2024-06-28",
+   "text": "owner Chicken Soup for the Soul Entertainment filed for Chapter 11 in Delaware"
+  },
+  {
+   "date": "2024-07-10",
+   "text": "was shut down when its owner’s bankruptcy was converted to a Chapter 7 liquidation"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "DVD rental kiosks · Oakbrook Terrace, Illinois",
+ "title": "Redbox (2002–2024): post-mortem · Spectre Brands",
+ "description": "From 12 kiosks in 2002 to 44,000 in 2013 and back to none: a sourced post-mortem of Redbox, built from the SEC filings of its four owners, with the kiosk count, the revenue, the debt, old footage and photographs of the last machines.",
+ "theme": {
+  "accent": "#c8102e",
+  "soft": "#fdecef"
+ },
+ "card": {
+  "blurb": "A McDonald’s side project that put a dollar-a-night video store in front of 36,000 shops. It outlived Blockbuster by a decade, changed owners four times and was switched off by a bankruptcy judge.",
+  "stat": {
+   "value": "24,000",
+   "label": "kiosks switched off in July 2024, of 44,000 at the end of 2013"
+  },
+  "spark": [
+   13700,
+   22400,
+   30200,
+   35400,
+   43700,
+   44000,
+   40480,
+   38379,
+   27800,
+   0
+  ],
+  "peak": 5
+ },
+ "hero": {
+  "dates": "First kiosks in 2002. Liquidation ordered on Jul 10, 2024.",
+  "standfirst": "It beat the video store by being smaller than a parking space. Then the disc itself went out of use.",
+  "deck": "Redbox began inside McDonald’s as an experiment in getting people to stop at the restaurant. Under Coinstar it grew to about 44,000 kiosks and $1.97 billion of revenue in 2013. Rentals fell every year after that. A private-equity buyout, a blank-cheque listing and a sale to a streaming company each added debt to a business that was shrinking, and in July 2024 a Delaware bankruptcy judge converted its owner’s case to a liquidation. This is the full post-mortem, built from the SEC filings of its owners, a court notice and contemporary press.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a red rental kiosk outside a shop. Not an official asset and not the trademarked logo.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/kiosk-2012-mcdonalds.avif",
+    "caption": "At a McDonald’s in Colorado, 2012",
+    "alt": "Two red Redbox kiosks under a red awning beside a McDonald’s drive-through"
+   },
+   {
+    "image": "img/inside-kiosk-2011.avif",
+    "caption": "The disc carousel, 2011",
+    "alt": "The carousel of discs inside an opened Redbox kiosk"
+   },
+   {
+    "image": "img/closing-notice-2024.avif",
+    "caption": "A grocer’s notice, July 2024",
+    "alt": "Yellow paper notice taped to a Redbox kiosk saying it will no longer be in service after July 22, 2024"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The company in four numbers",
+  "rows": [
+   {
+    "value": "44,000",
+    "text": "kiosks at the end of 2013, the highest year-end count in the filings[^11]"
+   },
+   {
+    "value": "$1.97B",
+    "text": "Redbox segment revenue in 2013, on 775.7 million rentals[^11]"
+   },
+   {
+    "value": "$359.9M",
+    "text": "of Redbox debt assumed by Chicken Soup for the Soul Entertainment in August 2022[^22]"
+   },
+   {
+    "value": "1,033",
+    "text": "employees of the last owner when the liquidation was ordered, with no severance[^26]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "The peak was 2013, and the owner said why.",
+   "text": "Rentals fell from 775.7 million in 2013 to 587.6 million in 2015. Outerwall’s annual report called it “a secular decline in the physical rental market.”[^11][^13]"
+  },
+  {
+   "title": "Price rises hid the fall for two years.",
+   "text": "The nightly DVD price went from $1.00 to $1.20 in October 2011 and to $1.50 in December 2014. Revenue per rental rose from $2.54 to $2.99 between 2013 and 2015 while the number of rentals dropped 24% (derived).[^9][^12][^13]"
+  },
+  {
+   "title": "Two thirds of the revenue went in two years.",
+   "text": "Net revenue was $858.4M in 2019, $546.2M in 2020 and $288.5M in 2021, when the pandemic cut the supply of new films.[^17]"
+  },
+  {
+   "title": "Every change of owner left debt on it.",
+   "text": "Redbox owed $325.4M at the end of 2021 and warned of substantial doubt about its future. Its next owner assumed $359.9M and was showing $970.0M of liabilities by March 2024.[^17][^22][^23]"
+  },
+  {
+   "title": "The machines outlasted the company.",
+   "text": "CVS asked the court for leave to throw out more than 2,500 kiosks. Walgreens said 5,400 were costing it $184,000 a month in electricity.[^29][^31]"
+  }
+ ]
+}

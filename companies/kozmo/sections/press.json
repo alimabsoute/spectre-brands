@@ -1,0 +1,44 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "Kozmo.com provides something the Web has so far lacked: instant gratification.",
+   "who": "**Jim Williamson**, analyst, IDC, in Forbes, Jun 22, 2000[^16]",
+   "big": true
+  },
+  {
+   "q": "The current business model, selling low-margin goods and delivering them for free, is not viable for the long term.",
+   "who": "**Rebecca Nidositko**, Yankee Group, in Forbes, Jun 22, 2000[^16]"
+  },
+  {
+   "q": "Each time a Kozmo deliveryman leaves the warehouse, he has to be carrying multiple packages.",
+   "who": "**Ken Cassar**, Jupiter Communications, in CNET News, Feb 29, 2000[^18]"
+  },
+  {
+   "q": "All of a sudden, it was like waking up from a bad drunk.",
+   "who": "**Skip Trevathan**, Kozmo chief operating officer, on the market, Computerworld, Jan 1, 2001[^12]"
+  },
+  {
+   "q": "Some decisions made early in the company’s development combined with current market conditions prevented Kozmo from overcoming the challenges associated with conquering the last mile.",
+   "who": "**Gerry Burdo**, closing statement, Apr 11, 2001, as quoted by CNNfn[^3]",
+   "big": true
+  },
+  {
+   "q": "This seemed like a dumb idea from the beginning.",
+   "who": "**Vern Keenan**, Keenan Vision, in CNET News, Apr 11, 2001[^4]"
+  },
+  {
+   "q": "Our burn rate was ridiculous.",
+   "who": "**Mark Leitner**, Kozmo vendor relations manager in Los Angeles, in The Globe and Mail, Apr 13, 2001[^5]"
+  },
+  {
+   "q": "It was fun, but I always knew it was a matter of time.",
+   "who": "**Doug Boag**, a New York customer, in The Globe and Mail, Apr 13, 2001[^5]"
+  },
+  {
+   "q": "Someone ordered a pack of Mentos. Then two hours later they’d order a pint of ice cream.",
+   "who": "**Chris Siragusa**, to CNNMoney, Sep 14, 2005[^20]"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 300 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a toy clock tower built from coloured blocks, with a round clock face, a flag on top and a small teddy bear at its foot">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 340 H280"/>
+<rect x="96" y="250" width="108" height="90" fill="#2f6fb5"/>
+<path d="M132 340 v-44 a18 18 0 0 1 36 0 v44" fill="#2b2a28"/>
+<rect x="106" y="170" width="88" height="80" fill="#f2c230"/>
+<rect x="120" y="188" width="22" height="30" rx="11" fill="#fbf9f5"/><rect x="158" y="188" width="22" height="30" rx="11" fill="#fbf9f5"/>
+<rect x="98" y="80" width="104" height="90" fill="#c8102e"/>
+<circle cx="150" cy="125" r="34" fill="#fbf9f5"/>
+<g class="spin"><path d="M150 125 V101 M150 125 l18 10"/></g>
+<circle cx="150" cy="125" r="3" fill="#1d1b18"/>
+<path d="M150 95 v4 M150 151 v4 M120 125 h4 M176 125 h4"/>
+<path d="M90 80 L150 30 L210 80 Z" fill="#3f8a5a"/>
+<path d="M150 30 V8"/><path d="M150 8 h24 l-6 7 l6 7 h-24" fill="#c8102e"/>
+<g fill="#c98f4e"><circle cx="238" cy="316" r="16"/><circle cx="238" cy="290" r="12"/><circle cx="228" cy="280" r="5"/><circle cx="248" cy="280" r="5"/></g>
+<circle cx="234" cy="288" r="1.4" fill="#1d1b18"/><circle cx="242" cy="288" r="1.4" fill="#1d1b18"/>
+<rect x="40" y="312" width="28" height="28" fill="#f2c230"/><rect x="54" y="284" width="28" height="28" fill="#3f8a5a"/>
+</g></svg>

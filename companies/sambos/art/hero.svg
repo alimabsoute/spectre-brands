@@ -1,0 +1,22 @@
+<svg viewBox="0 0 420 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of a tall stack of pancakes with a pat of butter and syrup on a plate, beside a steaming mug of coffee">
+<g stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="170" cy="318" rx="150" ry="26" fill="#f4f8f3"/>
+<ellipse cx="170" cy="312" rx="118" ry="16" fill="#e2ece1"/>
+<g fill="#e3a651">
+<rect x="62" y="270" width="216" height="34" rx="17"/>
+<rect x="70" y="240" width="204" height="34" rx="17"/>
+<rect x="60" y="210" width="214" height="34" rx="17"/>
+<rect x="72" y="180" width="200" height="34" rx="17"/>
+<rect x="66" y="150" width="208" height="34" rx="17"/>
+</g>
+<path d="M66 162 C66 138 274 138 274 162 C274 176 262 176 252 172 C246 190 232 196 228 176 C200 182 150 182 122 176 C116 204 98 200 98 174 C82 176 66 176 66 162 Z" fill="#8a4b1c"/>
+<rect x="146" y="128" width="50" height="26" rx="4" fill="#f6d04d" transform="rotate(-8 171 141)"/>
+<path d="M98 200 v22 M228 196 v14" fill="none" stroke="#8a4b1c" stroke-width="8"/>
+<path d="M310 230 h74 v72 c0 16 -12 26 -26 26 h-22 c-14 0 -26 -10 -26 -26 Z" fill="#fbf9f5"/>
+<path d="M384 248 c26 0 26 44 0 44" fill="none" stroke-width="9"/>
+<path d="M384 248 c26 0 26 44 0 44" fill="none" stroke="#fbf9f5" stroke-width="3"/>
+<ellipse cx="347" cy="232" rx="37" ry="8" fill="#5a3418"/>
+<path d="M318 262 h58" fill="none" stroke="#1f6e4d" stroke-width="7"/>
+<g class="screen" fill="none" stroke="#9a9184"><path d="M332 206 c-10 -14 10 -22 0 -38 M358 204 c-10 -14 10 -22 0 -38"/></g>
+<path d="M20 344 H400" fill="none"/>
+</g></svg>

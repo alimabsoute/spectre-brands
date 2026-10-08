@@ -1,0 +1,48 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "It will be the next major consumer electronics standard.",
+   "who": "**Trip Hawkins**, at the Consumer Electronics Show, The New York Times, Jan 8, 1993[^19]",
+   "big": true
+  },
+  {
+   "q": "It’s wonderful hardware, and it clearly raises the bar.",
+   "who": "**Robert F. Kleiber**, analyst, Piper Jaffray, The New York Times, Jan 8, 1993[^19]"
+  },
+  {
+   "q": "The valuation is nuts.",
+   "who": "**Michael Murphy**, California Technology Stock Letter, The New York Times, Sep 9, 1993[^20]"
+  },
+  {
+   "q": "What a P.R. mess.",
+   "who": "**Steven Blank**, president of the developer Rocket Science, on the royalty surcharge, The New York Times, Dec 11, 1994[^23]"
+  },
+  {
+   "q": "We like to joke about the Bank of Trip.",
+   "who": "**Trip Hawkins**, The New York Times, Dec 11, 1994[^23]"
+  },
+  {
+   "q": "Trip is reacting to reality.",
+   "who": "**John Taylor**, analyst, L.H. Alton & Co., on Hawkins leaving the Electronic Arts chair, Los Angeles Times, Jun 22, 1994[^22]"
+  },
+  {
+   "q": "If you look at the original concept, we had all our eggs in one basket, and we didn’t have control of the basket.",
+   "who": "**Trip Hawkins**, Los Angeles Times, Sep 17, 1996[^25]",
+   "big": true
+  },
+  {
+   "q": "The game business climate right now dictates that we make hits and conserve cash.",
+   "who": "**Hugh Martin**, president of 3DO, Los Angeles Times, Sep 17, 1996[^25]"
+  },
+  {
+   "q": "Market conditions for us appeared to take a turn for the worse when the war with Iraq began.",
+   "who": "**Trip Hawkins**, 3DO press release, May 13, 2003[^13]"
+  },
+  {
+   "q": "We acquired the rights to The 3DO Company brand, not the 3DO console brand. Although they may seem identical, they are legally different.",
+   "who": "**Işık Şekercigil**, Empire Interactive, to Time Extension, Jul 2026[^35]"
+  }
+ ]
+}

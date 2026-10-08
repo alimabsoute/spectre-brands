@@ -1,0 +1,33 @@
+{
+ "kicker": "Cause of death",
+ "title": "The autopsy",
+ "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
+ "causes": [
+  {
+   "weight": 35,
+   "title": "The debt from the 2005 sale",
+   "text": "Movie Gallery paid $862.1M for the shares and $384.7M to refinance Hollywood’s debt, using an $870.0M credit facility and $325.0M of 11% notes, and owed about $1,161.2M eight months later. The Associated Press wrote in 2010 that it had been “unable to sustain the debt it took on.”[^11][^19]"
+  },
+  {
+   "weight": 30,
+   "title": "Mail, kiosks and the internet",
+   "text": "Movie Gallery blamed revenue declines on mail subscription services such as Netflix and Blockbuster Online and on kiosks such as Redbox. Netflix grew from 2.6 million subscribers at the end of 2004 to 6.3 million two years later. In 2008 Movie Gallery said it would not invest further in kiosks or online rental.[^13][^25]"
+  },
+  {
+   "weight": 15,
+   "title": "A shrinking rental business",
+   "text": "Hollywood’s 2004 annual report already described a trend of consumers buying cheap DVDs instead of renting. Hollywood Video’s same-store revenue fell 5.4% in 2006, and segment rental revenue fell from $1,236.5M in 2006 to $1,077.8M in 2007.[^5][^12][^13]"
+  },
+  {
+   "weight": 10,
+   "title": "Overexpansion and Reel.com, 1996 to 2000",
+   "text": "The chain tripled from 551 stores to 1,615 in three years on borrowed money, lost $50.5M and $51.3M in 1998 and 1999, and then took a $69.3M charge on Reel.com and a going-concern warning. It recovered, and in March 2004 it agreed to a buyout.[^2][^3][^6]"
+  },
+  {
+   "weight": 10,
+   "title": "A merger that was never finished",
+   "text": "Movie Gallery said its liquidity problems and Chapter 11 filing in 2007 kept it from integrating most business functions of the two chains. When results fell, many vendors, including many studios, stopped giving trade credit and required cash in advance.[^13]"
+  }
+ ],
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings and wire reports document the symptoms. How much each one contributed is a matter of opinion."
+}

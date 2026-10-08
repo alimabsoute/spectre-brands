@@ -1,0 +1,17 @@
+<svg viewBox="0 0 440 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of the same video store during a liquidation sale, its neon dark, a closing banner over the door and empty shelves in the windows">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 292 H430"/>
+<rect x="30" y="150" width="380" height="142" fill="#eceae5"/>
+<path d="M22 150 V112 L62 92 L96 112 L140 84 L178 108 H262 L300 84 L344 112 L378 92 L418 112 V150 Z" fill="#55524d"/>
+<path d="M22 112 L62 92 L96 112 L140 84 L178 108 H262 L300 84 L344 112 L378 92 L418 112" stroke="#9a9184" stroke-width="4" transform="translate(0 -9)"/>
+<g fill="#cfccc5"><rect x="124" y="118" width="20" height="22" rx="2"/><rect x="150" y="118" width="20" height="22" rx="2"/><rect x="202" y="118" width="20" height="22" rx="2"/><rect x="228" y="118" width="20" height="22" rx="2"/></g>
+<rect x="188" y="196" width="64" height="96" fill="#2b2a28"/><path d="M220 196 V292"/>
+<rect x="48" y="176" width="124" height="88" fill="#dfe3ea"/><rect x="268" y="176" width="124" height="88" fill="#dfe3ea"/>
+<path d="M60 206h100M60 236h100M280 206h100M280 236h100" stroke-width="2"/>
+<rect x="64" y="216" width="16" height="20" fill="#b3202a"/><rect x="352" y="186" width="16" height="20" fill="#5b3f8f"/>
+<rect x="150" y="160" width="140" height="30" fill="#f2d84a" transform="rotate(-3 220 175)"/>
+<path d="M164 176h112" stroke-width="6" transform="rotate(-3 220 175)"/>
+<rect x="282" y="214" width="96" height="40" fill="#b3202a" transform="rotate(4 330 234)"/>
+<path d="M294 228h72M300 242h48" stroke="#fbf9f5" stroke-width="4" transform="rotate(4 330 234)"/>
+<g fill="#cfccc5"><rect x="40" y="150" width="12" height="142"/><rect x="388" y="150" width="12" height="142"/></g>
+</g></svg>

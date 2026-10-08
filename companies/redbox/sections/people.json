@@ -1,0 +1,47 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it, and who ended it",
+ "lede": "Roles and dates are from filings and the cited reports. We name only people whose part we could source; the executives who built Redbox inside McDonald’s are not named in the documents we read.",
+ "people": [
+  {
+   "name": "Greg Waring",
+   "role": "Vice president of marketing, 2006",
+   "text": "Spoke for Redbox when it was still a McDonald’s subsidiary with 750 machines, and predicted a day when it would be in “the vast majority” of the chain’s more than 13,000 U.S. restaurants.[^3]"
+  },
+  {
+   "name": "Paul Davis",
+   "role": "Chief executive of Coinstar",
+   "text": "Named in the published description of a 2011 CNN interview titled “Redbox: DVDs are not dead.” A 2010 interview on the same channel, credited to “the CEO of Coinstar”, is titled “Redbox: We will stream movies.”[^37]"
+  },
+  {
+   "name": "Erik E. Prusch",
+   "role": "Chief executive of Outerwall, 2016",
+   "text": "Signed the sale to Apollo’s funds and called Apollo “an ideal partner.”[^14]"
+  },
+  {
+   "name": "David Sambur",
+   "role": "Partner, Apollo",
+   "text": "Spoke for the buyer in 2016: “We are extremely excited for our funds to acquire Outerwall.”[^14]"
+  },
+  {
+   "name": "Galen C. Smith",
+   "role": "Chief executive of Redbox from 2016",
+   "text": "Outerwall’s chief financial officer from 2013 to 2016, having joined in 2009. He led Redbox through the Apollo years and the 2021 listing.[^17]"
+  },
+  {
+   "name": "William J. Rouhana Jr.",
+   "role": "Chairman and chief executive, Chicken Soup for the Soul Entertainment",
+   "text": "Bought Redbox in 2022. The only director left after the controlling shareholder removed the board on June 11, 2024; Variety reported that he stepped down as chief executive on June 24. In his declaration to the court he blamed the lenders’ “refusals” to meet their obligations.[^24][^26]"
+  },
+  {
+   "name": "Thomas M. Horan",
+   "role": "Judge, U.S. Bankruptcy Court for the District of Delaware",
+   "text": "Converted the case to Chapter 7 on July 10, 2024.[^26]"
+  },
+  {
+   "name": "George L. Miller",
+   "role": "Chapter 7 trustee",
+   "text": "Responsible for liquidating the estate, including the proposed sale of its copyright litigation rights.[^34]"
+  }
+ ]
+}

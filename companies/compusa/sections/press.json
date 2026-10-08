@@ -1,0 +1,40 @@
+{
+ "kicker": "The clippings",
+ "title": "What they said at the time",
+ "clips": [
+  {
+   "q": "CompUSA is a premier retail brand for computer equipment, consumer technology and related services in the U.S., and represents a tremendous opportunity to leverage the management experience of Sanborns in the retail and e-commerce sectors.",
+   "who": "**Carlos Slim Domit**, chairman of Grupo Sanborns, Jan 24, 2000[^5]",
+   "big": true
+  },
+  {
+   "q": "We believe that this offer represents a good value for our shareholders and an exciting new future for our customers, employees and business partners.",
+   "who": "**James Halpin**, president and CEO of CompUSA, Jan 24, 2000[^5]"
+  },
+  {
+   "q": "Based on changing conditions in the consumer retail electronics market, the company identified the need to close and sell stores with low performance or nonstrategic, old store layouts and locations faced with market saturation.",
+   "who": "**Roman Ross**, chief executive, in a statement, Feb 2007[^11]"
+  },
+  {
+   "q": "It would be up to the buyers whether to continue the CompUSA name.",
+   "who": "**The Associated Press**, Dec 7, 2007[^13]",
+   "big": true
+  },
+  {
+   "q": "We believe the value of the CompUSA brand remains very high.",
+   "who": "**Richard Leeds**, chief executive of Systemax, Jan 6, 2008[^16]"
+  },
+  {
+   "q": "We have a terrific opportunity to continue the great CompUSA brand and establish a new heritage that will extend for generations to come.",
+   "who": "**Gilbert Fiorentino**, chief executive of TigerDirect, Jan 6, 2008[^16]"
+  },
+  {
+   "q": "We harvested significant value from the CompUSA and Circuit City acquisitions and are now moving forward with a single and unified consumer platform in the United States.",
+   "who": "**Richard Leeds**, Nov 1, 2012[^19]"
+  },
+  {
+   "q": "The once popular brand is back, but not exactly in a meaningful way.",
+   "who": "**Shawn Knight**, TechSpot, Oct 25, 2018[^21]"
+  }
+ ]
+}

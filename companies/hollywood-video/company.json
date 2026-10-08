@@ -1,0 +1,107 @@
+{
+ "name": "Hollywood Video",
+ "number": "033",
+ "tier": "ghost",
+ "tierWhy": "Movie Gallery, which bought the chain in 2005, closed every remaining Hollywood Video store in a liquidation approved in May 2010, but hollywoodvideo.com still publishes an entertainment blog under the name; we could not establish who owns it.[^19][^20][^22]",
+ "category": "film",
+ "cause": "debt",
+ "years": "1988 – 2010",
+ "died": 2010,
+ "dates": [
+  {
+   "date": "2000-06-12",
+   "text": "shut the e-commerce business of Reel.com, the web retailer it had bought for about $96.9 million"
+  },
+  {
+   "date": "2005-04-27",
+   "text": "was acquired by Movie Gallery in a deal valued at about $1.25 billion including debt"
+  },
+  {
+   "date": "2007-10-16",
+   "text": "owner Movie Gallery filed for Chapter 11 for the first time"
+  },
+  {
+   "date": "2010-02-02",
+   "text": "owner Movie Gallery filed for Chapter 11 a second time and began closing 760 stores"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Video rental superstores · Wilsonville, Oregon",
+ "title": "Hollywood Video (1988–2010): post-mortem · Spectre Brands",
+ "description": "From 25 stores to 2,006, a near-collapse in 2000, a three-way takeover fight and a buyer that borrowed too much. A sourced post-mortem of Hollywood Video, built from the SEC filings of Hollywood Entertainment and Movie Gallery.",
+ "theme": {
+  "accent": "#b3202a",
+  "soft": "#f4eff9"
+ },
+ "card": {
+  "blurb": "The No. 2 video rental chain survived its own dot-com disaster, then was sold in 2005 to a rival that paid mostly with borrowed money. Five years later every store was in liquidation.",
+  "stat": {
+   "value": "$1.25B",
+   "label": "merger value in April 2005; liquidation was approved five years later"
+  },
+  "spark": [
+   25,
+   305,
+   907,
+   1615,
+   1819,
+   2006,
+   2054,
+   1646,
+   545,
+   0
+  ],
+  "peak": 6
+ },
+ "hero": {
+  "dates": "First store opened Oct 1988. Liquidation of the last stores approved May 2010.",
+  "standfirst": "It got through the mistake it made itself. It did not get through the one its buyer made.",
+  "deck": "Hollywood Entertainment grew from 25 video stores at the end of 1993 to 1,615 six years later, bought a web retailer at the top of the bubble, and by the end of 2000 its auditors doubted it could continue. It recovered, and by 2004 had 2,006 stores and three suitors. The winner, Movie Gallery, paid with borrowed money just as renters began to drift to the mailbox and the kiosk. This post-mortem is built from the two companies’ SEC filings and the wire reports of the 2010 liquidation.",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a video superstore with a zigzag roofline and red neon, in the spirit of the chain. Not an official asset; the sign lettering is deliberately blank.",
+  "motion": "flicker"
+ },
+ "keyNumbers": {
+  "caption": "The chain in four numbers",
+  "rows": [
+   {
+    "value": "2,006",
+    "text": "company-operated stores in 47 states and the District of Columbia at the end of 2004[^5]"
+   },
+   {
+    "value": "$548.3M",
+    "text": "net loss in 2000, as later restated, the year it closed Reel.com’s store and stopped building[^5]"
+   },
+   {
+    "value": "$1.25B",
+    "text": "approximate value of the sale to Movie Gallery in April 2005, including assumed debt[^10]"
+   },
+   {
+    "value": "545",
+    "text": "Hollywood Video stores left after the closures announced with the February 2010 bankruptcy[^17]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "It grew faster than it could pay for.",
+   "text": "Stores went from 25 at the end of 1993 to 1,615 at the end of 1999, and long-term obligations from $8.0M in 1995 to $533.9M in 1999.[^1][^2]"
+  },
+  {
+   "title": "Its dot-com bet lasted 20 months.",
+   "text": "Hollywood bought Reel.com for about $96.9M on October 1, 1998 and closed its e-commerce business on June 12, 2000, with a $69.3M charge.[^3]"
+  },
+  {
+   "title": "It recovered before it was sold.",
+   "text": "After a restated net loss of $548.3M in 2000, the company reported four straight profitable years and revenue of $1.78B in 2004.[^5]"
+  },
+  {
+   "title": "The highest bid did not win.",
+   "text": "Blockbuster offered $14.50 a share in cash and stock. The board took Movie Gallery’s $13.25 in cash, which cleared antitrust review quickly.[^8][^9]"
+  },
+  {
+   "title": "The buyer wrote the brand down to almost nothing.",
+   "text": "Movie Gallery impaired $361.2M of Hollywood Video goodwill in 2005 and cut the trademark’s value to $15.0M during 2007.[^11][^13]"
+  }
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "kicker": "Timeline",
+ "title": "Seven years, 29 moments",
+ "lede": "From an AngelList posting to a shutdown notice. Filter by thread.",
+ "categories": {
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "product": {
+   "label": "Console & store",
+   "color": "#3d5f86"
+  },
+  "developers": {
+   "label": "Developers",
+   "color": "#93743a"
+  },
+  "rivals": {
+   "label": "Rivals",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Sale & shutdown",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "Jul 3",
+   "year": "2012",
+   "cat": "product",
+   "title": "The idea surfaces",
+   "text": "The Verge reports on a $99 hackable Android console designed by Yves Béhar, from a startup led by Julie Uhrman.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Jul 10",
+   "year": "2012",
+   "cat": "money",
+   "title": "Kickstarter opens",
+   "text": "The goal is $950,000. The campaign passes $1 million in about eight hours.",
+   "src": [
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "date": "Aug 9",
+   "year": "2012",
+   "cat": "money",
+   "title": "Kickstarter closes",
+   "text": "$8,596,474 from 63,416 backers. Consoles are promised to backers by March 2013.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Dec 28",
+   "year": "2012",
+   "cat": "product",
+   "title": "Developer consoles ship",
+   "text": "The first units go to backers of the developer tiers.",
+   "src": [
+    33
+   ]
+  },
+  {
+   "date": "Feb 5",
+   "year": "2013",
+   "cat": "product",
+   "title": "Retailers and price named",
+   "text": "Amazon, Best Buy, GameStop and Target will sell the console at $99.99 from June.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Mar 28",
+   "year": "2013",
+   "cat": "product",
+   "title": "Backers’ consoles start shipping",
+   "text": "The Kickstarter edition begins to go out.",
+   "src": [
+    33
+   ]
+  },
+  {
+   "date": "Apr 3",
+   "year": "2013",
+   "cat": "product",
+   "title": "Engadget: “a beta release”",
+   "text": "The first major review says the backers’ machine is “simply not ready for retail.”",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Apr 4",
+   "year": "2013",
+   "cat": "product",
+   "title": "The Verge: 3.5 out of 10",
+   "text": "Retail launch is then planned for June 4.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "May 9",
+   "year": "2013",
+   "cat": "money",
+   "title": "$15 million round",
+   "text": "Kleiner Perkins leads; Mayfield, Nvidia, Shasta and Occam join. The retail launch moves three weeks to June 25.",
+   "src": [
+    8,
+    9
+   ]
+  },
+  {
+   "date": "Jun 25",
+   "year": "2013",
+   "cat": "product",
+   "title": "Retail launch",
+   "text": "On sale in the U.S., Canada and the U.K. Amazon sells out the same day.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Jul 2",
+   "year": "2013",
+   "cat": "product",
+   "title": "Reviews average 62",
+   "text": "A roundup of 12 critic and 9 user scores for the retail unit.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Jul 19",
+   "year": "2013",
+   "cat": "product",
+   "title": "NPD: “relatively light”",
+   "text": "The retail tracker’s assessment of the first month in U.S. stores, excluding ouya.tv sales.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Jul 22",
+   "year": "2013",
+   "cat": "developers",
+   "title": "Developers publish sales",
+   "text": "TowerFall: about 2,000 copies. NimbleBit: 122 purchases from 6,508 downloads.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Jul 25",
+   "year": "2013",
+   "cat": "developers",
+   "title": "“Better than we expected”",
+   "text": "Uhrman says 27% of owners have paid for a game and describes the $1 million Free the Games Fund.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Sep 8",
+   "year": "2013",
+   "cat": "developers",
+   "title": "Gridiron Thunder funded",
+   "text": "The football game closes at $171,009 from 183 backers, and questions follow.",
+   "src": [
+    18
+   ]
+  },
+  {
+   "date": "Sep 11",
+   "year": "2013",
+   "cat": "developers",
+   "title": "Developers pull games",
+   "text": "Uhrman’s response to the fund controversy is badly received. Sophie Houlden removes Rose and Time.",
+   "src": [
+    15,
+    16
+   ]
+  },
+  {
+   "date": "Sep",
+   "year": "2013",
+   "cat": "developers",
+   "title": "Fund rules rewritten",
+   "text": "Minimum cut from $50,000 to $10,000; PC release allowed; $100,000 bonus scrapped.",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "Nov 15",
+   "year": "2013",
+   "cat": "rivals",
+   "title": "PlayStation 4 launches",
+   "text": "Sony reports 1 million sold in North America in the first 24 hours.",
+   "src": [
+    19
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "2014",
+   "cat": "product",
+   "title": "Ouya Everywhere",
+   "text": "The store will run on other companies’ hardware. Mad Catz’s M.O.J.O. is the first partner.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Apr 2",
+   "year": "2014",
+   "cat": "rivals",
+   "title": "Amazon Fire TV",
+   "text": "Amazon launches a $99 television box with a $39.99 game controller.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Apr 29",
+   "year": "2014",
+   "cat": "developers",
+   "title": "7,000 copies",
+   "text": "TowerFall’s creator says that is about what the best-selling Ouya game sold on Ouya.",
+   "src": [
+    21
+   ]
+  },
+  {
+   "date": "Jul 1",
+   "year": "2014",
+   "cat": "product",
+   "title": "Live on M.O.J.O.",
+   "text": "The Ouya storefront arrives on Mad Catz’s $199 micro-console.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Jan 30",
+   "year": "2015",
+   "cat": "money",
+   "title": "Alibaba invests $10 million",
+   "text": "The aim is to bring Ouya’s library to Alibaba’s set-top box in China.",
+   "src": [
+    23
+   ]
+  },
+  {
+   "date": "Apr 28",
+   "year": "2015",
+   "cat": "death",
+   "title": "For sale",
+   "text": "Fortune reports that Ouya tripped a covenant on TriplePoint debt and has hired Mesa Global to find a buyer.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "Jun 12",
+   "year": "2015",
+   "cat": "death",
+   "title": "Razer deal closes",
+   "text": "Razer acquires the catalogue, the store and the team, not the hardware. Terms undisclosed.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Jul 27",
+   "year": "2015",
+   "cat": "death",
+   "title": "Deal confirmed, Uhrman leaves",
+   "text": "Razer announces the acquisition. The founder says goodbye on Twitter.",
+   "src": [
+    25,
+    26
+   ]
+  },
+  {
+   "date": "Jul 28",
+   "year": "2015",
+   "cat": "developers",
+   "title": "Razer picks up the fund",
+   "text": "Razer says it will honour the $620,000 still unpaid from the Free the Games Fund, on modified terms.",
+   "src": [
+    27,
+    28
+   ]
+  },
+  {
+   "date": "May 22",
+   "year": "2019",
+   "cat": "death",
+   "title": "Shutdown notice",
+   "text": "Razer says the Ouya, Forge TV and M.O.J.O. stores will close in five weeks.",
+   "src": [
+    30,
+    31,
+    32
+   ]
+  },
+  {
+   "date": "Jun 25",
+   "year": "2019",
+   "cat": "death",
+   "title": "Switched off",
+   "text": "Accounts are deactivated and the store and website go dark.",
+   "src": [
+    30
+   ]
+  }
+ ]
+}

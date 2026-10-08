@@ -1,0 +1,22 @@
+{
+ "kicker": "The fork in the road",
+ "title": "What if…",
+ "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
+ "forks": [
+  {
+   "tab": "A flavor people could name",
+   "actual": "The company said the taste defied categorization.[^4] Coca-Cola built it by blending the kinds of soda teenagers already drank.[^6] Todd Waterbury, who led the campaign’s design, said later that people kept asking what it tasted like, and that it might have sold better as a variant of a known flavor, “say, a cool root beer.”[^13]",
+   "whatif": "A root beer or a citrus soda in the same grey can would have answered the first question any shopper asks. It would also have been one more entrant against Mountain Dew, where Coca-Cola’s Mello Yello already had 0.3%.[^6] The packaging might have earned a first purchase either way; a familiar flavor is what would have had a chance at the second."
+  },
+  {
+   "tab": "Judge it as a niche brand",
+   "actual": "Coca-Cola hoped the drink would become mainstream, and the press reported a goal of 3 to 4% of the market.[^4][^8] After a little over a million cases in a limited number of cities the company stopped, citing “profitable volume.”[^9] The Believer’s account lists impatience as one theory of the failure.[^13]",
+   "whatif": "Held to the standard of a small cult product, a million cases from eight or nine cities might have been a reason to keep going in the places where it sold. Whether there were such places is not known: no city-by-city figures were published, and the one city a newspaper looked at closely was selling almost none."
+  },
+  {
+   "tab": "Finish the drink first",
+   "actual": "The campaign and the cans were developed while the product was still changing; Advertising Age called the brand “not fully formed” at launch.[^5][^13] The test began about two weeks after the announcement.[^4][^11] A focus group held after the drink was already on sale found the older half of the target unconvinced.[^6]",
+   "whatif": "A longer taste test before the announcement would have shown what Minneapolis showed in public. Coca-Cola could have changed the formula before the hotline, the chain letters and the magazine coverage spent the brand’s novelty. It would also have arrived later, into a market already crowded with drinks aimed at the same people."
+  }
+ ]
+}

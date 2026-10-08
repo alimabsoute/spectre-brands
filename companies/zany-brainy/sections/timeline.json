@@ -1,0 +1,378 @@
+{
+ "kicker": "Timeline",
+ "title": "Twelve years, 34 moments",
+ "lede": "From one store in the Philadelphia suburbs to a liquidation run by its second owner. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "stores": {
+   "label": "Stores",
+   "color": "#93743a"
+  },
+  "web": {
+   "label": "Online",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Bankruptcy & end",
+   "color": "#a8321f"
+  }
+ },
+ "events": [
+  {
+   "date": "",
+   "year": "1991",
+   "cat": "stores",
+   "title": "The first store opens",
+   "text": "David Schlessinger, founder of Encore Books, incorporates Zany Brainy and opens a store in Wynnewood, Pennsylvania.",
+   "src": [
+    3,
+    27
+   ]
+  },
+  {
+   "date": "",
+   "year": "1994",
+   "cat": "stores",
+   "title": "Fast openings begin",
+   "text": "The company opens 11 stores in the year and ends it with 16. Sales are $23.5M and the loss is $6.7M.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1995",
+   "cat": "money",
+   "title": "The biggest early loss",
+   "text": "Fifteen more stores open. Comparable-store sales rise 0.3% and the company loses $7.8M.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Nov",
+   "year": "1995",
+   "cat": "corporate",
+   "title": "Vellios joins",
+   "text": "Thomas G. Vellios arrives from Caldor as executive vice president of merchandising and marketing.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1996",
+   "cat": "corporate",
+   "title": "Spurgeon becomes chief executive",
+   "text": "Keith C. Spurgeon, formerly of Toys “R” Us, takes over. The year ends with 43 stores and a $6.0M loss.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1997",
+   "cat": "stores",
+   "title": "A slower year",
+   "text": "Nine stores open, built to a smaller 10,600-square-foot prototype. The loss narrows to $153,000.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "",
+   "year": "1998",
+   "cat": "money",
+   "title": "First profit",
+   "text": "Net income of $9.0M on sales of $168.5M, including a $6.2M tax benefit. Twenty-three stores open, for 75 in all.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Jun 3",
+   "year": "1999",
+   "cat": "money",
+   "title": "Initial public offering",
+   "text": "6.1 million shares are sold at $10.00 on Nasdaq under the symbol ZANY. The stock closes its first day at $11.44.",
+   "src": [
+    1,
+    19
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "1999",
+   "cat": "web",
+   "title": "Internet joint venture",
+   "text": "ZB Holdings is formed with Online Retail Partners to run zanybrainy.com. Each partner puts in $5.0M; the partner adds $10.0M in November.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1999",
+   "cat": "stores",
+   "title": "A rival folds",
+   "text": "Publishers Weekly reports the demise of Learningsmith, another educational toy chain.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Jan 29",
+   "year": "2000",
+   "cat": "money",
+   "title": "Best year alone",
+   "text": "Fiscal 1999 ends with 103 stores in 26 states, sales of $241.2M and net income of $6.9M.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "2000",
+   "cat": "web",
+   "title": "More money for the website",
+   "text": "The partners agree to put another $12.0M into the venture. Zany Brainy’s share is about $6.8M.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Apr",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "Noodle Kidoodle deal announced",
+   "text": "An all-stock merger valued by the trade press at about $40M: 1.233 Zany Brainy shares for each Noodle Kidoodle share.",
+   "src": [
+    20
+   ]
+  },
+  {
+   "date": "Jul 26",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "The merger takes effect",
+   "text": "About 9.4 million shares are issued and 60 stores are added. The first $65.0M of a new $115M credit facility is completed the same day.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Sep",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "Spurgeon resigns",
+   "text": "Vellios becomes acting chief executive.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "2000",
+   "cat": "web",
+   "title": "The joint venture is dissolved",
+   "text": "Zany Brainy takes full ownership of zanybrainy.com and assumes the venture’s liabilities.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "2001",
+   "cat": "money",
+   "title": "The appraisal",
+   "text": "The bank’s appraiser values the inventory at a level that significantly reduces what the company can borrow.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Feb 3",
+   "year": "2001",
+   "cat": "money",
+   "title": "Fiscal 2000 ends",
+   "text": "188 stores in 34 states. Net sales of $400.5M, comparable-store sales down 10.0%, net loss of $80.7M.",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "Feb 28",
+   "year": "2001",
+   "cat": "death",
+   "title": "Default asserted",
+   "text": "The bank writes that the company has failed to comply with covenants. On March 9 it raises the interest rate to the default rate.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Mar 15",
+   "year": "2001",
+   "cat": "death",
+   "title": "Suppliers agree to wait",
+   "text": "The largest trade creditors form an informal committee and sign a two-week standstill. William Blair is hired to explore alternatives.",
+   "src": [
+    4,
+    30
+   ]
+  },
+  {
+   "date": "May 8",
+   "year": "2001",
+   "cat": "web",
+   "title": "The website stops selling",
+   "text": "Sales on zanybrainy.com are suspended “until further notice.”",
+   "src": [
+    3
+   ]
+  },
+  {
+   "date": "May 15",
+   "year": "2001",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "Zany Brainy and five subsidiaries file in Delaware with 187 stores and a $115M debtor-in-possession commitment from Wells Fargo Retail Finance.",
+   "src": [
+    5
+   ]
+  },
+  {
+   "date": "Jun 1",
+   "year": "2001",
+   "cat": "money",
+   "title": "Delisted",
+   "text": "Nasdaq removes the stock, which had failed to hold a $1.00 bid.",
+   "src": [
+    3,
+    6
+   ]
+  },
+  {
+   "date": "Jul 10",
+   "year": "2001",
+   "cat": "death",
+   "title": "Waterton agreement",
+   "text": "The company announces a sale to Waterton Management that is expected to pay unsecured creditors 15 to 20 cents on the dollar.",
+   "src": [
+    8
+   ]
+  },
+  {
+   "date": "Aug 16",
+   "year": "2001",
+   "cat": "death",
+   "title": "The court picks The Right Start",
+   "text": "The bankruptcy court rules that The Right Start’s offer is the highest and best. Shareholders will receive nothing.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Sep 5",
+   "year": "2001",
+   "cat": "death",
+   "title": "Sale closes",
+   "text": "A subsidiary of The Right Start takes over 187 stores in 34 states for consideration of about $100M. Zany Brainy’s own filing dates the closing to September 6.",
+   "src": [
+    10,
+    11
+   ]
+  },
+  {
+   "date": "Jan 6",
+   "year": "2002",
+   "cat": "corporate",
+   "title": "The Right Start buys FAO Schwarz",
+   "text": "The company soon renames itself FAO Inc. It now runs three chains.",
+   "src": [
+    14,
+    24
+   ]
+  },
+  {
+   "date": "Mar 6",
+   "year": "2002",
+   "cat": "death",
+   "title": "The old company’s plan is confirmed",
+   "text": "The court confirms a liquidating plan for Zany Brainy, Inc. All of its common shares are cancelled.",
+   "src": [
+    29
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "2002",
+   "cat": "stores",
+   "title": "55 closings announced",
+   "text": "FAO Inc. says it will close 55 of its 169 Zany Brainy stores by March. The final number is 80.",
+   "src": [
+    14,
+    24
+   ]
+  },
+  {
+   "date": "Jan 13",
+   "year": "2003",
+   "cat": "death",
+   "title": "FAO Inc. files for Chapter 11",
+   "text": "The parent and four subsidiaries file in Delaware.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Apr 23",
+   "year": "2003",
+   "cat": "corporate",
+   "title": "FAO Inc. emerges",
+   "text": "It has closed 111 stores across its three chains. 89 Zany Brainy stores remain, in 27 states.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Nov 7",
+   "year": "2003",
+   "cat": "death",
+   "title": "A warning and a default notice",
+   "text": "FAO Inc. says sales are “disappointing and significantly below expectations.” Its lenders deliver a notice of default that afternoon.",
+   "src": [
+    15,
+    16
+   ]
+  },
+  {
+   "date": "Dec 2",
+   "year": "2003",
+   "cat": "death",
+   "title": "Liquidation announced",
+   "text": "FAO Inc. says it will file again, sell FAO Schwarz and The Right Start, and liquidate Zany Brainy. It files on December 4.",
+   "src": [
+    17,
+    18
+   ]
+  },
+  {
+   "date": "Oct",
+   "year": "2026",
+   "cat": "corporate",
+   "title": "The name online",
+   "text": "zanybrainy.com sells a small range of Zany Brainy-branded merchandise. The site names no operator.",
+   "src": [
+    26
+   ]
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Reused",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "hollywoodvideo.com is live. In October 2026 it described itself as “The NEW Hollywood Video”, an entertainment news site with a blog, and carried a “©2026 Hollywood Video” notice.[^22] The page does not say who operates it, and we could not establish who owns the trademark."
+  },
+  {
+   "status": "Auctioned",
+   "color": "var(--blue)",
+   "title": "The brands and domains",
+   "text": "In October 2010 Movie Gallery’s estate submitted a plan to auction its intellectual property through StreamBank, including the Reel.com domain and trademark.[^21] Who bought the Hollywood Video name, and for how much, is **not in our sources**."
+  },
+  {
+   "status": "Liquidated",
+   "color": "var(--red)",
+   "title": "The stores",
+   "text": "A bankruptcy judge approved the closing of Movie Gallery’s remaining stores on May 19, 2010, and going-out-of-business sales followed.[^20] The Associated Press put the number at more than 1,900.[^19] The date the last Hollywood Video closed is not in our sources."
+  },
+  {
+   "status": "Buried",
+   "color": "var(--red)",
+   "title": "Movie Gallery",
+   "text": "The buyer went through Chapter 11 twice. Its shareholders received nothing in the first reorganization, and the company did not try to reorganize in the second.[^13][^18]"
+  },
+  {
+   "status": "Closed",
+   "color": "var(--mute)",
+   "title": "Game Crazy",
+   "text": "The game departments went with the stores. Movie Gallery still counted 250 Game Crazy locations after the February 2010 closures; all were covered by the liquidation.[^17][^19]"
+  },
+  {
+   "status": "Shell",
+   "color": "var(--mute)",
+   "title": "Reel.com",
+   "text": "After June 2000 Hollywood kept Reel.com as a content-only site funded by advertising.[^3] Ten years later it was one of the assets listed for auction, described by the seller as a possible competitor to movie review sites.[^21]"
+  },
+  {
+   "status": "Outlasted, briefly",
+   "color": "var(--red)",
+   "title": "The rival",
+   "text": "Blockbuster, whose bid Hollywood’s board turned away in 2005, filed for Chapter 11 on September 23, 2010, four months after Movie Gallery’s liquidation was approved.[^20][^24]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who owned the name",
+   "subtitle": "One founder, one buyer, two bankruptcies and an auction whose result we could not trace.",
+   "nodes": [
+    {
+     "when": "Jun 1988",
+     "owner": "Hollywood Entertainment Corp.",
+     "what": "Founded in Oregon by Mark J. Wattles. First store opens in October.[^1]"
+    },
+    {
+     "when": "Jul 1993",
+     "owner": "Hollywood Entertainment, public company",
+     "what": "Initial public offering. 25 stores at year end.[^1]"
+    },
+    {
+     "when": "Apr 2005",
+     "owner": "Movie Gallery, Inc.",
+     "what": "Acquires Hollywood at $13.25 a share.[^10]",
+     "price": "about $1.25B incl. debt"
+    },
+    {
+     "when": "Oct 2007",
+     "owner": "Movie Gallery, in Chapter 11",
+     "what": "First bankruptcy. The trademark has been written down to $15.0M.[^13][^14]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "May 2008",
+     "owner": "Movie Gallery, reorganized",
+     "what": "Emerges with its old shares cancelled. By late 2008 affiliates of Sopris Capital control 86.3% of the votes.[^13]"
+    },
+    {
+     "when": "Feb 2010",
+     "owner": "Movie Gallery, in Chapter 11",
+     "what": "Second bankruptcy, then liquidation of all stores.[^15][^19]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Oct 2010",
+     "owner": "Movie Gallery estate",
+     "what": "Intellectual property sent to auction through StreamBank. The buyer is not in our sources.[^21]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Today",
+     "owner": "Operator of hollywoodvideo.com",
+     "what": "An entertainment blog uses the name. Its owner is not identified on the site.[^22]",
+     "status": "current"
+    }
+   ],
+   "source": "Hollywood Entertainment and Movie Gallery filings[^1][^10][^13][^14], Bloomberg News[^15], the Associated Press[^19], Domain Name Wire[^21] and hollywoodvideo.com.[^22]"
+  }
+ ]
+}

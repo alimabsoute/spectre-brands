@@ -1,0 +1,39 @@
+{
+ "kicker": "The people",
+ "title": "Who built it, who ran it, who bought it",
+ "lede": "Titles and dates are as given in SEC filings. Later careers are left out where we have no source.",
+ "people": [
+  {
+   "name": "David Schlessinger",
+   "role": "Founder; CEO until 1996, chairman until 1998",
+   "text": "Founded Encore Books in 1973 and ran it until 1986, then founded Zany Brainy in 1991. He still held 12.4% of the shares before the 1999 offering.[^1][^27]",
+   "later": "Co-founded Five Below in 2002 and was its executive chairman when it went public in 2012.[^27]"
+  },
+  {
+   "name": "Keith C. Spurgeon",
+   "role": "CEO, Jun 1996 – Sep 2000",
+   "text": "Spent more than ten years at Toys “R” Us, most recently as vice president for Asia and Australia. He led the turnaround, the IPO and the Noodle Kidoodle merger, and resigned two months after it closed.[^1][^3]"
+  },
+  {
+   "name": "Thomas G. Vellios",
+   "role": "President from 1998; acting CEO Sep 2000, CEO May 2001",
+   "text": "Joined from Caldor in November 1995 to run merchandising and marketing. He signed the 8-Ks through the credit crisis and was confirmed as chief executive in the month of the Chapter 11 filing.[^1][^3]",
+   "later": "Co-founded Five Below with Schlessinger and was its president and chief executive at its 2012 IPO.[^27]"
+  },
+  {
+   "name": "Robert A. Helpert",
+   "role": "Chief financial officer from May 1995",
+   "text": "Previously chief financial officer of Trans World Entertainment. He told Publishers Weekly at the time of the merger that the company remained “committed to books.”[^1][^20]"
+  },
+  {
+   "name": "Stanley Greenman",
+   "role": "Chairman and CEO of Noodle Kidoodle, 1990 – Jun 2000",
+   "text": "Joined Zany Brainy’s board in July 2000 when the merger closed.[^3]"
+  },
+  {
+   "name": "Jerry R. Welch",
+   "role": "CEO of The Right Start, later FAO Inc.",
+   "text": "Chief executive of The Right Start from March 1996. He bought Zany Brainy and FAO Schwarz within five months of each other and was still chief executive at both of FAO Inc.’s bankruptcy filings in 2003.[^13][^14][^18]"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "What survives on tape",
+ "lede": "We could not find a Zany Brainy television commercial that can be embedded. What exists is one local news segment taped off the air and later videos by people who remember the stores. Where a date comes only from the uploader, the caption says so.",
+ "videos": [
+  {
+   "id": "news99",
+   "title": "WHAS 11 Morning News with a Zany Brainy holiday toys segment",
+   "year": 1999,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "XMhxahU7NNI",
+   "caption": "A 20-minute VHS recording of a Louisville, Kentucky morning newscast which, by the uploader’s title, includes a segment on Zany Brainy’s top holiday toys. The 1999 date is also the uploader’s and we could not confirm it. If it is right, this was the Christmas after the IPO, when the chain had about 100 stores.[^2][^31]"
+  },
+  {
+   "id": "remember",
+   "title": "“Do You Remember Zany Brainy?”",
+   "year": 2021,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "poXtF9UuV1Q",
+   "caption": "A five-minute retrospective published in October 2021. It is recollection and summary, not a source for any figure on this page.[^32]"
+  },
+  {
+   "id": "toypod",
+   "title": "“Stories of Toy Companies: Zany Brainy”",
+   "year": 2021,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "bBxjrjTkaPM",
+   "caption": "A four-minute episode from a toy collectors’ podcast channel, published in October 2021, on how the chain started and what it sold. Not used as a source here.[^33]"
+  },
+  {
+   "id": "noodle",
+   "title": "“Do You Remember Noodle Kidoodle?”",
+   "year": 2021,
+   "type": "retrospective",
+   "provider": "youtube",
+   "embedId": "L3McTiSEGqc",
+   "caption": "A retrospective on the rival that Zany Brainy absorbed in July 2000, published in December 2021. All 60 Noodle Kidoodle stores were renamed.[^3][^34]"
+  }
+ ],
+ "note": "We found no embeddable footage of the 2001 bankruptcy or the 2003 liquidation sales."
+}

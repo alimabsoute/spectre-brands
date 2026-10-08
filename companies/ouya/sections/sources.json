@@ -1,0 +1,197 @@
+{
+ "kicker": "Sources & data notes",
+ "title": "Show your work",
+ "lede": "Ouya was a private, venture-backed company and filed nothing with the SEC. The primary documents are its own Kickstarter page, press releases from Ouya, Razer, Sony and Amazon, Razer’s shutdown notice and the archived ouya.tv. The rest is the technology and trade press of 2012 to 2019, read in full.",
+ "list": [
+  {
+   "id": 1,
+   "text": "Kickstarter, [“OUYA: A New Kind of Video Game Console”](https://web.archive.org/web/20131231145838/http://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console), campaign page by OUYA, funding period Jul 10 – Aug 9, 2012 (Internet Archive capture of Dec 31, 2013). Totals, reward tiers, specifications and campaign text."
+  },
+  {
+   "id": 2,
+   "text": "Sean Hollister, [“Ouya: a $99 hackable Android game console designed by Yves Behar”](https://www.theverge.com/2012/7/2/3134004/ouya-a-99-hackable-android-game-console-designed-by-yves-behar), The Verge, Jul 3, 2012."
+  },
+  {
+   "id": 3,
+   "text": "Ben Gilbert, [“Ouya tops $8.5 million as Kickstarter campaign comes to a close”](https://www.engadget.com/2012-08-09-ouya-kickstarter-end.html), Engadget, Aug 9, 2012."
+  },
+  {
+   "id": 4,
+   "text": "[“Ouya Kickstarter closes on $8,596,475, attracts 12 $10k pledges”](https://mcvuk.com/business-news/ouya-kickstarter-closes-on-8596475-attracts-12-10k-pledges/), MCV, Aug 9, 2012."
+  },
+  {
+   "id": 5,
+   "text": "Sal Romano, [“Ouya to launch at retail in June”](https://www.gematsu.com/2013/02/ouya-to-launch-at-retail-in-june), Gematsu, Feb 5, 2013."
+  },
+  {
+   "id": 6,
+   "text": "Tim Stevens, [“OUYA review (founding backer edition)”](https://www.engadget.com/2013-04-03-ouya-review-founding-backer-edition.html), Engadget, Apr 3, 2013."
+  },
+  {
+   "id": 7,
+   "text": "David Pierce, [“Ouya review: can an indie console take on Sony and Microsoft?”](https://www.theverge.com/2013/4/4/4180242/ouya-review), The Verge, Apr 4, 2013."
+  },
+  {
+   "id": 8,
+   "text": "Jon Jordan, [“Ouya closes $15 million round, pushes back US retail launch until 25 June”](https://www.pocketgamer.biz/ouya-closes-15-million-round-pushes-back-us-retail-launch-until-25-june/), PocketGamer.biz, May 9, 2013."
+  },
+  {
+   "id": 9,
+   "text": "[“OUYA Raises Another Cool $15M, Launch Delayed to June 25th”](https://hothardware.com/news/ouya-raises-another-cool-15m-launch-delayed-to-june-25th), HotHardware, May 9, 2013."
+  },
+  {
+   "id": 10,
+   "text": "[“Ouya officially on sale to the public today, already sold out on Amazon”](https://www.droidgamers.com/news/ouya-officialling-on-sale-to-the-public-today-already-sold-out-on-amazon/), Droid Gamers, Jun 25, 2013."
+  },
+  {
+   "id": 11,
+   "text": "Kevin Parrish, [“OUYA Launches to Lukewarm Early Reviews”](https://www.tomshardware.com/news/OUYA-gdgt-review-scores-Console-Kickstarter,23340.html), Tom’s Hardware, Jul 2, 2013. A roundup of scores collected by gdgt."
+  },
+  {
+   "id": 12,
+   "text": "[“US Ouya sales ‘relatively light for a new console’; Exclusive title TowerFall moves to PC”](https://mcvuk.com/business-news/pc/us-ouya-sales-relatively-light-for-a-new-console-exclusive-title-towerfall-moves-to-pc/), MCV, Jul 19, 2013, reporting NPD’s comment to Joystiq."
+  },
+  {
+   "id": 13,
+   "text": "[“Ouya devs reveal software sales numbers”](https://www.mcvuk.com/news/read/ouya-devs-reveal-software-sales-numbers), MCV, Jul 22, 2013, reporting figures given to Edge."
+  },
+  {
+   "id": 14,
+   "text": "Nathan Olivarez-Giles, [“Ouya CEO defends game sales as ‘better than we expected’”](https://www.theverge.com/2013/7/25/4556034/ouya-julie-uhrman-exclusive-intervew-sales-numbers), The Verge, Jul 25, 2013."
+  },
+  {
+   "id": 15,
+   "text": "Mike Rose, [“Ouya’s Free the Games debacle comes to a head”](https://www.gamedeveloper.com/business/ouya-s-free-the-games-debacle-comes-to-a-head), Gamasutra (now Game Developer), Sep 11, 2013."
+  },
+  {
+   "id": 16,
+   "text": "Matthew Diener, [“Developers pull Ouya games as company responds to Free the Game fund farce”](https://www.pocketgamer.biz/developers-pull-ouya-games-as-company-responds-to-free-the-game-fund-farce/), PocketGamer.biz, Sep 11, 2013."
+  },
+  {
+   "id": 17,
+   "text": "Matthew Diener, [“That Dragon, Cancer dev defends Ouya as Free Your Games fund is re-worked”](https://www.pocketgamer.biz/that-dragon-cancer-dev-defends-ouya-as-free-your-games-fund-is-re-worked/), PocketGamer.biz, Sep 23, 2013."
+  },
+  {
+   "id": 18,
+   "text": "Mike Suszek, [“Gridiron Thunder to launch September 30”](https://www.engadget.com/2013-09-12-gridiron-thunder-to-launch-september-30.html), Joystiq (archived on Engadget), Sep 12, 2013."
+  },
+  {
+   "id": 19,
+   "text": "Sony Computer Entertainment, [“PlayStation 4 Sales Surpass 1 Million Units in North America in 24 Hours”](https://www.sie.com/en/corporate/release/2013/131117.html), press release, Nov 17, 2013."
+  },
+  {
+   "id": 20,
+   "text": "Amazon, [“Introducing Amazon Fire TV”](https://press.aboutamazon.com/2014/4/introducing-amazon-fire-tv-the-easiest-way-to-watch-netflix-prime-instant-video-hulu-plus-watchespn-and-more-on-your-big-screen-tv), press release, Apr 2, 2014."
+  },
+  {
+   "id": 21,
+   "text": "[“Ouya’s best-selling game has sold 7,000 copies”](https://www.mcvuk.com/ouyas-best-selling-game-has-sold-7000-copies/), MCV, Apr 29, 2014, reporting Matt Thorson’s interview with Eurogamer and Julie Uhrman’s comment to VG247."
+  },
+  {
+   "id": 22,
+   "text": "OUYA and Mad Catz Interactive, [“OUYA Debuts on Mad Catz M.O.J.O. Micro-Console for Android”](https://pressreleases.triplepointpr.com/2014/07/01/ouya-debuts-on-mad-catz-m-o-j-o-micro-console-for-android/), press release, Jul 1, 2014."
+  },
+  {
+   "id": 23,
+   "text": "Matt Suckley, [“Ouya leverages its library to earn $10 million investment from Alibaba”](https://www.pocketgamer.biz/alibaba-invests-usd-10-million-into-ouya/), PocketGamer.biz, Jan 30, 2015."
+  },
+  {
+   "id": 24,
+   "text": "Dan Primack, [“Exclusive: Gaming startup OUYA needs to find a buyer quickly”](https://fortune.com/2015/04/28/exclusive-gaming-startup-ouya-needs-to-find-a-buyer-quickly), Fortune, Apr 28, 2015."
+  },
+  {
+   "id": 25,
+   "text": "Razer, [“Razer Acquires OUYA Software Assets”](https://www.razer.com/newsroom/company-news/razer-acquires-ouya-software-assets/), press release, Jul 27, 2015."
+  },
+  {
+   "id": 26,
+   "text": "Daniel Cooper, [“OUYA CEO Julie Uhrman leaves the company she co-founded”](https://www.engadget.com/2015-07-27-ouya-ceo-julie-uhrman-leaves.html), Engadget, Jul 27, 2015."
+  },
+  {
+   "id": 27,
+   "text": "Adi Robertson, [“Ouya left indie game developers in the lurch, but Razer is trying to help”](https://www.theverge.com/2015/7/28/9059759/ouya-razer-free-the-games-fund-cut-off), The Verge, Jul 28, 2015."
+  },
+  {
+   "id": 28,
+   "text": "Jon Martindale, [“Razer to honour Ouya Free the Games funding commitments”](https://www.kitguru.net/gaming/console-desktop-pc/jon-martindale/razer-to-honour-ouya-free-the-games-funding-commitments/), KitGuru, Jul 29, 2015, citing Eurogamer."
+  },
+  {
+   "id": 29,
+   "text": "[“Indie developers out thousands of dollars in OUYA-Razer deal (updated)”](https://www.engadget.com/2015-07-28-ouya-razer-indie-games-money.html), Engadget, Jul 28, 2015."
+  },
+  {
+   "id": 30,
+   "text": "Razer Support, [Forge TV / OUYA shutdown notice and FAQ](https://web.archive.org/web/20190522041608/https://support.razer.com/console/razer-forge-tv/), Internet Archive capture of May 22, 2019."
+  },
+  {
+   "id": 31,
+   "text": "Greg Kumparak, [“Seven years later, the OUYA is dead for real”](https://techcrunch.com/2019/05/22/seven-years-later-the-ouya-is-dead-for-real/), TechCrunch, May 22, 2019."
+  },
+  {
+   "id": 32,
+   "text": "Ben Schoon, [“Razer Forge TV, OUYA will shut down for good next month”](https://9to5google.com/2019/05/22/razer-forge-tv-ouya-shut-down/), 9to5Google, May 22, 2019."
+  },
+  {
+   "id": 33,
+   "text": "Jenni Lada, [“Ouya Service Ending On June 25, 2019”](https://www.siliconera.com/ouya-service-ending-on-june-25-2019/), Siliconera, May 22, 2019."
+  },
+  {
+   "id": 34,
+   "text": "Internet Archive Wayback Machine, captures of ouya.tv: [Aug 9, 2012](https://web.archive.org/web/20120809061252/http://www.ouya.tv/), [Jul 10, 2013](https://web.archive.org/web/20130710044150/http://www.ouya.tv/), [Jan 1, 2014](https://web.archive.org/web/20140101101447/http://www.ouya.tv/), [Jul 1, 2014](https://web.archive.org/web/20140701051206/http://www.ouya.tv/), [Aug 11, 2015](https://web.archive.org/web/20150811205546/http://www.ouya.tv/), [Jan 11, 2017](https://web.archive.org/web/20170111181146/http://www.ouya.tv/) and [Jun 2, 2019](https://web.archive.org/web/20190602134022/http://www.ouya.tv/)."
+  },
+  {
+   "id": 35,
+   "text": "Christian Weiske, [“Community OUYA API server”](https://ouya.cweiske.de/) (the stouyapi project), a volunteer-run replacement for the Ouya store server."
+  },
+  {
+   "id": 36,
+   "text": "OUYA’s YouTube channel: [“OUYA - Official OUYA Kickstarter Video”](https://www.youtube.com/watch?v=U39L4mEyIRc), uploaded Aug 29, 2012, and [“OUYA - TV Commercial”](https://www.youtube.com/watch?v=P0-V2uxz_4o), uploaded Feb 25, 2014."
+  }
+ ],
+ "notes": [
+  {
+   "label": "Derived",
+   "text": "“About nine times the goal” is $8,596,474 ÷ $950,000 = 9.05.[^1] 58,224 backers in tiers that included a console is 1,000 + 46,127 + 7,755 + 2,500 + 600 + 226 + 4 + 12, and 92% is 58,224 ÷ 63,416; in the backer flow, 842 is 600 + 226 + 4 + 12, 3,668 is 1,770 + 1,898 and the 1,524 remainder is 63,416 − 61,892.[^1] 73% of owners not having bought a game is 100 − 27.[^14] About $33.6M raised is $8.6M + $15M + $10M.[^1][^8][^23] The $380,000 in the fund flow is $1,000,000 − $620,000.[^27] “Six years to the day” is June 25, 2013 to June 25, 2019.[^10][^30] 16 icons is 1,000,000 ÷ 63,416 = 15.8, rounded up.[^19][^1] September 8, 2013 as the close of the Gridiron Thunder campaign is “last Sunday” counted back from an article of Thursday, September 12.[^18] The original retail date of June 4 comes from The Verge’s April review; three weeks later is June 25.[^7][^9]"
+  },
+  {
+   "label": "Company figures, not audited",
+   "text": "The 27% and 8% figures, and the claim that 21% of TowerFall’s revenue came from Ouya, are Julie Uhrman’s statements to the press.[^14][^21] The developer earnings are the developers’ own statements, relayed by The Verge, Edge via MCV and Eurogamer via MCV.[^13][^14][^21] Sony’s one million is its own “sold through” figure.[^19] Razer supplied the $620,000 and the count of 27 developers.[^27][^28]"
+  },
+  {
+   "label": "Estimates and approximations",
+   "text": "TowerFall’s 7,000 copies on Ouya is its creator’s approximation.[^21] The gdgt average of 62 out of 100 mixed pre-launch and retail reviews, as Tom’s Hardware noted.[^11]"
+  },
+  {
+   "label": "The game counter and the card sparkline",
+   "text": "The series 500, 925, 1,112, 1,231, 1,250 was read from our own screenshots of Internet Archive captures of ouya.tv.[^34] The first value is a “500 games and counting” banner, a round number; the others are the page’s counter. The final 0 is not a count but the closure of the store on June 25, 2019.[^30] The series therefore mixes a banner, counter readings and an event, and measures listings, not sales. The July 2013 capture shows the counter mid-animation at 571 and is not used."
+  },
+  {
+   "label": "Conflicts between sources",
+   "text": "Kickstarter’s page gives $8,596,474; MCV and others printed $8,596,475.[^1][^4] The archived page lists 46,127 backers at $99 and 1,770 at $10; MCV’s same-day count has 46,124 and 1,170.[^1][^4] The page calls the funding period 29 days; July 10 to August 9 is 30 calendar days.[^1] The Verge put TowerFall’s first-month earnings at about $21,000; MCV’s 2,000 copies at $15 implies $30,000 gross.[^13][^14] Razer’s press release counts “over 1,000” games; The Verge the next day wrote 1,500.[^25][^27] Ouya’s location is Los Angeles on Kickstarter and Santa Monica in Fortune and in the 2014 press release.[^1][^22][^24] Droid Gamers described the delayed launch as moving from June to July; the launch date was June 25.[^9][^10]"
+  },
+  {
+   "label": "Unknown",
+   "text": "How many consoles were sold. Revenue, losses and headcount in any year. How much Ouya borrowed from TriplePoint Capital and what Razer paid. What became of the hardware assets and of Ouya, Inc. after the sale. Whether every Free the Games developer was eventually paid. Who holds the Ouya trademark today: we did not check the trademark register, so the “dead” tag rests on the documented shutdown and on finding no product or business using the name. The exact date the Free the Games Fund was announced; our sources place it in 2013, before July 25.[^14][^27]"
+  },
+  {
+   "label": "Unverified and left out",
+   "text": "Console unit totals that circulate online. Reports that a venture partner joined Ouya’s board in 2013 and of a 2014 distribution deal in China beyond the one-line mention in Fortune.[^24] Julie Uhrman’s later career. An account of police being called to Ouya’s display outside E3 2013, which we saw only as a video headline."
+  },
+  {
+   "label": "Secondary sourcing",
+   "text": "Several figures reach us second-hand: NPD’s comment via Joystiq via MCV[^12]; Edge’s developer figures via MCV[^13]; Eurogamer’s and VG247’s via MCV[^21]; Eurogamer’s and Polygon’s Razer reporting via KitGuru and The Verge[^27][^28]; Uhrman’s memo via Fortune[^24]. The shipping dates of December 28, 2012 and March 28, 2013 come from a 2019 Siliconera summary.[^33] The original Joystiq article on Gridiron Thunder survives on Engadget’s domain.[^18]"
+  },
+  {
+   "label": "How we read the sources",
+   "text": "Every linked page was opened for this post-mortem. Kickstarter blocks automated requests, so the campaign page was read in the Internet Archive capture linked above; Razer’s 2019 notice no longer exists on its site and was read in the Internet Archive capture. Video upload dates are from the YouTube pages. We did not transcribe the videos and cite no figures from them."
+  },
+  {
+   "label": "Images",
+   "text": "The console photograph is by Evan-Amos (public domain) and the portrait of Julie Uhrman is by Duncan Rawlinson (CC BY-SA 2.0), both from Wikimedia Commons. Website images are our screenshots of Internet Archive captures. The four drawings are original illustrations. The accent colour is the site’s orange, darkened to meet contrast requirements."
+  },
+  {
+   "label": "General knowledge",
+   "text": "That Amazon still sells Fire TV devices and Sony still makes PlayStation consoles. That Android is Google’s mobile operating system."
+  }
+ ]
+}

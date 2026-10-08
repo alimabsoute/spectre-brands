@@ -1,0 +1,62 @@
+{
+ "kicker": "Commercials & footage",
+ "title": "The pitch, the reviews and the goodbye",
+ "lede": "Ouya was sold on video before it existed. These are the campaign film and a later commercial from the company’s own channel, two reviews from 2013, a conference talk by the founder and a news item from the day she left. Dates are upload dates unless the caption says otherwise.",
+ "videos": [
+  {
+   "id": "kickstarter",
+   "title": "The official Ouya Kickstarter video",
+   "year": 2012,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "U39L4mEyIRc",
+   "caption": "The three-minute film from the campaign page, as posted on the company’s own YouTube channel on August 29, 2012, after the campaign had closed with $8,596,474.[^36][^1]"
+  },
+  {
+   "id": "verge",
+   "title": "The Verge: “Ouya hands-on review”",
+   "year": 2013,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "6ImRC10AGHo",
+   "caption": "Published by The Verge on April 4, 2013 with its written review of the backers’ console, which scored 3.5 out of 10.[^7]"
+  },
+  {
+   "id": "ignreview",
+   "title": "IGN Reviews: Ouya",
+   "year": 2013,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "M5gccrFPUsw",
+   "caption": "IGN’s video review of the retail console, published July 26, 2013, a month after it reached stores. Its verdict is IGN’s; we cite no figure from it."
+  },
+  {
+   "id": "xoxo",
+   "title": "Julie Uhrman at XOXO Festival",
+   "year": 2013,
+   "type": "event",
+   "provider": "youtube",
+   "embedId": "JZfSNYq3mhs",
+   "caption": "A 19-minute talk by the founder, posted by the festival on October 18, 2013, a few weeks after the Free the Games Fund was rewritten.[^17] It is her account, not a source for any figure on this page."
+  },
+  {
+   "id": "tvspot",
+   "title": "“OUYA – TV Commercial”",
+   "year": 2014,
+   "type": "commercial",
+   "provider": "youtube",
+   "embedId": "P0-V2uxz_4o",
+   "caption": "A 31-second spot uploaded to the company’s channel on February 25, 2014 under that title.[^36] Where and when it aired on television is not in our sources."
+  },
+  {
+   "id": "ignleaves",
+   "title": "IGN News: “Ouya CEO Leaves Company Following Razer Acquisition”",
+   "year": 2015,
+   "type": "news",
+   "provider": "youtube",
+   "embedId": "w3BUAva4N2c",
+   "caption": "A one-minute news item published July 27, 2015, the day Razer confirmed the purchase and Uhrman announced her departure.[^25][^26]"
+  }
+ ],
+ "note": "We found no embeddable footage of the June 25, 2019 shutdown itself from a news organisation."
+}

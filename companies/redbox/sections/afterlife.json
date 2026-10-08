@@ -1,0 +1,104 @@
+{
+ "kicker": "Where are they now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "For sale",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "HPS Investment Partners, the secured lender, was given leave to foreclose on September 6, 2024 and gave notice of a sale on April 23, 2025 of collateral that included “All Trademarks owned by the Debtors, including the marks: ‘Crackle’ and ‘Redbox’.”[^32][^33] We could not find a primary source for who bought them, so the present owner of the name is **unknown** to us. We found no service operating under it."
+  },
+  {
+   "status": "Abandoned",
+   "color": "var(--red)",
+   "title": "The kiosks",
+   "text": "About 24,000 were left where they stood.[^26] CVS asked the court for leave to remove and dispose of more than 2,500 it called “unwanted machines.”[^29][^30] Walgreens said 5,400 kiosks were costing it $184,000 a month in electricity, and removal was put at upwards of $500 each.[^31] Some retailers taped up their own notices.[^38]"
+  },
+  {
+   "status": "Unpaid",
+   "color": "var(--red)",
+   "title": "The employees",
+   "text": "Variety counted 1,033 employees as of late June 2024, out of work without severance or extended benefits. They had not been paid for weeks and had been without health cover since May.[^26][^29] The judge said a trustee would look into whether money held in trust for employees had been misused.[^26]"
+  },
+  {
+   "status": "In liquidation",
+   "color": "var(--mute)",
+   "title": "The company",
+   "text": "The Chapter 7 trustee is George L. Miller. In March 2026 the court approved an agreement on how to share the proceeds if the estate sells its copyright litigation rights, for which a buyer had offered at least $100M in instalments. HPS is owed at least $500M in principal.[^34]"
+  },
+  {
+   "status": "Wiped out",
+   "color": "var(--mute)",
+   "title": "The shareholders",
+   "text": "Redbox’s public shareholders had received 0.087 of a Chicken Soup for the Soul Entertainment share for each of theirs in 2022.[^20] That company’s 2023 annual report warned that holders would “likely lose most or all of their investment” if it could not continue.[^22]"
+  },
+  {
+   "status": "Also gone",
+   "color": "var(--blue)",
+   "title": "The rival by mail",
+   "text": "Netflix stopped its DVD-by-mail service on September 29, 2023, ten months before Redbox was shut down. Its DVD revenue that year was $82.8M, and its streaming revenue $33.6 billion.[^35]"
+  },
+  {
+   "status": "Still running, unofficially",
+   "color": "var(--green)",
+   "title": "The leftovers",
+   "text": "For months after the shutdown some kiosks that had never been unplugged went on renting discs, and hobbyists filmed them.[^37] We have no count of how many, and none are part of a business."
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "Who has owned the name",
+   "subtitle": "From a hamburger chain to a secured lender, by way of coin counting, private equity and a blank-cheque company.",
+   "nodes": [
+    {
+     "when": "2002",
+     "owner": "McDonald’s Ventures",
+     "what": "Develops the kiosk and tests it in its restaurants.[^1][^2]"
+    },
+    {
+     "when": "Dec 2005",
+     "owner": "McDonald’s and Coinstar",
+     "what": "Coinstar buys 47.3%; Redbox becomes a separate company.[^4][^1]",
+     "price": "$20.0M + $12.0M"
+    },
+    {
+     "when": "Jan 2008 – Feb 2009",
+     "owner": "Coinstar (Outerwall from 2013)",
+     "what": "Goes to 51.0% for $5.1M, then buys the remainder.[^5][^7][^11]",
+     "price": "$162.4M"
+    },
+    {
+     "when": "Sep 2016",
+     "owner": "Funds managed by Apollo",
+     "what": "Buy all of Outerwall for $52.00 a share and take it private.[^14][^15]",
+     "price": "$1.6B, whole group"
+    },
+    {
+     "when": "Oct 2021",
+     "owner": "Redbox Entertainment Inc.",
+     "what": "Listed on Nasdaq through a merger with Seaport Global Acquisition Corp. Apollo keeps voting control.[^16][^17]"
+    },
+    {
+     "when": "Aug 2022",
+     "owner": "Chicken Soup for the Soul Entertainment",
+     "what": "All-share merger at 0.087 of a share; $359.9M of debt assumed.[^20][^22]",
+     "price": "0.087 share per share"
+    },
+    {
+     "when": "Jun – Jul 2024",
+     "owner": "Chapter 11, then Chapter 7",
+     "what": "Filed June 28; converted to liquidation July 10.[^25][^26]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "Apr 2025 – today",
+     "owner": "Foreclosure sale; buyer not confirmed",
+     "what": "HPS, as collateral agent, schedules a sale of the trademarks. We found no primary record of the buyer and no one using the name.[^32][^33]",
+     "status": "current"
+    }
+   ],
+   "source": "SEC filings, the lender’s notice filed in the bankruptcy case and press, as cited. The price of the 2016 buyout is for all of Outerwall, including Coinstar and ecoATM; no separate price for Redbox was published."
+  }
+ ]
+}

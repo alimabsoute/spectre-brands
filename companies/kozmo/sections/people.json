@@ -1,0 +1,46 @@
+{
+ "kicker": "The people",
+ "title": "Who ran it",
+ "lede": "Ages and titles are from the IPO filing of March 2000. Later careers are included only where we found a source.",
+ "people": [
+  {
+   "name": "Joseph Park",
+   "role": "Co-founder; chairman & CEO, Jul 1997 – 2000",
+   "text": "Age 28 in the filing. A former Goldman, Sachs analyst who owned 6,000,000 shares, 7.8% of the company. CNET reported in February 2000 that he had said Kozmo would never charge a delivery fee. He gave up the chief executive’s job during 2000.[^1][^4][^18]",
+   "later": "Co-founded Askville, an Amazon question-and-answer site.[^21]"
+  },
+  {
+   "name": "Yong Kang",
+   "role": "Co-founder; president",
+   "text": "Age 27. Previously an assistant vice president in media finance at Société Générale. He owned 4,000,000 shares, 5.2%.[^1]",
+   "later": "Listed in 2008 as working in investment banking at Lehman Brothers.[^21]"
+  },
+  {
+   "name": "Gerardo “Gerry” Burdo",
+   "role": "CFO from Nov 1999; CEO by Dec 2000",
+   "text": "Age 34. He came from Ethan Allen, where he had been principal financial officer. As chief executive he introduced the delivery fee, closed two cities and ended the Starbucks agreement, and the closing statement was issued in his name.[^1][^3][^4][^13]"
+  },
+  {
+   "name": "Kenneth “Skip” Trevathan",
+   "role": "Chief operating officer, from Nov 1999",
+   "text": "Age 53. He had spent 15 years at Federal Express. He told Computerworld that the company’s systems had raised orders per delivery run from a little more than one to about 2.2.[^1][^12]",
+   "later": "In 2008 he said four cities had been profitable and seven had not.[^21]"
+  },
+  {
+   "name": "Chris Siragusa",
+   "role": "Group vice president of technology",
+   "text": "Computerworld gives his title as group vice president of technology; CNNMoney later called him the former chief technology officer.[^12][^20]",
+   "later": "Founded MaxDelivery in New York.[^20]"
+  },
+  {
+   "name": "Robert Greene",
+   "role": "Director; Flatiron Partners",
+   "text": "A managing partner of Flatiron, he joined the board in October 1999 and defended the model in January 2001: “It’s in its early days.”[^1][^12]"
+  },
+  {
+   "name": "Barnaby Montgomery",
+   "role": "Co-founder and CEO, Yummy.com",
+   "text": "He relaunched the Kozmo name in Los Angeles in 2018 as a low-price grocery service with minimum quantities.[^23]"
+  }
+ ]
+}

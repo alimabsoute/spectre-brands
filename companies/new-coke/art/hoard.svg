@@ -1,0 +1,11 @@
+<svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original illustration of soft drink cases stacked in a basement under a bare light bulb">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="10" y="10" width="340" height="270" fill="#eceef1" stroke="none"/>
+<path d="M10 250 H350" stroke-width="3"/>
+<path d="M180 10 V52"/><path d="M168 52 H192 L190 66 C204 74 204 98 180 100 C156 98 156 74 170 66 Z" fill="#ffd21f"/>
+<path d="M150 112 L138 126 M210 112 L222 126 M180 114 V132" stroke="#c9a400" stroke-width="2"/>
+<g fill="#c1121f"><rect x="40" y="200" width="90" height="50"/><rect x="134" y="200" width="90" height="50"/><rect x="228" y="200" width="90" height="50"/><rect x="86" y="150" width="90" height="50"/><rect x="180" y="150" width="90" height="50"/><rect x="134" y="100" width="90" height="50"/></g>
+<g stroke="#fbf9f5" stroke-width="4"><path d="M52 232 C72 212 96 240 118 218"/><path d="M146 232 C166 212 190 240 212 218"/><path d="M240 232 C260 212 284 240 306 218"/><path d="M98 182 C118 162 142 190 164 168"/><path d="M192 182 C212 162 236 190 258 168"/><path d="M146 132 C166 112 190 140 212 118"/></g>
+<g fill="#b9bfc7"><ellipse cx="290" cy="138" rx="12" ry="4"/><path d="M278 138 V150 H302 V138"/><ellipse cx="60" cy="188" rx="12" ry="4"/><path d="M48 188 V200 H72 V188"/></g>
+<path d="M300 40 H340 V110 H300 Z" fill="#fbf9f5"/><path d="M308 56 H332 M308 70 H332 M308 84 H324"/>
+</g></svg>

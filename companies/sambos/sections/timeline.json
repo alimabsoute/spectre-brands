@@ -1,0 +1,383 @@
+{
+ "kicker": "Timeline",
+ "title": "Sixty-three years, 34 moments",
+ "lede": "From a beachfront pancake house to a covered sign. Filter by thread.",
+ "categories": {
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "name": {
+   "label": "The name",
+   "color": "#7b62a8"
+  },
+  "death": {
+   "label": "Bankruptcy & end",
+   "color": "#a8321f"
+  },
+  "after": {
+   "label": "Afterlife",
+   "color": "#93743a"
+  }
+ },
+ "events": [
+  {
+   "date": "Jun 17",
+   "year": "1957",
+   "cat": "corporate",
+   "title": "The first restaurant opens",
+   "text": "Sam Battistone and F. Newell Bohnett open a pancake house at 216 West Cabrillo Boulevard, Santa Barbara.",
+   "src": [
+    17,
+    24
+   ]
+  },
+  {
+   "date": "",
+   "year": "1967",
+   "cat": "corporate",
+   "title": "Fraction of the Action begins",
+   "text": "Managers can buy 20% of their restaurant for $20,000. The chain has 67 restaurants.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "",
+   "year": "1969",
+   "cat": "money",
+   "title": "Sambo’s goes public",
+   "text": "The shares are split five times between 1970 and 1974.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1971",
+   "cat": "name",
+   "title": "Ann Arbor application",
+   "text": "The company files a site plan for a restaurant in Ann Arbor, Michigan. Council members and the mayor object to the name.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Late",
+   "year": "1972",
+   "cat": "name",
+   "title": "The first Jolly Tiger",
+   "text": "Ann Arbor approves the restaurant after the company agrees not to use the name Sambo’s there.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "",
+   "year": "1977",
+   "cat": "money",
+   "title": "The peak year",
+   "text": "869 restaurants, income of $22.8M and a share price that touches 27.",
+   "src": [
+    6,
+    9
+   ]
+  },
+  {
+   "date": "Fall",
+   "year": "1977",
+   "cat": "money",
+   "title": "The SEC objects",
+   "text": "The commission says managers’ payments cannot be recorded as sales. The company restates 20 years of earnings and replaces the plan.",
+   "src": [
+    2,
+    9
+   ]
+  },
+  {
+   "date": "Nov 17",
+   "year": "1978",
+   "cat": "name",
+   "title": "Under fire in New England",
+   "text": "The Times reports pickets, a suit by the Massachusetts attorney general and a licence refused in Reading. Nine-month earnings have fallen to $3.1M from $6.8M.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1978",
+   "cat": "name",
+   "title": "Rhode Island complaint",
+   "text": "The Urban League of Rhode Island, the local NAACP and two individuals complain to the state human rights commission.",
+   "src": [
+    4
+   ]
+  },
+  {
+   "date": "Late",
+   "year": "1978",
+   "cat": "money",
+   "title": "Losses begin",
+   "text": "Sambo’s loses money in the fourth quarter and never reports another profit.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "May",
+   "year": "1979",
+   "cat": "corporate",
+   "title": "Shareholder revolt",
+   "text": "Dissident shareholders almost elect two directors.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "1979",
+   "cat": "corporate",
+   "title": "Battistone Sr. steps down",
+   "text": "Creditors press for four outside directors. The founder, 69, resigns as chairman and is replaced by his son, Sam D. Battistone, 39.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1979",
+   "cat": "corporate",
+   "title": "The Motel 6 team arrives",
+   "text": "GDV, a unit of City Investing, pays $13.7M for a 16% holding and installs Daniel R. Shaughnessy as president. The chain has 1,090 restaurants.",
+   "src": [
+    2
+   ]
+  },
+  {
+   "date": "",
+   "year": "1979",
+   "cat": "money",
+   "title": "$77.8M loss",
+   "text": "The loss for the year, as UPI later reported it. More than 70% of managers have resigned in two years.",
+   "src": [
+    2,
+    7
+   ]
+  },
+  {
+   "date": "",
+   "year": "1980",
+   "cat": "corporate",
+   "title": "City Investing reaches 34%",
+   "text": "The conglomerate completes its purchase of 34% of the chain for $29M. The loss for the year is $11.6M.",
+   "src": [
+    6,
+    7
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1981",
+   "cat": "corporate",
+   "title": "Suing the founders",
+   "text": "New management files a $100M suit against 28 former officials, including Battistone and Bohnett.",
+   "src": [
+    6,
+    7
+   ]
+  },
+  {
+   "date": "Mar",
+   "year": "1981",
+   "cat": "name",
+   "title": "No Place Like Sam’s",
+   "text": "The company renames 18 restaurants in Massachusetts, Connecticut and New Hampshire. It has 1,117 restaurants.",
+   "src": [
+    3,
+    5
+   ]
+  },
+  {
+   "date": "Mar 16",
+   "year": "1981",
+   "cat": "name",
+   "title": "Rhode Island order",
+   "text": "The Commission for Human Rights orders the four Rhode Island restaurants renamed. The company says it will appeal.",
+   "src": [
+    4,
+    12
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "1981",
+   "cat": "money",
+   "title": "$925,000 verdict",
+   "text": "An Oregon court awards damages to a former manager who sued for fraud over the profit-sharing plan.",
+   "src": [
+    6
+   ]
+  },
+  {
+   "date": "Sep 30",
+   "year": "1981",
+   "cat": "money",
+   "title": "Default",
+   "text": "Sambo’s misses a $4.8M payment, the first instalment of a $100M restructured loan from 17 lenders.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Nov 4",
+   "year": "1981",
+   "cat": "name",
+   "title": "Sixth Circuit rules for the name",
+   "text": "The court of appeals orders Ann Arbor to let the restaurant use the name Sambo’s.",
+   "src": [
+    12
+   ]
+  },
+  {
+   "date": "Nov 9",
+   "year": "1981",
+   "cat": "death",
+   "title": "Closings begin",
+   "text": "Restaurants in Michigan, Ohio and Kentucky shut first. Until then the new management had closed only five or six.",
+   "src": [
+    7
+   ]
+  },
+  {
+   "date": "Nov 25",
+   "year": "1981",
+   "cat": "death",
+   "title": "447 closed, shares halted",
+   "text": "The company says it has closed 447 restaurants and sold 12, leaving 667. Five men, including two former officers, are indicted for fraud.",
+   "src": [
+    8,
+    9
+   ]
+  },
+  {
+   "date": "Nov 27",
+   "year": "1981",
+   "cat": "death",
+   "title": "Chapter 11",
+   "text": "Sambo’s Restaurants Inc. files a voluntary petition in the Central District of California.",
+   "src": [
+    10,
+    11,
+    16
+   ]
+  },
+  {
+   "date": "Late",
+   "year": "1982",
+   "cat": "death",
+   "title": "Season’s",
+   "text": "With $30M borrowed from GDV and the Foothill Group, more than 600 restaurants are converted to a new format and name.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "May",
+   "year": "1983",
+   "cat": "death",
+   "title": "Examiner’s warning",
+   "text": "A court examiner says Season’s needs a sharper rise in sales. The company sells 250 restaurants and agrees to convert 112 to Godfather’s Pizza.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Jul 1",
+   "year": "1983",
+   "cat": "death",
+   "title": "A third format",
+   "text": "Sambo’s says it may turn its remaining 320 Season’s restaurants into Coco’s and Baxter’s franchises for W.R. Grace.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Aug 3",
+   "year": "1984",
+   "cat": "death",
+   "title": "Vicorp buys 166",
+   "text": "The trustee and Vicorp announce a court-approved sale for $54.8M: 107 restaurants in California, 46 in Florida, 9 in Arizona and 4 elsewhere.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "About",
+   "year": "1986",
+   "cat": "after",
+   "title": "The family buys back the first one",
+   "text": "After selling the Utah Jazz in 1985–86, Sam D. Battistone persuades Vicorp to sell him the Santa Barbara restaurant. The exact date is not in our sources.",
+   "src": [
+    17
+   ]
+  },
+  {
+   "date": "Nov 9",
+   "year": "1989",
+   "cat": "after",
+   "title": "Registration cancelled",
+   "text": "The federal trademark registration filed by the company in October 1981 is cancelled for want of a renewal declaration.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "1998",
+   "cat": "after",
+   "title": "Talk of a revival",
+   "text": "Chad Stevens, the founder’s grandson, tells the Los Angeles Times and CNN he wants to relaunch the chain under its old name.",
+   "src": [
+    18,
+    19
+   ]
+  },
+  {
+   "date": "Jan 19",
+   "year": "2010",
+   "cat": "after",
+   "title": "A new trademark application",
+   "text": "Palm Beach Restaurants, Inc. of Santa Barbara applies to register the name for restaurant services. The application is abandoned on October 21.",
+   "src": [
+    21
+   ]
+  },
+  {
+   "date": "Jun 5",
+   "year": "2020",
+   "cat": "after",
+   "title": "The sign is covered",
+   "text": "After a petition by Rashelle Monet, the owners cover the letters with a peace symbol and the words “& LOVE.”",
+   "src": [
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "date": "Jul 14",
+   "year": "2020",
+   "cat": "after",
+   "title": "Chad’s",
+   "text": "A new sign goes up on the building after 63 years.",
+   "src": [
+    26
+   ]
+  }
+ ]
+}

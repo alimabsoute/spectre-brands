@@ -1,0 +1,274 @@
+{
+ "kicker": "The numbers",
+ "title": "What the tests said, what the phones said and what the company earned",
+ "lede": "Coca-Cola has never published sales of the 1985 formula as a separate line. What exists is its own research claims, call counts, share figures from trade publications quoted in the press, and the company’s results. This section keeps them apart.",
+ "blocks": [
+  {
+   "kind": "counters",
+   "title": "Four figures, four different kinds of source",
+   "items": [
+    {
+     "value": "55–45",
+     "text": "**The company’s research**: the margin for the new taste in blind tests of more than 190,000 people, as a spokesman gave it in May 1985.[^4]"
+    },
+    {
+     "value": "59%",
+     "text": "**An outside survey**: the share of soft drink buyers who had tasted the new Coke and thought the original was better, per Leo J. Shapiro, a Chicago research firm.[^6]"
+    },
+    {
+     "value": "1,500",
+     "text": "**The company’s call count**: calls a day to its hotline by June 1985, most of them negative.[^1][^5]"
+    },
+    {
+     "value": "3%",
+     "text": "**A later secondary account**: the share at which the new formula settled in its first year.[^16] We could not open a contemporary source for it; treat as unverified."
+    }
+   ]
+  },
+  {
+   "kind": "arc",
+   "title": "The drink called “Coke,” from inheritance to nothing",
+   "subtitle": "Share of the US soft drink market held by the 1985 formula, in percent. The second point is the share it inherited from the old formula, not one it earned.",
+   "labels": [
+    "Before Apr 1985",
+    "Apr 1985",
+    "First year",
+    "1999",
+    "After withdrawal"
+   ],
+   "format": "pct",
+   "xLabel": "Share of US soft drink market (%)",
+   "series": [
+    {
+     "label": "Share of market",
+     "data": [
+      0,
+      21.7,
+      3,
+      0.1,
+      0
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 0,
+     "title": "not on sale",
+     "text": "The formula exists only in tests. Plotted as zero."
+    },
+    {
+     "i": 1,
+     "title": "inherits the flagship",
+     "text": "It replaces a drink with 21.7% of the market, per Beverage Digest figures quoted by UPI.[^6]"
+    },
+    {
+     "i": 2,
+     "title": "the smaller Coke",
+     "text": "With Classic back, it settles at about 3%, by one later account.[^16]"
+    },
+    {
+     "i": 3,
+     "title": "Coke II",
+     "text": "Sold in a few markets, it “holds onto a 0.1% market share.”[^16]"
+    },
+    {
+     "i": 4,
+     "title": "withdrawn",
+     "text": "Gone in 2002 or 2004, depending on the source.[^19][^21] Plotted as zero."
+    }
+   ],
+   "source": "UPI, Jul 10, 1985[^6]; Snopes, 1999[^16]. The series mixes a trade figure for the old formula’s share with two figures from a later secondary account, and the end points are plotting conventions. The Coca-Cola Company published no share data for the brand that we found."
+  },
+  {
+   "kind": "bars",
+   "title": "The same formula, asked four ways",
+   "subtitle": "Percent preferring the new taste in each test or survey.",
+   "format": "pct",
+   "itemLabel": "Test",
+   "valueLabel": "Preferred the new taste",
+   "items": [
+    {
+     "label": "Company test, tasters told which was which",
+     "value": 61,
+     "display": "61%",
+     "note": "61–39.[^4]",
+     "self": true
+    },
+    {
+     "label": "Company test, blind",
+     "value": 55,
+     "display": "55%",
+     "note": "55–45, more than 190,000 people.[^4]",
+     "self": true
+    },
+    {
+     "label": "Company test, blind, in the South",
+     "value": 52,
+     "display": "52%",
+     "note": "52–48, as reported by Mother Jones in 2019.[^27]",
+     "self": true
+    },
+    {
+     "label": "Outside survey after launch (derived)",
+     "value": 41,
+     "display": "at most 41%",
+     "note": "59% said the original tasted better.[^6] 100 − 59 = 41, an upper bound.",
+     "color": "grey"
+    }
+   ],
+   "source": "UPI, May 31 and Jul 10, 1985[^4][^6]; Mother Jones, Jul 9, 2019[^27]. The last bar is derived and compares a different question, asked of buyers who knew the old drink was gone."
+  },
+  {
+   "kind": "scale",
+   "title": "Two days of calls about the return equaled 79 ordinary days",
+   "icon": "phone",
+   "count": 79,
+   "left": {
+    "value": "31,600 calls",
+    "label": "to the hotline in the two days after Coca-Cola Classic was announced[^1]"
+   },
+   "unit": {
+    "value": "400 calls",
+    "label": "a normal day on the hotline before the change[^1]"
+   },
+   "equation": "31,600 ÷ 400 = 79. The match with the 79 days the old formula was gone is a coincidence. Per day: 31,600 ÷ 2 = 15,800, about ten times the 1,500 a day of June 1985.[^1]",
+   "source": "The Coca-Cola Company’s published history.[^1]"
+  },
+  {
+   "kind": "chart",
+   "id": "incomeChart",
+   "title": "The blunder years, on the income statement",
+   "subtitle": "The Coca-Cola Company’s net income, in $ millions, as reported by UPI.",
+   "chart": {
+    "type": "bar",
+    "height": 320,
+    "legend": false,
+    "labels": [
+     "1984",
+     "1985",
+     "1986"
+    ],
+    "y": {
+     "format": "usdM",
+     "min": 0,
+     "title": "Net income"
+    },
+    "series": [
+     {
+      "label": "Net income ($M)",
+      "data": [
+       629,
+       722,
+       934
+      ],
+      "colors": [
+       "grey",
+       "brand",
+       "ink"
+      ]
+     }
+    ],
+    "notes": [
+     {
+      "text": [
+       "formula changed",
+       "and changed back"
+      ],
+      "s": 0,
+      "i": 1,
+      "dx": -40,
+      "dy": -40
+     }
+    ]
+   },
+   "source": "1984: UPI, May 31, 1985 (“a profit of $629 million”).[^4] 1985 and 1986: UPI, Feb 19, 1987.[^11] The 1986 figure includes gains from selling bottling stock and other transactions, which UPI put at 35 cents of the $2.42 a share. These are results for the whole company, including its entertainment business; nothing in them isolates the new formula."
+  },
+  {
+   "kind": "chart",
+   "id": "shareChart",
+   "title": "The company’s share went up",
+   "subtitle": "Share of the US soft drink market by company, all brands, as quoted in the press.",
+   "chart": {
+    "type": "line",
+    "height": 320,
+    "labels": [
+     "1986",
+     "1990",
+     "1991"
+    ],
+    "y": {
+     "format": "pct",
+     "min": 20,
+     "max": 45,
+     "title": "Share of US soft drink market"
+    },
+    "series": [
+     {
+      "label": "Coca-Cola Co.",
+      "data": [
+       39,
+       40.4,
+       41
+      ],
+      "color": "brand",
+      "points": true
+     },
+     {
+      "label": "PepsiCo",
+      "data": [
+       29,
+       31.8,
+       32.8
+      ],
+      "color": "blue",
+      "points": true
+     }
+    ]
+   },
+   "source": "1986: “about 39 percent” and “about 29 percent,” The Christian Science Monitor, Jun 27, 1986.[^10] 1990: Beverage Industry magazine figures in UPI, Jan 25, 1991.[^14] 1991: Beverage Digest figures in The Christian Science Monitor, Feb 7, 1992.[^15] Three different publications’ measures; the years between are not in our sources and the axis does not start at zero."
+  },
+  {
+   "kind": "table",
+   "title": "The money around the edges",
+   "subtitle": "Dollar figures from the summer of 1985 and after.",
+   "columns": [
+    "Figure",
+    "What it was"
+   ],
+   "rows": [
+    [
+     "$23 billion",
+     "Annual size of the US soft drink industry as UPI gave it in July 1985.[^6]"
+    ],
+    [
+     "$200 million",
+     "What one share point was worth in sales, per Time.[^8]"
+    ],
+    [
+     "+$2.37",
+     "Rise in Coca-Cola’s share price on the day the reversal was announced; PepsiCo fell 75 cents.[^8]"
+    ],
+    [
+     "$74.75 → $115",
+     "Coca-Cola’s stock from its previous all-time high to its level by May 1986, per UPI. A rise of about 54% (derived).[^9]"
+    ],
+    [
+     "$30 a case",
+     "What a Beverly Hills wine merchant charged for 500 cases of old Coke.[^8]"
+    ],
+    [
+     "$100,000",
+     "What Gay Mullins said he spent on the campaign to bring the old drink back. The figure rose with each telling.[^7][^27]"
+    ]
+   ],
+   "numeric": [
+    0
+   ]
+  },
+  {
+   "kind": "note",
+   "body": "Unknown: sales of the 1985 formula in cases or dollars for any year; what the reformulation, the launch and the reversal cost; and what the 18-month marketing plan was budgeted at. Dyson called it the costliest in the company’s history and gave no number.[^5]"
+  }
+ ]
+}

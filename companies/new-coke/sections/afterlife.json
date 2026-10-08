@@ -1,0 +1,90 @@
+{
+ "kicker": "Where is it now",
+ "title": "The afterlife",
+ "items": [
+  {
+   "status": "Revived, briefly",
+   "color": "var(--gold)",
+   "title": "The name",
+   "text": "Still Coca-Cola’s. In May 2019 it put New Coke, “the same recipe from 1985,” into 12-ounce cans sold in a bundle online and dispensed free from pop-up vending machines, to promote “Stranger Things.”[^25] It described this to investors as “a first-of-its-kind partnership with Netflix.”[^31] Mother Jones put the run at 50,000 cans; the company’s page gives no number.[^27]"
+  },
+  {
+   "status": "Withdrawn",
+   "color": "var(--red)",
+   "title": "The formula",
+   "text": "Sold as Coke II until 2002 by two later accounts, or 2004 by the Associated Press.[^19][^21][^22] Coca-Cola says only that it “is no longer available in the United States.”[^1]"
+  },
+  {
+   "status": "Won",
+   "color": "var(--green)",
+   "title": "The old formula",
+   "text": "Back as Coca-Cola Classic in July 1985 and the leading brand by 1990.[^6][^14] The word “Classic” came off US packaging from 2009; Canada had dropped it in 2007.[^19][^20]"
+  },
+  {
+   "status": "Unharmed",
+   "color": "var(--green)",
+   "title": "The company",
+   "text": "Net income rose from $629 million in 1984 to $934 million in 1986, and its share of the US market reached a record.[^4][^11]"
+  },
+  {
+   "status": "Faded",
+   "color": "var(--mute)",
+   "title": "The protest",
+   "text": "Mother Jones reports that membership in Old Cola Drinkers of America fell by 90% after the old formula returned.[^27]"
+  },
+  {
+   "status": "A textbook case",
+   "color": "var(--blue)",
+   "title": "The lesson",
+   "text": "Coca-Cola itself now publishes the episode under a headline about the most memorable marketing blunder ever, as “testimony to the power of taking intelligent risks.”[^1]"
+  }
+ ],
+ "blocks": [
+  {
+   "kind": "chain",
+   "title": "One owner, three names",
+   "subtitle": "The formula was never sold. What changed was what Coca-Cola was willing to call it.",
+   "nodes": [
+    {
+     "when": "Apr 1985",
+     "owner": "The Coca-Cola Company",
+     "what": "The new formula takes the name Coke and replaces the original.[^3]"
+    },
+    {
+     "when": "Jul 1985",
+     "owner": "The Coca-Cola Company",
+     "what": "The original returns as Coca-Cola Classic; the new formula stays on sale as Coke.[^6]",
+     "price": "79 days"
+    },
+    {
+     "when": "1990",
+     "owner": "The Coca-Cola Company",
+     "what": "Tested as Coke II in the Spokane area.[^12][^13]"
+    },
+    {
+     "when": "2002 or 2004",
+     "owner": "The Coca-Cola Company",
+     "what": "Coke II is withdrawn. Sources disagree on the year.[^19][^21]",
+     "status": "bankrupt"
+    },
+    {
+     "when": "2009",
+     "owner": "The Coca-Cola Company",
+     "what": "“Classic” is removed from the original’s label.[^19]"
+    },
+    {
+     "when": "May 2019",
+     "owner": "The Coca-Cola Company, with Netflix",
+     "what": "A limited promotional run under the New Coke name, reported to shareholders in the second-quarter earnings release.[^25][^31]"
+    },
+    {
+     "when": "Today",
+     "owner": "The Coca-Cola Company",
+     "what": "No New Coke or Coke II on sale that we could confirm.",
+     "status": "current"
+    }
+   ],
+   "source": "The Washington Post[^3][^12]; UPI[^6]; Lewiston Tribune[^13]; the Associated Press[^19]; Mental Floss[^21]; The Coca-Cola Company[^25]. Form 8-K, Jul 23, 2019[^31]."
+  }
+ ]
+}
