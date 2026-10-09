@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+<title id="title">Spectre Brands xl11 icon</title>
+<desc id="desc">Whole-pixel cassette, crooked orange rental label, cream ghost inside a warm-yellow NEW! starburst ghost.</desc>
+<defs>
+
+</defs>
+<g id="shell"><path d="M7 15H57Q61 15 61 19V45Q61 49 57 49H7Q3 49 3 45V19Q3 15 7 15Z" fill="#151515"/><path d="M7 16H57Q60 16 60 19V45Q60 48 57 48H7Q4 48 4 45V19Q4 16 7 16Z" fill="none" stroke="#777872" stroke-width="2"/></g>
+<g id="label-band"><path d="M6 16L58 13V22L6 25Z" fill="#F58B1F"/></g>
+<g id="hubs"><circle cx="14" cy="36" r="5" fill="#B6BAB0"/><circle cx="50" cy="36" r="5" fill="#B6BAB0"/><circle cx="14" cy="36" r="2" fill="#151515"/><circle cx="50" cy="36" r="2" fill="#151515"/></g>
+<g id="flap"><path d="M8 44H56V46H8Z" fill="#41413D"/></g>
+<g id="ghost-slot"><path d="M48 32L43 37L43 43L37 43L32 48L27 43L21 43L21 37L16 32L21 27L21 21L27 21L32 16L37 21L43 21L43 27Z" fill="#F5C242" stroke="#D7261E" stroke-width="1" stroke-linejoin="round"/><path d="M26 40V31C26 27 29 24 32 24C35 24 38 27 38 31V40Q36 38 35 40Q33.5 38 32 40Q30.5 38 29 40Q28 38 26 40Z" fill="#F4EBD6" stroke="#111111" stroke-width="1"/><rect x="29" y="30" width="2" height="3" fill="#111111"/><rect x="33" y="30" width="2" height="3" fill="#111111"/></g>
+</svg>

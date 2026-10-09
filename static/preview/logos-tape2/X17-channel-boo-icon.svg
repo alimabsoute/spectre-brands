@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="xc02-i-title xc02-i-desc">
+<title id="xc02-i-title">Spectre Brands — Channel Boo icon</title>
+<desc id="xc02-i-desc">Clean whole-pixel cassette icon with orange rental band and an enlarged original ghost.</desc>
+<defs>
+
+</defs>
+<g id="xc02-i-shell"><path d="M7 15H57Q61 15 61 19V45Q61 49 57 49H7Q3 49 3 45V19Q3 15 7 15Z" fill="#383A37" /><path d="M7 16H57Q60 16 60 19V45Q60 48 57 48H7Q4 48 4 45V19Q4 16 7 16Z" fill="none" stroke="#777872" stroke-width="2" /></g>
+<g id="xc02-i-label-band"><path d="M8 19H56V25H8Z" fill="#FF8A2A" /></g>
+<g id="xc02-i-hubs"><circle cx="16" cy="35" r="6" fill="#B6BAB0" /><circle cx="48" cy="35" r="6" fill="#B6BAB0" /><circle cx="16" cy="35" r="2" fill="#383A37" /><circle cx="48" cy="35" r="2" fill="#383A37" /></g>
+<g id="xc02-i-flap"><path d="M8 44H56V46H8Z" fill="#41413D" /></g>
+
+<g id="xc02-i-ghost-slot"><path d="M23 34 17 30V22Q17 18 21 21L23 26Q23 18 32 18Q41 18 41 27L38 36L46 42Q40 47 33 42L26 40L23 34Z" fill="#FFF5DF" stroke="#111111" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><ellipse cx="28" cy="27" rx="3" ry="4" fill="#111111" /><ellipse cx="36" cy="27" rx="3" ry="4" fill="#111111" /><path d="M28 34Q32 40 36 34" fill="none" stroke="#111111" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /></g>
+</svg>

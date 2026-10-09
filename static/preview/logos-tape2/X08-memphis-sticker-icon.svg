@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+<title id="title">Spectre Brands xl02 icon</title>
+<desc id="desc">Whole-pixel cassette, crooked orange rental label, Memphis pattern ghost: teal squiggles, red triangles, black dots ghost.</desc>
+<defs>
+
+</defs>
+<g id="shell"><path d="M7 15H57Q61 15 61 19V45Q61 49 57 49H7Q3 49 3 45V19Q3 15 7 15Z" fill="#151515"/><path d="M7 16H57Q60 16 60 19V45Q60 48 57 48H7Q4 48 4 45V19Q4 16 7 16Z" fill="none" stroke="#777872" stroke-width="2"/></g>
+<g id="label-band"><path d="M6 16L58 13V22L6 25Z" fill="#FF8A2A"/></g>
+<g id="hubs"><circle cx="14" cy="36" r="5" fill="#B6BAB0"/><circle cx="50" cy="36" r="5" fill="#B6BAB0"/><circle cx="14" cy="36" r="2" fill="#151515"/><circle cx="50" cy="36" r="2" fill="#151515"/></g>
+<g id="flap"><path d="M8 44H56V46H8Z" fill="#41413D"/></g>
+<g id="ghost-slot"><path d="M21 42V31C21 25 26 20 32 20C38 20 43 25 43 31V42Q40 39 37 42Q34.5 39 32 42Q29.5 39 27 42Q24 39 21 42Z" fill="#F4EBD6"/><rect x="26" y="28" width="3" height="4" fill="#111111"/><rect x="35" y="28" width="3" height="4" fill="#111111"/><rect x="24" y="35" width="2" height="2" fill="#1C8C8C"/><rect x="30" y="37" width="2" height="2" fill="#D7261E"/><rect x="37" y="35" width="2" height="2" fill="#1C8C8C"/><rect x="33" y="23" width="2" height="2" fill="#D7261E"/><rect x="27" y="23" width="2" height="2" fill="#1C8C8C"/><rect x="39" y="26" width="2" height="2" fill="#111111"/><rect x="23" y="29" width="2" height="2" fill="#111111"/></g>
+</svg>

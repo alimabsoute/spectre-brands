@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="xc01-i-title xc01-i-desc">
+<title id="xc01-i-title">Spectre Brands — Vinyl Haunt icon</title>
+<desc id="xc01-i-desc">Clean whole-pixel cassette icon with orange rental band and an enlarged original ghost.</desc>
+<defs>
+
+</defs>
+<g id="xc01-i-shell"><path d="M7 15H57Q61 15 61 19V45Q61 49 57 49H7Q3 49 3 45V19Q3 15 7 15Z" fill="#151515" /><path d="M7 16H57Q60 16 60 19V45Q60 48 57 48H7Q4 48 4 45V19Q4 16 7 16Z" fill="none" stroke="#777872" stroke-width="2" /></g>
+<g id="xc01-i-label-band"><path d="M8 19H56V25H8Z" fill="#F47A20" /></g>
+<g id="xc01-i-hubs"><circle cx="16" cy="35" r="6" fill="#B6BAB0" /><circle cx="48" cy="35" r="6" fill="#B6BAB0" /><circle cx="16" cy="35" r="2" fill="#151515" /><circle cx="48" cy="35" r="2" fill="#151515" /></g>
+<g id="xc01-i-flap"><path d="M8 44H56V46H8Z" fill="#41413D" /></g>
+
+<g id="xc01-i-ghost-slot"><path d="M23 41 22 28Q22 20 31 20Q41 20 41 30L40 36Q42 41 47 38Q44 46 37 44L31 41L23 44V41Z" fill="#FFF5DF" stroke="#FFF5DF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><ellipse cx="28" cy="28" rx="2" ry="3" fill="#111111" /><ellipse cx="36" cy="28" rx="2" ry="3" fill="#111111" /></g>
+</svg>

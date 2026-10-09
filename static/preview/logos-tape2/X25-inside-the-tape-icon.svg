@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="xc10-i-title xc10-i-desc">
+<title id="xc10-i-title">Spectre Brands — Inside the Tape icon</title>
+<desc id="xc10-i-desc">Clean whole-pixel cassette icon with orange rental band and an enlarged original ghost.</desc>
+<defs>
+
+</defs>
+<g id="xc10-i-shell"><path d="M7 15H57Q61 15 61 19V45Q61 49 57 49H7Q3 49 3 45V19Q3 15 7 15Z" fill="#4F5551" /><path d="M7 16H57Q60 16 60 19V45Q60 48 57 48H7Q4 48 4 45V19Q4 16 7 16Z" fill="none" stroke="#777872" stroke-width="2" /></g>
+<g id="xc10-i-label-band"><path d="M8 19H56V25H8Z" fill="#F58B1F" /></g>
+<g id="xc10-i-hubs"><circle cx="16" cy="35" r="6" fill="#B6BAB0" /><circle cx="48" cy="35" r="6" fill="#B6BAB0" /><circle cx="16" cy="35" r="2" fill="#4F5551" /><circle cx="48" cy="35" r="2" fill="#4F5551" /></g>
+<g id="xc10-i-flap"><path d="M8 44H56V46H8Z" fill="#41413D" /></g>
+
+<g id="xc10-i-ghost-slot"><path d="M22 42Q27 33 23 28Q23 21 32 20Q41 21 40 30Q36 38 46 42Q40 46 33 41L28 37Q27 44 22 42Z" fill="#FFF5DF" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" /><ellipse cx="28" cy="28" rx="2" ry="3" fill="#111111" /><ellipse cx="36" cy="28" rx="2" ry="3" fill="#111111" /></g>
+</svg>
