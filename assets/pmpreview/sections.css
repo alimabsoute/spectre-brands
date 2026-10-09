@@ -1,0 +1,154 @@
+/* Section system preview for post-mortem pages (/preview/pm-<slug>/ only). Loaded after /assets/site.css and
+   overrides it; the production stylesheets are untouched. Three parts:
+   1. tokens: the Front Counter paper palette in light, warm charcoal in dark (html[data-theme="dark"]);
+   2. the section system: chapter line (tape tab + number + kicker + tape counter), rules, spacing, bands;
+   3. the chapter nav: a fixed rail at >= 1280px, a compact sticky bar below that; plus the theme toggle. */
+
+/* ---------- 1. tokens ---------- */
+:root{
+  color-scheme:light;
+  --bg:#F6EFE0;--card:#FCFBF8;--line:#E3D9C4;--line-2:#CDC1A6;--wash:#EFE4CC;
+  --ink:#1B1815;--ink-2:#3E3731;--mute:#5F554A;--inv:#FCFBF8;--inv-2:#E9E3D6;--inv-3:#C9C0B0;--inv-accent:#F2A33C;--media:#1D1A17;
+  --dead:#1B1815;--ghost:#5F554A;
+  --c-plum:#6B7F2E;--plum:#6B7F2E;--pin-b:#DCE0B4;--pin-b2:#6B7F2E;
+  --shadow-1:0 1px 2px rgba(27,24,21,.06);--shadow-2:0 1px 2px rgba(27,24,21,.06),0 8px 24px -12px rgba(27,24,21,.18);--shadow-3:0 2px 4px rgba(27,24,21,.07),0 18px 40px -16px rgba(27,24,21,.26);
+  /* section-system tokens */
+  --pm-tape:#F2A33C;--pm-rule:#CDC1A6;--pm-label:#5F554A;--pm-band:#EFE6D2;--pm-bar:rgba(246,239,224,.92);--pm-amber-ink:#1B1815;
+  /* inline category colours that the transform made overridable (the purple one is olive in both themes) */
+  --pm-c-7b62a8:#6B7F2E;
+}
+main.company{--brand:var(--brand-l,var(--site));--brand-soft:var(--brand-soft-l,#F3E2DF)}
+
+html[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#221E1B;--card:#2E2925;--line:#3D3631;--line-2:#52493F;--wash:#2A2522;
+  --ink:#F3EBDC;--ink-2:#DDD4C4;--mute:#B3A896;--inv:#221E1B;--inv-2:#3E3731;--inv-3:#5F554A;--inv-accent:#F2A33C;--media:#141210;
+  --dead:#F3EBDC;--ghost:#B3A896;--alive:#6CCFBA;--warn-bg:#3A2E12;--warn-ink:#F2D48A;--warn-line:#8A6A1E;
+  --c-red:#EF8468;--c-blue:#86ABE3;--c-green:#79C68F;--c-gold:#DDB45A;--c-plum:#B8C86A;--c-teal:#6CCFBA;--c-grey:#A39D96;--c-light:#4A433D;
+  --red:#EF8468;--gold:#DDB45A;--green:#79C68F;--blue:#86ABE3;--plum:#B8C86A;
+  --pin-a:#F6B8A8;--pin-a2:#EF8468;--pin-b:#DCE0B4;--pin-b2:#B8C86A;--pin-c:#AECDEC;--pin-c2:#86ABE3;--pin-d:#BFE0B5;--pin-d2:#79C68F;--pin-e:#F7DC9C;--pin-e2:#DDB45A;
+  --hand:#CDE0F5;--closed:#3D3631;--closed-ink:#B3A896;--pin-ink:#1B1815;
+  --shadow-1:0 1px 2px rgba(0,0,0,.3);--shadow-2:0 1px 2px rgba(0,0,0,.3),0 8px 24px -12px rgba(0,0,0,.6);--shadow-3:0 2px 4px rgba(0,0,0,.35),0 18px 40px -16px rgba(0,0,0,.7);
+  --pm-rule:#52493F;--pm-label:#B3A896;--pm-band:#1C1916;--pm-bar:rgba(34,30,27,.92);
+  --pm-c-3d5f86:#86ABE3;--pm-c-4f7a4a:#79C68F;--pm-c-7b62a8:#B8C86A;--pm-c-93743a:#DDB45A;--pm-c-a8321f:#EF8468;--pm-c-c2412d:#EF8468;--pm-c-8a6212:#DDB45A;--pm-c-5a5a62:#A39D96;--pm-c-b3261e:#EF8468;--pm-c-e2347d:#F283B0;--pm-c-1b3f94:#86ABE3;--pm-c-16161a:#F3EBDC;--pm-c-3f8a5a:#79C68F;
+}
+/* the page's brand colour, lifted towards paper so links, kickers and footnote marks pass AA on charcoal */
+html[data-theme="dark"] main.company{--brand:var(--brand-d,#F08A2E);--brand-soft:var(--brand-soft-d,#3A2E22)}
+html[data-theme="dark"] .pagenav,html[data-theme="dark"] .map-stat{background:rgba(34,30,27,.92)}
+html[data-theme="dark"] .fork-tabs button.on{color:var(--inv)}
+/* the footage band keeps paper-coloured text; its "inverse" tokens are the light ones */
+html[data-theme="dark"] .sec-videos{--inv:#F3EBDC;--inv-2:#DDD4C4;--inv-3:#B3A896}
+html[data-theme="dark"] .sec-videos .chip.on{color:#221E1B}
+/* archived-website replicas and lightbox keep their own fixed colours: they are pictures of the old site */
+.pagenav{background:var(--pm-bar)}
+.map-stat{background:var(--pm-bar)}
+
+/* ---------- 2. type and the section system ---------- */
+h1,h2,.act-t{font-family:'Fraunces',var(--serif);font-weight:600;letter-spacing:-.022em}
+h2{font-size:clamp(1.85rem,1.25rem + 2vw,2.6rem);line-height:1.08}
+.pm-ch,.pm-toc,.pm-theme-btn,.act-n{font-family:'DM Sans',var(--sans)}
+
+.sec{padding:var(--s-9) 0;border-bottom:0}
+.sec-head{margin-bottom:var(--s-7)}
+.sec .sec-head>.sec-k{display:none}
+.sec-head h2{margin-bottom:var(--s-4)}
+/* full-bleed bands: timeline, the autopsy and sources sit on a slightly deeper paper; --bg follows so the
+   timeline's masks and dot halos match */
+.sec-timeline,.sec-cause,.sec-sources{background:var(--pm-band);--bg:var(--pm-band)}
+.sec-timeline .pagenav{--bg:initial}
+.act{border-bottom:0}
+.act-n{text-transform:uppercase;letter-spacing:.08em;font-size:var(--t-xs);font-weight:600;color:var(--mute)}
+.act-head{padding-top:var(--s-8)}
+
+/* chapter line: hairline across the content column, an orange tape tab at the left, then
+   "03 / 13 · The money · Side A · 00:14:32" in DM Sans with tabular figures */
+.pm-ch{position:relative;display:flex;flex-wrap:wrap;align-items:baseline;gap:.4rem 1.1rem;padding-top:1.1rem;margin-bottom:var(--s-6);border-top:1px solid var(--pm-rule);font:500 var(--t-sm)/1.3 'DM Sans',var(--sans);color:var(--pm-label);letter-spacing:.04em;text-transform:uppercase;font-variant-numeric:tabular-nums lining-nums;font-feature-settings:"tnum" 1}
+.pm-tape{position:absolute;left:0;top:-2px;width:3.75rem;height:3px;background:var(--pm-tape);border-radius:1px}
+.pm-n{color:var(--ink);font-weight:700;letter-spacing:.06em}
+.pm-of{color:var(--pm-label);font-weight:500}
+.pm-k{color:var(--ink);font-weight:600}
+.pm-tc{margin-left:auto;display:inline-flex;gap:.55rem;align-items:baseline}
+.pm-sep{opacity:.6}
+.sec-videos .pm-ch{border-top-color:rgba(243,235,220,.26);color:var(--inv-2)}
+.sec-videos .pm-n,.sec-videos .pm-k{color:var(--inv)}
+.sec-videos .pm-of,.sec-videos .pm-tc{color:var(--inv-2)}
+.vid-btn:focus-visible{outline-color:var(--inv-accent)}
+
+/* ---------- 3. chapter nav + theme toggle ---------- */
+.pm-toc{font-family:'DM Sans',var(--sans);font-variant-numeric:tabular-nums lining-nums;font-feature-settings:"tnum" 1}
+.pm-toc ol{list-style:none;margin:0;padding:0}
+.pm-toc a{text-decoration:none;color:var(--pm-label);display:flex;align-items:center;white-space:nowrap}
+.pm-toc a b{font-weight:600}
+.pm-toc a:hover{color:var(--ink)}
+.pm-toc a[aria-current]{color:var(--ink)}
+.pm-toc a:focus-visible{outline:2px solid var(--ink);outline-offset:-2px;border-radius:3px}
+.pm-prog{display:none}
+
+/* the theme toggle: a small pill in the masthead; pressed = dark, filled amber like the rental strip */
+.pm-theme-btn{display:inline-flex;align-items:center;gap:.4rem;background:none;border:1px solid var(--line-2);border-radius:var(--r-pill);color:var(--ink-2);font:500 var(--t-sm)/1 'DM Sans',var(--sans);padding:0 .75rem 0 .6rem;min-height:2rem;cursor:pointer;transition:color var(--d-1) var(--ease),border-color var(--d-1) var(--ease),background-color var(--d-1) var(--ease)}
+.pm-theme-btn:hover{color:var(--ink);border-color:var(--ink)}
+.pm-theme-btn[aria-pressed="true"]{background:var(--pm-tape);border-color:var(--pm-tape);color:var(--pm-amber-ink)}
+.pm-theme-btn[aria-pressed="true"]:hover{background:#FFC46B;border-color:#FFC46B;color:var(--pm-amber-ink)}
+.pm-theme-ico{flex:none}
+.pm-ico-moon{fill:currentColor}
+.pm-ico-sun{display:none;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round}
+.pm-theme-btn[aria-pressed="true"] .pm-ico-moon{display:none}
+.pm-theme-btn[aria-pressed="true"] .pm-ico-sun{display:block}
+.pm-theme-m{display:none;width:2.25rem;height:2.25rem;min-height:0;padding:0;justify-content:center;border-radius:50%}
+.pm-theme-m .pm-theme-txt{display:none}
+.mast-m .pm-theme-m{display:inline-flex}
+.mast nav.site .pm-theme-btn{margin-right:var(--s-2)}
+
+/* desktop: a fixed rail in the left margin (the 60px that are free at 1280px); numbers only, the title
+   appears from 1480px where the margin is wide enough */
+@media (min-width:1280px){
+  .pm-toc{position:fixed;left:0;top:50%;transform:translateY(-50%);z-index:50;width:3.5rem;font-size:.6875rem;line-height:1}
+  .pm-toc-h{display:none}
+  .pm-toc ol{display:grid;gap:1px;padding:.4rem .3rem .4rem .5rem;background:var(--pm-bar);border-radius:0 6px 6px 0}
+  .pm-toc a{height:1.55rem;gap:.45rem;padding:0 .35rem;border-radius:3px;position:relative}
+  .pm-toc a::before{content:"";flex:none;width:.5rem;height:1px;background:var(--line-2);transition:width var(--d-1) var(--ease),background-color var(--d-1) var(--ease)}
+  .pm-toc a b{letter-spacing:.06em}
+  .pm-toc a span{display:none}
+  .pm-toc a:hover::before{background:var(--ink)}
+  .pm-toc a[aria-current]{color:var(--ink);font-weight:700}
+  .pm-toc a[aria-current]::before{width:.85rem;height:3px;background:var(--pm-tape);border-radius:1px}
+}
+@media (min-width:1480px){
+  .pm-toc{width:10rem;font-size:.75rem}
+  .pm-toc ol{padding-left:1rem}
+  .pm-toc a span{display:block;overflow:hidden;text-overflow:ellipsis;max-width:6.75rem;font-weight:500}
+  .pm-toc a[aria-current] span{font-weight:600}
+}
+/* tablet and phone: one compact sticky bar replaces the grouped part nav; it scrolls with the page in flow,
+   so it never covers content. A 2px tape line along its bottom edge shows reading progress. */
+@media (max-width:1279.98px){
+  .pagenav{display:none}
+  .pm-toc{position:sticky;top:0;z-index:60;background:var(--pm-bar);backdrop-filter:saturate(1.4) blur(8px);-webkit-backdrop-filter:saturate(1.4) blur(8px);border-bottom:1px solid var(--line)}
+  .pm-toc-in{display:flex;align-items:center;gap:var(--s-3);height:2.75rem;padding:0 var(--gutter);max-width:var(--wrap);margin:0 auto}
+  .pm-toc-h{display:flex;align-items:baseline;gap:.5rem;flex:none;margin:0;font-size:var(--t-sm);color:var(--mute);white-space:nowrap;max-width:11rem;overflow:hidden;text-overflow:ellipsis}
+  .pm-toc-h b{color:var(--ink);font-weight:600}
+  .pm-toc-tot{font-size:var(--t-xs);letter-spacing:.02em}
+  .pm-toc ol{display:flex;align-items:center;gap:.1rem;flex:1;min-width:0;overflow-x:auto;scrollbar-width:none;mask-image:linear-gradient(90deg,black calc(100% - 1.5rem),transparent);-webkit-mask-image:linear-gradient(90deg,black calc(100% - 1.5rem),transparent);padding:0 .25rem}
+  .pm-toc ol::-webkit-scrollbar{display:none}
+  .pm-toc a{gap:.4rem;height:2.75rem;padding:0 .6rem;font-size:var(--t-sm);border-radius:0;box-shadow:inset 0 0 0 transparent}
+  .pm-toc a b{letter-spacing:.04em}
+  .pm-toc a[aria-current]{color:var(--ink);box-shadow:inset 0 -2px 0 var(--pm-tape)}
+  .pm-toc a[aria-current] span{font-weight:600}
+  .pm-prog{display:block;position:absolute;left:0;right:0;bottom:-1px;height:2px;pointer-events:none}
+  .pm-prog i{display:block;height:100%;width:100%;background:var(--pm-tape);transform-origin:0 50%;transform:scaleX(var(--p,0))}
+  .pm-ch{gap:.35rem .8rem}
+}
+@media (max-width:900px){
+  .sec{padding:var(--s-8) 0}
+  .act-head{padding-top:var(--s-7)}
+  .pm-ch{margin-bottom:var(--s-5)}
+}
+@media (max-width:560px){
+  .pm-toc-tot{display:none}
+  .pm-tc{margin-left:0;flex-basis:100%}
+  .pm-ch{font-size:var(--t-xs)}
+}
+@media (prefers-reduced-motion:reduce){
+  .pm-toc a::before,.pm-theme-btn{transition:none}
+}
+@media print{.pm-toc,.pm-theme-btn{display:none}}

@@ -1,0 +1,242 @@
+{
+ "pets-com": {
+  "file": "/assets/homemix/objects/pets-com.webp",
+  "object": "Sock-puppet dog",
+  "w": 240,
+  "h": 280
+ },
+ "webvan": {
+  "file": "/assets/homemix/objects/webvan.webp",
+  "object": "Grocery delivery van",
+  "w": 372,
+  "h": 272
+ },
+ "groupon": {
+  "file": "/assets/homemix/objects/groupon.webp",
+  "object": "Green deal coupon with scissors",
+  "w": 336,
+  "h": 280
+ },
+ "aol": {
+  "file": "/assets/homemix/objects/aol.webp",
+  "object": "Free-trial CD-ROM in a mailer",
+  "w": 314,
+  "h": 280
+ },
+ "kozmo": {
+  "file": "/assets/homemix/objects/kozmo.webp",
+  "object": "Orange courier delivery bag",
+  "w": 304,
+  "h": 280
+ },
+ "etoys": {
+  "file": "/assets/homemix/objects/etoys.webp",
+  "object": "Shipping box with a toy rocket",
+  "w": 276,
+  "h": 280
+ },
+ "theglobe": {
+  "file": "/assets/homemix/objects/theglobe.webp",
+  "object": "Beige CRT monitor with a homepage",
+  "w": 288,
+  "h": 280
+ },
+ "radioshack": {
+  "file": "/assets/homemix/objects/radioshack.webp",
+  "object": "Walkie-talkie",
+  "w": 120,
+  "h": 280
+ },
+ "circuit-city": {
+  "file": "/assets/homemix/objects/circuit-city.webp",
+  "object": "CRT television",
+  "w": 236,
+  "h": 280
+ },
+ "compusa": {
+  "file": "/assets/homemix/objects/compusa.webp",
+  "object": "Beige tower PC",
+  "w": 214,
+  "h": 280
+ },
+ "hhgregg": {
+  "file": "/assets/homemix/objects/hhgregg.webp",
+  "object": "Washing machine",
+  "w": 245,
+  "h": 280
+ },
+ "sharper-image": {
+  "file": "/assets/homemix/objects/sharper-image.webp",
+  "object": "Silver air-purifier tower",
+  "w": 110,
+  "h": 280
+ },
+ "toys-r-us": {
+  "file": "/assets/homemix/objects/toys-r-us.webp",
+  "object": "Colourful toy-store shopping bag",
+  "w": 223,
+  "h": 280
+ },
+ "kb-toys": {
+  "file": "/assets/homemix/objects/kb-toys.webp",
+  "object": "Red mall bag with a toy robot",
+  "w": 208,
+  "h": 280
+ },
+ "kiddie-city": {
+  "file": "/assets/homemix/objects/kiddie-city.webp",
+  "object": "Teddy bear",
+  "w": 240,
+  "h": 280
+ },
+ "fao-schwarz": {
+  "file": "/assets/homemix/objects/fao-schwarz.webp",
+  "object": "Toy-soldier nutcracker",
+  "w": 104,
+  "h": 280
+ },
+ "zany-brainy": {
+  "file": "/assets/homemix/objects/zany-brainy.webp",
+  "object": "Wooden shape-sorter toy",
+  "w": 275,
+  "h": 280
+ },
+ "child-world": {
+  "file": "/assets/homemix/objects/child-world.webp",
+  "object": "Rocking horse",
+  "w": 273,
+  "h": 280
+ },
+ "zima": {
+  "file": "/assets/homemix/objects/zima.webp",
+  "object": "Clear malt-drink bottle",
+  "w": 90,
+  "h": 280
+ },
+ "crystal-pepsi": {
+  "file": "/assets/homemix/objects/crystal-pepsi.webp",
+  "object": "Clear cola bottle",
+  "w": 105,
+  "h": 280
+ },
+ "new-coke": {
+  "file": "/assets/homemix/objects/new-coke.webp",
+  "object": "Red cola can",
+  "w": 150,
+  "h": 280
+ },
+ "ok-soda": {
+  "file": "/assets/homemix/objects/ok-soda.webp",
+  "object": "Grey checkered soda can",
+  "w": 150,
+  "h": 280
+ },
+ "orbitz-drink": {
+  "file": "/assets/homemix/objects/orbitz-drink.webp",
+  "object": "Drink bottle with floating gel balls",
+  "w": 138,
+  "h": 280
+ },
+ "dreamcast": {
+  "file": "/assets/homemix/objects/dreamcast.webp",
+  "object": "White game console with an orange spiral",
+  "w": 286,
+  "h": 280
+ },
+ "atari": {
+  "file": "/assets/homemix/objects/atari.webp",
+  "object": "Black joystick with a red button",
+  "w": 254,
+  "h": 280
+ },
+ "3do": {
+  "file": "/assets/homemix/objects/3do.webp",
+  "object": "Black CD game console",
+  "w": 385,
+  "h": 259
+ },
+ "ouya": {
+  "file": "/assets/homemix/objects/ouya.webp",
+  "object": "Small cube console and gamepad",
+  "w": 285,
+  "h": 280
+ },
+ "coleco": {
+  "file": "/assets/homemix/objects/coleco.webp",
+  "object": "Early-80s console with keypad controller",
+  "w": 343,
+  "h": 280
+ },
+ "blockbuster": {
+  "file": "/assets/homemix/objects/blockbuster.webp",
+  "object": "Blue VHS rental case",
+  "w": 199,
+  "h": 280
+ },
+ "quibi": {
+  "file": "/assets/homemix/objects/quibi.webp",
+  "object": "Phone playing a short video",
+  "w": 355,
+  "h": 218
+ },
+ "hollywood-video": {
+  "file": "/assets/homemix/objects/hollywood-video.webp",
+  "object": "Popcorn bucket",
+  "w": 205,
+  "h": 280
+ },
+ "redbox": {
+  "file": "/assets/homemix/objects/redbox.webp",
+  "object": "Red DVD rental kiosk",
+  "w": 181,
+  "h": 280
+ },
+ "filmstruck": {
+  "file": "/assets/homemix/objects/filmstruck.webp",
+  "object": "Film reel",
+  "w": 227,
+  "h": 280
+ },
+ "howard-johnsons": {
+  "file": "/assets/homemix/objects/howard-johnsons.webp",
+  "object": "Three-scoop ice-cream cone",
+  "w": 169,
+  "h": 280
+ },
+ "burger-chef": {
+  "file": "/assets/homemix/objects/burger-chef.webp",
+  "object": "Wrapped cheeseburger",
+  "w": 288,
+  "h": 280
+ },
+ "sambos": {
+  "file": "/assets/homemix/objects/sambos.webp",
+  "object": "Stack of pancakes",
+  "w": 362,
+  "h": 273
+ },
+ "chi-chis": {
+  "file": "/assets/homemix/objects/chi-chis.webp",
+  "object": "Margarita glass",
+  "w": 228,
+  "h": 280
+ },
+ "steak-and-ale": {
+  "file": "/assets/homemix/objects/steak-and-ale.webp",
+  "object": "Steak and a mug of ale",
+  "w": 285,
+  "h": 280
+ },
+ "generic-1": {
+  "file": "/assets/homemix/objects/generic-1.webp",
+  "object": "Video cassette",
+  "w": 251,
+  "h": 280
+ },
+ "generic-2": {
+  "file": "/assets/homemix/objects/generic-2.webp",
+  "object": "Archive box",
+  "w": 309,
+  "h": 280
+ }
+}

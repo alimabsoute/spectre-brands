@@ -13,6 +13,8 @@ import { overview, section, heroImages, actImages, actBreak } from './lib/sectio
 import { home } from './lib/home.mjs';
 import { previewPages } from './lib/preview.mjs';
 import { homeMixData, renderHomeMixes } from './lib/homemix.mjs';
+import { pmPreview } from './lib/pmpreview.mjs';
+import { pmTransform } from './lib/pmtransform.mjs';
 import { categoryPage, aboutPage } from './lib/pages.mjs';
 import { row, ledgerHead, decadeOf } from './lib/cards.mjs';
 import { imageInfo, imageKind, strength, picture, PROVIDERS, VIDEO_TYPES } from './lib/media.mjs';
@@ -193,6 +195,7 @@ page('/about/', { title: 'About and methodology · Spectre Brands', description:
 // Isolated design review pages; deliberately absent from production navigation, search and sitemap.
 previewPages({ site, companies, img, version: V, write, rd, root: ROOT });
 { const data = homeMixData({ site, companies, img }); write('assets/homemix/data.json', JSON.stringify(data)); await renderHomeMixes({ data, write }); }
+pmPreview({ OUT, write, transform: pmTransform });
 write('404.html', head({ site, title: 'Not found · Spectre Brands', description: 'Page not found', path: '/404.html', version: V }) + masthead(site, companies, '') + '<main id="main"><header class="page-hero"><div class="wrap"><h1>Nothing is buried here.</h1><p class="lede">That page does not exist. <a href="/">Back to the index</a>, or press / to search.</p></div></header></main>' + footer(site, companies) + scripts('', V));
 
 // search index, sitemap, robots
