@@ -152,3 +152,6 @@ h2{font-size:clamp(1.85rem,1.25rem + 2vw,2.6rem);line-height:1.08}
   .pm-toc a::before,.pm-theme-btn{transition:none}
 }
 @media print{.pm-toc,.pm-theme-btn{display:none}}
+
+/* keep the timeline band inside the 900px compact-view budget */
+@media (min-width:901px){#timeline.sec-timeline{padding-top:clamp(28px,3vw,40px);padding-bottom:clamp(28px,3vw,40px)}}

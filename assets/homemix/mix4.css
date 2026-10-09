@@ -6,3 +6,4 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}
 
 .mobile-image svg{color:var(--ink)}
+@media(max-width:480px){.site-header{flex-wrap:wrap;row-gap:4px}.site-header nav{gap:12px;flex-wrap:wrap}}
