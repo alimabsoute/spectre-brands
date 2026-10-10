@@ -1,0 +1,2077 @@
+{
+ "kind": "chain",
+ "listed": [
+  {
+   "exchange": "NYSE",
+   "ticker": "BBI",
+   "from": "1999-08-11",
+   "to": "2010-07-07",
+   "ledger": [
+    "bb-001",
+    "bb-088"
+   ],
+   "note": "Class B shares began trading on the NYSE on Oct 14, 2004. Trading of both classes on the NYSE was suspended before the open on Jul 7, 2010."
+  },
+  {
+   "exchange": "OTCQB (Pink)",
+   "ticker": "BLOAQ",
+   "from": "2010-07-07",
+   "to": null,
+   "ledger": [
+    "bb-088"
+   ]
+  }
+ ],
+ "signature": "map",
+ "signatureWhy": "Blockbuster has a state-by-state store table in nine annual filings (1999 and 2004-2009 captured) and a store count that peaked and collapsed. A map is the visual that only this page can have; the stock chart and stage series support it.",
+ "factFile": [
+  {
+   "key": "was",
+   "label": "What it was",
+   "value": "A global provider of rental and retail movie and game entertainment: stores, by-mail, kiosks and digital",
+   "src": [
+    10
+   ],
+   "ledger": [
+    "bb-126"
+   ]
+  },
+  {
+   "key": "founded",
+   "label": "Founded",
+   "value": "First store opened in Dallas, Texas",
+   "when": "1985-10-19",
+   "src": [
+    20,
+    1
+   ],
+   "ledger": [
+    "bb-096",
+    "bb-097"
+   ],
+   "note": "The predecessor company, Blockbuster Entertainment Corporation, was incorporated in Delaware in 1982 (fn 1)."
+  },
+  {
+   "key": "peak",
+   "label": "Peak",
+   "value": "9,094 stores worldwide, 5,803 of them in the United States",
+   "when": "2004-12-31",
+   "src": [
+    6
+   ],
+   "ledger": [
+    "bb-098"
+   ]
+  },
+  {
+   "key": "end",
+   "label": "End",
+   "value": "Filed for Chapter 11 on Sep 23, 2010; Dish said Blockbuster had ceased all material operations on Dec 31, 2013",
+   "when": "2010-09-23",
+   "src": [
+    11,
+    28,
+    27
+   ],
+   "ledger": [
+    "bb-100",
+    "bb-061",
+    "bb-103"
+   ],
+   "note": "\"Last corporate stores closed by January 2014\" on the page is supported by the AP report of Nov 6, 2013 (early January) and Dish's Dec 31, 2013 statement; the exact closing date of the last store is not given in any source found."
+  },
+  {
+   "key": "buyer",
+   "label": "Bought by",
+   "value": "DISH Network, for $320.6 million; the sale closed Apr 26, 2011",
+   "when": "2011-04-26",
+   "src": [
+    13,
+    12
+   ],
+   "ledger": [
+    "bb-101",
+    "bb-066",
+    "bb-115"
+   ],
+   "note": "Dish's own release of Apr 6, 2011 put its winning bid at about $320 million and expected about $228 million in cash at closing."
+  },
+  {
+   "key": "nameOwner",
+   "label": "Owns the name today",
+   "value": "Blockbuster L.L.C., a Colorado company at 9601 S. Meridian Blvd., Englewood, which is also DISH's principal executive office; Dish described it in 2014 as its wholly-owned subsidiary",
+   "asOf": "2026-10-10",
+   "src": [
+    41,
+    42,
+    28
+   ],
+   "ledger": [
+    "bb-069",
+    "bb-071",
+    "bb-067",
+    "bb-070",
+    "bb-072",
+    "bb-130"
+   ],
+   "recheck": "365d",
+   "note": "Replaces \"Dish Network (EchoStar) holds the brand\": EchoStar's FY2025 10-K does not mention Blockbuster (see gap). The torn-ticket logo registration was cancelled in Feb 2023 (fn 43)."
+  },
+  {
+   "key": "remains",
+   "label": "What remains",
+   "value": "One franchised store in Bend, Oregon, and a holding page at blockbuster.com",
+   "asOf": "2026-10-10",
+   "src": [
+    29,
+    30,
+    50,
+    32
+   ],
+   "ledger": [
+    "bb-104",
+    "bb-105",
+    "bb-107",
+    "bb-106"
+   ],
+   "recheck": "90d",
+   "note": "The store's own website (fn 31) blocks scripted access, so current operation is supported by Seattle Met (2024) and KTVZ (Feb 2023); see gap."
+  }
+ ],
+ "stock": {
+  "type": "stock",
+  "title": "Blockbuster Class A shares, quarterly high and low, 1999–2010",
+  "ticker": "BBI",
+  "exchange": "NYSE",
+  "unit": "USD",
+  "series": [
+   {
+    "q": "1999Q3",
+    "hi": 16.875,
+    "lo": 12.4375,
+    "ledger": "bb-001"
+   },
+   {
+    "q": "1999Q4",
+    "hi": 17.125,
+    "lo": 11.375,
+    "ledger": "bb-002"
+   },
+   {
+    "q": "2000Q1",
+    "hi": 14.875,
+    "lo": 9.25,
+    "ledger": "bb-003"
+   },
+   {
+    "q": "2000Q2",
+    "hi": 11.625,
+    "lo": 8.875,
+    "ledger": "bb-004"
+   },
+   {
+    "q": "2000Q3",
+    "hi": 12.0625,
+    "lo": 8.4375,
+    "ledger": "bb-005"
+   },
+   {
+    "q": "2000Q4",
+    "hi": 9.9375,
+    "lo": 6.875,
+    "ledger": "bb-006"
+   },
+   {
+    "q": "2001Q1",
+    "hi": 15.1,
+    "lo": 8.1875,
+    "ledger": "bb-007"
+   },
+   {
+    "q": "2001Q2",
+    "hi": 22.0,
+    "lo": 14.0,
+    "ledger": "bb-008"
+   },
+   {
+    "q": "2001Q3",
+    "hi": 23.15,
+    "lo": 15.05,
+    "ledger": "bb-009"
+   },
+   {
+    "q": "2001Q4",
+    "hi": 28.66,
+    "lo": 21.0,
+    "ledger": "bb-010"
+   },
+   {
+    "q": "2002Q1",
+    "hi": 25.2,
+    "lo": 17.39,
+    "ledger": "bb-011"
+   },
+   {
+    "q": "2002Q2",
+    "hi": 30.25,
+    "lo": 21.9,
+    "ledger": "bb-012"
+   },
+   {
+    "q": "2002Q3",
+    "hi": 26.81,
+    "lo": 17.25,
+    "ledger": "bb-013"
+   },
+   {
+    "q": "2002Q4",
+    "hi": 26.8,
+    "lo": 11.8,
+    "ledger": "bb-014"
+   },
+   {
+    "q": "2003Q1",
+    "hi": 17.95,
+    "lo": 12.21,
+    "ledger": "bb-015"
+   },
+   {
+    "q": "2003Q2",
+    "hi": 18.6,
+    "lo": 14.5,
+    "ledger": "bb-016"
+   },
+   {
+    "q": "2003Q3",
+    "hi": 23.07,
+    "lo": 15.7,
+    "ledger": "bb-017"
+   },
+   {
+    "q": "2003Q4",
+    "hi": 22.92,
+    "lo": 16.74,
+    "ledger": "bb-018"
+   },
+   {
+    "q": "2004Q1",
+    "hi": 19.37,
+    "lo": 15.6,
+    "ledger": "bb-019"
+   },
+   {
+    "q": "2004Q2",
+    "hi": 17.58,
+    "lo": 14.61,
+    "ledger": "bb-020"
+   },
+   {
+    "q": "2004Q3",
+    "hi": 15.12,
+    "lo": 7.24,
+    "ledger": "bb-021"
+   },
+   {
+    "q": "2004Q4",
+    "hi": 10.49,
+    "lo": 6.5,
+    "ledger": "bb-022"
+   },
+   {
+    "q": "2005Q1",
+    "hi": 10.04,
+    "lo": 8.35,
+    "ledger": "bb-023"
+   },
+   {
+    "q": "2005Q2",
+    "hi": 10.65,
+    "lo": 8.76,
+    "ledger": "bb-024"
+   },
+   {
+    "q": "2005Q3",
+    "hi": 9.21,
+    "lo": 4.17,
+    "ledger": "bb-025"
+   },
+   {
+    "q": "2005Q4",
+    "hi": 5.74,
+    "lo": 3.19,
+    "ledger": "bb-026"
+   },
+   {
+    "q": "2006Q1",
+    "hi": 4.28,
+    "lo": 3.3,
+    "ledger": "bb-027"
+   },
+   {
+    "q": "2006Q2",
+    "hi": 5.12,
+    "lo": 3.69,
+    "ledger": "bb-028"
+   },
+   {
+    "q": "2006Q3",
+    "hi": 5.11,
+    "lo": 3.57,
+    "ledger": "bb-029"
+   },
+   {
+    "q": "2006Q4",
+    "hi": 5.59,
+    "lo": 3.66,
+    "ledger": "bb-030"
+   },
+   {
+    "q": "2007Q1",
+    "hi": 7.3,
+    "lo": 5.41,
+    "ledger": "bb-031"
+   },
+   {
+    "q": "2007Q2",
+    "hi": 6.67,
+    "lo": 3.94,
+    "ledger": "bb-032"
+   },
+   {
+    "q": "2007Q3",
+    "hi": 5.71,
+    "lo": 3.96,
+    "ledger": "bb-033"
+   },
+   {
+    "q": "2007Q4",
+    "hi": 5.8,
+    "lo": 2.99,
+    "ledger": "bb-034"
+   },
+   {
+    "q": "2008Q1",
+    "hi": 3.7,
+    "lo": 2.66,
+    "ledger": "bb-035"
+   },
+   {
+    "q": "2008Q2",
+    "hi": 3.55,
+    "lo": 2.38,
+    "ledger": "bb-036"
+   },
+   {
+    "q": "2008Q3",
+    "hi": 3.19,
+    "lo": 1.86,
+    "ledger": "bb-037"
+   },
+   {
+    "q": "2008Q4",
+    "hi": 2.0,
+    "lo": 0.72,
+    "ledger": "bb-038"
+   },
+   {
+    "q": "2009Q1",
+    "hi": 1.71,
+    "lo": 0.13,
+    "ledger": "bb-039"
+   },
+   {
+    "q": "2009Q2",
+    "hi": 1.26,
+    "lo": 0.61,
+    "ledger": "bb-040"
+   },
+   {
+    "q": "2009Q3",
+    "hi": 1.56,
+    "lo": 0.58,
+    "ledger": "bb-041"
+   },
+   {
+    "q": "2009Q4",
+    "hi": 1.14,
+    "lo": 0.6,
+    "ledger": "bb-042"
+   },
+   {
+    "q": "2010Q1",
+    "hi": 0.83,
+    "lo": 0.24,
+    "ledger": "bb-043"
+   },
+   {
+    "q": "2010Q2",
+    "hi": 0.6,
+    "lo": 0.15,
+    "ledger": "bb-044"
+   },
+   {
+    "q": "2010Q3",
+    "hi": 0.21,
+    "lo": 0.04,
+    "ledger": "bb-045",
+    "otc": true
+   },
+   {
+    "q": "2010Q4",
+    "hi": 0.28,
+    "lo": 0.04,
+    "ledger": "bb-046",
+    "otc": true
+   }
+  ],
+  "events": [
+   {
+    "q": "1999Q3",
+    "label": "IPO: Class A shares begin trading on the NYSE (Aug 11, 1999)",
+    "src": [
+     1,
+     2
+    ],
+    "ledger": "bb-001"
+   },
+   {
+    "q": "2004Q3",
+    "label": "$5.00 special distribution; shares go ex-dividend Aug 25, 2004",
+    "ledger": "bb-095",
+    "src": [
+     5
+    ]
+   },
+   {
+    "q": "2005Q1",
+    "label": "Late fees end at company-operated U.S. stores (Jan 1, 2005)",
+    "src": [
+     5
+    ]
+   },
+   {
+    "q": "2005Q2",
+    "label": "Carl Icahn and two allies win board seats (May 11, 2005)",
+    "src": [
+     15
+    ]
+   },
+   {
+    "q": "2007Q3",
+    "label": "James Keyes becomes chief executive (Jul 2, 2007)",
+    "src": [
+     16
+    ]
+   },
+   {
+    "q": "2010Q3",
+    "label": "NYSE delisting (Jul 7) and Chapter 11 (Sep 23, 2010)",
+    "ledger": "bb-088",
+    "src": [
+     11
+    ]
+   }
+  ],
+  "note": "High and low sale prices for Class A common stock as printed in each 10-K, not adjusted for the $5.00 special distribution of September 2004 (the 2004Q3 range spans the ex-dividend date). From 2007 the company's fiscal quarters end on varying dates (for example 2007Q1 ends April 1, 2007 and 2007Q4 ends January 6, 2008). Quarters marked otc are OTCQB quotes after the July 7, 2010 NYSE delisting; the company said the shares had no value to stockholders. No quarters exist before the August 11, 1999 listing.",
+  "src": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   37
+  ]
+ },
+ "rivalchart": {
+  "type": "rivalchart",
+  "title": "U.S. video rental chains by store count, 2000–2010",
+  "metric": "Stores at year end",
+  "unit": "stores",
+  "series": [
+   {
+    "name": "Blockbuster (U.S., company-operated plus franchised)",
+    "points": [
+     {
+      "year": 1999,
+      "value": 4793,
+      "ledger": "bb-047"
+     },
+     {
+      "year": 2000,
+      "value": 5191,
+      "ledger": "bb-054"
+     },
+     {
+      "year": 2001,
+      "value": 5374,
+      "ledger": "bb-055"
+     },
+     {
+      "year": 2002,
+      "value": 5566,
+      "ledger": "bb-056"
+     },
+     {
+      "year": 2003,
+      "value": 5670,
+      "ledger": "bb-057"
+     },
+     {
+      "year": 2004,
+      "value": 5803,
+      "ledger": "bb-048"
+     },
+     {
+      "year": 2005,
+      "value": 5696,
+      "ledger": "bb-049"
+     },
+     {
+      "year": 2006,
+      "value": 5194,
+      "ledger": "bb-050"
+     },
+     {
+      "year": 2007,
+      "value": 4855,
+      "ledger": "bb-051"
+     },
+     {
+      "year": 2008,
+      "value": 4585,
+      "ledger": "bb-052"
+     },
+     {
+      "year": 2009,
+      "value": 4018,
+      "ledger": "bb-053"
+     },
+     {
+      "year": 2010,
+      "value": 3090,
+      "ledger": "bb-058"
+     }
+    ]
+   },
+   {
+    "name": "Hollywood Entertainment (to its 2005 sale)",
+    "points": [
+     {
+      "year": 2000,
+      "value": 1819,
+      "ledger": "bb-075"
+     },
+     {
+      "year": 2001,
+      "value": 1801,
+      "ledger": "bb-075"
+     },
+     {
+      "year": 2002,
+      "value": 1831,
+      "ledger": "bb-075"
+     },
+     {
+      "year": 2003,
+      "value": 1920,
+      "ledger": "bb-075"
+     },
+     {
+      "year": 2004,
+      "value": 2006,
+      "ledger": "bb-075"
+     }
+    ]
+   },
+   {
+    "name": "Movie Gallery (includes Hollywood Video from 2005)",
+    "points": [
+     {
+      "year": 2000,
+      "value": 1020,
+      "ledger": "bb-078"
+     },
+     {
+      "year": 2001,
+      "value": 1415,
+      "ledger": "bb-078"
+     },
+     {
+      "year": 2002,
+      "value": 1784,
+      "ledger": "bb-078"
+     },
+     {
+      "year": 2003,
+      "value": 2158,
+      "ledger": "bb-078"
+     },
+     {
+      "year": 2004,
+      "value": 2482,
+      "ledger": "bb-078"
+     },
+     {
+      "year": 2005,
+      "value": 4749,
+      "ledger": "bb-080",
+      "note": "includes Hollywood Video from April 2005"
+     },
+     {
+      "year": 2006,
+      "value": 4642,
+      "ledger": "bb-080"
+     },
+     {
+      "year": 2007,
+      "value": 3900,
+      "qualifier": "approximately",
+      "ledger": "bb-083"
+     }
+    ]
+   }
+  ],
+  "note": "Fiscal years differ slightly: Movie Gallery's fiscal years end on the Sunday nearest December 31, and Blockbuster's 2007 count is as of January 6, 2008. Movie Gallery's 2007 figure is \"approximately 3,900\" as stated in its 10-K. Hollywood Entertainment stopped filing after Movie Gallery bought it in April 2005.",
+  "src": [
+   5,
+   6,
+   9,
+   10,
+   25,
+   44,
+   45,
+   46,
+   48
+  ]
+ },
+ "rivalchartAlt": {
+  "type": "rivalchart",
+  "title": "Revenue of the three largest U.S. rental chains",
+  "metric": "Revenue",
+  "unit": "USD millions",
+  "series": [
+   {
+    "name": "Blockbuster (worldwide)",
+    "points": [
+     {
+      "year": 2000,
+      "value": 4960.1,
+      "ledger": "bb-127"
+     },
+     {
+      "year": 2001,
+      "value": 5156.7,
+      "ledger": "bb-125"
+     },
+     {
+      "year": 2002,
+      "value": 5565.9,
+      "ledger": "bb-125"
+     },
+     {
+      "year": 2003,
+      "value": 5911.7,
+      "ledger": "bb-125"
+     },
+     {
+      "year": 2004,
+      "value": 6053.2,
+      "ledger": "bb-125"
+     },
+     {
+      "year": 2005,
+      "value": 5864.4,
+      "ledger": "bb-125"
+     }
+    ]
+   },
+   {
+    "name": "Hollywood Entertainment (restated)",
+    "points": [
+     {
+      "year": 2000,
+      "value": 1296.237,
+      "ledger": "bb-074"
+     },
+     {
+      "year": 2001,
+      "value": 1379.503,
+      "ledger": "bb-074"
+     },
+     {
+      "year": 2002,
+      "value": 1490.066,
+      "ledger": "bb-074"
+     },
+     {
+      "year": 2003,
+      "value": 1682.548,
+      "ledger": "bb-074"
+     },
+     {
+      "year": 2004,
+      "value": 1782.364,
+      "ledger": "bb-074"
+     }
+    ]
+   },
+   {
+    "name": "Movie Gallery (includes Hollywood Video from April 2005)",
+    "points": [
+     {
+      "year": 2000,
+      "value": 318.936,
+      "ledger": "bb-079"
+     },
+     {
+      "year": 2001,
+      "value": 369.131,
+      "ledger": "bb-079"
+     },
+     {
+      "year": 2002,
+      "value": 528.988,
+      "ledger": "bb-079"
+     },
+     {
+      "year": 2003,
+      "value": 692.395,
+      "ledger": "bb-079"
+     },
+     {
+      "year": 2004,
+      "value": 791.177,
+      "ledger": "bb-079"
+     },
+     {
+      "year": 2005,
+      "value": 1987.327,
+      "ledger": "bb-081"
+     },
+     {
+      "year": 2006,
+      "value": 2541.933,
+      "ledger": "bb-081"
+     }
+    ]
+   }
+  ],
+  "note": "Blockbuster's figures are worldwide revenue; the other two are almost entirely U.S. Hollywood's are as restated in its FY2004 10-K. Movie Gallery 2001-2004 are fiscal years ended on the Sunday nearest December 31.",
+  "src": [
+   3,
+   6,
+   25,
+   44,
+   45,
+   46
+  ]
+ },
+ "storemap": {
+  "type": "storemap",
+  "title": "Blockbuster stores in the United States by state, 2004 and 2009",
+  "dates": [
+   "2004",
+   "2009"
+  ],
+  "states": {
+   "DC": [
+    7,
+    4
+   ],
+   "NC": [
+    157,
+    118
+   ],
+   "SC": [
+    79,
+    68
+   ],
+   "MA": [
+    128,
+    63
+   ],
+   "NH": [
+    19,
+    18
+   ],
+   "WV": [
+    19,
+    16
+   ],
+   "ND": [
+    6,
+    6
+   ],
+   "PA": [
+    207,
+    142
+   ],
+   "RI": [
+    27,
+    14
+   ],
+   "SD": [
+    16,
+    7
+   ],
+   "CT": [
+    60,
+    48
+   ],
+   "MS": [
+    46,
+    33
+   ],
+   "CA": [
+    681,
+    468
+   ],
+   "NJ": [
+    157,
+    110
+   ],
+   "NM": [
+    35,
+    7
+   ],
+   "WA": [
+    136,
+    103
+   ],
+   "LA": [
+    99,
+    70
+   ],
+   "MN": [
+    89,
+    50
+   ],
+   "TN": [
+    108,
+    80
+   ],
+   "WI": [
+    83,
+    61
+   ],
+   "AR": [
+    20,
+    16
+   ],
+   "CO": [
+    131,
+    89
+   ],
+   "DE": [
+    15,
+    13
+   ],
+   "IL": [
+    253,
+    161
+   ],
+   "KY": [
+    81,
+    59
+   ],
+   "MD": [
+    135,
+    66
+   ],
+   "MI": [
+    191,
+    130
+   ],
+   "MO": [
+    110,
+    81
+   ],
+   "NE": [
+    38,
+    22
+   ],
+   "NY": [
+    295,
+    173
+   ],
+   "OK": [
+    73,
+    62
+   ],
+   "VA": [
+    139,
+    98
+   ],
+   "AL": [
+    76,
+    48
+   ],
+   "AZ": [
+    134,
+    114
+   ],
+   "FL": [
+    434,
+    337
+   ],
+   "GA": [
+    211,
+    140
+   ],
+   "IN": [
+    122,
+    85
+   ],
+   "MT": [
+    8,
+    1
+   ],
+   "VT": [
+    8,
+    8
+   ],
+   "WY": [
+    10,
+    5
+   ],
+   "AK": [
+    17,
+    16
+   ],
+   "HI": [
+    25,
+    22
+   ],
+   "KS": [
+    57,
+    49
+   ],
+   "NV": [
+    57,
+    39
+   ],
+   "OR": [
+    99,
+    76
+   ],
+   "ID": [
+    16,
+    4
+   ],
+   "ME": [
+    6,
+    6
+   ],
+   "TX": [
+    533,
+    399
+   ],
+   "IA": [
+    48,
+    21
+   ],
+   "OH": [
+    194,
+    134
+   ],
+   "UT": [
+    64,
+    43
+   ]
+  },
+  "unknown": [
+   44,
+   15
+  ],
+  "totals": [
+   5803,
+   4018
+  ],
+  "note": "Company-operated plus franchised stores as listed in the 10-Ks for December 31, 2004 and January 3, 2010. \"unknown\" is Guam, Puerto Rico and the U.S. Virgin Islands (45 stores in 2004, 15 in 2009). No state gained stores between the two dates. The last state table is in the FY2009 10-K; the FY2010 10-K gives only a U.S. total (3,090 stores on January 2, 2011).",
+  "unknownDetail": {
+   "2004": {
+    "Guam": 3,
+    "Puerto Rico": 39,
+    "Virgin Islands": 2
+   },
+   "2009": {
+    "Guam": 2,
+    "Puerto Rico": 12,
+    "Virgin Islands": 1
+   }
+  },
+  "byYear": {
+   "1999": {
+    "states": {
+     "AL": 53,
+     "AK": 13,
+     "AZ": 90,
+     "AR": 18,
+     "CA": 579,
+     "CO": 112,
+     "CT": 56,
+     "DE": 10,
+     "DC": 7,
+     "FL": 354,
+     "GA": 187,
+     "HI": 20,
+     "ID": 9,
+     "IL": 227,
+     "IN": 75,
+     "IA": 27,
+     "KS": 52,
+     "KY": 47,
+     "LA": 71,
+     "ME": 5,
+     "MD": 123,
+     "MA": 108,
+     "MI": 162,
+     "MN": 49,
+     "MS": 32,
+     "MO": 93,
+     "MT": 7,
+     "NE": 30,
+     "NH": 19,
+     "NJ": 104,
+     "NM": 25,
+     "NY": 275,
+     "NV": 47,
+     "NC": 113,
+     "ND": 6,
+     "OH": 169,
+     "OK": 63,
+     "OR": 81,
+     "PA": 161,
+     "RI": 25,
+     "SC": 68,
+     "SD": 5,
+     "TN": 73,
+     "TX": 515,
+     "UT": 46,
+     "VT": 5,
+     "VA": 121,
+     "WA": 115,
+     "WV": 13,
+     "WI": 78,
+     "WY": 5
+    },
+    "unknown": 45,
+    "total": 4793,
+    "ledger": "bb-047"
+   },
+   "2004": {
+    "states": {
+     "DC": 7,
+     "NC": 157,
+     "SC": 79,
+     "MA": 128,
+     "NH": 19,
+     "WV": 19,
+     "ND": 6,
+     "PA": 207,
+     "RI": 27,
+     "SD": 16,
+     "CT": 60,
+     "MS": 46,
+     "CA": 681,
+     "NJ": 157,
+     "NM": 35,
+     "WA": 136,
+     "LA": 99,
+     "MN": 89,
+     "TN": 108,
+     "WI": 83,
+     "AR": 20,
+     "CO": 131,
+     "DE": 15,
+     "IL": 253,
+     "KY": 81,
+     "MD": 135,
+     "MI": 191,
+     "MO": 110,
+     "NE": 38,
+     "NY": 295,
+     "OK": 73,
+     "VA": 139,
+     "AL": 76,
+     "AZ": 134,
+     "FL": 434,
+     "GA": 211,
+     "IN": 122,
+     "MT": 8,
+     "VT": 8,
+     "WY": 10,
+     "AK": 17,
+     "HI": 25,
+     "KS": 57,
+     "NV": 57,
+     "OR": 99,
+     "ID": 16,
+     "ME": 6,
+     "TX": 533,
+     "IA": 48,
+     "OH": 194,
+     "UT": 64
+    },
+    "unknown": 44,
+    "total": 5803,
+    "ledger": "bb-048"
+   },
+   "2005": {
+    "states": {
+     "DC": 6,
+     "NC": 161,
+     "SC": 78,
+     "MA": 125,
+     "NH": 20,
+     "WV": 19,
+     "ND": 6,
+     "PA": 202,
+     "RI": 25,
+     "SD": 16,
+     "CT": 62,
+     "MS": 46,
+     "CA": 665,
+     "NJ": 157,
+     "NM": 35,
+     "WA": 130,
+     "LA": 90,
+     "MN": 86,
+     "TN": 112,
+     "WI": 82,
+     "AR": 20,
+     "CO": 128,
+     "DE": 15,
+     "IL": 248,
+     "KY": 84,
+     "MD": 129,
+     "MI": 183,
+     "MO": 109,
+     "NE": 35,
+     "NY": 280,
+     "OK": 70,
+     "VA": 134,
+     "AL": 79,
+     "AZ": 133,
+     "FL": 434,
+     "GA": 211,
+     "IN": 120,
+     "MT": 8,
+     "VT": 8,
+     "WY": 10,
+     "AK": 17,
+     "HI": 25,
+     "KS": 57,
+     "NV": 57,
+     "OR": 95,
+     "ID": 15,
+     "ME": 6,
+     "TX": 513,
+     "IA": 48,
+     "OH": 189,
+     "UT": 69
+    },
+    "unknown": 44,
+    "total": 5696,
+    "ledger": "bb-049"
+   },
+   "2006": {
+    "states": {
+     "DC": 6,
+     "NC": 141,
+     "SC": 78,
+     "MA": 120,
+     "NH": 20,
+     "WV": 19,
+     "ND": 6,
+     "PA": 175,
+     "RI": 23,
+     "SD": 9,
+     "CT": 61,
+     "MS": 44,
+     "CA": 620,
+     "NJ": 153,
+     "NM": 33,
+     "WA": 123,
+     "LA": 88,
+     "MN": 57,
+     "TN": 109,
+     "WI": 70,
+     "AR": 18,
+     "CO": 114,
+     "DE": 15,
+     "IL": 219,
+     "KY": 82,
+     "MD": 120,
+     "MI": 152,
+     "MO": 98,
+     "NE": 31,
+     "NY": 224,
+     "OK": 67,
+     "VA": 129,
+     "AL": 75,
+     "AZ": 131,
+     "FL": 425,
+     "GA": 188,
+     "IN": 117,
+     "MT": 8,
+     "VT": 10,
+     "WY": 10,
+     "AK": 17,
+     "HI": 24,
+     "KS": 56,
+     "NV": 48,
+     "OR": 88,
+     "ID": 14,
+     "ME": 6,
+     "TX": 458,
+     "IA": 25,
+     "OH": 175,
+     "UT": 51
+    },
+    "unknown": 44,
+    "total": 5194,
+    "ledger": "bb-050"
+   },
+   "2007": {
+    "states": {
+     "DC": 4,
+     "NC": 132,
+     "SC": 74,
+     "MA": 112,
+     "NH": 20,
+     "WV": 19,
+     "ND": 6,
+     "PA": 167,
+     "RI": 23,
+     "SD": 9,
+     "CT": 60,
+     "MS": 38,
+     "CA": 562,
+     "NJ": 145,
+     "NM": 27,
+     "WA": 119,
+     "LA": 80,
+     "MN": 58,
+     "TN": 97,
+     "WI": 68,
+     "AR": 18,
+     "CO": 108,
+     "DE": 15,
+     "IL": 205,
+     "KY": 72,
+     "MD": 112,
+     "MI": 145,
+     "MO": 95,
+     "NE": 28,
+     "NY": 211,
+     "OK": 66,
+     "VA": 128,
+     "AL": 61,
+     "AZ": 129,
+     "FL": 393,
+     "GA": 156,
+     "IN": 108,
+     "MT": 5,
+     "VT": 10,
+     "WY": 10,
+     "AK": 17,
+     "HI": 23,
+     "KS": 54,
+     "NV": 45,
+     "OR": 84,
+     "ID": 11,
+     "ME": 6,
+     "TX": 443,
+     "IA": 24,
+     "OH": 165,
+     "UT": 46
+    },
+    "unknown": 42,
+    "total": 4855,
+    "ledger": "bb-051"
+   },
+   "2008": {
+    "states": {
+     "DC": 4,
+     "NC": 130,
+     "SC": 73,
+     "MA": 89,
+     "NH": 19,
+     "WV": 18,
+     "ND": 6,
+     "PA": 161,
+     "RI": 18,
+     "SD": 9,
+     "CT": 59,
+     "MS": 35,
+     "CA": 527,
+     "NJ": 135,
+     "NM": 18,
+     "WA": 115,
+     "LA": 78,
+     "MN": 57,
+     "TN": 96,
+     "WI": 66,
+     "AR": 17,
+     "CO": 102,
+     "DE": 15,
+     "IL": 193,
+     "KY": 66,
+     "MD": 99,
+     "MI": 140,
+     "MO": 92,
+     "NE": 26,
+     "NY": 201,
+     "OK": 65,
+     "VA": 122,
+     "AL": 57,
+     "AZ": 127,
+     "FL": 378,
+     "GA": 153,
+     "IN": 98,
+     "MT": 4,
+     "VT": 8,
+     "WY": 9,
+     "AK": 16,
+     "HI": 22,
+     "KS": 53,
+     "NV": 43,
+     "OR": 81,
+     "ID": 9,
+     "ME": 6,
+     "TX": 422,
+     "IA": 23,
+     "OH": 152,
+     "UT": 45
+    },
+    "unknown": 28,
+    "total": 4585,
+    "ledger": "bb-052"
+   },
+   "2009": {
+    "states": {
+     "DC": 4,
+     "NC": 118,
+     "SC": 68,
+     "MA": 63,
+     "NH": 18,
+     "WV": 16,
+     "ND": 6,
+     "PA": 142,
+     "RI": 14,
+     "SD": 7,
+     "CT": 48,
+     "MS": 33,
+     "CA": 468,
+     "NJ": 110,
+     "NM": 7,
+     "WA": 103,
+     "LA": 70,
+     "MN": 50,
+     "TN": 80,
+     "WI": 61,
+     "AR": 16,
+     "CO": 89,
+     "DE": 13,
+     "IL": 161,
+     "KY": 59,
+     "MD": 66,
+     "MI": 130,
+     "MO": 81,
+     "NE": 22,
+     "NY": 173,
+     "OK": 62,
+     "VA": 98,
+     "AL": 48,
+     "AZ": 114,
+     "FL": 337,
+     "GA": 140,
+     "IN": 85,
+     "MT": 1,
+     "VT": 8,
+     "WY": 5,
+     "AK": 16,
+     "HI": 22,
+     "KS": 49,
+     "NV": 39,
+     "OR": 76,
+     "ID": 4,
+     "ME": 6,
+     "TX": 399,
+     "IA": 21,
+     "OH": 134,
+     "UT": 43
+    },
+    "unknown": 15,
+    "total": 4018,
+    "ledger": "bb-053"
+   }
+  },
+  "src": [
+   5,
+   9
+  ],
+  "ledger": [
+   "bb-048",
+   "bb-053"
+  ]
+ },
+ "stage": {
+  "metric": "Stores in the United States and its territories (company-operated plus franchised)",
+  "unit": "stores",
+  "points": [
+   {
+    "year": 1999,
+    "value": 4793,
+    "ledger": "bb-047"
+   },
+   {
+    "year": 2000,
+    "value": 5191,
+    "ledger": "bb-054"
+   },
+   {
+    "year": 2001,
+    "value": 5374,
+    "ledger": "bb-055"
+   },
+   {
+    "year": 2002,
+    "value": 5566,
+    "ledger": "bb-056"
+   },
+   {
+    "year": 2003,
+    "value": 5670,
+    "ledger": "bb-057"
+   },
+   {
+    "year": 2004,
+    "value": 5803,
+    "ledger": "bb-048"
+   },
+   {
+    "year": 2005,
+    "value": 5696,
+    "ledger": "bb-049"
+   },
+   {
+    "year": 2006,
+    "value": 5194,
+    "ledger": "bb-050"
+   },
+   {
+    "year": 2007,
+    "value": 4855,
+    "ledger": "bb-051"
+   },
+   {
+    "year": 2008,
+    "value": 4585,
+    "ledger": "bb-052"
+   },
+   {
+    "year": 2009,
+    "value": 4018,
+    "ledger": "bb-053"
+   },
+   {
+    "year": 2010,
+    "value": 3090,
+    "ledger": "bb-058"
+   }
+  ],
+  "tail": [
+   {
+    "year": 2011,
+    "value": 1500,
+    "qualifier": "over",
+    "note": "company-operated only; Dish, Dec 31, 2011",
+    "ledger": "bb-059"
+   },
+   {
+    "year": 2012,
+    "value": 800,
+    "qualifier": "about",
+    "note": "company-operated only; Dish, Dec 31, 2012, after about 700 closings",
+    "ledger": "bb-060"
+   },
+   {
+    "year": 2013,
+    "value": 300,
+    "qualifier": "about",
+    "note": "announced Nov 6, 2013 to close by early Jan 2014; Dish said all material operations had ceased Dec 31, 2013",
+    "src": [
+     27,
+     28
+    ]
+   }
+  ],
+  "note": "1999 and 2004–2009 come from the state tables, 2000–2003 and 2010 from the text of each 10-K. The tail after Chapter 11 counts only stores Dish operated and uses \"over\" and \"about\" as the filings do, so it is not strictly comparable. Dish's April 2011 release said \"more than 1,700\" locations at the deal."
+ },
+ "timelineAdd": [
+  {
+   "year": 2004,
+   "date": "Sep 8",
+   "text": "Viacom offers its shareholders 5.15 Blockbuster shares for each Viacom share. The exchange is oversubscribed, so Viacom accepts 9.55% of the shares tendered and swaps 27,961,165 of its own shares for 72 million each of Blockbuster Class A and Class B.",
+   "ledger": "bb-094",
+   "cat": "corporate"
+  },
+  {
+   "year": 2004,
+   "date": "Aug 25",
+   "text": "Class A shares trade ex-dividend for the $5.00 special distribution. The quarter's trading range runs from $15.12 to $7.24.",
+   "ledger": [
+    "bb-095",
+    "bb-021"
+   ],
+   "cat": "money"
+  },
+  {
+   "year": 2008,
+   "date": "Apr 14",
+   "text": "Blockbuster makes public a cash offer of at least $6.00 a share for Circuit City, sent in a letter on February 17, subject to due diligence.",
+   "ledger": "bb-122",
+   "cat": "corporate",
+   "link": "circuit-city"
+  },
+  {
+   "year": 2009,
+   "date": "Oct 1",
+   "text": "Blockbuster sells $675 million of 11.75% senior secured notes.",
+   "ledger": "bb-085",
+   "cat": "money"
+  },
+  {
+   "year": 2010,
+   "date": "Jan 28",
+   "text": "Carl Icahn resigns from the board.",
+   "ledger": "bb-089",
+   "cat": "corporate"
+  },
+  {
+   "year": 2010,
+   "date": "Jul 7",
+   "text": "The shares leave the NYSE and trade on the Pink OTCQB market as BLOAQ and BLOBQ.",
+   "ledger": "bb-088",
+   "cat": "death"
+  },
+  {
+   "year": 2011,
+   "date": "Apr 6",
+   "text": "Dish says its winning bid is valued at about $320 million and that it expects to pay about $228 million in cash; it describes Blockbuster as having more than 1,700 store locations.",
+   "ledger": [
+    "bb-115",
+    "bb-116"
+   ],
+   "cat": "death"
+  },
+  {
+   "year": 2011,
+   "date": "Jul 12",
+   "text": "The company reports it has paid its senior secured lenders $100 million from the sale and expects to pay $24.6 million more, and says creditors will receive substantially less than payment in full.",
+   "ledger": [
+    "bb-086",
+    "bb-087"
+   ],
+   "cat": "death"
+  },
+  {
+   "year": 2011,
+   "date": "Dec 31",
+   "text": "Dish says Blockbuster operates over 1,500 stores in the United States.",
+   "ledger": "bb-059",
+   "cat": "death"
+  },
+  {
+   "year": 2012,
+   "date": "Dec 31",
+   "text": "Dish closed about 700 domestic stores during 2012, leaving about 800, and announces about 300 more closings in January 2013.",
+   "ledger": "bb-060",
+   "cat": "death"
+  },
+  {
+   "year": 2013,
+   "date": "Jan 16",
+   "text": "Blockbuster's two UK operating subsidiaries enter administration; Dish records charges of about $46 million. The 91 remaining UK stores close on December 16, 2013.",
+   "ledger": [
+    "bb-062",
+    "bb-063",
+    "bb-131",
+    "bb-124"
+   ],
+   "cat": "death"
+  },
+  {
+   "year": 2013,
+   "date": "Dec 31",
+   "text": "Dish says Blockbuster has ceased all material operations.",
+   "ledger": "bb-061",
+   "cat": "death"
+  },
+  {
+   "year": 2014,
+   "date": "Jan 14",
+   "text": "Dish completes the sale of Blockbuster Mexico after a $19 million impairment.",
+   "ledger": "bb-064",
+   "cat": "death"
+  },
+  {
+   "year": 2017,
+   "date": "Jun 29",
+   "text": "The bankruptcy docket of BB Liquidating Inc., the former Blockbuster Inc., is terminated.",
+   "ledger": "bb-112",
+   "cat": "death"
+  },
+  {
+   "year": 2018,
+   "date": "Mar",
+   "text": "Oregon's Redmond and Sandy stores have closed since about December 2017, leaving Bend as the only Blockbuster in the contiguous 48 states; five stores remain in Alaska.",
+   "ledger": [
+    "bb-108",
+    "bb-132"
+   ],
+   "cat": "death"
+  }
+ ],
+ "now": [
+  {
+   "type": "trademark",
+   "title": "The BLOCKBUSTER mark",
+   "text": "The USPTO shows two live registrations for the word mark, renewed in 2023 and 2019, owned by Blockbuster L.L.C. of Englewood, Colorado. The registration for the torn-ticket logo was cancelled in February 2023 because no Section 8 declaration was filed.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    41,
+    42,
+    43
+   ],
+   "ledger": [
+    "bb-069",
+    "bb-070",
+    "bb-072",
+    "bb-073"
+   ]
+  },
+  {
+   "type": "company",
+   "title": "The estate",
+   "text": "Blockbuster Inc.'s bankruptcy case, number 10-14997, is captioned BB Liquidating Inc., is listed as Chapter 7 with Robert L. Geltzer as trustee, and was terminated on June 29, 2017.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    52
+   ],
+   "ledger": [
+    "bb-111",
+    "bb-113",
+    "bb-114",
+    "bb-112"
+   ]
+  },
+  {
+   "type": "brand",
+   "title": "The name inside Dish",
+   "text": "Dish used the name for Blockbuster@Home, a streaming offer for its subscribers, and EchoStar completed its acquisition of Dish on December 31, 2023. blockbuster.com showed the line \"We are working on rewinding your movie.\" with a link to Sling TV on October 10, 2026.",
+   "asOf": "2026-10-10",
+   "recheck": "90d",
+   "src": [
+    28,
+    36,
+    32
+   ],
+   "ledger": [
+    "bb-068",
+    "bb-117",
+    "bb-106"
+   ]
+  },
+  {
+   "type": "store",
+   "title": "The Bend store",
+   "text": "At 211 NE Revere Ave #3, Bend, Oregon. It was Pacific Video until the 2000 franchise conversion, and became the only Blockbuster in the contiguous 48 states by March 2018 and the only one in the world in March 2019. In February 2023 it said movie rentals for locals were up about 200 percent and some mornings it filled 90 online orders.",
+   "asOf": "2024-05",
+   "recheck": "90d",
+   "src": [
+    30,
+    29,
+    49,
+    50,
+    35
+   ],
+   "ledger": [
+    "bb-107",
+    "bb-105",
+    "bb-108",
+    "bb-104",
+    "bb-110"
+   ]
+  },
+  {
+   "type": "store",
+   "title": "The corporate stores",
+   "text": "Dish operated over 1,500 stores at the end of 2011, about 800 at the end of 2012 and announced on November 6, 2013 that about 300 remaining stores would close by early January 2014, with about 2,800 jobs lost. The UK arm entered administration in January 2013; its last 91 stores closed on December 16, 2013. Mexico was sold on January 14, 2014.",
+   "asOf": "2014-01-14",
+   "recheck": "365d",
+   "src": [
+    39,
+    40,
+    27,
+    28,
+    54
+   ],
+   "ledger": [
+    "bb-059",
+    "bb-060",
+    "bb-103",
+    "bb-062",
+    "bb-124",
+    "bb-064"
+   ]
+  },
+  {
+   "type": "people",
+   "title": "The lenders",
+   "text": "At the filing, $600.7 million of senior secured notes and $300.0 million of senior subordinated notes were outstanding. By July 12, 2011 the senior secured lenders had been paid $100 million from the sale, with $24.6 million more expected.",
+   "asOf": "2011-07-12",
+   "recheck": "365d",
+   "src": [
+    10
+   ],
+   "ledger": [
+    "bb-084",
+    "bb-086"
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Extended viewing fee",
+   "def": "Blockbuster's term for a late fee: a charge when a rental was kept past its due date."
+  },
+  {
+   "term": "Special distribution",
+   "def": "A one-time payment to shareholders outside the regular dividend."
+  },
+  {
+   "term": "Split-off",
+   "def": "A way for a parent company to give up a subsidiary by exchanging shareholders' parent shares for subsidiary shares."
+  },
+  {
+   "term": "Section 363 sale",
+   "def": "A court-supervised sale of a bankrupt company's assets, usually through an auction, that passes the assets to the buyer free of most claims."
+  },
+  {
+   "term": "Senior subordinated notes",
+   "def": "Bonds that are repaid after secured and senior debt if the company cannot pay everyone."
+  },
+  {
+   "term": "Debtor-in-possession financing",
+   "def": "A loan made to a company in Chapter 11 that is repaid ahead of most older debts."
+  },
+  {
+   "term": "Revenue sharing",
+   "def": "A deal in which a rental chain pays a studio a smaller up-front price and shares the rental income instead."
+  }
+ ],
+ "edges": [
+  {
+   "from": "viacom",
+   "to": "blockbuster",
+   "type": "owned",
+   "years": "1994–2004",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "blockbuster",
+     "fn": 14
+    },
+    {
+     "slug": "blockbuster",
+     "fn": 5
+    },
+    {
+     "ledger": "bb-094"
+    }
+   ]
+  },
+  {
+   "from": "dish-network",
+   "to": "blockbuster",
+   "type": "acquired",
+   "years": "2011",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "blockbuster",
+     "fn": 13
+    },
+    {
+     "ledger": "bb-101"
+    },
+    {
+     "ledger": "bb-066"
+    }
+   ]
+  },
+  {
+   "from": "dish-network",
+   "to": "blockbuster-llc",
+   "type": "owned",
+   "years": "2011–",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "bb-067"
+    },
+    {
+     "ledger": "bb-069"
+    }
+   ]
+  },
+  {
+   "from": "blockbuster-llc",
+   "to": "blockbuster",
+   "type": "licensed",
+   "years": "2011–",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "bb-071"
+    }
+   ]
+  },
+  {
+   "from": "blockbuster",
+   "to": "netflix",
+   "type": "rival",
+   "years": "2000–2010",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "blockbuster",
+     "fn": 21
+    },
+    {
+     "slug": "blockbuster",
+     "fn": 22
+    }
+   ]
+  },
+  {
+   "from": "blockbuster",
+   "to": "redbox",
+   "type": "rival",
+   "years": "2004–2010",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "blockbuster",
+     "fn": 24
+    },
+    {
+     "ledger": "bb-058"
+    }
+   ]
+  },
+  {
+   "from": "blockbuster",
+   "to": "hollywood-video",
+   "type": "rival",
+   "years": "1990s–2005",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "bb-075"
+    },
+    {
+     "ledger": "bb-074"
+    },
+    {
+     "slug": "blockbuster",
+     "fn": 5
+    }
+   ]
+  },
+  {
+   "from": "blockbuster",
+   "to": "movie-gallery",
+   "type": "rival",
+   "years": "2000–2010",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "bb-080"
+    },
+    {
+     "slug": "blockbuster",
+     "fn": 25
+    }
+   ]
+  },
+  {
+   "from": "blockbuster",
+   "to": "circuit-city",
+   "type": "acquired",
+   "years": "2008 (offer only)",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "bb-122"
+    }
+   ],
+   "note": "An unaccepted offer; if the schema requires a completed relationship, drop this edge."
+  },
+  {
+   "from": "carl-icahn",
+   "to": "blockbuster",
+   "type": "investor",
+   "years": "2005–2010",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "blockbuster",
+     "fn": 15
+    },
+    {
+     "ledger": "bb-089"
+    }
+   ]
+  },
+  {
+   "from": "blockbuster",
+   "to": "bb-liquidating",
+   "type": "owned",
+   "years": "2010–2017",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "bb-111"
+    }
+   ],
+   "note": "Same docket, renamed."
+  }
+ ],
+ "insights": [
+  {
+   "summary": "The notes issued in 2004 to pay the Viacom distribution were still on the books at the filing, and the sale could not cover the debt ahead of them. On Jan 2, 2011 liabilities subject to compromise included $300.0M of 9% senior subordinated notes (issued Aug 20, 2004, the same day as the $1,150M facility that funded the $905.6M distribution) behind $600.7M of senior secured notes (the company had sold $675M of 11.75% secured notes on Oct 1, 2009). The sale fetched $320.6M, less than the secured notes alone. The company said creditors would receive substantially less than payment in full and, by Jul 12, 2011, had paid its senior secured lenders $100M with $24.6M more expected. The sale price is a gross figure; the estate expected about $226M net.",
+   "ledger": [
+    "bb-128",
+    "bb-129",
+    "bb-084",
+    "bb-085",
+    "bb-101",
+    "bb-087",
+    "bb-086",
+    "bb-095"
+   ],
+   "where": "Cause: \"Debt taken on to leave Viacom\"; story chapter \"Collapse\"; numbers section as a recovery bar"
+  },
+  {
+   "summary": "Ending late fees cost more than the company projected. In its FY2004 10-K Blockbuster projected the fees would have contributed $400M to $450M of 2005 revenue and $250M to $300M of operating income. In the FY2005 10-K it said the \"no late fees\" program had cost about $60M to implement and reduced rental revenues by over $500M, and that extended viewing fees had been approximately 14% of 2004 rental revenues. By March 2006 about 340 franchise stores had followed.",
+   "ledger": [
+    "bb-093",
+    "bb-090",
+    "bb-091",
+    "bb-092"
+   ],
+   "where": "Story chapter \"Independent, indebted and under new management\"; numbers \"What late fees were worth\""
+  },
+  {
+   "summary": "The store map shows no state gaining stores between Dec 2004 and Jan 2010. U.S. stores fell from 5,803 to 4,018 (-31%), but franchised stores fell faster (1,095 to 493, -55%) than company-operated ones (4,708 to 3,525, -25%). California lost the most (681 to 468) and Montana the largest share (8 to 1); New Mexico fell from 35 to 7 and Idaho from 16 to 4. Percentages and differences are derived from the two filing tables.",
+   "ledger": [
+    "bb-048",
+    "bb-053"
+   ],
+   "where": "Signature visual: store map, with a caption and a \"biggest losses\" list"
+  },
+  {
+   "summary": "Dish cut the U.S. chain from more than 1,700 locations at the April 2011 deal to over 1,500 at the end of 2011, about 800 at the end of 2012 (after about 700 closings) and about 300 when it announced the end in November 2013. It reported net losses from discontinued operations of $47M in 2013 and $37M in 2012. These are Dish's company-operated counts, not comparable to the earlier franchise-inclusive counts.",
+   "ledger": [
+    "bb-116",
+    "bb-059",
+    "bb-060",
+    "bb-103",
+    "bb-065"
+   ],
+   "where": "Afterlife: \"The corporate stores\" card; stage tail"
+  },
+  {
+   "summary": "The chain Blockbuster tried to buy in 2005 was profitable. Hollywood Entertainment reported (as restated) net income of $71.3M on $1,782.4M of revenue in 2004, with $351.3M of long-term obligations. Blockbuster's own 2004 figures were a $1,248.8M net loss (mostly non-cash impairments) and $1,119.7M of long-term debt. Hollywood still ended up inside Movie Gallery, which entered bankruptcy in 2007; the profit did not save the model.",
+   "ledger": [
+    "bb-076",
+    "bb-074",
+    "bb-077",
+    "bb-125"
+   ],
+   "where": "Rivals: caption for the revenue rival chart",
+   "note": "The Blockbuster net loss and debt figures are existing page values (fn 6); the Movie Gallery 2007 bankruptcy is in existing fn 25/26."
+  }
+ ],
+ "entities": [
+  {
+   "id": "blockbuster",
+   "name": "Blockbuster",
+   "type": "Brand",
+   "slug": "blockbuster"
+  },
+  {
+   "id": "blockbuster-llc",
+   "name": "Blockbuster L.L.C.",
+   "type": "Organization"
+  },
+  {
+   "id": "bb-liquidating",
+   "name": "BB Liquidating Inc. (formerly Blockbuster Inc.)",
+   "type": "Organization"
+  },
+  {
+   "id": "viacom",
+   "name": "Viacom",
+   "type": "Organization"
+  },
+  {
+   "id": "dish-network",
+   "name": "DISH Network",
+   "type": "Organization"
+  },
+  {
+   "id": "netflix",
+   "name": "Netflix",
+   "type": "Organization"
+  },
+  {
+   "id": "redbox",
+   "name": "Redbox",
+   "type": "Brand",
+   "slug": "redbox"
+  },
+  {
+   "id": "hollywood-video",
+   "name": "Hollywood Video",
+   "type": "Brand",
+   "slug": "hollywood-video"
+  },
+  {
+   "id": "movie-gallery",
+   "name": "Movie Gallery",
+   "type": "Organization"
+  },
+  {
+   "id": "circuit-city",
+   "name": "Circuit City",
+   "type": "Brand",
+   "slug": "circuit-city"
+  },
+  {
+   "id": "carl-icahn",
+   "name": "Carl Icahn",
+   "type": "Person"
+  }
+ ]
+}
