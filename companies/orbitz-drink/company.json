@@ -15,6 +15,14 @@
   {
    "date": "1998-08-31",
    "text": "was reported down almost 85% in a year"
+  },
+  {
+   "date": "1997-04-14",
+   "text": "announced the Canadian launch of the drink"
+  },
+  {
+   "date": "2008-12-08",
+   "text": "saw its ORBITZ trademark application abandoned"
   }
  ],
  "published": "2026-10-08",
@@ -96,6 +104,108 @@
   {
    "title": "The parent kept shrinking.",
    "text": "Clearly Canadian’s revenue fell from $34.9M in 1998 to $20.5M in 2002, with losses in every year after 1998. Its own filings warned that beverage brands may last “a few years” before tastes change.[^6]"
+  }
+ ],
+ "kind": "product",
+ "listed": [],
+ "signature": "recreation",
+ "factFile": [
+  {
+   "key": "was",
+   "value": "A non-carbonated fruit drink with floating gel spheres, made by Clearly Canadian Beverage Corporation of Vancouver",
+   "src": [
+    4,
+    8,
+    1
+   ],
+   "ledger": [
+    "od-030",
+    "od-066",
+    "od-013"
+   ]
+  },
+  {
+   "key": "founded",
+   "label": "Launched",
+   "value": "Introduced in the United States in May 1996, according to Science World in October 1996; the Canadian launch was announced on April 14, 1997, with sales from May 1, 1997",
+   "when": "1996",
+   "src": [
+    9,
+    8
+   ],
+   "ledger": [
+    "od-067",
+    "od-055",
+    "od-056"
+   ]
+  },
+  {
+   "key": "peak",
+   "label": "Highest sales figure found",
+   "value": "$9.4M in the first half of 1997, a company figure reported by Strategy in 1998; the article does not name a currency",
+   "when": "H1 1997",
+   "src": [
+    4
+   ],
+   "ledger": [
+    "od-023"
+   ]
+  },
+  {
+   "key": "end",
+   "value": "Discontinued by 1999 (Gastro Obscura). A company-history reference says sales were suspended, with a significant writedown, in its account of the fall of 1999; no primary source gives a date.",
+   "when": "1999",
+   "src": [
+    5,
+    13
+   ],
+   "ledger": [
+    "od-031",
+    "od-094"
+   ]
+  },
+  {
+   "key": "buyer",
+   "value": "None: Orbitz was a product, not a company. Its maker filed a proposal to its creditors under Canada’s Bankruptcy and Insolvency Act on March 17, 2010. Fast Company reported in October 2024 that Robert R. Khan acquired the Clearly Canadian company in 2012.",
+   "when": "2010 – 2012",
+   "src": [
+    27,
+    24
+   ],
+   "ledger": [
+    "od-123",
+    "od-149"
+   ]
+  },
+  {
+   "key": "nameOwner",
+   "value": "No current owner found. The maker’s 2006 application for ORBITZ was abandoned in December 2008, and a 2014 application by a different applicant was abandoned on request. Fast Company reported in October 2024 that the old owners sold the trademark; it did not name a buyer.",
+   "src": [
+    22,
+    23,
+    24
+   ],
+   "ledger": [
+    "od-133",
+    "od-135",
+    "od-137",
+    "od-138",
+    "od-139",
+    "od-146"
+   ]
+  },
+  {
+   "key": "remains",
+   "value": "Unopened bottles for collectors: Gastro Obscura says one can sell for around $50 on eBay. Fast Company reported that the machine that made the spheres was sold for parts, and that Clearly Canadian itself resumed full-scale production in 2017.",
+   "src": [
+    5,
+    24
+   ],
+   "ledger": [
+    "od-033",
+    "od-146",
+    "od-151"
+   ]
   }
  ]
 }
