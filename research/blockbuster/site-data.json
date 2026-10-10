@@ -1,0 +1,226 @@
+{
+ "glossary": [
+  {
+   "id": "extended-viewing-fee",
+   "term": "extended viewing fees",
+   "aliases": [
+    "extended viewing fee",
+    "late fees"
+   ],
+   "def": "Blockbuster’s name for a late fee: a charge when a rental was kept past its due date."
+  },
+  {
+   "id": "special-distribution",
+   "term": "special distribution",
+   "aliases": [],
+   "def": "A one-time payment to shareholders, made outside the regular dividend."
+  },
+  {
+   "id": "split-off",
+   "term": "split-off",
+   "aliases": [],
+   "def": "A way for a parent company to give up a subsidiary by letting its shareholders swap parent shares for subsidiary shares."
+  },
+  {
+   "id": "revenue-sharing",
+   "term": "revenue-sharing agreements",
+   "aliases": [
+    "revenue sharing"
+   ],
+   "def": "A deal in which a rental chain pays a studio a smaller price up front and shares the rental income afterward."
+  },
+  {
+   "id": "senior-subordinated-notes",
+   "term": "senior subordinated notes",
+   "aliases": [],
+   "def": "Bonds that are repaid after secured and senior debt if the borrower cannot pay everyone."
+  },
+  {
+   "id": "impairment",
+   "term": "impairment",
+   "aliases": [
+    "impairments"
+   ],
+   "def": "A write-down of an asset’s recorded value when the company judges it to be worth less than that."
+  }
+ ],
+ "entities": [
+  {
+   "id": "blockbuster",
+   "name": "Blockbuster",
+   "type": "Brand",
+   "slug": "blockbuster"
+  },
+  {
+   "id": "blockbuster-llc",
+   "name": "Blockbuster L.L.C.",
+   "type": "Organization"
+  },
+  {
+   "id": "viacom",
+   "name": "Viacom",
+   "type": "Organization"
+  },
+  {
+   "id": "dish-network",
+   "name": "DISH Network",
+   "type": "Organization"
+  },
+  {
+   "id": "netflix",
+   "name": "Netflix",
+   "type": "Organization"
+  },
+  {
+   "id": "redbox",
+   "name": "Redbox",
+   "type": "Brand",
+   "slug": "redbox"
+  },
+  {
+   "id": "hollywood-video",
+   "name": "Hollywood Video",
+   "type": "Brand",
+   "slug": "hollywood-video"
+  },
+  {
+   "id": "movie-gallery",
+   "name": "Movie Gallery",
+   "type": "Organization"
+  }
+ ],
+ "edges": [
+  {
+   "from": "viacom",
+   "to": "blockbuster",
+   "type": "owned",
+   "years": "1994–2004",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "blockbuster",
+     "fn": 14
+    },
+    {
+     "slug": "blockbuster",
+     "fn": 5
+    },
+    {
+     "ledger": "bb-094"
+    }
+   ]
+  },
+  {
+   "from": "dish-network",
+   "to": "blockbuster",
+   "type": "acquired",
+   "years": "2011 (asset purchase)",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "blockbuster",
+     "fn": 13
+    },
+    {
+     "ledger": "bb-101"
+    },
+    {
+     "ledger": "bb-066"
+    }
+   ]
+  },
+  {
+   "from": "dish-network",
+   "to": "blockbuster-llc",
+   "type": "owned",
+   "years": "called wholly-owned in Dish’s FY2013 10-K",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "bb-067"
+    }
+   ]
+  },
+  {
+   "from": "blockbuster-llc",
+   "to": "blockbuster",
+   "type": "owned",
+   "years": "owner of record of the word mark on Oct 10, 2026",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "bb-069"
+    },
+    {
+     "ledger": "bb-071"
+    }
+   ]
+  },
+  {
+   "from": "blockbuster",
+   "to": "netflix",
+   "type": "rival",
+   "years": "2003–2010",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "blockbuster",
+     "fn": 4
+    },
+    {
+     "slug": "blockbuster",
+     "fn": 22
+    }
+   ]
+  },
+  {
+   "from": "blockbuster",
+   "to": "redbox",
+   "type": "rival",
+   "years": "2008–2010",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "blockbuster",
+     "fn": 24
+    }
+   ]
+  },
+  {
+   "from": "blockbuster",
+   "to": "hollywood-video",
+   "type": "rival",
+   "years": "2000–2004",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "bb-075"
+    },
+    {
+     "ledger": "bb-054"
+    }
+   ]
+  },
+  {
+   "from": "blockbuster",
+   "to": "movie-gallery",
+   "type": "rival",
+   "years": "2000–2007",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "bb-078"
+    },
+    {
+     "ledger": "bb-080"
+    },
+    {
+     "ledger": "bb-083"
+    },
+    {
+     "ledger": "bb-054"
+    }
+   ]
+  }
+ ]
+}

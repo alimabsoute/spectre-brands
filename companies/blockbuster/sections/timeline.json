@@ -158,6 +158,17 @@
    ]
   },
   {
+   "date": "Aug 25",
+   "year": "",
+   "cat": "money",
+   "title": "Shares go ex-dividend",
+   "text": "Class A shares begin trading ex-dividend for the special distribution. The quarter’s trading range, 7.24 to 15.12 dollars a share, spans this date.",
+   "src": [
+    5
+   ],
+   "ledger": "bb-021"
+  },
+  {
    "date": "Sep 3",
    "year": "",
    "cat": "money",
@@ -166,6 +177,17 @@
    "src": [
     5
    ]
+  },
+  {
+   "date": "Sep",
+   "year": "",
+   "cat": "corporate",
+   "title": "Viacom’s exchange offer",
+   "text": "Viacom offers its shareholders 5.15 Blockbuster shares for each Viacom share. The offer is oversubscribed, so Viacom accepts 9.55% of the tendered shares and hands over 72 million shares each of Class A and Class B.",
+   "src": [
+    5
+   ],
+   "ledger": "bb-094"
   },
   {
    "date": "Oct",
@@ -278,6 +300,17 @@
    ]
   },
   {
+   "date": "Apr 14",
+   "year": "2008",
+   "cat": "corporate",
+   "title": "Offer for Circuit City",
+   "text": "Blockbuster makes public an offer, sent in a letter on February 17, to buy [Circuit City](/circuit-city/) for at least $6.00 a share in cash, subject to due diligence. We did not find how the proposal ended.",
+   "src": [
+    53
+   ],
+   "ledger": "bb-122"
+  },
+  {
    "date": "Mar 16",
    "year": "2010",
    "cat": "death",
@@ -328,6 +361,44 @@
    ]
   },
   {
+   "date": "Dec 31",
+   "year": "2011",
+   "cat": "death",
+   "title": "Dish counts over 1,500 stores",
+   "text": "Blockbuster operates over 1,500 retail stores in the United States, by Dish’s count.",
+   "src": [
+    39
+   ],
+   "ledger": "bb-059"
+  },
+  {
+   "date": "Dec 31",
+   "year": "2012",
+   "cat": "death",
+   "title": "About 800 stores left",
+   "text": "Dish closed approximately 700 domestic stores during 2012. In January 2013 it announced the closing of approximately 300 more.",
+   "src": [
+    40
+   ],
+   "ledger": "bb-060"
+  },
+  {
+   "date": "Jan 16",
+   "year": "2013",
+   "cat": "death",
+   "title": "Blockbuster UK enters administration",
+   "text": "The two UK operating subsidiaries enter administration. Dish’s Form 8-K reports a $21 million charge for writing down the assets and expects a further $25 million impairment on intercompany receivables. Its FY2013 10-K puts the total at approximately $46 million before tax.",
+   "src": [
+    28,
+    55
+   ],
+   "ledger": [
+    "bb-062",
+    "bb-063",
+    "bb-131"
+   ]
+  },
+  {
    "date": "Nov 6",
    "year": "2013",
    "cat": "death",
@@ -337,6 +408,65 @@
     27,
     28
    ]
+  },
+  {
+   "date": "Dec 12",
+   "year": "",
+   "cat": "death",
+   "title": "UK closings reported",
+   "text": "Engadget reports that all 91 remaining UK stores are to close on December 16, with 808 employees losing their jobs.",
+   "src": [
+    54
+   ],
+   "ledger": "bb-124"
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "death",
+   "title": "Dish: all material operations ceased",
+   "text": "Dish’s FY2013 10-K says that as of this date Blockbuster had ceased all material operations. The filing does not give the date the last store closed.",
+   "src": [
+    28
+   ],
+   "ledger": "bb-061"
+  },
+  {
+   "date": "Jan 14",
+   "year": "2014",
+   "cat": "death",
+   "title": "Mexico sold",
+   "text": "Dish completes the sale of Blockbuster Mexico, after recording pre-tax impairment charges of $19 million in 2013.",
+   "src": [
+    28
+   ],
+   "ledger": "bb-064"
+  },
+  {
+   "date": "Jun 29",
+   "year": "2017",
+   "cat": "death",
+   "title": "Bankruptcy docket terminated",
+   "text": "CourtListener’s record of case 10-14997, captioned BB Liquidating Inc. and listed as Chapter 7, shows the case terminated on this date.",
+   "src": [
+    52
+   ],
+   "ledger": [
+    "bb-111",
+    "bb-112",
+    "bb-113"
+   ]
+  },
+  {
+   "date": "Mar 17",
+   "year": "2018",
+   "cat": "death",
+   "title": "Bend alone in the lower 48",
+   "text": "The Bulletin counts one Blockbuster left in the contiguous 48 states, in Bend, three months after Oregon had three. Five stores remain in Alaska, one of them closing in mid-April.",
+   "src": [
+    49
+   ],
+   "ledger": "bb-108"
   },
   {
    "date": "2018",
@@ -369,6 +499,38 @@
    ]
   },
   {
+   "date": "Feb 10",
+   "year": "2023",
+   "cat": "death",
+   "title": "Logo registration cancelled",
+   "text": "The USPTO cancels registration 5008368 for the torn-ticket logo because the registrant did not file an acceptable declaration under Section 8. Both word-mark registrations were live when we checked on Oct 10, 2026.",
+   "src": [
+    43,
+    41,
+    42
+   ],
+   "ledger": [
+    "bb-073",
+    "bb-070",
+    "bb-072"
+   ]
+  },
+  {
+   "date": "Dec 31",
+   "year": "",
+   "cat": "corporate",
+   "title": "EchoStar completes its Dish deal",
+   "text": "EchoStar completes its acquisition of Dish Network. We found no source that names the parent of Blockbuster L.L.C., which Dish called its wholly-owned subsidiary in February 2014.",
+   "src": [
+    36,
+    28
+   ],
+   "ledger": [
+    "bb-117",
+    "bb-067"
+   ]
+  },
+  {
    "date": "Oct 3",
    "year": "2026",
    "cat": "corporate",
@@ -379,5 +541,6 @@
     32
    ]
   }
- ]
+ ],
+ "animated": true
 }

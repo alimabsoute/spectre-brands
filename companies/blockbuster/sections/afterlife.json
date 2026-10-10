@@ -87,5 +87,99 @@
    ],
    "source": "SEC filings and press as cited. The price paid by Huizenga’s group is not stated because we did not find it in a primary source."
   }
+ ],
+ "now": [
+  {
+   "type": "trademark",
+   "title": "The BLOCKBUSTER word mark",
+   "text": "The USPTO lists two live registrations for the word mark, 1771243 (renewed, status date Nov. 3, 2023) and 3661761 (renewed, status date Jul. 26, 2019). Blockbuster L.L.C., a Colorado limited liability company in Englewood, is the owner of record. The registration for the torn-ticket logo, 5008368, was cancelled on Feb. 10, 2023 because the registrant did not file an acceptable declaration under Section 8. We checked these three records only.",
+   "asOf": "2026-10-10",
+   "src": [
+    41,
+    42,
+    43
+   ],
+   "ledger": [
+    "bb-069",
+    "bb-070",
+    "bb-071",
+    "bb-072",
+    "bb-073"
+   ]
+  },
+  {
+   "type": "brand",
+   "title": "The name inside Dish",
+   "text": "At the end of 2013 Dish used the name for Blockbuster@Home, which its FY2013 10-K describes as giving Dish subscribers streaming access to more than 10,000 movies and TV shows. We do not know whether it still exists. EchoStar completed its acquisition of Dish on December 31, 2023. On October 10, 2026 blockbuster.com showed a holding page that says the company is working on rewinding your movie, with a link to Sling TV. We found no source that names the parent of Blockbuster L.L.C. today.",
+   "asOf": "2026-10-10",
+   "src": [
+    28,
+    36,
+    32
+   ],
+   "ledger": [
+    "bb-068",
+    "bb-117",
+    "bb-106",
+    "bb-067"
+   ]
+  },
+  {
+   "type": "company",
+   "title": "The estate",
+   "text": "Blockbuster’s Chapter 11 case number, 10-14997, appears in CourtListener’s record under the caption BB Liquidating Inc. The record lists the case as Chapter 7 with Robert L. Geltzer as trustee and shows it terminated on June 29, 2017. It is metadata only, so we do not know when the case moved to Chapter 7.",
+   "asOf": "2026-10-10",
+   "src": [
+    52
+   ],
+   "ledger": [
+    "bb-111",
+    "bb-112",
+    "bb-113",
+    "bb-114"
+   ]
+  },
+  {
+   "type": "store",
+   "title": "The Bend store",
+   "text": "A franchise at 211 NE Revere Ave #3, Bend, Oregon, which Seattle Met’s profile lists. The Associated Press reported that Ken and Debbie Tisher have leased the property since 1992, when it was a Pacific Video store, and that it was franchised in 2000 and became a Blockbuster. The Bulletin counted Bend as the only Blockbuster left in the contiguous 48 states in March 2018; the AP dates the Alaska closings to 2018 and the Perth, Australia closing to 2019. In February 2023 the store said movie rentals for locals were up about 200 percent and that some mornings it filled 90 online orders, against a busiest-day figure of 20 the previous February. We could not reach the store’s own website on October 10, 2026, so the latest report we could read is Seattle Met’s.",
+   "asOf": "2026-10-10",
+   "src": [
+    50,
+    30,
+    49,
+    35
+   ],
+   "ledger": [
+    "bb-107",
+    "bb-105",
+    "bb-132",
+    "bb-108",
+    "bb-110"
+   ]
+  },
+  {
+   "type": "store",
+   "title": "The corporate stores",
+   "text": "Dish operated over 1,500 stores in the United States on December 31, 2011 and approximately 800 on December 31, 2012. On November 6, 2013 it announced that about 300 remaining stores would close, expected by early January, with about 2,800 people losing their jobs. Its FY2013 10-K says Blockbuster had ceased all material operations as of December 31, 2013, and gives no date for the last store. Blockbuster UK entered administration on January 16, 2013, and Engadget reported on December 12 that its 91 remaining stores were to close on December 16. Dish completed the sale of Blockbuster Mexico on January 14, 2014. It reported net losses from discontinued operations, which include its Blockbuster businesses, of $47 million for 2013 and $37 million for 2012.",
+   "asOf": "2026-10-10",
+   "src": [
+    39,
+    40,
+    27,
+    28,
+    54
+   ],
+   "ledger": [
+    "bb-059",
+    "bb-060",
+    "bb-103",
+    "bb-061",
+    "bb-062",
+    "bb-124",
+    "bb-064",
+    "bb-065"
+   ]
+  }
  ]
 }
