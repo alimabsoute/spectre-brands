@@ -14,9 +14,23 @@
   "death": {
    "label": "Decline & after",
    "color": "#a8321f"
+  },
+  "name": {
+   "label": "The name",
+   "color": "#3d5f86"
   }
  },
  "events": [
+  {
+   "date": "Oct 25",
+   "year": "1995",
+   "cat": "product",
+   "title": "Suspension patent filed",
+   "text": "Bush Boake Allen Inc. files a U.S. patent application titled Method of suspending inclusions, about keeping solid pieces afloat in beverages. Whether it covers Orbitz is not in our sources.",
+   "src": [
+    12
+   ]
+  },
   {
    "date": "",
    "year": "1996",
@@ -26,6 +40,36 @@
    "src": [
     1,
     4
+   ]
+  },
+  {
+   "date": "May",
+   "year": "1996",
+   "cat": "product",
+   "title": "Introduced around the country",
+   "text": "Orbitz is introduced around the country, Science World says in October.",
+   "src": [
+    9
+   ]
+  },
+  {
+   "date": "Jul 24",
+   "year": "1996",
+   "cat": "product",
+   "title": "Arizona test market",
+   "text": "A University of Arizona summer paper lists Orbitz among the summer’s test-market beverage launches.",
+   "src": [
+    11
+   ]
+  },
+  {
+   "date": "Oct 4",
+   "year": "1996",
+   "cat": "product",
+   "title": "The bottle test",
+   "text": "Science World leaves a bottle alone for a few days. The spheres sink part of the way and stop.",
+   "src": [
+    9
    ]
   },
   {
@@ -49,6 +93,16 @@
    ]
   },
   {
+   "date": "Apr 14",
+   "year": "1997",
+   "cat": "product",
+   "title": "Canadian launch",
+   "text": "Clearly Canadian announces the Canadian launch. Sales start May 1 at 7-Eleven, Shoppers Drug Mart and Famous Players cinemas.",
+   "src": [
+    8
+   ]
+  },
+  {
    "date": "Apr",
    "year": "1997",
    "cat": "product",
@@ -66,6 +120,46 @@
    "text": "Orbitz sales in the first half of 1997.",
    "src": [
     4
+   ]
+  },
+  {
+   "date": "Aug",
+   "year": "1997",
+   "cat": "product",
+   "title": "A question for rheologists",
+   "text": "Two participants in a University of Minnesota short course ask how gel particles up to 5 mm across stay suspended in Orbitz.",
+   "src": [
+    10
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "1997",
+   "cat": "name",
+   "title": "Planet Orbitz prelude",
+   "text": "An Internet Archive capture of orbitz.com shows the Orbiterium prelude, with a choice of Netscape or Internet Explorer routes.",
+   "src": [
+    35
+   ]
+  },
+  {
+   "date": "May",
+   "year": "1998",
+   "cat": "money",
+   "title": "Patent suit settled",
+   "text": "FundingUniverse’s company history says a patent suit by Bush Boake Allen, a raw-material supplier for Orbitz, is settled with a licensing fee.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Jun",
+   "year": "1998",
+   "cat": "money",
+   "title": "Distribution bought back",
+   "text": "The same history says Clearly Canadian buys back distribution rights in several key Mid-Atlantic states. It now controls its North American distribution.",
+   "src": [
+    13
    ]
   },
   {
@@ -89,6 +183,16 @@
    ]
   },
   {
+   "date": "Jan",
+   "year": "1999",
+   "cat": "product",
+   "title": "Yield stress published",
+   "text": "The Rheology Bulletin prints the answer to the Minnesota question. The liquid has a yield stress of 0.04 Pa.",
+   "src": [
+    10
+   ]
+  },
+  {
    "date": "",
    "year": "1999",
    "cat": "death",
@@ -96,6 +200,46 @@
    "text": "Orbitz is no longer made.",
    "src": [
     5
+   ]
+  },
+  {
+   "date": "Fall",
+   "year": "1999",
+   "cat": "death",
+   "title": "Sales suspended",
+   "text": "The same history says Orbitz sales were suspended because of dwindling sales, with a significant writedown.",
+   "src": [
+    13
+   ]
+  },
+  {
+   "date": "Feb",
+   "year": "2000",
+   "cat": "name",
+   "title": "A parked address",
+   "text": "A domain-service placeholder replaces the drink’s site at orbitz.com.",
+   "src": [
+    35
+   ]
+  },
+  {
+   "date": "Jul",
+   "year": "2000",
+   "cat": "name",
+   "title": "Orbitz, LLC named",
+   "text": "FundingUniverse’s Orbitz, Inc. history says the airline-backed travel venture is officially named Orbitz, LLC and Orbitz, Inc.",
+   "src": [
+    14
+   ]
+  },
+  {
+   "date": "Jan",
+   "year": "2001",
+   "cat": "name",
+   "title": "©2000 Orbitz, LLC",
+   "text": "orbitz.com carries a ©2000 Orbitz, LLC notice.",
+   "src": [
+    35
    ]
   },
   {
@@ -109,6 +253,88 @@
    ]
   },
   {
+   "date": "Oct 4",
+   "year": "2005",
+   "cat": "death",
+   "title": "New president",
+   "text": "Clearly Canadian names Brent Lokash president, replacing chief executive Douglas Mason, who is to continue in an active role.",
+   "src": [
+    25
+   ]
+  },
+  {
+   "date": "Nov 2",
+   "year": "2005",
+   "cat": "death",
+   "title": "Orbitz in the past tense",
+   "text": "A press release describes Orbitz, in the past tense, as a drink with gel spheres that seemed to defy gravity.",
+   "src": [
+    26
+   ]
+  },
+  {
+   "date": "Sep 29",
+   "year": "2006",
+   "cat": "name",
+   "title": "ORBITZ application filed",
+   "text": "Clearly Canadian files a U.S. trademark application for ORBITZ covering soft drinks, non-carbonated fruit-flavored beverages and energy drinks.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Feb 7",
+   "year": "2007",
+   "cat": "money",
+   "title": "Snack maker bought",
+   "text": "Clearly Canadian says it has acquired DMR Food Corporation, an organic and natural snack-food company in Eastern Canada.",
+   "src": [
+    34
+   ]
+  },
+  {
+   "date": "Dec",
+   "year": "2008",
+   "cat": "name",
+   "title": "Application abandoned",
+   "text": "The ORBITZ application, allowed on May 6, 2008, is abandoned. The maker filed neither a statement of use nor an extension request in time.",
+   "src": [
+    22
+   ]
+  },
+  {
+   "date": "Mar 17",
+   "year": "2010",
+   "cat": "death",
+   "title": "Creditor proposal",
+   "text": "Clearly Canadian files a proposal under Canada’s Bankruptcy and Insolvency Act. Creditors approve it on April 1, and the Supreme Court of British Columbia on April 26.",
+   "src": [
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "date": "",
+   "year": "2012",
+   "cat": "death",
+   "title": "Khan acquires the company",
+   "text": "Fast Company reports that the entrepreneur Robert R. Khan acquired the Clearly Canadian company this year.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "Mar 5",
+   "year": "2014",
+   "cat": "name",
+   "title": "Another ORBITZ filing",
+   "text": "A different applicant, an individual, files ORBITZ DEFY GRAVITY DRINK ORBITZ for beverages, then abandons it on request on May 9.",
+   "src": [
+    23
+   ]
+  },
+  {
    "date": "",
    "year": "2015",
    "cat": "death",
@@ -117,6 +343,37 @@
    "src": [
     5
    ]
+  },
+  {
+   "date": "Jan 4",
+   "year": "2017",
+   "cat": "death",
+   "title": "Registrations revoked",
+   "text": "The SEC declares final an order revoking the registrations of each class of Clearly Canadian Beverage Corp.’s registered securities.",
+   "src": [
+    31
+   ]
+  },
+  {
+   "date": "",
+   "year": "2017",
+   "cat": "death",
+   "title": "Full production resumes",
+   "text": "Clearly Canadian resumes full-scale production, Fast Company says.",
+   "src": [
+    24
+   ]
+  },
+  {
+   "date": "Oct 7",
+   "year": "2024",
+   "cat": "death",
+   "title": "Trademark and machine sold",
+   "text": "The old owners sold the trademark, and the machine that made the spheres was sold off for parts, Fast Company reports.",
+   "src": [
+    24
+   ]
   }
- ]
+ ],
+ "animated": true
 }

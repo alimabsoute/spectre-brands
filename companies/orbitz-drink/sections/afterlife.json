@@ -19,6 +19,36 @@
    "color": "var(--gold)",
    "title": "The maker",
    "text": "Clearly Canadian still sells its sparkling water under its own name. Its online shop showed only a “nearly ready” notice when we loaded it in October 2026.[^7]"
+  },
+  {
+   "status": "Lapsed",
+   "color": "var(--mute)",
+   "title": "The name",
+   "text": "The maker applied to register ORBITZ in September 2006, and the application was abandoned in December 2008 for want of a statement of use or extension request.[^22] A different applicant filed ORBITZ DEFY GRAVITY DRINK ORBITZ on March 5, 2014 and abandoned it on request on May 9, 2014, about two months later.[^23] Fast Company reported in October 2024 that the old owners had sold the trademark, without naming a buyer.[^24] The records we opened do not name a current owner of any ORBITZ beverage mark."
+  },
+  {
+   "status": "Sold for parts",
+   "color": "var(--red)",
+   "title": "The machine",
+   "text": "The machine that made the spheres broke down and was sold off for parts, Fast Company reported in October 2024.[^24]"
+  },
+  {
+   "status": "Repurposed",
+   "color": "var(--gold)",
+   "title": "The address",
+   "text": "The drink’s Planet Orbitz site ran at orbitz.com. The address was on the packaging in April 1997,[^8] archive captures show the Orbiterium prelude in December 1997 and January 1999, and by February 2000 the address showed a domain-service placeholder. By January 2001 it carried ©2000 Orbitz, LLC, and by May 2001 a travel search preview.[^35] Our sources do not say how the address changed hands or who holds it today."
+  },
+  {
+   "status": "Restructured",
+   "color": "var(--red)",
+   "title": "The maker, 2010 to 2017",
+   "text": "Clearly Canadian Beverage Corporation filed a proposal to its creditors under Canada’s Bankruptcy and Insolvency Act on March 17, 2010.[^27] Creditors approved it on April 1 and the Supreme Court of British Columbia on April 26.[^28][^29] The U.S. Securities and Exchange Commission revoked the registrations of each class of its registered securities on January 4, 2017.[^31]"
+  },
+  {
+   "status": "In production, per Fast Company",
+   "color": "var(--green)",
+   "title": "The Clearly Canadian brand",
+   "text": "Fast Company reported in October 2024 that production stopped around 2010, that Robert R. Khan acquired the company in 2012 and that full-scale production resumed in 2017. It said a group of private investors who were fans of the brand from the ’90s owned it, and its marketing chief said the company was on track to sell around 45 million bottles that year.[^24]"
   }
  ]
 }

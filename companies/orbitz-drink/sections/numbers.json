@@ -132,6 +132,163 @@
     }
    ],
    "source": "Spokesman-Review and Associated Press.[^1][^2]"
+  },
+  {
+   "kind": "arc",
+   "title": "Clearly Canadian’s revenue, 1998 to 2007",
+   "subtitle": "Total revenues, $ millions, as first printed in each annual report (1998 to 2001 from the report for 2002). Not one accounting basis; see the data notes.",
+   "labels": [
+    "1998",
+    "1999",
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007"
+   ],
+   "format": "usdM",
+   "series": [
+    {
+     "label": "Revenue",
+     "data": [
+      34.889,
+      31.418,
+      23.247,
+      23.257,
+      20.477,
+      "13.270",
+      11.586,
+      9.141,
+      7.462,
+      10.263
+     ],
+     "color": "brand"
+    }
+   ],
+   "points": [
+    {
+     "i": 4,
+     "title": "2002",
+     "text": "The report for 2002 prints 20.477. The report for 2003 restates 2002 to 20.205 for discontinued operations.[^6][^15]"
+    },
+    {
+     "i": 7,
+     "title": "2005",
+     "text": "The report for 2006 restates 2005 to 8.712 and 2004 to 11.064, below the first-reported 9.141 and 11.586, and nets sales incentives against sales from then on.[^18]"
+    },
+    {
+     "i": 9,
+     "title": "2007",
+     "text": "Revenue rose to 10.263 from 7.462. The company bought DMR Food Corporation, a snack maker, in February 2007, so the total is not a drink figure.[^19][^34]"
+    }
+   ],
+   "source": "Annual reports to the SEC for 2002 to 2007.[^6][^15][^16][^17][^18][^19]"
+  },
+  {
+   "kind": "counters",
+   "title": "The physics, in four numbers",
+   "items": [
+    {
+     "value": "0.04 Pa",
+     "text": "yield stress of the liquid, from creep measurements[^10]"
+    },
+    {
+     "value": "4×",
+     "text": "the viscosity of water, at a shear rate of 100 per second[^10]"
+    },
+    {
+     "value": "about 12 kg/m3",
+     "text": "the largest density difference the liquid can support for 5 mm particles[^10]"
+    },
+    {
+     "value": "about 2×",
+     "text": "the yield stress used to suspend builder particles in liquid detergents[^10]"
+    }
+   ],
+   "source": "Dontula and Macosko, Rheology Bulletin, January 1999.[^10]"
+  },
+  {
+   "kind": "table",
+   "title": "Where the parent’s shares traded",
+   "subtitle": "Clearly Canadian Beverage Corporation. Orbitz was a product, not a listed company.",
+   "columns": [
+    "Exchange",
+    "Symbol",
+    "Listed",
+    "Ended"
+   ],
+   "rows": [
+    [
+     "Vancouver Stock Exchange",
+     "CLV[^8]",
+     "Jan 25, 1984[^6]",
+     "Voluntary delisting, Jan 9, 1998[^6]"
+    ],
+    [
+     "Nasdaq",
+     "CLCDF[^8]",
+     "Sep 3, 1987[^6]",
+     "Delisted Feb 14, 2001 for not meeting the minimum bid price and market value rules[^6]"
+    ],
+    [
+     "Toronto Stock Exchange",
+     "CLV[^6]",
+     "Dec 3, 1997[^6]",
+     "Voluntary delisting, Feb 17, 2005[^16]"
+    ],
+    [
+     "OTC Bulletin Board",
+     "CCBC[^6]",
+     "After the Nasdaq delisting, Feb 2001[^6]",
+     "No longer eligible for quotation by April 2010, after cease trade orders[^28]"
+    ]
+   ],
+   "source": "Symbols are those printed in the cited documents for the dates shown. The April 1997 release gives the Vancouver and Nasdaq symbols.[^8][^6]"
+  },
+  {
+   "kind": "table",
+   "title": "The parent’s share price, year by year",
+   "subtitle": "Annual high and low in US dollars on Nasdaq and the OTC Bulletin Board. The annual report does not adjust these prices for the February 18, 1999 consolidation, so 1998 and 1999 are not comparable with each other or with 2000 onward.",
+   "columns": [
+    "Year",
+    "High",
+    "Low"
+   ],
+   "numeric": [
+    1,
+    2
+   ],
+   "rows": [
+    [
+     "1998",
+     "$1.38",
+     "$0.50"
+    ],
+    [
+     "1999",
+     "$4.11",
+     "$0.75"
+    ],
+    [
+     "2000",
+     "$2.25",
+     "$0.38"
+    ],
+    [
+     "2001",
+     "$1.25",
+     "$0.45"
+    ],
+    [
+     "2002",
+     "$0.95",
+     "$0.40"
+    ]
+   ],
+   "source": "Clearly Canadian annual report for 2002.[^6] Quarterly prices are in the filing; they are not charted here because the ledger records them without plain numeric values."
   }
  ]
 }
