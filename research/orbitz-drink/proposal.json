@@ -1,0 +1,1813 @@
+{
+ "slug": "orbitz-drink",
+ "kind": "product",
+ "listed": [],
+ "listedNote": "Orbitz itself was never listed. Its maker's shares are in parentListed; the stock block charts the parent and is labelled as such.",
+ "parentListed": [
+  {
+   "entity": "Clearly Canadian Beverage Corporation",
+   "exchange": "Vancouver Stock Exchange",
+   "ticker": "CLV",
+   "from": "1984-01-25",
+   "to": "1998-01-09",
+   "ledger": [
+    "od-047",
+    "od-048",
+    "od-065"
+   ]
+  },
+  {
+   "entity": "Clearly Canadian Beverage Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "CLCDF",
+   "from": "1987-09-03",
+   "to": "2001-02-14",
+   "ledger": [
+    "od-044",
+    "od-043",
+    "od-065"
+   ],
+   "note": "CLCDF is the symbol in the April 1997 release; the 20-F does not give the Nasdaq symbol."
+  },
+  {
+   "entity": "Clearly Canadian Beverage Corporation",
+   "exchange": "Toronto Stock Exchange",
+   "ticker": "CLV",
+   "from": "1997-12-03",
+   "to": "2005-02-17",
+   "ledger": [
+    "od-045",
+    "od-046",
+    "od-119"
+   ]
+  },
+  {
+   "entity": "Clearly Canadian Beverage Corporation",
+   "exchange": "OTC Bulletin Board",
+   "ticker": "CCBC",
+   "from": "2001-02-14",
+   "to": "2010-04",
+   "ledger": [
+    "od-046",
+    "od-126"
+   ],
+   "note": "The April 2010 release says the stock was no longer eligible for quotation; the exact end date is not given."
+  }
+ ],
+ "signature": "recreation",
+ "signatureWhy": "Five dated Wayback captures of orbitz.com (Dec 1996, Dec 1997, Jan 1999, Feb 2000, Jan 2001) show the drink's Planet Orbitz site turning into the travel company's page. That sequence exists on no other page of the site. Fallback: 'scrolly' using the stage series below, which is the parent's revenue, not Orbitz's.",
+ "factFile": [
+  {
+   "key": "was",
+   "value": "A non-carbonated fruit drink with floating gel spheres, made by Clearly Canadian Beverage Corporation of Vancouver",
+   "src": [
+    4,
+    1,
+    8
+   ],
+   "ledger": [
+    "od-030",
+    "od-006",
+    "od-066"
+   ]
+  },
+  {
+   "key": "founded",
+   "value": "Launched in the United States in 1996 (Science World, Oct 1996: “introduced around the country last May”); announced for Canada on April 14, 1997, on sale May 1, 1997",
+   "when": "1996",
+   "src": [
+    9,
+    8,
+    4
+   ],
+   "ledger": [
+    "od-067",
+    "od-055",
+    "od-056",
+    "od-030"
+   ]
+  },
+  {
+   "key": "peak",
+   "label": "Highest sales figure found",
+   "value": "$9.4M in the first half of 1997 (company figure; currency not stated). The company also projected about a million cases by the end of 1996.",
+   "when": "H1 1997",
+   "src": [
+    4,
+    1
+   ],
+   "ledger": [
+    "od-023",
+    "od-002",
+    "od-161"
+   ]
+  },
+  {
+   "key": "end",
+   "value": "Discontinued by 1999. A company-history reference says sales were suspended in the fall of 1999; no primary document gives a date.",
+   "when": "1999",
+   "src": [
+    5,
+    13
+   ],
+   "ledger": [
+    "od-031",
+    "od-094",
+    "od-169"
+   ]
+  },
+  {
+   "key": "buyer",
+   "value": "None: Orbitz was a product, not a company. Its maker filed a creditor proposal in March 2010, had its shares cancelled on May 26, 2010 and was acquired by Robert R. Khan in 2012 (per Fast Company).",
+   "when": "2010–2012",
+   "asOf": "2026-10-10",
+   "src": [
+    27,
+    30,
+    24
+   ],
+   "ledger": [
+    "od-123",
+    "od-128",
+    "od-149"
+   ]
+  },
+  {
+   "key": "nameOwner",
+   "value": "No current owner found. The maker’s 2006 application for ORBITZ was abandoned on Dec 8, 2008; Fast Company reported in 2024 that the old owners sold the trademark (buyer not named).",
+   "asOf": "2026-10-10",
+   "recheck": "90d",
+   "src": [
+    22,
+    24
+   ],
+   "ledger": [
+    "od-133",
+    "od-135",
+    "od-146",
+    "od-165"
+   ]
+  },
+  {
+   "key": "remains",
+   "value": "Collectors’ bottles (about $50 each for an unopened one, per Gastro Obscura); the Clearly Canadian sparkling water is back on shelves without Orbitz",
+   "asOf": "2026-10-10",
+   "src": [
+    5,
+    24
+   ],
+   "ledger": [
+    "od-033",
+    "od-146",
+    "od-151"
+   ]
+  }
+ ],
+ "stock": {
+  "type": "stock",
+  "scope": "parent company, not Orbitz",
+  "title": "Clearly Canadian Beverage Corporation share price, 2001–2007",
+  "ticker": "CCBC",
+  "exchange": "OTC Bulletin Board (also TSX: CLV until Feb 2005)",
+  "unit": "USD",
+  "series": [
+   {
+    "q": "2001Q1",
+    "hi": 1.25,
+    "lo": 0.54,
+    "ledger": "od-051",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2001Q2",
+    "hi": 1.17,
+    "lo": 0.84,
+    "ledger": "od-051",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2001Q3",
+    "hi": 1.0,
+    "lo": 0.7,
+    "ledger": "od-051",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2001Q4",
+    "hi": 0.8,
+    "lo": 0.45,
+    "ledger": "od-051",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2002Q1",
+    "hi": 0.89,
+    "lo": 0.53,
+    "ledger": "od-052",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2002Q2",
+    "hi": 0.95,
+    "lo": 0.73,
+    "ledger": "od-052",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2002Q3",
+    "hi": 0.88,
+    "lo": 0.56,
+    "ledger": "od-052",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2002Q4",
+    "hi": 0.6,
+    "lo": 0.4,
+    "ledger": "od-052",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2003Q1",
+    "hi": 0.51,
+    "lo": 0.4,
+    "ledger": "od-116",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2003Q2",
+    "hi": 0.48,
+    "lo": 0.37,
+    "ledger": "od-116",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2003Q3",
+    "hi": 0.44,
+    "lo": 0.27,
+    "ledger": "od-116",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2003Q4",
+    "hi": 0.37,
+    "lo": 0.2,
+    "ledger": "od-116",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2004Q1",
+    "hi": 0.45,
+    "lo": 0.21,
+    "ledger": "od-117",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2004Q2",
+    "hi": 0.39,
+    "lo": 0.26,
+    "ledger": "od-117",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2004Q3",
+    "hi": 0.37,
+    "lo": 0.16,
+    "ledger": "od-117",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2004Q4",
+    "hi": 0.28,
+    "lo": 0.14,
+    "ledger": "od-117",
+    "basis": "as reported, before the 2005 consolidation"
+   },
+   {
+    "q": "2005Q1",
+    "hi": 3.4,
+    "lo": 2.1,
+    "ledger": "od-120",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2005Q2",
+    "hi": 2.3,
+    "lo": 1.2,
+    "ledger": "od-120",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2005Q3",
+    "hi": 1.9,
+    "lo": 1.1,
+    "ledger": "od-120",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2005Q4",
+    "hi": 2.22,
+    "lo": 1.17,
+    "ledger": "od-120",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2006Q1",
+    "hi": 2.62,
+    "lo": 2.11,
+    "ledger": "od-121",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2006Q2",
+    "hi": 4.41,
+    "lo": 2.34,
+    "ledger": "od-121",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2006Q3",
+    "hi": 3.68,
+    "lo": 2.48,
+    "ledger": "od-121",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2006Q4",
+    "hi": 2.95,
+    "lo": 2.05,
+    "ledger": "od-121",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2007Q1",
+    "hi": 3.18,
+    "lo": 2.4,
+    "ledger": "od-122",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2007Q2",
+    "hi": 2.99,
+    "lo": 2.2,
+    "ledger": "od-122",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2007Q3",
+    "hi": 2.95,
+    "lo": 2.05,
+    "ledger": "od-122",
+    "basis": "after the 10-for-1 consolidation"
+   },
+   {
+    "q": "2007Q4",
+    "hi": 2.09,
+    "lo": 0.4,
+    "ledger": "od-122",
+    "basis": "after the 10-for-1 consolidation"
+   }
+  ],
+  "rebased2004": [
+   {
+    "q": "2004Q1",
+    "hi": 4.5,
+    "lo": 2.1,
+    "ledger": "od-120",
+    "basis": "after the 10-for-1 consolidation (2005 20-F restatement of 2004)"
+   },
+   {
+    "q": "2004Q2",
+    "hi": 3.9,
+    "lo": 2.6,
+    "ledger": "od-120",
+    "basis": "after the 10-for-1 consolidation (2005 20-F restatement of 2004)"
+   },
+   {
+    "q": "2004Q3",
+    "hi": 3.4,
+    "lo": 1.6,
+    "ledger": "od-120",
+    "basis": "after the 10-for-1 consolidation (2005 20-F restatement of 2004)"
+   },
+   {
+    "q": "2004Q4",
+    "hi": 2.6,
+    "lo": 1.7,
+    "ledger": "od-120",
+    "basis": "after the 10-for-1 consolidation (2005 20-F restatement of 2004)"
+   }
+  ],
+  "annual": [
+   {
+    "year": 1998,
+    "hi": 1.38,
+    "lo": 0.5,
+    "basis": "before the Feb 1999 4.25-for-1 consolidation",
+    "ledger": "od-050"
+   },
+   {
+    "year": 1999,
+    "hi": 4.11,
+    "lo": 0.75,
+    "basis": "as reported; the 20-F does not adjust for the Feb 18, 1999 consolidation",
+    "ledger": "od-050"
+   },
+   {
+    "year": 2000,
+    "hi": 2.25,
+    "lo": 0.38,
+    "basis": "after the 1999 consolidation",
+    "ledger": "od-050"
+   }
+  ],
+  "events": [
+   {
+    "q": "2001Q1",
+    "label": "Delisted from Nasdaq, Feb 14, 2001; quoted on the OTC Bulletin Board",
+    "ledger": "od-043"
+   },
+   {
+    "q": "2005Q1",
+    "label": "Voluntary TSX delisting, Feb 17, 2005",
+    "ledger": "od-119"
+   },
+   {
+    "q": "2005Q2",
+    "label": "10-for-1 share consolidation, May 2, 2005 (prices break here)",
+    "ledger": "od-118"
+   }
+  ],
+  "note": "Prices are inter-dealer OTC quotations as printed in each 20-F. Quarters 2001Q1 to 2004Q4 are as first reported; the 10-for-1 consolidation of May 2, 2005 makes them incomparable with 2005 onward. 'rebased2004' gives the same four 2004 quarters as restated by the 2005 20-F. Nothing has been multiplied or adjusted by us. The Orbitz years (1996 to 1998) are missing: the filings that cover them are on paper. Annual 1998 to 2000 ranges are listed separately because the 1999 4.25-for-1 consolidation also breaks them.",
+  "gaps": [
+   "1996Q1–1997Q4: no free source (see gap entry)",
+   "2008 onward: not charted; the 2007 20-F is the last annual report with price tables on EDGAR (later filings are 6-Ks and a 2010 restructuring)"
+  ],
+  "gapLedger": [
+   "od-167"
+  ],
+  "src": [
+   6,
+   15,
+   16,
+   17,
+   18,
+   19
+  ]
+ },
+ "rivalchart": {
+  "type": "rivalchart",
+  "title": "Clearly Canadian and Hansen Natural: yearly sales, 1998 to 2002",
+  "metric": "Total revenues (Clearly Canadian) and net sales (Hansen Natural)",
+  "unit": "USD millions",
+  "series": [
+   {
+    "name": "Clearly Canadian (total revenues)",
+    "points": [
+     {
+      "year": 1998,
+      "value": 34.889,
+      "ledger": "od-035"
+     },
+     {
+      "year": 1999,
+      "value": 31.418,
+      "ledger": "od-035"
+     },
+     {
+      "year": 2000,
+      "value": 23.247,
+      "ledger": "od-035"
+     },
+     {
+      "year": 2001,
+      "value": 23.257,
+      "ledger": "od-035"
+     },
+     {
+      "year": 2002,
+      "value": 20.477,
+      "ledger": "od-035"
+     }
+    ]
+   },
+   {
+    "name": "Hansen Natural (net sales)",
+    "points": [
+     {
+      "year": 1998,
+      "value": 48.628,
+      "ledger": "od-156"
+     },
+     {
+      "year": 1999,
+      "value": 66.184,
+      "ledger": "od-156"
+     },
+     {
+      "year": 2000,
+      "value": 71.706,
+      "ledger": "od-156"
+     },
+     {
+      "year": 2001,
+      "value": 80.658,
+      "ledger": "od-156"
+     },
+     {
+      "year": 2002,
+      "value": 92.046,
+      "ledger": "od-156"
+     }
+    ]
+   }
+  ],
+  "derived": [
+   {
+    "label": "Clearly Canadian, 2002 against 1998",
+    "value": "−41%",
+    "formula": "20.477 ÷ 34.889 − 1 = −0.413",
+    "inputs": [
+     "od-035"
+    ]
+   },
+   {
+    "label": "Hansen Natural, 2002 against 1998",
+    "value": "+89%",
+    "formula": "92.046 ÷ 48.628 − 1 = +0.893",
+    "inputs": [
+     "od-156"
+    ]
+   }
+  ],
+  "note": "Hansen is named as a direct competitor in Clearly Canadian's 20-F. Each series comes from one filing (Clearly Canadian's 2002 20-F; Hansen's 2002 10-K), so each is consistent within itself, but the companies define sales differently and Hansen restated 1998 (its 1998 10-K shows $53.866M). Hansen sold energy drinks and sodas, not gel drinks; it is a competitor for shelf space, not a rival novelty. Over the same five years the 20-F says the US new age beverage market grew from $3.8 billion (1992) to an estimated $13.1 billion (2002).",
+  "ledgerContext": [
+   "od-042",
+   "od-040",
+   "od-157"
+  ],
+  "src": [
+   6,
+   20,
+   21
+  ]
+ },
+ "storemap": null,
+ "storemapWhy": "Not applicable: a bottled drink with no company stores (od-168).",
+ "stage": {
+  "metric": "Clearly Canadian total revenues (parent company)",
+  "unit": "USD millions",
+  "scope": "parent, not Orbitz alone",
+  "basis": "Latest filing that reports each year; Canadian GAAP; later filings restate 2002, 2004 and 2005",
+  "points": [
+   {
+    "year": 1998,
+    "value": 34.889,
+    "ledger": "od-035"
+   },
+   {
+    "year": 1999,
+    "value": 31.418,
+    "ledger": "od-035"
+   },
+   {
+    "year": 2000,
+    "value": 23.247,
+    "ledger": "od-035"
+   },
+   {
+    "year": 2001,
+    "value": 23.257,
+    "ledger": "od-035"
+   },
+   {
+    "year": 2002,
+    "value": 20.205,
+    "ledger": "od-096",
+    "note": "restated; the 2002 20-F's own table says 20.477 (the page's existing $20.5M)"
+   },
+   {
+    "year": 2003,
+    "value": 13.27,
+    "ledger": "od-096"
+   },
+   {
+    "year": 2004,
+    "value": 11.064,
+    "ledger": "od-099",
+    "note": "first reported as 11.586"
+   },
+   {
+    "year": 2005,
+    "value": 8.712,
+    "ledger": "od-099",
+    "note": "first reported as 9.141"
+   },
+   {
+    "year": 2006,
+    "value": 7.462,
+    "ledger": "od-099"
+   },
+   {
+    "year": 2007,
+    "value": 10.263,
+    "ledger": "od-101",
+    "note": "includes acquired food businesses; BevNET reported beverage revenues down 25 percent",
+    "noteLedger": [
+     "od-103",
+     "od-106"
+    ]
+   }
+  ],
+  "gapYears": "1992–1997: paper filings; secondary figures conflict (see gap)",
+  "gapLedger": [
+   "od-171"
+  ],
+  "chapterMap": "Ch.4 (1998) = 1998 to 1999; Ch.5 (name changes hands) = 2000 to 2001; Ch.6 (afterlife) = 2002 to 2007",
+  "src": [
+   6,
+   15,
+   18,
+   19
+  ]
+ },
+ "timelineAdd": [
+  {
+   "year": "1995",
+   "text": "Bush Boake Allen Inc. files a US patent application, “Method of suspending inclusions,” on keeping particles afloat in beverages. A student newspaper later says a patented Bush Boake Allen recipe made the Orbitz gel spheres.",
+   "ledger": [
+    "od-082",
+    "od-081"
+   ],
+   "core": true,
+   "date": "Oct 25"
+  },
+  {
+   "year": "1996",
+   "text": "Science World says Orbitz was introduced around the United States “last May.”",
+   "ledger": [
+    "od-067"
+   ],
+   "core": true,
+   "date": "May"
+  },
+  {
+   "year": "1996",
+   "text": "A University of Arizona summer paper covers Orbitz as one of the summer's new test-market drinks.",
+   "ledger": [
+    "od-080"
+   ],
+   "core": true,
+   "date": "Jul 24"
+  },
+  {
+   "year": "1996",
+   "text": "Science World leaves a bottle standing: the spheres sink part way and stop.",
+   "ledger": [
+    "od-069"
+   ],
+   "core": true,
+   "date": "Oct 4"
+  },
+  {
+   "year": "1996",
+   "text": "The oldest Wayback capture of orbitz.com, the drink’s “Welcome Page,” is saved.",
+   "ledger": [
+    "od-140"
+   ],
+   "core": true,
+   "date": "Dec 21"
+  },
+  {
+   "year": "1997",
+   "text": "Clearly Canadian announces the Canadian launch, with sales from May 1 at 7-Eleven, Shoppers Drug Mart and Famous Players cinemas.",
+   "ledger": [
+    "od-055",
+    "od-056"
+   ],
+   "core": true,
+   "date": "Apr 14"
+  },
+  {
+   "year": "1997",
+   "text": "A Washington-area distributor says it has carried Orbitz for six weeks and it is “moving very well.”",
+   "ledger": [
+    "od-021"
+   ],
+   "core": true,
+   "date": "Apr 21"
+  },
+  {
+   "year": "1997",
+   "text": "Course participants at the University of Minnesota ask how 5 mm gel balls stay suspended in Orbitz; the answer is published in January 1999.",
+   "ledger": [
+    "od-072"
+   ],
+   "core": false,
+   "date": "Aug"
+  },
+  {
+   "year": "1997",
+   "text": "The Planet Orbitz site offers an “Orbiterium” tour, in one version for Netscape and one for Internet Explorer.",
+   "ledger": [
+    "od-141"
+   ],
+   "core": false,
+   "date": "Dec 11"
+  },
+  {
+   "year": "1998",
+   "text": "A lawsuit with Bush Boake Allen, which Clearly Canadian says had charged it with patent infringement in making Orbitz, is settled with a licensing fee, according to a company-history reference.",
+   "ledger": [
+    "od-093"
+   ],
+   "core": false,
+   "date": "May",
+   "secondary": true
+  },
+  {
+   "year": "1998",
+   "text": "Clearly Canadian buys back distribution rights in several Mid-Atlantic states, completing control of its North American distribution.",
+   "ledger": [
+    "od-092"
+   ],
+   "core": false,
+   "date": "Jun",
+   "secondary": true
+  },
+  {
+   "year": "1999",
+   "text": "A rheology newsletter prints the measured yield stress of the Orbitz liquid: 0.04 Pa.",
+   "ledger": [
+    "od-074"
+   ],
+   "core": true,
+   "date": "Jan"
+  },
+  {
+   "year": "1999",
+   "text": "A company-history reference says Orbitz sales were suspended because of dwindling sales, with a significant writedown.",
+   "ledger": [
+    "od-094"
+   ],
+   "core": true,
+   "date": "Fall",
+   "secondary": true
+  },
+  {
+   "year": "2000",
+   "text": "orbitz.com is a domain-service placeholder: “registered by a member of myinternet.com.”",
+   "ledger": [
+    "od-143"
+   ],
+   "core": true,
+   "date": "Feb 29"
+  },
+  {
+   "year": "2000",
+   "text": "The airline-backed travel venture is officially named Orbitz, LLC and Orbitz, Inc.",
+   "ledger": [
+    "od-095"
+   ],
+   "core": false,
+   "date": "Jul",
+   "secondary": true
+  },
+  {
+   "year": "2001",
+   "text": "orbitz.com shows “Soon the difference will be clear ©2000 Orbitz, LLC.”",
+   "ledger": [
+    "od-144"
+   ],
+   "core": true,
+   "date": "Jan 19"
+  },
+  {
+   "year": "2001",
+   "text": "Clearly Canadian’s shares are delisted from Nasdaq and move to the OTC Bulletin Board.",
+   "ledger": [
+    "od-043"
+   ],
+   "core": false,
+   "date": "Feb 14"
+  },
+  {
+   "year": "2005",
+   "text": "Brent Lokash becomes president, replacing Douglas Mason as chief executive; the company later describes Orbitz as a drink that “seemed to defy gravity.”",
+   "ledger": [
+    "od-111",
+    "od-115"
+   ],
+   "core": true,
+   "date": "Oct 4"
+  },
+  {
+   "year": "2006",
+   "text": "Clearly Canadian files a US trademark application for ORBITZ covering soft drinks and non-carbonated fruit beverages.",
+   "ledger": [
+    "od-131"
+   ],
+   "core": true,
+   "date": "Sep 29"
+  },
+  {
+   "year": "2007",
+   "text": "Clearly Canadian buys DMR Food Corporation, an organic snack maker; BevNET reports total revenue rose for the first time in a decade while beverage revenues fell.",
+   "ledger": [
+    "od-106",
+    "od-103",
+    "od-104"
+   ],
+   "core": false,
+   "date": "Feb 7"
+  },
+  {
+   "year": "2008",
+   "text": "The USPTO issues a notice of allowance for ORBITZ; a statement of use is due.",
+   "ledger": [
+    "od-134"
+   ],
+   "core": false,
+   "date": "May 6"
+  },
+  {
+   "year": "2008",
+   "text": "The ORBITZ application is abandoned because no statement of use was filed.",
+   "ledger": [
+    "od-135"
+   ],
+   "core": true,
+   "date": "Dec 8"
+  },
+  {
+   "year": "2010",
+   "text": "Clearly Canadian files a creditor proposal under Canada’s Bankruptcy and Insolvency Act; creditors approve on April 1, the court on April 26, and existing shares are cancelled on May 26.",
+   "ledger": [
+    "od-123",
+    "od-125",
+    "od-127",
+    "od-128"
+   ],
+   "core": true,
+   "date": "Mar 17"
+  },
+  {
+   "year": "2012",
+   "text": "Robert R. Khan acquires the Clearly Canadian company (per Fast Company).",
+   "ledger": [
+    "od-149"
+   ],
+   "core": false,
+   "secondary": true
+  },
+  {
+   "year": "2014",
+   "text": "An unrelated individual files ORBITZ DEFY GRAVITY DRINK ORBITZ for beverages on March 5 and abandons it on May 9.",
+   "ledger": [
+    "od-137",
+    "od-139"
+   ],
+   "core": true,
+   "date": "Mar 5"
+  },
+  {
+   "year": "2017",
+   "text": "The SEC revokes the registration of Clearly Canadian Beverage Corp.’s securities (Jan 4); the brand resumes full-scale production the same year.",
+   "ledger": [
+    "od-129",
+    "od-151"
+   ],
+   "core": true,
+   "date": "Jan 4"
+  },
+  {
+   "year": "2024",
+   "text": "Fast Company reports the Orbitz trademark was sold and the machine that made the spheres was sold for parts.",
+   "ledger": [
+    "od-146"
+   ],
+   "core": true,
+   "date": "Oct 7"
+  }
+ ],
+ "timelineNote": "Existing page has 10 events; this adds 27. 'core' marks the ~25 to keep if the total must be cut to 30.",
+ "now": [
+  {
+   "type": "brand",
+   "title": "The drink",
+   "text": "Not made. In 2015 a company representative said it lacked the equipment; in October 2024 Clearly Canadian’s marketing chief said the machine that made the spheres broke down and was sold off for parts.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    5,
+    24
+   ],
+   "ledger": [
+    "od-032",
+    "od-146"
+   ]
+  },
+  {
+   "type": "trademark",
+   "title": "The name",
+   "text": "The maker’s 2006 application for ORBITZ was abandoned on Dec 8, 2008, and an unrelated 2014 application was withdrawn within two months. Fast Company says the old owners sold the trademark; the buyer is not named and we could not find a live ORBITZ beverage registration.",
+   "asOf": "2026-10-10",
+   "recheck": "90d",
+   "src": [
+    22,
+    23,
+    24
+   ],
+   "ledger": [
+    "od-135",
+    "od-137",
+    "od-139",
+    "od-146",
+    "od-165"
+   ]
+  },
+  {
+   "type": "company",
+   "title": "The maker, 2010 to 2017",
+   "text": "Clearly Canadian Beverage Corporation filed a creditor proposal on Mar 17, 2010, its shares were cancelled on May 26, 2010, and the SEC revoked its registration on Jan 4, 2017.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    27,
+    30,
+    31
+   ],
+   "ledger": [
+    "od-123",
+    "od-128",
+    "od-129"
+   ]
+  },
+  {
+   "type": "brand",
+   "title": "The Clearly Canadian brand",
+   "text": "Acquired in 2012 by Robert R. Khan, back in full production in 2017 and, as of October 2024, owned by a group of private investors. Clearly Canadian said it was on track to sell about 45 million bottles in 2024.",
+   "asOf": "2026-10-10",
+   "recheck": "90d",
+   "src": [
+    24
+   ],
+   "ledger": [
+    "od-149",
+    "od-151",
+    "od-153",
+    "od-152"
+   ]
+  },
+  {
+   "type": "site",
+   "title": "orbitz.com",
+   "text": "The drink’s Planet Orbitz site was at orbitz.com from December 1996; by February 2000 the address was a parked page and by January 2001 it carried the airline-backed Orbitz, LLC. No source we could open says how the address changed hands.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    35,
+    14
+   ],
+   "ledger": [
+    "od-140",
+    "od-142",
+    "od-143",
+    "od-144",
+    "od-095",
+    "od-166"
+   ]
+  },
+  {
+   "type": "store",
+   "title": "The bottles",
+   "text": "An unopened 1990s bottle sells for around $50 on eBay, according to Gastro Obscura (undated).",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    5
+   ],
+   "ledger": [
+    "od-033"
+   ]
+  },
+  {
+   "type": "people",
+   "title": "The people",
+   "text": "Douglas Mason, who founded Clearly Canadian and led it as chief executive, was replaced in that role in October 2005 when Brent Lokash became president. Jonathan Cronin, the marketing executive quoted on Orbitz, moved to the US subsidiary in December 1998.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    6,
+    25
+   ],
+   "ledger": [
+    "od-053",
+    "od-111",
+    "od-054"
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Fluid gel",
+   "def": "A liquid that carries a weak, invisible gel structure. It pours like a liquid but stops suspended particles from sinking.",
+   "ledger": [
+    "od-068",
+    "od-071",
+    "od-074"
+   ]
+  },
+  {
+   "term": "Gellan gum",
+   "def": "A gel-forming hydrocolloid that the Associated Press named as the material of the Orbitz spheres.",
+   "ledger": [
+    "od-007"
+   ]
+  },
+  {
+   "term": "Yield stress",
+   "def": "The smallest force a gel-like liquid needs before it starts to flow. Below it, particles held in the liquid stay where they are.",
+   "ledger": [
+    "od-074"
+   ]
+  },
+  {
+   "term": "Rheology",
+   "def": "The study of how materials flow and deform.",
+   "ledger": [
+    "od-072"
+   ]
+  },
+  {
+   "term": "Inclusions",
+   "def": "Pieces of solid matter, such as fruit bits or gel spheres, suspended in a drink.",
+   "ledger": [
+    "od-085"
+   ]
+  },
+  {
+   "term": "New age beverage",
+   "def": "The industry label for premium non-cola drinks such as flavored sparkling water, iced tea and functional drinks.",
+   "ledger": [
+    "od-040"
+   ]
+  },
+  {
+   "term": "Form 20-F",
+   "def": "The annual report that a company based outside the United States files with the SEC when its shares trade in the US.",
+   "ledger": [
+    "od-035"
+   ]
+  },
+  {
+   "term": "Form 6-K",
+   "def": "A report in which such a company furnishes news, such as press releases, to the SEC.",
+   "ledger": [
+    "od-111"
+   ]
+  },
+  {
+   "term": "Proposal (Bankruptcy and Insolvency Act)",
+   "def": "A Canadian procedure in which a company offers its creditors a deal to settle its debts, without being wound up.",
+   "ledger": [
+    "od-123",
+    "od-124"
+   ]
+  },
+  {
+   "term": "Share consolidation",
+   "def": "A reverse split: old shares are exchanged for fewer new ones, which raises the quoted price without changing what an owner holds.",
+   "ledger": [
+    "od-049",
+    "od-118"
+   ]
+  },
+  {
+   "term": "OTC Bulletin Board",
+   "def": "An electronic quotation service for shares that are not listed on a major exchange.",
+   "ledger": [
+    "od-043"
+   ]
+  },
+  {
+   "term": "Statement of use",
+   "def": "The filing that proves a trademark is in commercial use. An applicant who filed before using the mark must send it after the notice of allowance or the application is abandoned.",
+   "ledger": [
+    "od-135"
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "clearly-canadian",
+   "to": "orbitz-drink",
+   "type": "owned",
+   "years": "1996–1999",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-066"
+    },
+    {
+     "ledger": "od-030"
+    }
+   ]
+  },
+  {
+   "from": "bush-boake-allen",
+   "to": "clearly-canadian",
+   "type": "supplier",
+   "years": "1996–1998",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-093"
+    },
+    {
+     "ledger": "od-081"
+    },
+    {
+     "ledger": "od-084"
+    }
+   ],
+   "caveat": "The supply and the lawsuit rest on a company-history reference (secondary) and a student paper; the patent record shows only that Bush Boake Allen owns a suspension patent."
+  },
+  {
+   "from": "hansen-natural",
+   "to": "clearly-canadian",
+   "type": "rival",
+   "years": "1998–2002",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-042"
+    }
+   ]
+  },
+  {
+   "from": "bg-capital-group",
+   "to": "clearly-canadian",
+   "type": "investor",
+   "years": "2005–",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-114"
+    },
+    {
+     "ledger": "od-105"
+    }
+   ]
+  },
+  {
+   "from": "robert-r-khan",
+   "to": "clearly-canadian",
+   "type": "acquired",
+   "years": "2012",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-149"
+    }
+   ]
+  },
+  {
+   "from": "douglas-mason",
+   "to": "clearly-canadian",
+   "type": "executive",
+   "years": "1986–2005",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-053"
+    },
+    {
+     "ledger": "od-111"
+    }
+   ]
+  },
+  {
+   "from": "brent-lokash",
+   "to": "clearly-canadian",
+   "type": "executive",
+   "years": "2005–",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-111"
+    }
+   ]
+  },
+  {
+   "from": "jonathan-cronin",
+   "to": "clearly-canadian",
+   "type": "executive",
+   "years": "1993–",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-054"
+    }
+   ]
+  }
+ ],
+ "entities": [
+  {
+   "id": "orbitz-drink",
+   "name": "Orbitz (drink)",
+   "type": "Brand"
+  },
+  {
+   "id": "clearly-canadian",
+   "name": "Clearly Canadian Beverage Corporation",
+   "type": "Organization"
+  },
+  {
+   "id": "bush-boake-allen",
+   "name": "Bush Boake Allen Inc.",
+   "type": "Organization"
+  },
+  {
+   "id": "hansen-natural",
+   "name": "Hansen Natural Corp.",
+   "type": "Organization"
+  },
+  {
+   "id": "bg-capital-group",
+   "name": "BG Capital Group Ltd.",
+   "type": "Organization"
+  },
+  {
+   "id": "robert-r-khan",
+   "name": "Robert R. Khan",
+   "type": "Person"
+  },
+  {
+   "id": "douglas-mason",
+   "name": "Douglas L. Mason",
+   "type": "Person"
+  },
+  {
+   "id": "brent-lokash",
+   "name": "Brent Lokash",
+   "type": "Person"
+  },
+  {
+   "id": "jonathan-cronin",
+   "name": "Jonathan J. Cronin",
+   "type": "Person"
+  }
+ ],
+ "insights": [
+  {
+   "rank": 1,
+   "summary": "Orbitz puzzled rheologists, and they measured why it worked. A University of Minnesota paper found the liquid has a yield stress of 0.04 Pa, about twice what keeps “builder” particles suspended in liquid detergent, yet at a shear rate of 100 per second it is only four times as viscous as water, so it pours like water. For 5 mm balls the liquid can carry a density mismatch of about 12 kg/m3. The question came from two course participants in August 1997; the paper was printed in January 1999. A 1996 Science World test showed the spheres do sink part way, then stop.",
+   "ledger": [
+    "od-072",
+    "od-074",
+    "od-075",
+    "od-076",
+    "od-077",
+    "od-078",
+    "od-073",
+    "od-069",
+    "od-071",
+    "od-085"
+   ],
+   "where": "Story chapter 1 'In the lab'; numbers section view 'The physics' (counters); glossary terms fluid gel, yield stress"
+  },
+  {
+   "rank": 2,
+   "summary": "The drink’s website became the travel company’s address. Planet Orbitz lived at orbitz.com from at least December 1996 to January 1999; by February 29, 2000 it was a domain-service placeholder; by January 2001 it read “©2000 Orbitz, LLC.” The travel venture was named Orbitz in July 2000. The sources we could open do not say how the address changed hands, and the Wayback Machine has no capture between Feb 9, 1999 and Feb 29, 2000.",
+   "ledger": [
+    "od-062",
+    "od-140",
+    "od-141",
+    "od-142",
+    "od-143",
+    "od-144",
+    "od-145",
+    "od-095",
+    "od-166"
+   ],
+   "where": "Website section / signature recreation; where-are-they-now card 'orbitz.com'; story chapter 5"
+  },
+  {
+   "rank": 3,
+   "summary": "The name was kept alive on paper and never used again. The company's 20-Fs for 2005, 2006 and 2007 still listed Orbitz among its innovations; it applied to register ORBITZ on Sept 29, 2006, won a notice of allowance on May 6, 2008, and let the application lapse on Dec 8, 2008 by not filing a statement of use. In 2024 the brand's current marketing chief said the trademark was sold and the machine was sold for parts.",
+   "ledger": [
+    "od-108",
+    "od-109",
+    "od-110",
+    "od-131",
+    "od-134",
+    "od-135",
+    "od-137",
+    "od-139",
+    "od-146",
+    "od-147"
+   ],
+   "where": "Where-are-they-now cards 'The name' and 'The drink'; story chapter 6; what-if 'Keep the machines'"
+  },
+  {
+   "rank": 4,
+   "summary": "While Orbitz faded, so did its maker, and a competitor named in its own 20-F did the opposite. From 1998 to 2002 Clearly Canadian's revenue fell 41% (34.889 to 20.477, $M), while Hansen Natural's net sales rose 89% (48.628 to 92.046) and the US new age beverage market grew from $3.8 billion in 1992 to an estimated $13.1 billion in 2002. Revenue rose in 2007 after two food acquisitions; BevNET reported beverage revenues down 25 percent (the article does not say over what period).",
+   "ledger": [
+    "od-035",
+    "od-156",
+    "od-040",
+    "od-042",
+    "od-103",
+    "od-106"
+   ],
+   "where": "Numbers section (rival chart); cause section ('the maker shrank')"
+  }
+ ],
+ "storyChapters": [
+  {
+   "n": 1,
+   "when": "1995 – 1996 · In the lab",
+   "title": "A patent, a bottle and a test",
+   "points": [
+    {
+     "text": "Bush Boake Allen files the suspension patent (Oct 1995)",
+     "ledger": "od-082"
+    },
+    {
+     "text": "Jesse Wolff and William Chalupa explain the fluid gel to Science World",
+     "ledger": "od-068"
+    },
+    {
+     "text": "The bottle test: spheres sink part way",
+     "ledger": "od-069"
+    },
+    {
+     "text": "A student paper says the recipe is patented and Bush Boake Allen's",
+     "ledger": "od-081"
+    }
+   ],
+   "gapNote": "Which patent covered Orbitz is unconfirmed (gap)."
+  },
+  {
+   "n": 2,
+   "when": "1996 · Launch",
+   "title": "“A lava lamp you can drink”",
+   "points": [
+    {
+     "text": "US introduction, May 1996",
+     "ledger": "od-067"
+    },
+    {
+     "text": "Arizona test market, July 1996",
+     "ledger": "od-080"
+    },
+    {
+     "text": "AP, Oct 16: lava lamp, Couric, BevNET, Al Ries 'desperate', Water Joe",
+     "ledger": "od-009"
+    },
+    {
+     "text": "Two packaging awards for the 300 ml bottle",
+     "ledger": "od-060"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "when": "1997 · The hit goes abroad",
+   "title": "Canada, a distributor’s new plant and $9.4M",
+   "points": [
+    {
+     "text": "Canadian launch Apr 14, sales from May 1",
+     "ledger": "od-055"
+    },
+    {
+     "text": "Washington distributor: six weeks, 'moving very well'; a bigger plant in Jessup",
+     "ledger": "od-021"
+    },
+    {
+     "text": "Planned expansion to the UK, Australia, Sweden and Asia",
+     "ledger": "od-058"
+    },
+    {
+     "text": "The Planet Orbitz site and its comics",
+     "ledger": "od-062"
+    },
+    {
+     "text": "H1 sales: $9.4M",
+     "ledger": "od-023"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "when": "1998 · The fall",
+   "title": "“Our expected life-cycle of the product is coming true”",
+   "points": [
+    {
+     "text": "H1 1998 sales $1.46M",
+     "ledger": "od-023"
+    },
+    {
+     "text": "No advertising: product placement and sampling",
+     "ledger": "od-027"
+    },
+    {
+     "text": "Net profitability improving despite feeble sales; Battery and an oxygenated water next",
+     "ledger": "od-029"
+    },
+    {
+     "text": "Patent suit settled (secondary) and the Mid-Atlantic distribution buyback",
+     "ledger": "od-093"
+    },
+    {
+     "text": "Parent revenue $34.9M in 1998, $31.4M in 1999",
+     "ledger": "od-035"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "when": "1999 – 2001 · The name moves",
+   "title": "From Planet Orbitz to Orbitz, LLC",
+   "points": [
+    {
+     "text": "Sales suspended, fall 1999 (secondary)",
+     "ledger": "od-094"
+    },
+    {
+     "text": "orbitz.com parked, Feb 2000",
+     "ledger": "od-143"
+    },
+    {
+     "text": "Orbitz, LLC named, Jul 2000; site live Jan 2001",
+     "ledger": "od-144"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "when": "2005 – today · Afterlife",
+   "title": "A name on paper, a machine for parts",
+   "points": [
+    {
+     "text": "The company still lists Orbitz; files ORBITZ in 2006",
+     "ledger": "od-108"
+    },
+    {
+     "text": "Lapses Dec 8, 2008",
+     "ledger": "od-135"
+    },
+    {
+     "text": "2010 creditor proposal; 2017 SEC revocation",
+     "ledger": "od-123"
+    },
+    {
+     "text": "Clearly Canadian returns in 2017 without Orbitz; machine sold for parts",
+     "ledger": "od-146"
+    },
+    {
+     "text": "Bottles at about $50",
+     "ledger": "od-033"
+    }
+   ]
+  }
+ ],
+ "numbersAdd": [
+  {
+   "view": "Parent revenue 1998–2007",
+   "type": "arc / stage",
+   "ledger": [
+    "od-035",
+    "od-096",
+    "od-099",
+    "od-101"
+   ]
+  },
+  {
+   "view": "Rival chart: Hansen Natural",
+   "type": "rivalchart",
+   "ledger": [
+    "od-035",
+    "od-156"
+   ]
+  },
+  {
+   "view": "The physics of the drink",
+   "type": "counters",
+   "items": [
+    {
+     "value": "0.04 Pa",
+     "text": "yield stress of the liquid",
+     "ledger": "od-074"
+    },
+    {
+     "value": "4×",
+     "text": "water's viscosity at a shear rate of 100 per second",
+     "ledger": "od-076"
+    },
+    {
+     "value": "about 12 kg/m3",
+     "text": "largest density mismatch the liquid can hold for 5 mm balls",
+     "ledger": "od-077"
+    },
+    {
+     "value": "about 2×",
+     "text": "the yield stress used to hold “builder” particles in liquid detergent",
+     "ledger": "od-075"
+    }
+   ]
+  },
+  {
+   "view": "Net loss 2003–2007",
+   "type": "chart extension of ccNet",
+   "ledger": [
+    "od-102"
+   ]
+  },
+  {
+   "view": "Market context",
+   "type": "counter",
+   "items": [
+    {
+     "value": "$3.8B → $13.1B",
+     "text": "US new age beverage market, 1992 to 2002, wholesale dollars (Beverage Marketing Corporation, via the 20-F)",
+     "ledger": "od-040"
+    }
+   ]
+  },
+  {
+   "view": "Price premium",
+   "type": "counter",
+   "items": [
+    {
+     "value": "up to +50%",
+     "text": "over regular sodas (company-history reference; secondary)",
+     "ledger": "od-087"
+    }
+   ]
+  }
+ ],
+ "pressAdd": [
+  {
+   "q": "Ugh. Why?",
+   "who": "Katie Couric, on NBC’s “Today”, 1996 (she later called it “a little interesting”)",
+   "ledger": "od-009"
+  },
+  {
+   "q": "just the strangest thing we have ever seen",
+   "who": "BevNET review, quoted by AP, Oct 1996",
+   "ledger": "od-010"
+  },
+  {
+   "q": "Beverage makers are getting desperate",
+   "who": "Al Ries, marketing analyst, Oct 1996",
+   "ledger": "od-011"
+  },
+  {
+   "q": "The consumer response to the U.S. launch was overwhelmingly positive",
+   "who": "Douglas Mason, Clearly Canadian, Apr 1997",
+   "ledger": "od-064"
+  },
+  {
+   "q": "It's moving very well.",
+   "who": "Bill O'Leary, Atlantic Beverage Co., Apr 1997",
+   "ledger": "od-021"
+  }
+ ],
+ "people": [
+  {
+   "name": "Douglas L. Mason",
+   "role": "Founder, chief executive and president of Clearly Canadian; replaced as chief executive in October 2005",
+   "ledger": [
+    "od-053",
+    "od-111",
+    "od-112"
+   ]
+  },
+  {
+   "name": "Jonathan J. Cronin",
+   "role": "Marketing executive; VP Marketing from January 1997, the company's voice on Orbitz",
+   "ledger": [
+    "od-054",
+    "od-025"
+   ]
+  },
+  {
+   "name": "Brent Lokash",
+   "role": "President from October 2005",
+   "ledger": [
+    "od-111"
+   ]
+  },
+  {
+   "name": "Bobby Genovese",
+   "role": "Chief executive in 2008; BG Capital Group became a controlling shareholder about 2005",
+   "ledger": [
+    "od-155",
+    "od-105"
+   ]
+  },
+  {
+   "name": "Jesse Wolff",
+   "role": "Chemical engineer who helped develop Orbitz (Science World, 1996)",
+   "ledger": [
+    "od-068"
+   ]
+  },
+  {
+   "name": "William Chalupa",
+   "role": "Fluid-gel expert quoted by Science World; a William F. Chalupa is an inventor on Bush Boake Allen's suspension patent (same name, not confirmed to be the same person)",
+   "ledger": [
+    "od-070",
+    "od-083"
+   ]
+  },
+  {
+   "name": "Bill O'Leary",
+   "role": "President of Atlantic Beverage Co., exclusive Orbitz distributor in the Washington region (1997)",
+   "ledger": [
+    "od-020"
+   ]
+  },
+  {
+   "name": "Dirk Van Stralen",
+   "role": "Syndicated artist who drew comics for the Planet Orbitz site",
+   "ledger": [
+    "od-062"
+   ]
+  },
+  {
+   "name": "Robert R. Khan",
+   "role": "Entrepreneur who acquired Clearly Canadian in 2012",
+   "ledger": [
+    "od-149"
+   ]
+  },
+  {
+   "name": "Casey Howe",
+   "role": "VP of marketing, Clearly Canadian (2024)",
+   "ledger": [
+    "od-154"
+   ]
+  }
+ ],
+ "rivals": {
+  "items": [
+   {
+    "name": "Hansen Natural Corp.",
+    "relation": "Named in the 2002 20-F as a direct competitor",
+    "ledger": [
+     "od-042",
+     "od-156"
+    ]
+   },
+   {
+    "name": "Water Joe",
+    "relation": "A caffeinated spring water launched months before Orbitz, cited by AP as part of the same hunt for novelty",
+    "ledger": [
+     "od-012",
+     "od-011"
+    ]
+   },
+   {
+    "name": "Cadbury Schweppes (Snapple, Mistic), Coca-Cola, PepsiCo, Nestlé Waters, Danone Waters, Arizona",
+    "relation": "The 20-F's list of direct competitors in the new age market",
+    "ledger": [
+     "od-041"
+    ]
+   }
+  ],
+  "limit": "No source we opened names a competing gel-sphere drink."
+ },
+ "website": [
+  {
+   "capture": "1996-12-21",
+   "archive_url": "https://web.archive.org/web/19961221123433id_/http://www.orbitz.com/",
+   "what": "“Welcome Page” with a “worthiness test” link",
+   "ledger": "od-140"
+  },
+  {
+   "capture": "1997-12-11",
+   "archive_url": "https://web.archive.org/web/19971211050441id_/http://www.orbitz.com/",
+   "what": "“Prelude” to the Orbiterium, Netscape and Internet Explorer routes",
+   "ledger": "od-141"
+  },
+  {
+   "capture": "1999-01-25",
+   "archive_url": "https://web.archive.org/web/19990125091300id_/http://www.orbitz.com/",
+   "what": "Same prelude page, unchanged",
+   "ledger": "od-142"
+  },
+  {
+   "capture": "2000-02-29",
+   "archive_url": "https://web.archive.org/web/20000229050453id_/http://www.orbitz.com/",
+   "what": "Domain-service placeholder",
+   "ledger": "od-143"
+  },
+  {
+   "capture": "2001-01-19",
+   "archive_url": "https://web.archive.org/web/20010119174700id_/http://www.orbitz.com/",
+   "what": "“©2000 Orbitz, LLC”",
+   "ledger": "od-144"
+  },
+  {
+   "capture": "2001-05-06",
+   "archive_url": "https://web.archive.org/web/20010506034511id_/http://www.orbitz.com/",
+   "what": "Travel search preview",
+   "ledger": "od-145"
+  }
+ ],
+ "causeEvidence": [
+  {
+   "cause": "A novelty, by design",
+   "add": "Beverage makers were “getting desperate” for novelty in 1996 (Al Ries); the 2002 20-F says beverage brands may last a few years in a distribution area.",
+   "ledger": [
+    "od-011",
+    "od-038"
+   ]
+  },
+  {
+   "cause": "Shelf space and distribution",
+   "add": "Clearly Canadian bought back distribution in 1995 to 1998 (secondary), then in 2002 reported independent distributors less willing to carry other makers' new age drinks.",
+   "ledger": [
+    "od-092",
+    "od-039"
+   ]
+  },
+  {
+   "cause": "Leadership view in hindsight",
+   "add": "The 2024 marketing chief lists “the launch and failure of Orbitz” among the earlier company's mistakes.",
+   "ledger": "od-147"
+  }
+ ],
+ "legacyChecks": {
+  "confirmed": "All seven existing sources were opened on 2026-10-10 (fn 1 to 7); see the ledger entries with legacy:true.",
+  "differences": [
+   {
+    "fn": 6,
+    "item": "2002 revenue",
+    "detail": "The 2002 20-F table says $20,477,000 (page: $20.5M, fine). Its risk-factor text says $20,447,000. Later 20-Fs restate 2002 to $20,205,000.",
+    "ledger": [
+     "od-035",
+     "od-037",
+     "od-096"
+    ]
+   },
+   {
+    "fn": 6,
+    "item": "1998 revenue",
+    "detail": "Table $34,889,000 (page: $34.9M, fine); risk-factor text $35,153,000.",
+    "ledger": [
+     "od-035",
+     "od-037"
+    ]
+   },
+   {
+    "fn": 3,
+    "item": "Washington Post date",
+    "detail": "The archived page reads April 21, 1997. The existing Sources note says the page is dated April 20 and the address April 21. Recheck the live page before keeping the note.",
+    "ledger": "od-158"
+   },
+   {
+    "fn": 5,
+    "item": "Gastro Obscura on Orbitz.com",
+    "detail": "The existing Conflicts note says Atlas Obscura says Orbitz 'launched and sold through Orbitz.com'. The article says the website 'hawked' the drink; neither it nor the 1997 release says it was sold there. Suggest 'promoted through Orbitz.com'.",
+    "ledger": "od-034"
+   },
+   {
+    "fn": 7,
+    "item": "Maker still trading",
+    "detail": "The shop page still says 'Nearly ready' on 2026-10-10, but Fast Company (Oct 2024) reports the brand is in full production and in thousands of stores. The afterlife card could say so.",
+    "ledger": [
+     "od-159",
+     "od-152"
+    ]
+   },
+   {
+    "fn": "tierWhy",
+    "item": "“we found no official revival”",
+    "detail": "Consistent with Fast Company (2024), which says the trademark was sold and the spheres machine scrapped. The 2014 ORBITZ DEFY GRAVITY filing was by an unrelated individual and withdrawn.",
+    "ledger": [
+     "od-146",
+     "od-139"
+    ]
+   }
+  ]
+ },
+ "gaps": {
+  "orbitz_sales": "od-160",
+  "currency": "od-161",
+  "bw_1996_97": "od-162",
+  "newspress": "od-163",
+  "bevnet_review": "od-164",
+  "tm_search": "od-165",
+  "domain": "od-166",
+  "stock_1996": "od-167",
+  "storemap": "od-168",
+  "discontinue_date": "od-169",
+  "bba_court": "od-170",
+  "pre1998_revenue": "od-171",
+  "wiki_claims": "od-172"
+ }
+}
