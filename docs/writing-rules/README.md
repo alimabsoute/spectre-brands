@@ -17,7 +17,7 @@ The managed blocks sit between `<!-- BEGIN writing-rules … -->` and `<!-- END 
 - `QUICK.md` is the compact always-on block that gets embedded into `CLAUDE.md` and `AGENTS.md`.
 - `VOICE-SPECTRE.md` is the house voice for spectrebrands.com.
 - `SOURCES.md` lists the research behind the rules, with URLs and why each is credible.
-- `slop-lint.mjs` is the linter (zero dependencies). Run `node slop-lint.mjs --help-ish`; the header comment documents the flags. `--selftest` checks it against `tests/`.
+- `slop-lint.mjs` is the linter (zero dependencies). The header comment documents the flags; `--list-rules` prints every rule. `--selftest` checks it against `tests/`.
 - `CHANGELOG.md` records rule versions.
 - `SKILL.template.md` is the skill wrapper; `sync.sh` fills in the QUICK block.
 

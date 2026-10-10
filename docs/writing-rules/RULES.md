@@ -304,6 +304,31 @@ instruction template. End on the answer, consequence, limit or next action, not 
 the reader what to do. At each transition name the relationship: cause, condition, comparison, inference, change of
 scope. If two paragraphs do the same job, merge or cut one. Write "because" only if the causal link is established.
 
+**S23. Deck-closer formula.** "This is the full post-mortem, built from the company’s own SEC filings, contemporary press
+and the archived website." "A sourced post-mortem of X." Written once, it is a method note; pasted onto every page, it is
+a template the reader learns to skip, and it ends the deck on the writer instead of the subject. End the deck on the
+subject. Sourcing goes in the sources section, or in one sentence specific to this page ("The filings and the CDC’s
+reports disagree about the count, and the page says where"). Linter: `deck-closer` (error).
+
+**S24. Scene-setting opener.** "Picture a strip mall in Dallas…", "It was a cold morning in Pittsfield when…", "On a
+rainy day in 2008…". The scene stands in for a fact the writer has not stated yet, and it is usually invented weather.
+Open with the fact: "The first store opened in Dallas on October 19, 1985." Linter: `scene-opener` (warn), plus
+`signpost` for "Picture this". Same family: "This post looks at…", "This page examines…" (`meta-doc`).
+
+**S25. Link-holder sentences.** A sentence whose only job is to carry a link: "X is filed under the same cause",
+"another console on this site", "covered on this site". Link words that already make a comparison, or leave the page
+unlinked; never assert a parallel the other page does not support. Linter: `site-filler` (warn).
+
+**S26. Honest anchors.** The anchor promises its destination. "SEC filings" or "sources" links to this page’s
+sources (`#sources`), not to a general methods page; "editorial judgment" may link to the method. An anchor naming a
+rival links to that rival’s page, not to a different product of the same company ("Sega" is not the Dreamcast page).
+Linter: `link-anchor` (warn) for source words pointing at /about/.
+
+**S27. Answer-first does not mean one template.** An answer-first deck opens with what the thing was and what happened
+to it, but "X was a/an/the …" on thirty pages in a row is a new formula (R2). Vary the grammatical subject: lead with the
+decisive fact, the number, or the owner when that is the clearer answer. Compress without changing precision: keep
+"about", "most of", "at first", ranges and the exact event (F9).
+
 **H2. Fake balance and evasion.** "There are valid points on both sides." "It depends on various factors." "A balanced
 approach." "The answer is not straightforward." "While X offers many benefits, challenges remain." Take the position the
 evidence supports, name the factors, or say what you do not know. Weight conflicting claims by evidence and relevance,
@@ -465,6 +490,12 @@ S9 to fill space. Do not weaken a sourced definitive claim into a hedge either.
 **F13. Pre-2022 text is human text.** See 0.7.
 
 ---
+
+**F9. Compression drift.** When a sentence is shortened for a title, meta description or deck, check each qualifier
+survived: "about 3,400" is not "3,400"; "most of the $83 million loss" is not "the $83 million loss"; "valued at
+$7.78 billion at the first day’s close" is not "its IPO valued it at". No superlative ranking ("grew faster than
+anything the internet had seen") without the figures or a named source (`unsupported-superlative`). No structured-data
+answer that is not visible on the page (no FAQPage whose questions the reader never sees).
 
 ## 6. The finishing procedure
 

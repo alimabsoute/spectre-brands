@@ -63,3 +63,9 @@ First canonical release of the Spectre/Ali Writing Rules, merged from two indepe
 - Numeric limits marked (house) in `RULES.md` are starting points, not research results. Calibrate on pages written before
   30 November 2022.
 - Wikipedia's mid-2026 word list and its "punctuation monoculture" claim rest on one source each and are low confidence.
+
+## 2026-10-10 (Stage 4, after the Spectre copy pass)
+- New rules S23 deck-closer formula, S24 scene-setting opener, S25 link-holder sentences, S26 honest anchors, S27 answer-first is not one template, F9 compression drift.
+- Linter: `deck-closer` (error), `scene-opener`, `site-filler`, `unsupported-superlative`, `link-anchor` (warn); `meta-doc` now catches "This post/page looks at / examines / traces…".
+- Tests: 12 new micro cases and new bad.md lines; selftest passes.
+- Source: the Stage 3 Codex review (gpt-6.1-sol, xhigh) of the copy-pass diff.
