@@ -17,5 +17,10 @@
    "actual": "Four VC-funded online pet stores fought each other on price (see Section 08). Pets.com didn’t absorb Petstore.com until July 2000[^7], after the IPO window had closed.",
    "whatif": "A merger in 1999, while private capital was still plentiful, could have removed a price war and combined marketing budgets. Chewy’s later dominance suggests the category could support one well-run leader, but probably not four money-losing ones."
   }
- ]
+ ],
+ "featured": [
+  0,
+  1
+ ],
+ "method": "The first column of each fork cites filings. The what-if column is our speculation, and none of it is modeled from order-level data, which we did not find."
 }

@@ -81,5 +81,152 @@
     }
    ]
   }
+ ],
+ "now": [
+  {
+   "type": "site",
+   "title": "pets.com",
+   "text": "The .com registry shows the domain was first registered on Nov 21, 1994. PetSmart.com agreed in December 2000 to buy the domain names, a list that also included ihatepets.com and petscomsucks.com. A Wayback capture of Dec 28, 2025 shows pets.com redirecting to petsmart.com. We could not reach the live site from our research environment, so that capture is the latest evidence.",
+   "asOf": "2025-12-28",
+   "src": [
+    6,
+    54,
+    55
+   ],
+   "ledger": [
+    "pc-128",
+    "pc-018",
+    "pc-037",
+    "pc-035",
+    "pc-036",
+    "pc-130"
+   ]
+  },
+  {
+   "type": "trademark",
+   "title": "Five Pets.com trademark applications",
+   "text": "All five applications checked at the USPTO are abandoned: MORE PRODUCTS THAN A SUPERSTORE. DELIVERY TO YOUR DOOR on Jul 6, 2000, PETS.COM (filed Jun 24, 1999) on May 14, 2001, BECAUSE PETS CAN’T DRIVE on Oct 10, 2001, EVERYTHING THEY NEED on Jan 18, 2002 and KEEP IT COMIN’ on Jun 12, 2002. TSDR lists Pets.com, Inc. as the owner on the PETS.COM application. This covers only those five. TSDR cannot be searched by name, so later filings by other owners would not appear here.",
+   "asOf": "2026-10-10",
+   "src": [
+    53
+   ],
+   "ledger": [
+    "pc-151",
+    "pc-122",
+    "pc-124",
+    "pc-123",
+    "pc-125",
+    "pc-152",
+    "pc-127"
+   ]
+  },
+  {
+   "type": "brand",
+   "title": "The sock puppet",
+   "text": "In March 2000 Pets.com signed an exclusive representation agreement with Brian P. Hakan & Associates, Inc. A schedule to the December 2000 asset purchase agreement also lists six license agreements for the Pets.com name and logos, effective between May 15 and Sep 1, 2000. In 2001 the company collected $125,000 for assigning all its rights in the puppet to Hakan Enterprises, Inc. On Jun 12, 2002 it sued Fun-4-All Corporation, one of the licensees, for $152,567 of past-due royalties; Fun-4-All cross-complained for damages “in excess of $250,000.” The filings do not say whether the two Hakan companies are the same, and we found no record of who holds the rights now.",
+   "asOf": "2002-06-12",
+   "recheck": "365d",
+   "src": [
+    6,
+    40,
+    41
+   ],
+   "ledger": [
+    "pc-033",
+    "pc-034",
+    "pc-030",
+    "pc-032"
+   ]
+  },
+  {
+   "type": "company",
+   "title": "IPET Holdings, the estate",
+   "text": "Pets.com became IPET Holdings, and its certificate of dissolution took effect on Jan 18, 2001. Diablo Management Group was engaged on Jan 12, 2001, and Richard G. Couch of Diablo served as sole director and chief executive. Net assets in liquidation were $58.7M when liquidation began, $9.6M at Dec 31, 2000 and $4.2M at Dec 31, 2001. The filings we checked record two distributions as paid: $3,128,127 on Sep 28, 2001 and $2,605,581 in September 2002.",
+   "asOf": "2002-11-14",
+   "recheck": "365d",
+   "src": [
+    6,
+    40,
+    41
+   ],
+   "ledger": [
+    "pc-027",
+    "pc-008",
+    "pc-029",
+    "pc-013",
+    "pc-039",
+    "pc-043",
+    "pc-044"
+   ]
+  },
+  {
+   "type": "company",
+   "title": "Petstore.com",
+   "text": "Pets.com paid 5,243,752 shares for Petstore.com’s brand, website, customer base, live fish business, supplier agreements and intellectual property, valued at $10.3 million. The asset purchase agreement is dated Jun 12, 2000, and the Q3 10-Q dates the closing Jul 13. In the first weeks of liquidation Pets.com recorded a recovery of 5,243,752 common shares, the same number, in exchange for settling an advertising and cross-marketing agreement. In November 2001 its former transfer agent inadvertently cancelled 524,375 shares held in escrow for PLDC, Inc., formerly Petstore.com, Inc.; they were reinstated on Nov 12.",
+   "asOf": "2001-11-12",
+   "recheck": "365d",
+   "src": [
+    43,
+    48,
+    4,
+    40
+   ],
+   "ledger": [
+    "pc-094",
+    "pc-161",
+    "pc-162",
+    "pc-096",
+    "pc-120"
+   ]
+  },
+  {
+   "type": "people",
+   "title": "Julie Wainwright",
+   "text": "The former Pets.com CEO founded The RealReal. On Jun 6, 2022 she resigned as its CEO, chairperson and director, effective Jun 7, after 11 years of leadership as founder. We found no later reporting on her roles.",
+   "asOf": "2022-06-07",
+   "recheck": "365d",
+   "src": [
+    37,
+    56
+   ],
+   "ledger": [
+    "pc-026",
+    "pc-131",
+    "pc-132"
+   ]
+  },
+  {
+   "type": "company",
+   "title": "Amazon’s stake, by filing",
+   "text": "The prospectus showed Amazon.com holding 8,973,029 shares: 40.7% before the IPO and a projected 30.4% after it. Amazon’s Schedule 13G for Pets.com, filed Feb 13, 2001, reports the same 8,973,029 shares as 24.5% of the class, computed on 36,660,961 shares outstanding at Nov 20, 2000. The event that required the filing is dated Dec 31, 2000. The percentages rest on different share counts and dates.",
+   "asOf": "2001-02-13",
+   "recheck": "365d",
+   "src": [
+    1,
+    51
+   ],
+   "ledger": [
+    "pc-110",
+    "pc-107",
+    "pc-108",
+    "pc-109",
+    "pc-136"
+   ]
+  },
+  {
+   "type": "revival",
+   "title": "The idea, at Chewy",
+   "text": "Chewy reported fiscal 2025 net sales of $12.60 billion, a 29.8% gross margin and 21.3 million active customers. Autoship customer sales were 83.3% of net sales, against 79.2% in fiscal 2024.",
+   "asOf": "2026-03-25",
+   "recheck": "365d",
+   "src": [
+    57
+   ],
+   "ledger": [
+    "pc-133",
+    "pc-134",
+    "pc-135"
+   ]
+  }
  ]
 }

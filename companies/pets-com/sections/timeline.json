@@ -214,6 +214,36 @@
    ]
   },
   {
+   "date": "Mar 20",
+   "year": "2000",
+   "cat": "marketing",
+   "title": "Sock puppet agent signed",
+   "text": "Pets.com and Brian P. Hakan & Associates, Inc. sign an exclusive representation agreement. License agreements for the Pets.com name and logos with six companies take effect between May 15 and Sep 1.",
+   "src": [
+    6
+   ],
+   "ledger": [
+    "pc-033",
+    "pc-034"
+   ]
+  },
+  {
+   "date": "Jun 12",
+   "year": "2000",
+   "cat": "corporate",
+   "title": "Petstore.com deal signed",
+   "text": "The asset purchase agreement is dated Jun 12. The Q3 10-Q dates the closing Jul 13; the 8-K/A valued the shares at the Jul 12 close of $1.8125.",
+   "src": [
+    48,
+    4
+   ],
+   "ledger": [
+    "pc-161",
+    "pc-162",
+    "pc-093"
+   ]
+  },
+  {
    "date": "Jun 13",
    "year": "2000",
    "cat": "marketing",
@@ -251,6 +281,19 @@
    "text": "About 60% of employees are cut.",
    "src": [
     30
+   ]
+  },
+  {
+   "date": "Nov 4",
+   "year": "2000",
+   "cat": "death",
+   "title": "Board adopts the liquidation plan",
+   "text": "The board votes unanimously, three days before the public announcement.",
+   "src": [
+    40
+   ],
+   "ledger": [
+    "pc-028"
    ]
   },
   {
@@ -305,6 +348,22 @@
    ]
   },
   {
+   "date": "Dec 20",
+   "year": "2000",
+   "cat": "rivals",
+   "title": "PetSmart takes control of its web unit",
+   "text": "PetSmart’s voting ownership of the unit goes from about 46% to more than 81%. The agreement selling the pets.com domain names to PetSmart.com is dated the same day.",
+   "src": [
+    58,
+    6
+   ],
+   "ledger": [
+    "pc-137",
+    "pc-138",
+    "pc-038"
+   ]
+  },
+  {
    "date": "Dec 28",
    "year": "2000",
    "cat": "death",
@@ -315,6 +374,21 @@
    ]
   },
   {
+   "date": "Jan 12",
+   "year": "2001",
+   "cat": "death",
+   "title": "Liquidation manager engaged",
+   "text": "The company engages Diablo Management Group. Richard G. Couch of Diablo serves as sole director and chief executive after the Jan 16 stockholder vote.",
+   "src": [
+    40,
+    6
+   ],
+   "ledger": [
+    "pc-029",
+    "pc-013"
+   ]
+  },
+  {
    "date": "Jan 18",
    "year": "2001",
    "cat": "death",
@@ -322,6 +396,49 @@
    "text": "Renamed IPET Holdings. Last close: $0.125. The remaining staff resign.",
    "src": [
     6
+   ]
+  },
+  {
+   "date": "Feb 13",
+   "year": "2001",
+   "cat": "death",
+   "title": "Amazon files its ownership",
+   "text": "A Schedule 13G puts Amazon at 24.5% as of Dec 31, 2000.",
+   "src": [
+    51
+   ],
+   "ledger": [
+    "pc-107",
+    "pc-136"
+   ]
+  },
+  {
+   "date": "Mar 20",
+   "year": "2001",
+   "cat": "death",
+   "title": "Auditor declines to continue",
+   "text": "Ernst & Young declines to stand for reelection. Stempek Associates is engaged effective Mar 26.",
+   "src": [
+    42
+   ],
+   "ledger": [
+    "pc-051"
+   ]
+  },
+  {
+   "date": "Aug 31",
+   "year": "2001",
+   "cat": "death",
+   "title": "Company sues its warehouse landlord",
+   "text": "Complaint filed in Alameda County Superior Court over the Union City sublease, which called for about $60,000 a month through Aug 4, 2004. The building had been vacant since January 2001.",
+   "src": [
+    40,
+    41
+   ],
+   "ledger": [
+    "pc-048",
+    "pc-047",
+    "pc-050"
    ]
   },
   {
@@ -343,6 +460,34 @@
    "src": [
     17,
     18
+   ]
+  },
+  {
+   "date": "Jun 12",
+   "year": "2002",
+   "cat": "marketing",
+   "title": "Company sues a puppet licensee",
+   "text": "Complaint against Fun-4-All Corporation over $152,567 of past-due royalties. On Aug 22 Fun-4-All cross-complains for damages “in excess of $250,000.”",
+   "src": [
+    41
+   ],
+   "ledger": [
+    "pc-032"
+   ]
+  },
+  {
+   "date": "Jul 10",
+   "year": "2002",
+   "cat": "death",
+   "title": "Audited FY2000 statements filed",
+   "text": "A 10-K/A carries audited results for Jan 1 to Nov 4, 2000, the day before liquidation accounting began.",
+   "src": [
+    43
+   ],
+   "ledger": [
+    "pc-163",
+    "pc-052",
+    "pc-039"
    ]
   },
   {
@@ -375,5 +520,6 @@
     23
    ]
   }
- ]
+ ],
+ "animated": true
 }

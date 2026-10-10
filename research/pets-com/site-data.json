@@ -1,0 +1,348 @@
+{
+ "glossary": [
+  {
+   "id": "gross-margin",
+   "term": "gross margin",
+   "aliases": [
+    "gross profit"
+   ],
+   "def": "Sales minus the cost of goods sold, usually shown as a share of sales. What counts as a cost of goods sold varies by company."
+  },
+  {
+   "id": "cost-of-goods-sold",
+   "term": "cost of goods sold",
+   "aliases": [
+    "cost of sales"
+   ],
+   "def": "The costs a company books directly against the products it sells. Whether shipping, warehouse labor and delivery belong here is a choice each company makes and discloses."
+  },
+  {
+   "id": "fulfillment",
+   "term": "fulfillment",
+   "aliases": [],
+   "def": "Storing, picking, packing and shipping orders. For an online retailer it is either its own cost line or part of another one."
+  },
+  {
+   "id": "liquidation-basis",
+   "term": "liquidation basis of accounting",
+   "aliases": [
+    "liquidation accounting"
+   ],
+   "def": "Statements prepared for a company that is winding down. Assets are shown at what they are expected to fetch, and there is no profit and loss, only changes in net assets."
+  },
+  {
+   "id": "net-assets-in-liquidation",
+   "term": "net assets in liquidation",
+   "aliases": [],
+   "def": "What is expected to be left for owners after the estate sells assets and pays its debts."
+  },
+  {
+   "id": "certificate-of-dissolution",
+   "term": "certificate of dissolution",
+   "aliases": [],
+   "def": "The filing that legally ends a Delaware corporation, which can then only wind up its affairs."
+  },
+  {
+   "id": "schedule-13g",
+   "term": "Schedule 13G",
+   "aliases": [],
+   "def": "A short SEC filing in which a large shareholder reports how much of a company it owns."
+  },
+  {
+   "id": "form-s-1",
+   "term": "Form S-1",
+   "aliases": [
+    "S-1"
+   ],
+   "def": "The registration statement a company files with the SEC before selling shares to the public."
+  },
+  {
+   "id": "form-15",
+   "term": "Form 15",
+   "aliases": [],
+   "def": "The filing that ends a company's duty to file periodic reports with the SEC."
+  },
+  {
+   "id": "pro-forma",
+   "term": "pro forma",
+   "aliases": [],
+   "def": "Financial statements shown as if a deal had already happened, with adjustments to make two companies' books comparable."
+  },
+  {
+   "id": "autoship",
+   "term": "Autoship",
+   "aliases": [],
+   "def": "Chewy's name for scheduled repeat deliveries. Pets.com, PetSmart.com and Petopia each described a similar program in their filings."
+  }
+ ],
+ "entities": [
+  {
+   "id": "pets-com",
+   "name": "Pets.com",
+   "type": "Organization",
+   "slug": "pets-com"
+  },
+  {
+   "id": "petstore-com",
+   "name": "Petstore.com",
+   "type": "Organization"
+  },
+  {
+   "id": "discovery-communications",
+   "name": "Discovery Communications",
+   "type": "Organization"
+  },
+  {
+   "id": "petsmart-com",
+   "name": "PetSmart.com",
+   "type": "Organization"
+  },
+  {
+   "id": "petsmart",
+   "name": "PetSmart",
+   "type": "Organization"
+  },
+  {
+   "id": "petopia",
+   "name": "Petopia",
+   "type": "Organization"
+  },
+  {
+   "id": "amazon-com",
+   "name": "Amazon.com",
+   "type": "Organization"
+  },
+  {
+   "id": "pets-com-name",
+   "name": "Pets.com domain names and trademarks",
+   "type": "Brand"
+  },
+  {
+   "id": "pets-com-sock-puppet",
+   "name": "Pets.com sock puppet",
+   "type": "Brand"
+  },
+  {
+   "id": "hakan-enterprises",
+   "name": "Hakan Enterprises",
+   "type": "Organization"
+  },
+  {
+   "id": "fun-4-all",
+   "name": "Fun-4-All Corporation",
+   "type": "Organization"
+  },
+  {
+   "id": "julie-wainwright",
+   "name": "Julie Wainwright",
+   "type": "Person"
+  },
+  {
+   "id": "the-realreal",
+   "name": "The RealReal",
+   "type": "Organization"
+  },
+  {
+   "id": "richard-g-couch",
+   "name": "Richard G. Couch",
+   "type": "Person"
+  }
+ ],
+ "edges": [
+  {
+   "from": "pets-com",
+   "to": "petstore-com",
+   "type": "acquired",
+   "years": "2000 (assets only)",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-094"
+    },
+    {
+     "ledger": "pc-162"
+    }
+   ]
+  },
+  {
+   "from": "discovery-communications",
+   "to": "petstore-com",
+   "type": "owned",
+   "years": "1999 (majority owner at the 1999 statements)",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-088"
+    }
+   ]
+  },
+  {
+   "from": "discovery-communications",
+   "to": "pets-com",
+   "type": "investor",
+   "years": "2000 ($3 million of preferred and common stock)",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-095"
+    }
+   ]
+  },
+  {
+   "from": "petsmart-com",
+   "to": "pets-com-name",
+   "type": "acquired",
+   "years": "2000 (domain names and trademarks; the sock puppet was excluded)",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-018"
+    },
+    {
+     "ledger": "pc-020"
+    },
+    {
+     "ledger": "pc-037"
+    },
+    {
+     "ledger": "pc-038"
+    }
+   ]
+  },
+  {
+   "from": "petsmart",
+   "to": "petsmart-com",
+   "type": "owned",
+   "years": "from Dec 20, 2000 (controlling interest acquired)",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-137"
+    },
+    {
+     "ledger": "pc-138"
+    }
+   ]
+  },
+  {
+   "from": "amazon-com",
+   "to": "pets-com",
+   "type": "investor",
+   "years": "2000 (8,973,029 shares per the prospectus and the 13G)",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-110"
+    },
+    {
+     "ledger": "pc-107"
+    },
+    {
+     "ledger": "pc-136"
+    }
+   ]
+  },
+  {
+   "from": "hakan-enterprises",
+   "to": "pets-com-sock-puppet",
+   "type": "acquired",
+   "years": "2001 (rights assigned for $125,000)",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-021"
+    },
+    {
+     "ledger": "pc-030"
+    }
+   ]
+  },
+  {
+   "from": "pets-com",
+   "to": "fun-4-all",
+   "type": "licensed",
+   "years": "2000 (license agreement effective May 15, 2000)",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-034"
+    },
+    {
+     "ledger": "pc-032"
+    }
+   ]
+  },
+  {
+   "from": "julie-wainwright",
+   "to": "pets-com",
+   "type": "executive",
+   "years": "chief executive as of Nov 2000",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-026"
+    }
+   ]
+  },
+  {
+   "from": "julie-wainwright",
+   "to": "the-realreal",
+   "type": "executive",
+   "years": "to Jun 7, 2022 (11 years as founder)",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-131"
+    },
+    {
+     "ledger": "pc-132"
+    }
+   ]
+  },
+  {
+   "from": "richard-g-couch",
+   "to": "pets-com",
+   "type": "executive",
+   "years": "sole director and chief executive after Jan 16, 2001",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-013"
+    },
+    {
+     "ledger": "pc-029"
+    }
+   ]
+  },
+  {
+   "from": "pets-com",
+   "to": "petsmart-com",
+   "type": "rival",
+   "years": "1999",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-068"
+    },
+    {
+     "ledger": "pc-061"
+    }
+   ]
+  },
+  {
+   "from": "pets-com",
+   "to": "petopia",
+   "type": "rival",
+   "years": "1999",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "pc-079"
+    },
+    {
+     "ledger": "pc-061"
+    }
+   ]
+  }
+ ]
+}
