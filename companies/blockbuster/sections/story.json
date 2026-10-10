@@ -14,7 +14,8 @@
     "image": "img/membership-card.avif",
     "caption": "A Blockbuster Video membership card. Via Wikimedia Commons, public domain.",
     "alt": "Blue and yellow Blockbuster Video membership card shaped like a torn ticket"
-   }
+   },
+   "stagePoint": 0
   },
   {
    "when": "1994 – 2004 · The Viacom years",
@@ -23,7 +24,8 @@
    "cap": "stores worldwide on December 31, 2004, the most it ever had",
    "color": "#8A6212",
    "body": "Under Viacom the chain roughly doubled, from 4,513 stores at the end of 1995 to 9,094 at the end of 2004.[^2][^6] In 1998 it signed revenue-sharing agreements with the major studios. Until then it had paid between $60 and $70 for each rental cassette of a major release; afterwards it paid a small sum up front and shared the rental income, which let it fill the new-release wall.[^1]\n\nViacom sold a minority of the company to the public on August 10, 1999: 31 million shares at $15, raising $465 million.[^1][^2] It kept about 81.5%.[^4] Extended viewing fees, the company’s term for late fees, were **$692.6M** in 1999, or 15.5% of revenue.[^2]",
-   "video": "night1994"
+   "video": "night1994",
+   "stagePoint": 5
   },
   {
    "when": "2000 – 2006 · The rival",
@@ -33,7 +35,8 @@
    "color": "#C2412D",
    "body": "In September 2000, according to Netflix co-founder Marc Randolph, he, Reed Hastings and Barry McCarthy flew to Dallas to propose that Blockbuster buy Netflix. Asked for a number, Hastings said fifty million. Randolph writes that John Antioco, Blockbuster’s chief executive, “was struggling not to laugh.”[^18] The account is Randolph’s; Blockbuster’s filings do not mention the meeting.\n\nBlockbuster’s FY2003 annual report called Netflix “our primary domestic competitor in online rental” and warned that rental services with no late fees “could reduce the number of consumers who obtain product from our stores.”[^4] Blockbuster Online launched in August 2004.[^5] It had about 1.2 million subscribers at the end of 2005 and about 2.2 million at the end of 2006, after Total Access let customers swap mailed discs in stores.[^6][^7] Netflix had 6.3 million.[^21]",
    "art": "art/dvd-mailer.svg",
-   "artCaption": "A disc in a paper envelope: the format that made the drive to the store optional. Original illustration."
+   "artCaption": "A disc in a paper envelope: the format that made the drive to the store optional. Original illustration.",
+   "stagePoint": 7
   },
   {
    "when": "2004 – 2007 · Debt, late fees and Carl Icahn",
@@ -41,8 +44,9 @@
    "big": "$1.04B",
    "cap": "rise in long-term debt during 2004, the year of the split from Viacom (derived)",
    "color": "#16161A",
-   "body": "Viacom decided in February 2004 to divest its stake.[^4] Before the split-off was completed that October, Blockbuster took out a $1,150M credit facility, issued $300M of 9% notes and paid shareholders, chiefly Viacom, a special distribution of $5.00 a share, about **$905.6M**.[^5] Long-term debt rose from $75.1M at the end of 2003 to $1,119.7M a year later.[^6]\n\nOn January 1, 2005 it stopped charging late fees at more than 4,500 company stores. Its own projection was that the fees would have brought in $400M to $450M of revenue and $250M to $300M of operating income that year.[^5] In May 2005 Carl Icahn and two allies were elected to the board, displacing Antioco as a director until the board reappointed him.[^15] After a dispute over his 2006 bonus, Antioco agreed to leave, and James Keyes, formerly of 7-Eleven, became chairman and chief executive on July 2, 2007.[^17][^16]",
-   "video": "nolatefees"
+   "body": "Viacom decided in February 2004 to divest its stake.[^4] Before the split-off was completed that October, Blockbuster took out a $1,150M credit facility, issued $300M of 9% notes and paid shareholders, chiefly Viacom, a special distribution of $5.00 a share, about **$905.6M**.[^5] Long-term debt rose from $75.1M at the end of 2003 to $1,119.7M a year later.[^6] The divestiture ran through an exchange offer in September 2004: Viacom offered its shareholders 5.15 Blockbuster shares for each Viacom share, the offer was oversubscribed, and Viacom accepted 9.55% of the tendered shares, 27,961,165 in all, in exchange for 72 million shares each of Blockbuster’s Class A and Class B stock.[^5]\n\nOn January 1, 2005 it stopped charging late fees at more than 4,500 company stores. Its own projection was that the fees would have brought in $400M to $450M of revenue and $250M to $300M of operating income that year.[^5] The FY2005 annual report measured the “no late fees” program itself: about $60 million in marketing and implementation costs in 2005 and a reduction of rental revenues by over $500 million, against extended viewing fees that had been approximately 14% of 2004 rental revenues.[^6] The two statements may not share a baseline, so we do not subtract one from the other. By March 1, 2006 about 340 franchise stores in the United States had also ended the fees.[^6] In May 2005 Carl Icahn and two allies were elected to the board, displacing Antioco as a director until the board reappointed him.[^15] After a dispute over his 2006 bonus, Antioco agreed to leave, and James Keyes, formerly of 7-Eleven, became chairman and chief executive on July 2, 2007.[^17][^16]",
+   "video": "nolatefees",
+   "stagePoint": 8
   },
   {
    "when": "2008 – 2011 · Collapse",
@@ -50,12 +54,13 @@
    "big": "$320.6M",
    "cap": "paid by Dish Network for substantially all of the assets, April 26, 2011",
    "color": "#C2412D",
-   "body": "Revenue held above $5B through 2008, then fell to $4.06B in 2009 and $3.24B in 2010.[^9][^10] The company closed 374 U.S. company-owned stores in 2009, and its FY2009 annual report said that conditions “raise substantial doubt about our ability to continue as a going concern.”[^9] By then Redbox was running some 30,200 kiosks and Netflix had 20 million subscribers.[^24][^22]\n\nOn September 23, 2010 Blockbuster and its U.S. subsidiaries filed for Chapter 11 in New York, with a plan to cut debt “from nearly $1 billion currently to an estimated $100 million or less.”[^11] The plan did not hold. The assets went to auction on April 6, 2011, Dish Network won, and the sale closed on April 26 for **$320.6M**. Stockholders received nothing.[^12][^13]",
+   "body": "Revenue held above $5B through 2008, then fell to $4.06B in 2009 and $3.24B in 2010.[^9][^10] The company closed 374 U.S. company-owned stores in 2009, and its FY2009 annual report said that conditions “raise substantial doubt about our ability to continue as a going concern.”[^9] By then Redbox was running some 30,200 kiosks and Netflix had 20 million subscribers.[^24][^22]\n\nOn September 23, 2010 Blockbuster and its U.S. subsidiaries filed for Chapter 11 in New York, with a plan to cut debt “from nearly $1 billion currently to an estimated $100 million or less.”[^11] The plan did not hold. The assets went to auction on April 6, 2011, Dish Network won, and the sale closed on April 26 for **$320.6M**. Stockholders received nothing.[^12][^13]\n\nDish’s announcement of April 6, 2011 put its winning bid at approximately $320 million and said it expected to pay approximately $228 million in cash at closing, after adjustments for cash and inventory. Of the $320.6M Dish paid, the estate expected about $226 million in net proceeds.[^51][^13]",
    "image": {
     "image": "img/closing-2013-miami.avif",
     "caption": "A Blockbuster Video in Miami Beach during its closing sale, November 2013. Photo: Phillip Pessar, via Wikimedia Commons, CC BY 2.0.",
     "alt": "Blockbuster Video storefront in Miami Beach with a yellow Store Closing banner"
-   }
+   },
+   "stagePoint": 11
   },
   {
    "when": "2011 – today · The ghost",
@@ -63,12 +68,91 @@
    "big": "1",
    "cap": "Blockbuster store left in the world, at 211 NE Revere Avenue, Bend, Oregon",
    "color": "#3F8A5A",
-   "body": "Dish kept closing stores, and on November 6, 2013 it announced that the remaining 300 or so company-owned U.S. stores would shut by early January, along with the DVD-by-mail service. About 2,800 jobs went. About 50 franchised stores stayed open.[^27][^28]\n\nThey closed one by one. The two in Alaska shut in 2018 and the last overseas store, in Perth, Australia, in 2019, leaving a franchise in Bend, Oregon that had opened in 1992 as Pacific Video and become a Blockbuster in 2000.[^29][^30] A documentary about it, The Last Blockbuster, reached Netflix on March 15, 2021.[^30] The store’s website was live when we checked on October 3, 2026, listing new releases for rent and a line of merchandise under the heading “The Lone Survivor.”[^31]",
+   "body": "Dish’s own counts show the pace. Its announcement of April 6, 2011 described Blockbuster as having more than 1,700 store locations.[^51] On December 31, 2011 Blockbuster operated over 1,500 retail stores in the United States.[^39] During 2012 Dish closed approximately 700 domestic stores, leaving approximately 800, and in January 2013 it announced the closing of approximately 300 more.[^40] These are Dish’s counts of its own stores, in the rounded wording of its filings, and they are not comparable with the franchise-inclusive U.S. counts above. The 1,700 figure does not say which countries it covers.\n\nDish kept closing stores, and on November 6, 2013 it announced that the remaining 300 or so company-owned U.S. stores would shut by early January, along with the DVD-by-mail service. About 2,800 jobs went. About 50 franchised stores stayed open.[^27][^28]\n\nThey closed one by one. The two in Alaska shut in 2018 and the last overseas store, in Perth, Australia, in 2019, leaving a franchise in Bend, Oregon that had opened in 1992 as Pacific Video and become a Blockbuster in 2000.[^29][^30] A documentary about it, The Last Blockbuster, reached Netflix on March 15, 2021.[^30] The store’s website was live when we checked on October 3, 2026, listing new releases for rent and a line of merchandise under the heading “The Lone Survivor.”[^31]",
    "image": {
     "image": "img/store-bend.avif",
     "caption": "The Bend store. Photo: UpdateNerd, via Wikimedia Commons, CC0.",
     "alt": "Storefront of the last Blockbuster in Bend, Oregon, with yellow block letters on a shingled roof"
-   }
+   },
+   "stagePoint": 11
   }
- ]
+ ],
+ "variant": "scrolly",
+ "method": "The chart beside the chapters plots Blockbuster’s stores in the United States and its territories, company-operated plus franchised, at each year end from 1999 to 2010. The counts come from the state tables and store-count sentences in its 10-Ks. It stops at the January 2011 count because Dish counted a different set of stores afterward; those counts are in the last chapter.",
+ "stage": {
+  "title": "Blockbuster stores in the United States and its territories, 1999–2010",
+  "metric": "U.S. stores, company-operated plus franchised",
+  "unit": "stores",
+  "points": [
+   {
+    "year": 1999,
+    "value": 4793,
+    "ledger": "bb-047"
+   },
+   {
+    "year": 2000,
+    "value": 5191,
+    "ledger": "bb-054"
+   },
+   {
+    "year": 2001,
+    "value": 5374,
+    "ledger": "bb-055"
+   },
+   {
+    "year": 2002,
+    "value": 5566,
+    "ledger": "bb-056"
+   },
+   {
+    "year": 2003,
+    "value": 5670,
+    "ledger": "bb-057"
+   },
+   {
+    "year": 2004,
+    "value": 5803,
+    "ledger": "bb-048"
+   },
+   {
+    "year": 2005,
+    "value": 5696,
+    "ledger": "bb-049"
+   },
+   {
+    "year": 2006,
+    "value": 5194,
+    "ledger": "bb-050"
+   },
+   {
+    "year": 2007,
+    "value": 4855,
+    "ledger": "bb-051"
+   },
+   {
+    "year": 2008,
+    "value": 4585,
+    "ledger": "bb-052"
+   },
+   {
+    "year": 2009,
+    "value": 4018,
+    "ledger": "bb-053"
+   },
+   {
+    "year": 2010,
+    "value": 3090,
+    "ledger": "bb-058"
+   }
+  ],
+  "note": "Fiscal year-end counts. The points for 2007 to 2010 are for years that ended on January 6, 2008, January 4, 2009, January 3, 2010 and January 2, 2011. Kiosks are not counted. Most points come from the filings’ state tables; 2000 to 2003 and 2010 come from sentences in the 10-Ks.",
+  "src": [
+   3,
+   5,
+   6,
+   37,
+   38,
+   47
+  ]
+ }
 }
