@@ -1,7 +1,7 @@
 {
  "kicker": "Cause of death",
  "title": "Contributing factors, weighted",
- "lede": "The weights are our editorial judgment, not a calculation. Click a factor for the evidence.",
+ "lede": "The weights are our [editorial judgment](/about/), not a calculation. Click a factor for the evidence.",
  "causes": [
   {
    "weight": 30,

@@ -26,8 +26,8 @@
   }
  ],
  "place": "Video games and home computers · Sunnyvale, California",
- "title": "Atari (1972–1984): post-mortem · Spectre Brands",
- "description": "From $28 million to $2 billion in sales and a $538 million loss in eight years: the original Atari and every owner of its name since, traced through New York Times reporting and SEC filings, with charts, commercials and archived screenshots.",
+ "title": "Atari (1972–1984): collapse and the buried cartridges · Spectre Brands",
+ "description": "Atari made the home video game a business, lost $538 million in 1983 and was sold by Warner for notes and no cash in 1984. Its name has been sold on ever since.",
  "theme": {
   "accent": "#c8102e",
   "soft": "#fbecee"
@@ -52,7 +52,7 @@
  "hero": {
   "dates": "Founded 1972. Sold to Warner 1976. Broken up and sold Jul 2, 1984.",
   "standfirst": "Atari made the home video game a business, and then showed how quickly that business could vanish.",
-  "deck": "Warner Communications paid $28 million for Atari in 1976. By 1982 it was half of Warner’s revenue. One year later it had lost more than half a billion dollars, buried truckloads of cartridges in the New Mexico desert and laid off most of its staff. In July 1984 Warner gave the company to a competitor for notes and no cash. The name has since belonged to a disk-drive maker, a toy company and a French publisher, and it is still trading.",
+  "deck": "Atari was the [video game](/category/games/) company that Warner Communications bought for $28 million in 1976 and gave to a competitor for notes and no cash in July 1984. By 1982 it was half of Warner’s revenue. One year later it had lost more than half a billion dollars, buried truckloads of cartridges in the New Mexico desert and laid off most of its staff. The name has since belonged to a disk-drive maker, a toy company and a French publisher, and it is still trading.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration in the spirit of the wood-grain cartridge console and its bat-and-ball game. Not an official Atari asset.",
   "motion": "flicker",

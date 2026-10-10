@@ -1,7 +1,7 @@
 {
  "kicker": "The rivals",
  "title": "The specialists lost. The discounters did not.",
- "lede": "In 2001 KB had about 6% of a $30 billion U.S. toy retail market.[^15] Every company on this page that sold mainly toys has since gone through bankruptcy. The two that sold toys as one aisle among many are still open.",
+ "lede": "In 2001 KB had about 6% of a $30 billion U.S. [toy retail market](/category/retail/).[^15] Every company on this page that sold mainly toys has since gone through bankruptcy. The two that sold toys as one aisle among many are still open.",
  "blocks": [
   {
    "kind": "multiples",
@@ -34,7 +34,7 @@
      "status": "dead",
      "statusLabel": "Bankrupt, Dec 2003",
      "value": "3 chains",
-     "text": "The parent of FAO Schwarz, Zany Brainy and The Right Start filed for Chapter 11 about a month before KB.[^18]"
+     "text": "The parent of [FAO Schwarz](/fao-schwarz/), [Zany Brainy](/zany-brainy/) and The Right Start filed for Chapter 11 about a month before KB.[^18]"
     },
     {
      "name": "eToys",

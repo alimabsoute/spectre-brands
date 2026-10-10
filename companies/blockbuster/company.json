@@ -26,8 +26,8 @@
   }
  ],
  "place": "Video rental stores · Dallas, Texas",
- "title": "Blockbuster (1985–2010): post-mortem · Spectre Brands",
- "description": "From 9,094 stores to one: Blockbuster Video’s store count, debt, late fees and rivals, read through its SEC filings, with old commercials and archived screenshots.",
+ "title": "Blockbuster (1985–2010): debt, late fees and Netflix · Spectre Brands",
+ "description": "Blockbuster ended 2004 with 9,094 stores, borrowed heavily to leave Viacom and gave up late fees. It filed for bankruptcy in 2010; one franchised store remains.",
  "theme": {
   "accent": "#1b3f94",
   "soft": "#e9effb"
@@ -57,7 +57,7 @@
  "hero": {
   "dates": "First store opened Oct 19, 1985. Filed for Chapter 11 on Sep 23, 2010.",
   "standfirst": "It had a store within a short drive of most American homes. Then the drive stopped being necessary.",
-  "deck": "Blockbuster ended 2004 with 9,094 stores in 25 countries and just over $6 billion in revenue. That same year it borrowed heavily to pay a parting distribution as it left its parent, Viacom, and prepared to give up the late fees that had carried its profits. Six years later it filed for bankruptcy.",
+  "deck": "Blockbuster was the [video rental chain](/category/film/) that ended 2004 with 9,094 stores in 25 countries and filed for bankruptcy in 2010. Its 2004 revenue was just over $6 billion. That year it borrowed heavily to pay a parting distribution as it left its parent, Viacom, and prepared to give up the late fees that had carried its profits.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a strip-mall video store in the spirit of the chain. Not an official asset and not the trademarked logo.",
   "motion": "flicker",

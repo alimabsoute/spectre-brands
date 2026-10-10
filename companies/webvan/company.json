@@ -5,8 +5,8 @@
  "category": "dotcom",
  "years": "1996 – 2001",
  "place": "Online grocery delivery · Foster City, California",
- "title": "Webvan (1996–2001): post-mortem · Spectre Brands",
- "description": "How Webvan raised $1.2B, built warehouses for demand that never came, and shut down in 2001. Sourced charts, a linked map and timeline, and archived screenshots.",
+ "title": "Webvan (1996–2001): warehouses before customers · Spectre Brands",
+ "description": "Webvan promised groceries at your door in a 30-minute window. It raised $1.2B, built warehouses before it had customers and shut down in July 2001.",
  "theme": {
   "accent": "#305a90",
   "soft": "#e7eef3"
@@ -35,7 +35,7 @@
  "hero": {
   "dates": "Founded December 1996. Stopped delivering July 9, 2001.",
   "standfirst": "Webvan promised groceries at your door inside a 30-minute window you chose. It built the warehouses first and waited for the customers.",
-  "deck": "It raised about $393M privately and $375M in one of the largest IPOs of 1999, signed a deal with Bechtel to build up to 26 more distribution centers, and merged with its closest rival. Its gross margins were positive from late 1999. Its warehouses never ran anywhere near full. The sources are Webvan’s prospectus, 10-Ks, 10-Qs and bankruptcy filing, contemporary press and the archived website.",
+  "deck": "Webvan was an online grocer that delivered inside a 30-minute window and shut down in July 2001. It raised about $393M privately and $375M in one of the largest IPOs of 1999, signed a deal with Bechtel to build up to 26 more distribution centers, and merged with its closest rival. Its gross margins were positive from late 1999. Its warehouses never ran anywhere near full. The sources are Webvan’s prospectus, 10-Ks, 10-Qs and bankruptcy filing, contemporary press and the archived website.",
   "art": "art/van.svg",
   "artCaption": "Original drawing of a Webvan truck in the blue and lime livery seen in archived photos. Not an official Webvan asset.",
   "archive": [

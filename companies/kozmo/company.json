@@ -23,8 +23,8 @@
  ],
  "published": "2026-10-08",
  "place": "One-hour delivery of videos, snacks and sundries · New York, New York",
- "title": "Kozmo.com (1998–2001): post-mortem · Spectre Brands",
- "description": "Free delivery in under an hour, no minimum order, and $232 million of venture money. The record is its own IPO filing, contemporary press and the archived website.",
+ "title": "Kozmo.com (1998–2001): why free delivery lost money · Spectre Brands",
+ "description": "Kozmo.com promised free delivery in under an hour on $232 million of venture money. Delivery cost more than the order brought in, and it closed in April 2001.",
  "theme": {
   "accent": "#b54708",
   "soft": "#eff5df"
@@ -53,7 +53,7 @@
  "hero": {
   "dates": "First delivery center opened in New York in March 1998. Shut down Apr 11, 2001.",
   "standfirst": "“From the Internet to your door in under an hour.” The delivery was free, and that was the problem.",
-  "deck": "Two bankers in their twenties started Kozmo.com to bring rented videos to Manhattan apartments by bicycle. Within two years it had Amazon and Starbucks as shareholders, 2,665 employees and a filing to go public. The filing never became an offering. It is still the best record of the business, and it shows a company whose delivery expense, mostly courier pay, was larger than its sales in the last quarter of 1999. The rest of the record is the press of 2000 and 2001, trademark records and the archived website.",
+  "deck": "Kozmo.com was a New York start-up that delivered videos, snacks and other goods in under an hour with no fee, and it shut down in April 2001. Two bankers in their twenties started it to bring rented videos to Manhattan apartments by bicycle. Within two years it had Amazon and Starbucks as shareholders, 2,665 employees and a filing to go public. The filing never became an offering. It is still the best record of the business, and it shows a company whose delivery expense, mostly courier pay, was larger than its sales in the last quarter of 1999. The rest of the record is the press of 2000 and 2001, trademark records and the archived website.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a bicycle courier in an orange jacket. Not an official Kozmo asset and not a likeness of any real person.",
   "motion": "drive",
@@ -99,7 +99,7 @@
  "findings": [
   {
    "title": "The courier cost more than the order.",
-   "text": "In the fourth quarter of 1999 Kozmo took in $11.92 per order and spent $12.84 per order on delivery staff alone (both derived from its IPO filing). Gross profit per order was $4.72.[^1]"
+   "text": "In the fourth quarter of 1999 Kozmo took in $11.92 per order and spent $12.84 per order on delivery staff alone (both [derived](/about/) from its IPO filing). Gross profit per order was $4.72.[^1]"
   },
   {
    "title": "The price was a promise it could not keep.",

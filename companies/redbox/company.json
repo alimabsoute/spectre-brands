@@ -27,8 +27,8 @@
  ],
  "published": "2026-10-08",
  "place": "DVD rental kiosks · Oakbrook Terrace, Illinois",
- "title": "Redbox (2002–2024): post-mortem · Spectre Brands",
- "description": "From 12 kiosks in 2002 to 44,000 in 2013 and back to none: the kiosk count, revenue and debt of Redbox, read through the SEC filings of its four owners, with old footage and photographs of the last machines.",
+ "title": "Redbox (2002–2024): DVD kiosks, debt and liquidation · Spectre Brands",
+ "description": "Redbox rented DVDs from about 44,000 kiosks at its 2013 peak. Rentals fell, each change of owner left debt, and a judge ordered liquidation in 2024.",
  "theme": {
   "accent": "#c8102e",
   "soft": "#fdecef"
@@ -56,7 +56,7 @@
  "hero": {
   "dates": "First kiosks in 2002. Liquidation ordered on Jul 10, 2024.",
   "standfirst": "It beat the video store by being smaller than a parking space. Then the disc itself went out of use.",
-  "deck": "Redbox began inside McDonald’s as an experiment in getting people to stop at the restaurant. Under Coinstar it grew to about 44,000 kiosks and $1.97 billion of revenue in 2013. Rentals fell every year after that. A private-equity buyout, a blank-check listing and a sale to a streaming company each added debt to a business that was shrinking, and in July 2024 a Delaware bankruptcy judge converted its owner’s case to a liquidation.",
+  "deck": "Redbox was a DVD rental kiosk business that began inside McDonald’s as an experiment in getting people to stop at the restaurant, and it was liquidated in 2024. Under Coinstar it grew to about 44,000 kiosks and $1.97 billion of revenue in 2013. Rentals fell every year after that. A private-equity buyout, a blank-check listing and a sale to a streaming company each added debt to a business that was shrinking, and in July 2024 a Delaware bankruptcy judge converted its owner’s case to a liquidation.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a red rental kiosk outside a shop. Not an official asset and not the trademarked logo.",
   "motion": "flicker",

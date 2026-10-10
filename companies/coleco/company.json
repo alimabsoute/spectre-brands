@@ -23,8 +23,8 @@
  ],
  "published": "2026-10-08",
  "place": "Toys, video games and computers · West Hartford, Connecticut",
- "title": "Coleco (1932–1990): post-mortem · Spectre Brands",
- "description": "The Connecticut leather company that made ColecoVision, the Adam computer and Cabbage Patch Kids, and rode three crazes into a $540 million bankruptcy. Read through Coleco’s own annual reports and contemporary press.",
+ "title": "Coleco (1932–1990): three crazes and one bankruptcy · Spectre Brands",
+ "description": "Coleco made ColecoVision, the Adam and Cabbage Patch Kids. Doll sales fell from $600M to about $250M, and it went bankrupt in 1988 owing $540 million.",
  "theme": {
   "accent": "#1d4f9a",
   "soft": "#ebf0f8"
@@ -51,7 +51,7 @@
  "hero": {
   "dates": "Founded as the Connecticut Leather Company in 1932. Bankrupt in 1988. Gone as an operating company in 1990.",
   "standfirst": "Coleco found three of the biggest crazes of the 1980s. It could not survive any of them ending.",
-  "deck": "Coleco began as a leather supplier, moved into plastic wading pools and then into electronics. In August 1982 it launched ColecoVision, which it called the number one video game system by the end of that year. Its follow-up, the Adam home computer, shipped late and broken in 1983 and cost $118.6M to abandon. The Cabbage Patch Kids, launched the same month the Adam was announced, saved the company: $540M of sales in 1984 and $600M in 1985. Then demand fell to about $250M in 1986, and Coleco was left with $335M of bonds it could not pay. It filed for Chapter 11 in July 1988, sold everything to Hasbro for $85M and became an empty shell called Ranger Industries. The figures come from Coleco’s own annual reports, its successor’s SEC filings and reports in the Los Angeles Times and UPI.",
+  "deck": "Coleco was a Connecticut toy and electronics maker that sold the ColecoVision console, the Adam computer and Cabbage Patch Kids, and went bankrupt in 1988 when doll sales fell. It began as a leather supplier, moved into plastic wading pools and then into electronics. In August 1982 it launched ColecoVision, which it called the number one video game system by the end of that year. Its follow-up, the Adam home computer, shipped late and broken in 1983 and cost $118.6M to abandon. The Cabbage Patch Kids, launched the same month the Adam was announced, saved the company: $540M of sales in 1984 and $600M in 1985. Then demand fell to about $250M in 1986, and Coleco was left with $335M of bonds it could not pay. It filed for Chapter 11 in July 1988, sold everything to Hasbro for $85M and became an empty shell called Ranger Industries. The figures come from Coleco’s own annual reports, its successor’s SEC filings and reports in the Los Angeles Times and UPI.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a black games console with a striped panel, wired to a television with a flickering screen. Not an official Coleco asset.",
   "motion": "flicker",

@@ -1,7 +1,7 @@
 {
  "kicker": "The rivals",
  "title": "The toy store lost to stores that were not toy stores",
- "lede": "Toys “R” Us outlasted every other toy chain. It was beaten by retailers for whom toys were one aisle, priced to bring shoppers in for everything else.",
+ "lede": "Toys “R” Us outlasted every other toy chain. It was beaten by [retailers](/category/retail/) for whom toys were one aisle, priced to bring shoppers in for everything else.",
  "blocks": [
   {
    "kind": "bars",
@@ -112,20 +112,20 @@
      "name": "KB Toys",
      "status": "dead",
      "value": "4% to 5%",
-     "text": "Estimated share in 2003.[^34] Toys “R” Us bought its brand and trademarks on September 3, 2009.[^7]"
+     "text": "Estimated share in 2003.[^34] Toys “R” Us bought [its brand and trademarks](/kb-toys/) on September 3, 2009.[^7]"
     },
     {
      "name": "FAO Schwarz",
      "status": "acquired",
      "statusLabel": "Sold twice",
      "value": "2009, 2016",
-     "text": "Acquired by Toys “R” Us in May 2009 and sold to ThreeSixty Group in October 2016.[^7][^37]"
+     "text": "[Acquired by Toys “R” Us in May 2009](/fao-schwarz/) and sold to ThreeSixty Group in October 2016.[^7][^37]"
     },
     {
      "name": "Child World and Lionel",
      "status": "dead",
      "value": "152 and 78 stores",
-     "text": "The two nearest toy superstore rivals in the late 1980s, per a reference history.[^31] Neither survives; we did not source their closing dates."
+     "text": "The two nearest [toy superstore rivals](/child-world/) in the late 1980s, per a reference history.[^31] Neither survives; we did not source their closing dates."
     }
    ],
    "source": "10-K for fiscal 2009[^7], reference history[^31], AP[^34] and press as cited. The headline figures are not like for like."

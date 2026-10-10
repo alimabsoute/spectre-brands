@@ -27,8 +27,8 @@
  ],
  "published": "2026-10-08",
  "place": "Game console standard, then game publisher · Redwood City, California",
- "title": "3DO (1991–2003): post-mortem · Spectre Brands",
- "description": "A $699 console nobody at 3DO manufactured, a $100 million sale of its successor, and a second life as the publisher of Army Men: documented in The 3DO Company’s SEC filings and the press of the time.",
+ "title": "3DO (1991–2003): the $699 console and Army Men · Spectre Brands",
+ "description": "3DO designed a $699 game console that others built, licensed its next design for $100 million, published Army Men and filed for Chapter 11 in 2003.",
  "theme": {
   "accent": "#1f5fae",
   "soft": "#eaf1fb"
@@ -56,7 +56,7 @@
  "hero": {
   "dates": "Began operations Oct 1991. Console launched Oct 1993. Chapter 11 on May 28, 2003.",
   "standfirst": "3DO failed twice: first as the company that would set the standard for every living-room machine, then as the publisher of little green plastic soldiers.",
-  "deck": "The 3DO Company did not make its own console. It designed one, licensed the design to Matsushita, Goldstar and others, and planned to live on a royalty from every disc. The machine reached stores in October 1993 at $699 with almost nothing to play. Three years later 3DO sold its next-generation design for $100 million and became a software publisher, had one profitable year on the back of Army Men, and filed for Chapter 11 in May 2003. The figures come from the company’s 10-K, 10-Q and 8-K filings on SEC EDGAR, The New York Times, the Los Angeles Times and trade coverage of the period.",
+  "deck": "The 3DO Company designed a game console for other firms to build and sell, and ended as a game publisher that filed for Chapter 11 in May 2003. It licensed the design to Matsushita, Goldstar and others, and planned to live on a royalty from every disc. The machine reached stores in October 1993 at $699 with almost nothing to play. Three years later 3DO sold its next-generation design for $100 million, became a game publisher and had one profitable year on the back of Army Men. The figures come from the company’s [10-K, 10-Q and 8-K filings](/about/) on SEC EDGAR, The New York Times, the Los Angeles Times and trade coverage of the period.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration in the spirit of the first 3DO console. Not an official asset; the shapes above it are our own and are not the 3DO logo.",
   "motion": "spin",

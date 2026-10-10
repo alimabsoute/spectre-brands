@@ -24,7 +24,7 @@
    "status": "Closed",
    "color": "var(--red)",
    "title": "The last building",
-   "text": "The Lake George restaurant went up for lease in late 2021. CNN reported that the listing for the 7,500 square foot building stated a price of $10.[^14] What has happened to the building since is not covered by our sources."
+   "text": "The Lake George restaurant went up for lease in late 2021. CNN reported that the listing for the 7,500 square foot building stated a price of $10.[^14] What has happened to the building since is not covered by [our sources](/about/#sources)."
   },
   {
    "status": "Licensed out",

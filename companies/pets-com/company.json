@@ -22,8 +22,8 @@
   }
  ],
  "place": "Online pet retail · San Francisco",
- "title": "Pets.com (1998–2000): post-mortem · Spectre Brands",
- "description": "The sock puppet, the Super Bowl ad and the business model underneath: traced through Pets.com’s SEC filings, with charts, a linked map and timeline, and archived screenshots.",
+ "title": "Pets.com (1998–2000): sock puppet, shipping losses · Spectre Brands",
+ "description": "Pets.com sold pet supplies online and ran a Super Bowl ad. It never sold a quarter’s goods for more than they cost to buy and ship, and wound down in 2000.",
  "theme": {
   "accent": "#a8321f",
   "soft": "#eef3dc"
@@ -49,7 +49,7 @@
  "hero": {
   "dates": "Began operating Feb 17, 1999. Announced its wind-down Nov 7, 2000.",
   "standfirst": "The company’s slogan was “Because pets can’t drive.” Its business model didn’t get far either.",
-  "deck": "It had the most famous mascot of the dot-com era, Amazon as its biggest shareholder, and a Super Bowl ad. In 270 days as a public company it never sold a single quarter’s goods for more than they cost to buy and ship.",
+  "deck": "Pets.com was an online pet store with the most famous mascot of the [dot-com era](/category/dotcom/), Amazon as its biggest shareholder and a Super Bowl ad, and it announced its wind-down in November 2000. In 270 days as a public company it never sold a single quarter’s goods for more than they cost to buy and ship.",
   "art": "art/sock-puppet-mic.svg",
   "artCaption": "Original illustration in the spirit of the mascot, with the company’s slogan. Not the trademarked character.",
   "archive": [

@@ -22,8 +22,8 @@
   }
  ],
  "place": "Clear malt beverage · Golden, Colorado (brewed in Memphis, Tennessee)",
- "title": "Zima (1992–2008): post-mortem · Spectre Brands",
- "description": "Coors’s clear malt beverage sold about 1.3 million barrels in 1994 and half that a year later. Its life runs from the clear craze to the limited re-releases, with charts, commercials and the archived website.",
+ "title": "Zima (1992–2008): the clear malt drink Coors pulled · Spectre Brands",
+ "description": "Zima was Coors’s clear, citrus-flavored malt drink. It sold about 1.3 million barrels in 1994, volume fell about 49% in 1995, and it left U.S. sale in 2008.",
  "theme": {
   "accent": "#1b3f8f",
   "soft": "#e8eef9"
@@ -48,7 +48,7 @@
  "hero": {
   "dates": "Test-marketed from September 1992. U.S. production ended October 10, 2008.",
   "standfirst": "It was not a beer and not a wine cooler. For one year, that was enough.",
-  "deck": "Zima was a product, not a company, so there was no bankruptcy. There was a launch year in which Coors sold about 1.3 million barrels of a clear, citrus-flavored malt drink, and a second year in which it sold roughly half as many. The brand then survived for thirteen more years on reformulations, was withdrawn in 2008, and has come back twice as a summer novelty. The sources are Coors’s SEC filings, the press of the time and the brand’s own archived website. Where a figure is not public, the page says so.",
+  "deck": "Zima was a clear, citrus-flavored malt drink that Coors launched in 1992 and that was withdrawn in the United States in 2008. It was [a product, not a company](/category/consumer/), so there was no bankruptcy. There was a launch year in which Coors sold about 1.3 million barrels of it, and a second year in which it sold roughly half as many. The brand then survived for thirteen more years on reformulations and has come back twice since as a summer novelty. The sources are Coors’s SEC filings, the press of the time and the brand’s own archived website. Where a figure is not public, [the page says so](/about/).",
   "art": "art/hero.svg",
   "artCaption": "Original illustration in the spirit of the ribbed clear bottle. Not an official Zima asset.",
   "motion": "fizz",

@@ -26,8 +26,8 @@
   }
  ],
  "place": "Toy superstores · Wayne, New Jersey",
- "title": "Toys “R” Us (1957–2018): post-mortem · Spectre Brands",
- "description": "A supermarket for toys, a $6.6 billion buyout and twelve years of interest payments: traced through the SEC filings of Toys “R” Us, with charts, commercials and archived screenshots.",
+ "title": "Toys “R” Us (1957–2018): interest on its own buyout · Spectre Brands",
+ "description": "Toys “R” Us invented the toy superstore. Interest on its $6.6 billion buyout took nearly all its operating earnings, and the last U.S. stores closed in 2018.",
  "theme": {
   "accent": "#0047ba",
   "soft": "#e9f0fb"
@@ -54,7 +54,7 @@
  "hero": {
   "dates": "First Toys “R” Us store 1957. Chapter 11 on Sep 18, 2017. Last U.S. stores closed Jun 29, 2018.",
   "standfirst": "The jingle said “I don’t wanna grow up.” The balance sheet did not give it the choice.",
-  "deck": "Charles Lazarus built a supermarket for toys and, for a while, a quarter of the American toy market.[^31] In 2005 three investment firms bought the company for $6.6 billion and left it with the bill.[^3] Over twelve fiscal years it recorded $5.6 billion of interest expense (derived), never went public again, and entered its last Christmas in bankruptcy.[^2][^8][^9][^13]",
+  "deck": "Toys “R” Us, the chain that invented the toy superstore, filed for bankruptcy in 2017 after recording $5.6 billion of interest expense over twelve fiscal years (derived), and it never went public again.[^2][^8][^9][^13] Charles Lazarus had built a supermarket for toys and, for a while, a quarter of the American toy market.[^31] In 2005 three investment firms bought the company for $6.6 billion and left it with the bill.[^3]",
   "art": "art/hero.svg",
   "artCaption": "Original illustration in the spirit of the 1980s storefronts: rainbow stripes, a brown mansard roof and a long neck at the door. Not an official asset or the trademarked character.",
   "motion": "bob",
