@@ -146,6 +146,82 @@
   {
    "id": 36,
    "text": "EchoStar Corp. — [Form 10-K, FY2025](https://www.sec.gov/Archives/edgar/data/1415404/000110465926021817/tmb-20251231x10k.htm), filed Mar 2, 2026."
+  },
+  {
+   "id": 37,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2001](https://www.sec.gov/Archives/edgar/data/1085734/000093066102000951/d10k.txt), filed Mar 29, 2002."
+  },
+  {
+   "id": 38,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2008](https://www.sec.gov/Archives/edgar/data/1085734/000119312509073613/d10k.htm), filed Apr 6, 2009."
+  },
+  {
+   "id": 39,
+   "text": "DISH Network Corp. — [Form 10-K, FY2011](https://www.sec.gov/Archives/edgar/data/1001082/000110465912011853/a11-31127_110k.htm), filed Feb 23, 2012."
+  },
+  {
+   "id": 40,
+   "text": "DISH Network Corp. — [Form 10-K, FY2012](https://www.sec.gov/Archives/edgar/data/1001082/000110465913011967/a13-1215_110k.htm), filed Feb 20, 2013."
+  },
+  {
+   "id": 41,
+   "text": "U.S. Patent and Trademark Office — [TSDR status record, BLOCKBUSTER word mark, registration 1771243](https://tsdr.uspto.gov/statusview/sn74313601), viewed Oct 10, 2026."
+  },
+  {
+   "id": 42,
+   "text": "U.S. Patent and Trademark Office — [TSDR status record, BLOCKBUSTER word mark, registration 3661761](https://tsdr.uspto.gov/statusview/sn77453895), viewed Oct 10, 2026."
+  },
+  {
+   "id": 43,
+   "text": "U.S. Patent and Trademark Office — [TSDR status record, BLOCKBUSTER torn-ticket logo, registration 5008368](https://tsdr.uspto.gov/statusview/sn85842359), viewed Oct 10, 2026."
+  },
+  {
+   "id": 44,
+   "text": "Hollywood Entertainment Corp. — [Form 10-K, FY2004](https://www.sec.gov/Archives/edgar/data/905895/000090589505000003/r10k-04.txt), filed Mar 17, 2005."
+  },
+  {
+   "id": 45,
+   "text": "Movie Gallery, Inc. — [Form 10-K, FY2004](https://www.sec.gov/Archives/edgar/data/925178/000110465905012029/a05-1900_110k.htm), filed Mar 18, 2005."
+  },
+  {
+   "id": 46,
+   "text": "Movie Gallery, Inc. — [Form 10-K, FY2006](https://www.sec.gov/Archives/edgar/data/925178/000092517807000005/r10k-fy06.txt), filed Mar 16, 2007."
+  },
+  {
+   "id": 47,
+   "text": "Blockbuster Inc. — [Form 10-K, FY2002](https://www.sec.gov/Archives/edgar/data/1085734/000093066103001225/d10k.htm), filed Mar 27, 2003."
+  },
+  {
+   "id": 48,
+   "text": "Movie Gallery, Inc. — [Form 10-K, FY2007](https://www.sec.gov/Archives/edgar/data/925178/000119312508255936/d10k.htm), filed Dec 18, 2008."
+  },
+  {
+   "id": 49,
+   "text": "Suzanne Roig, The Bulletin (Bend) — [Bend is home to the last remaining Blockbuster video store in the lower 48 states](https://bendbulletin.com/?p=693030), Mar 17, 2018."
+  },
+  {
+   "id": 50,
+   "text": "Seattle Met — [The Last Blockbuster Video Is Still Standing in Oregon](https://www.seattlemet.com/travel-and-outdoors/2024/05/last-blockbuster-video-bend-oregon)."
+  },
+  {
+   "id": 51,
+   "text": "DISH Network Corp. — [Press release, DISH Network Agrees to Acquire Blockbuster Assets (exhibit to Form 8-K)](https://www.sec.gov/Archives/edgar/data/1001082/000100108211000002/exhibit99_1.htm), Apr 6, 2011."
+  },
+  {
+   "id": 52,
+   "text": "CourtListener (Free Law Project) — [Search record for docket 10-14997, captioned BB Liquidating Inc., U.S. Bankruptcy Court, S.D.N.Y.](https://www.courtlistener.com/docket/4327200/bb-liquidating-inc/), record viewed Oct 10, 2026. Case metadata only: the docket page itself did not open in our checks, and we read no court document."
+  },
+  {
+   "id": 53,
+   "text": "Blockbuster Inc. — [Press release, Blockbuster Proposes Combination with Circuit City (exhibit to Form 8-K)](https://www.sec.gov/Archives/edgar/data/1085734/000119312508080365/dex991.htm), Apr 14, 2008."
+  },
+  {
+   "id": 54,
+   "text": "Sinan Kubba, Engadget — [Blockbuster UK closing remaining stores](https://www.engadget.com/2013/12/12/blockbuster-uk-closing-remaining-stores/), Dec 12, 2013."
+  },
+  {
+   "id": 55,
+   "text": "DISH Network Corp. — [Form 8-K, material impairments (Blockbuster UK administration)](https://www.sec.gov/Archives/edgar/data/1001082/000110465913011091/a13-5313_18k.htm), event date Feb 12, 2013, filed Feb 15, 2013."
   }
  ],
  "notes": [
@@ -180,6 +256,18 @@
   {
    "label": "Images",
    "text": "Screenshots are of Internet Archive captures.[^33] Photographs are from Wikimedia Commons under the licenses given in the gallery credits. Drawings are original illustrations, not official assets."
+  },
+  {
+   "label": "Derived: the store map",
+   "text": "Between the 2004 and 2009 state tables, franchised stores fell by more than half, (493 − 1,095) ÷ 1,095, and company-operated stores by about a quarter, (3,525 − 4,708) ÷ 4,708. All U.S. stores fell by about 31 percent, (4,018 − 5,803) ÷ 5,803. California lost the most stores, 681 − 468, and Montana the largest share, (8 − 1) ÷ 8. The inputs are the printed totals and state counts in the FY2004 and FY2009 10-Ks.[^5]"
+  },
+  {
+   "label": "Scope of the added charts",
+   "text": "The stock chart shows Class A high and low sale prices as printed in each year’s Form 10-K, not closing prices or total returns, and they are not adjusted for the special distribution of September 2004. The store counts for Blockbuster cover the United States and its territories, company-operated plus franchised, and exclude kiosks. Movie Gallery’s counts are consolidated totals that include Canada. Hollywood Video’s counts exclude Game Crazy departments. Dish’s counts after 2010 cover only the stores it operated and are not drawn on the chart.[^3][^5][^6][^37][^44][^45][^46]"
+  },
+  {
+   "label": "Not found",
+   "text": "We did not find how Blockbuster’s 2008 proposal for Circuit City ended.[^53] We did not find the date the bankruptcy case moved to Chapter 7; the CourtListener record is metadata, and its docket page did not open in our checks.[^52] Dish’s FY2013 10-K says Blockbuster had ceased all material operations as of December 31, 2013, and no source we found gives the date the last store closed.[^28] The Bend store’s own website could not be reached by script on October 10, 2026, so the latest report of the store we could read is Seattle Met’s.[^50] We found no source that names the parent of Blockbuster L.L.C. today."
   }
  ]
 }

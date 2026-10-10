@@ -119,5 +119,127 @@
    "text": "Dish closed the corporate stores by January 2014. Franchisees carried on, and since 2019 the Bend store has been the only one in the world.[^27][^29][^30]"
   }
  ],
- "published": "2026-10-03"
+ "published": "2026-10-03",
+ "kind": "chain",
+ "listed": [
+  {
+   "exchange": "NYSE",
+   "ticker": "BBI",
+   "from": "1999",
+   "to": "2010",
+   "ledger": [
+    "bb-001",
+    "bb-088",
+    "bb-122"
+   ]
+  }
+ ],
+ "signature": "map",
+ "factFile": [
+  {
+   "key": "was",
+   "label": "What it was",
+   "value": "A global provider of rental and retail movie and game entertainment, in the company’s own words at January 2, 2011",
+   "src": [],
+   "ledger": [
+    "bb-126"
+   ]
+  },
+  {
+   "key": "founded",
+   "label": "Founded",
+   "value": "First store opened in Dallas, Texas. The predecessor company, Blockbuster Entertainment Corporation, was incorporated in Delaware in 1982",
+   "when": "Oct 19, 1985",
+   "src": [
+    20,
+    1
+   ],
+   "ledger": [
+    "bb-096",
+    "bb-097"
+   ]
+  },
+  {
+   "key": "peak",
+   "label": "Peak",
+   "value": "9,094 stores worldwide, 5,803 of them in the United States",
+   "when": "Dec 31, 2004",
+   "src": [
+    6
+   ],
+   "ledger": [
+    "bb-098"
+   ]
+  },
+  {
+   "key": "end",
+   "label": "End",
+   "value": "A bankruptcy case, number 10-14997, was filed on Sep 23, 2010. Dish said Blockbuster had ceased all material operations as of Dec 31, 2013",
+   "when": "Sep 23, 2010",
+   "src": [
+    52,
+    28
+   ],
+   "ledger": [
+    "bb-112",
+    "bb-061"
+   ]
+  },
+  {
+   "key": "buyer",
+   "label": "Bought by",
+   "value": "Dish Network, which paid $320.6 million for most of the assets in a sale that closed on Apr 26, 2011",
+   "when": "Apr 26, 2011",
+   "src": [
+    13,
+    28
+   ],
+   "ledger": [
+    "bb-101",
+    "bb-066"
+   ]
+  },
+  {
+   "key": "nameOwner",
+   "label": "Owns the name",
+   "value": "Blockbuster L.L.C., a Colorado limited liability company in Englewood, Colorado, is the owner of record of the BLOCKBUSTER word mark. Dish’s FY2013 10-K, filed Feb 21, 2014, called Blockbuster L.L.C. its wholly-owned subsidiary. We found no source that names its parent today",
+   "asOf": "2026-10-10",
+   "src": [
+    41,
+    42,
+    28
+   ],
+   "ledger": [
+    "bb-069",
+    "bb-071",
+    "bb-067"
+   ]
+  },
+  {
+   "key": "remains",
+   "label": "Last store",
+   "value": "A franchise at 211 NE Revere Ave #3, Bend, Oregon. Seattle Met’s profile is the latest independent report of it we could read; we could not reach the store’s own website on Oct 10, 2026",
+   "asOf": "2026-10-10",
+   "recheck": "90d",
+   "src": [
+    50
+   ],
+   "ledger": [
+    "bb-107"
+   ]
+  },
+  {
+   "key": "remains",
+   "label": "Website",
+   "value": "blockbuster.com shows a holding page that says the company is working on rewinding your movie, with a link to Sling TV",
+   "asOf": "2026-10-10",
+   "recheck": "90d",
+   "src": [
+    32
+   ],
+   "ledger": [
+    "bb-106"
+   ]
+  }
+ ]
 }
