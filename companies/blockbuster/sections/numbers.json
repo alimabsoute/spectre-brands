@@ -77,6 +77,236 @@
    "source": "Year-end store counts from the selected financial data in Blockbuster’s 10-Ks: 1995–1999[^2], 2000[^3], 2001–2005[^6], 2006–2007[^8], 2008–2009[^9], 2010[^10]. The fiscal year ended in early January from 2007 onward."
   },
   {
+   "type": "storemap",
+   "title": "Blockbuster stores in the United States by state, December 2004 and January 2010",
+   "dates": [
+    "Dec 31, 2004",
+    "Jan 3, 2010"
+   ],
+   "states": {
+    "DC": [
+     7,
+     4
+    ],
+    "NC": [
+     157,
+     118
+    ],
+    "SC": [
+     79,
+     68
+    ],
+    "MA": [
+     128,
+     63
+    ],
+    "NH": [
+     19,
+     18
+    ],
+    "WV": [
+     19,
+     16
+    ],
+    "ND": [
+     6,
+     6
+    ],
+    "PA": [
+     207,
+     142
+    ],
+    "RI": [
+     27,
+     14
+    ],
+    "SD": [
+     16,
+     7
+    ],
+    "CT": [
+     60,
+     48
+    ],
+    "MS": [
+     46,
+     33
+    ],
+    "CA": [
+     681,
+     468
+    ],
+    "NJ": [
+     157,
+     110
+    ],
+    "NM": [
+     35,
+     7
+    ],
+    "WA": [
+     136,
+     103
+    ],
+    "LA": [
+     99,
+     70
+    ],
+    "MN": [
+     89,
+     50
+    ],
+    "TN": [
+     108,
+     80
+    ],
+    "WI": [
+     83,
+     61
+    ],
+    "AR": [
+     20,
+     16
+    ],
+    "CO": [
+     131,
+     89
+    ],
+    "DE": [
+     15,
+     13
+    ],
+    "IL": [
+     253,
+     161
+    ],
+    "KY": [
+     81,
+     59
+    ],
+    "MD": [
+     135,
+     66
+    ],
+    "MI": [
+     191,
+     130
+    ],
+    "MO": [
+     110,
+     81
+    ],
+    "NE": [
+     38,
+     22
+    ],
+    "NY": [
+     295,
+     173
+    ],
+    "OK": [
+     73,
+     62
+    ],
+    "VA": [
+     139,
+     98
+    ],
+    "AL": [
+     76,
+     48
+    ],
+    "AZ": [
+     134,
+     114
+    ],
+    "FL": [
+     434,
+     337
+    ],
+    "GA": [
+     211,
+     140
+    ],
+    "IN": [
+     122,
+     85
+    ],
+    "MT": [
+     8,
+     1
+    ],
+    "VT": [
+     8,
+     8
+    ],
+    "WY": [
+     10,
+     5
+    ],
+    "AK": [
+     17,
+     16
+    ],
+    "HI": [
+     25,
+     22
+    ],
+    "KS": [
+     57,
+     49
+    ],
+    "NV": [
+     57,
+     39
+    ],
+    "OR": [
+     99,
+     76
+    ],
+    "ID": [
+     16,
+     4
+    ],
+    "ME": [
+     6,
+     6
+    ],
+    "TX": [
+     533,
+     399
+    ],
+    "IA": [
+     48,
+     21
+    ],
+    "OH": [
+     194,
+     134
+    ],
+    "UT": [
+     64,
+     43
+    ]
+   },
+   "unknown": [
+    44,
+    15
+   ],
+   "totals": [
+    5803,
+    4018
+   ],
+   "note": "Company-operated plus franchised stores in the United States and its territories, from the state tables in the FY2004 and FY2009 10-Ks. The grid has no tile for Guam, Puerto Rico or the U.S. Virgin Islands, so their stores are the unknown bucket: 44 in 2004 and 15 in 2009. No state and not the District of Columbia gained stores between the two tables. Franchised stores fell by more than half, from 1,095 to 493, and company-operated stores by about a quarter, from 4,708 to 3,525. California lost the most stores, 681 to 468, and Montana the largest share, 8 to 1 (all derived from the two tables). The 2004 company-operated count includes 61 specialty game stores. The FY2010 10-K has no state table.",
+   "src": [
+    5
+   ],
+   "ledger": [
+    "bb-048",
+    "bb-053"
+   ]
+  },
+  {
    "kind": "counters",
    "title": "The balance sheet at the split",
    "items": [

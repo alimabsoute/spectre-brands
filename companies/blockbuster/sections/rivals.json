@@ -86,6 +86,166 @@
    "source": "Company filings and press as cited. Sparklines: Blockbuster year-end stores[^2][^6][^8][^9][^10]; Netflix annual revenue 2002–2010[^21][^22]; Redbox (Coinstar DVD Services) revenue 2008–2010[^24]."
   },
   {
+   "type": "rivalchart",
+   "title": "Store counts at Blockbuster, Hollywood Video and Movie Gallery, 1999–2010",
+   "metric": "Stores at fiscal year end",
+   "unit": "stores",
+   "series": [
+    {
+     "name": "Blockbuster (United States and territories, company-operated plus franchised)",
+     "points": [
+      {
+       "year": 1999,
+       "value": 4793,
+       "ledger": "bb-047"
+      },
+      {
+       "year": 2000,
+       "value": 5191,
+       "ledger": "bb-054"
+      },
+      {
+       "year": 2001,
+       "value": 5374,
+       "ledger": "bb-055"
+      },
+      {
+       "year": 2002,
+       "value": 5566,
+       "ledger": "bb-056"
+      },
+      {
+       "year": 2003,
+       "value": 5670,
+       "ledger": "bb-057"
+      },
+      {
+       "year": 2004,
+       "value": 5803,
+       "ledger": "bb-048"
+      },
+      {
+       "year": 2005,
+       "value": 5696,
+       "ledger": "bb-049"
+      },
+      {
+       "year": 2006,
+       "value": 5194,
+       "ledger": "bb-050"
+      },
+      {
+       "year": 2007,
+       "value": 4855,
+       "ledger": "bb-051"
+      },
+      {
+       "year": 2008,
+       "value": 4585,
+       "ledger": "bb-052"
+      },
+      {
+       "year": 2009,
+       "value": 4018,
+       "ledger": "bb-053"
+      },
+      {
+       "year": 2010,
+       "value": 3090,
+       "ledger": "bb-058"
+      }
+     ]
+    },
+    {
+     "name": "Hollywood Video (stores only, to its 2004 10-K)",
+     "points": [
+      {
+       "year": 2000,
+       "value": 1819,
+       "ledger": "bb-075"
+      },
+      {
+       "year": 2001,
+       "value": 1801,
+       "ledger": "bb-075"
+      },
+      {
+       "year": 2002,
+       "value": 1831,
+       "ledger": "bb-075"
+      },
+      {
+       "year": 2003,
+       "value": 1920,
+       "ledger": "bb-075"
+      },
+      {
+       "year": 2004,
+       "value": 2006,
+       "ledger": "bb-075"
+      }
+     ]
+    },
+    {
+     "name": "Movie Gallery (consolidated, includes Canada; includes Hollywood Video from 2005)",
+     "points": [
+      {
+       "year": 2000,
+       "value": 1020,
+       "ledger": "bb-078"
+      },
+      {
+       "year": 2001,
+       "value": 1415,
+       "ledger": "bb-078"
+      },
+      {
+       "year": 2002,
+       "value": 1784,
+       "ledger": "bb-078"
+      },
+      {
+       "year": 2003,
+       "value": 2158,
+       "ledger": "bb-078"
+      },
+      {
+       "year": 2004,
+       "value": 2482,
+       "ledger": "bb-078"
+      },
+      {
+       "year": 2005,
+       "value": 4749,
+       "ledger": "bb-080"
+      },
+      {
+       "year": 2006,
+       "value": 4642,
+       "ledger": "bb-080"
+      },
+      {
+       "year": 2007,
+       "value": 3900,
+       "ledger": "bb-083"
+      }
+     ]
+    }
+   ],
+   "note": "Year labels are fiscal years. Blockbuster’s points for 2007 to 2010 are January 6, 2008, January 4, 2009, January 3, 2010 and January 2, 2011, and its counts exclude kiosks. Hollywood Video’s counts exclude its Game Crazy departments, and its series stops with its FY2004 10-K; that says nothing about later filings. Movie Gallery’s 2004 point is January 2, 2005. Its 2005 total includes Hollywood Video, which it bought that year, so the step from 2004 to 2005 is an acquisition, not growth. Its 2007 point is the company’s own figure of approximately 3,900 at January 6, 2008. The three scopes differ, so read the lines as trends, not as a ranking.",
+   "src": [
+    3,
+    5,
+    6,
+    37,
+    44,
+    45,
+    46,
+    47,
+    48
+   ]
+  },
+  {
    "kind": "chart",
    "id": "subsChart",
    "title": "Netflix subscribers against Blockbuster Online",
@@ -211,6 +371,10 @@
   {
    "kind": "note",
    "body": "Blockbuster tried to buy Hollywood Entertainment in early 2005, offering $11.50 in cash and $3.00 in stock per share. It let the offer expire on March 24, 2005, citing “the unlikely resolution of the Company’s request for regulatory clearance on an acceptable timetable.”[^5]"
+  },
+  {
+   "kind": "note",
+   "body": "Hollywood Entertainment, the chain Blockbuster bid for, was profitable when the offer lapsed. Its FY2004 10-K reports restated net income of $71.3M on revenue of $1.78B for 2004, and long-term obligations, including the current portion, of $351.3M at the end of that year.[^44] Blockbuster’s own 2004 result is in The numbers."
   }
  ]
 }
