@@ -8,13 +8,13 @@
    "image": "img/logo-2000.avif",
    "date": "Feb 2000",
    "caption": "The pets.com logo, cropped from the archived home page.",
-   "credit": "Cropped from an Internet Archive capture of pets.com. Shown for commentary; trademarks belong to their owners."
+   "credit": "Cropped from an Internet Archive capture of the pets.com home page. Shown for commentary; trademarks belong to their owners."
   },
   {
    "image": "img/ad-2000-sock-puppet.avif",
    "date": "Mar 2000",
    "caption": "The sock puppet as it appeared on the site.",
-   "credit": "Cropped from an Internet Archive capture of pets.com. Shown for commentary; trademarks belong to their owners."
+   "credit": "Cropped from an Internet Archive capture of pets.com. Shown for commentary; the puppet and the name belong to their owners."
   },
   {
    "image": "img/archive-2000-03-puppet-gear.avif",
@@ -37,7 +37,7 @@
   {
    "art": "art/shipping-box.svg",
    "title": "The problem.",
-   "caption": "Forty pounds of dog food in a box, shipped below cost."
+   "caption": "A box holding forty pounds of dog food, shipped below cost."
   }
  ],
  "recreation": {
