@@ -11,6 +11,16 @@
   const dataEl = $('#bo-data');
   window.BO = { $, $$, reduce, load, data: dataEl ? JSON.parse(dataEl.textContent) : {} };
 
+  let v2Module;
+  const v2 = () => v2Module || (v2Module = import('/assets/js/v2.js' + V));
+  if ($('.srcs, .glossary-button, [data-scrolly], [data-animated-timeline]')) {
+    near($('main.company'), () => v2());
+    document.addEventListener('click', e => {
+      const link = e.target.closest('.srcs');
+      if (link && !v2Module && !e.metaKey && !e.ctrlKey && !e.shiftKey) { e.preventDefault(); v2().then(m => m.openSources(link)).catch(() => { location.hash = 'sources'; }); }
+    }, true);
+  }
+
   // ---- reveal on scroll (content is visible without JS; see .js .rv in base.css) ----
   const targets = $$('.rv, .info, .cod');
   if ('IntersectionObserver' in window && !reduce) {

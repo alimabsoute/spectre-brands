@@ -50,7 +50,7 @@
     $('tlFill').style.width = (steps.length > 1 ? i / (steps.length - 1) * 100 : 0) + '%';
     const hl = new Set(s.pins || []);
     nodes.forEach(n => { n.state = stateOf(n.p, s.date); n.hl = hl.has(n.p.id); });
-    $('stepCard').innerHTML = `<div class="sc-k">Step ${i + 1} of ${steps.length} · <b>${esc(s.label)}</b></div><h4>${inl(s.title)}</h4><p>${inl(s.text)}${fnl(s.src)}</p>${s.note ? `<p class="sc-note">${esc(s.note.text.join(' '))}</p>` : ''}${s.estimate ? `<p class="sc-est">${inl(s.estimate)}</p>` : ''}<p class="sc-tl"><a href="#timeline">Find this date in the timeline</a></p>`;
+    $('stepCard').innerHTML = `<div class="sc-k">Step ${i + 1} of ${steps.length} · <b>${esc(s.label)}</b></div><h4>${inl(s.title)}</h4><p>${document.querySelector(`[data-map-step="${i}"]`)?.innerHTML || inl(s.text) + fnl(s.src)}</p>${s.note ? `<p class="sc-note">${esc(s.note.text.join(' '))}</p>` : ''}${s.estimate ? `<p class="sc-est">${inl(s.estimate)}</p>` : ''}<p class="sc-tl"><a href="#timeline">Find this date in the timeline</a></p>`;
     const st = $('mapStat');
     if (s.stat) { st.innerHTML = `<b>${esc(s.stat.value)}</b><span>${inl(s.stat.label)}</span>`; st.classList.add('on'); } else st.classList.remove('on');
     if (states) paintLayer(s.layer);
@@ -65,7 +65,7 @@
   // --- the place panel: what a pin is, in words ---
   function place(i) {
     sel = i; const n = nodes[i], p = n && n.p;
-    $('placeCard').innerHTML = p ? `<div class="sc-k">${n.state === 'closed' ? 'Closed by this date' : 'On the map'}${p.when ? ` · <b>${esc(p.when)}</b>` : ''}</div><h4>${inl(p.title)}</h4><p>${inl(p.text)}${fnl(p.src)}</p>` : '<div class="sc-k">Places</div><p>Pick a pin to read about that place.</p>';
+    $('placeCard').innerHTML = p ? `<div class="sc-k">${n.state === 'closed' ? 'Closed by this date' : 'On the map'}${p.when ? ` · <b>${esc(p.when)}</b>` : ''}</div><h4>${inl(p.title)}</h4><p>${document.querySelector(`[data-map-pin="${p.id}"] p`)?.innerHTML || inl(p.text) + fnl(p.src)}</p>` : '<div class="sc-k">Places</div><p>Pick a pin to read about that place.</p>';
     layout();
   }
 

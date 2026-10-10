@@ -5,6 +5,7 @@
 //   node scripts/facts.mjs --relaxed  same, but numbers compare as a set (a fact already on the page may be restated)
 //   node scripts/facts.mjs            compare the current content with facts/ and exit 1 on any difference
 import fs from 'node:fs'; import path from 'node:path';
+import { checkAdditive } from '../lib/facts-additive.mjs';
 const ROOT = path.join(path.dirname(new URL(import.meta.url).pathname), '..');
 const walk = d => fs.readdirSync(d, { withFileTypes: true }).flatMap(e => e.isDirectory() ? walk(path.join(d, e.name)) : e.name.endsWith('.json') ? [path.join(d, e.name)] : []);
 const strings = (o, out = []) => { if (typeof o === 'string') out.push(o); else if (Array.isArray(o)) o.forEach(v => strings(v, out)); else if (o && typeof o === 'object') Object.values(o).forEach(v => strings(v, out)); return out; };
@@ -28,6 +29,13 @@ function extract(files) {
 const units = fs.readdirSync(path.join(ROOT, 'companies')).filter(s => !s.startsWith('_') && fs.statSync(path.join(ROOT, 'companies', s)).isDirectory())
   .map(s => [s, walk(path.join(ROOT, 'companies', s))]).concat([['site', [path.join(ROOT, 'site.json')]]]);
 const dir = path.join(ROOT, 'facts');
+if (process.argv.includes('--additive')) {
+  if (process.argv.includes('--write') || process.argv.includes('--relaxed')) throw new Error('--additive cannot be combined with --write or --relaxed');
+  const errors = checkAdditive(path.resolve(ROOT), units);
+  errors.slice(0, 80).forEach(e => console.error(e));
+  console.log(errors.length ? `facts additive: ${errors.length} unsupported changes` : `facts additive: no unsupported changes (${units.length} units)`);
+  process.exit(errors.length ? 1 : 0);
+}
 if (process.argv.includes('--write')) {
   fs.mkdirSync(dir, { recursive: true });
   for (const [s, files] of units) fs.writeFileSync(path.join(dir, `${s}.json`), JSON.stringify(extract(files), null, 1) + '\n');

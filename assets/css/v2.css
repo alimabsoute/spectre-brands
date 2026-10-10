@@ -1,0 +1,32 @@
+sup.fn{display:none}
+.citation-numbers sup.fn{display:inline}
+.srcs{display:inline-block;margin-left:var(--s-1);padding:var(--s-1) var(--s-2);font:500 var(--t-xs)/1.4 var(--sans);color:var(--brand);border:1px solid var(--line-2);border-radius:var(--r-1);vertical-align:baseline;text-decoration:none;white-space:nowrap}
+.srcs:hover,.srcs:focus-visible{background:var(--wash);border-color:var(--brand)}
+.source-dialog{width:min(42rem,calc(100% - 2 * var(--gutter)));max-height:80vh;overflow:auto;color:var(--ink);background:var(--card);border:1px solid var(--line-2);border-radius:var(--r-2);padding:var(--s-5);box-shadow:var(--shadow-3)}
+.source-dialog::backdrop{background:color-mix(in srgb,var(--ink) 45%,transparent)}
+.source-dialog-head{display:flex;align-items:start;gap:var(--s-4);justify-content:space-between}
+.source-dialog h2{font-size:var(--t-xl)}
+.source-dialog button,.scrolly-controls button{font:inherit;color:var(--ink);background:var(--wash);border:1px solid var(--line-2);border-radius:var(--r-1);padding:var(--s-2) var(--s-3);cursor:pointer}
+.source-dialog li{margin:var(--s-4) 0;overflow-wrap:anywhere;list-style:none}
+.source-dialog ol{padding:0}
+.source-number{font-weight:700}.source-jump{display:block;font:var(--t-sm)/1.6 var(--sans);margin-top:var(--s-2)}
+.source-backs{font:var(--t-xs)/1.6 var(--sans);margin-top:var(--s-2);color:var(--mute);overflow-wrap:anywhere}
+.citation-toggle{font:var(--t-sm)/1.6 var(--sans);margin-bottom:var(--s-5)}
+.factfile{margin:var(--s-5) 0;font:var(--t-md)/1.5 var(--sans);border-top:1px solid var(--line-2);border-bottom:1px solid var(--line-2)}
+.factfile-row{display:grid;grid-template-columns:minmax(7rem,1fr) 2fr;gap:var(--s-3);padding:var(--s-2) 0;border-bottom:1px solid var(--line)}
+.factfile-row:last-child{border:0}.factfile dt{color:var(--mute)}.factfile dd{margin:0;overflow-wrap:anywhere}.factfile time{display:block;font-size:var(--t-xs);color:var(--mute)}
+.method-notes,.more-whatifs{margin:var(--s-5) 0}.method-notes summary,.more-whatifs summary{cursor:pointer}
+.fork-pair{margin-bottom:var(--s-6)}.fork-pair>h3{margin-bottom:var(--s-4)}.fork-pair-columns{display:grid;grid-template-columns:1fr 1fr;gap:var(--s-5)}.fork-pair .whatif{border-left:1px solid var(--line-2);padding-left:var(--s-5)}
+.v2-viz{margin:var(--s-5) 0;padding:var(--s-5);max-width:100%;min-width:0}.v2-viz figcaption{font:var(--t-md)/1.6 var(--sans);margin-top:var(--s-3)}
+.v2-svg{display:block;width:100%;height:auto;overflow:visible;font:12px var(--sans);color:var(--ink)}.v2-svg text{fill:var(--ink)}
+.v2-grid{fill:none;stroke:var(--line-2);stroke-width:1}.v2-range{fill:none;stroke:var(--brand);stroke-width:4}.v2-event{fill:none;stroke:var(--mute);stroke-dasharray:3 4}
+.v2-point{fill:var(--series);stroke:var(--card);stroke-width:1.5}.v2-series{fill:none;stroke:var(--series);stroke-width:2}.v2-legend{display:flex;flex-wrap:wrap;gap:var(--s-3);list-style:none;padding:0;font:var(--t-sm)/1.5 var(--sans)}.v2-legend span{color:var(--series);font-weight:700}
+.v2-map-pair{display:grid;grid-template-columns:1fr 1fr;gap:var(--s-4)}.v2-tile rect{stroke:var(--line-2)}.v2-tile text{font-weight:600;fill:var(--ink);paint-order:stroke;stroke:var(--card);stroke-width:2px;stroke-linejoin:round}.v2-tile.unknown rect{fill:var(--wash)!important;stroke-dasharray:3 2}.v2-map-scale,.v2-map-pair p{font:var(--t-sm)/1.5 var(--sans)}
+.now-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,16rem),1fr));gap:var(--s-4)}.now-card{padding:var(--s-5);border:1px solid var(--line-2);border-radius:var(--r-2);background:var(--card)}.now-type,.now-checked{font:var(--t-sm)/1.5 var(--sans);color:var(--mute)}.stale{display:inline-block;color:var(--warn-ink);background:var(--warn-bg);border:1px solid var(--warn-line);padding:var(--s-1) var(--s-2);border-radius:var(--r-1)}
+.glossary-term{position:relative}.glossary-button{display:none;background:none;border:0;border-bottom:1px dotted var(--mute);padding:0;color:inherit;font:inherit;cursor:pointer}.v2-ready .glossary-button{display:inline}.v2-ready .glossary-fallback{display:none}.glossary-pop{position:absolute;left:0;bottom:100%;width:min(18rem,70vw);padding:var(--s-3);background:var(--card);color:var(--ink);border:1px solid var(--line-2);border-radius:var(--r-1);box-shadow:var(--shadow-2);font:var(--t-sm)/1.5 var(--sans);z-index:20}.glossary-list>div{margin-bottom:var(--s-5);scroll-margin-top:8rem}.glossary-list dt{font-weight:700}.glossary-list dd{margin:var(--s-2) 0}
+.scrolly{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:var(--s-5);align-items:start}.scrolly-stage{position:sticky;top:8rem}.scrolly .story .chap{display:block;grid-template-columns:1fr}.scrolly .chap-vis{margin-bottom:var(--s-4)}.scrolly-controls{display:flex;gap:var(--s-2);flex-wrap:wrap}.scrolly-controls p{flex-basis:100%;font:var(--t-sm)/1.5 var(--sans)}.scrolly .stage-active{stroke:var(--ink);stroke-width:4;r:7}.scrolly .stage-current{border-left:2px solid var(--brand);padding-left:var(--s-3)}.scrolly-static .scrolly-stage{position:static}
+.timeline-scrub{display:flex;align-items:center;flex-wrap:wrap;gap:var(--s-3);font:var(--t-sm)/1.5 var(--sans)}.timeline-scrub input{flex:1;min-width:6rem;accent-color:var(--brand)}.timeline-scrub progress{width:100%;height:var(--s-1);accent-color:var(--brand)}.timeline-animated .tlx-dot{opacity:.4;transition:opacity var(--d-2) var(--ease)}.timeline-animated .tlx-dot.timeline-reached{opacity:1}
+[hidden]{display:none!important}
+@media(max-width:700px){.v2-map-pair,.fork-pair-columns,.scrolly{grid-template-columns:1fr}.fork-pair .whatif{border-left:0;padding-left:0;border-top:1px solid var(--line-2);padding-top:var(--s-4)}.scrolly-stage{position:static}.v2-viz{padding:var(--s-3)}.glossary-pop{position:fixed;left:var(--gutter);right:var(--gutter);bottom:var(--s-5);width:auto}.factfile-row{grid-template-columns:minmax(6rem,1fr) 2fr}}
+@media(prefers-reduced-motion:reduce){.timeline-animated .tlx-dot{transition:none;opacity:1}.scrolly-stage{position:static}}
+@media print{sup.fn{display:inline!important}.srcs,.citation-toggle,.source-dialog,.source-mapping,.source-backs,.scrolly-controls,.timeline-scrub{display:none!important}.scrolly-stage{position:static}.scrolly{display:block}.glossary-button{border:0}}

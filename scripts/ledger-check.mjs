@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Checks research/<slug>/claims.jsonl: schema, quote-in-snapshot match, snapshot hash, cross-vendor verification.
 import fs from 'node:fs'; import path from 'node:path'; import crypto from 'node:crypto';
+import { ledgerReferences } from '../lib/ledger.mjs';
 const SNAP = process.env.SNAP_DIR || '/workspace/spectre-research';
 const vendor = m => /claude|opus|sonnet/i.test(m||'') ? 'anthropic' : /gpt|codex|o\d/i.test(m||'') ? 'openai' : /grok/i.test(m||'') ? 'xai' : 'unknown';
 const norm = s => s.normalize('NFKC').replace(/[\u2018\u2019]/g,"'").replace(/[\u201c\u201d]/g,'"').replace(/[\u2013\u2014]/g,'-').replace(/\s+/g,' ').trim().toLowerCase();
@@ -29,4 +30,5 @@ for (const slug of slugs) {
   });
 }
 console.log(`ledger-check: ${n} entries`, JSON.stringify(summary));
+for (const error of ledgerReferences(path.resolve('.'))) { console.error(error); bad++; }
 if (bad) { console.error(`ledger-check: ${bad} errors`); process.exit(1); }

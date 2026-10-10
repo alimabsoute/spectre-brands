@@ -7,7 +7,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
-import { SECTIONS, ORDER, TIERS, GROUPS } from './lib/registry.mjs';
+import { SECTIONS, resolveSections, TIERS, GROUPS } from './lib/registry.mjs';
 import { head, masthead, pageNav, footer, scripts } from './lib/layout.mjs';
 import { overview, section, heroImages, actImages, actBreak } from './lib/sections.mjs';
 import { home } from './lib/home.mjs';
@@ -23,6 +23,10 @@ import { row, ledgerHead, decadeOf } from './lib/cards.mjs';
 import { imageInfo, imageKind, strength, picture, PROVIDERS, VIDEO_TYPES } from './lib/media.mjs';
 import { json, esc } from './lib/md.mjs';
 import { sketch } from './lib/sketch.mjs';
+import { citations } from './lib/citations.mjs';
+import { glossaryLinks, glossaryPage } from './lib/glossary.mjs';
+import { ledgerReferences, readLedger } from './lib/ledger.mjs';
+import { connectionsFor } from './lib/viz/connections.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const argv = process.argv.slice(2);
@@ -32,6 +36,11 @@ const ONLY = flag('--only') ? flag('--only').split(',') : null;
 const rd = p => fs.readFileSync(p, 'utf8');
 const readJSON = p => { try { return JSON.parse(rd(p)); } catch (e) { throw new Error(`Invalid JSON in ${path.relative(ROOT, p)}: ${e.message}`); } };
 const errors = [], warnings = [];
+const ledger = readLedger(ROOT);
+const ledgerErrors = ledgerReferences(ROOT, ledger);
+if (ledgerErrors.length) throw new Error(ledgerErrors.join('\n'));
+const siteData = Object.fromEntries(['glossary', 'entities', 'edges'].map(key => { const p = path.join(ROOT, 'data', `${key}.json`); return [key, fs.existsSync(p) ? readJSON(p) : []]; }));
+if (argv.includes('--fixture')) Object.assign(siteData, readJSON(path.join(ROOT, 'companies/_template/v2.json')));
 const write = (rel, body) => { const p = path.join(OUT, rel); fs.mkdirSync(path.dirname(p), { recursive: true }); fs.writeFileSync(p, body); };
 
 function copyDir(src, dst) {
@@ -90,7 +99,7 @@ function validate(c) {
 }
 
 function makeCtx(c) {
-  const ctx = { slug: c.slug, meta: { name: c.name, years: c.years, died: c.died }, gallery: c.sections?.gallery?.archive || [], data: { charts: {} }, count: { infographics: 0 }, inlineVideos: new Set() };
+  const ctx = { warn: message => warnings.push(`${c.slug}: ${message}`), slug: c.slug, meta: { name: c.name, years: c.years, died: c.died }, gallery: c.sections?.gallery?.archive || [], data: { charts: {} }, count: { infographics: 0 }, inlineVideos: new Set() };
   ctx.videos = Object.fromEntries((c.sections?.videos?.videos || []).map(v => [v.id, v]));
   ctx.art = file => {
     if (!file) return '';
@@ -110,7 +119,7 @@ function makeCtx(c) {
 
 function renderCompany(c, all, site, V) {
   const ctx = makeCtx(c);
-  const used = ['overview', ...ORDER.filter(id => c.sections[id])];
+  const used = ['overview', ...resolveSections(c)];
   const labels = Object.fromEntries(used.filter(id => c.sections[id]).map(id => [id, c.sections[id].label || SECTIONS[id].label]));
   for (const id of used.slice(1)) c.sections[id].label = labels[id];
   let body = overview(c, ctx, site);
@@ -124,6 +133,7 @@ function renderCompany(c, all, site, V) {
     if (opens) body += actBreak(ctx, { id: g, label: acts.find(a => a.id === g).label, n: acts.findIndex(a => a.id === g) + 1, total: acts.length, parts: used.filter(x => SECTIONS[x].group === g).map(x => labels[x]), image: photoFor[g] });
     try { body += section(id, c.sections[id], ctx); } catch (e) { errors.push(`${c.slug}/${id}: ${e.message}`); }
   }
+  body = citations(glossaryLinks(body, siteData.glossary, c.glossaryOff || []), c.sections.sources.list);
   c.stats = { infographics: ctx.count.infographics + (c.sections.cause?.causes?.reduce((a, x) => a + x.weight, 0) === 100 ? 1 : 0), videos: Object.keys(ctx.videos).length, inlineVideos: ctx.inlineVideos.size, charts: Object.keys(ctx.data.charts).length };
   const needsCharts = Object.keys(ctx.data.charts).length > 0, needsMap = !!ctx.data.map;
   const nasdaq = JSON.stringify(ctx.data).includes('"ref":"nasdaq"') ? readJSON(path.join(ROOT, 'data/nasdaq.json')) : null;
@@ -132,7 +142,7 @@ function renderCompany(c, all, site, V) {
   const og = fs.existsSync(path.join(ROOT, 'og', `${c.slug}.png`)) ? `/og/${c.slug}.png` : '/og/default.png';
   const ld = { '@context': 'https://schema.org', '@type': 'Article', headline: c.title, description: c.description, image: [site.url + og], datePublished: c.published || site.published, dateModified: c.updated || site.updated || c.published || site.published,
     author: { '@type': 'Organization', name: 'Spectre Brands', url: site.url + '/' }, publisher: { '@type': 'Organization', name: 'Spectre Brands', logo: { '@type': 'ImageObject', url: site.url + '/apple-touch-icon.png' } },
-    mainEntityOfPage: `${site.url}/${c.slug}/`, about: { '@type': 'Organization', name: c.name }, articleSection: site.categories.find(k => k.id === c.category)?.label };
+    mainEntityOfPage: `${site.url}/${c.slug}/`, about: { '@type': ['product', 'hardware', 'service'].includes(c.kind) ? 'Brand' : 'Organization', name: c.name }, articleSection: site.categories.find(k => k.id === c.category)?.label };
   // Structured data: the Article plus a breadcrumb. (An FAQPage was tried and dropped: its questions are not shown on the page.)
   const cat = site.categories.find(k => k.id === c.category);
   const crumbs = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
@@ -153,15 +163,16 @@ function renderCompany(c, all, site, V) {
 fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(OUT, { recursive: true });
 const site = readJSON(path.join(ROOT, 'site.json'));
-const slugs = fs.readdirSync(path.join(ROOT, 'companies'), { withFileTypes: true }).filter(d => d.isDirectory() && !d.name.startsWith('_') && (!ONLY || ONLY.includes(d.name))).map(d => d.name);
+const slugs = fs.readdirSync(path.join(ROOT, 'companies'), { withFileTypes: true }).filter(d => d.isDirectory() && (!d.name.startsWith('_') || (argv.includes('--fixture') && d.name === '_template')) && (!ONLY || ONLY.includes(d.name))).map(d => d.name);
 const companies = slugs.map(s => loadCompany(s, site)).sort((a, b) => String(a.number).localeCompare(String(b.number)));
 if (errors.length) { errors.forEach(e => console.error('error:', e)); process.exit(1); }
+for (const c of companies) { const connection = connectionsFor(c, siteData, companies, ROOT, ledger); if (connection) c.sections.connections = connection; }
 for (const k of site.categories) k.n = companies.filter(c => c.category === k.id).length;
 const dupes = companies.map(c => c.number).filter((n, i, a) => a.indexOf(n) !== i);
 if (dupes.length) errors.push(`duplicate company "number": ${[...new Set(dupes)].join(', ')}`);
 
 // One stylesheet (tokens first), versioned by content hash so deploys never serve a stale file.
-const CSS = ['tokens.css', 'base.css', 'modules.css', 'infographics.css', 'map.css', 'home.css'].map(f => rd(path.join(ROOT, 'assets/css', f))).join('\n');
+const CSS = ['tokens.css', 'base.css', 'modules.css', 'infographics.css', 'map.css', 'home.css', 'v2.css'].map(f => rd(path.join(ROOT, 'assets/css', f))).join('\n');
 copyDir(path.join(ROOT, 'assets'), path.join(OUT, 'assets'));
 fs.rmSync(path.join(OUT, 'assets/css'), { recursive: true, force: true });
 // light minification: comments and insignificant whitespace only
@@ -204,6 +215,7 @@ for (const k of site.categories.filter(k => k.n)) {
 }
 page('/about/', { title: 'About and methodology · Spectre Brands', description: 'How Spectre Brands chooses sources, what Dead and Ghost mean, the data-honesty rules every post-mortem follows, and the trademark and fair-use position.', body: aboutPage(site, companies), cls: 'about',
   ld: { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Spectre Brands', item: site.url + '/' }, { '@type': 'ListItem', position: 2, name: 'About and methodology', item: site.url + '/about/' }] } });
+page('/glossary/', { title: 'Glossary · Spectre Brands', description: 'Terms used in the Spectre Brands post-mortems.', body: glossaryPage(siteData.glossary), cls: 'about' });
 // Isolated design review pages; deliberately absent from production navigation, search and sitemap.
 // Production (VERCEL_ENV=production) skips them entirely; on branch previews they are built, noindexed and unlinked.
 const PREVIEWS = process.env.VERCEL_ENV !== 'production' && !process.argv.includes('--no-previews');
@@ -237,7 +249,7 @@ if (PREVIEWS) fnPreview({ OUT, write });
 const thumbOf = c => { const i = c.card.logo ? makeCtx(c).image(c.card.logo) : leadImage(c)?.i; return i ? i.fallback || i.src : ''; };
 const featured = [companies.find(c => c.slug === site.featured), ...companies].filter((c, i, a) => c && a.indexOf(c) === i).slice(0, 5);
 write('search.json', JSON.stringify(companies.map(c => ({ g: 'Brands', r: c.tier, i: thumbOf(c), f: featured.includes(c) ? 1 : 0, n: c.name, u: `/${c.slug}/`, t: c.tierLabel, c: site.categories.find(k => k.id === c.category).label, y: c.years, d: decadeOf(c.died), k: site.causes.find(k => k.id === c.cause).label, b: c.card.blurb, p: c.place })).concat(site.categories.filter(k => k.n).map(k => ({ g: 'Categories', n: k.label, u: `/category/${k.id}/`, t: 'Category', c: '', y: `${k.n} post-mortems`, b: k.blurb, d: '', k: '', p: '' })), [{ g: 'Pages', n: 'About and methodology', u: '/about/', t: 'Page', c: '', y: '', b: 'Sources, Dead vs Ghost, data-honesty rules, trademarks and fair use.', d: '', k: '', p: '' }])));
-const urls = ['/', '/about/', ...site.categories.filter(k => k.n).map(k => `/category/${k.id}/`), ...companies.map(c => `/${c.slug}/`)];
+const urls = ['/', '/about/', '/glossary/', ...site.categories.filter(k => k.n).map(k => `/category/${k.id}/`), ...companies.map(c => `/${c.slug}/`)];
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(u => `<url><loc>${site.url}${u}</loc></url>`).join('\n')}\n</urlset>\n`);
 write('robots.txt', `User-agent: *\nAllow: /\nDisallow: /preview/\n\nSitemap: ${site.url}/sitemap.xml\n`);
 
