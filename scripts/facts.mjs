@@ -2,6 +2,7 @@
 // Frozen-facts guard for copy edits. For each brand (companies/<slug>/**.json) and site.json it extracts the
 // multiset of numbers, footnote markers ([^n]) and direct quotations (“…”), and the per-file footnote counts.
 //   node scripts/facts.mjs --write    write facts/<slug>.json (the frozen baseline)
+//   node scripts/facts.mjs --relaxed  same, but numbers compare as a set (a fact already on the page may be restated)
 //   node scripts/facts.mjs            compare the current content with facts/ and exit 1 on any difference
 import fs from 'node:fs'; import path from 'node:path';
 const ROOT = path.join(path.dirname(new URL(import.meta.url).pathname), '..');
@@ -37,7 +38,9 @@ const diffBag = (a, b) => { const out = []; for (const k of new Set([...Object.k
 for (const [s, files] of units) {
   const f = path.join(dir, `${s}.json`); if (!fs.existsSync(f)) { console.log(`${s}: no frozen facts`); bad++; continue; }
   const A = JSON.parse(fs.readFileSync(f, 'utf8')), B = extract(files);
-  const d = { numbers: diffBag(A.numbers, B.numbers), footnotes: diffBag(A.footnotes, B.footnotes), quotes: diffBag(A.quotes, B.quotes), perFile: diffBag(A.footnoteCountByFile, B.footnoteCountByFile) };
+  const RELAX = process.argv.includes('--relaxed'); // SEO pass: an existing number may be repeated, none added or lost
+  const setOf = o => Object.fromEntries(Object.keys(o).map(k => [k, 1]));
+  const d = { numbers: RELAX ? diffBag(setOf(A.numbers), setOf(B.numbers)) : diffBag(A.numbers, B.numbers), footnotes: diffBag(A.footnotes, B.footnotes), quotes: diffBag(A.quotes, B.quotes), perFile: diffBag(A.footnoteCountByFile, B.footnoteCountByFile) };
   const n = Object.values(d).reduce((a, x) => a + x.length, 0);
   if (n) { bad++; console.log(`✗ ${s}`); for (const [k, v] of Object.entries(d)) if (v.length) console.log(`   ${k}: ${v.slice(0, 12).join(' | ')}${v.length > 12 ? ` … (+${v.length - 12})` : ''}`); }
 }
