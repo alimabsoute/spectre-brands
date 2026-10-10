@@ -1,533 +1,849 @@
 {
- "kicker": "The money",
- "label": "The numbers",
- "title": "Sixteen years of filings: the stores, the losses and the debt",
- "lede": "Blockbuster’s revenue peaked at $6.05B in 2004. Its profits had peaked long before. The company reported a net loss in thirteen of the fourteen years from 1997 to 2010.",
- "blocks": [
-  {
-   "kind": "arc",
-   "title": "The rise and fall, in stores",
-   "subtitle": "Company-operated and franchised stores worldwide at each year end.",
-   "labels": [
-    "1995",
-    "1996",
-    "1997",
-    "1998",
-    "1999",
-    "2000",
-    "2001",
-    "2002",
-    "2003",
-    "2004",
-    "2005",
-    "2006",
-    "2007",
-    "2008",
-    "2009",
-    "2010"
-   ],
-   "format": "num",
-   "xLabel": "Year end",
-   "series": [
+  "kicker": "The money",
+  "label": "The numbers",
+  "title": "Sixteen years of filings: the stores, the losses and the debt",
+  "lede": "Blockbuster’s revenue peaked at $6.05B in 2004. Its profits had peaked long before. The company reported a net loss in thirteen of the fourteen years from 1997 to 2010.",
+  "blocks": [
     {
-     "label": "Stores worldwide",
-     "data": [
-      4513,
-      5317,
-      6049,
-      6381,
-      7153,
-      7677,
-      7981,
-      8545,
-      8867,
-      9094,
-      9042,
-      8360,
-      7830,
-      7405,
-      6520,
-      5335
-     ],
-     "color": "brand"
-    }
-   ],
-   "points": [
-    {
-     "i": 4,
-     "title": "1999: the IPO",
-     "text": "Viacom sells 31 million shares at $15. The chain has 7,153 stores and late fees are 15.5% of revenue.[^1][^2]"
-    },
-    {
-     "i": 9,
-     "title": "2004: the peak",
-     "text": "9,094 stores. The same year brings the split from Viacom, $1.45B of new financing and the launch of Blockbuster Online.[^5][^6]"
-    },
-    {
-     "i": 11,
-     "title": "2006: the retreat begins",
-     "text": "The count falls by 682 in a year, to 8,360 (difference derived).[^6][^8]"
-    },
-    {
-     "i": 15,
-     "title": "2010: Chapter 11",
-     "text": "5,335 stores at the first year end in bankruptcy, 41% below the peak (derived).[^10]"
-    }
-   ],
-   "source": "Year-end store counts from the selected financial data in Blockbuster’s 10-Ks: 1995–1999[^2], 2000[^3], 2001–2005[^6], 2006–2007[^8], 2008–2009[^9], 2010[^10]. The fiscal year ended in early January from 2007 onward."
-  },
-  {
-   "type": "storemap",
-   "title": "Blockbuster stores in the United States by state, December 2004 and January 2010",
-   "dates": [
-    "Dec 31, 2004",
-    "Jan 3, 2010"
-   ],
-   "states": {
-    "DC": [
-     7,
-     4
-    ],
-    "NC": [
-     157,
-     118
-    ],
-    "SC": [
-     79,
-     68
-    ],
-    "MA": [
-     128,
-     63
-    ],
-    "NH": [
-     19,
-     18
-    ],
-    "WV": [
-     19,
-     16
-    ],
-    "ND": [
-     6,
-     6
-    ],
-    "PA": [
-     207,
-     142
-    ],
-    "RI": [
-     27,
-     14
-    ],
-    "SD": [
-     16,
-     7
-    ],
-    "CT": [
-     60,
-     48
-    ],
-    "MS": [
-     46,
-     33
-    ],
-    "CA": [
-     681,
-     468
-    ],
-    "NJ": [
-     157,
-     110
-    ],
-    "NM": [
-     35,
-     7
-    ],
-    "WA": [
-     136,
-     103
-    ],
-    "LA": [
-     99,
-     70
-    ],
-    "MN": [
-     89,
-     50
-    ],
-    "TN": [
-     108,
-     80
-    ],
-    "WI": [
-     83,
-     61
-    ],
-    "AR": [
-     20,
-     16
-    ],
-    "CO": [
-     131,
-     89
-    ],
-    "DE": [
-     15,
-     13
-    ],
-    "IL": [
-     253,
-     161
-    ],
-    "KY": [
-     81,
-     59
-    ],
-    "MD": [
-     135,
-     66
-    ],
-    "MI": [
-     191,
-     130
-    ],
-    "MO": [
-     110,
-     81
-    ],
-    "NE": [
-     38,
-     22
-    ],
-    "NY": [
-     295,
-     173
-    ],
-    "OK": [
-     73,
-     62
-    ],
-    "VA": [
-     139,
-     98
-    ],
-    "AL": [
-     76,
-     48
-    ],
-    "AZ": [
-     134,
-     114
-    ],
-    "FL": [
-     434,
-     337
-    ],
-    "GA": [
-     211,
-     140
-    ],
-    "IN": [
-     122,
-     85
-    ],
-    "MT": [
-     8,
-     1
-    ],
-    "VT": [
-     8,
-     8
-    ],
-    "WY": [
-     10,
-     5
-    ],
-    "AK": [
-     17,
-     16
-    ],
-    "HI": [
-     25,
-     22
-    ],
-    "KS": [
-     57,
-     49
-    ],
-    "NV": [
-     57,
-     39
-    ],
-    "OR": [
-     99,
-     76
-    ],
-    "ID": [
-     16,
-     4
-    ],
-    "ME": [
-     6,
-     6
-    ],
-    "TX": [
-     533,
-     399
-    ],
-    "IA": [
-     48,
-     21
-    ],
-    "OH": [
-     194,
-     134
-    ],
-    "UT": [
-     64,
-     43
-    ]
-   },
-   "unknown": [
-    44,
-    15
-   ],
-   "totals": [
-    5803,
-    4018
-   ],
-   "note": "Company-operated plus franchised stores in the United States and its territories, from the state tables in the FY2004 and FY2009 10-Ks. The grid has no tile for Guam, Puerto Rico or the U.S. Virgin Islands, so their stores are the unknown bucket: 44 in 2004 and 15 in 2009. No state and not the District of Columbia gained stores between the two tables. Franchised stores fell by more than half, from 1,095 to 493, and company-operated stores by about a quarter, from 4,708 to 3,525. California lost the most stores, 681 to 468, and Montana the largest share, 8 to 1 (all derived from the two tables). The 2004 company-operated count includes 61 specialty game stores. The FY2010 10-K has no state table.",
-   "src": [
-    5
-   ],
-   "ledger": [
-    "bb-048",
-    "bb-053"
-   ]
-  },
-  {
-   "kind": "counters",
-   "title": "The balance sheet at the split",
-   "items": [
-    {
-     "value": "$75.1M",
-     "text": "long-term debt on December 31, 2003, while still controlled by Viacom[^6]"
-    },
-    {
-     "value": "$1,119.7M",
-     "text": "long-term debt on December 31, 2004, after the split-off financing[^6]"
-    },
-    {
-     "value": "$905.6M",
-     "text": "paid out as a $5.00 a share special distribution on September 3, 2004[^5]"
-    },
-    {
-     "value": "$631.6M",
-     "text": "stockholders’ equity at the end of 2005, down from $3,188.4M two years earlier[^6]"
-    }
-   ],
-   "source": "Blockbuster 10-Ks for FY2004 and FY2005.[^5][^6]"
-  },
-  {
-   "kind": "chart",
-   "id": "revChart",
-   "title": "Revenue and net income, 1995–2010",
-   "subtitle": "$ millions. Bars are revenue; the line is net income or loss.",
-   "chart": {
-    "type": "bar",
-    "labels": [
-     "1995",
-     "1996",
-     "1997",
-     "1998",
-     "1999",
-     "2000",
-     "2001",
-     "2002",
-     "2003",
-     "2004",
-     "2005",
-     "2006",
-     "2007",
-     "2008",
-     "2009",
-     "2010"
-    ],
-    "y": {
-     "format": "usdM"
-    },
-    "series": [
-     {
-      "type": "line",
-      "label": "Net income (loss)",
-      "data": [
-       142.9,
-       77.8,
-       -318.2,
-       -336.6,
-       -69.2,
-       -75.9,
-       -238.8,
-       -1621.1,
-       -978.7,
-       -1248.8,
-       -588.1,
-       50.5,
-       -73.8,
-       -374.1,
-       -558.2,
-       -268.0
-      ],
-      "color": "red"
-     },
-     {
-      "label": "Revenue",
-      "data": [
-       2403.3,
-       2942.1,
-       3313.6,
-       3893.4,
-       4463.5,
-       4960.1,
-       5156.7,
-       5565.9,
-       5911.7,
-       6053.2,
-       5864.4,
-       5337.6,
-       5314.0,
-       5065.4,
-       4062.4,
-       3240.7
-      ],
-      "color": "brand"
-     }
-    ]
-   },
-   "source": "Selected financial data in the 10-Ks: 1995–1999[^2], 2000[^3], 2001–2005[^6], 2006–2009[^9], 2010[^10]. Revenue for 2006–2009 is on the restated basis of the FY2009 10-K, which excludes discontinued operations; see the data notes. The large losses of 2002–2004 are mostly non-cash: a $1,817.0M charge for a change in accounting principle in 2002, and impairments of goodwill and other long-lived assets of $1,304.9M in 2003 and $1,504.4M in 2004.[^6]"
-  },
-  {
-   "kind": "row",
-   "blocks": [
-    {
-     "kind": "chart",
-     "id": "debtChart",
-     "title": "Long-term debt at year end",
-     "subtitle": "$ millions.",
-     "chart": {
-      "type": "bar",
-      "legend": false,
+      "kind": "arc",
+      "title": "The rise and fall, in stores",
+      "subtitle": "Company-operated and franchised stores worldwide at each year end.",
       "labels": [
-       "1998",
-       "1999",
-       "2000",
-       "2001",
-       "2002",
-       "2003",
-       "2004",
-       "2005"
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
       ],
-      "y": {
-       "format": "usdM"
-      },
+      "format": "num",
+      "xLabel": "Year end",
       "series": [
-       {
-        "label": "Long-term debt",
-        "data": [
-         1715.2,
-         1138.4,
-         1136.5,
-         546.4,
-         408.7,
-         75.1,
-         1119.7,
-         1121.6
+        {
+          "label": "Stores worldwide",
+          "data": [
+            4513,
+            5317,
+            6049,
+            6381,
+            7153,
+            7677,
+            7981,
+            8545,
+            8867,
+            9094,
+            9042,
+            8360,
+            7830,
+            7405,
+            6520,
+            5335
+          ],
+          "color": "brand"
+        }
+      ],
+      "points": [
+        {
+          "i": 4,
+          "title": "1999: the IPO",
+          "text": "Viacom sells 31 million shares at $15. The chain has 7,153 stores and late fees are 15.5% of revenue.[^1][^2]"
+        },
+        {
+          "i": 9,
+          "title": "2004: the peak",
+          "text": "9,094 stores. The same year brings the split from Viacom, $1.45B of new financing and the launch of Blockbuster Online.[^5][^6]"
+        },
+        {
+          "i": 11,
+          "title": "2006: the retreat begins",
+          "text": "The count falls by 682 in a year, to 8,360 (difference derived).[^6][^8]"
+        },
+        {
+          "i": 15,
+          "title": "2010: Chapter 11",
+          "text": "5,335 stores at the first year end in bankruptcy, 41% below the peak (derived).[^10]"
+        }
+      ],
+      "source": "Year-end store counts from the selected financial data in Blockbuster’s 10-Ks: 1995–1999[^2], 2000[^3], 2001–2005[^6], 2006–2007[^8], 2008–2009[^9], 2010[^10]. The fiscal year ended in early January from 2007 onward."
+    },
+    {
+      "type": "storemap",
+      "title": "Blockbuster stores in the United States by state, December 2004 and January 2010",
+      "dates": [
+        "Dec 31, 2004",
+        "Jan 3, 2010"
+      ],
+      "states": {
+        "DC": [
+          7,
+          4
         ],
-        "colors": [
-         "grey",
-         "grey",
-         "grey",
-         "grey",
-         "grey",
-         "grey",
-         "red",
-         "red"
+        "NC": [
+          157,
+          118
+        ],
+        "SC": [
+          79,
+          68
+        ],
+        "MA": [
+          128,
+          63
+        ],
+        "NH": [
+          19,
+          18
+        ],
+        "WV": [
+          19,
+          16
+        ],
+        "ND": [
+          6,
+          6
+        ],
+        "PA": [
+          207,
+          142
+        ],
+        "RI": [
+          27,
+          14
+        ],
+        "SD": [
+          16,
+          7
+        ],
+        "CT": [
+          60,
+          48
+        ],
+        "MS": [
+          46,
+          33
+        ],
+        "CA": [
+          681,
+          468
+        ],
+        "NJ": [
+          157,
+          110
+        ],
+        "NM": [
+          35,
+          7
+        ],
+        "WA": [
+          136,
+          103
+        ],
+        "LA": [
+          99,
+          70
+        ],
+        "MN": [
+          89,
+          50
+        ],
+        "TN": [
+          108,
+          80
+        ],
+        "WI": [
+          83,
+          61
+        ],
+        "AR": [
+          20,
+          16
+        ],
+        "CO": [
+          131,
+          89
+        ],
+        "DE": [
+          15,
+          13
+        ],
+        "IL": [
+          253,
+          161
+        ],
+        "KY": [
+          81,
+          59
+        ],
+        "MD": [
+          135,
+          66
+        ],
+        "MI": [
+          191,
+          130
+        ],
+        "MO": [
+          110,
+          81
+        ],
+        "NE": [
+          38,
+          22
+        ],
+        "NY": [
+          295,
+          173
+        ],
+        "OK": [
+          73,
+          62
+        ],
+        "VA": [
+          139,
+          98
+        ],
+        "AL": [
+          76,
+          48
+        ],
+        "AZ": [
+          134,
+          114
+        ],
+        "FL": [
+          434,
+          337
+        ],
+        "GA": [
+          211,
+          140
+        ],
+        "IN": [
+          122,
+          85
+        ],
+        "MT": [
+          8,
+          1
+        ],
+        "VT": [
+          8,
+          8
+        ],
+        "WY": [
+          10,
+          5
+        ],
+        "AK": [
+          17,
+          16
+        ],
+        "HI": [
+          25,
+          22
+        ],
+        "KS": [
+          57,
+          49
+        ],
+        "NV": [
+          57,
+          39
+        ],
+        "OR": [
+          99,
+          76
+        ],
+        "ID": [
+          16,
+          4
+        ],
+        "ME": [
+          6,
+          6
+        ],
+        "TX": [
+          533,
+          399
+        ],
+        "IA": [
+          48,
+          21
+        ],
+        "OH": [
+          194,
+          134
+        ],
+        "UT": [
+          64,
+          43
         ]
-       }
+      },
+      "unknown": [
+        44,
+        15
+      ],
+      "totals": [
+        5803,
+        4018
+      ],
+      "note": "Company-operated plus franchised stores in the United States and its territories, from the state tables in the FY2004 and FY2009 10-Ks. The grid has no tile for Guam, Puerto Rico or the U.S. Virgin Islands, so their stores are the unknown bucket: 44 in 2004 and 15 in 2009. No state and not the District of Columbia gained stores between the two tables. Franchised stores fell by more than half, from 1,095 to 493, and company-operated stores by about a quarter, from 4,708 to 3,525. California lost the most stores, 681 to 468, and Montana the largest share, 8 to 1 (all derived from the two tables). The 2004 company-operated count includes 61 specialty game stores. The FY2010 10-K has no state table.",
+      "src": [
+        5
+      ],
+      "ledger": [
+        "bb-048",
+        "bb-053"
       ]
-     },
-     "source": "FY1999, FY2000 and FY2005 10-Ks.[^2][^3][^6] Figures to 2000 exclude the current portion; from 2001 they include capital leases."
     },
     {
-     "kind": "scale",
-     "title": "The parting distribution, in Netflixes",
-     "left": {
-      "value": "$905.6M",
-      "label": "special distribution, September 2004"
-     },
-     "unit": {
-      "value": "$50M",
-      "label": "Netflix’s asking price in 2000, by Marc Randolph’s account"
-     },
-     "count": 18,
-     "icon": "coin",
-     "equation": "$905.6M ÷ $50M = 18.1, shown as 18 coins. The distribution is from the FY2004 10-K[^5]; the $50M is Randolph’s recollection[^18].",
-     "source": "FY2004 10-K[^5]; Vanity Fair excerpt of Marc Randolph’s book[^18]."
+      "type": "stock",
+      "title": "Blockbuster Class A shares, quarterly high and low, 1999–2010 (NYSE; over the counter after the Jul 7, 2010 delisting)",
+      "ticker": "BBI",
+      "exchange": "NYSE",
+      "unit": "USD",
+      "series": [
+        {
+          "q": "1999Q3",
+          "hi": 16.875,
+          "lo": 12.4375,
+          "ledger": "bb-001"
+        },
+        {
+          "q": "1999Q4",
+          "hi": 17.125,
+          "lo": 11.375,
+          "ledger": "bb-002"
+        },
+        {
+          "q": "2000Q1",
+          "hi": 14.875,
+          "lo": 9.25,
+          "ledger": "bb-003"
+        },
+        {
+          "q": "2000Q2",
+          "hi": 11.625,
+          "lo": 8.875,
+          "ledger": "bb-004"
+        },
+        {
+          "q": "2000Q3",
+          "hi": 12.0625,
+          "lo": 8.4375,
+          "ledger": "bb-005"
+        },
+        {
+          "q": "2000Q4",
+          "hi": 9.9375,
+          "lo": 6.875,
+          "ledger": "bb-006"
+        },
+        {
+          "q": "2001Q1",
+          "hi": 15.1,
+          "lo": 8.1875,
+          "ledger": "bb-007"
+        },
+        {
+          "q": "2001Q2",
+          "hi": 22.0,
+          "lo": 14.0,
+          "ledger": "bb-008"
+        },
+        {
+          "q": "2001Q3",
+          "hi": 23.15,
+          "lo": 15.05,
+          "ledger": "bb-009"
+        },
+        {
+          "q": "2001Q4",
+          "hi": 28.66,
+          "lo": 21.0,
+          "ledger": "bb-010"
+        },
+        {
+          "q": "2002Q1",
+          "hi": 25.2,
+          "lo": 17.39,
+          "ledger": "bb-011"
+        },
+        {
+          "q": "2002Q2",
+          "hi": 30.25,
+          "lo": 21.9,
+          "ledger": "bb-012"
+        },
+        {
+          "q": "2002Q3",
+          "hi": 26.81,
+          "lo": 17.25,
+          "ledger": "bb-013"
+        },
+        {
+          "q": "2002Q4",
+          "hi": 26.8,
+          "lo": 11.8,
+          "ledger": "bb-014"
+        },
+        {
+          "q": "2003Q1",
+          "hi": 17.95,
+          "lo": 12.21,
+          "ledger": "bb-015"
+        },
+        {
+          "q": "2003Q2",
+          "hi": 18.6,
+          "lo": 14.5,
+          "ledger": "bb-016"
+        },
+        {
+          "q": "2003Q3",
+          "hi": 23.07,
+          "lo": 15.7,
+          "ledger": "bb-017"
+        },
+        {
+          "q": "2003Q4",
+          "hi": 22.92,
+          "lo": 16.74,
+          "ledger": "bb-018"
+        },
+        {
+          "q": "2004Q1",
+          "hi": 19.37,
+          "lo": 15.6,
+          "ledger": "bb-019"
+        },
+        {
+          "q": "2004Q2",
+          "hi": 17.58,
+          "lo": 14.61,
+          "ledger": "bb-020"
+        },
+        {
+          "q": "2004Q3",
+          "hi": 15.12,
+          "lo": 7.24,
+          "ledger": "bb-021"
+        },
+        {
+          "q": "2004Q4",
+          "hi": 10.49,
+          "lo": 6.5,
+          "ledger": "bb-022"
+        },
+        {
+          "q": "2005Q1",
+          "hi": 10.04,
+          "lo": 8.35,
+          "ledger": "bb-023"
+        },
+        {
+          "q": "2005Q2",
+          "hi": 10.65,
+          "lo": 8.76,
+          "ledger": "bb-024"
+        },
+        {
+          "q": "2005Q3",
+          "hi": 9.21,
+          "lo": 4.17,
+          "ledger": "bb-025"
+        },
+        {
+          "q": "2005Q4",
+          "hi": 5.74,
+          "lo": 3.19,
+          "ledger": "bb-026"
+        },
+        {
+          "q": "2006Q1",
+          "hi": 4.28,
+          "lo": 3.3,
+          "ledger": "bb-027"
+        },
+        {
+          "q": "2006Q2",
+          "hi": 5.12,
+          "lo": 3.69,
+          "ledger": "bb-028"
+        },
+        {
+          "q": "2006Q3",
+          "hi": 5.11,
+          "lo": 3.57,
+          "ledger": "bb-029"
+        },
+        {
+          "q": "2006Q4",
+          "hi": 5.59,
+          "lo": 3.66,
+          "ledger": "bb-030"
+        },
+        {
+          "q": "2007Q1",
+          "hi": 7.3,
+          "lo": 5.41,
+          "ledger": "bb-031"
+        },
+        {
+          "q": "2007Q2",
+          "hi": 6.67,
+          "lo": 3.94,
+          "ledger": "bb-032"
+        },
+        {
+          "q": "2007Q3",
+          "hi": 5.71,
+          "lo": 3.96,
+          "ledger": "bb-033"
+        },
+        {
+          "q": "2007Q4",
+          "hi": 5.8,
+          "lo": 2.99,
+          "ledger": "bb-034"
+        },
+        {
+          "q": "2008Q1",
+          "hi": 3.7,
+          "lo": 2.66,
+          "ledger": "bb-035"
+        },
+        {
+          "q": "2008Q2",
+          "hi": 3.55,
+          "lo": 2.38,
+          "ledger": "bb-036"
+        },
+        {
+          "q": "2008Q3",
+          "hi": 3.19,
+          "lo": 1.86,
+          "ledger": "bb-037"
+        },
+        {
+          "q": "2008Q4",
+          "hi": 2.0,
+          "lo": 0.72,
+          "ledger": "bb-038"
+        },
+        {
+          "q": "2009Q1",
+          "hi": 1.71,
+          "lo": 0.13,
+          "ledger": "bb-039"
+        },
+        {
+          "q": "2009Q2",
+          "hi": 1.26,
+          "lo": 0.61,
+          "ledger": "bb-040"
+        },
+        {
+          "q": "2009Q3",
+          "hi": 1.56,
+          "lo": 0.58,
+          "ledger": "bb-041"
+        },
+        {
+          "q": "2009Q4",
+          "hi": 1.14,
+          "lo": 0.6,
+          "ledger": "bb-042"
+        },
+        {
+          "q": "2010Q1",
+          "hi": 0.83,
+          "lo": 0.24,
+          "ledger": "bb-043"
+        },
+        {
+          "q": "2010Q2",
+          "hi": 0.6,
+          "lo": 0.15,
+          "ledger": "bb-044"
+        },
+        {
+          "q": "2010Q3",
+          "hi": 0.21,
+          "lo": 0.04,
+          "ledger": "bb-045",
+          "otc": true
+        },
+        {
+          "q": "2010Q4",
+          "hi": 0.28,
+          "lo": 0.04,
+          "ledger": "bb-046",
+          "otc": true
+        }
+      ],
+      "events": [
+        {
+          "q": "1999Q3",
+          "label": "IPO: Class A shares begin trading on the NYSE (Aug 11, 1999)",
+          "src": [
+            1,
+            2
+          ],
+          "ledger": "bb-001"
+        },
+        {
+          "q": "2010Q3",
+          "label": "NYSE delisting (Jul 7) and Chapter 11 (Sep 23, 2010)",
+          "ledger": "bb-088"
+        }
+      ],
+      "note": "High and low sale prices for Class A common stock as printed in each 10-K and not adjusted for the special distribution paid in 2004. From 2007 the company's fiscal quarters end on varying dates (for example 2007Q1 ends April 1, 2007 and 2007Q4 ends January 6, 2008). Quarters marked otc are OTCQB quotes after the July 7, 2010 NYSE delisting; the company said the shares had no value to stockholders. No quarters exist before the August 11, 1999 listing.",
+      "src": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        37
+      ]
+    },
+    {
+      "kind": "counters",
+      "title": "The balance sheet at the split",
+      "items": [
+        {
+          "value": "$75.1M",
+          "text": "long-term debt on December 31, 2003, while still controlled by Viacom[^6]"
+        },
+        {
+          "value": "$1,119.7M",
+          "text": "long-term debt on December 31, 2004, after the split-off financing[^6]"
+        },
+        {
+          "value": "$905.6M",
+          "text": "paid out as a $5.00 a share special distribution on September 3, 2004[^5]"
+        },
+        {
+          "value": "$631.6M",
+          "text": "stockholders’ equity at the end of 2005, down from $3,188.4M two years earlier[^6]"
+        }
+      ],
+      "source": "Blockbuster 10-Ks for FY2004 and FY2005.[^5][^6]"
+    },
+    {
+      "kind": "chart",
+      "id": "revChart",
+      "title": "Revenue and net income, 1995–2010",
+      "subtitle": "$ millions. Bars are revenue; the line is net income or loss.",
+      "chart": {
+        "type": "bar",
+        "labels": [
+          "1995",
+          "1996",
+          "1997",
+          "1998",
+          "1999",
+          "2000",
+          "2001",
+          "2002",
+          "2003",
+          "2004",
+          "2005",
+          "2006",
+          "2007",
+          "2008",
+          "2009",
+          "2010"
+        ],
+        "y": {
+          "format": "usdM"
+        },
+        "series": [
+          {
+            "type": "line",
+            "label": "Net income (loss)",
+            "data": [
+              142.9,
+              77.8,
+              -318.2,
+              -336.6,
+              -69.2,
+              -75.9,
+              -238.8,
+              -1621.1,
+              -978.7,
+              -1248.8,
+              -588.1,
+              50.5,
+              -73.8,
+              -374.1,
+              -558.2,
+              -268.0
+            ],
+            "color": "red"
+          },
+          {
+            "label": "Revenue",
+            "data": [
+              2403.3,
+              2942.1,
+              3313.6,
+              3893.4,
+              4463.5,
+              4960.1,
+              5156.7,
+              5565.9,
+              5911.7,
+              6053.2,
+              5864.4,
+              5337.6,
+              5314.0,
+              5065.4,
+              4062.4,
+              3240.7
+            ],
+            "color": "brand"
+          }
+        ]
+      },
+      "source": "Selected financial data in the 10-Ks: 1995–1999[^2], 2000[^3], 2001–2005[^6], 2006–2009[^9], 2010[^10]. Revenue for 2006–2009 is on the restated basis of the FY2009 10-K, which excludes discontinued operations; see the data notes. The large losses of 2002–2004 are mostly non-cash: a $1,817.0M charge for a change in accounting principle in 2002, and impairments of goodwill and other long-lived assets of $1,304.9M in 2003 and $1,504.4M in 2004.[^6]"
+    },
+    {
+      "kind": "row",
+      "blocks": [
+        {
+          "kind": "chart",
+          "id": "debtChart",
+          "title": "Long-term debt at year end",
+          "subtitle": "$ millions.",
+          "chart": {
+            "type": "bar",
+            "legend": false,
+            "labels": [
+              "1998",
+              "1999",
+              "2000",
+              "2001",
+              "2002",
+              "2003",
+              "2004",
+              "2005"
+            ],
+            "y": {
+              "format": "usdM"
+            },
+            "series": [
+              {
+                "label": "Long-term debt",
+                "data": [
+                  1715.2,
+                  1138.4,
+                  1136.5,
+                  546.4,
+                  408.7,
+                  75.1,
+                  1119.7,
+                  1121.6
+                ],
+                "colors": [
+                  "grey",
+                  "grey",
+                  "grey",
+                  "grey",
+                  "grey",
+                  "grey",
+                  "red",
+                  "red"
+                ]
+              }
+            ]
+          },
+          "source": "FY1999, FY2000 and FY2005 10-Ks.[^2][^3][^6] Figures to 2000 exclude the current portion; from 2001 they include capital leases."
+        },
+        {
+          "kind": "scale",
+          "title": "The parting distribution, in Netflixes",
+          "left": {
+            "value": "$905.6M",
+            "label": "special distribution, September 2004"
+          },
+          "unit": {
+            "value": "$50M",
+            "label": "Netflix’s asking price in 2000, by Marc Randolph’s account"
+          },
+          "count": 18,
+          "icon": "coin",
+          "equation": "$905.6M ÷ $50M = 18.1, shown as 18 coins. The distribution is from the FY2004 10-K[^5]; the $50M is Randolph’s recollection[^18].",
+          "source": "FY2004 10-K[^5]; Vanity Fair excerpt of Marc Randolph’s book[^18]."
+        }
+      ]
+    },
+    {
+      "kind": "keyfacts",
+      "caption": "What late fees were worth",
+      "rows": [
+        {
+          "value": "$692.6M",
+          "text": "extended viewing fees in 1999, up $108.7M on 1998[^2]"
+        },
+        {
+          "value": "15.5%",
+          "text": "of 1999 revenue, up from 15.0% in 1998 and 12.2% in 1997[^2]"
+        },
+        {
+          "value": "$250–300M",
+          "text": "operating income the company projected late fees would have contributed in 2005 (company estimate)[^5]"
+        },
+        {
+          "value": "$1.25",
+          "text": "restocking fee if an item was returned within 30 days of being sold to the customer under “no late fees”[^5]"
+        }
+      ],
+      "source": "FY1999 and FY2004 10-Ks.[^2][^5] The often-quoted $800M for 2000 is unverified; see the data notes."
+    },
+    {
+      "kind": "bars",
+      "title": "Three ways to rent a film, 2010",
+      "subtitle": "Revenue in the year Blockbuster filed for bankruptcy, $ millions.",
+      "format": "usdM",
+      "itemLabel": "Company",
+      "valueLabel": "2010 revenue",
+      "items": [
+        {
+          "label": "Blockbuster (stores, mail, kiosks, digital)",
+          "value": 3240.7,
+          "self": true,
+          "note": "Down from $6,053.2M in 2004.[^10][^6]"
+        },
+        {
+          "label": "Netflix (mail and streaming)",
+          "value": 2162.6,
+          "color": "green",
+          "note": "Up from $500.6M in 2004.[^22][^21]"
+        },
+        {
+          "label": "Redbox (kiosks)",
+          "value": 1160.1,
+          "color": "red",
+          "note": "Coinstar’s DVD Services segment, up from $388.5M in 2008.[^24]"
+        }
+      ],
+      "source": "Blockbuster FY2010 10-K[^10], Netflix FY2010 10-K[^22], Coinstar FY2010 10-K[^24]."
     }
-   ]
-  },
-  {
-   "kind": "keyfacts",
-   "caption": "What late fees were worth",
-   "rows": [
-    {
-     "value": "$692.6M",
-     "text": "extended viewing fees in 1999, up $108.7M on 1998[^2]"
-    },
-    {
-     "value": "15.5%",
-     "text": "of 1999 revenue, up from 15.0% in 1998 and 12.2% in 1997[^2]"
-    },
-    {
-     "value": "$250–300M",
-     "text": "operating income the company projected late fees would have contributed in 2005 (company estimate)[^5]"
-    },
-    {
-     "value": "$1.25",
-     "text": "restocking fee if an item was returned within 30 days of being sold to the customer under “no late fees”[^5]"
-    }
-   ],
-   "source": "FY1999 and FY2004 10-Ks.[^2][^5] The often-quoted $800M for 2000 is unverified; see the data notes."
-  },
-  {
-   "kind": "bars",
-   "title": "Three ways to rent a film, 2010",
-   "subtitle": "Revenue in the year Blockbuster filed for bankruptcy, $ millions.",
-   "format": "usdM",
-   "itemLabel": "Company",
-   "valueLabel": "2010 revenue",
-   "items": [
-    {
-     "label": "Blockbuster (stores, mail, kiosks, digital)",
-     "value": 3240.7,
-     "self": true,
-     "note": "Down from $6,053.2M in 2004.[^10][^6]"
-    },
-    {
-     "label": "Netflix (mail and streaming)",
-     "value": 2162.6,
-     "color": "green",
-     "note": "Up from $500.6M in 2004.[^22][^21]"
-    },
-    {
-     "label": "Redbox (kiosks)",
-     "value": 1160.1,
-     "color": "red",
-     "note": "Coinstar’s DVD Services segment, up from $388.5M in 2008.[^24]"
-    }
-   ],
-   "source": "Blockbuster FY2010 10-K[^10], Netflix FY2010 10-K[^22], Coinstar FY2010 10-K[^24]."
-  }
- ]
+  ]
 }
