@@ -1,0 +1,329 @@
+[
+  {
+    "from": "viacom",
+    "to": "blockbuster",
+    "type": "owned",
+    "years": "1994–2004",
+    "status": "verified",
+    "evidence": [
+      {
+        "slug": "blockbuster",
+        "fn": 14
+      },
+      {
+        "slug": "blockbuster",
+        "fn": 5
+      },
+      {
+        "ledger": "bb-094"
+      }
+    ]
+  },
+  {
+    "from": "dish-network",
+    "to": "blockbuster",
+    "type": "acquired",
+    "years": "2011 (asset purchase)",
+    "status": "verified",
+    "evidence": [
+      {
+        "slug": "blockbuster",
+        "fn": 13
+      },
+      {
+        "ledger": "bb-101"
+      },
+      {
+        "ledger": "bb-066"
+      }
+    ]
+  },
+  {
+    "from": "dish-network",
+    "to": "blockbuster-llc",
+    "type": "owned",
+    "years": "called wholly-owned in Dish’s FY2013 10-K",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "bb-067"
+      }
+    ]
+  },
+  {
+    "from": "blockbuster-llc",
+    "to": "blockbuster",
+    "type": "owned",
+    "years": "owner of record of the word mark on Oct 10, 2026",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "bb-069"
+      },
+      {
+        "ledger": "bb-071"
+      }
+    ]
+  },
+  {
+    "from": "blockbuster",
+    "to": "netflix",
+    "type": "rival",
+    "years": "2003–2010",
+    "status": "verified",
+    "evidence": [
+      {
+        "slug": "blockbuster",
+        "fn": 4
+      },
+      {
+        "slug": "blockbuster",
+        "fn": 22
+      }
+    ]
+  },
+  {
+    "from": "blockbuster",
+    "to": "redbox",
+    "type": "rival",
+    "years": "2008–2010",
+    "status": "verified",
+    "evidence": [
+      {
+        "slug": "blockbuster",
+        "fn": 24
+      }
+    ]
+  },
+  {
+    "from": "blockbuster",
+    "to": "hollywood-video",
+    "type": "rival",
+    "years": "2000–2004",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "bb-075"
+      },
+      {
+        "ledger": "bb-054"
+      }
+    ]
+  },
+  {
+    "from": "blockbuster",
+    "to": "movie-gallery",
+    "type": "rival",
+    "years": "2000–2007",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "bb-078"
+      },
+      {
+        "ledger": "bb-080"
+      },
+      {
+        "ledger": "bb-083"
+      },
+      {
+        "ledger": "bb-054"
+      }
+    ]
+  },
+  {
+    "from": "pets-com",
+    "to": "petstore-com",
+    "type": "acquired",
+    "years": "2000 (assets only)",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-094"
+      },
+      {
+        "ledger": "pc-162"
+      }
+    ]
+  },
+  {
+    "from": "discovery-communications",
+    "to": "petstore-com",
+    "type": "owned",
+    "years": "1999 (majority owner at the 1999 statements)",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-088"
+      }
+    ]
+  },
+  {
+    "from": "discovery-communications",
+    "to": "pets-com",
+    "type": "investor",
+    "years": "2000 ($3 million of preferred and common stock)",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-095"
+      }
+    ]
+  },
+  {
+    "from": "petsmart-com",
+    "to": "pets-com-name",
+    "type": "acquired",
+    "years": "2000 (domain names and trademarks; the sock puppet was excluded)",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-018"
+      },
+      {
+        "ledger": "pc-020"
+      },
+      {
+        "ledger": "pc-037"
+      },
+      {
+        "ledger": "pc-038"
+      }
+    ]
+  },
+  {
+    "from": "petsmart",
+    "to": "petsmart-com",
+    "type": "owned",
+    "years": "from Dec 20, 2000 (controlling interest acquired)",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-137"
+      },
+      {
+        "ledger": "pc-138"
+      }
+    ]
+  },
+  {
+    "from": "amazon-com",
+    "to": "pets-com",
+    "type": "investor",
+    "years": "2000 (8,973,029 shares per the prospectus and the 13G)",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-110"
+      },
+      {
+        "ledger": "pc-107"
+      },
+      {
+        "ledger": "pc-136"
+      }
+    ]
+  },
+  {
+    "from": "hakan-enterprises",
+    "to": "pets-com-sock-puppet",
+    "type": "acquired",
+    "years": "2001 (rights assigned for $125,000)",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-021"
+      },
+      {
+        "ledger": "pc-030"
+      }
+    ]
+  },
+  {
+    "from": "pets-com",
+    "to": "fun-4-all",
+    "type": "licensed",
+    "years": "2000 (license agreement effective May 15, 2000)",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-034"
+      },
+      {
+        "ledger": "pc-032"
+      }
+    ]
+  },
+  {
+    "from": "julie-wainwright",
+    "to": "pets-com",
+    "type": "executive",
+    "years": "chief executive as of Nov 2000",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-026"
+      }
+    ]
+  },
+  {
+    "from": "julie-wainwright",
+    "to": "the-realreal",
+    "type": "executive",
+    "years": "to Jun 7, 2022 (11 years as founder)",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-131"
+      },
+      {
+        "ledger": "pc-132"
+      }
+    ]
+  },
+  {
+    "from": "richard-g-couch",
+    "to": "pets-com",
+    "type": "executive",
+    "years": "sole director and chief executive after Jan 16, 2001",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-013"
+      },
+      {
+        "ledger": "pc-029"
+      }
+    ]
+  },
+  {
+    "from": "pets-com",
+    "to": "petsmart-com",
+    "type": "rival",
+    "years": "1999",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-068"
+      },
+      {
+        "ledger": "pc-061"
+      }
+    ]
+  },
+  {
+    "from": "pets-com",
+    "to": "petopia",
+    "type": "rival",
+    "years": "1999",
+    "status": "verified",
+    "evidence": [
+      {
+        "ledger": "pc-079"
+      },
+      {
+        "ledger": "pc-061"
+      }
+    ]
+  }
+]

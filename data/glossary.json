@@ -1,0 +1,119 @@
+[
+  {
+    "id": "extended-viewing-fee",
+    "term": "extended viewing fees",
+    "aliases": [
+      "extended viewing fee",
+      "late fees"
+    ],
+    "def": "Blockbuster’s name for a late fee: a charge when a rental was kept past its due date."
+  },
+  {
+    "id": "special-distribution",
+    "term": "special distribution",
+    "aliases": [],
+    "def": "A one-time payment to shareholders, made outside the regular dividend."
+  },
+  {
+    "id": "split-off",
+    "term": "split-off",
+    "aliases": [],
+    "def": "A way for a parent company to give up a subsidiary by letting its shareholders swap parent shares for subsidiary shares."
+  },
+  {
+    "id": "revenue-sharing",
+    "term": "revenue-sharing agreements",
+    "aliases": [
+      "revenue sharing"
+    ],
+    "def": "A deal in which a rental chain pays a studio a smaller price up front and shares the rental income afterward."
+  },
+  {
+    "id": "senior-subordinated-notes",
+    "term": "senior subordinated notes",
+    "aliases": [],
+    "def": "Bonds that are repaid after secured and senior debt if the borrower cannot pay everyone."
+  },
+  {
+    "id": "impairment",
+    "term": "impairment",
+    "aliases": [
+      "impairments"
+    ],
+    "def": "A write-down of an asset’s recorded value when the company judges it to be worth less than that."
+  },
+  {
+    "id": "gross-margin",
+    "term": "gross margin",
+    "aliases": [
+      "gross profit"
+    ],
+    "def": "Sales minus the cost of goods sold, usually shown as a share of sales. What counts as a cost of goods sold varies by company."
+  },
+  {
+    "id": "cost-of-goods-sold",
+    "term": "cost of goods sold",
+    "aliases": [
+      "cost of sales"
+    ],
+    "def": "The costs a company books directly against the products it sells. Whether shipping, warehouse labor and delivery belong here is a choice each company makes and discloses."
+  },
+  {
+    "id": "fulfillment",
+    "term": "fulfillment",
+    "aliases": [],
+    "def": "Storing, picking, packing and shipping orders. For an online retailer it is either its own cost line or part of another one."
+  },
+  {
+    "id": "liquidation-basis",
+    "term": "liquidation basis of accounting",
+    "aliases": [
+      "liquidation accounting"
+    ],
+    "def": "Statements prepared for a company that is winding down. Assets are shown at what they are expected to fetch, and there is no profit and loss, only changes in net assets."
+  },
+  {
+    "id": "net-assets-in-liquidation",
+    "term": "net assets in liquidation",
+    "aliases": [],
+    "def": "What is expected to be left for owners after the estate sells assets and pays its debts."
+  },
+  {
+    "id": "certificate-of-dissolution",
+    "term": "certificate of dissolution",
+    "aliases": [],
+    "def": "The filing that legally ends a Delaware corporation, which can then only wind up its affairs."
+  },
+  {
+    "id": "schedule-13g",
+    "term": "Schedule 13G",
+    "aliases": [],
+    "def": "A short SEC filing in which a large shareholder reports how much of a company it owns."
+  },
+  {
+    "id": "form-s-1",
+    "term": "Form S-1",
+    "aliases": [
+      "S-1"
+    ],
+    "def": "The registration statement a company files with the SEC before selling shares to the public."
+  },
+  {
+    "id": "form-15",
+    "term": "Form 15",
+    "aliases": [],
+    "def": "The filing that ends a company's duty to file periodic reports with the SEC."
+  },
+  {
+    "id": "pro-forma",
+    "term": "pro forma",
+    "aliases": [],
+    "def": "Financial statements shown as if a deal had already happened, with adjustments to make two companies' books comparable."
+  },
+  {
+    "id": "autoship",
+    "term": "Autoship",
+    "aliases": [],
+    "def": "Chewy's name for scheduled repeat deliveries. Pets.com, PetSmart.com and Petopia each described a similar program in their filings."
+  }
+]

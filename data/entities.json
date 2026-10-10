@@ -1,0 +1,116 @@
+[
+  {
+    "id": "blockbuster",
+    "name": "Blockbuster",
+    "type": "Brand",
+    "slug": "blockbuster"
+  },
+  {
+    "id": "blockbuster-llc",
+    "name": "Blockbuster L.L.C.",
+    "type": "Organization"
+  },
+  {
+    "id": "viacom",
+    "name": "Viacom",
+    "type": "Organization"
+  },
+  {
+    "id": "dish-network",
+    "name": "DISH Network",
+    "type": "Organization"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "type": "Organization"
+  },
+  {
+    "id": "redbox",
+    "name": "Redbox",
+    "type": "Brand",
+    "slug": "redbox"
+  },
+  {
+    "id": "hollywood-video",
+    "name": "Hollywood Video",
+    "type": "Brand",
+    "slug": "hollywood-video"
+  },
+  {
+    "id": "movie-gallery",
+    "name": "Movie Gallery",
+    "type": "Organization"
+  },
+  {
+    "id": "pets-com",
+    "name": "Pets.com",
+    "type": "Organization",
+    "slug": "pets-com"
+  },
+  {
+    "id": "petstore-com",
+    "name": "Petstore.com",
+    "type": "Organization"
+  },
+  {
+    "id": "discovery-communications",
+    "name": "Discovery Communications",
+    "type": "Organization"
+  },
+  {
+    "id": "petsmart-com",
+    "name": "PetSmart.com",
+    "type": "Organization"
+  },
+  {
+    "id": "petsmart",
+    "name": "PetSmart",
+    "type": "Organization"
+  },
+  {
+    "id": "petopia",
+    "name": "Petopia",
+    "type": "Organization"
+  },
+  {
+    "id": "amazon-com",
+    "name": "Amazon.com",
+    "type": "Organization"
+  },
+  {
+    "id": "pets-com-name",
+    "name": "Pets.com domain names and trademarks",
+    "type": "Brand"
+  },
+  {
+    "id": "pets-com-sock-puppet",
+    "name": "Pets.com sock puppet",
+    "type": "Brand"
+  },
+  {
+    "id": "hakan-enterprises",
+    "name": "Hakan Enterprises",
+    "type": "Organization"
+  },
+  {
+    "id": "fun-4-all",
+    "name": "Fun-4-All Corporation",
+    "type": "Organization"
+  },
+  {
+    "id": "julie-wainwright",
+    "name": "Julie Wainwright",
+    "type": "Person"
+  },
+  {
+    "id": "the-realreal",
+    "name": "The RealReal",
+    "type": "Organization"
+  },
+  {
+    "id": "richard-g-couch",
+    "name": "Richard G. Couch",
+    "type": "Person"
+  }
+]
