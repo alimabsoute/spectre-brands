@@ -50,5 +50,124 @@
    "title": "The Clearly Canadian brand",
    "text": "Fast Company reported in October 2024 that production stopped around 2010, that Robert R. Khan acquired the company in 2012 and that full-scale production resumed in 2017. It said a group of private investors who were fans of the brand from the ’90s owned it, and its marketing chief said the company was on track to sell around 45 million bottles that year.[^24]"
   }
+ ],
+ "now": [
+  {
+   "type": "brand",
+   "title": "The drink",
+   "text": "Not made. In 2015 a company representative said it lacked the equipment; in October 2024 Clearly Canadian’s marketing chief said the machine that made the spheres broke down and was sold off for parts.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    5,
+    24
+   ],
+   "ledger": [
+    "od-032",
+    "od-146"
+   ]
+  },
+  {
+   "type": "trademark",
+   "title": "The name",
+   "text": "The maker’s 2006 application for ORBITZ was abandoned in December 2008, and an unrelated 2014 application was withdrawn within two months. Fast Company says the old owners sold the trademark; the buyer is not named and we could not find a live ORBITZ beverage registration.",
+   "asOf": "2026-10-10",
+   "recheck": "90d",
+   "src": [
+    22,
+    23,
+    24
+   ],
+   "ledger": [
+    "od-135",
+    "od-137",
+    "od-139",
+    "od-146"
+   ]
+  },
+  {
+   "type": "company",
+   "title": "The maker, 2010 to 2017",
+   "text": "Clearly Canadian Beverage Corporation filed a creditor proposal on Mar 17, 2010. Its creditors approved it on Apr 1, 2010 and the Supreme Court of British Columbia on Apr 26, 2010. The SEC revoked the registration of its securities on Jan 4, 2017.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    27,
+    28,
+    29,
+    31
+   ],
+   "ledger": [
+    "od-123",
+    "od-125",
+    "od-127",
+    "od-129"
+   ]
+  },
+  {
+   "type": "brand",
+   "title": "The Clearly Canadian brand",
+   "text": "Acquired in 2012 by Robert R. Khan, back in full production in 2017 and, as of October 2024, owned by a group of private investors. Clearly Canadian said it was on track to sell about 45 million bottles in 2024.",
+   "asOf": "2026-10-10",
+   "recheck": "90d",
+   "src": [
+    24
+   ],
+   "ledger": [
+    "od-149",
+    "od-151",
+    "od-153",
+    "od-152"
+   ]
+  },
+  {
+   "type": "site",
+   "title": "orbitz.com",
+   "text": "The drink’s Planet Orbitz site was at orbitz.com. The address was on the packaging in April 1997, and archive captures show the Orbiterium prelude in December 1997 and January 1999. By February 2000 the address was a parked page, and by January 2001 it carried the airline-backed Orbitz, LLC. No source we could open says how the address changed hands.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    8,
+    35,
+    14
+   ],
+   "ledger": [
+    "od-062",
+    "od-141",
+    "od-142",
+    "od-143",
+    "od-144",
+    "od-095"
+   ]
+  },
+  {
+   "type": "store",
+   "title": "The bottles",
+   "text": "An unopened, decades-old bottle sells for around $50 on eBay, according to Gastro Obscura (undated).",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    5
+   ],
+   "ledger": [
+    "od-033"
+   ]
+  },
+  {
+   "type": "people",
+   "title": "The people",
+   "text": "Douglas Mason, who founded Clearly Canadian and led it as chief executive, was replaced in that role in October 2005 when Brent Lokash became president. Jonathan Cronin, the marketing executive quoted on Orbitz, moved to the US subsidiary in December 1998.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    6,
+    25
+   ],
+   "ledger": [
+    "od-053",
+    "od-111",
+    "od-054"
+   ]
+  }
  ]
 }
