@@ -163,42 +163,6 @@
     "caveat": "The supply and the lawsuit rest on a company-history reference (secondary); the patent record shows only that Bush Boake Allen owns a suspension patent."
   },
   {
-    "from": "hansen-natural",
-    "to": "clearly-canadian",
-    "type": "rival",
-    "years": "1998–2002",
-    "status": "verified",
-    "evidence": [
-      {
-        "ledger": "od-042"
-      }
-    ]
-  },
-  {
-    "from": "bg-capital-group",
-    "to": "clearly-canadian",
-    "type": "investor",
-    "years": "2005–",
-    "status": "verified",
-    "evidence": [
-      {
-        "ledger": "od-105"
-      }
-    ]
-  },
-  {
-    "from": "robert-r-khan",
-    "to": "clearly-canadian",
-    "type": "acquired",
-    "years": "2012",
-    "status": "verified",
-    "evidence": [
-      {
-        "ledger": "od-149"
-      }
-    ]
-  },
-  {
     "from": "douglas-mason",
     "to": "clearly-canadian",
     "type": "executive",
@@ -208,18 +172,6 @@
       {
         "ledger": "od-053"
       },
-      {
-        "ledger": "od-111"
-      }
-    ]
-  },
-  {
-    "from": "brent-lokash",
-    "to": "clearly-canadian",
-    "type": "executive",
-    "years": "2005–",
-    "status": "verified",
-    "evidence": [
       {
         "ledger": "od-111"
       }

@@ -51,7 +51,8 @@
   {
     "id": "clearly-canadian",
     "name": "Clearly Canadian Beverage Corporation",
-    "type": "Organization"
+    "type": "Organization",
+    "slug": "orbitz-drink"
   },
   {
     "id": "bush-boake-allen",
@@ -59,28 +60,8 @@
     "type": "Organization"
   },
   {
-    "id": "hansen-natural",
-    "name": "Hansen Natural Corp.",
-    "type": "Organization"
-  },
-  {
-    "id": "bg-capital-group",
-    "name": "BG Capital Group Ltd.",
-    "type": "Organization"
-  },
-  {
-    "id": "robert-r-khan",
-    "name": "Robert R. Khan",
-    "type": "Person"
-  },
-  {
     "id": "douglas-mason",
     "name": "Douglas L. Mason",
-    "type": "Person"
-  },
-  {
-    "id": "brent-lokash",
-    "name": "Brent Lokash",
     "type": "Person"
   },
   {
