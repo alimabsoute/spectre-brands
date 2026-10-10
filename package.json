@@ -11,7 +11,8 @@
     "sources": "node scripts/check-sources.mjs",
     "lighthouse": "node scripts/lighthouse.mjs",
     "shots": "node scripts/shots.mjs docs/qa",
-    "og": "node scripts/og.mjs"
+    "og": "node scripts/og.mjs",
+    "lint:prose": "node scripts/slop-lint.mjs"
   },
   "engines": {
     "node": ">=18"
