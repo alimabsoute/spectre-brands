@@ -15,6 +15,7 @@ import { previewPages } from './lib/preview.mjs';
 import { homeMixData, renderHomeMixes } from './lib/homemix.mjs';
 import { pmPreview } from './lib/pmpreview.mjs';
 import { pmTransform } from './lib/pmtransform.mjs';
+import { fnPreview } from './lib/fnpreview.mjs';
 import { themePage, homePage, cmdkCSS } from './lib/sitetheme.mjs';
 import { render as renderHomeC } from './lib/homemix/homec.mjs';
 import { categoryPage, aboutPage } from './lib/pages.mjs';
@@ -238,6 +239,7 @@ write('404.html', head({ site, title: 'Not found · Spectre Brands', description
   write('index.html', homePage(renderHomeC(homeData), prodHead, dialog, V));
 }
 
+if (PREVIEWS) fnPreview({ OUT, write });
 // search index, sitemap, robots
 // The search index. g: group shown in the palette; r: tier; i: logo or lead image; f: listed before anything is typed
 // (the featured brand and the next four by number).
