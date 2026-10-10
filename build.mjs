@@ -132,7 +132,22 @@ function renderCompany(c, all, site, V) {
   const ld = { '@context': 'https://schema.org', '@type': 'Article', headline: c.title, description: c.description, image: [site.url + og], datePublished: c.published || site.published, dateModified: c.updated || c.published || site.published,
     author: { '@type': 'Organization', name: 'Spectre Brands', url: site.url + '/' }, publisher: { '@type': 'Organization', name: 'Spectre Brands', logo: { '@type': 'ImageObject', url: site.url + '/apple-touch-icon.png' } },
     mainEntityOfPage: `${site.url}/${c.slug}/`, about: { '@type': 'Organization', name: c.name }, articleSection: site.categories.find(k => k.id === c.category)?.label };
-  const html = head({ site, title: c.title, description: c.description, path: `/${c.slug}/`, image: og, type: 'article', ld, version: V })
+  // Answer-engine structured data: a breadcrumb, and an FAQ whose answers are sentences already shown on the page
+  // (the hero deck, the Dead/Ghost explanation and the dated milestones), with footnote markers stripped.
+  const plain = t => String(t || '').replace(/\[\^[\w-]+\]/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '').replace(/\s+/g, ' ').trim();
+  const cat = site.categories.find(k => k.id === c.category);
+  const crumbs = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Spectre Brands', item: site.url + '/' },
+    { '@type': 'ListItem', position: 2, name: cat?.label, item: `${site.url}/category/${c.category}/` },
+    { '@type': 'ListItem', position: 3, name: c.name, item: `${site.url}/${c.slug}/` }] };
+  const fmtDate = d => new Date(d + 'T12:00:00Z').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+  const deck = plain(c.hero?.deck).split(/(?<=[.!?])\s+/).slice(0, 2).join(' ');
+  const faq = [
+    deck && [`What was ${c.name}?`, deck],
+    c.tierWhy && [c.tier === 'ghost' ? `Does ${c.name} still exist?` : `Is ${c.name} still in business?`, (c.tier === 'ghost' ? '' : 'No. ') + plain(c.tierWhy)],
+    c.dates?.length && [`When did ${c.name} open and close?`, c.dates.map(d => `${fmtDate(d.date)}: ${c.name} ${plain(d.text)}.`).join(' ')]].filter(Boolean);
+  const faqLd = faq.length ? { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) } : null;
+  const html = head({ site, title: c.title, description: c.description, path: `/${c.slug}/`, image: og, type: 'article', ld: [ld, crumbs, faqLd].filter(Boolean), version: V })
     + masthead(site, all, `/${c.slug}/`) + pageNav(used, labels, c.name)
     + `<main id="main" class="company" style="--brand:${esc(c.theme.accent)};--brand-soft:${esc(c.theme.soft)}">${body}
 <section id="more" class="more" aria-labelledby="more-h"><div class="wrap"><h2 id="more-h">More post-mortems</h2>${ledgerHead}<div class="ledger">${related.map(x => row(x, site, img)).join('\n')}</div><p class="more-all"><a href="/#index">Browse all ${all.length}<span aria-hidden="true"> →</span></a></p></div></section></main>`
@@ -189,13 +204,14 @@ const page = (rel, { title, description, body, ld = null, cls = '' }) => write(r
   head({ site, title, description, path: rel, ld, version: V }) + masthead(site, companies, rel) + `<main id="main"${cls ? ` class="${cls}"` : ''}>${body}</main>` + footer(site, companies) + scripts('', V));
 
 page('/', { title: site.title, description: site.description, body: home(site, companies, img), cls: 'home',
-  ld: { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Spectre Brands', url: site.url + '/', description: site.description } });
+  ld: [{ '@context': 'https://schema.org', '@type': 'WebSite', name: 'Spectre Brands', url: site.url + '/', description: site.description }, { '@context': 'https://schema.org', '@type': 'Organization', name: 'Spectre Brands', url: site.url + '/', logo: site.url + '/apple-touch-icon.png', description: site.description, sameAs: [site.repo] }] });
 for (const k of site.categories.filter(k => k.n)) {
   const list = companies.filter(c => c.category === k.id);
   page(`/category/${k.id}/`, { title: `${k.label}: dead and ghost brands · Spectre Brands`, description: `${k.blurb} Sourced post-mortems of ${list.map(c => c.name).join(', ')}.`, body: categoryPage(site, k, list, img), cls: 'category',
-    ld: { '@context': 'https://schema.org', '@type': 'CollectionPage', name: k.label, url: `${site.url}/category/${k.id}/`, hasPart: list.map(c => ({ '@type': 'Article', headline: c.title, url: `${site.url}/${c.slug}/` })) } });
+    ld: [{ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Spectre Brands', item: site.url + '/' }, { '@type': 'ListItem', position: 2, name: k.label, item: `${site.url}/category/${k.id}/` }] }, { '@context': 'https://schema.org', '@type': 'CollectionPage', name: k.label, url: `${site.url}/category/${k.id}/`, hasPart: list.map(c => ({ '@type': 'Article', headline: c.title, url: `${site.url}/${c.slug}/` })) }] });
 }
-page('/about/', { title: 'About and methodology · Spectre Brands', description: 'How Spectre Brands chooses sources, what Dead and Ghost mean, the data-honesty rules every post-mortem follows, and the trademark and fair-use position.', body: aboutPage(site, companies), cls: 'about' });
+page('/about/', { title: 'About and methodology · Spectre Brands', description: 'How Spectre Brands chooses sources, what Dead and Ghost mean, the data-honesty rules every post-mortem follows, and the trademark and fair-use position.', body: aboutPage(site, companies), cls: 'about',
+  ld: { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Spectre Brands', item: site.url + '/' }, { '@type': 'ListItem', position: 2, name: 'About and methodology', item: site.url + '/about/' }] } });
 // Isolated design review pages; deliberately absent from production navigation, search and sitemap.
 // Production (VERCEL_ENV=production) skips them entirely; on branch previews they are built, noindexed and unlinked.
 const PREVIEWS = process.env.VERCEL_ENV !== 'production' && !process.argv.includes('--no-previews');
@@ -216,7 +232,7 @@ write('404.html', head({ site, title: 'Not found · Spectre Brands', description
     const slug = rel.split(path.sep)[0].replace(/\.html$/, '');
     fs.writeFileSync(f, themePage(fs.readFileSync(f, 'utf8'), slug, V));
   }
-  const prodHead = head({ site, title: site.title, description: site.description, path: '/', ld: { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Spectre Brands', url: site.url + '/', description: site.description }, version: V });
+  const prodHead = head({ site, title: site.title, description: site.description, path: '/', ld: [{ '@context': 'https://schema.org', '@type': 'WebSite', name: 'Spectre Brands', url: site.url + '/', description: site.description }, { '@context': 'https://schema.org', '@type': 'Organization', name: 'Spectre Brands', url: site.url + '/', logo: site.url + '/apple-touch-icon.png', description: site.description, sameAs: [site.repo] }], version: V });
   const mh = masthead(site, companies, '/'); const dialog = mh.slice(mh.indexOf('<dialog class="cmdk"'));
   write('assets/css/cmdk-home.css', cmdkCSS(minCSS, rd(path.join(ROOT, 'assets/css/tokens.css')), rd(path.join(ROOT, 'assets/pmpreview/sections.css'))));
   write('index.html', homePage(renderHomeC(homeData), prodHead, dialog, V));
