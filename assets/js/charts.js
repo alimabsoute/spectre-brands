@@ -6,14 +6,20 @@
   // Palette mirrors tokens.css. "tan" and "sand" are kept as names for older data files but are neutral greys now.
   const C = { ink: '#16161A', red: '#C2412D', gold: '#A9781F', green: '#3F8A5A', blue: '#3B6EA8', plum: '#7B5EA7', teal: '#2C8C8C', grey: '#8B8B94', tan: '#B9B8B2', sand: '#DDDCD8', light: '#DDDCD8', grid: '#ECEAE5', mute: '#63636B', paper: '#FFFFFF', hand: '#1F2A44' };
   C.brand = getComputedStyle(document.querySelector('main')).getPropertyValue('--brand').trim() || C.red;
+  // v2 pilot pages (.hero-x): theme-aware ink/grid/tooltip, rounded bars, staggered grow-in when the chart is in view.
+  const V2 = !!document.querySelector('.hero-x');
+  const dark = () => document.documentElement.getAttribute('data-theme') === 'dark';
+  const theme = () => { if (!V2) return; const d = dark(); Object.assign(C, d ? { ink: '#F3EBDC', mute: '#B3A896', grid: 'rgba(243,235,220,.10)', paper: '#2A2521', hand: '#F3EBDC' } : { ink: '#16161A', mute: '#63636B', grid: '#ECEAE5', paper: '#FFFFFF', hand: '#1F2A44' }); Chart.defaults.color = C.mute; };
   const col = v => (v && C[v]) || v || C.ink;
   const mob = () => innerWidth < 640;
   Chart.defaults.font.family = 'Inter, system-ui, sans-serif'; Chart.defaults.font.size = 12; Chart.defaults.color = C.mute;
   Chart.defaults.plugins.legend.labels.boxWidth = 12; Chart.defaults.plugins.legend.labels.boxHeight = 12;
   Chart.defaults.maintainAspectRatio = false; Chart.defaults.animation.duration = 900;
   if (BO.reduce) Chart.defaults.animation = false;
-  const tip = { backgroundColor: '#fff', titleColor: C.ink, bodyColor: C.ink, footerColor: C.mute, borderColor: '#D6D3CC', borderWidth: 1, padding: 10, cornerRadius: 6, titleFont: { weight: '600' }, footerFont: { weight: '400' } };
+  theme();
+  let tip = { backgroundColor: '#fff', titleColor: C.ink, bodyColor: C.ink, footerColor: C.mute, borderColor: '#D6D3CC', borderWidth: 1, padding: 10, cornerRadius: 6, titleFont: { weight: '600' }, footerFont: { weight: '400' } };
 
+  const tipV2 = () => ({ backgroundColor: dark() ? '#2A2521' : '#fff', titleColor: C.ink, bodyColor: C.ink, footerColor: C.mute, borderColor: dark() ? 'rgba(243,235,220,.18)' : '#D6D3CC', borderWidth: 1, padding: 12, cornerRadius: 10, caretSize: 6, boxPadding: 4, usePointStyle: true, titleFont: { weight: '600', size: 13 }, bodyFont: { size: 12 }, footerFont: { weight: '400' } });
   const FMT = {
     usd: v => '$' + (+v).toLocaleString(), usd2: v => '$' + (+v).toFixed(2), usdK: v => '$' + v + 'K', usdM: v => '$' + v + 'M', usdB: v => '$' + v + 'B',
     pct: v => v + '%', num: v => (+v).toLocaleString(), x: v => v + '×',
@@ -48,6 +54,8 @@
       if (sp.horizontal && t !== 'line') { ds.xAxisID = s.axis === 'y1' ? 'x1' : 'x'; delete ds.yAxisID; }
       if (s.stack) ds.stack = s.stack;
       if (t === 'bar') { ds.borderRadius = 3; if (s.barPercentage) ds.barPercentage = s.barPercentage; }
+      if (t === 'bar' && V2) Object.assign(ds, { borderRadius: sp.stacked ? 4 : 8, borderSkipped: sp.stacked ? false : 'start', maxBarThickness: 56, borderWidth: 0, hoverBorderColor: C.ink, hoverBorderWidth: 1.5 });
+      if (t === 'line' && V2) Object.assign(ds, { pointHoverRadius: ds.pointHoverRadius || 7, pointHoverBorderWidth: 2, pointHoverBorderColor: C.ink, borderCapStyle: 'round' });
       if (t === 'doughnut') { ds.borderWidth = 3; ds.hoverOffset = 10; }
       if (t === 'line') {
         Object.assign(ds, { pointStyle: ['circle', 'rectRot', 'triangle', 'rect'][k % 4], borderWidth: s.width || 2.2, tension: s.tension ?? .25, pointRadius: s.points ?? (s.events ? 7 : (labels.length > 40 ? 0 : 3.5)), spanGaps: !!s.spanGaps });
@@ -62,6 +70,7 @@
     const axis = (a, pos, isIdx) => {
       a = a || {};
       const o = { position: pos, grid: { color: isIdx ? 'transparent' : C.grid, display: !isIdx && !a.noGrid }, stacked: !!sp.stacked };
+      if (V2) { o.border = { display: !!isIdx, color: C.grid }; o.grid.tickLength = 0; if (!isIdx) o.border.dash = [3, 4]; o.grid.drawTicks = false; }
       if (a.log) o.type = 'logarithmic';
       if (a.min != null) o.min = a.min; if (a.max != null) o.max = a.max;
       if (a.title && !mob()) o.title = { display: true, text: a.title };
@@ -82,7 +91,7 @@
     const tf = sp.tooltip || {};
     const plugins = {
       legend: sp.legend === false ? { display: false } : { position: 'bottom', labels: { usePointStyle: true, filter: l => !(sp.series[l.datasetIndex] || {}).hideLegend } },
-      tooltip: { ...tip, filter: c => c.raw != null, callbacks: {
+      tooltip: { ...(V2 ? tipV2() : tip), filter: c => c.raw != null, callbacks: {
         label: c => {
           const s = sp.series[c.datasetIndex] || {};
           if (evNames[c.datasetIndex]) return ' ' + evNames[c.datasetIndex][c.dataIndex] + ': ' + fmt(tf.format || (sp.y || {}).format, c.raw);
@@ -97,7 +106,7 @@
     (sp.refLines || []).forEach(r => extra.push(refLine(r, sp.horizontal)));
     if (sp.notes && sp.notes.length) extra.push(notes(sp.notes, sp.horizontal));
     return { type: sp.type === 'doughnut' ? 'doughnut' : 'bar', data: { labels: labels.map(l => Array.isArray(l) || !String(l).includes('|') ? l : String(l).split('|')), datasets },
-      options: { indexAxis: sp.horizontal ? 'y' : 'x', cutout: sp.type === 'doughnut' ? (sp.cutout || '60%') : undefined, interaction: sp.type === 'doughnut' ? undefined : { mode: ref ? 'nearest' : 'index', intersect: false }, plugins, scales }, plugins: extra };
+      options: { ...(V2 && !BO.reduce ? { animation: { duration: 900, easing: 'easeOutQuart', delay: x => x.type === 'data' && x.mode === 'default' ? x.dataIndex * 70 + x.datasetIndex * 140 : 0 } } : {}), indexAxis: sp.horizontal ? 'y' : 'x', cutout: sp.type === 'doughnut' ? (sp.cutout || '60%') : undefined, interaction: sp.type === 'doughnut' ? undefined : { mode: ref ? 'nearest' : 'index', intersect: false }, plugins, scales }, plugins: extra };
   }
 
   function refLine(r, hz) {
@@ -141,7 +150,8 @@
     live[id] && live[id].destroy();
     try { live[id] = new Chart(cv, build(specs[id].views[v || 0])); } catch (e) { console.warn('chart ' + id, e); }
   }
-  const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { draw(e.target.id, 0); io.unobserve(e.target); } }), { rootMargin: '250px 0px' });
+  const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { draw(e.target.id, 0); io.unobserve(e.target); } }), V2 && !BO.reduce ? { threshold: .35 } : { rootMargin: '250px 0px' });
+  if (V2) new MutationObserver(() => { theme(); Object.keys(live).forEach(id => { const seg = document.querySelector(`.seg[data-chart="${id}"]`), on = seg ? [...seg.querySelectorAll('button')].findIndex(b => b.classList.contains('on')) : 0; draw(id, Math.max(0, on)); }); }).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
   const go = () => {
     Object.keys(specs).forEach(id => { const cv = document.getElementById(id); cv && io.observe(cv); });
     document.querySelectorAll('.seg[data-chart]').forEach(seg => seg.querySelectorAll('button').forEach(b => b.addEventListener('click', () => {
