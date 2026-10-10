@@ -1,0 +1,64 @@
+{
+ "glossary": [
+  {
+   "id": "revenue",
+   "term": "revenue",
+   "aliases": [
+    "sales"
+   ],
+   "def": "Money received from selling goods or services."
+  },
+  {
+   "id": "auction",
+   "term": "auction",
+   "aliases": [],
+   "def": "A sale in which buyers submit bids."
+  }
+ ],
+ "entities": [
+  {
+   "id": "example",
+   "name": "Example Co.",
+   "type": "Organization",
+   "slug": "_template"
+  },
+  {
+   "id": "example-owner",
+   "name": "Example owner",
+   "type": "Organization"
+  },
+  {
+   "id": "example-peer",
+   "name": "Example peer",
+   "type": "Organization"
+  }
+ ],
+ "edges": [
+  {
+   "from": "example-owner",
+   "to": "example",
+   "type": "owned",
+   "years": "Synthetic fixture",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "_template",
+     "fn": 1
+    }
+   ]
+  },
+  {
+   "from": "example",
+   "to": "example-peer",
+   "type": "rival",
+   "years": "Synthetic fixture",
+   "status": "verified",
+   "evidence": [
+    {
+     "slug": "_template",
+     "fn": 1
+    }
+   ]
+  }
+ ]
+}

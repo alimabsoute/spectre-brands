@@ -28,7 +28,7 @@ A complete, buildable example lives in `companies/_template/` (skipped by the bu
 | sources | **core** | Sources | sources | Sources |
 
 - **Core** files must exist or the build fails. **Optional** files are rendered only if present.
-- Sections always render in the order above (`ORDER` in registry.mjs).
+- `resolveSections()` in registry.mjs sets the order. `layout.order` can reorder middle sections; the opening story sections and Sources keep their positions.
 - The sticky section menu shows six groups (Story, Business, Brand, People, Verdict, Sources). Each group
   lists only the sections this page has; a group with no sections is hidden. On mobile the groups scroll horizontally.
 - Every section file accepts: `kicker` (small label above the title), `title` (required), `lede` (optional
@@ -178,3 +178,53 @@ placed in the section they belong to (any section accepts `blocks`). Every block
 ## 9. Adding a company
 
 Follow the step-by-step guide in [docs/ADD_A_BRAND.md](docs/ADD_A_BRAND.md).
+
+## 10. Pilot v2
+
+The [data contract](research/CONTRACT.md) defines the optional fields below. Existing page data and its citation markers remain unchanged. New components use server-rendered SVG and the existing theme tokens. Their data tables work without JavaScript.
+
+`company.json` accepts `kind` (`chain`, `company`, `product`, `hardware`, `service`), `listed` (an array of `{exchange, ticker, from, to}`), `signature` (`map`, `stock`, `scrolly`, `recreation`, `rivals`, `yeartable`), `glossaryOff` (term IDs), and `layout.order` (section IDs). Products, hardware and services use a Brand entity in Article structured data.
+
+`factFile` is an ordered array of `{key, label?, value, when?, asOf?, recheck?, src, ledger}`. Keys are `was`, `founded`, `peak`, `end`, `buyer`, `nameOwner` and `remains`. The company buyer and current name owner are separate fields. The hero renders the array after its heading as a definition list, followed by a cause row computed from `company.cause` and `site.causes`. An absent or empty array renders nothing. `recheck` defaults to `90d`.
+
+### Sources controls
+
+Keep `[^n]` in prose and source IDs in `src` arrays. The build preserves superscripts at their original positions, adds one Sources control per cited block, and writes that block's source IDs to `data-src`. Hidden ordered lists contain only the sources for each control. The dialog supports Tab, Shift+Tab, Escape and return focus. Source entries retain `src-n` anchors and link back to the blocks that cite them. Table cells, captions, map steps and timeline events have their own mappings.
+
+Superscripts show without JavaScript and in print. The Sources section has a Show citation numbers checkbox whose state persists in localStorage. The default reading view hides the numbers. Source entries still accept `{id, text}`; `{id, title, publisher, url}` is also supported.
+
+### New visual blocks
+
+Use either `type` or the existing `kind` field in any section's `blocks` array.
+
+| Type | Fields and behavior |
+|---|---|
+| `stock` | `title`, `ticker`, `exchange`, `unit`, `series: [{q, hi, lo, ledger?, src?}]`, `events?: [{q, label}]`, `note`, `src`. Quarters use `YYYYQn`. Missing quarters have no bar; the last range never extends to zero. |
+| `rivalchart` | `title`, `metric`, `unit`, `series: [{name, points: [{year, value, ledger?, src?}]}]`, `note`, `src`. Null points and missing annual periods break lines. Every series has labeled dots and a different line pattern. |
+| `storemap` | `title`, `dates: [peak, end]`, `states: {TX: [peakCount, endCount]}`, `unknown`, `totals`, `note`, `src`, `ledger`. All fifty states and DC appear. Null or absent counts mean unknown; zero is a reported zero. Both maps use the same sequential scale. The build warns if states plus the unknown bucket do not match totals. |
+
+Every chart is a figure with a caption, SVG title and description, and a Data table disclosure. A block's `src` applies to its caption; per-point `src` applies to its table row.
+
+`story.json` accepts `variant: "scrolly"` and `stage: {title?, metric, unit, points: [{year, value, src?, ledger?}], note?, src?}`. Each chapter can set `stagePoint` to a point index. Otherwise the renderer matches the chapter's year or spreads chapters across the series. The chart stays beside the chapters on desktop and above them on mobile. Playback starts only when the reader presses Play. Reduced motion uses a static chart.
+
+`timeline.json` accepts `animated: true`. Scroll progress advances the event line; a labeled range input supports keyboard scrubbing. Reduced motion keeps the existing static timeline.
+
+`afterlife.json` accepts `now: [{type, title, text, asOf, recheck?, src, ledger}]`. Types are `trademark`, `company`, `brand`, `site`, `store`, `people` and `revival`. Dates use `YYYY-MM-DD`. Cards display the checked date and an overdue badge after their recheck window. Trademark cards default to `365d`; other cards default to `90d`.
+
+`whatif.json` accepts `featured: [indexes]`, with the first two forks as the default. Remaining forks appear in More what-ifs. Every fork remains in the HTML. Section `method` fields accept a string or string array and render in How we know. The renderer also applies method fields from `site.sectionDefaults`; cause disclaimers and source data notes are disclosures.
+
+### Glossary and connections
+
+`data/glossary.json` contains `{id, term, aliases: [], def}` entries. IDs are URL anchors. Definitions contain no figures or dates. The build links the first eligible occurrence of each term or alias, up to six terms per page, and skips headings, links and quotations. `glossaryOff` excludes terms by ID. Buttons open definitions with Escape support; links lead to `/glossary/` without JavaScript. The glossary page is in the sitemap and footer.
+
+`data/entities.json` contains `{id, name, type, slug?}` entries. `data/edges.json` contains `{from, to, type, years, status, evidence}`. Evidence uses `{slug, fn}` or `{ledger}`. Pages with at least two incident verified edges and resolvable evidence receive a Connections table with links to available post-mortems. No graph is rendered. Missing glossary or connection files produce no inline component.
+
+### Integrity and maintenance
+
+The build fails when a referenced `ledger` ID in real company files or `data/*.json` is missing, unverified, or belongs to another company. Legacy content remains supported. `scripts/ledger-check.mjs` also validates these references after its snapshot, hash and verifier checks. Ledger-only chart points inherit source IDs from verified entries' `fn` fields at render time. `node scripts/check-citations.mjs` checks every rendered marker, block source list, source anchor and backlink; the gate runs it after building.
+
+The pilot gate defaults `FACTS_FLAGS` to `--additive`. This mode compares each file against immutable pre-pilot revision `99efabee14dc32a3df72ca1ac7745a7438d05194`; it does not rewrite `facts/`. Existing numeric tokens, markers, source arrays and quotes cannot be removed or moved between files. Extra numeric tokens must occur in a verified entry's `value` or `quote` for that slug. Extra markers must match its `fn`; extra quotations must match its `value` or `quote`. Ledger IDs and structural indexes are excluded. `FACTS_BASE` can explicitly select another reviewed revision. Default and `--relaxed` modes retain their existing behavior. Use `FACTS_FLAGS=--relaxed` only for a separately authorized legacy check; `--additive --write` is rejected.
+
+`npm run recheck` collects dated fields into `data/recheck.json` and `docs/RECHECK.md`, sorted by due date. Each row records slug, item, value, checked date, window, due date, overdue state and source URL. `npm run variety` reports section order, variants, signature and shape counts; warnings never fail the build. `node scripts/variety.mjs --json` emits the same report as JSON.
+
+The synthetic fixture in `companies/_template/` covers every v2 component. `v2.json` supplies its glossary and connection data without editing site data. Run `node build.mjs --fixture --only _template --out /tmp/spectre-v2-fixture --no-previews` to build it separately. `npm run check:v2` runs integrity tests and browser checks for the fixture, including light and dark themes, reduced motion, no JavaScript, print citations and keyboard interactions. The production build continues to skip `_template`.

@@ -2,6 +2,25 @@
  "kicker": "What if",
  "title": "Three forks in the road",
  "forks": [
-  { "tab": "Raise less", "actual": "What actually happened.[^1]", "whatif": "A clearly speculative alternative." }
- ]
+  {
+   "tab": "Raise less",
+   "actual": "What actually happened.[^1]",
+   "whatif": "A clearly speculative alternative."
+  },
+  {
+   "tab": "Second fixture",
+   "actual": "Another synthetic decision.[^1]",
+   "whatif": "A second speculative alternative."
+  },
+  {
+   "tab": "Third fixture",
+   "actual": "A third synthetic decision.[^1]",
+   "whatif": "A third speculative alternative."
+  }
+ ],
+ "featured": [
+  1,
+  0
+ ],
+ "method": "These forks exercise the disclosure and describe no real company."
 }

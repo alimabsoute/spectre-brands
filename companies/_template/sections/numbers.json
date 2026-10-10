@@ -4,43 +4,269 @@
  "lede": "Optional summary.",
  "blocks": [
   {
-   "kind": "arc", "title": "Rise and fall: revenue by year", "subtitle": "$ millions, fiscal years.",
-   "labels": ["1998", "1999", "2000", "2001"], "format": "usdM", "xLabel": "Fiscal year",
-   "series": [ { "label": "Revenue", "data": [1, 10, 40, 12], "color": "brand" } ],
+   "kind": "arc",
+   "title": "Rise and fall: revenue by year",
+   "subtitle": "$ millions, fiscal years.",
+   "labels": [
+    "1998",
+    "1999",
+    "2000",
+    "2001"
+   ],
+   "format": "usdM",
+   "xLabel": "Fiscal year",
+   "series": [
+    {
+     "label": "Revenue",
+     "data": [
+      1,
+      10,
+      40,
+      12
+     ],
+     "color": "brand"
+    }
+   ],
    "points": [
-    { "i": 2, "title": "the peak", "text": "What happened at the top.[^1]" },
-    { "i": 3, "title": "the end", "text": "What happened at the bottom.[^1]" }
+    {
+     "i": 2,
+     "title": "the peak",
+     "text": "What happened at the top.[^1]"
+    },
+    {
+     "i": 3,
+     "title": "the end",
+     "text": "What happened at the bottom.[^1]"
+    }
    ],
    "source": "10-K filings[^1]."
   },
   {
-   "kind": "chart", "id": "revChart",
-   "title": "Revenue and net loss", "subtitle": "$ millions, fiscal years.",
+   "kind": "chart",
+   "id": "revChart",
+   "title": "Revenue and net loss",
+   "subtitle": "$ millions, fiscal years.",
    "chart": {
-    "type": "bar", "labels": ["1999", "2000"], "y": { "format": "usdM" },
+    "type": "bar",
+    "labels": [
+     "1999",
+     "2000"
+    ],
+    "y": {
+     "format": "usdM"
+    },
     "series": [
-     { "label": "Revenue", "data": [10, 40], "color": "green" },
-     { "label": "Net loss", "data": [-50, -150], "color": "red" }
+     {
+      "label": "Revenue",
+      "data": [
+       10,
+       40
+      ],
+      "color": "green"
+     },
+     {
+      "label": "Net loss",
+      "data": [
+       -50,
+       -150
+      ],
+      "color": "red"
+     }
     ]
    },
    "source": "10-K[^1]."
   },
   {
-   "kind": "flow", "title": "Where the money went", "subtitle": "Capital raised, and what it was spent on.",
-   "from": { "label": "raised from investors", "value": 300 }, "format": "usdM",
+   "kind": "flow",
+   "title": "Where the money went",
+   "subtitle": "Capital raised, and what it was spent on.",
+   "from": {
+    "label": "raised from investors",
+    "value": 300
+   },
+   "format": "usdM",
    "to": [
-    { "label": "Marketing", "value": 120, "color": "red", "note": "Advertising and promotion.[^1]" },
-    { "label": "Warehouses and equipment", "value": 100, "color": "blue", "note": "Capital expenditure.[^1]" },
-    { "label": "Everything else (derived remainder)", "value": 80, "color": "grey", "note": "The destinations must add up to the source." }
+    {
+     "label": "Marketing",
+     "value": 120,
+     "color": "red",
+     "note": "Advertising and promotion.[^1]"
+    },
+    {
+     "label": "Warehouses and equipment",
+     "value": 100,
+     "color": "blue",
+     "note": "Capital expenditure.[^1]"
+    },
+    {
+     "label": "Everything else (derived remainder)",
+     "value": 80,
+     "color": "grey",
+     "note": "The destinations must add up to the source."
+    }
    ],
    "source": "10-K[^1]. The remainder is derived."
   },
   {
-   "kind": "scale", "title": "The marketing budget, in Super Bowl spots", "icon": "tv", "count": 60,
-   "left": { "value": "$120M", "label": "marketing spend[^1]" }, "unit": { "value": "$2M", "label": "Super Bowl spots" },
+   "kind": "scale",
+   "title": "The marketing budget, in Super Bowl spots",
+   "icon": "tv",
+   "count": 60,
+   "left": {
+    "value": "$120M",
+    "label": "marketing spend[^1]"
+   },
+   "unit": {
+    "value": "$2M",
+    "label": "Super Bowl spots"
+   },
    "equation": "$120M ÷ $2M = 60.[^1]"
   },
-  { "kind": "keyfacts", "caption": "Per order", "rows": [ { "value": "$-12", "text": "loss per order (**derived**: net loss ÷ orders)[^1]" } ] },
-  { "kind": "note", "body": "Any number we calculated is labeled **derived**." }
+  {
+   "kind": "keyfacts",
+   "caption": "Per order",
+   "rows": [
+    {
+     "value": "$-12",
+     "text": "loss per order (**derived**: net loss ÷ orders)[^1]"
+    }
+   ]
+  },
+  {
+   "kind": "note",
+   "body": "Any number we calculated is labeled **derived**."
+  },
+  {
+   "type": "stock",
+   "title": "Demonstration quarterly ranges",
+   "ticker": "DEMO",
+   "exchange": "EXAMPLE",
+   "unit": "USD",
+   "series": [
+    {
+     "q": "1999Q1",
+     "hi": 30,
+     "lo": 17,
+     "src": [
+      1
+     ]
+    },
+    {
+     "q": "1999Q3",
+     "hi": 20,
+     "lo": 9,
+     "src": [
+      1
+     ]
+    },
+    {
+     "q": "1999Q4",
+     "hi": 9,
+     "lo": 3,
+     "src": [
+      1
+     ]
+    }
+   ],
+   "events": [
+    {
+     "q": "1999Q3",
+     "label": "Example event"
+    }
+   ],
+   "note": "Synthetic ranges. The missing second quarter stays empty.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "type": "rivalchart",
+   "title": "Demonstration comparison",
+   "metric": "Revenue",
+   "unit": "demonstration units",
+   "series": [
+    {
+     "name": "Example Co.",
+     "points": [
+      {
+       "year": 1998,
+       "value": 1,
+       "src": [
+        1
+       ]
+      },
+      {
+       "year": 1999,
+       "value": 10,
+       "src": [
+        1
+       ]
+      },
+      {
+       "year": 2000,
+       "value": 40,
+       "src": [
+        1
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Example peer",
+     "points": [
+      {
+       "year": 1998,
+       "value": 4
+      },
+      {
+       "year": 1999,
+       "value": null
+      },
+      {
+       "year": 2000,
+       "value": 12
+      }
+     ]
+    }
+   ],
+   "note": "Synthetic data. Missing values break the line.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "type": "storemap",
+   "title": "Demonstration store counts",
+   "dates": [
+    "2000",
+    "2001"
+   ],
+   "states": {
+    "TX": [
+     10,
+     3
+    ],
+    "CA": [
+     4,
+     0
+    ],
+    "DC": [
+     1,
+     null
+    ]
+   },
+   "unknown": [
+    2,
+    1
+   ],
+   "totals": [
+    17,
+    4
+   ],
+   "note": "Synthetic counts. Unlisted states are unknown.",
+   "src": [
+    1
+   ]
+  }
  ]
 }

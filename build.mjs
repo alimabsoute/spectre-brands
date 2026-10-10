@@ -25,7 +25,7 @@ import { json, esc } from './lib/md.mjs';
 import { sketch } from './lib/sketch.mjs';
 import { citations } from './lib/citations.mjs';
 import { glossaryLinks, glossaryPage } from './lib/glossary.mjs';
-import { ledgerReferences, readLedger } from './lib/ledger.mjs';
+import { ledgerReferences, readLedger, ledgerSources } from './lib/ledger.mjs';
 import { connectionsFor } from './lib/viz/connections.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
@@ -71,6 +71,7 @@ function loadCompany(slug, site) {
     c.sections[id] = readJSON(path.join(sdir, f));
   }
   for (const [id, s] of Object.entries(SECTIONS)) if (s.core && id !== 'overview' && !c.sections[id]) errors.push(`${slug}: core section "${id}" is missing (sections/${id}.json)`);
+  ledgerSources(c, ledger);
   validate(c);
   return c;
 }
@@ -248,7 +249,7 @@ if (PREVIEWS) fnPreview({ OUT, write });
 // (the featured brand and the next four by number).
 const thumbOf = c => { const i = c.card.logo ? makeCtx(c).image(c.card.logo) : leadImage(c)?.i; return i ? i.fallback || i.src : ''; };
 const featured = [companies.find(c => c.slug === site.featured), ...companies].filter((c, i, a) => c && a.indexOf(c) === i).slice(0, 5);
-write('search.json', JSON.stringify(companies.map(c => ({ g: 'Brands', r: c.tier, i: thumbOf(c), f: featured.includes(c) ? 1 : 0, n: c.name, u: `/${c.slug}/`, t: c.tierLabel, c: site.categories.find(k => k.id === c.category).label, y: c.years, d: decadeOf(c.died), k: site.causes.find(k => k.id === c.cause).label, b: c.card.blurb, p: c.place })).concat(site.categories.filter(k => k.n).map(k => ({ g: 'Categories', n: k.label, u: `/category/${k.id}/`, t: 'Category', c: '', y: `${k.n} post-mortems`, b: k.blurb, d: '', k: '', p: '' })), [{ g: 'Pages', n: 'About and methodology', u: '/about/', t: 'Page', c: '', y: '', b: 'Sources, Dead vs Ghost, data-honesty rules, trademarks and fair use.', d: '', k: '', p: '' }])));
+write('search.json', JSON.stringify(companies.map(c => ({ g: 'Brands', r: c.tier, i: thumbOf(c), f: featured.includes(c) ? 1 : 0, n: c.name, u: `/${c.slug}/`, t: c.tierLabel, c: site.categories.find(k => k.id === c.category).label, y: c.years, d: decadeOf(c.died), k: site.causes.find(k => k.id === c.cause).label, b: c.card.blurb, p: c.place })).concat(site.categories.filter(k => k.n).map(k => ({ g: 'Categories', n: k.label, u: `/category/${k.id}/`, t: 'Category', c: '', y: `${k.n} post-mortems`, b: k.blurb, d: '', k: '', p: '' })), [{ g: 'Pages', n: 'About and methodology', u: '/about/', t: 'Page', c: '', y: '', b: 'Sources, Dead vs Ghost, data-honesty rules, trademarks and fair use.', d: '', k: '', p: '' }, { g: 'Pages', n: 'Glossary', u: '/glossary/', t: 'Page', c: '', y: '', b: 'Terms used in the post-mortems.', d: '', k: '', p: '' }])));
 const urls = ['/', '/about/', '/glossary/', ...site.categories.filter(k => k.n).map(k => `/category/${k.id}/`), ...companies.map(c => `/${c.slug}/`)];
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(u => `<url><loc>${site.url}${u}</loc></url>`).join('\n')}\n</urlset>\n`);
 write('robots.txt', `User-agent: *\nAllow: /\nDisallow: /preview/\n\nSitemap: ${site.url}/sitemap.xml\n`);

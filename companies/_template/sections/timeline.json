@@ -3,12 +3,40 @@
  "title": "Key dates",
  "lede": "Filter by category.",
  "categories": {
-  "corporate": { "label": "Corporate", "color": "#3d5f86" },
-  "money": { "label": "Money", "color": "#4f7a4a" },
-  "death": { "label": "Decline", "color": "#a8321f" }
+  "corporate": {
+   "label": "Corporate",
+   "color": "#3d5f86"
+  },
+  "money": {
+   "label": "Money",
+   "color": "#4f7a4a"
+  },
+  "death": {
+   "label": "Decline",
+   "color": "#a8321f"
+  }
  },
  "events": [
-  { "date": "Dec", "year": "1998", "cat": "corporate", "title": "Founded", "text": "Sentence.", "src": [1] },
-  { "date": "Nov 9", "year": "2001", "cat": "death", "title": "Shut down", "text": "Sentence.", "src": [1] }
- ]
+  {
+   "date": "Dec",
+   "year": "1998",
+   "cat": "corporate",
+   "title": "Founded",
+   "text": "Sentence.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "date": "Nov 9",
+   "year": "2001",
+   "cat": "death",
+   "title": "Shut down",
+   "text": "Sentence.",
+   "src": [
+    1
+   ]
+  }
+ ],
+ "animated": true
 }

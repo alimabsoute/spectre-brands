@@ -15,10 +15,14 @@ export function openSources(link) {
 function revealAnchor(hash) {
   const target = document.getElementById(hash.slice(1));
   for (let el = target?.parentElement; el; el = el.parentElement) if (el.tagName === 'DETAILS') el.open = true;
+  if (target) { target.setAttribute('tabindex', '-1'); target.focus({ preventScroll: true }); }
   target?.scrollIntoView({ block: 'center', behavior: 'instant' });
 }
 if (dialog) {
-  dialog.addEventListener('close', () => returnFocus?.focus({ preventScroll: true }));
+  dialog.addEventListener('close', () => {
+    const target = returnFocus?.isConnected ? returnFocus : $(`.srcs[data-cite="${returnFocus?.dataset.cite}"]`);
+    target?.focus({ preventScroll: true });
+  });
   dialog.addEventListener('click', event => { if (event.target === dialog || event.target.closest('[data-source-close]')) dialog.close(); });
   dialog.addEventListener('keydown', event => {
     if (event.key === 'Escape') { event.preventDefault(); dialog.close(); }

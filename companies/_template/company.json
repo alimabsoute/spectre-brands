@@ -8,41 +8,128 @@
  "years": "1998 – 2001",
  "died": 2001,
  "dates": [
-  { "date": "2001-07-09", "text": "filed for Chapter 11 and stopped taking orders" }
+  {
+   "date": "2001-07-09",
+   "text": "filed for Chapter 11 and stopped taking orders"
+  }
  ],
  "place": "What it sold · Headquarters city, State",
  "title": "Example Co. (1998–2001): a specific hook, 60 characters max",
  "description": "One or two sentences for search results and link previews (about 150–160 characters).",
- "theme": { "accent": "#305a90", "soft": "#e7eef3" },
+ "theme": {
+  "accent": "#305a90",
+  "soft": "#e7eef3"
+ },
  "published": "2026-10-03",
  "card": {
   "blurb": "One or two sentences for the homepage card.",
-  "stat": { "value": "$100M", "label": "the single number that defines the failure" },
-  "spark": [1, 4, 9, 6, 0],
+  "stat": {
+   "value": "$100M",
+   "label": "the single number that defines the failure"
+  },
+  "spark": [
+   1,
+   4,
+   9,
+   6,
+   0
+  ],
   "peak": 2
  },
  "hero": {
   "dates": "Founded Month YYYY. Closed Month D, YYYY.",
   "standfirst": "One sentence: what the company promised, and what happened to the promise.",
-  "deck": "Two or three sentences on what happened, ending with what this post-mortem is built from.[^1]",
+  "deck": "Two or three sentences on what happened, ending with what this post-mortem is built from.[^1] Revenue appears here as a glossary fixture.",
   "art": "art/hero.svg",
   "motion": "float",
   "artCaption": "Original illustration. Not an official asset.",
   "archive": [
-   { "image": "img/archive-2000-01-home.png", "caption": "Home page, Jan 2000" }
+   {
+    "image": "img/archive-2000-01-home.png",
+    "caption": "Home page, Jan 2000"
+   }
   ]
  },
  "keyNumbers": {
   "caption": "The company in four numbers",
   "rows": [
-   { "value": "$100M", "text": "raised in the IPO[^1]" },
-   { "value": "~1,000", "text": "employees at the peak (**derived** from two filings)[^1]" },
-   { "value": "$150M", "text": "net loss in its last full year[^1]" },
-   { "value": "$0", "text": "returned to shareholders[^1]" }
+   {
+    "value": "$100M",
+    "text": "raised in the IPO[^1]"
+   },
+   {
+    "value": "~1,000",
+    "text": "employees at the peak (**derived** from two filings)[^1]"
+   },
+   {
+    "value": "$150M",
+    "text": "net loss in its last full year[^1]"
+   },
+   {
+    "value": "$0",
+    "text": "returned to shareholders[^1]"
+   }
   ]
  },
  "findings": [
-  { "title": "Finding one.", "text": "One or two sourced sentences.[^1]" },
-  { "title": "Finding two.", "text": "One or two sourced sentences.[^1]" }
+  {
+   "title": "Finding one.",
+   "text": "One or two sourced sentences.[^1]"
+  },
+  {
+   "title": "Finding two.",
+   "text": "One or two sourced sentences.[^1]"
+  }
+ ],
+ "kind": "company",
+ "listed": [
+  {
+   "exchange": "EXAMPLE",
+   "ticker": "DEMO",
+   "from": "1999",
+   "to": "2001"
+  }
+ ],
+ "signature": "stock",
+ "glossaryOff": [],
+ "factFile": [
+  {
+   "key": "was",
+   "value": "Synthetic company used to test the renderer.",
+   "src": [
+    1
+   ]
+  },
+  {
+   "key": "founded",
+   "value": "1998",
+   "src": [
+    1
+   ]
+  },
+  {
+   "key": "peak",
+   "value": "40 demonstration units",
+   "when": "2000",
+   "src": [
+    1
+   ]
+  },
+  {
+   "key": "buyer",
+   "value": "Example buyer",
+   "src": [
+    1
+   ]
+  },
+  {
+   "key": "nameOwner",
+   "value": "Demonstration owner",
+   "asOf": "2026-10-03",
+   "recheck": "90d",
+   "src": [
+    1
+   ]
+  }
  ]
 }

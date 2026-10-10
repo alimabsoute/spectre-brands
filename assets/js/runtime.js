@@ -17,7 +17,7 @@
     near($('main.company'), () => v2());
     document.addEventListener('click', e => {
       const link = e.target.closest('.srcs');
-      if (link && !v2Module && !e.metaKey && !e.ctrlKey && !e.shiftKey) { e.preventDefault(); v2().then(m => m.openSources(link)).catch(() => { location.hash = 'sources'; }); }
+      if (link && !document.documentElement.classList.contains('v2-ready') && !e.metaKey && !e.ctrlKey && !e.shiftKey) { e.preventDefault(); v2().then(m => m.openSources(link)).catch(() => { location.hash = 'sources'; }); }
     }, true);
   }
 
