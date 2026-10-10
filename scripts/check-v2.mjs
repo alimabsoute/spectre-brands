@@ -80,6 +80,8 @@ try {
     assert.equal(await page.locator('.timeline-scrub').isVisible(), false);
     assert.equal(await page.locator('[data-story-play]').isVisible(), false);
     assert.equal(await page.locator('.scrolly .stage-active').count(), 0);
+    await page.goto(`${base}/about/`);
+    assert.equal(await page.locator('sup.fn').first().evaluate(el => getComputedStyle(el).display), 'inline');
     await ctx.close();
   }
   const nojs = await browser.newContext({ javaScriptEnabled: false, viewport: { width: 375, height: 900 } }), page = await nojs.newPage();

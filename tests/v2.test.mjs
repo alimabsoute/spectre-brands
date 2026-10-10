@@ -13,6 +13,7 @@ import { additiveTokens, additiveDiff } from '../lib/facts-additive.mjs';
 import { ledgerReferences, ledgerSources } from '../lib/ledger.mjs';
 import { checked } from '../lib/recheck.mjs';
 import { collectRechecks } from '../scripts/recheck.mjs';
+import { readingWords } from '../lib/pmtransform.mjs';
 const superscript = n => `<sup class="fn"><a href="#src-${n}">${n}</a></sup>`;
 const list = [1, 2, 3].map(id => ({ id, title: `Document ${id}`, publisher: 'Example publisher', url: `https://example.com/${id}` }));
 
@@ -32,6 +33,9 @@ test('citations retain marker positions and isolate paragraphs, rows, captions a
   assert.equal((event.match(/class="srcs"/g) || []).length, 1);
   assert.match(event, /class="ev" id="cite-1" data-src="1 2"/);
   assert.match(event, /<p>Text\.[\s\S]*?class="srcs"[\s\S]*?<\/p>/);
+  const note = citations(`<section id="sources"><ol><li id="src-1">Source one.</li></ol><details><p>Derived value.${superscript(1)}</p></details></section>`, list);
+  assert.match(note, /<p id="cite-1" data-src="1">Derived value/);
+  assert.equal((note.match(/class="srcs"/g) || []).length, 1);
 });
 
 test('glossary skips protected text, limits six terms and respects aliases and opt-outs', () => {
@@ -46,6 +50,12 @@ test('glossary skips protected text, limits six terms and respects aliases and o
   assert.match(glossaryLinks('<p>“a <b>revenue</b> quote” auction</p>', terms), /<b>revenue<\/b>/);
 });
 
+test('reading time excludes source mappings and duplicate glossary copy', () => {
+  const html = `<p>Revenue was reported.${superscript(1)}</p><section id="sources"><ol><li id="src-1">Document words here.</li></ol></section>`;
+  const result = glossaryLinks(citations(html, list), [{ id: 'revenue', term: 'Revenue', aliases: [], def: 'Money from sales.' }]);
+  assert.equal(readingWords(result), readingWords(html));
+});
+
 test('stock ranges preserve a missing quarter and stop at the last supplied range', () => {
   const html = stock({ type: 'stock', title: 'Fixture', unit: 'USD', series: [{ q: '2000Q1', lo: 10, hi: 20 }, { q: '2000Q3', lo: 2, hi: 4 }] }, {});
   assert.equal((html.match(/class="v2-range"/g) || []).length, 2);
@@ -53,6 +63,9 @@ test('stock ranges preserve a missing quarter and stop at the last supplied rang
   assert.doesNotMatch(html, /2000Q4/);
   assert.match(html, /<title id=/); assert.match(html, /<desc id=/); assert.match(html, /<figcaption>/);
   assert.throws(() => stock({ series: [{ q: '2000Q1', lo: 4, hi: 2 }] }, {}), /Invalid/);
+  const delisted = stock({ type: 'stock', title: 'Fixture', unit: 'USD', series: [{ q: '2000Q1', lo: 10, hi: 20 }], events: [{ q: '2000Q2', label: 'Delisted' }] }, {});
+  assert.equal((delisted.match(/class="v2-range"/g) || []).length, 1);
+  assert.match(delisted, /2000Q2<\/th><td>No data<\/td><td>No data<\/td><td>Delisted/);
 });
 
 test('rival lines break on nulls and missing years', () => {

@@ -1,5 +1,5 @@
-sup.fn{display:none}
-.citation-numbers sup.fn{display:inline}
+main.company sup.fn{display:none}
+.citation-numbers main.company sup.fn{display:inline}
 .srcs{display:inline-block;margin-left:var(--s-1);padding:var(--s-1) var(--s-2);font:500 var(--t-xs)/1.4 var(--sans);color:var(--brand);border:1px solid var(--line-2);border-radius:var(--r-1);vertical-align:baseline;text-decoration:none;white-space:nowrap}
 .srcs:hover,.srcs:focus-visible{background:var(--wash);border-color:var(--brand)}
 .source-dialog{width:min(42rem,calc(100% - 2 * var(--gutter)));max-height:80vh;overflow:auto;color:var(--ink);background:var(--card);border:1px solid var(--line-2);border-radius:var(--r-2);padding:var(--s-5);box-shadow:var(--shadow-3)}

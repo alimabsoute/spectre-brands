@@ -15,7 +15,7 @@ for (const dir of fs.readdirSync(out, { withFileTypes: true })) {
   pages++;
   const bad = message => errors.push(`${dir.name}: ${message}`);
   visit(main, (node, ancestors) => {
-    if (ancestors.some(n => attr(n, 'id') === 'sources' || hasClass(n, 'source-mapping') || n.tag === 'dialog')) return;
+    if (ancestors.some(n => /^src-\d+$/.test(attr(n, 'id') || '') || hasClass(n, 'source-mapping') || n.tag === 'dialog')) return;
     if (node.tag === 'sup' && hasClass(node, 'fn')) {
       markers++;
       const source = renderHTML(node).match(/href="#src-(\d+)"/)?.[1];
