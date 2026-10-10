@@ -9,22 +9,78 @@
  "featured": "pets-com",
  "legal": "Spectre Brands is an independent editorial project and is not affiliated with, sponsored by or endorsed by any company it writes about. All brand names, logos, advertisements, screenshots and trademarks belong to their respective owners and appear here for the purposes of commentary, criticism, news reporting and historical record. Illustrations marked as original are our own drawings, not official assets. Embedded videos are served by the platforms that host them and remain the property of their rights holders.",
  "categories": [
-  {"id": "dotcom", "label": "Dot-com & internet", "blurb": "Internet companies from the 1990s bubble onward.", "intro": "The bubble of 1995–2001 funded businesses that had never earned a dollar of profit, and a few that never would. Some of the ideas were right and a decade early. Others outlived the crash and are still here, much smaller than they were."},
-  {"id": "electronics", "label": "Electronics retail", "blurb": "The chains that sold America its radios, televisions and phones.", "intro": "For half a century, buying electronics meant walking into a store and asking someone. These chains were built on that conversation, and lost it to big boxes, carriers and the internet."},
-  {"id": "retail", "label": "Toy stores", "blurb": "Mall toy stores and the superstores that replaced them.", "intro": "Toy retail consolidated twice: first into category-killer superstores, then into Walmart, Target and Amazon. The chains here were casualties of one wave or the other, and in most cases of the debt put on them along the way."},
-  {"id": "consumer", "label": "Food & drink", "blurb": "Drinks and packaged goods that were launched big and pulled fast.", "intro": "Clear was the flavor of 1992–1994. These products launched with national campaigns, sold on curiosity, and lost repeat buyers within a year or two. Nostalgia keeps bringing them back for a few weeks at a time."},
-  {"id": "games", "label": "Video games", "blurb": "Console makers and the names that outlived them.", "intro": "Hardware is the most expensive bet in entertainment. These are the companies that lost it, and the brand names that were sold on afterward."},
-  {"id": "film", "label": "Film & home video", "blurb": "Rental chains and streaming bets.", "intro": "Home video was a business of late fees and Friday nights for twenty-five years. Its biggest name is down to one store, and one of the best-funded attempts to replace it lasted six months."},
-  {"id": "restaurants", "label": "Restaurants", "blurb": "Chains that closed their last location, or nearly did.", "intro": "A restaurant chain is real estate, franchise contracts and a sign. When the first two go, the sign can linger for decades."}
+  {
+   "id": "dotcom",
+   "label": "Dot-com & internet",
+   "blurb": "Internet companies from the 1990s bubble onward.",
+   "intro": "The bubble of 1995–2001 funded businesses that had never earned a dollar of profit, and a few that never would. Some of the ideas were right and a decade early. Others outlived the crash and are still here, much smaller than they were."
+  },
+  {
+   "id": "electronics",
+   "label": "Electronics retail",
+   "blurb": "The chains that sold America its radios, televisions and phones.",
+   "intro": "For half a century, buying electronics meant walking into a store and asking someone. These chains were built on that conversation, and lost it to big boxes, carriers and the internet."
+  },
+  {
+   "id": "retail",
+   "label": "Toy stores",
+   "blurb": "Mall toy stores and the superstores that replaced them.",
+   "intro": "Toy retail consolidated twice: first into category-killer superstores, then into Walmart, Target and Amazon. The chains here were casualties of one wave or the other, and in most cases of the debt put on them along the way."
+  },
+  {
+   "id": "consumer",
+   "label": "Food & drink",
+   "blurb": "Drinks and packaged goods that were launched big and pulled fast.",
+   "intro": "Clear was the flavor of 1992–1994. These products launched with national campaigns, sold on curiosity, and lost repeat buyers within a year or two. Nostalgia keeps bringing them back for a few weeks at a time."
+  },
+  {
+   "id": "games",
+   "label": "Video games",
+   "blurb": "Console makers and the names that outlived them.",
+   "intro": "Hardware is the most expensive bet in entertainment. These are the companies that lost it, and the brand names that were sold on afterward."
+  },
+  {
+   "id": "film",
+   "label": "Film & home video",
+   "blurb": "Rental chains and streaming bets.",
+   "intro": "Home video was a business of late fees and Friday nights for twenty-five years. Its biggest name is down to one store, and one of the best-funded attempts to replace it lasted six months."
+  },
+  {
+   "id": "restaurants",
+   "label": "Restaurants",
+   "blurb": "Chains that closed their last location, or nearly did.",
+   "intro": "A restaurant chain is real estate, franchise contracts and a sign. When the first two go, the sign can linger for decades."
+  }
  ],
  "causes": [
-  {"id": "unit-economics", "label": "Unit economics"},
-  {"id": "overexpansion", "label": "Overexpansion"},
-  {"id": "debt", "label": "Debt and buyouts"},
-  {"id": "disruption", "label": "Technology shift"},
-  {"id": "competition", "label": "Outcompeted"},
-  {"id": "management", "label": "Strategy and management"},
-  {"id": "fad", "label": "A fad that faded"}
+  {
+   "id": "unit-economics",
+   "label": "Unit economics"
+  },
+  {
+   "id": "overexpansion",
+   "label": "Overexpansion"
+  },
+  {
+   "id": "debt",
+   "label": "Debt and buyouts"
+  },
+  {
+   "id": "disruption",
+   "label": "Technology shift"
+  },
+  {
+   "id": "competition",
+   "label": "Outcompeted"
+  },
+  {
+   "id": "management",
+   "label": "Strategy and management"
+  },
+  {
+   "id": "fad",
+   "label": "A fad that faded"
+  }
  ],
  "methodLede": "No figure appears without a source, and nothing is presented as fact that we could not check. The short version is below; the full rules are on the About page.",
  "method": [
@@ -38,16 +94,35 @@
   "title": "About and methodology",
   "lede": "Spectre Brands is a collection of post-mortems: what a company was, what killed it, and what happened to its name afterward. This page explains how they are researched and the rules they follow.",
   "sections": [
-   {"id": "what", "title": "What this is", "body": "Each post-mortem is a single long page built from data files: a story in chapters, a timeline, the numbers, the commercials, the old website, a cause-of-death analysis, a few counterfactuals and the afterlife of the brand. Nothing is written directly in HTML; the same renderer builds every page, so every brand gets the same sections in the same order and can be compared with the others.\n\nThe site is independent. It is not affiliated with any company it covers and takes no money from any of them."},
-   {"id": "tiers", "title": "Dead versus Ghost", "body": "Every brand carries one of two tags, and a one-line justification that links to the evidence.", "after": "A brand can move from one to the other. A dead brand that is revived under license becomes a ghost; a ghost whose last licensee stops using the name becomes dead. Tags are reviewed when a page is updated."},
-   {"id": "sources", "title": "How sources are chosen", "body": "Sources are used in a fixed order of preference, and each one is listed in the numbered Sources section of the page that uses it.", "list": [
+   {
+    "id": "what",
+    "title": "What this is",
+    "body": "Each post-mortem is a single long page built from data files: a story in chapters, a timeline, the numbers, the commercials, the old website, a cause-of-death analysis, a few counterfactuals and the afterlife of the brand. Nothing is written directly in HTML; the same renderer builds every page, so every brand gets the same sections in the same order and can be compared with the others.\n\nThe site is independent. It is not affiliated with any company it covers and takes no money from any of them."
+   },
+   {
+    "id": "tiers",
+    "title": "Dead versus Ghost",
+    "body": "Every brand carries one of two tags, and a one-line justification that links to the evidence.",
+    "after": "A brand can move from one to the other. A dead brand that is revived under license becomes a ghost; a ghost whose last licensee stops using the name becomes dead. Tags are reviewed when a page is updated."
+   },
+   {
+    "id": "sources",
+    "title": "How sources are chosen",
+    "body": "Sources are used in a fixed order of preference, and each one is listed in the numbered Sources section of the page that uses it.",
+    "list": [
      "**Primary filings.** SEC filings on EDGAR (10-K, 10-Q, 8-K, S-1 and proxy statements), bankruptcy court dockets and orders, and company press releases. Figures are taken from the filing for the period, or from a later restatement where one exists, and the page says which.",
      "**Contemporary press.** Newspapers, wire services and trade publications from the time of the events, which establish what was known then. We prefer outlets with a corrections policy.",
      "**Later reporting and reference works.** Retrospectives, books and encyclopedic histories, used for context and for periods before electronic filing.",
      "**The Internet Archive.** Wayback Machine captures for what a website actually said on a given date, and archived video for advertising and news footage.",
      "**General knowledge.** A small number of uncontroversial facts (the launch year of a well-known product, for instance) are marked as general knowledge in the data notes rather than given a citation."
-    ], "after": "Wikipedia is used to find sources, not as a source for figures. Where a number appears only in a secondary source, the page says so."},
-   {"id": "honesty", "title": "Data-honesty rules", "body": "These rules are enforced by the build: a page with a footnote that does not resolve to a source will not publish.", "list": [
+    ],
+    "after": "Wikipedia is used to find sources, not as a source for figures. Where a number appears only in a secondary source, the page says so."
+   },
+   {
+    "id": "honesty",
+    "title": "Data-honesty rules",
+    "body": "These rules are enforced by the build: a page with a footnote that does not resolve to a source will not publish.",
+    "list": [
      "Every number links to a numbered source. Never an invented figure, never a rounded guess presented as a fact.",
      "A figure we calculated from sourced figures is labeled **derived**, and the calculation is given in the chart note or the data notes.",
      "An **estimate** is labeled as one and attributed to whoever made it.",
@@ -55,10 +130,32 @@
      "Cause-of-death percentages are an editorial weighting. The evidence under each cause is sourced; the weights are opinion and are labeled as such.",
      "What-if scenarios are speculation and are labeled speculative.",
      "Every chart has a data table beneath it, so the numbers can be read and checked without the picture."
-    ]},
-   {"id": "footage", "title": "Commercials and footage", "body": "Videos are embedded from YouTube (through the privacy-enhanced youtube-nocookie.com domain), the Internet Archive and similar services. Nothing loads from those services until you press play. We do not host or copy any video file. Each embed is captioned with its year, what it is and a link to where it lives, and a script checks periodically that every video still exists; dead ones are removed.\n\nUpload titles and dates on video platforms are often wrong. Where the year of a commercial comes only from the uploader, the caption says so."},
-   {"id": "fair-use", "title": "Trademarks and fair use", "body": "All brand names, logos, slogans, advertisements and trademarks shown on this site belong to their respective owners. They appear here for commentary, criticism, news reporting and historical record, at the size and in the amount needed to make the point: a logo cropped from an archived page, a screenshot of a website as it stood on a given day, a still from a commercial.\n\nIllustrations labeled as original are our own drawings in the spirit of a brand's products, stores or mascots. They are not official assets and are not meant to be mistaken for them.\n\nImages from Wikimedia Commons are used under the license stated in each caption, with attribution. If you own rights in something shown here and believe its use goes beyond fair use, write to the address in the repository and it will be reviewed promptly."},
-   {"id": "corrections", "title": "Corrections", "body": "The data files for every page are public in the [GitHub repository](https://github.com/alimabsoute/spectre-brands). If a figure is wrong or a source has moved, open an issue with the page, the figure and the source you believe is correct. Corrections are made in the data file and the page is rebuilt."}
+    ]
+   },
+   {
+    "id": "footage",
+    "title": "Commercials and footage",
+    "body": "Videos are embedded from YouTube (through the privacy-enhanced youtube-nocookie.com domain), the Internet Archive and similar services. Nothing loads from those services until you press play. We do not host or copy any video file. Each embed is captioned with its year, what it is and a link to where it lives, and a script checks periodically that every video still exists; dead ones are removed.\n\nUpload titles and dates on video platforms are often wrong. Where the year of a commercial comes only from the uploader, the caption says so."
+   },
+   {
+    "id": "fair-use",
+    "title": "Trademarks and fair use",
+    "body": "All brand names, logos, slogans, advertisements and trademarks shown on this site belong to their respective owners. They appear here for commentary, criticism, news reporting and historical record, at the size and in the amount needed to make the point: a logo cropped from an archived page, a screenshot of a website as it stood on a given day, a still from a commercial.\n\nIllustrations labeled as original are our own drawings in the spirit of a brand's products, stores or mascots. They are not official assets and are not meant to be mistaken for them.\n\nImages from Wikimedia Commons are used under the license stated in each caption, with attribution. If you own rights in something shown here and believe its use goes beyond fair use, write to the address in the repository and it will be reviewed promptly."
+   },
+   {
+    "id": "corrections",
+    "title": "Corrections",
+    "body": "The data files for every page are public in the [GitHub repository](https://github.com/alimabsoute/spectre-brands). If a figure is wrong or a source has moved, open an issue with the page, the figure and the source you believe is correct. Corrections are made in the data file and the page is rebuilt."
+   }
   ]
+ },
+ "sectionDefaults": {
+  "cause": {
+   "lede": "Open a cause to see its evidence. The percentages are our weighting; the evidence under them is sourced.",
+   "disclaimer": "the weights are the editors’ reading, not a measurement. The filings record the symptoms. How much each one mattered is a judgment call."
+  },
+  "whatif": {
+   "lede": "{N} points where the story could have turned. The “What if” panels are speculation, and say so."
+  }
  }
 }

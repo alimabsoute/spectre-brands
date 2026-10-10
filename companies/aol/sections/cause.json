@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 40,
@@ -28,6 +27,5 @@
    "title": "Acquisitions that did not replace it",
    "text": "AOL paid $852 million in cash for Bebo in 2008 and sold it in 2010. Time Warner impaired AOL’s goodwill by $2.2 billion in 2008, and AOL impaired it by a further $1.4 billion in 2010.[^12][^11][^13]"
   }
- ],
- "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings document the symptoms. How much each one contributed is a matter of opinion."
+ ]
 }

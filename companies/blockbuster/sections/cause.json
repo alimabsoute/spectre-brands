@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 35,
@@ -28,6 +27,5 @@
    "title": "Too many leases",
    "text": "More than 9,000 stores were an asset while customers came to them and a fixed cost when they did not. The company closed 374 U.S. stores in 2009 alone, and Dish Network later said that too few stores remained to carry the corporate overhead.[^9][^28]"
   }
- ],
- "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings document the symptoms. How much each one contributed is a matter of opinion."
+ ]
 }
