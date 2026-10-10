@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 40,
@@ -16,7 +15,7 @@
   {
    "weight": 15,
    "title": "A decade lost online",
-   "text": "After a failed 1999 holiday season online, the company paid Amazon a base fee of $50M a year from 2000 to run its site, sued in 2004 and was released by a court in 2006. In fiscal 2016 e-commerce was $1,495M of $11,540M in sales, 13% (derived).[^1][^5][^32][^33]"
+   "text": "After a failed 1999 holiday season online, the company paid Amazon a $50M annual base fee from 2000 to run its site, sued in 2004 and was released by a court in 2006. In fiscal 2016 e-commerce was $1,495M of $11,540M in sales, 13% (derived).[^1][^5][^32][^33]"
   },
   {
    "weight": 10,

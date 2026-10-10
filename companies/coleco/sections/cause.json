@@ -1,12 +1,11 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 40,
    "title": "One craze at a time",
-   "text": "Electronics were 73% of sales in 1982; Cabbage Patch Kids were about 77% in 1985 (derived). When doll sales fell to about $250M in 1986, nothing replaced them; Furskins, Wrinkles and Rambo sold modestly.[^2][^3][^6]"
+   "text": "Electronics were 73% of sales in 1982; Cabbage Patch Kids were about 77% in 1985 (derived). When doll sales fell to about $250M in 1986, nothing replaced them; Furskins, Wrinkles and Rambo sold modestly.[^2][^3][^6] [Sharper Image](/sharper-image/), also filed under fad, depended on one product line in the same way."
   },
   {
    "weight": 25,
@@ -20,9 +19,9 @@
   },
   {
    "weight": 10,
-   "title": "Lost licences",
-   "text": "It did not own its biggest products. In 1988 it lost Trivial Pursuit to Tonka and faced losing the Cabbage Patch licence from Original Appalachian Artworks.[^7]"
+   "title": "Lost licenses",
+   "text": "It did not own its biggest products. In 1988 it lost Trivial Pursuit to Tonka and faced losing the Cabbage Patch license from Original Appalachian Artworks.[^7]"
   }
  ],
- "disclaimer": "The weights are our judgment of how much each factor contributed. Reasonable readers could weigh them differently."
+ "disclaimer": "The weights are our judgment of how much each factor contributed. Another reader could weigh them differently."
 }

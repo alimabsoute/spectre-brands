@@ -5,7 +5,7 @@
  "blocks": [
   {
    "kind": "keyfacts",
-   "caption": "The disc programme, in its managers’ own words and the company’s accounts",
+   "caption": "The disc program, in its managers’ own words and the company’s accounts",
    "rows": [
     {
      "value": "$1.19",
@@ -66,7 +66,7 @@
      }
     ]
    },
-   "source": "America Online 10-Ks for fiscal 1996 and 1997[^1][^2]. Derived ratios: 20% (1994), 20% (1995), 19% (1996), 24% (1997). Until September 30, 1996 most subscriber acquisition spending was capitalised and amortised, so these expense lines understate the cash going out; the balance sheet carried $363.0M of deferred costs at June 30, 1996."
+   "source": "America Online 10-Ks for fiscal 1996 and 1997[^1][^2]. Derived ratios: 20% (1994), 20% (1995), 19% (1996), 24% (1997). Until September 30, 1996 most subscriber acquisition spending was capitalized and amortized, so these expense lines understate the cash going out; the balance sheet carried $363.0M of deferred costs at June 30, 1996."
   },
   {
    "kind": "quote",

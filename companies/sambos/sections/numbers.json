@@ -1,7 +1,7 @@
 {
  "kicker": "The money",
  "title": "Up for ten years, down in four",
- "lede": "Sambo’s was a public company from 1969, but its filings predate EDGAR and are not online. What follows is every figure we could confirm in court opinions and the press of the time. Gaps in the charts are gaps in the record.",
+ "lede": "Sambo’s was a public company from 1969, but its filings predate EDGAR and are not online. Every figure here is one we could confirm in court opinions and the press of the time. Gaps in the charts are gaps in the record.",
  "blocks": [
   {
    "kind": "arc",
@@ -243,7 +243,7 @@
     },
     {
      "value": "$4.8M",
-     "text": "first instalment, missed on September 30, 1981[^10]"
+     "text": "first installment, missed on September 30, 1981[^10]"
     },
     {
      "value": "$29.8M",

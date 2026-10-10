@@ -1,7 +1,7 @@
 {
  "kicker": "The people",
  "title": "Who ordered it, who wrote it, who drew it",
- "lede": "Titles are as given in the sources cited. Later careers are included only where a source states them.",
+ "lede": "Titles follow the sources cited for each person. A later career is listed only where a source states it.",
  "people": [
   {
    "name": "Sergio Zyman",
@@ -17,7 +17,7 @@
   {
    "name": "Peter Wegner",
    "role": "Associate creative director, Wieden & Kennedy",
-   "text": "Wrote the manifesto and the “coincidences.” He was 31, and defended the campaign in The Washington Post as a game.[^13][^8]",
+   "text": "Wrote the manifesto and the “coincidences.” At 31, he defended the campaign in The Washington Post as a game.[^13][^8]",
    "later": "Left advertising; a multimedia artist in Berkeley, California, by 2014.[^13]"
   },
   {

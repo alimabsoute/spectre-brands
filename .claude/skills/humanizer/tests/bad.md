@@ -14,3 +14,8 @@ The result? Collapse. That is the real win for anyone who studies it. It could p
 Great question! I hope this helps. Here is a quick overview of the chain's collapse, oaicite:0 turn0search1 and all. [Insert source here] and TODO before publishing.
 
 Ultimately, the future looks bright for the next owner, and only time will tell. In conclusion, we can leverage the lessons learned to unlock the potential of every brand.
+
+
+Picture a mall at closing time, the gates half down and the music still playing.
+
+This post looks at the chain's last decade. This is the full post-mortem, built from its SEC filings and the press. The rival is filed under the same cause, and both are covered on this site.

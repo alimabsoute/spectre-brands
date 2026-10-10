@@ -1,7 +1,7 @@
 {
  "kicker": "The old website",
  "title": "From one deal a day to a searchable marketplace",
- "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. The two earliest captures did not save their stylesheets and appear as plain text.[^29]",
+ "lede": "Screenshots of groupon.com and thepoint.com as the Internet Archive’s Wayback Machine saved them, kept here as images. Click one to open the original capture. The two earliest captures did not save their stylesheets and appear as plain text.[^29]",
  "snips": [
   {
    "text": "“Each day we feature something cool to do in Chicago at a huge discount. You only get the discount if enough people join that day - so invite your friends!”",
@@ -44,7 +44,7 @@
    "captured": "Sep 1, 2009",
    "title": "Collective Buying Power",
    "text": "The Washington DC page: “$20 for $40 Worth of Sushi & Drinks,” with a count of how many more buyers were needed “to get the deal.”",
-   "warn": "The capture has no stylesheet, so the page is shown unstyled."
+   "warn": "No stylesheet was saved with this capture, so the page appears unstyled."
   },
   {
    "date": "Jan 2011",

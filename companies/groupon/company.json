@@ -22,8 +22,8 @@
   }
  ],
  "place": "Local deals marketplace · Chicago, Illinois",
- "title": "Groupon (2008–present): post-mortem of a ghost · Spectre Brands",
- "description": "Groupon still exists and still trades. A sourced post-mortem of what it used to be: the daily deal, the rejected Google offer, the $20 IPO, the reverse split, and the numbers as of its latest filings.",
+ "title": "Groupon (2008–present): the daily deal that shrank · Spectre Brands",
+ "description": "Groupon is the daily-deal site that turned down a reported $6 billion from Google. It is still listed, with 1,734 employees in 2025 against 11,843 in 2014.",
  "theme": {
   "accent": "#357a11",
   "soft": "#eaf5df"
@@ -53,7 +53,7 @@
  "hero": {
   "dates": "Started selling deals in October 2008. Still operating, and still listed on the Nasdaq, as of its filing of August 6, 2026.",
   "standfirst": "Groupon is not dead. It is a company that was once valued at $16.7 billion on its first day of trading and has spent the years since getting smaller.",
-  "deck": "The daily deal was the fastest thing the consumer internet had seen: from $14.5M of revenue in 2009 to $1.6B in 2011. Groupon turned down a reported $6 billion from Google, went public at $20 a share and fired its founder sixteen months later. The company is still here. It reported a small rise in revenue for 2025. But it has about one in seven of the employees it had at its peak, and one share today stands for twenty of the shares sold in 2011. This page explains why we file it under ghosts, and gives the figures as of its latest filings.",
+  "deck": "Groupon is a [daily-deal company](/category/dotcom/) whose revenue rose from $14.5M of revenue in 2009 to $1.6B in 2011, and has shrunk since its peak. It turned down a reported $6 billion from Google, went public at $20 a share and fired its founder sixteen months later. The company is still here. It reported a small rise in revenue for 2025. But it has about one in seven of the employees it had at its peak, and one share today stands for twenty of the shares sold in 2011. That is why we [file it under ghosts](/about/#tiers). The figures are as of its latest filings.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a deal voucher and its countdown clock. Not an official Groupon asset.",
   "motion": "spin",

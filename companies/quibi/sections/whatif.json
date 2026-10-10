@@ -1,11 +1,10 @@
 {
  "kicker": "The fork in the road",
  "title": "What if…",
- "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
  "forks": [
   {
    "tab": "On televisions from day one",
-   "actual": "Quibi launched on phones only. Whitman said the team had weighed living-room apps and decided the use case was “7 in the morning ’til 7 at night while you were on the go.”[^2] AirPlay came on May 27, Chromecast was promised for June, and apps for Apple TV, Android TV and Fire TV on October 20, the day before the shutdown announcement.[^10][^30] Casting switched off Turnstyle, the feature that distinguished the shows.[^11]",
+   "actual": "Quibi launched on phones only. Whitman said the team had weighed living-room apps and decided the use case was “7 in the morning ’til 7 at night while you were on the go.”[^2] AirPlay came on May 27, Chromecast was promised for June, and the television apps on October 20, the day before the shutdown announcement.[^10][^30] Casting switched off Turnstyle, the feature that distinguished the shows.[^11]",
    "whatif": "With television apps in April, the shows would have been available where a locked-down audience was actually watching. Roku’s later experience is suggestive: Deadline reported that more Roku accounts streamed the former Quibi shows in their first weeks than Quibi accounts ever had.[^20] But those viewers paid nothing. Television access might have lifted trial sign-ups without answering whether anyone would pay $4.99."
   },
   {

@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 35,
@@ -11,17 +10,17 @@
   {
    "weight": 20,
    "title": "Growth that needed more growth",
-   "text": "The chain went from 67 restaurants to 869 in ten years and passed 1,000 in 1978. The Times wrote that it had to add restaurants at an ever faster rate to keep income from the plan rising. In 1981 the new management sued 28 former officials, charging that they had inflated profits and expanded too rapidly.[^1][^6][^9]"
+   "text": "The chain went from 67 restaurants to 869 in ten years and passed 1,000 in 1978. The Times wrote that it had to add restaurants at an ever faster rate to keep income from the plan rising. In 1981 the new management sued 28 former officials, charging that they had inflated profits and expanded too rapidly.[^1][^6][^9] [Burger Chef](/burger-chef/) also opened restaurants faster than its owner could run them."
   },
   {
    "weight": 20,
    "title": "Debt and impatient lenders",
-   "text": "By late 1979 Sambo’s had about $100M of obligations and was in technical default. It missed the first $4.8M instalment of a restructured $100M loan in September 1981, and the 17 lenders’ notice of default prompted the Chapter 11 filing.[^2][^10]"
+   "text": "By late 1979 Sambo’s had about $100M of obligations and was in technical default. It missed the first $4.8M installment of a restructured $100M loan in September 1981, and the 17 lenders’ notice of default prompted the Chapter 11 filing.[^2][^10]"
   },
   {
    "weight": 15,
    "title": "The name",
-   "text": "Lawsuits, licence refusals and a state human rights order slowed expansion in the Northeast and tied up management for a decade. The company won in the Sixth Circuit and still tried three replacement names, giving up a name on which it had spent more than $31M in advertising.[^1][^3][^4][^12][^13]"
+   "text": "Lawsuits, license refusals and a state human rights order slowed expansion in the Northeast and tied up management for a decade. The company won in the Sixth Circuit and still tried three replacement names, giving up a name on which it had spent more than $31M in advertising.[^1][^3][^4][^12][^13]"
   },
   {
    "weight": 10,

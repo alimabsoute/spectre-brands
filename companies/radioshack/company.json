@@ -26,14 +26,14 @@
   }
  ],
  "place": "Electronics retail · Fort Worth, Texas",
- "title": "RadioShack (1921–2015): post-mortem · Spectre Brands",
- "description": "How RadioShack went from 5,289 stores to two bankruptcies, and why the name still lives on. Sourced charts, a store map with a linked timeline, and archived screenshots.",
+ "title": "RadioShack (1921–2015): 5,289 stores to bankruptcy · Spectre Brands",
+ "description": "RadioShack ran 5,289 company stores in 2001, lost $400.2M in 2013 and filed for bankruptcy in 2015 and 2017. A Central American retailer now owns the name.",
  "theme": {
   "accent": "#c8102e",
   "soft": "#f6e3df"
  },
  "card": {
-  "blurb": "Once a store within a short drive of almost every American. It kept the stores long after the reason to visit them had moved online.",
+  "blurb": "Once a store within a short drive of almost every American. The stores stayed open long after the reason to visit them had moved online.",
   "stat": {
    "value": "5,289",
    "label": "company stores at the 2001 peak"
@@ -67,7 +67,7 @@
  "hero": {
   "dates": "Founded in Boston in 1921. Filed for Chapter 11 on February 5, 2015. The name is still for sale on shelves.",
   "standfirst": "For decades RadioShack was the store within a short drive of almost every American, selling batteries, cables and a part for anything. It kept the stores long after the reason to visit them had moved online and into phone carriers’ hands.",
-  "deck": "At its peak in 2001 it ran 5,289 company stores in the U.S. and about 2,100 more dealer outlets. By 2013 it had lost $400.2M in a year, and its stockholders’ equity had fallen by four-fifths in four years. Two bankruptcies later the brand belongs to a Central American retailer and lives on through dealer stores and a website. This post-mortem is built from 20 years of RadioShack’s 10-Ks, its bankruptcy filings, contemporary press and the archived website.",
+  "deck": "RadioShack was the U.S. [electronics chain](/category/electronics/) that filed for bankruptcy in 2015, with its successor General Wireless following in 2017. At its peak in 2001 it ran 5,289 company stores in the U.S. and about 2,100 more dealer outlets. By 2013 it had lost $400.2M in a year, and its stockholders’ equity had fallen by four-fifths in four years. The brand now belongs to a Central American retailer and lives on through dealer stores and a website. It draws on 20 years of RadioShack’s [10-Ks](#sources), its bankruptcy filings, contemporary press and the archived website.",
   "art": "art/storefront.svg",
   "artCaption": "Original drawing of a late-1990s RadioShack storefront with the circle-R sign. Not an official asset.",
   "archive": [

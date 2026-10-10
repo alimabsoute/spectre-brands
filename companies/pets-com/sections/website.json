@@ -1,7 +1,7 @@
 {
  "kicker": "The old website",
  "title": "What customers actually saw",
- "lede": "These are screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. Captures were found with the CDX API in October 2026. Archived pages from 1999–2000 are often incomplete.[^36]",
+ "lede": "Screenshots of pages from pets.com that the Internet Archive’s Wayback Machine saved, kept here as images. Click one to open the original capture. We found the captures with the CDX API in October 2026. Archived pages from 1999–2000 are often incomplete.[^36]",
  "snips": [
   {
    "text": "**Booda dog chews** Retail Price: $11.29–$13.69 **Our Price: $8.29**",
@@ -28,7 +28,7 @@
    "when": "About Us · May 8, 1999[^36]"
   }
  ],
- "note": "Screenshots of Internet Archive captures, saved as images; click one to open the original capture. Other captures worth opening: the [May 1999 WebMagic-era home page](https://web.archive.org/web/19990508060549/http://www2.pets.com:80/), the [Nov 1999 holiday home page](https://web.archive.org/web/19991128201851/http://www.pets.com:80/cgi-bin/puppy/home/home.jsp?BV_UseBVCookie=YES&animal=Home) and the [Feb 2001 PETsMART.com redirect](https://web.archive.org/web/20010202130700/http://pets.com:80/). Many 1999 images were never archived.",
+ "note": "Other captures worth opening: the [May 1999 WebMagic-era home page](https://web.archive.org/web/19990508060549/http://www2.pets.com:80/), the [Nov 1999 holiday home page](https://web.archive.org/web/19991128201851/http://www.pets.com:80/cgi-bin/puppy/home/home.jsp?BV_UseBVCookie=YES&animal=Home) and the [Feb 2001 PETsMART.com redirect](https://web.archive.org/web/20010202130700/http://pets.com:80/). Many 1999 images were never archived.",
  "captures": [
   {
    "date": "Feb 2000",

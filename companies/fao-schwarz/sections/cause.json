@@ -1,12 +1,11 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 30,
    "title": "A roll-up by a buyer too small to carry it",
-   "text": "The Right Start had total revenues of $53.6M in fiscal 2000. In September 2001 and January 2002 it bought two chains that made up 90.9% of its retail sales a year later, paying for FAO Schwarz entirely with notes and preferred stock. Its own filing said the FAO Schwarz business was “significantly larger than our business prior to the Zany Brainy Acquisition,” and gave the strain of integrating three chains as one reason for the first bankruptcy.[^1]"
+   "text": "In fiscal 2000 The Right Start’s total revenues were $53.6M. In September 2001 and January 2002 it bought two chains that made up 90.9% of its retail sales a year later, paying for FAO Schwarz entirely with notes and preferred stock. Its own filing said the FAO Schwarz business was “significantly larger than our business prior to the Zany Brainy Acquisition,” and gave the strain of integrating three chains as one reason for the first bankruptcy.[^1]"
   },
   {
    "weight": 25,
@@ -29,5 +28,5 @@
    "text": "The last store outlived the chain by eleven years and closed in 2015 because of “the continuing rising costs of operating a retail location on Fifth Avenue.” Toys “R” Us saved $52M of operating costs by closing it and its Times Square store.[^23][^24]"
   }
  ],
- "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings and the press of the time document the symptoms. How much each one contributed is a matter of opinion."
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings and the press of the time document the symptoms. How much each one contributed is our judgment."
 }

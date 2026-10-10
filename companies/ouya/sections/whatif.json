@@ -1,7 +1,6 @@
 {
  "kicker": "The fork in the road",
  "title": "What if…",
- "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
  "forks": [
   {
    "tab": "Ship it later",
@@ -11,7 +10,7 @@
   {
    "tab": "Be a store, not a box",
    "actual": "Ouya announced Ouya Everywhere in March 2014, nine months after launch, and reached its first outside device in July 2014.[^22] By the time it was for sale, the memo to investors pitched the catalogue, not the console: “the largest library of Android content for the TV.”[^24] Razer bought exactly that and left the hardware.[^25]",
-   "whatif": "Starting as a storefront and developer programme for other companies’ Android boxes would have spared the cost of making hardware. It would also have had no Kickstarter moment: the $99 box was what 58,224 backers (derived) paid for.[^1] A store with the same conversion rates on someone else’s box is not obviously a better business."
+   "whatif": "Starting as a storefront and developer program for other companies’ Android boxes would have spared the cost of making hardware. It would also have had no Kickstarter moment: the $99 box was what 58,224 backers (derived) paid for.[^1] A store with the same conversion rates on someone else’s box is not obviously a better business."
   },
   {
    "tab": "No venture debt",

@@ -1,7 +1,7 @@
 {
  "kicker": "The story",
  "title": "From the appliance store on Keystone Avenue to 228 superstores",
- "lede": "hhgregg spent fifty years as a regional appliance dealer and ten as a national-scale electronics chain. The second decade undid the first.",
+ "lede": "hhgregg spent fifty years as a regional appliance dealer and ten as a national-scale [electronics chain](/category/electronics/). The second decade undid the first.",
  "chapters": [
   {
    "when": "1955 – 2005 · A family dealer",
@@ -41,7 +41,7 @@
    "big": "−23.7%",
    "cap": "net sales in the quarter to December 31, 2016, against a year earlier",
    "color": "#b3261e",
-   "body": "In the 2016 holiday quarter sales fell 23.7% to $453M and comparable-store sales 22.2%. Chief executive Robert Riesbeck blamed “competitive pressures in the market, specifically in consumer electronics,” and a troubled move to a new distribution centre.[^4] The company lost $83.9M in the nine months.[^4]\n\nThe New York Stock Exchange warned on January 31, 2017 that its market value and equity were too small, and suspended trading on February 27.[^5][^6] On February 23 the board approved closing 88 stores, with about $190M of lease obligations attached.[^7] On March 6 the company filed for Chapter 11 in the Southern District of Indiana, saying it had signed a term sheet with an unnamed buyer and expected a “quick and smooth process.”[^8]",
+   "body": "In the 2016 holiday quarter sales fell 23.7% to $453M and comparable-store sales 22.2%. Chief executive Robert Riesbeck blamed “competitive pressures in the market, specifically in consumer electronics,” and a troubled move to a new distribution center.[^4] The company lost $83.9M in the nine months.[^4]\n\nThe New York Stock Exchange warned on January 31, 2017 that its market value and equity were too small, and suspended trading on February 27.[^5][^6] On February 23 the board approved closing 88 stores, with about $190M of lease obligations attached.[^7] On March 6 the company filed for Chapter 11 in the Southern District of Indiana, saying it had signed a term sheet with an unnamed buyer and expected a “quick and smooth process.”[^8]",
    "video": "ch11"
   },
   {
@@ -54,7 +54,7 @@
    "image": {
     "image": "img/miami-2017.avif",
     "caption": "The Miami store on March 4, 2017. Photo: Phillip Pessar, via Wikimedia Commons, CC BY 2.0.",
-    "alt": "An hhgregg appliances and electronics store in a Miami shopping centre"
+    "alt": "An hhgregg appliances and electronics store in a Miami shopping center"
    }
   }
  ]

@@ -1,7 +1,7 @@
 {
  "kicker": "Timeline",
  "title": "Nineteen years, 31 moments",
- "lede": "From a site for group action to a marketplace a fraction of its former size. The last entries are from the most recent filings. Filter by thread.",
+ "lede": "From a site for group action to a marketplace a fraction of its former size. The last entries are from the most recent filings. Select a thread to filter.",
  "categories": {
   "corporate": {
    "label": "Corporate",
@@ -30,7 +30,7 @@
    "year": "2007",
    "cat": "product",
    "title": "The Point launches",
-   "text": "A website for organising group action that only takes effect once a “tipping point” of people agree to take part.",
+   "text": "A website for organizing group action that only takes effect once a “tipping point” of people agree to take part.",
    "src": [1]
   },
   {
@@ -70,7 +70,7 @@
    "year": "2011",
    "cat": "product",
    "title": "The Super Bowl ads",
-   "text": "Three spots parody charity appeals for Tibet, the rainforest and whales. By February 11 the company has apologised and pulled them.",
+   "text": "Three spots parody charity appeals for Tibet, the rainforest and whales. By February 11 the company has apologized and pulled them.",
    "src": [22]
   },
   {
@@ -214,7 +214,7 @@
    "year": "2022",
    "cat": "retreat",
    "title": "Another restructuring plan",
-   "text": "The plan is expected to remove about 1,000 positions in two phases. The year ends with 2,904 employees.",
+   "text": "The plan is expected to remove about 1,000 positions in two phases, and the year ends with 2,904 employees.",
    "src": [13, 14]
   },
   {

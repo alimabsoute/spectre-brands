@@ -1,6 +1,6 @@
 {
  "kicker": "Brand gallery",
- "title": "A grey cube, an orange O and a controller with four letters",
+ "title": "A gray cube, an orange O and a controller with four letters",
  "label": "Brand gallery",
  "lede": "The hardware as photographed, the website as archived, the founder on stage, and our drawings in the same spirit.",
  "archive": [
@@ -8,7 +8,7 @@
    "image": "img/console-set.avif",
    "date": "2013",
    "caption": "The retail console and controller. The four face buttons spell O, U, Y, A.",
-   "alt": "Grey Ouya console and controller on a white background",
+   "alt": "Gray Ouya console and controller on a white background",
    "credit": "Photo: Evan-Amos, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:OUYA-Console-set-h.jpg), public domain."
   },
   {
@@ -30,7 +30,7 @@
    "date": "Aug 2015",
    "caption": "ouya.tv two weeks after the sale to Razer was confirmed.",
    "alt": "ouya.tv in August 2015",
-   "credit": "Cropped from an Internet Archive capture of ouya.tv. Shown for commentary; trademarks belong to their owners."
+   "credit": "Cropped from a later Internet Archive capture of ouya.tv. Shown for commentary; the Ouya name and logo belong to their owner."
   }
  ],
  "blocks": [
@@ -82,7 +82,7 @@
   },
   {
    "hex": "#8f9399",
-   "label": "Console grey (drawing)"
+   "label": "Console gray (drawing)"
   },
   {
    "hex": "#22262a",
@@ -93,5 +93,5 @@
    "label": "Page accent, darkened for contrast"
   }
  ],
- "disclaimer": "Colours are approximations matched by eye to archived captures and the photograph.[^34] Ouya is a trademark of its owner and appears here in historical and editorial context. Drawings are original illustrations, not official assets."
+ "disclaimer": "Colors are approximations matched by eye to archived captures and the photograph.[^34] Ouya is a trademark of its owner and appears here in historical and editorial context. Drawings are original illustrations, not official assets."
 }

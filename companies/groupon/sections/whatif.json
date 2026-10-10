@@ -1,7 +1,6 @@
 {
  "kicker": "The fork in the road",
  "title": "What if…",
- "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
  "forks": [
   {
    "tab": "Take the $6 billion",
@@ -16,7 +15,7 @@
   {
    "tab": "Fewer countries",
    "actual": "The company expanded to 45 countries by the IPO, largely by buying or building local copies of itself, and to 47 by 2014.[^1][^5] From 2015 to 2017 it withdrew to 15.[^8] It now sells in 13.[^17]",
-   "whatif": "A slower expansion would have meant a smaller IPO and less of the 2015–2017 restructuring. In 2017 the International segment produced only 30.5% of gross profit.[^8] The risk on the other side was real: local clones were appearing in every market, and the prospectus treated speed as the defence.[^1]"
+   "whatif": "A slower expansion would have meant a smaller IPO and less of the 2015–2017 restructuring. In 2017 the International segment produced only 30.5% of gross profit.[^8] The risk on the other side was real: local clones were appearing in every market, and the prospectus treated speed as the defense.[^1]"
   }
  ]
 }

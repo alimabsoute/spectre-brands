@@ -1,7 +1,7 @@
 {
  "kicker": "The people",
  "title": "Who ran it",
- "lede": "Roles and dates are from the filings and the Richmond Fed’s history. Where a date is missing, we did not find a source for it.",
+ "lede": "Roles and dates come from the filings and the Richmond Fed’s history. Where a date is missing, we found no source for it.",
  "people": [
   {
    "name": "Samuel S. Wurtzel",
@@ -37,7 +37,7 @@
   {
    "name": "Mark J. Wattles",
    "role": "Activist shareholder",
-   "text": "The Hollywood Video founder ran a proxy contest in 2008 and settled for three board seats.[^19]"
+   "text": "The [Hollywood Video](/hollywood-video/) founder ran a proxy contest in 2008 and settled for three board seats.[^19]"
   },
   {
    "name": "Ronny Shmoel",

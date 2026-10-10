@@ -238,7 +238,7 @@
   {
    "kind": "flow",
    "title": "Where the fiscal 1999 charges went",
-   "subtitle": "Non-recurring and restructuring charges for the year ended June 26, 1999, by programme. $ millions, before tax.",
+   "subtitle": "Non-recurring and restructuring charges for the year ended June 26, 1999, by program. $ millions, before tax.",
    "from": {
     "label": "total charges for the “Fiscal 1999 Initiatives”",
     "value": 93.847
@@ -253,7 +253,7 @@
      "label": "Fourth-quarter restructuring",
      "value": 67.53,
      "color": "red",
-     "note": "Mostly write-downs of corporate-sales inventory and the fulfilment centre.[^2]"
+     "note": "Mostly write-downs of corporate-sales inventory and the fulfillment center.[^2]"
     },
     {
      "label": "Information technology",

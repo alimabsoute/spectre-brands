@@ -23,14 +23,14 @@
    "date": "Oct 1999",
    "caption": "sega.com five weeks after the U.S. launch.",
    "alt": "sega.com in October 1999",
-   "credit": "Cropped from an Internet Archive capture of sega.com. Shown for commentary; trademarks belong to their owners."
+   "credit": "Cropped from an Internet Archive capture of sega.com. Shown for commentary; the Sega name belongs to its owner."
   },
   {
    "image": "img/archive-2000-08-seganet.avif",
    "date": "Aug 2000",
    "caption": "The SegaNet teaser page.",
    "alt": "sega.net in August 2000",
-   "credit": "Cropped from an Internet Archive capture of sega.net. Shown for commentary; trademarks belong to their owners."
+   "credit": "Cropped from an Internet Archive capture of sega.net. Shown for commentary; the SegaNet name belongs to its owner."
   }
  ],
  "blocks": [
@@ -93,5 +93,5 @@
    "label": "Page accent, darkened for contrast"
   }
  ],
- "disclaimer": "Colours are approximations sampled from photographs and archived captures.[^27] Dreamcast and Sega are trademarks of Sega and appear here in historical and editorial context. Drawings are original illustrations, not official assets."
+ "disclaimer": "Colors are approximations sampled from photographs and archived captures.[^27] Dreamcast and Sega are trademarks of Sega and appear here in historical and editorial context. Drawings are original illustrations, not official assets."
 }

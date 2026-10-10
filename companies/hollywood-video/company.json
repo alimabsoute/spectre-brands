@@ -27,8 +27,8 @@
  ],
  "published": "2026-10-08",
  "place": "Video rental superstores · Wilsonville, Oregon",
- "title": "Hollywood Video (1988–2010): post-mortem · Spectre Brands",
- "description": "From 25 stores to 2,006, a near-collapse in 2000, a three-way takeover fight and a buyer that borrowed too much. A sourced post-mortem of Hollywood Video, built from the SEC filings of Hollywood Entertainment and Movie Gallery.",
+ "title": "Hollywood Video (1988–2010): bought on borrowed money · Spectre Brands",
+ "description": "Hollywood Video grew to 2,006 video rental stores, was bought by Movie Gallery in 2005 with borrowed money and was in liquidation by 2010.",
  "theme": {
   "accent": "#b3202a",
   "soft": "#f4eff9"
@@ -56,7 +56,7 @@
  "hero": {
   "dates": "First store opened Oct 1988. Liquidation of the last stores approved May 2010.",
   "standfirst": "It got through the mistake it made itself. It did not get through the one its buyer made.",
-  "deck": "Hollywood Entertainment grew from 25 video stores at the end of 1993 to 1,615 six years later, bought a web retailer at the top of the bubble, and by the end of 2000 its auditors doubted it could continue. It recovered, and by 2004 had 2,006 stores and three suitors. The winner, Movie Gallery, paid with borrowed money just as renters began to drift to the mailbox and the kiosk. This post-mortem is built from the two companies’ SEC filings and the wire reports of the 2010 liquidation.",
+  "deck": "Hollywood Video was a video rental chain that Movie Gallery bought in 2005 with borrowed money and closed in a 2010 liquidation. The company, Hollywood Entertainment, grew from 25 [video stores](/category/film/) at the end of 1993 to 1,615 six years later, bought a web retailer at the top of the bubble, and by the end of 2000 its auditors doubted it could continue. It recovered, and by 2004 had 2,006 stores and three suitors. The winner, Movie Gallery, bought it just as renters began to drift to the mailbox and the kiosk. Its sources are the two companies’ [SEC filings](#sources) and the wire reports of the 2010 liquidation.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a video superstore with a zigzag roofline and red neon, in the spirit of the chain. Not an official asset; the sign lettering is deliberately blank.",
   "motion": "flicker"
@@ -97,7 +97,7 @@
   },
   {
    "title": "The highest bid did not win.",
-   "text": "Blockbuster offered $14.50 a share in cash and stock. The board took Movie Gallery’s $13.25 in cash, which cleared antitrust review quickly.[^8][^9]"
+   "text": "[Blockbuster](/blockbuster/) offered $14.50 a share in cash and stock. The board took Movie Gallery’s $13.25 in cash, which cleared antitrust review quickly.[^8][^9]"
   },
   {
    "title": "The buyer wrote the brand down to almost nothing.",

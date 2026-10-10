@@ -26,8 +26,8 @@
   }
  ],
  "place": "Consumer electronics superstores · Richmond, Virginia",
- "title": "Circuit City (1949–2009): post-mortem · Spectre Brands",
- "description": "How the chain that invented the electronics superstore lost to Best Buy, fired its best-paid salespeople and liquidated 567 stores: a sourced post-mortem of Circuit City with charts, commercials and archived pages.",
+ "title": "Circuit City (1949–2009): fired its best-paid staff · Spectre Brands",
+ "description": "Circuit City built the electronics superstore, fell behind Best Buy, dismissed about 3,400 well-paid staff in 2007 and liquidated 567 stores in 2009.",
  "theme": {
   "accent": "#b5121b",
   "soft": "#fdeeee"
@@ -56,7 +56,7 @@
  "hero": {
   "dates": "Founded in Richmond in 1949. Filed for Chapter 11 on Nov 10, 2008. Last stores closed by Mar 8, 2009.",
   "standfirst": "It sold itself on expert salespeople. In March 2007 it dismissed about 3,400 of them for earning too much.",
-  "deck": "Circuit City built the consumer electronics superstore, grew to more than 600 of them and launched CarMax on the side. Best Buy passed it in sales in the mid-1990s and never looked back. A decade of cost cuts, share buybacks and reversals left the company with no cushion when credit froze in 2008. This is the full post-mortem, built from the company’s SEC filings, its bankruptcy disclosure statement, contemporary press and the archived website.",
+  "deck": "Circuit City, the chain that built the [consumer electronics superstore](/category/electronics/), liquidated its last 567 U.S. stores in early 2009. It grew to more than 600 superstores and launched CarMax on the side. Best Buy passed it in sales in the mid-1990s and stayed ahead. A decade of cost cuts, share buybacks and reversals left the company with no cushion when credit froze in 2008. The account follows the company’s [SEC filings](#sources), its bankruptcy disclosure statement, contemporary press and the archived website.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a Circuit City superstore with its red entrance tower. Not an official asset.",
   "motion": "flicker",
@@ -114,11 +114,11 @@
   },
   {
    "title": "The cash went to shareholders.",
-   "text": "The board authorised up to $1.2B of share repurchases between 2003 and 2006, and all but $233.7M of that had been used by March 2008.[^1]"
+   "text": "The board authorized up to $1.2B of share repurchases between 2003 and 2006, and all but $233.7M of that had been used by March 2008.[^1]"
   },
   {
    "title": "Vendors ended it.",
-   "text": "In autumn 2008 suppliers cut credit and in some cases demanded payment before shipment. The company filed for Chapter 11 seven days after disclosing it.[^13][^14]"
+   "text": "In fall 2008 suppliers cut credit and in some cases demanded payment before shipment. The company filed for Chapter 11 seven days after disclosing it.[^13][^14]"
   }
  ],
  "published": "2026-10-03"

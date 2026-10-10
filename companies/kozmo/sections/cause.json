@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 40,
@@ -26,8 +25,8 @@
   {
    "weight": 10,
    "title": "The fixes came late",
-   "text": "The delivery fee arrived in January 2001 and the catalogue and the retreat from the Starbucks deal in February and March, by which time the staff had been cut from 2,665 (derived) to about 1,500. The chief executive’s closing statement blamed “some decisions made early in the company’s development.”[^1][^3][^8][^9][^12]"
+   "text": "The delivery fee arrived in January 2001 and the catalog and the retreat from the Starbucks deal in February and March, by which time the staff had been cut from 2,665 (derived) to about 1,500. The chief executive’s closing statement blamed “some decisions made early in the company’s development.”[^1][^3][^8][^9][^12]"
   }
  ],
- "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filing and the press of the time document the symptoms. How much each one contributed is a matter of opinion."
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filing and the press of the time document the symptoms. How the free delivery, the expansion, the commitments and the closed capital markets share the blame is our reading."
 }

@@ -27,8 +27,8 @@
  ],
  "published": "2026-10-08",
  "place": "Educational toys, games and books · King of Prussia, Pennsylvania",
- "title": "Zany Brainy (1991–2003): post-mortem · Spectre Brands",
- "description": "An educational toy chain went from 16 stores to 188 in six years, bought its rival, built a website and ran out of credit. A sourced post-mortem of Zany Brainy from SEC filings and the trade press: IPO, Chapter 11, The Right Start, FAO Inc. and liquidation.",
+ "title": "Zany Brainy (1991–2003): grew fast, then liquidated · Spectre Brands",
+ "description": "Zany Brainy was an educational toy chain. It went public in 1999, merged with Noodle Kidoodle, filed for Chapter 11 in 2001 and was liquidated in 2003.",
  "theme": {
   "accent": "#6a3fa0",
   "soft": "#f3eefa"
@@ -57,9 +57,9 @@
  "hero": {
   "dates": "First store opened in Wynnewood, Pennsylvania in 1991. Liquidation announced Dec 2, 2003.",
   "standfirst": "It sold toys that were supposed to be good for children, and for two years it made money doing it. Then it tried to grow three ways at once.",
-  "deck": "Zany Brainy was a chain of “kid-friendly” toy stores with low shelves, a reading area and free events every day. It went public in June 1999 with 82 stores. In the next 14 months it started an internet joint venture, opened dozens of stores and merged with its nearest rival, Noodle Kidoodle. Sales at existing stores then fell 10%, the bank declared a default, and the company filed for Chapter 11 in May 2001. The Right Start bought the stores, bought FAO Schwarz four months later, renamed itself FAO Inc., and went through bankruptcy twice in 2003. The second time it liquidated Zany Brainy. Almost everything on this page comes from the filings both companies made with the SEC.",
+  "deck": "Zany Brainy was an [educational toy chain](/category/retail/) that filed for Chapter 11 in 2001 and was liquidated in 2003 by FAO Inc., the company that had bought it. Its “kid-friendly” stores had low shelves, a reading area and free events every day. It went public in June 1999 with 82 stores. In the next 14 months it started an internet joint venture, opened dozens of stores and merged with its nearest rival, Noodle Kidoodle. Sales at existing stores then fell 10%, the bank declared a default, and the company filed for Chapter 11 in May 2001. The Right Start bought the stores, bought [FAO Schwarz](/fao-schwarz/) four months later, renamed itself FAO Inc., and went through bankruptcy twice in 2003. The second time it liquidated Zany Brainy. Almost everything on this page [comes from the filings both companies made with the SEC](#sources).",
   "art": "art/hero.svg",
-  "artCaption": "Original illustration of a Zany Brainy-style store in a suburban shopping centre. Not an official asset; the sign lettering is deliberately blank.",
+  "artCaption": "Original illustration of a Zany Brainy-style store in a suburban shopping center. Not an official asset; the sign lettering is deliberately blank.",
   "motion": "float"
  },
  "keyNumbers": {

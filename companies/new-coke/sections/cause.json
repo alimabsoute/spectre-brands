@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 35,
@@ -29,5 +28,5 @@
    "text": "Two sugar colas from one company split the shelf, and buyers chose the old one. By one later account the new formula fell to about 3% in a year and 0.1% by 1999.[^16] The Coke II name, tested from 1990 as “the Coke for Pepsi drinkers,” did not change that.[^13][^21]"
   }
  ],
- "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. Coca-Cola published no sales figures for the 1985 formula that we found, so the evidence is the company’s own account, call counts and the press of the time. How much each cause contributed is a matter of opinion."
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. Coca-Cola published no sales figures for the 1985 formula that we found, so the evidence is the company’s own account, call counts and the press of the time. Any weighting of the causes is a judgment call."
 }

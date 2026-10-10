@@ -1,12 +1,11 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 30,
    "title": "Negative unit economics",
-   "text": "Cost of goods sold, which includes shipping, was higher than net sales in every reported quarter: −124% gross margin in Q4 1999 and −46% across the company’s life. The prospectus put shipping alone at 100–110% of revenue.[^1][^4]"
+   "text": "Cost of goods sold, which includes shipping, was higher than net sales in every reported quarter: −124% gross margin in Q4 1999 and −46% across the company’s life. The prospectus put shipping alone at 100–110% of revenue.[^1][^4] The IPO filing of [Kozmo.com](/kozmo/) showed the same problem in what it paid delivery staff."
   },
   {
    "weight": 25,
@@ -15,7 +14,7 @@
   },
   {
    "weight": 20,
-   "title": "The capital window slammed shut",
+   "title": "The capital window closed",
    "text": "The IPO priced in Feb 2000, four weeks before the Nasdaq peak. In 2000, 81% of IPOs were unprofitable companies, and investors stopped buying. When Merrill Lynch shopped the company, fewer than 8 of 50+ prospects would even visit.[^5][^25][^26]"
   },
   {
@@ -28,6 +27,5 @@
    "title": "A crowded, subsidized field",
    "text": "PetSmart.com, Petopia and Petstore.com all raised $50M+ in 1999. Two had a retail chain behind them to handle fulfillment. Pets.com consolidated Petstore.com only in July 2000.[^7][^28][^31][^33]"
   }
- ],
- "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings document the symptoms. How much each one contributed is a matter of opinion."
+ ]
 }

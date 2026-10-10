@@ -1,7 +1,6 @@
 {
  "kicker": "The fork in the road",
  "title": "What if…",
- "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
  "forks": [
   {
    "tab": "Price the IPO higher",
@@ -11,7 +10,7 @@
   {
    "tab": "Fewer warehouses",
    "actual": "eToys planned more than 1.4 million square feet of new distribution space for 2000.[^1]",
-   "whatif": "Using third parties for fulfilment, or growing capacity a year at a time, would have cut fixed costs when sales fell short. It would also have risked the delivery problems the company was built to avoid."
+   "whatif": "Using third parties for fulfillment, or growing capacity a year at a time, would have cut fixed costs when sales fell short. It would also have risked the delivery problems the company was built to avoid."
   },
   {
    "tab": "Sell in 2000",

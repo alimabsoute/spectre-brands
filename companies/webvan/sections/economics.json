@@ -303,7 +303,7 @@
     "label": "batches of 100 orders, each order leaving $27.56 of gross profit after paying for the groceries (derived)"
    },
    "equation": "$292.3M of G&A ÷ 365 days = $801K a day. $104 average order × 26.5% gross margin = $27.56. $801K ÷ $27.56 ≈ 29,057 orders a day, drawn as 291 carts of 100 orders each. Our estimate of actual volume in 2000 is about 4,700 orders a day, or 47 of these carts. All inputs are from the 10-K[^3]; Webvan did not disclose order counts.",
-   "source": "Derived from the 2000 10-K[^3]: G&A of $292.3M, a 26.5% gross margin and the $104 average order. These are our calculations, not company figures."
+   "source": "Derived from three inputs in the 2000 10-K[^3]: $292.3M of G&A, a 26.5% gross margin and a $104 average order. These are our calculations, not company figures."
   },
   {
    "kind": "keyfacts",

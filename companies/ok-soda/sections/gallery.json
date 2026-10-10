@@ -1,6 +1,6 @@
 {
  "kicker": "Brand gallery",
- "title": "Grey, black and one red box",
+ "title": "Gray, black and one red box",
  "label": "Brand gallery",
  "lede": "One freely licensed photograph of the original cans exists that we could find. There are no website screenshots here: we did not confirm whether an official OK site was ever archived. The drawings are ours.",
  "archive": [
@@ -8,7 +8,7 @@
    "image": "img/photo-2006-four-cans.avif",
    "date": "1994 cans, photographed 2006",
    "caption": "The four can designs used in the test markets. Time described them in 1994: a blank-looking young man, a can with no face at all and “a primitively drawn red face.”[^6]",
-   "alt": "Four OK Soda cans in a row, grey and silver with black drawings and a red-bordered OK box on each",
+   "alt": "Four OK Soda cans in a row, gray and silver with black drawings and a red-bordered OK box on each",
    "credit": "Photo: TeemPlayer, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:OK_Soda_Original_4.jpg), CC BY-SA 3.0. The can artwork and trademarks belong to their owners; shown for commentary."
   }
  ],
@@ -16,7 +16,7 @@
   {
    "art": "art/hero.svg",
    "title": "The can.",
-   "caption": "A deadpan face on a grey can. Original illustration; not the artwork of Daniel Clowes, Charles Burns or the other artists who drew the real ones.[^8]"
+   "caption": "A deadpan face on a gray can. Original illustration; not the artwork of Daniel Clowes, Charles Burns or the other artists who drew the real ones.[^8]"
   },
   {
    "art": "art/phone.svg",
@@ -41,7 +41,7 @@
   },
   {
    "hex": "#c9cdd2",
-   "label": "Can grey (approx.)"
+   "label": "Can gray (approx.)"
   },
   {
    "hex": "#1d1b18",

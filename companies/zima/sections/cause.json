@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 35,
@@ -26,8 +25,8 @@
   {
    "weight": 10,
    "title": "Regulation at the end",
-   "text": "A Utah labelling law and California’s decision to tax flavoured malt beverages as spirits from October 1, 2008 removed two markets, one of them among Zima’s largest. Production stopped nine days later.[^13][^14]"
+   "text": "A Utah labeling law and California’s decision to tax flavored malt beverages as spirits from October 1, 2008 removed two markets, one of them among Zima’s largest. Production stopped nine days later.[^13][^14]"
   }
  ],
- "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings and press reports document the symptoms. How much each one contributed is a matter of opinion."
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings and press reports document the symptoms. How much each one contributed is our judgment."
 }

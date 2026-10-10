@@ -1,8 +1,8 @@
 {
  "kicker": "The old website",
  "title": "Thirty years of radioshack.com",
- "lede": "These are screenshots of the Internet Archive’s captures of radioshack.com, stored as images; click one to open the original capture. The front page tracks the company’s identity: parts, then partners, then phones, then a liquidation, a crypto token and a web shop.[^33]",
- "note": "Screenshots of Internet Archive captures, saved as images; click one to open the original capture. Later captures show the afterlife: a clearance store in [Jul 2017](https://web.archive.org/web/20170701003943/http://www.radioshack.com/), a crypto waitlist in [Jan 2022](https://web.archive.org/web/20220101093831/https://www.radioshack.com/) and a conventional shop under Unicomer in [Apr 2025](https://web.archive.org/web/20250401012431/https://www.radioshack.com/).",
+ "lede": "Each image is a screenshot of an Internet Archive capture of radioshack.com; click one to open the original capture. The front page tracks the company’s identity: parts, then partners, then phones, then a liquidation, a crypto token and a web shop.[^33]",
+ "note": "Later captures show the afterlife: a clearance store in [Jul 2017](https://web.archive.org/web/20170701003943/http://www.radioshack.com/), a crypto waitlist in [Jan 2022](https://web.archive.org/web/20220101093831/https://www.radioshack.com/) and a conventional shop under Unicomer in [Apr 2025](https://web.archive.org/web/20250401012431/https://www.radioshack.com/).",
  "captures": [
   {
    "date": "Dec 1996",

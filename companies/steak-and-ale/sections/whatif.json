@@ -1,7 +1,6 @@
 {
  "kicker": "The fork in the road",
  "title": "What if…",
- "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
  "forks": [
   {
    "tab": "Sell it in 2003",
@@ -15,7 +14,7 @@
   },
   {
    "tab": "Chapter 11 instead of Chapter 7",
-   "actual": "The owners filed for liquidation, not reorganisation, weeks after saying they were preparing a proposal for their lenders. Three months later Metromedia’s other restaurant company, with Ponderosa and Bonanza, filed under Chapter 11 and tried to reorganise.[^8][^9][^13]",
+   "actual": "The owners filed for liquidation, not reorganization, weeks after saying they were preparing a proposal for their lenders. Three months later Metromedia’s other restaurant company, with Ponderosa and Bonanza, filed under Chapter 11 and tried to reorganize.[^8][^9][^13]",
    "whatif": "A Chapter 11 case might have kept the better Steak and Ale restaurants open under court protection while a buyer was found, as happened to the sibling steakhouses. It needs a lender willing to finance it, and in the summer of 2008 an analyst told the Times that banks had become less willing to lend to restaurants.[^3] The choice of Chapter 7 suggests the owners or the lenders saw nothing worth financing."
   }
  ]

@@ -1,7 +1,7 @@
 {
  "kicker": "Timeline",
  "title": "Seven years, 29 moments",
- "lede": "From an AngelList posting to a shutdown notice. Filter by thread.",
+ "lede": "From an AngelList posting to a shutdown notice. Choose a thread to see only its events.",
  "categories": {
   "money": {
    "label": "Money",
@@ -40,7 +40,7 @@
    "year": "2012",
    "cat": "money",
    "title": "Kickstarter opens",
-   "text": "The goal is $950,000. The campaign passes $1 million in about eight hours.",
+   "text": "The goal is $950,000, and the campaign passes $1 million in about eight hours.",
    "src": [
     1,
     3,
@@ -214,7 +214,7 @@
    "year": "2014",
    "cat": "product",
    "title": "Ouya Everywhere",
-   "text": "The store will run on other companies’ hardware. Mad Catz’s M.O.J.O. is the first partner.",
+   "text": "The store will run on other companies’ hardware, with Mad Catz’s M.O.J.O. as the first partner.",
    "src": [
     22
    ]
@@ -274,7 +274,7 @@
    "year": "2015",
    "cat": "death",
    "title": "Razer deal closes",
-   "text": "Razer acquires the catalogue, the store and the team, not the hardware. Terms undisclosed.",
+   "text": "Razer acquires the catalog, the store and the team, not the hardware. Terms undisclosed.",
    "src": [
     25
    ]
@@ -295,7 +295,7 @@
    "year": "2015",
    "cat": "developers",
    "title": "Razer picks up the fund",
-   "text": "Razer says it will honour the $620,000 still unpaid from the Free the Games Fund, on modified terms.",
+   "text": "Razer says it will honor the $620,000 still unpaid from the Free the Games Fund, on modified terms.",
    "src": [
     27,
     28

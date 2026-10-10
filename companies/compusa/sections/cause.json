@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 35,
@@ -11,7 +10,7 @@
   {
    "weight": 25,
    "title": "Broader stores and direct sellers took the customer",
-   "text": "Best Buy was about CompUSA’s size in fiscal 1992 and half again as large by fiscal 1999. It reported a gross margin of 19.2% of revenues for its fiscal 2000; CompUSA’s was 12.7% in fiscal 1999.[^1][^2][^23] CompUSA’s own list of competitors named electronics and office chains, manufacturers selling direct, internet retailers and mass merchants.[^2] The AP’s 2007 obituary named “big-box retailers such as Best Buy.”[^13]"
+   "text": "Best Buy was about CompUSA’s size in fiscal 1992 and half again as large by fiscal 1999. It reported a gross margin of 19.2% of revenues for its fiscal 2000; CompUSA’s was 12.7% in fiscal 1999.[^1][^2][^23] CompUSA’s own list of competitors named [electronics and office chains](/category/electronics/), manufacturers selling direct, internet retailers and mass merchants.[^2] The AP’s 2007 obituary named “big-box retailers such as Best Buy.”[^13]"
   },
   {
    "weight": 15,
@@ -21,7 +20,7 @@
   {
    "weight": 15,
    "title": "Computer City and the 1999 overhaul",
-   "text": "CompUSA paid about $175M for a rival, closed 59 of its 96 U.S. stores and kept 37 that sold $711 a square foot. The same year it wrote off its corporate fulfilment operation and dismissed about 2,200 salespeople. Special charges were $55.9M in fiscal 1998 and $93.8M in fiscal 1999.[^2][^3]"
+   "text": "CompUSA paid about $175M for a rival, closed 59 of its 96 U.S. stores and kept 37 that sold $711 a square foot. The same year it wrote off its corporate fulfillment operation and dismissed about 2,200 salespeople. Special charges were $55.9M in fiscal 1998 and $93.8M in fiscal 1999.[^2][^3]"
   },
   {
    "weight": 10,

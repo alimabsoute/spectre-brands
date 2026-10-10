@@ -2,21 +2,21 @@
  "kicker": "Brand gallery",
  "title": "Blue, black, silver and a ribbed bottle",
  "label": "Brand gallery",
- "lede": "Zima’s look barely changed in sixteen years: a clear fluted bottle, a blue and black label and a logo with a bar over the Z. Here are the marks as they survive in the archive and in two freely licensed photographs, and our drawings in the same spirit.",
+ "lede": "Zima’s look barely changed in sixteen years: a clear fluted bottle, a blue and black label and a logo with a bar over the Z. The marks survive in the archive and in two freely licensed photographs, next to our drawings in the same spirit.",
  "archive": [
   {
    "image": "img/logo-1996.avif",
    "date": "Oct 1996",
    "caption": "The zima.com banner: “Adult humanz only. 21 means 21.”",
    "alt": "Banner reading ZIMA.COM, Adult humanz only",
-   "credit": "Cropped from an Internet Archive capture of zima.com. Shown for commentary; trademarks belong to their owners."
+   "credit": "Cropped from an Internet Archive capture of zima.com. Shown for commentary; the Zima name and logo belong to their owner."
   },
   {
    "image": "img/fridge-1996.avif",
    "date": "Oct 1996",
    "caption": "“The fridge,” the site’s navigation page.",
    "alt": "A 1996 web page showing an open refrigerator stocked with bottles",
-   "credit": "Cropped from an Internet Archive capture of zima.com. Shown for commentary; trademarks belong to their owners."
+   "credit": "Cropped from an Internet Archive capture of zima.com. Shown for commentary; the Zima name belongs to its owner."
   },
   {
    "image": "img/bottle-2017.avif",
@@ -28,7 +28,7 @@
   {
    "image": "img/photo-bottle.avif",
    "date": "2013",
-   "caption": "A Japanese-market bottle, labelled “Clear Sparkling.”",
+   "caption": "A Japanese-market bottle, labeled “Clear Sparkling.”",
    "alt": "A clear ribbed Zima bottle with a blue label and Japanese text",
    "credit": "Photo: 慧生, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ZIMA1.jpg), CC BY 3.0. Resized."
   },
@@ -59,7 +59,7 @@
   {
    "art": "art/candy-bottle.svg",
    "title": "The folk recipe.",
-   "caption": "Drinkers dropped a Jolly Rancher into the bottle to colour and sweeten it. MillerCoors said it was “definitely aware of the trend.”[^28]"
+   "caption": "Drinkers dropped a Jolly Rancher into the bottle to color and sweeten it. MillerCoors said it was “definitely aware of the trend.”[^28]"
   }
  ],
  "swatches": [

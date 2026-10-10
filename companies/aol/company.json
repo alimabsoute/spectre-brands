@@ -26,8 +26,8 @@
   }
  ],
  "place": "Dial-up online service · Dulles, Virginia",
- "title": "AOL (1985–present): post-mortem · Spectre Brands",
- "description": "Free-trial discs, “You’ve Got Mail,” 26.7 million subscribers and the largest write-down in corporate history: a sourced post-mortem of America Online, now a ghost of its dial-up self.",
+ "title": "AOL (1985–present): dial-up and the Time Warner deal · Spectre Brands",
+ "description": "AOL, home of “You’ve Got Mail,” sold dial-up internet by the month, took over Time Warner with its stock and peaked at 26.7 million U.S. subscribers in 2002.",
  "theme": {
   "accent": "#0b4ea2",
   "soft": "#e8f0fb"
@@ -56,10 +56,10 @@
  "hero": {
   "dates": "Incorporated May 24, 1985 as Quantum Computer Services. Dial-up service discontinued Sep 30, 2025.",
   "standfirst": "America Online sold the internet by the month over a phone line. Then the phone line stopped being how people got online.",
-  "deck": "At its peak AOL had about 26.7 million paying U.S. subscribers and enough stock-market value to take over Time Warner. Within a year of that peak its parent had booked a $98.7 billion annual loss, and within twelve years nine in ten subscribers were gone. The name survives as a portal and a mailbox under its fifth owner. This post-mortem is built from two decades of SEC filings, company announcements, contemporary press and the archived website.[^6][^14][^19]",
+  "deck": "AOL was a dial-up internet service that peaked at about 26.7 million paying U.S. subscribers, took over Time Warner with its stock and shut the service in 2025 after broadband replaced it. Within a year of that peak its parent had booked a $98.7 billion annual loss, and within twelve years nine in ten subscribers were gone. The name survives as a portal and a mailbox under its fifth owner. The record runs through two decades of SEC filings and company announcements, with the press of the day and the archived aol.com alongside.[^6][^14][^19]",
   "art": "art/hero.svg",
   "motion": "flicker",
-  "artCaption": "Original illustration of a late-1990s home computer, a modem and a mailbox flag. Not an official asset.",
+  "artCaption": "Original illustration of a late-1990s home computer, a modem and a mailbox flag, not an official AOL asset.",
   "archive": [
    {
     "image": "img/archive-1996-12-home.avif",

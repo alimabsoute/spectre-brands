@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 30,
@@ -11,7 +10,7 @@
   {
    "weight": 25,
    "title": "A software monopoly that ended",
-   "text": "Cartridges were the profit: an estimated $180 million of $280 million in 1981. Programmers refused royalties founded Activision in 1979, and by December 1982 the number of producers had more than tripled, to 20. In 1983 cartridge units were expected to rise while their dollar value fell from $1.6 billion to $1.3 billion.[^1][^5][^8][^26]"
+   "text": "Cartridges were the profit: an estimated $180 million of $280 million in 1981. Programmers who were refused royalties founded Activision in 1979, and by December 1982 the number of producers had more than tripled, to 20. In 1983 cartridge units were expected to rise while their dollar value fell from $1.6 billion to $1.3 billion.[^1][^5][^8][^26]"
   },
   {
    "weight": 20,

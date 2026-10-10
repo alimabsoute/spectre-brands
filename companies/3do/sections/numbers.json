@@ -7,7 +7,7 @@
   {
    "kind": "arc",
    "title": "Revenue, fiscal 1994 to 2003",
-   "subtitle": "$ millions, years ending March 31. The first peak is a licence fee. The second is Army Men.",
+   "subtitle": "$ millions, years ending March 31. The first peak is a license fee. The second is Army Men.",
    "labels": [
     "FY94",
     "FY95",
@@ -53,7 +53,7 @@
     {
      "i": 3,
      "title": "The M2 fee",
-     "text": "Of $92.4M (derived), $79.2M is hardware royalties and licence fees; Matsushita’s $100M was booked as revenue in stages from fiscal 1996 to fiscal 1998. Software brings in $9.5M.[^1][^4]"
+     "text": "Of $92.4M (derived), $79.2M is hardware royalties and license fees; Matsushita’s $100M was booked as revenue in stages from fiscal 1996 to fiscal 1998. Software brings in $9.5M.[^1][^4]"
     },
     {
      "i": 4,
@@ -159,7 +159,7 @@
     },
     "series": [
      {
-      "label": "Hardware systems (royalties, licence fees, development systems)",
+      "label": "Hardware systems (royalties, license fees, development systems)",
       "data": [
        27.1,
        30.6,
@@ -190,7 +190,7 @@
    "items": [
     {
      "value": "$100M",
-     "text": "upfront licence fee from Matsushita, agreed December 7, 1995 and paid in two instalments of $60M and $40M[^1]"
+     "text": "upfront license fee from Matsushita, agreed December 7, 1995 and paid in two installments of $60M and $40M[^1]"
     },
     {
      "value": "$10M",
@@ -260,7 +260,7 @@
      "note": "[^31]"
     },
     {
-     "label": "Not itemised (derived remainder)",
+     "label": "Not itemized (derived remainder)",
      "value": 15,
      "color": "light",
      "note": "4,585 − 4,570"

@@ -23,8 +23,8 @@
  ],
  "published": "2026-10-03",
  "place": "Toy supermarkets · Philadelphia, Pennsylvania",
- "title": "Kiddie City (1957–1993): post-mortem · Spectre Brands",
- "description": "Lionel sold its toy trains and kept the toy stores. A sourced post-mortem of Lionel Kiddie City and Playworld: two bankruptcies, a failed takeover and a liquidation, built from court opinions and contemporary press.",
+ "title": "Kiddie City (1957–1993): Lionel’s toy stores, closed · Spectre Brands",
+ "description": "Kiddie City was the toy-store chain owned by Lionel, the train company. Lionel filed for Chapter 11 in 1982 and 1991; creditors voted to liquidate it in 1993.",
  "theme": {
   "accent": "#c0341d",
   "soft": "#eef2fb"
@@ -52,7 +52,7 @@
  "hero": {
   "dates": "Founded in Philadelphia in 1957. Liquidation announced Jun 2, 1993.",
   "standfirst": "Lionel gave up making toy trains to run toy supermarkets. The trains are still made. The supermarkets are not.",
-  "deck": "Kiddie City, with its sister chains Lionel Playworld and Lionel Toy Warehouse, was at different times the second, third or fourth largest toy chain in the United States. Its owner filed for Chapter 11 in 1982, came back in 1985, fought off a takeover bid in 1989 and filed again in 1991. Two years later the creditors voted to liquidate. This brand predates EDGAR and the web, so the page is built from two federal appeals court opinions and the newspapers and wire services of the time. It has fewer numbers than our other post-mortems, and it says so where the record runs out.",
+  "deck": "Kiddie City was a [toy-store chain](/category/retail/) owned by Lionel, the toy-train company, and was liquidated in 1993 after two bankruptcies. With its sister chains Lionel Playworld and Lionel Toy Warehouse, it was at different times the second, third or fourth largest toy chain in the United States. Its owner filed for Chapter 11 in 1982, came back in 1985, fought off a takeover bid in 1989 and filed again in 1991. Two years later the creditors voted to liquidate. This brand predates EDGAR and the web, so the record here is two federal appeals court opinions and the newspapers and wire services of the time. It has fewer numbers than our other post-mortems, and it [says so where the record runs out](#sources).",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a toy supermarket with a kangaroo on the roof. Not an official asset; the lettering and the animal are our own drawing.",
   "motion": "float"

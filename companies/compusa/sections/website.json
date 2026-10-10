@@ -1,7 +1,7 @@
 {
  "kicker": "The old website",
  "title": "Five front pages, 1996 to 2019",
- "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture.[^26]",
+ "lede": "Screenshots of compusa.com as the Internet Archive’s Wayback Machine saved it, stored as images. Click one to open the original capture.[^26]",
  "snips": [
   {
    "text": "“Welcome To Our Virtual Computer Store”",
@@ -46,7 +46,7 @@
    "captured": "Jun 14, 2007",
    "title": "After the closings",
    "text": "The site three and a half months after the announcement that 126 stores would close.[^12]",
-   "warn": "The main banner image was not archived and renders as a colour block."
+   "warn": "The main banner image was not archived and renders as a color block."
   },
   {
    "date": "Jan 2008",

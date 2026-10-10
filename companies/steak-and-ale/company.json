@@ -23,8 +23,8 @@
  ],
  "published": "2026-10-08",
  "place": "Casual steakhouses · Dallas, Texas",
- "title": "Steak and Ale (1966–2008): post-mortem · Spectre Brands",
- "description": "Norman Brinker’s 1966 Dallas steakhouse set the pattern for casual dining, passed through Pillsbury, a leveraged buyout and John Kluge’s Metromedia, and closed its last 58 restaurants overnight in a 2008 Chapter 7. One has reopened. A sourced post-mortem.",
+ "title": "Steak and Ale (1966–2008): gone in one morning · Spectre Brands",
+ "description": "Steak and Ale was Norman Brinker’s Dallas steakhouse chain, opened in 1966. After a 1989 buyout it shrank; its last 58 restaurants closed in 2008. One has reopened.",
  "theme": {
   "accent": "#8a1c1c",
   "soft": "#f8eceb"
@@ -51,9 +51,9 @@
  "hero": {
   "dates": "First restaurant opened Feb 1966. Chapter 7 filed Jul 29, 2008. Reopened in Burnsville, Minn., Jul 8, 2024.",
   "standfirst": "It had 109 restaurants in ten years and 159 by 1989. On one Tuesday in 2008 it had none. The name now hangs on a single restaurant in a hotel south of Minneapolis.",
-  "deck": "Norman Brinker opened Steak and Ale in Dallas in February 1966: steak at a moderate price, a salad bar, college students waiting tables, in a building made to look like an English inn. He sold it to Pillsbury in 1976. In 1989 Pillsbury’s new British owner sold it, with its younger sibling Bennigan’s, in a $431 million buyout, and it became part of John Kluge’s Metromedia. The chain shrank from 159 restaurants to 58. On July 29, 2008 its parent, S&A Restaurant Corp., filed for Chapter 7 liquidation and none of them opened. The company was private for almost all of its life and left few filings, so this page is built from the newspapers and trade press of the time, the company’s own archived web pages and one proxy statement. It says where those sources disagree, and they disagree most about how big the chain ever got.",
+  "deck": "Steak and Ale was a Dallas steakhouse chain that Norman Brinker opened in February 1966 and that closed every restaurant in one morning in 2008. It served steak at a moderate price, with a salad bar and college students waiting tables, in a building made to look like an English inn. He sold it to Pillsbury in 1976. In 1989 Pillsbury’s new British owner sold it, with its younger sibling Bennigan’s, in a $431 million buyout, and it became part of John Kluge’s Metromedia. The chain shrank from 159 restaurants to 58. On July 29, 2008 its parent, S&A Restaurant Corp., filed for Chapter 7 liquidation and none of them opened. The company was private for almost all of its life and left few filings, so the sources are the newspapers and trade press of the time, the company’s own archived web pages and one proxy statement. Where they disagree [the page says so](#sources), and they disagree most about how big the chain ever got.",
   "art": "art/hero.svg",
-  "artCaption": "Original illustration of a steak and a pewter tankard of ale. Not an official asset, and not the chain’s logo.",
+  "artCaption": "Original illustration of a steak and a pewter tankard of ale. Not an official Steak and Ale asset, and not the chain’s logo.",
   "motion": "float",
   "archive": [
    {
@@ -104,8 +104,8 @@
    "text": "Grand Metropolitan sold the Dallas restaurant group for $431M to management and a buyout firm. It had 159 Steak and Ale and 221 Bennigan’s restaurants, $716M of sales and $50M of operating income.[^1]"
   },
   {
-   "title": "Under Metromedia the steakhouse shrank and its sibling was favoured.",
-   "text": "The company counted 107 Steak and Ale restaurants in December 2000 and 66 in March 2003, when it agreed to sell the brand in order to focus on Bennigan’s. The sale did not happen.[^23][^24]"
+   "title": "Under Metromedia the steakhouse shrank and its sibling was favored.",
+   "text": "The company counted 107 Steak and Ale restaurants in December 2000 and 66 in March 2003, when it agreed to sell the brand to focus on Bennigan’s. The sale did not happen.[^23][^24]"
   },
   {
    "title": "It had no franchisees to carry on.",

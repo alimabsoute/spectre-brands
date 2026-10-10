@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 35,
@@ -11,12 +10,12 @@
   {
    "weight": 25,
    "title": "Expansion that hid the decline",
-   "text": "The chain more than doubled, from 91 stores at the end of fiscal 2008 to 228 in fiscal 2013, while comparable sales shrank each year. Total sales kept rising until fiscal 2012 only because of new stores.[^2][^3] By 2015 and 2016 it was writing down stores: $47.9M and $20.9M of impairments.[^3]"
+   "text": "The chain more than doubled, from 91 stores at the end of fiscal 2008 to 228 in fiscal 2013, while comparable sales shrank each year. Total sales kept rising until fiscal 2012 only because of new stores.[^2][^3] By 2015 and 2016 it was writing down stores: $47.9M and $20.9M of impairments.[^3] [CompUSA](/compusa/) lost to the same kind of competition."
   },
   {
    "weight": 20,
    "title": "A turnaround that ran out of time",
-   "text": "The shift to appliances, furniture and mattresses raised appliances to 53% of sales by fiscal 2016, but total sales still fell.[^3] A distribution-centre consolidation cost it $20M to $25M of sales in the last holiday quarter, by its own estimate.[^4]"
+   "text": "The shift to appliances, furniture and mattresses raised appliances to 53% of sales by fiscal 2016, but total sales still fell.[^3] A distribution-center consolidation cost it $20M to $25M of sales in the last holiday quarter, by its own estimate.[^4]"
   },
   {
    "weight": 20,
@@ -24,5 +23,5 @@
    "text": "The company filed with a buyer’s term sheet and a $50M debtor-in-possession revolver plus a $30M term loan.[^8][^17] It said it could not close a sale “within the expedited timeline set by our creditors.”[^10]"
   }
  ],
- "disclaimer": "The weights are our judgment of how much each factor contributed. Reasonable readers could weigh them differently."
+ "disclaimer": "The weights are our judgment of how much each factor contributed. A reader could weigh the expansion and the turnaround differently."
 }

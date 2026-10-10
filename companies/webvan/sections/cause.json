@@ -1,12 +1,12 @@
 {
  "kicker": "Cause of death",
  "title": "Contributing factors, weighted",
- "lede": "The weights are our editorial judgment, not a calculation. Click a factor for the evidence.",
+ "lede": "The weights are our [editorial judgment](/about/), not a calculation. Click a factor for the evidence.",
  "causes": [
   {
    "weight": 30,
    "title": "Capacity built years ahead of demand",
-   "text": "Each distribution center was designed for 8,000 orders a day, and the 10-K admits volumes in every facility were “significantly below” that. Even if all of 2000’s estimated orders had gone through one center, it would have run at about 59% of design. Webvan had several.[^1][^3]"
+   "text": "Each distribution center was designed for 8,000 orders a day, and the 10-K admits volumes in every facility were “significantly below” that. Even if all of 2000’s estimated orders had gone through one center, it would have run at about 59% of design, and Webvan had several.[^1][^3]"
   },
   {
    "weight": 25,

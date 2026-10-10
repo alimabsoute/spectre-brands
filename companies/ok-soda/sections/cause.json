@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 30,
@@ -29,5 +28,5 @@
    "text": "More than a million calls reached the hotline by September 1994, and both focus groups “loved the 800 number.”[^8][^6] The same month, a nine-store supermarket chain was selling at most ten 12-packs a week.[^8] People wanted the phone line more than the can."
   }
  ],
- "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. Coca-Cola published no sales breakdown for the brand and gave one sentence of explanation, so the evidence is the press of 1994–1995 and later interviews with the people who made the campaign. How much each cause contributed is a matter of opinion."
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. Coca-Cola published no sales breakdown for the brand and gave one sentence of explanation, so the evidence is the press of 1994–1995 and later interviews with the people who made the campaign. How much each cause contributed is the editors’ judgment."
 }

@@ -2,7 +2,7 @@
  "kicker": "The money",
  "title": "What a private company left on the record",
  "label": "The numbers",
- "lede": "Ouya never filed with the SEC and never published revenue, losses or the number of consoles it sold. What follows is every figure we could confirm: the Kickstarter page, the funding rounds as reported, what developers and the chief executive said about sales, and the game counter on the company’s own home page. The gaps are gaps in the record.",
+ "lede": "Ouya never filed with the SEC and never published revenue, losses or the number of consoles it sold. Every figure we could confirm is here: the Kickstarter page, the funding rounds as reported, what developers and the chief executive said about sales, and the game counter on the company’s own home page. The gaps are gaps in the record.",
  "blocks": [
   {
    "kind": "chart",
@@ -262,7 +262,7 @@
      "text": "The store closes on June 25, 2019.[^30]"
     }
    ],
-   "source": "Read from our screenshots of Internet Archive captures of ouya.tv[^34]. The catalogue kept growing because it cost a developer little to list a game; it says nothing about how many were bought. The final zero is the closure of the store, not a count."
+   "source": "Read from our screenshots of Internet Archive captures of ouya.tv[^34]. The catalog kept growing because it cost a developer little to list a game; it says nothing about how many were bought. The final zero is the closure of the store, not a count."
   },
   {
    "kind": "note",

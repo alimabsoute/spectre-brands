@@ -18,13 +18,13 @@
    "status": "Unpaid",
    "color": "var(--red)",
    "title": "The employees",
-   "text": "Variety counted 1,033 employees as of late June 2024, out of work without severance or extended benefits. They had not been paid for weeks and had been without health cover since May.[^26][^29] The judge said a trustee would look into whether money held in trust for employees had been misused.[^26]"
+   "text": "Variety counted 1,033 employees as of late June 2024, out of work without severance or extended benefits. They had not been paid for weeks and had been without health coverage since May.[^26][^29] The judge said a trustee would look into whether money held in trust for employees had been misused.[^26]"
   },
   {
    "status": "In liquidation",
    "color": "var(--mute)",
    "title": "The company",
-   "text": "The Chapter 7 trustee is George L. Miller. In March 2026 the court approved an agreement on how to share the proceeds if the estate sells its copyright litigation rights, for which a buyer had offered at least $100M in instalments. HPS is owed at least $500M in principal.[^34]"
+   "text": "The Chapter 7 trustee is George L. Miller. In March 2026 the court approved an agreement on how to share the proceeds if the estate sells its copyright litigation rights, for which a buyer had offered at least $100M in installments. HPS is owed at least $500M in principal.[^34]"
   },
   {
    "status": "Wiped out",
@@ -49,7 +49,7 @@
   {
    "kind": "chain",
    "title": "Who has owned the name",
-   "subtitle": "From a hamburger chain to a secured lender, by way of coin counting, private equity and a blank-cheque company.",
+   "subtitle": "From a hamburger chain to a secured lender, by way of coin counting, private equity and a blank-check company.",
    "nodes": [
     {
      "when": "2002",

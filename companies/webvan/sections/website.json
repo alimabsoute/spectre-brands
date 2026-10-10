@@ -1,8 +1,8 @@
 {
  "kicker": "The old website",
  "title": "What customers actually saw",
- "lede": "These are screenshots of the Internet Archive’s captures of webvan.com, stored as images. Click one to open the original capture. Captures were found with the CDX API in October 2026. Pages from 1999–2001 are often incomplete.[^28]",
- "note": "Screenshots were taken from the Internet Archive’s Wayback Machine captures and saved as images, so the page loads without contacting the archive. Click a screenshot to open the original capture. An earlier capture of the Thanksgiving 1999 storefront ([Nov 27, 1999](https://web.archive.org/web/19991127213601/http://www03.webvan.com:80/default.asp)) promised “Delivery in our vans within the 30-minute window you choose” and “Free delivery and no tipping.”",
+ "lede": "Screenshots of webvan.com as the Internet Archive’s Wayback Machine saved it. Click one to open the original capture. Captures were found with the CDX API in October 2026. Pages from 1999–2001 are often incomplete.[^28]",
+ "note": "The screenshots are stored as images, so the page loads without contacting the archive. An earlier capture of the Thanksgiving 1999 storefront ([Nov 27, 1999](https://web.archive.org/web/19991127213601/http://www03.webvan.com:80/default.asp)) promised “Delivery in our vans within the 30-minute window you choose” and “Free delivery and no tipping.”",
  "captures": [
   {
    "date": "Nov 2000",

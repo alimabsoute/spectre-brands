@@ -23,8 +23,8 @@
  ],
  "published": "2026-10-08",
  "place": "Gadget stores, catalog and website · San Francisco, California",
- "title": "Sharper Image (1977–2008): post-mortem · Spectre Brands",
- "description": "The gadget catalog that became a mall chain of 190 stores, then came to depend on one air purifier. A sourced post-mortem of Sharper Image, built from its SEC filings, court coverage and the later sales of its name.",
+ "title": "Sharper Image (1977–2008): sunk by one air purifier · Spectre Brands",
+ "description": "Sharper Image was a gadget catalog turned mall chain of 190 stores. Ionic Breeze purifiers were 40% of revenue in fiscal 2004; it filed for Chapter 11 in 2008.",
  "theme": {
   "accent": "#1f4e79",
   "soft": "#edf3f9"
@@ -48,7 +48,7 @@
  "hero": {
   "dates": "Founded in 1977. Chapter 11 filed Feb 19, 2008.",
   "standfirst": "It sold the things nobody needed but everybody wanted to try in the mall. Then it sold mostly one thing.",
-  "deck": "Sharper Image began in 1977 with a runner’s watch advertised in a magazine, mailed its first catalog in 1979 and opened stores in 1981. By fiscal 2004 it had 175 stores and $760M of revenue, and 40% of that came from its own fanless Ionic Breeze air purifiers. Consumer Reports said the purifiers did little; the company sued and lost. Air-purifier sales collapsed, revenue fell by almost a third in two years, a shareholder forced the founder out in 2006, and in February 2008 the company filed for Chapter 11. The stores were liquidated; the name lived on as a licence. This page is built from its SEC filings, court coverage in the Los Angeles Times, and the filings of the companies that bought the brand.",
+  "deck": "Sharper Image was a [gadget catalog](/category/electronics/) and mall chain that went bankrupt in 2008 after it came to depend on one air purifier, the Ionic Breeze. It began in 1977 with a runner’s watch advertised in a magazine, mailed its first catalog in 1979 and opened stores in 1981. By fiscal 2004 it had 175 stores and $760M of revenue, and 40% of that came from its own fanless Ionic Breeze air purifiers. Consumer Reports said the purifiers did little; the company sued and lost. Air-purifier sales collapsed, revenue fell by almost a third in two years, a shareholder forced the founder out in 2006, and in February 2008 the company filed for Chapter 11. The stores were liquidated; the name lived on as a license. The sources are its SEC filings, court coverage in the Los Angeles Times and the filings of the companies that bought the brand.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a slim tower air purifier glowing blue beside a shop window. Not an official asset or product drawing.",
   "motion": "flicker",

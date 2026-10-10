@@ -14,8 +14,8 @@
   {"date": "2021-01-08", "text": "sold its content rights to Roku"}
  ],
  "place": "Short-form streaming for phones · Los Angeles",
- "title": "Quibi (2018–2020): post-mortem · Spectre Brands",
- "description": "$1.75 billion, two famous executives and a phone-only streaming service that lasted 198 days from launch to wind-down: a sourced post-mortem of Quibi, with charts, the commercials and archived screenshots.",
+ "title": "Quibi (2018–2020): $1.75B for phone-only video · Spectre Brands",
+ "description": "Quibi raised $1.75 billion for phone shows in chapters of ten minutes or less. It launched in April 2020 and announced its closure that October.",
  "theme": {
   "accent": "#7a1fd6",
   "soft": "#f3ecfd"
@@ -34,9 +34,9 @@
  "hero": {
   "dates": "Launched Apr 6, 2020. Announced its wind-down Oct 21, 2020. Dark by Dec 1, 2020.",
   "standfirst": "The name meant “quick bites.” The company turned out to be one.",
-  "deck": "Jeffrey Katzenberg and Meg Whitman raised $1.75 billion to make premium shows in chapters of ten minutes or less, watchable only on a phone. The app arrived a few weeks into the pandemic lockdowns, could not be cast to a television or screenshotted, and cost $4.99 a month in a market full of free short video. This is the full post-mortem, built from the founders’ own letter, Roku’s filings, contemporary reporting and the archived website. Quibi was private, so most of its numbers are press reports or estimates, and are labelled as such.",
+  "deck": "Quibi was a streaming service for premium shows in chapters of ten minutes or less, at first watchable only on a phone, and it announced its closure in October 2020, 198 days after launch. Jeffrey Katzenberg and Meg Whitman had raised $1.75 billion for it. The app arrived a few weeks into the pandemic lockdowns, could not be cast to a television or screenshotted, and cost $4.99 a month in a market full of free short video. The sources are the founders’ own letter, Roku’s filings, contemporary reporting and the archived website. Quibi was private, so most of its numbers are press reports or estimates, and are [labeled as such](/about/).",
   "art": "art/hero.svg",
-  "artCaption": "Original illustration: a phone turning between portrait and landscape, the feature Quibi called Turnstyle. Not an official asset.",
+  "artCaption": "Original illustration: a phone turning between portrait and landscape, the feature Quibi called Turnstyle. Not an official Quibi asset.",
   "motion": "float",
   "archive": [
    {"image": "img/archive-2018-10-name.avif", "caption": "The name appears, Oct 2018", "alt": "Quibi holding page from October 2018 with a black wordmark"},
@@ -60,7 +60,7 @@
   },
   {
    "title": "Phone-only was a choice, and it was reversed too late.",
-   "text": "Whitman said the team considered television apps and decided against them. AirPlay arrived seven weeks after launch; apps for Apple TV, Android TV and Fire TV arrived the day before the shutdown was announced.[^2][^10][^30]"
+   "text": "Whitman said the team considered television apps and decided against them. AirPlay arrived seven weeks after launch; the television apps arrived the day before the shutdown was announced.[^2][^10][^30]"
   },
   {
    "title": "The pandemic hurt, but it helped everyone else.",

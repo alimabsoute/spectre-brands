@@ -44,7 +44,7 @@
   {
    "art": "art/hero.svg",
    "title": "The store.",
-   "caption": "A strip-mall video store at night. Original illustration, not an official asset."
+   "caption": "A strip-mall video store at night. Original illustration, not an official Blockbuster asset."
   },
   {
    "art": "art/vhs-tape.svg",
@@ -76,7 +76,7 @@
    "label": "Outline"
   }
  ],
- "disclaimer": "Colours are approximations sampled from archived captures and photographs[^33]. Blockbuster and the torn-ticket design are trademarks of their owner and appear here in historical and editorial context. Drawings are original illustrations and do not reproduce the logo.",
+ "disclaimer": "Colors are approximations sampled from archived captures and photographs[^33]. Blockbuster and the torn-ticket design are trademarks of their owner and appear here in historical and editorial context. Drawings are original illustrations and do not reproduce the logo.",
  "blocks": [
   {
    "kind": "compare",

@@ -135,7 +135,7 @@
    "kind": "chart",
    "id": "revChart",
    "title": "AOL revenue, 1994–2014",
-   "subtitle": "$ millions. Three reporting bases, shown in three colours.",
+   "subtitle": "$ millions. Three reporting bases, shown in three colors.",
    "chart": {
     "type": "bar",
     "legend": true,

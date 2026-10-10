@@ -1,7 +1,7 @@
 {
  "kicker": "The old website",
  "title": "What customers actually saw",
- "lede": "Screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. Captures were found with the CDX API in October 2026.[^38]",
+ "lede": "Pages as saved by the Internet Archive’s Wayback Machine, stored here as images; click one to open the original capture. We found the captures through the CDX API in October 2026.[^38]",
  "snips": [
   {
    "text": "“There’s never been a better time to be a Toys“R”Us kid”",

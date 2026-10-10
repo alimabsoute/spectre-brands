@@ -1,7 +1,6 @@
 {
  "kicker": "The fork in the road",
  "title": "What if…",
- "lede": "Three decisions where the story could have gone differently. The “What if” panels are speculation, labeled as such.",
  "forks": [
   {
    "tab": "Keep building after 1974",
@@ -16,7 +15,7 @@
   {
    "tab": "Sell the chain whole in 1985",
    "actual": "Marriott kept the buildings and sold the name. The 199 franchised restaurants were left with a brand owned by a hotel company and no commissary behind them. They won a license in 1986 and shrank from about 110 in 1991 to eight in 2005.[^1][^2][^6]",
-   "whatif": "A buyer that wanted both the restaurants and the trademark would have had a reason to renovate them. Whether one existed is unknown: the Los Angeles Times reported up to four bidders but did not say what each wanted.[^2] Most family-restaurant chains of that generation have shrunk since, so the likelier outcome is a slower decline, not a rescue."
+   "whatif": "A buyer that wanted both the restaurants and the trademark would have had a reason to renovate them. Whether one existed is unknown: the Los Angeles Times reported up to four bidders but did not say what each wanted.[^2] Most [family-restaurant chains](/category/restaurants/) of that generation have shrunk since, so the likelier outcome is a slower decline, not a rescue."
   }
  ]
 }

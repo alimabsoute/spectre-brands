@@ -1,12 +1,11 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 40,
    "title": "A free service paid for by banner ads",
-   "text": "The prospectus named advertising as the main source of revenue.[^1] In its best year the company took in $29.9M and spent $23.9M on sales and marketing alone; total operating expenses were $115.9M.[^7] When the market for online advertising fell, the company said the decline was the reason it closed the community, which contributed “disproportionately” to its losses.[^8][^9]"
+   "text": "The prospectus named advertising as the main source of revenue.[^1] In its best year the company took in $29.9M and spent $23.9M on sales and marketing alone; total operating expenses were $115.9M.[^7] When the market for online advertising fell, the company said the decline was the reason it closed the community, which contributed “disproportionately” to its losses.[^8][^9] At [Pets.com](/pets-com/), goods and shipping cost more than revenue in every reported quarter."
   },
   {
    "weight": 25,
@@ -24,5 +23,5 @@
    "text": "GeoCities offered the same free home pages and had more members: 2.5 million to theglobe.com’s 2 million in November 1998.[^2] Variety’s obituary called theglobe.com “a symbol of Internet-era excess.”[^10]"
   }
  ],
- "disclaimer": "The weights are our judgment of how much each factor contributed. Reasonable readers could weigh them differently."
+ "disclaimer": "The weights are our judgment of how much each factor contributed. A different reader could rank them differently."
 }

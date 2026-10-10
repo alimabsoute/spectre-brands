@@ -46,3 +46,6 @@ questions or anecdotes the author did not write.
 3. Remove anything you added that is not traceable to the source or the user. Report gaps as `[NEED: ...]`.
 4. At most two editing passes, then report what remains. If `slop-lint.mjs` is available, run
    `node slop-lint.mjs <file>`, and `node slop-lint.mjs --diff before after` after edits.
+- No deck-closer formula ("This is the full post-mortem, built from…", "a sourced post-mortem of…"), no scene-setting opener, no "This post looks at…".
+- Links: anchor words that already exist; no link-holder sentences ("filed under the same cause", "another X on this site"); source words link to #sources.
+- When compressing for titles, metas or decks, keep every qualifier ("about", "most of", "at first") and the exact event.

@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 35,
@@ -11,7 +10,7 @@
   {
    "weight": 30,
    "title": "Mail, kiosks and the internet",
-   "text": "Movie Gallery blamed revenue declines on mail subscription services such as Netflix and Blockbuster Online and on kiosks such as Redbox. Netflix grew from 2.6 million subscribers at the end of 2004 to 6.3 million two years later. In 2008 Movie Gallery said it would not invest further in kiosks or online rental.[^13][^25]"
+   "text": "Movie Gallery blamed revenue declines on mail subscription services such as Netflix and Blockbuster Online and on kiosks such as [Redbox](/redbox/). Netflix grew from 2.6 million subscribers at the end of 2004 to 6.3 million two years later. In 2008 Movie Gallery said it would not invest further in kiosks or online rental.[^13][^25]"
   },
   {
    "weight": 15,
@@ -29,5 +28,5 @@
    "text": "Movie Gallery said its liquidity problems and Chapter 11 filing in 2007 kept it from integrating most business functions of the two chains. When results fell, many vendors, including many studios, stopped giving trade credit and required cash in advance.[^13]"
   }
  ],
- "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings and wire reports document the symptoms. How much each one contributed is a matter of opinion."
+ "disclaimer": "the weights are an interpretive model by the Spectre Brands editors, not a measured quantity. The filings and wire reports document the symptoms; the split between causes is judgment."
 }

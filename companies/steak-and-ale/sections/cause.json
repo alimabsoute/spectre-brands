@@ -1,12 +1,11 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 30,
    "title": "Debt, and lenders who ran out of patience",
-   "text": "The chain was bought in a $431M leveraged buyout in 1989 and ended as a subsidiary that, by June 2008, was reported to have breached its lending agreements with GE Capital Solutions and was trying to restructure. An analyst called its sibling “heavily levered.” The petitions listed debts of up to $324.2M, and the owners chose liquidation over reorganisation.[^1][^4][^5][^8]"
+   "text": "The chain was bought in a $431M leveraged buyout in 1989 and ended as a subsidiary that, by June 2008, was reported to have breached its lending agreements with GE Capital Solutions and was trying to restructure. An analyst called its sibling “heavily levered.” The petitions listed debts of up to $324.2M, and the owners chose liquidation over reorganization.[^1][^4][^5][^8] [Chi-Chi’s](/chi-chis/), the other restaurant chain here filed under debt, was passed between leveraged owners too."
   },
   {
    "weight": 25,

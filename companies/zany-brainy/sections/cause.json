@@ -1,7 +1,6 @@
 {
  "kicker": "Cause of death",
  "title": "The autopsy",
- "lede": "Tap a cause to see the evidence. The percentages are our editorial weighting. The evidence under each one is sourced.",
  "causes": [
   {
    "weight": 35,
@@ -16,12 +15,12 @@
   {
    "weight": 20,
    "title": "Borrowing tied to inventory",
-   "text": "The $115M facility let the company borrow against a percentage of appraised inventory. When the bank’s appraiser cut the value in January 2001, borrowing room shrank; by March 13 the company had drawn $49.8M of the $50.7M available. Suppliers then slowed shipments, which hurt sales further.[^4][^7]"
+   "text": "The $115M facility let the company borrow against a percentage of appraised inventory. When the bank’s appraiser cut the value in January 2001, borrowing room shrank; by March 13 the company had drawn $49.8M of the $50.7M available, and suppliers then slowed shipments, which hurt sales further.[^4][^7]"
   },
   {
    "weight": 10,
    "title": "The website",
-   "text": "The company had invested $11.8M in ZanyBrainy.com by April 26, 2000 and booked $11.5M of losses from it in fiscal 2000. The annual report says the internet operation “has not been profitable since its launch in October 1999.” Sales on the site after the company took full ownership were $2.3M.[^2][^3]"
+   "text": "The company had invested $11.8M in ZanyBrainy.com by April 26, 2000 and booked $11.5M of losses from it in fiscal 2000, and the annual report says the internet operation “has not been profitable since its launch in October 1999.” Sales on the site after the company took full ownership were $2.3M.[^2][^3]"
   },
   {
    "weight": 15,

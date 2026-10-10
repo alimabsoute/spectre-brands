@@ -2,13 +2,13 @@
  "kicker": "Brand gallery",
  "title": "Red letters on a pale box",
  "label": "Brand gallery",
- "lede": "A CompUSA was a plain big-box building with the name in red capitals over the door. Here is the store as it survives in photographs and the logo as it survives in the archive, with our drawings in the same spirit.",
+ "lede": "A CompUSA was a plain big-box building with the name in red capitals over the door. The store survives in photographs and the logo in the archive; our drawings follow in the same spirit.",
  "archive": [
   {
    "image": "img/logo-2008.avif",
    "date": "Jan 2008",
    "caption": "The logo from the website header, with the “.com” added under Systemax.",
-   "credit": "Cropped from an Internet Archive capture of compusa.com. Shown for commentary; trademarks belong to their owners."
+   "credit": "Cropped from an Internet Archive capture of the compusa.com header. Shown for commentary; the CompUSA name and logo belong to their owners."
   },
   {
    "image": "img/store-santa-clara.avif",
@@ -19,7 +19,7 @@
   {
    "image": "img/store-closing-2008.avif",
    "date": "Jan 22, 2008",
-   "caption": "“America’s Computer Store” with a “Store closing” banner. The photographer left only the sign in colour.",
+   "caption": "“America’s Computer Store” with a “Store closing” banner. The photographer left only the sign in color.",
    "credit": "Photo: Terry Ross from Corpus Christi, Texas, United States, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Store_Closing_(2212179765).jpg), CC BY-SA 2.0."
   },
   {
