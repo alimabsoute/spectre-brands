@@ -1,0 +1,78 @@
+{
+ "kicker": "The old website",
+ "title": "Planet Orbitz, then Orbitz, LLC",
+ "lede": "Screenshots of orbitz.com pages that the Internet Archive’s Wayback Machine saved, kept here as images. Click one to open the original capture. Most images on these pages were not saved, so they show as empty boxes.[^35]",
+ "snips": [
+  {
+   "text": "“Set gravity aside and prepare to embark on a tour into the bowels of the Orbiterium, where anything that matters is random and ultimately unintelligible.”",
+   "when": "Planet Orbitz prelude · Dec 1997[^35]"
+  },
+  {
+   "text": "“This domain is currently registered by a member of myinternet.com”",
+   "when": "Placeholder · Feb 2000[^35]"
+  },
+  {
+   "text": "“Soon the difference will be clear ©2000 Orbitz, LLC”",
+   "when": "Orbitz, LLC · Jan 2001[^35]"
+  },
+  {
+   "text": "“Check out Orbitz' advanced search engine to search all airlines and over 2 billion fares in just seconds.”",
+   "when": "Travel search · May 2001[^35]"
+  }
+ ],
+ "note": "The Wayback Machine holds other captures of orbitz.com; these five are the ones whose page text we checked.",
+ "captures": [
+  {
+   "date": "Dec 1997",
+   "label": "Orbiterium prelude",
+   "url": "http://www.orbitz.com/",
+   "wayback": "https://web.archive.org/web/19971211050441/http://www.orbitz.com/",
+   "image": "img/orbitz-dec-1997.avif",
+   "captured": "Dec 11, 1997",
+   "title": "The prelude to the Orbiterium",
+   "text": "The drink’s Planet Orbitz site opens with a prelude: set gravity aside and prepare for a tour of the Orbiterium, with a choice between a Netscape route and an Internet Explorer route.[^35]",
+   "warn": "Most images on this capture were not saved."
+  },
+  {
+   "date": "Jan 1999",
+   "label": "Same prelude",
+   "url": "http://www.orbitz.com/",
+   "wayback": "https://web.archive.org/web/19990125091300/http://www.orbitz.com/",
+   "image": "img/orbitz-jan-1999.avif",
+   "captured": "Jan 25, 1999",
+   "title": "Still the drink’s site",
+   "text": "The same Orbiterium prelude, a year later.[^35]"
+  },
+  {
+   "date": "Feb 2000",
+   "label": "Placeholder",
+   "url": "http://www.orbitz.com/",
+   "wayback": "https://web.archive.org/web/20000229050453/http://www.orbitz.com/",
+   "image": "img/orbitz-feb-2000.avif",
+   "captured": "Feb 29, 2000",
+   "title": "A domain-service placeholder",
+   "text": "The page says the domain is currently registered by a member of myinternet.com. The drink’s site is gone.[^35]"
+  },
+  {
+   "date": "Jan 2001",
+   "label": "Orbitz, LLC",
+   "url": "http://www.orbitz.com/",
+   "wayback": "https://web.archive.org/web/20010119174700/http://www.orbitz.com/",
+   "image": "img/orbitz-jan-2001.avif",
+   "captured": "Jan 2001",
+   "title": "©2000 Orbitz, LLC",
+   "text": "The page says that soon the difference will be clear, beside a notice of ©2000 Orbitz, LLC, the name of the airline-backed travel venture.[^35][^14]",
+   "warn": "Every image on this capture shows as an empty box."
+  },
+  {
+   "date": "May 2001",
+   "label": "Travel search",
+   "url": "http://www.orbitz.com/",
+   "wayback": "https://web.archive.org/web/20010506034511/http://www.orbitz.com/",
+   "image": "img/orbitz-may-2001.avif",
+   "captured": "May 6, 2001",
+   "title": "A travel search preview",
+   "text": "The page advertises a search of all airlines and over 2 billion fares.[^35]"
+  }
+ ]
+}

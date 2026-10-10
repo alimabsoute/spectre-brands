@@ -1,0 +1,55 @@
+{
+ "kicker": "The marketing",
+ "title": "Packaging, partners and a web address",
+ "lede": "Clearly Canadian said advertising was not affordable for its niche brands.[^4] The record shows what it used instead: the bottle, retail partners, sampling and a web address printed on the package.[^8]",
+ "blocks": [
+  {
+   "kind": "table",
+   "title": "How Orbitz reached buyers",
+   "subtitle": "What the sources document, by lever.",
+   "columns": [
+    "Lever",
+    "What the record shows"
+   ],
+   "rows": [
+    [
+     "Audience",
+     "Aimed at ages 12 to 17 or even college students, by AP’s account.[^1]"
+    ],
+    [
+     "Advertising",
+     "Marketing vice-president Jonathan Cronin said mass advertising did not suit the company’s niche products and was not affordable, so it sought attention through product placement and sampling, and through event marketing.[^4]"
+    ],
+    [
+     "Theme",
+     "In Canada the campaign theme was “Defy Gravity. Get into Orbitz.”[^8]"
+    ],
+    [
+     "Partners",
+     "A national in-store promotion with HMV Records, consumer sampling at Famous Players theatres and a three-year sponsorship agreement with Rollerblade Inc.[^8]"
+    ],
+    [
+     "Retail",
+     "In Canada, sales began May 1, 1997 at accounts such as 7-Eleven, Shoppers Drug Mart and Famous Players cinemas. In April 1997 the drink was in convenience stores and supermarkets in the United States and New Zealand.[^8]"
+    ],
+    [
+     "Packaging",
+     "A 300 ml glass bottle that won the 1996 Glass Packaging Institute Clear Choice Award and the 1996 Mobius International Award. Four flavors at the Canadian launch.[^8]"
+    ],
+    [
+     "Website",
+     "The address of the Planet Orbitz site, www.orbitz.com, was displayed on all packaging. The site carried comics by the syndicated artist Dirk Van Stralen and a tour of an Orbiterium spaceship.[^8]"
+    ],
+    [
+     "Price",
+     "$1.09 for a 10.14-ounce bottle in Spokane in January 1997.[^2] A company-history reference says it cost as much as 50 percent more than regular sodas.[^13]"
+    ],
+    [
+     "Distribution",
+     "Atlantic Beverage Co. was the sole, exclusive distributor of Orbitz and Clearly Canadian beverages in the Washington region in April 1997.[^3] A company-history reference says Clearly Canadian bought back distribution rights in several key Mid-Atlantic states in June 1998.[^13]"
+    ]
+   ],
+   "source": "Business Wire release of April 14, 1997 (a company statement),[^8] Strategy,[^4] and the other sources cited in each row."
+  }
+ ]
+}

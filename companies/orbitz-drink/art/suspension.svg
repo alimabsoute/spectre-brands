@@ -1,0 +1,24 @@
+<svg viewBox="0 0 380 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Original diagram: a bottle of liquid with colored gel balls hanging at different heights, and an enlarged circle showing one ball held in place by a web of fine strands">
+<g fill="none" stroke="#1d1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 256 H370"/>
+<rect x="64" y="14" width="36" height="22" rx="4" fill="#c9ced6"/>
+<path d="M68 36 V66 Q68 94 46 132 Q34 156 34 192 V242 Q34 256 48 256 H116 Q130 256 130 242 V192 Q130 156 118 132 Q96 94 96 66 V36 Z" fill="#f7f1d6"/>
+<circle cx="64" cy="112" r="7" fill="#f5a623"/>
+<circle cx="96" cy="150" r="7" fill="#e2347d"/>
+<circle cx="58" cy="176" r="7" fill="#2b5fb3"/>
+<circle cx="100" cy="200" r="7" fill="#f5a623"/>
+<circle cx="70" cy="224" r="7" fill="#e2347d"/>
+<circle cx="64" cy="112" r="14" stroke-width="1.5" stroke-dasharray="3 4"/>
+<path d="M78 106 L190 62" stroke-width="1.5" stroke-dasharray="3 4"/>
+<path d="M78 118 L190 198" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle cx="278" cy="130" r="92" fill="#fffdf4"/>
+<circle cx="278" cy="130" r="30" fill="#f5a623"/>
+<g stroke="#2b5fb3" stroke-width="1.5">
+<path d="M248 130 L206 98 L190 130 L206 170 L248 130"/>
+<path d="M278 100 L262 54 L300 48 L278 100"/>
+<path d="M308 130 L350 100 L362 140 L344 176 L308 130"/>
+<path d="M278 160 L254 204 L302 208 L278 160"/>
+<path d="M262 54 L206 98 M300 48 L350 100 M344 176 L302 208 M254 204 L206 170"/>
+</g>
+</g>
+</svg>

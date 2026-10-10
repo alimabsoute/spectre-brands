@@ -40,5 +40,45 @@
    "label": "Orbit blue (approximate)"
   }
  ],
- "disclaimer": "Orbitz was a trademark of Clearly Canadian Beverage Corporation; it appears here for commentary and historical record."
+ "disclaimer": "Orbitz was a trademark of Clearly Canadian Beverage Corporation; it appears here for commentary and historical record.",
+ "recreation": {
+  "title": "The prelude, rebuilt (circa 1997)",
+  "font": "Arial, Helvetica, sans-serif",
+  "bar": {
+   "bg": "#000000",
+   "fg": "#f5e04a",
+   "word": "Planet Orbitz",
+   "sub": "prelude · a recreation"
+  },
+  "nav": {
+   "bg": "#000000",
+   "fg": "#f5e04a",
+   "tab": "#ffffff",
+   "tabs": false,
+   "items": [
+    "prelude",
+    "Orbiterium",
+    "comics"
+   ]
+  },
+  "side": {
+   "bg": "#111111",
+   "items": [
+    "Orbiterium tour",
+    "Comics"
+   ]
+  },
+  "buttons": {
+   "bg": "#f5e04a",
+   "fg": "#000000",
+   "items": [
+    "Netscape route",
+    "Internet Explorer route"
+   ]
+  },
+  "art": "art/hero.svg",
+  "headline": "Orbitz - Prelude",
+  "subhead": "Set gravity aside",
+  "body": "Wording paraphrased from the December 1997 archived prelude page. The colors are approximate and the layout is our recreation, not a copy of the original site."
+ }
 }

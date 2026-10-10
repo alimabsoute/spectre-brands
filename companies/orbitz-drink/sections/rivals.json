@@ -1,0 +1,28 @@
+{
+ "kicker": "The rivals",
+ "title": "A crowded category with no gel rival",
+ "lede": "No source we opened names a competing drink with gel spheres. The record names the maker’s competitors in the new age beverage market and describes the market they shared.[^6]",
+ "blocks": [
+  {
+   "kind": "counters",
+   "title": "The market around Orbitz",
+   "items": [
+    {
+     "value": "$3.8B → $13.1B",
+     "text": "US new age beverage market in wholesale dollars, 1992 to an estimated 2002, per Beverage Marketing Corporation as quoted in Clearly Canadian’s annual report for 2002[^6]"
+    }
+   ],
+   "source": "Clearly Canadian annual report for 2002.[^6] The figures are for the market, not for any company in it."
+  },
+  {
+   "kind": "text",
+   "title": "Hansen Natural",
+   "body": "Clearly Canadian’s annual report for 2002 names Hansen Natural Corp., producer of various natural sodas, smoothies, functional drinks, juices and iced teas, in its Competition section.[^6] Hansen’s own annual report for 2002 shows net sales that rose in every year from 1998 to 2002, the years in which Clearly Canadian’s total revenues fell.[^20][^6]\n\nThe comparison is loose. Hansen reports net sales and Clearly Canadian reports total revenues, and neither measures market share or competition for gel drinks."
+  },
+  {
+   "kind": "quote",
+   "text": "Beverage makers are getting desperate.",
+   "who": "Al Ries, marketing analyst, quoted by AP, October 1996[^1]"
+  }
+ ]
+}
