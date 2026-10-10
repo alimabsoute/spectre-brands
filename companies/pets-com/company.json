@@ -1,210 +1,211 @@
 {
- "name": "Pets.com",
- "number": "001",
- "tier": "dead",
- "tierWhy": "Pets.com, Inc. was dissolved and liquidated in 2001–2004; pets.com only redirects to PetSmart and nothing trades under the name.[^6][^10][^36]",
- "category": "dotcom",
- "cause": "unit-economics",
- "years": "1998 – 2000",
- "died": 2000,
- "dates": [
-  {
-   "date": "2000-02-11",
-   "text": "went public on the Nasdaq at $11 a share"
-  },
-  {
-   "date": "2000-11-07",
-   "text": "announced it was winding down and laid off about 255 of 320 employees"
-  },
-  {
-   "date": "2000-01-30",
-   "text": "ran its sock puppet commercial during Super Bowl XXXIV"
-  }
- ],
- "place": "Online pet retail · San Francisco",
- "title": "Pets.com (1998–2000): sock puppet, shipping losses",
- "description": "Pets.com sold pet supplies online and ran a Super Bowl ad. It never sold a quarter’s goods for more than they cost to buy and ship, and wound down in 2000.",
- "theme": {
-  "accent": "#a8321f",
-  "soft": "#eef3dc"
- },
- "card": {
-  "blurb": "The most famous mascot of the dot-com era, Amazon as its biggest shareholder, and a Super Bowl ad. It never sold a quarter’s goods for more than they cost to deliver.",
-  "stat": {
-   "value": "270 days",
-   "label": "from IPO to wind-down"
-  },
-  "spark": [
-   11,
-   3.88,
-   1.88,
-   0.59,
-   0.06,
-   0
+  "name": "Pets.com",
+  "number": "001",
+  "tier": "dead",
+  "tierWhy": "Pets.com, Inc. was dissolved and liquidated in 2001–2004; pets.com only redirects to PetSmart and nothing trades under the name.[^6][^10][^36]",
+  "category": "dotcom",
+  "cause": "unit-economics",
+  "years": "1998 – 2000",
+  "died": 2000,
+  "dates": [
+    {
+      "date": "2000-02-11",
+      "text": "went public on the Nasdaq at $11 a share"
+    },
+    {
+      "date": "2000-11-07",
+      "text": "announced it was winding down and laid off about 255 of 320 employees"
+    },
+    {
+      "date": "2000-01-30",
+      "text": "ran its sock puppet commercial during Super Bowl XXXIV"
+    }
   ],
-  "peak": 0,
-  "logo": "img/logo-2000.avif",
-  "logoYear": "2000"
- },
- "hero": {
-  "dates": "Began operating Feb 17, 1999. Announced its wind-down Nov 7, 2000.",
-  "standfirst": "The company’s slogan was “Because pets can’t drive.” Its business model didn’t get far either.",
-  "deck": "Pets.com was an online pet store with the most famous mascot of the [dot-com era](/category/dotcom/), Amazon as its biggest shareholder and a Super Bowl ad, and it announced its wind-down in November 2000. In 270 days as a public company it never sold a single quarter’s goods for more than they cost to buy and ship.",
-  "art": "art/sock-puppet-mic.svg",
-  "artCaption": "Original illustration in the spirit of the mascot, with the company’s slogan. Not the trademarked character.",
-  "archive": [
-   {
-    "image": "img/archive-2000-02-anniversary.avif",
-    "caption": "Anniversary sale, Feb 2000"
-   },
-   {
-    "image": "img/logo-2000.avif",
-    "caption": "The logo, 2000"
-   },
-   {
-    "image": "img/archive-2000-11-farewell.avif",
-    "caption": "Farewell letter, Nov 2000"
-   }
+  "place": "Online pet retail · San Francisco",
+  "title": "Pets.com (1998–2000): sock puppet, shipping losses",
+  "description": "Pets.com sold pet supplies online and ran a Super Bowl ad. It never sold a quarter’s goods for more than they cost to buy and ship, and wound down in 2000.",
+  "theme": {
+    "accent": "#a8321f",
+    "soft": "#eef3dc"
+  },
+  "card": {
+    "blurb": "The most famous mascot of the dot-com era, Amazon as its biggest shareholder, and a Super Bowl ad. It never sold a quarter’s goods for more than they cost to deliver.",
+    "stat": {
+      "value": "270 days",
+      "label": "from IPO to wind-down"
+    },
+    "spark": [
+      11,
+      3.88,
+      1.88,
+      0.59,
+      0.06,
+      0
+    ],
+    "peak": 0,
+    "logo": "img/logo-2000.avif",
+    "logoYear": "2000"
+  },
+  "hero": {
+    "dates": "Began operating Feb 17, 1999. Announced its wind-down Nov 7, 2000.",
+    "standfirst": "The company’s slogan was “Because pets can’t drive.” Its business model didn’t get far either.",
+    "deck": "Pets.com was an online pet store with the most famous mascot of the [dot-com era](/category/dotcom/), Amazon as its biggest shareholder and a Super Bowl ad, and it announced its wind-down in November 2000. In 270 days as a public company it never sold a single quarter’s goods for more than they cost to buy and ship.",
+    "art": "art/sock-puppet-mic.svg",
+    "artCaption": "Original illustration in the spirit of the mascot, with the company’s slogan. Not the trademarked character.",
+    "archive": [
+      {
+        "image": "img/archive-2000-02-anniversary.avif",
+        "caption": "Anniversary sale, Feb 2000"
+      },
+      {
+        "image": "img/logo-2000.avif",
+        "caption": "The logo, 2000"
+      },
+      {
+        "image": "img/archive-2000-11-farewell.avif",
+        "caption": "Farewell letter, Nov 2000"
+      }
+    ],
+    "motion": "bob"
+  },
+  "keyNumbers": {
+    "caption": "The company in four numbers",
+    "rows": [
+      {
+        "value": "$82.5M",
+        "text": "raised in the Feb 11, 2000 IPO at $11 a share[^1]"
+      },
+      {
+        "value": "270 days",
+        "text": "from IPO to the wind-down announcement[^5]"
+      },
+      {
+        "value": "$146.6M",
+        "text": "cumulative net loss by Sep 30, 2000[^4]"
+      },
+      {
+        "value": "$0.172",
+        "text": "total paid back per share in liquidation, 2001–04[^8][^9][^10]"
+      }
+    ]
+  },
+  "findings": [
+    {
+      "title": "It lost money before marketing.",
+      "text": "Cost of goods sold, including shipping, was higher than sales in every quarter it reported. Its prospectus put shipping costs at 100–110% of revenue.[^1]"
+    },
+    {
+      "title": "It bought fame, not loyalty.",
+      "text": "It spent $103.1M on marketing & sales over six quarters against $31.6M in sales.[^4]"
+    },
+    {
+      "title": "It went public weeks before the crash.",
+      "text": "The IPO priced on Feb 11, 2000. The Nasdaq peaked on Mar 10.[^26]"
+    },
+    {
+      "title": "No one would refinance it.",
+      "text": "Fewer than 8 of the 50+ buyers and investors Merrill Lynch approached would even visit.[^5]"
+    },
+    {
+      "title": "The idea wasn’t wrong.",
+      "text": "Chewy did $11.86B in sales in FY2024, built on subscriptions and positive gross margins.[^19]"
+    }
   ],
-  "motion": "bob"
- },
- "keyNumbers": {
-  "caption": "The company in four numbers",
-  "rows": [
-   {
-    "value": "$82.5M",
-    "text": "raised in the Feb 11, 2000 IPO at $11 a share[^1]"
-   },
-   {
-    "value": "270 days",
-    "text": "from IPO to the wind-down announcement[^5]"
-   },
-   {
-    "value": "$146.6M",
-    "text": "cumulative net loss by Sep 30, 2000[^4]"
-   },
-   {
-    "value": "$0.172",
-    "text": "total paid back per share in liquidation, 2001–04[^8][^9][^10]"
-   }
+  "published": "2026-09-20",
+  "updated": "2026-10-03",
+  "kind": "company",
+  "listed": [
+    {
+      "exchange": "Nasdaq",
+      "ticker": "IPET",
+      "from": "2000-02-11",
+      "to": "2001-01-18",
+      "ledger": [
+        "pc-003",
+        "pc-008"
+      ]
+    }
+  ],
+  "signature": "stock",
+  "factFile": [
+    {
+      "key": "was",
+      "value": "Online pet-supply retailer",
+      "src": [
+        40
+      ],
+      "ledger": [
+        "pc-027"
+      ]
+    },
+    {
+      "key": "founded",
+      "value": "Incorporated in California",
+      "src": [
+        1
+      ],
+      "ledger": [
+        "pc-001"
+      ],
+      "when": "Oct 7, 1998"
+    },
+    {
+      "key": "peak",
+      "value": "Nasdaq high of $14.00 in Q1 2000; 320 employees at Jun 30, 2000",
+      "src": [
+        6,
+        3,
+        5
+      ],
+      "ledger": [
+        "pc-003",
+        "pc-113",
+        "pc-011"
+      ]
+    },
+    {
+      "key": "end",
+      "value": "Plan of liquidation adopted",
+      "src": [
+        40,
+        6
+      ],
+      "ledger": [
+        "pc-028",
+        "pc-008"
+      ],
+      "when": "Nov 4, 2000"
+    },
+    {
+      "key": "buyer",
+      "value": "No one. PetSmart.com bought only the domain names and trademarks, in December 2000",
+      "src": [
+        5,
+        6
+      ],
+      "ledger": [
+        "pc-010",
+        "pc-018",
+        "pc-020",
+        "pc-038"
+      ]
+    },
+    {
+      "key": "remains",
+      "value": "pets.com redirects to petsmart.com (Wayback capture, Dec 28, 2025); the sock puppet went to Hakan Enterprises in 2001",
+      "asOf": "2025-12-28",
+      "src": [
+        6,
+        55,
+        17
+      ],
+      "ledger": [
+        "pc-018",
+        "pc-037",
+        "pc-130",
+        "pc-021",
+        "pc-030"
+      ]
+    }
   ]
- },
- "findings": [
-  {
-   "title": "It lost money before marketing.",
-   "text": "Cost of goods sold, including shipping, was higher than sales in every quarter it reported. Its prospectus put shipping costs at 100–110% of revenue.[^1]"
-  },
-  {
-   "title": "It bought fame, not loyalty.",
-   "text": "It spent $103.1M on marketing & sales over six quarters against $31.6M in sales.[^4]"
-  },
-  {
-   "title": "It went public weeks before the crash.",
-   "text": "The IPO priced on Feb 11, 2000. The Nasdaq peaked on Mar 10.[^26]"
-  },
-  {
-   "title": "No one would refinance it.",
-   "text": "Fewer than 8 of the 50+ buyers and investors Merrill Lynch approached would even visit.[^5]"
-  },
-  {
-   "title": "The idea wasn’t wrong.",
-   "text": "Chewy did $11.86B in sales in FY2024, built on subscriptions and positive gross margins.[^19]"
-  }
- ],
- "published": "2026-09-20",
- "updated": "2026-10-03",
- "kind": "company",
- "listed": [
-  {
-   "exchange": "Nasdaq",
-   "ticker": "IPET",
-   "from": "2000-02-11",
-   "to": "2001-01-18",
-   "ledger": [
-    "pc-003",
-    "pc-008"
-   ]
-  }
- ],
- "signature": "stock",
- "factFile": [
-  {
-   "key": "was",
-   "value": "Online retailer of pet products, combining product sales with expert information on pets and their care",
-   "src": [
-    40
-   ],
-   "ledger": [
-    "pc-027"
-   ]
-  },
-  {
-   "key": "founded",
-   "value": "Incorporated in California on Oct 7, 1998; began operating on Feb 17, 1999",
-   "src": [
-    1
-   ],
-   "ledger": [
-    "pc-001"
-   ]
-  },
-  {
-   "key": "peak",
-   "value": "A Nasdaq high of $14.00 in Q1 2000, the quarter of the Feb 11 IPO; 320 employees at Jun 30, 2000; nearly 570,000 customers by the company’s own count at the November 2000 wind-down",
-   "when": "2000",
-   "src": [
-    6,
-    3,
-    5
-   ],
-   "ledger": [
-    "pc-003",
-    "pc-113",
-    "pc-011"
-   ]
-  },
-  {
-   "key": "end",
-   "value": "The board adopted a plan of liquidation on Nov 4, 2000; stockholders approved it on Jan 16, 2001; the certificate of dissolution took effect on Jan 18, 2001",
-   "src": [
-    40,
-    6
-   ],
-   "ledger": [
-    "pc-028",
-    "pc-008"
-   ]
-  },
-  {
-   "key": "buyer",
-   "value": "No one. In its Nov 7, 2000 release the company said no party was prepared to provide capital or acquire it. PetSmart.com bought only the domain names and trademarks, in December 2000",
-   "src": [
-    5,
-    6
-   ],
-   "ledger": [
-    "pc-010",
-    "pc-018",
-    "pc-020",
-    "pc-038"
-   ]
-  },
-  {
-   "key": "remains",
-   "value": "The domain names went to PetSmart.com in December 2000, and a Wayback capture of Dec 28, 2025 shows pets.com redirecting to petsmart.com. The sock puppet rights went to Hakan Enterprises in 2001 for $125,000",
-   "asOf": "2025-12-28",
-   "src": [
-    6,
-    55,
-    17
-   ],
-   "ledger": [
-    "pc-018",
-    "pc-037",
-    "pc-130",
-    "pc-021",
-    "pc-030"
-   ]
-  }
- ]
 }
