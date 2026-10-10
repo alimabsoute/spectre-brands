@@ -15,6 +15,8 @@ import { previewPages } from './lib/preview.mjs';
 import { homeMixData, renderHomeMixes } from './lib/homemix.mjs';
 import { pmPreview } from './lib/pmpreview.mjs';
 import { pmTransform } from './lib/pmtransform.mjs';
+import { themePage, homePage, cmdkCSS } from './lib/sitetheme.mjs';
+import { render as renderHomeC } from './lib/homemix/homec.mjs';
 import { categoryPage, aboutPage } from './lib/pages.mjs';
 import { row, ledgerHead, decadeOf } from './lib/cards.mjs';
 import { imageInfo, imageKind, strength, picture, PROVIDERS, VIDEO_TYPES } from './lib/media.mjs';
@@ -160,9 +162,11 @@ const minCSS = CSS.replace(/\/\*[\s\S]*?\*\//g, '').replace(/\s*\n\s*/g, '').rep
 write('assets/site.css', minCSS);
 const hash = crypto.createHash('sha1').update(CSS);
 for (const f of fs.readdirSync(path.join(ROOT, 'assets/js'))) hash.update(rd(path.join(ROOT, 'assets/js', f)));
+for (const f of ['assets/pmpreview/sections.css', 'assets/pmpreview/sections.js', 'assets/homemix/mixc.css', 'assets/homemix/homec.js', 'lib/sitetheme.mjs']) hash.update(rd(path.join(ROOT, f)));
 const V = '?v=' + hash.digest('hex').slice(0, 8);
 for (const f of fs.readdirSync(path.join(OUT, 'assets/js'))) { const p = path.join(OUT, 'assets/js', f); fs.writeFileSync(p, rd(p).replaceAll('__V__', V)); }
 copyDir(path.join(ROOT, 'static'), OUT);
+if (process.env.VERCEL_ENV === 'production' || process.argv.includes('--no-previews')) fs.rmSync(path.join(OUT, 'preview'), { recursive: true, force: true });
 copyDir(path.join(ROOT, 'og'), path.join(OUT, 'og'));
 
 const artOf = (c, f) => makeCtx(c).art(f);
@@ -193,10 +197,30 @@ for (const k of site.categories.filter(k => k.n)) {
 }
 page('/about/', { title: 'About and methodology · Spectre Brands', description: 'How Spectre Brands chooses sources, what Dead and Ghost mean, the data-honesty rules every post-mortem follows, and the trademark and fair-use position.', body: aboutPage(site, companies), cls: 'about' });
 // Isolated design review pages; deliberately absent from production navigation, search and sitemap.
-previewPages({ site, companies, img, version: V, write, rd, root: ROOT });
-{ const data = homeMixData({ site, companies, img }); write('assets/homemix/data.json', JSON.stringify(data)); await renderHomeMixes({ data, write }); }
-pmPreview({ OUT, write, transform: pmTransform });
+// Production (VERCEL_ENV=production) skips them entirely; on branch previews they are built, noindexed and unlinked.
+const PREVIEWS = process.env.VERCEL_ENV !== 'production' && !process.argv.includes('--no-previews');
+const homeData = homeMixData({ site, companies, img });
+if (PREVIEWS) {
+  previewPages({ site, companies, img, version: V, write, rd, root: ROOT });
+  write('assets/homemix/data.json', JSON.stringify(homeData)); await renderHomeMixes({ data: homeData, write });
+  pmPreview({ OUT, write, transform: pmTransform });
+}
 write('404.html', head({ site, title: 'Not found · Spectre Brands', description: 'Page not found', path: '/404.html', version: V }) + masthead(site, companies, '') + '<main id="main"><header class="page-hero"><div class="wrap"><h1>Nothing is buried here.</h1><p class="lede">That page does not exist. <a href="/">Back to the index</a>, or press / to search.</p></div></header></main>' + footer(site, companies) + scripts('', V));
+
+// The Front Counter design on every page: theme post-pass over each built page (previews excluded), then the
+// Home C+ homepage with the production head meta and the search palette.
+{
+  const walk = d => fs.readdirSync(d, { withFileTypes: true }).flatMap(e => e.isDirectory() ? (e.name === 'preview' || e.name === 'assets' ? [] : walk(path.join(d, e.name))) : e.name.endsWith('.html') ? [path.join(d, e.name)] : []);
+  for (const f of walk(OUT)) {
+    const rel = path.relative(OUT, f); if (rel === 'index.html') continue;
+    const slug = rel.split(path.sep)[0].replace(/\.html$/, '');
+    fs.writeFileSync(f, themePage(fs.readFileSync(f, 'utf8'), slug, V));
+  }
+  const prodHead = head({ site, title: site.title, description: site.description, path: '/', ld: { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Spectre Brands', url: site.url + '/', description: site.description }, version: V });
+  const mh = masthead(site, companies, '/'); const dialog = mh.slice(mh.indexOf('<dialog class="cmdk"'));
+  write('assets/css/cmdk-home.css', cmdkCSS(minCSS, rd(path.join(ROOT, 'assets/css/tokens.css')), rd(path.join(ROOT, 'assets/pmpreview/sections.css'))));
+  write('index.html', homePage(renderHomeC(homeData), prodHead, dialog, V));
+}
 
 // search index, sitemap, robots
 // The search index. g: group shown in the palette; r: tier; i: logo or lead image; f: listed before anything is typed
@@ -206,7 +230,7 @@ const featured = [companies.find(c => c.slug === site.featured), ...companies].f
 write('search.json', JSON.stringify(companies.map(c => ({ g: 'Brands', r: c.tier, i: thumbOf(c), f: featured.includes(c) ? 1 : 0, n: c.name, u: `/${c.slug}/`, t: c.tierLabel, c: site.categories.find(k => k.id === c.category).label, y: c.years, d: decadeOf(c.died), k: site.causes.find(k => k.id === c.cause).label, b: c.card.blurb, p: c.place })).concat(site.categories.filter(k => k.n).map(k => ({ g: 'Categories', n: k.label, u: `/category/${k.id}/`, t: 'Category', c: '', y: `${k.n} post-mortems`, b: k.blurb, d: '', k: '', p: '' })), [{ g: 'Pages', n: 'About and methodology', u: '/about/', t: 'Page', c: '', y: '', b: 'Sources, Dead vs Ghost, data-honesty rules, trademarks and fair use.', d: '', k: '', p: '' }])));
 const urls = ['/', '/about/', ...site.categories.filter(k => k.n).map(k => `/category/${k.id}/`), ...companies.map(c => `/${c.slug}/`)];
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(u => `<url><loc>${site.url}${u}</loc></url>`).join('\n')}\n</urlset>\n`);
-write('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${site.url}/sitemap.xml\n`);
+write('robots.txt', `User-agent: *\nAllow: /\nDisallow: /preview/\n\nSitemap: ${site.url}/sitemap.xml\n`);
 
 [...new Set(warnings)].forEach(w => console.warn('warning:', w));
 if (errors.length) { [...new Set(errors)].forEach(e => console.error('error:', e)); process.exit(1); }

@@ -498,3 +498,9 @@ html.js .hc-prog { display: block; }
   .strip-brand:hover .sl-hand-l, .strip-brand:focus-visible .sl-hand-l, .strip-brand.wave .sl-hand-l { transform: translateY(-4%); }
   .cas-box { will-change: auto; }
 }
+
+/* production: the Search item is a button that opens the site's search palette */
+.nav .nav-search { font: inherit; color: var(--fg); background: none; border: 0; border-bottom: 2px solid transparent; padding: 6px 0; cursor: pointer; }
+.nav .nav-search:hover { color: var(--hover); border-bottom-color: var(--hover); }
+.foot-nav .nav-search { font: inherit; color: var(--band-fg); background: none; border: 0; padding: 0; cursor: pointer; }
+.foot-nav .nav-search:hover { color: var(--band-hover); text-decoration: underline; text-underline-offset: 3px; }

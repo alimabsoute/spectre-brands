@@ -155,3 +155,9 @@ h2{font-size:clamp(1.85rem,1.25rem + 2vw,2.6rem);line-height:1.08}
 
 /* keep the timeline band inside the 900px compact-view budget */
 @media (min-width:901px){#timeline.sec-timeline{padding-top:clamp(28px,3vw,40px);padding-bottom:clamp(28px,3vw,40px)}}
+
+/* ---------- production: every page ---------- */
+html[data-theme="dark"]{--site:#EF8468}
+/* recreations of archived websites keep their original light page in both themes */
+html[data-theme="dark"] .recreation{color-scheme:light;--bg:#F6EFE0;--card:#FCFBF8;--line:#E3D9C4;--line-2:#CDC1A6;--wash:#EFE4CC;--ink:#1B1815;--ink-2:#3E3731;--mute:#5F554A;background:var(--card);color:var(--ink)}
+.sec-videos .fn a,.sec-videos sup a{color:var(--brand-d,#F2A33C)}

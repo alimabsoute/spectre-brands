@@ -15,7 +15,7 @@
 .stone-img{display:block;flex:1;aspect-ratio:4/5;border-radius:999px 999px 0 0;overflow:hidden;background:var(--card);border:1px solid var(--line-2);border-bottom:2px solid var(--ink)}
 .stone.big .stone-img{aspect-ratio:auto}
 .stone-img img,.stone-img svg{width:100%;height:100%;object-fit:cover;transition:filter var(--d-3),opacity var(--d-3),transform var(--d-3) var(--ease)}
-.stone-img img,.stone-img svg{filter:grayscale(1) contrast(1.05)}
+.stone-img img,.stone-img svg{filter:none}
 .stone-img img.k-capture{object-position:top center}
 .stone-img svg{padding:24% 12% 8%}
 .stone.ghost .stone-img{border-style:dashed dashed solid}

@@ -222,7 +222,7 @@ table.kf .kv{font:600 var(--t-lg)/1.15 var(--serif);letter-spacing:-.02em;color:
 .roster td p{font-size:1rem;line-height:1.5;color:var(--ink-2)}
 .roster .then{width:27%;font:var(--t-sm)/1.5 var(--sans);color:var(--mute);padding-right:0}
 .r-face{width:4.5rem}
-.r-face img{width:3.5rem;height:3.5rem;object-fit:cover;object-position:top center;border:1px solid var(--line);filter:grayscale(1)}
+.r-face img{width:3.5rem;height:3.5rem;object-fit:cover;object-position:top center;border:1px solid var(--line)}
 /* press: one or two quotes run large; the rest are clippings, source first */
 .lead-qs{display:grid;gap:var(--s-6) var(--s-7);border-top:1px solid var(--ink);padding-top:var(--s-5)}
 .lead-qs.n2{grid-template-columns:repeat(2,minmax(0,1fr))}
