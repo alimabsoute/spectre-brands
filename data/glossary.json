@@ -43,6 +43,72 @@
     "def": "A write-down of an asset’s recorded value when the company judges it to be worth less than that."
   },
   {
+    "id": "fluid-gel",
+    "term": "fluid gel",
+    "aliases": [],
+    "def": "A liquid that carries a weak, invisible gel structure. It pours like a liquid but stops suspended particles from sinking."
+  },
+  {
+    "id": "gellan-gum",
+    "term": "gellan gum",
+    "aliases": [],
+    "def": "A gel-forming hydrocolloid that the Associated Press named as the material of the Orbitz spheres."
+  },
+  {
+    "id": "yield-stress",
+    "term": "yield stress",
+    "aliases": [],
+    "def": "The smallest force a gel-like liquid needs before it starts to flow. Below it, particles held in the liquid stay where they are."
+  },
+  {
+    "id": "rheology",
+    "term": "rheology",
+    "aliases": [],
+    "def": "The study of how materials flow and deform."
+  },
+  {
+    "id": "inclusions",
+    "term": "inclusions",
+    "aliases": [],
+    "def": "Pieces of solid matter, such as fruit bits or gel spheres, suspended in a drink."
+  },
+  {
+    "id": "new-age-beverage",
+    "term": "new age beverage",
+    "aliases": [],
+    "def": "The industry label for premium non-cola drinks such as flavored sparkling water, iced tea and functional drinks."
+  },
+  {
+    "id": "form-20-f",
+    "term": "Form 20-F",
+    "aliases": [],
+    "def": "The annual report that a company based outside the United States files with the SEC when its shares trade in the US."
+  },
+  {
+    "id": "form-6-k",
+    "term": "Form 6-K",
+    "aliases": [],
+    "def": "A report in which such a company furnishes news, such as press releases, to the SEC."
+  },
+  {
+    "id": "proposal",
+    "term": "proposal",
+    "aliases": [],
+    "def": "A Canadian procedure in which a company offers its creditors a deal to settle its debts, without being wound up."
+  },
+  {
+    "id": "otc-bulletin-board",
+    "term": "OTC Bulletin Board",
+    "aliases": [],
+    "def": "An electronic quotation service for shares that are not listed on a major exchange."
+  },
+  {
+    "id": "statement-of-use",
+    "term": "statement of use",
+    "aliases": [],
+    "def": "The filing that proves a trademark is in commercial use. An applicant who filed before using the mark must send it after the notice of allowance or the application is abandoned."
+  },
+  {
     "id": "gross-margin",
     "term": "gross margin",
     "aliases": [

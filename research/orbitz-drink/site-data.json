@@ -1,0 +1,226 @@
+{
+ "glossary": [
+  {
+   "id": "fluid-gel",
+   "term": "fluid gel",
+   "aliases": [],
+   "def": "A liquid that carries a weak, invisible gel structure. It pours like a liquid but stops suspended particles from sinking."
+  },
+  {
+   "id": "gellan-gum",
+   "term": "gellan gum",
+   "aliases": [],
+   "def": "A gel-forming hydrocolloid that the Associated Press named as the material of the Orbitz spheres."
+  },
+  {
+   "id": "yield-stress",
+   "term": "yield stress",
+   "aliases": [],
+   "def": "The smallest force a gel-like liquid needs before it starts to flow. Below it, particles held in the liquid stay where they are."
+  },
+  {
+   "id": "rheology",
+   "term": "rheology",
+   "aliases": [],
+   "def": "The study of how materials flow and deform."
+  },
+  {
+   "id": "inclusions",
+   "term": "inclusions",
+   "aliases": [],
+   "def": "Pieces of solid matter, such as fruit bits or gel spheres, suspended in a drink."
+  },
+  {
+   "id": "new-age-beverage",
+   "term": "new age beverage",
+   "aliases": [],
+   "def": "The industry label for premium non-cola drinks such as flavored sparkling water, iced tea and functional drinks."
+  },
+  {
+   "id": "form-20-f",
+   "term": "Form 20-F",
+   "aliases": [],
+   "def": "The annual report that a company based outside the United States files with the SEC when its shares trade in the US."
+  },
+  {
+   "id": "form-6-k",
+   "term": "Form 6-K",
+   "aliases": [],
+   "def": "A report in which such a company furnishes news, such as press releases, to the SEC."
+  },
+  {
+   "id": "proposal",
+   "term": "proposal",
+   "aliases": [],
+   "def": "A Canadian procedure in which a company offers its creditors a deal to settle its debts, without being wound up."
+  },
+  {
+   "id": "otc-bulletin-board",
+   "term": "OTC Bulletin Board",
+   "aliases": [],
+   "def": "An electronic quotation service for shares that are not listed on a major exchange."
+  },
+  {
+   "id": "statement-of-use",
+   "term": "statement of use",
+   "aliases": [],
+   "def": "The filing that proves a trademark is in commercial use. An applicant who filed before using the mark must send it after the notice of allowance or the application is abandoned."
+  }
+ ],
+ "entities": [
+  {
+   "id": "orbitz-drink",
+   "name": "Orbitz (drink)",
+   "type": "Brand",
+   "slug": "orbitz-drink"
+  },
+  {
+   "id": "clearly-canadian",
+   "name": "Clearly Canadian Beverage Corporation",
+   "type": "Organization"
+  },
+  {
+   "id": "bush-boake-allen",
+   "name": "Bush Boake Allen Inc.",
+   "type": "Organization"
+  },
+  {
+   "id": "hansen-natural",
+   "name": "Hansen Natural Corp.",
+   "type": "Organization"
+  },
+  {
+   "id": "bg-capital-group",
+   "name": "BG Capital Group Ltd.",
+   "type": "Organization"
+  },
+  {
+   "id": "robert-r-khan",
+   "name": "Robert R. Khan",
+   "type": "Person"
+  },
+  {
+   "id": "douglas-mason",
+   "name": "Douglas L. Mason",
+   "type": "Person"
+  },
+  {
+   "id": "brent-lokash",
+   "name": "Brent Lokash",
+   "type": "Person"
+  },
+  {
+   "id": "jonathan-cronin",
+   "name": "Jonathan J. Cronin",
+   "type": "Person"
+  }
+ ],
+ "edges": [
+  {
+   "from": "clearly-canadian",
+   "to": "orbitz-drink",
+   "type": "owned",
+   "years": "1996–1999",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-066"
+    },
+    {
+     "ledger": "od-030"
+    }
+   ]
+  },
+  {
+   "from": "bush-boake-allen",
+   "to": "clearly-canadian",
+   "type": "supplier",
+   "years": "1996–1998",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-093"
+    },
+    {
+     "ledger": "od-084"
+    }
+   ],
+   "caveat": "The supply and the lawsuit rest on a company-history reference (secondary); the patent record shows only that Bush Boake Allen owns a suspension patent."
+  },
+  {
+   "from": "hansen-natural",
+   "to": "clearly-canadian",
+   "type": "rival",
+   "years": "1998–2002",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-042"
+    }
+   ]
+  },
+  {
+   "from": "bg-capital-group",
+   "to": "clearly-canadian",
+   "type": "investor",
+   "years": "2005–",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-105"
+    }
+   ]
+  },
+  {
+   "from": "robert-r-khan",
+   "to": "clearly-canadian",
+   "type": "acquired",
+   "years": "2012",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-149"
+    }
+   ]
+  },
+  {
+   "from": "douglas-mason",
+   "to": "clearly-canadian",
+   "type": "executive",
+   "years": "1986–2005",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-053"
+    },
+    {
+     "ledger": "od-111"
+    }
+   ]
+  },
+  {
+   "from": "brent-lokash",
+   "to": "clearly-canadian",
+   "type": "executive",
+   "years": "2005–",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-111"
+    }
+   ]
+  },
+  {
+   "from": "jonathan-cronin",
+   "to": "clearly-canadian",
+   "type": "executive",
+   "years": "1993–",
+   "status": "verified",
+   "evidence": [
+    {
+     "ledger": "od-054"
+    }
+   ]
+  }
+ ]
+}
