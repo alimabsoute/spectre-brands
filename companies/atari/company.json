@@ -27,7 +27,7 @@
  ],
  "place": "Video games and home computers · Sunnyvale, California",
  "title": "Atari (1972–1984): post-mortem · Spectre Brands",
- "description": "From $28 million to $2 billion in sales and a $538 million loss in eight years: a sourced post-mortem of the original Atari and every owner of its name since, with charts, commercials and archived screenshots.",
+ "description": "From $28 million to $2 billion in sales and a $538 million loss in eight years: the original Atari and every owner of its name since, traced through New York Times reporting and SEC filings, with charts, commercials and archived screenshots.",
  "theme": {
   "accent": "#c8102e",
   "soft": "#fbecee"
@@ -52,9 +52,9 @@
  "hero": {
   "dates": "Founded 1972. Sold to Warner 1976. Broken up and sold Jul 2, 1984.",
   "standfirst": "Atari made the home video game a business, and then showed how quickly that business could vanish.",
-  "deck": "Warner Communications paid $28 million for Atari in 1976. By 1982 it was half of Warner’s revenue. One year later it had lost more than half a billion dollars, buried truckloads of cartridges in the New Mexico desert and laid off most of its staff. In July 1984 Warner gave the company to a competitor for notes and no cash. The name has since belonged to a disk-drive maker, a toy company and a French publisher, and it is still trading. This is the post-mortem, built from contemporary New York Times reporting, SEC filings and the archived website.",
+  "deck": "Warner Communications paid $28 million for Atari in 1976. By 1982 it was half of Warner’s revenue. One year later it had lost more than half a billion dollars, buried truckloads of cartridges in the New Mexico desert and laid off most of its staff. In July 1984 Warner gave the company to a competitor for notes and no cash. The name has since belonged to a disk-drive maker, a toy company and a French publisher, and it is still trading.",
   "art": "art/hero.svg",
-  "artCaption": "Original illustration in the spirit of the wood-grain cartridge console and its bat-and-ball game. Not an official asset.",
+  "artCaption": "Original illustration in the spirit of the wood-grain cartridge console and its bat-and-ball game. Not an official Atari asset.",
   "motion": "flicker",
   "archive": [
    {

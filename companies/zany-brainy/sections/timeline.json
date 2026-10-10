@@ -1,7 +1,7 @@
 {
  "kicker": "Timeline",
  "title": "Twelve years, 34 moments",
- "lede": "From one store in the Philadelphia suburbs to a liquidation run by its second owner. Filter by thread.",
+ "lede": "From one store in the Philadelphia suburbs to a liquidation run by its second owner. Use a thread to filter the events.",
  "categories": {
   "corporate": {
    "label": "Corporate",
@@ -274,7 +274,7 @@
    "year": "2001",
    "cat": "death",
    "title": "The court picks The Right Start",
-   "text": "The bankruptcy court rules that The Right Start’s offer is the highest and best. Shareholders will receive nothing.",
+   "text": "The bankruptcy court rules that The Right Start’s offer is the highest and best, and shareholders will receive nothing.",
    "src": [
     9
    ]
@@ -295,7 +295,7 @@
    "year": "2002",
    "cat": "corporate",
    "title": "The Right Start buys FAO Schwarz",
-   "text": "The company soon renames itself FAO Inc. It now runs three chains.",
+   "text": "The company soon renames itself FAO Inc., and it now runs three chains.",
    "src": [
     14,
     24
@@ -306,7 +306,7 @@
    "year": "2002",
    "cat": "death",
    "title": "The old company’s plan is confirmed",
-   "text": "The court confirms a liquidating plan for Zany Brainy, Inc. All of its common shares are cancelled.",
+   "text": "The court confirms a liquidating plan for Zany Brainy, Inc. All of its common shares are canceled.",
    "src": [
     29
    ]
@@ -337,7 +337,7 @@
    "year": "2003",
    "cat": "corporate",
    "title": "FAO Inc. emerges",
-   "text": "It has closed 111 stores across its three chains. 89 Zany Brainy stores remain, in 27 states.",
+   "text": "It has closed 111 stores across its three chains, and 89 Zany Brainy stores remain, in 27 states.",
    "src": [
     14
    ]

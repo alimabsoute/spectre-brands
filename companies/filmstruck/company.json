@@ -24,7 +24,7 @@
  "published": "2026-10-08",
  "place": "Classic and arthouse film streaming · Atlanta, Georgia",
  "title": "FilmStruck (2016–2018): post-mortem · Spectre Brands",
- "description": "Turner Classic Movies and the Criterion Collection built a streaming service of about 1,800 classic and arthouse films. Five months after AT&T bought Time Warner, it was closed as a niche service. A sourced post-mortem of FilmStruck.",
+ "description": "Turner Classic Movies and the Criterion Collection built a streaming service of about 1,800 classic and arthouse films. Five months after AT&T bought Time Warner, it was closed as a niche service. Its owners never published a subscriber count, so the page works from AT&T filings, announcements and the press.",
  "theme": {
   "accent": "#c41538",
   "soft": "#fbeaee"
@@ -53,7 +53,7 @@
   "standfirst": "It had Casablanca, Seven Samurai and the whole Criterion library on one bill. Its owners never said how many people paid for it, and closed it 34 days after saying they would.",
   "deck": "FilmStruck was a subscription streaming service for classic, foreign and independent films, run by Turner Classic Movies with the Criterion Collection. It opened in the United States on November 1, 2016, added the Warner Bros. classics in February 2018 and reached Britain, France and Spain that year. In June 2018 AT&T completed its purchase of Turner’s parent, Time Warner. In October AT&T told investors it would pay for a large new streaming service partly by “consolidating resources from sub-scale D2C efforts,” and sixteen days later Turner and Warner Bros. Digital Networks announced that FilmStruck would close. Directors wrote letters, more than 50,000 people signed a petition within three weeks, and the service still went dark on schedule. This page is built from two AT&T filings with the SEC, company announcements, the trade and daily press of the time and archived copies of filmstruck.com. FilmStruck’s subscriber count, revenue and costs were never published, and we say so wherever that matters.",
   "art": "art/hero.svg",
-  "artCaption": "Original illustration of an old film streaming on a laptop, with a reel beside it. Not an official asset, and not a still from any real film.",
+  "artCaption": "Original illustration of an old film streaming on a laptop, with a reel beside it. Not an official FilmStruck asset, and not a still from any real film.",
   "motion": "flicker",
   "archive": [
    {
@@ -109,7 +109,7 @@
   },
   {
    "title": "The decision may predate the merger.",
-   "text": "Variety reported that two sources said the plan to close FilmStruck was made before AT&T’s deal closed. Either way, Warner Bros. had already folded its own Warner Archive service into FilmStruck that February, and closed DramaFever ten days before.[^12][^18][^19]"
+   "text": "Variety, citing two sources, reported that the plan to close FilmStruck was made before AT&T’s deal closed. Either way, Warner Bros. had already folded its own Warner Archive service into FilmStruck that February, and closed DramaFever ten days before.[^12][^18][^19]"
   },
   {
    "title": "The protest saved the library, not the service.",

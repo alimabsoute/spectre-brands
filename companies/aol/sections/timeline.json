@@ -1,7 +1,7 @@
 {
  "kicker": "Timeline",
  "title": "Forty-one years, 30 moments",
- "lede": "From a Commodore bulletin board to an Italian software holding company. Filter by thread.",
+ "lede": "From a Commodore bulletin board to an Italian software holding company. Pick a thread to filter.",
  "categories": {
   "corporate": {
    "label": "Corporate",
@@ -103,7 +103,7 @@
    "year": "1996",
    "cat": "money",
    "title": "$385.2 million of marketing costs written off",
-   "text": "AOL stops capitalising subscriber acquisition costs and expenses the whole balance.",
+   "text": "AOL stops capitalizing subscriber acquisition costs and expenses the whole balance.",
    "src": [
     2
    ]

@@ -24,7 +24,7 @@
  "published": "2026-10-08",
  "place": "Reformulated cola · Atlanta, Georgia",
  "title": "New Coke (1985–2002): post-mortem · Spectre Brands",
- "description": "Coca-Cola changed its formula on April 23, 1985 and brought the old one back 79 days later. A sourced post-mortem of New Coke and Coke II, from the wire reports of 1985 and Coca-Cola’s own account to the 2019 re-release.",
+ "description": "Coca-Cola changed its formula on April 23, 1985 and brought the old one back 79 days later. New Coke and Coke II, followed from the wire reports of 1985 and Coca-Cola’s own account to the 2019 re-release.",
  "theme": {
   "accent": "#c1121f",
   "soft": "#fdeeee"
@@ -47,7 +47,7 @@
  "hero": {
   "dates": "Announced April 23, 1985. Old formula restored July 1985. Renamed Coke II from 1990. Withdrawn in the early 2000s.",
   "standfirst": "The taste tests said people preferred it. Nobody had asked them how they would feel if the old one was taken away.",
-  "deck": "On April 23, 1985 the Coca-Cola Company replaced the formula of its flagship drink with a sweeter one that had won blind tests of nearly 200,000 people. Within weeks its hotline was taking 1,500 calls a day. On July 10 the company said the old formula would come back as Coca-Cola Classic, and the new one became the smaller of two Cokes, then Coke II, then nothing. This is the post-mortem, built from the wire reports of 1985, the company’s own published account and later reporting.",
+  "deck": "On April 23, 1985 the Coca-Cola Company replaced the formula of its flagship drink with a sweeter one that had won blind tests of nearly 200,000 people. Within weeks its hotline was taking 1,500 calls a day. On July 10 the company said the old formula would come back as Coca-Cola Classic, and the new one became the smaller of two Cokes, then Coke II, then nothing. The account rests on the wire reports of 1985, the company’s own published account and later reporting.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a red can with a silver wave. Not an official asset and not the trademarked design.",
   "motion": "fizz"

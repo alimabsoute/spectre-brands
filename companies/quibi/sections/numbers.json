@@ -2,7 +2,7 @@
  "kicker": "The money",
  "title": "What went in, what came back, and who was counting",
  "label": "The numbers",
- "lede": "Quibi never published a financial statement or a subscriber count. What exists is the amount it said it raised, the amount it reportedly gave back, and two competing sets of download numbers: the company’s own, and Sensor Tower’s estimates. Both are shown, labelled.",
+ "lede": "Quibi never published a financial statement or a subscriber count. What exists is the amount it said it raised, the amount it reportedly gave back, and two competing sets of download numbers: the company’s own, and Sensor Tower’s estimates. Both are shown, labeled.",
  "blocks": [
   {
    "kind": "flow",
@@ -11,7 +11,7 @@
    "from": {"label": "raised: $1.0B in August 2018 and $750M in March 2020", "value": 1750},
    "format": "usdM",
    "to": [
-    {"label": "Not returned (derived remainder)", "value": 1400, "color": "red", "note": "$1,750M less the $350M reportedly returned. It covers content, marketing, technology, staff and the cost of winding down. Quibi published no breakdown and we have not itemised it."},
+    {"label": "Not returned (derived remainder)", "value": 1400, "color": "red", "note": "$1,750M less the $350M reportedly returned. It covers content, marketing, technology, staff and the cost of winding down. Quibi published no breakdown and we have not itemized it."},
     {"label": "Returned to investors (reported)", "value": 350, "color": "green", "note": "Variety: Quibi “reportedly told investors that it would return $350 million of its cash on hand.” Deadline: “around $350 million still in the bank.”[^2][^16]"}
    ],
    "source": "Amounts raised as stated by the company to Variety[^3]. The returned amount is press-reported, not confirmed by the company[^2][^16]. The remainder is derived and takes no account of what Roku paid for the shows, which was not disclosed[^16]."
@@ -38,7 +38,7 @@
     {"label": "Year-one projection at June’s pace (reported)", "value": 2.0, "display": "under 2M", "color": "brand", "self": true, "note": "Wall Street Journal, June 2020.[^7]"},
     {"label": "First 910,000 sign-ups still paying after the trial (estimate)", "value": 0.072, "display": "72,000", "color": "red", "note": "Sensor Tower estimate, disputed by Quibi.[^9]"}
    ],
-   "source": "Target and projection from the Wall Street Journal’s report of June 14, 2020, as summarised by Tubefilter and Señal News[^7][^8]. Conversion estimate from Sensor Tower via The Verge[^9]. The actual number of paying subscribers was never published and is unknown."
+   "source": "Target and projection from the Wall Street Journal’s report of June 14, 2020, as summarized by Tubefilter and Señal News[^7][^8]. Conversion estimate from Sensor Tower via The Verge[^9]. The actual number of paying subscribers was never published and is unknown."
   },
   {
    "kind": "chart",

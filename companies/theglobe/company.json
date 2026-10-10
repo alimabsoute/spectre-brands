@@ -24,7 +24,7 @@
  "published": "2026-10-08",
  "place": "Online community and home pages · New York, New York",
  "title": "theglobe.com (1995–2001): post-mortem · Spectre Brands",
- "description": "The record IPO of the dot-com bubble. A sourced post-mortem of theglobe.com: a 606% first-day gain, $217M of losses in seven years, and the shell company that still carries the name, built from its SEC filings and contemporary press.",
+ "description": "The record IPO of the dot-com bubble, from theglobe.com’s SEC filings and contemporary press: a 606% first-day gain, $217M of losses in seven years, and the shell company that still carries the name.",
  "theme": {
   "accent": "#1f5f9e",
   "soft": "#eaf1f9"
@@ -49,7 +49,7 @@
  "hero": {
   "dates": "Incorporated May 1, 1995. Community site closed Aug 15, 2001.",
   "standfirst": "For one Friday in November 1998 it was the most successful stock offering in history. It never made a profit.",
-  "deck": "theglobe.com let people build free home pages, join chat rooms and post on message boards, and sold advertising against the traffic. Its initial public offering in November 1998 was priced at $9 a share and closed its first day at $63.50, a record gain that came to stand for the bubble. The company then raised another $65M, bought games sites and a web host, and lost $103.9M in 2000 alone. When the online advertising market fell apart it closed the community, sold the games sites and became, by 2008, a public company with nothing in it. This page is built from its SEC filings, which run without a break from 1998 to 2026, and from the press of the time.",
+  "deck": "theglobe.com let people build free home pages, join chat rooms and post on message boards, and sold advertising against the traffic. Its initial public offering in November 1998 was priced at $9 a share and closed its first day at $63.50, a record gain that came to stand for the bubble. The company then raised another $65M, bought games sites and a web host, and lost $103.9M in 2000 alone. When the online advertising market fell apart it closed the community, sold the games sites and became, by 2008, a public company with nothing in it. The sources are its SEC filings, which run without a break from 1998 to 2026, and the press of the time.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a late-1990s home page on a beige monitor, with a globe and a visitor counter. Not an official asset; the page and the globe are our own drawing.",
   "motion": "spin"
@@ -77,7 +77,7 @@
  },
  "findings": [
   {
-   "title": "The IPO day was the peak of the story, not the business.",
+   "title": "The share price peaked on day one.",
    "text": "The shares closed at $63.50 on the first day, about $31.75 after the 1999 stock split. No quarter afterwards closed higher than $39.47, and by the fourth quarter of 2000 the high was $0.84.[^3][^5][^7]"
   },
   {

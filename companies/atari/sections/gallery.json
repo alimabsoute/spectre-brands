@@ -2,7 +2,7 @@
  "kicker": "Brand gallery",
  "title": "Wood grain, a red cartridge label and three lines",
  "label": "Brand gallery",
- "lede": "The products are in museums and the logo is still in use. Here are photographs of the hardware, the mark as two later owners used it, and our drawings in the same spirit.",
+ "lede": "The products are in museums and the logo is still in use. Below are photographs of the hardware and of the mark as two later owners used it, then our drawings in the same spirit.",
  "archive": [
   {
    "image": "img/vcs-2600.avif",
@@ -44,7 +44,7 @@
    "date": "Mar 2025",
    "caption": "The logo on atari.com under Atari SA.",
    "alt": "Red Atari logo and wordmark",
-   "credit": "Cropped from an Internet Archive capture of atari.com. Shown for commentary; trademarks belong to their owners."
+   "credit": "Cropped from an Internet Archive capture of atari.com. Shown for commentary; the Atari name and logo belong to their owners."
   }
  ],
  "blocks": [
@@ -107,5 +107,5 @@
    "label": "Desert sun (drawing)"
   }
  ],
- "disclaimer": "Photographs are from Wikimedia Commons under the licences shown. Atari and its logo are trademarks of their owner and appear here in historical and editorial context. Drawings are original illustrations, not official assets, and their colours are our own choices rather than sampled brand colours."
+ "disclaimer": "Photographs are from Wikimedia Commons under the licenses shown. Atari and its logo are trademarks of their owner and appear here in historical and editorial context. Drawings are original illustrations, not official assets, and their colors are our own choices rather than sampled brand colours."
 }

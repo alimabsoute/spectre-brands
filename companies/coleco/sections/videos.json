@@ -19,7 +19,7 @@
    "type": "commercial",
    "provider": "youtube",
    "embedId": "U-dmEFOT3FY",
-   "caption": "An Adam commercial from the year Coleco cut its wholesale price from $650 to $475.[^4] The year is the uploader’s."
+   "caption": "An Adam commercial from the year Coleco cut its wholesale price from $650 to $475.[^4] The uploader supplied the year."
   },
   {
    "id": "cpk",
@@ -28,7 +28,7 @@
    "type": "commercial",
    "provider": "youtube",
    "embedId": "KJN6h2kWrjo",
-   "caption": "From the year the line sold $540M.[^3] The year is the uploader’s."
+   "caption": "From the year the line sold $540M.[^3] That year too comes from the uploader."
   },
   {
    "id": "riot",

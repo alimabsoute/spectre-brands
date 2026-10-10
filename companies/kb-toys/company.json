@@ -27,7 +27,7 @@
  ],
  "place": "Mall toy stores · Pittsfield, Massachusetts",
  "title": "KB Toys (1922–2009): post-mortem · Spectre Brands",
- "description": "The toy store in the mall: a sourced post-mortem of KB Toys, from a Pittsfield candy wholesaler to 1,322 stores, a leveraged buyout, two bankruptcies and a name that is still for sale.",
+ "description": "KB Toys from a Pittsfield candy wholesaler to 1,322 stores, a leveraged buyout, two bankruptcies and a name that is still for sale, read through its owner’s SEC filings and a Delaware court opinion.",
  "theme": {
   "accent": "#c8102e",
   "soft": "#fdeef0"
@@ -55,9 +55,9 @@
  "hero": {
   "dates": "Founded Apr 1, 1922. Filed for its second Chapter 11 on Dec 11, 2008 and closed its stores in early 2009.",
   "standfirst": "For three decades it was the toy store you walked past on the way to somewhere else. Then the shoppers stopped walking past.",
-  "deck": "KB Toys began as a candy wholesaler in Pittsfield, Massachusetts, and became the largest mall-based toy chain in the United States. It was sold three times in twenty years, the last time in a leveraged buyout that paid its owners about $120 million before a price war with Walmart and Target sent it into bankruptcy. This is the full post-mortem, built from the SEC filings of the company that owned it, a Delaware court opinion, contemporary press and the archived website.",
+  "deck": "KB Toys began as a candy wholesaler in Pittsfield, Massachusetts, and became the largest mall-based toy chain in the United States. It was sold three times in twenty years, the last time in a leveraged buyout that paid its owners about $120 million before a price war with Walmart and Target sent it into bankruptcy. The record is the SEC filings of the company that owned it, a Delaware court opinion, contemporary press and the archived website.",
   "art": "art/hero.svg",
-  "artCaption": "Original illustration of a mall toy store with bargain bins at the door. Not an official asset.",
+  "artCaption": "Original illustration of a mall toy store with bargain bins at the door. Not an official KB Toys asset.",
   "archive": [
    {
     "image": "img/mascot-kay-bee.avif",

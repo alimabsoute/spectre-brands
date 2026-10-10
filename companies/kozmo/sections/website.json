@@ -1,11 +1,11 @@
 {
  "kicker": "The old website",
  "title": "What customers actually saw",
- "lede": "These are screenshots of pages saved by the Internet Archive’s Wayback Machine, stored as images. Click one to open the original capture. Captures were found with the Archive’s CDX index in October 2026.[^27]",
+ "lede": "Screenshots of kozmo.com pages as the Internet Archive’s Wayback Machine saved them, stored as images. Click one to open the original capture. Captures were found with the Archive’s CDX index in October 2026.[^27]",
  "captures": [
   {
    "date": "Dec 1999",
-   "label": "Video catalogue",
+   "label": "Video catalog",
    "url": "http://www.kozmo.com/cgi-bin/ncommerce/;display/category?cgrfnbr=13&cgmenbr=1",
    "wayback": "https://web.archive.org/web/19991201144521/http://www.kozmo.com:80/cgi-bin/ncommerce/;display/category?cgrfnbr=13&cgmenbr=1",
    "image": "img/archive-1999-12-category.avif",
@@ -63,5 +63,5 @@
    "when": "Relaunched site · Feb 28, 2020 capture[^27]"
   }
  ],
- "note": "Screenshots of Internet Archive captures, saved as images. The Archive’s captures of the kozmo.com home page from 2000 are zip-code gates like the one above. Some catalogue pages behind the gate were saved in 1999 and 2000, often without their images.[^27]"
+ "note": "Screenshots of Internet Archive captures, saved as images. The Archive’s captures of the kozmo.com home page from 2000 are zip-code gates like the one above. Some catalog pages behind the gate were saved in 1999 and 2000, often without their images.[^27]"
 }

@@ -24,7 +24,7 @@
  "published": "2026-10-03",
  "place": "Roadside restaurants · Quincy, Massachusetts",
  "title": "Howard Johnson’s (1925–2022): post-mortem · Spectre Brands",
- "description": "From a Quincy soda fountain to more than 1,000 orange roofs and back to none: a sourced post-mortem of the Howard Johnson’s restaurant chain, with charts, a map of the first and last locations, and the commercials.",
+ "description": "From a Quincy soda fountain to more than 1,000 orange roofs and back to none: the Howard Johnson’s restaurant chain, with charts, a map of the first and last locations, and the commercials.",
  "theme": {
   "accent": "#b8470f",
   "soft": "#fdeee2"
@@ -53,9 +53,9 @@
  "hero": {
   "dates": "Soda fountain bought in 1925. Last restaurant closed in 2022.",
   "standfirst": "The roof was orange so that drivers could see it from a distance. By the end there was one left to see.",
-  "deck": "Howard Johnson’s taught America to eat the same meal in every state. It had 1,040 restaurants when a British tobacco group paid $630 million for it, announced in 1979. Six years later it was sold again for half that and cut in two: the restaurants one way, the name and the hotels another. The last restaurant closed in Lake George, New York, in 2022. Most of this story predates electronic filings, so it is built from contemporary press, a reference history and later reporting, and it says where those sources disagree.",
+  "deck": "Howard Johnson’s taught America to eat the same meal in every state. It had 1,040 restaurants when a British tobacco group paid $630 million for it, announced in 1979. Six years later it was sold again for half that and cut in two: the restaurants one way, the name and the hotels another. The last restaurant closed in Lake George, New York, in 2022. Most of this story predates electronic filings, so it rests on contemporary press, a reference history and later reporting, and it says where they disagree.",
   "art": "art/hero.svg",
-  "artCaption": "Original illustration of an orange-roofed roadside restaurant with a cupola. Not an official asset.",
+  "artCaption": "Original illustration of an orange-roofed roadside restaurant with a cupola. Not an official Howard Johnson’s asset.",
   "motion": "float",
   "archive": [
    {

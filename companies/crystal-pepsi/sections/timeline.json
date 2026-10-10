@@ -1,7 +1,7 @@
 {
  "kicker": "Timeline",
  "title": "Thirty-five years, 32 moments",
- "lede": "From a slowing soft drink market to a rumor about 2027. Filter by thread.",
+ "lede": "From a slowing soft drink market to a rumor about 2027. Choose a thread to narrow the list.",
  "categories": {
   "product": {
    "label": "Product",
@@ -64,7 +64,7 @@
    "year": "",
    "cat": "marketing",
    "title": "Deep discounts in the test",
-   "text": "A Providence chain sells two-liter bottles for 39 cents with coupons. A Dallas store manager calls the drink “just a novelty.”",
+   "text": "A Providence chain sells two-liter bottles for 39 cents with coupons, while a Dallas store manager calls the drink “just a novelty.”",
    "src": [
     6
    ]
@@ -353,7 +353,7 @@
    "year": "2026",
    "cat": "revival",
    "title": "A rumor about 2027",
-   "text": "Social media accounts report a return in May 2027. PepsiCo has not confirmed it.",
+   "text": "Social media accounts report a return in May 2027, but PepsiCo has not confirmed it.",
    "src": [
     35
    ]

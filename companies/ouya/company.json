@@ -28,7 +28,7 @@
  "published": "2026-10-08",
  "place": "Android game console · Santa Monica, California",
  "title": "Ouya (2012–2019): post-mortem · Spectre Brands",
- "description": "63,416 backers, $8.6 million and a $99 box that was going to open up the television. A sourced post-mortem of the Ouya, from its Kickstarter page, the press of the time, Razer’s own announcements and the archived website.",
+ "description": "63,416 backers, $8.6 million and a $99 box that was going to open up the television. Recorded in its Kickstarter page, the press of the time, Razer’s own announcements and the archived website.",
  "theme": {
   "accent": "#c2330b",
   "soft": "#fdeee9"
@@ -52,7 +52,7 @@
  "hero": {
   "dates": "Kickstarter opened Jul 10, 2012. In stores Jun 25, 2013. Sold to Razer in 2015. Switched off Jun 25, 2019.",
   "standfirst": "“Cracking open the last closed platform: the TV,” the pitch said. The television stayed closed, and the box did not stay open for long.",
-  "deck": "Ouya was a $99 game console about three inches on a side, built on Android, on which every game had to be free to try. It asked Kickstarter for $950,000 in July 2012 and got $8,596,474 from 63,416 people. Reviewers called the machine that reached backers unfinished. A month after the retail launch the company said 27% of owners had paid for a game. It was put up for sale in April 2015 after tripping a debt covenant, Razer bought the software and the team, and on June 25, 2019, six years to the day after the console reached stores, Razer switched the service off. Ouya was a private company and never published its accounts or its unit sales, so this page is built from the archived Kickstarter page, the technology and trade press of 2012 to 2019, company press releases and the archived ouya.tv. It says so where the record runs out.",
+  "deck": "Ouya was a $99 game console about three inches on a side, built on Android, on which every game had to be free to try. It asked Kickstarter for $950,000 in July 2012 and got $8,596,474 from 63,416 people. Reviewers called the machine that reached backers unfinished. A month after the retail launch the company said 27% of owners had paid for a game. It was put up for sale in April 2015 after tripping a debt covenant, Razer bought the software and the team, and on June 25, 2019, six years to the day after the console reached stores, Razer switched the service off. Ouya was a private company and never published its accounts or its unit sales, so the sources are the archived Kickstarter page, the technology and trade press of 2012 to 2019, company press releases and the archived ouya.tv. It says so where the record runs out.",
   "art": "art/hero.svg",
   "artCaption": "Original illustration in the spirit of the console and its controller. Not an official asset.",
   "motion": "flicker",
@@ -65,7 +65,7 @@
    {
     "image": "img/console-set.avif",
     "caption": "The console and controller",
-    "alt": "Grey Ouya console, a small cube with a rounded base, beside its controller"
+    "alt": "Gray Ouya console, a small cube with a rounded base, beside its controller"
    },
    {
     "image": "img/archive-2019-06-home.avif",
@@ -109,7 +109,7 @@
    "text": "Every game had to be free to try. A month in, 27% of owners had bought one, and the top earner had made its developer about $21,000.[^1][^14]"
   },
   {
-   "title": "The fund meant to fix the catalogue made it worse.",
+   "title": "The fund meant to fix the catalog made it worse.",
    "text": "A $1 million matching fund for exclusive games was gamed within weeks, and developers pulled games in protest.[^15][^16][^18]"
   },
   {

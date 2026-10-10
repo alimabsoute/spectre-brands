@@ -1,7 +1,7 @@
 {
  "kicker": "Timeline",
  "title": "Thirty-one years, 22 moments",
- "lede": "From a magazine ad for a watch to a licence worth $100M. Filter by thread.",
+ "lede": "From a magazine ad for a watch to a license worth $100M. Threads filter the list.",
  "categories": {
   "corporate": {
    "label": "Corporate",
@@ -26,7 +26,7 @@
    "year": "1977",
    "cat": "corporate",
    "title": "Founded",
-   "text": "The company is founded; Thalheimer’s first hit is a waterproof runner’s watch sold through a magazine ad.",
+   "text": "The company is founded. Thalheimer’s first hit is a waterproof runner’s watch sold through a magazine ad.",
    "src": [
     1,
     3
@@ -97,7 +97,7 @@
    "year": "2003",
    "cat": "death",
    "title": "Second review",
-   "text": "Consumer Reports criticises the Ionic Breeze Quadra again; Sharper Image sues Consumers Union.",
+   "text": "Consumer Reports criticizes the Ionic Breeze Quadra again. Sharper Image sues Consumers Union.",
    "src": [
     4,
     16
@@ -118,7 +118,7 @@
    "year": "2004",
    "cat": "money",
    "title": "The peak",
-   "text": "Fiscal 2004 revenue is $760.0M; air purifiers are 40.0% of it. 175 stores.",
+   "text": "Fiscal 2004 revenue is $760.0M, 40.0% of it from air purifiers, and the company has 175 stores.",
    "src": [
     1
    ]
@@ -149,7 +149,7 @@
    "year": "2005",
    "cat": "money",
    "title": "First loss",
-   "text": "Fiscal 2005 revenue falls to $669.0M; net loss of $16.1M; comparable-store sales down 16.0%.",
+   "text": "Fiscal 2005 revenue falls to $669.0M, with a net loss of $16.1M and comparable-store sales down 16.0%.",
    "src": [
     1
    ]
@@ -169,7 +169,7 @@
    "year": "2006",
    "cat": "corporate",
    "title": "Founder out",
-   "text": "Richard Thalheimer departs as chairman and CEO; Jerry W. Levin becomes interim CEO.",
+   "text": "Richard Thalheimer departs as chairman and CEO, and Jerry W. Levin becomes interim CEO.",
    "src": [
     2
    ]
@@ -179,7 +179,7 @@
    "year": "2006",
    "cat": "money",
    "title": "−25.4%",
-   "text": "Fiscal 2006 revenue is $525.3M and the net loss $59.9M. Air purifiers fall to 23.4% of revenue.",
+   "text": "Fiscal 2006 revenue is $525.3M and the net loss $59.9M, while air purifiers fall to 23.4% of revenue.",
    "src": [
     1
    ]
@@ -210,7 +210,7 @@
    "year": "2008",
    "cat": "death",
    "title": "Suspended",
-   "text": "Nasdaq suspends the shares; delisting follows in April.",
+   "text": "Nasdaq suspends the shares, and delisting follows in April.",
    "src": [
     17
    ]
@@ -220,7 +220,7 @@
    "year": "2008",
    "cat": "death",
    "title": "Sold for $49M",
-   "text": "Gordon Brothers and Hilco buy the name, the catalog, the website and the inventory. Store closing sales began May 31.",
+   "text": "Gordon Brothers and Hilco buy the name, the catalog, the website and the inventory, after store closing sales began May 31.",
    "src": [
     11
    ]

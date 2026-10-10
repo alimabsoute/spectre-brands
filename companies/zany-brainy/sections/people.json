@@ -1,7 +1,7 @@
 {
  "kicker": "The people",
  "title": "Who built it, who ran it, who bought it",
- "lede": "Titles and dates are as given in SEC filings. Later careers are left out where we have no source.",
+ "lede": "Titles and dates come from SEC filings. Where no source covers a later career, it is left out.",
  "people": [
   {
    "name": "David Schlessinger",

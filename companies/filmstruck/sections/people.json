@@ -1,7 +1,7 @@
 {
  "kicker": "The people",
  "title": "Programmers, executives and letter-writers",
- "lede": "Titles are as given in the press at the time. We have left out later careers where we have no source.",
+ "lede": "Titles follow the press of the time. Where we had no source for a later career, we left it out.",
  "people": [
   {
    "name": "Jennifer Dorian",
@@ -57,7 +57,7 @@
   {
    "name": "Edgar Wright",
    "role": "Director",
-   "text": "Organised the first letter after emailing Steven Spielberg, enlisting Guillermo del Toro and Rian Johnson to find more signers.[^30]"
+   "text": "Organized the first letter after emailing Steven Spielberg, enlisting Guillermo del Toro and Rian Johnson to find more signers.[^30]"
   },
   {
    "name": "Kevin Bahr",

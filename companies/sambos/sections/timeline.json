@@ -103,7 +103,7 @@
    "year": "1978",
    "cat": "name",
    "title": "Under fire in New England",
-   "text": "The Times reports pickets, a suit by the Massachusetts attorney general and a licence refused in Reading. Nine-month earnings have fallen to $3.1M from $6.8M.",
+   "text": "The Times reports pickets, a suit by the Massachusetts attorney general and a license refused in Reading. Nine-month earnings have fallen to $3.1M from $6.8M.",
    "src": [
     1
    ]
@@ -228,7 +228,7 @@
    "year": "1981",
    "cat": "money",
    "title": "Default",
-   "text": "Sambo’s misses a $4.8M payment, the first instalment of a $100M restructured loan from 17 lenders.",
+   "text": "Sambo’s misses a $4.8M payment, the first installment of a $100M restructured loan from 17 lenders.",
    "src": [
     10
    ]
@@ -330,8 +330,8 @@
    "date": "Nov 9",
    "year": "1989",
    "cat": "after",
-   "title": "Registration cancelled",
-   "text": "The federal trademark registration filed by the company in October 1981 is cancelled for want of a renewal declaration.",
+   "title": "Registration canceled",
+   "text": "The federal trademark registration filed by the company in October 1981 is canceled for want of a renewal declaration.",
    "src": [
     22
    ]

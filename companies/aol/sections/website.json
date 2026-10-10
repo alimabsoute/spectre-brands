@@ -1,7 +1,7 @@
 {
  "kicker": "The old website",
  "title": "What aol.com said, 1996 to 2025",
- "lede": "The members’ service ran inside AOL’s own software and was never archived. These are screenshots of the public website as saved by the Internet Archive’s Wayback Machine, cropped to the page. Click one to open the original capture.[^37]",
+ "lede": "The members’ service ran inside AOL’s own software and was never archived. What survives is the public website: pages the Internet Archive’s Wayback Machine saved, cropped here to the page. Click one to open the original capture.[^37]",
  "snips": [
   {
    "text": "“The World’s Most Popular Internet Online Service”",
@@ -24,7 +24,7 @@
    "when": "help.aol.com · Aug 9, 2025 capture[^18]"
   }
  ],
- "note": "Captures were located with the Wayback Machine in October 2026. The 1996 capture shows a seasonal header in Italian (“Benvenuto a”), apparently one of several rotating greetings. Some images in the 2025 capture were not archived.",
+ "note": "We found the captures through the Wayback Machine in October 2026. The 1996 capture shows a seasonal header in Italian (“Benvenuto a”), apparently one of several rotating greetings. Some images in the 2025 capture were not archived.",
  "captures": [
   {
    "date": "Dec 1996",

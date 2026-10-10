@@ -23,13 +23,13 @@
  ],
  "place": "Clear malt beverage · Golden, Colorado (brewed in Memphis, Tennessee)",
  "title": "Zima (1992–2008): post-mortem · Spectre Brands",
- "description": "Coors’s clear malt beverage sold about 1.3 million barrels in 1994 and half that a year later. A sourced post-mortem of Zima, from the clear craze to the limited re-releases, with charts, commercials and the archived website.",
+ "description": "Coors’s clear malt beverage sold about 1.3 million barrels in 1994 and half that a year later. Its life runs from the clear craze to the limited re-releases, with charts, commercials and the archived website.",
  "theme": {
   "accent": "#1b3f8f",
   "soft": "#e8eef9"
  },
  "card": {
-  "blurb": "Coors filtered the colour and the taste out of a beer, added citrus and spent tens of millions telling America it was zomething different. Most drinkers tried it once.",
+  "blurb": "Coors filtered the color and the taste out of a beer, added citrus and spent tens of millions telling America it was zomething different. Most drinkers tried it once.",
   "stat": {
    "value": "−49%",
    "label": "volume in 1995, the year after the national launch"
@@ -48,9 +48,9 @@
  "hero": {
   "dates": "Test-marketed from September 1992. U.S. production ended October 10, 2008.",
   "standfirst": "It was not a beer and not a wine cooler. For one year, that was enough.",
-  "deck": "Zima was a product, not a company, so there was no bankruptcy. There was a launch year in which Coors sold about 1.3 million barrels of a clear, citrus-flavoured malt drink, and a second year in which it sold roughly half as many. The brand then survived for thirteen more years on reformulations, was withdrawn in 2008, and has come back twice as a summer novelty. This post-mortem is built from Coors’s SEC filings, the press of the time and the brand’s own archived website. Where a figure is not public, it says so.",
+  "deck": "Zima was a product, not a company, so there was no bankruptcy. There was a launch year in which Coors sold about 1.3 million barrels of a clear, citrus-flavored malt drink, and a second year in which it sold roughly half as many. The brand then survived for thirteen more years on reformulations, was withdrawn in 2008, and has come back twice as a summer novelty. The sources are Coors’s SEC filings, the press of the time and the brand’s own archived website. Where a figure is not public, the page says so.",
   "art": "art/hero.svg",
-  "artCaption": "Original illustration in the spirit of the ribbed clear bottle. Not an official asset.",
+  "artCaption": "Original illustration in the spirit of the ribbed clear bottle. Not an official Zima asset.",
   "motion": "fizz",
   "archive": [
    {

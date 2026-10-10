@@ -2,14 +2,14 @@
  "kicker": "Brand gallery",
  "title": "Orange, green and a running figure",
  "label": "Brand gallery",
- "lede": "Kozmo’s look was two flat colours and a logo of a figure in mid-stride. The press remembered the couriers’ orange jackets more than anything on the site. Here are the marks as they survive in the archive, and our drawings in the same spirit.",
+ "lede": "Kozmo’s look was two flat colors and a logo of a figure in mid-stride. The press remembered the couriers’ orange jackets more than anything on the site. The marks below survive in the archive, alongside our drawings in the same spirit.",
  "archive": [
   {
    "image": "img/logo-2001.avif",
    "date": "Apr 2001",
    "caption": "The kozmo.com logo, from the header of the closing notice.",
    "alt": "Kozmo.com logo in orange and green with a running figure",
-   "credit": "Cropped from an Internet Archive capture of kozmo.com. Shown for commentary; trademarks belong to their owners."
+   "credit": "Cropped from an Internet Archive capture of kozmo.com. Shown for commentary; the Kozmo.com name and logo belong to their owners."
   },
   {
    "image": "img/archive-2000-04-home.avif",
@@ -23,7 +23,7 @@
    "date": "Feb 2020",
    "caption": "The relaunched site under new owners, with a new blue logo.",
    "alt": "Relaunched Kozmo.com grocery site, February 2020",
-   "credit": "Screenshot of an Internet Archive capture of kozmo.com. Shown for commentary."
+   "credit": "Screenshot of an Internet Archive capture of the relaunched kozmo.com. Shown for commentary."
   }
  ],
  "blocks": [
@@ -85,5 +85,5 @@
    "label": "This page’s accent (darkened for contrast)"
   }
  ],
- "disclaimer": "Colours were sampled by eye from the archived captures[^27] and are approximate. Kozmo and Kozmo.com are trademarks of their respective owners and appear here in historical and editorial context. The drawings are original illustrations, not official assets."
+ "disclaimer": "Colors were sampled by eye from the archived captures[^27] and are approximate. Kozmo and Kozmo.com are trademarks of their respective owners and appear here in historical and editorial context. The drawings are original illustrations, not official assets."
 }

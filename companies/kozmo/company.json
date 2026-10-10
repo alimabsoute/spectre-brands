@@ -24,7 +24,7 @@
  "published": "2026-10-08",
  "place": "One-hour delivery of videos, snacks and sundries · New York, New York",
  "title": "Kozmo.com (1998–2001): post-mortem · Spectre Brands",
- "description": "Free delivery in under an hour, no minimum order, and $232 million of venture money. A sourced post-mortem of Kozmo.com, built from its own IPO filing, contemporary press and the archived website.",
+ "description": "Free delivery in under an hour, no minimum order, and $232 million of venture money. The record is its own IPO filing, contemporary press and the archived website.",
  "theme": {
   "accent": "#b54708",
   "soft": "#eff5df"
@@ -53,14 +53,14 @@
  "hero": {
   "dates": "First delivery center opened in New York in March 1998. Shut down Apr 11, 2001.",
   "standfirst": "“From the Internet to your door in under an hour.” The delivery was free, and that was the problem.",
-  "deck": "Two bankers in their twenties started Kozmo.com to bring rented videos to Manhattan apartments by bicycle. Within two years it had Amazon and Starbucks as shareholders, 2,665 employees and a filing to go public. The filing never became an offering. It is still the best record of the business, and it shows a company whose delivery expense, mostly courier pay, was larger than its sales in the last quarter of 1999. This post-mortem is built from that filing, the press of 2000 and 2001, trademark records and the archived website.",
+  "deck": "Two bankers in their twenties started Kozmo.com to bring rented videos to Manhattan apartments by bicycle. Within two years it had Amazon and Starbucks as shareholders, 2,665 employees and a filing to go public. The filing never became an offering. It is still the best record of the business, and it shows a company whose delivery expense, mostly courier pay, was larger than its sales in the last quarter of 1999. The rest of the record is the press of 2000 and 2001, trademark records and the archived website.",
   "art": "art/hero.svg",
-  "artCaption": "Original illustration of a bicycle courier in an orange jacket. Not an official asset and not a likeness of any real person.",
+  "artCaption": "Original illustration of a bicycle courier in an orange jacket. Not an official Kozmo asset and not a likeness of any real person.",
   "motion": "drive",
   "archive": [
    {
     "image": "img/archive-1999-12-category.avif",
-    "caption": "Video catalogue, Dec 1999",
+    "caption": "Video catalog, Dec 1999",
     "alt": "Kozmo.com science fiction video rental page, December 1999"
    },
    {

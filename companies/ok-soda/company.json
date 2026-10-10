@@ -2,7 +2,7 @@
  "name": "OK Soda",
  "number": "028",
  "tier": "dead",
- "tierWhy": "Coca-Cola said in September 1995 that it would phase the drink out of its test markets; its US registration of the OK soft drink trademark was cancelled in 2003, and we found no drink sold under the name since.[^9][^11]",
+ "tierWhy": "Coca-Cola said in September 1995 that it would phase the drink out of its test markets; its US registration of the OK soft drink trademark was canceled in 2003, and we found no drink sold under the name since.[^9][^11]",
  "category": "consumer",
  "cause": "management",
  "years": "1994 – 1995",
@@ -22,19 +22,19 @@
   },
   {
    "date": "2003-12-20",
-   "text": "lost its US trademark registration, cancelled because Coca-Cola did not file to keep it"
+   "text": "lost its US trademark registration, canceled because Coca-Cola did not file to keep it"
   }
  ],
  "published": "2026-10-08",
  "place": "Fruity, cola-colored soda · Atlanta, Georgia",
  "title": "OK Soda (1994–1995): post-mortem · Spectre Brands",
- "description": "Coca-Cola built a soda for Generation X out of grey cans, chain letters and a telephone hotline, tested it in nine cities and dropped it after about a million cases. A sourced post-mortem from the press of 1994–1995, Coca-Cola’s filings and trademark records.",
+ "description": "Coca-Cola built a soda for Generation X out of gray cans, chain letters and a telephone hotline, tested it in nine cities and dropped it after about a million cases. Reconstructed from the press of 1994–1995, Coca-Cola’s filings and trademark records.",
  "theme": {
   "accent": "#b3261e",
   "soft": "#eef0f2"
  },
  "card": {
-  "blurb": "Coca-Cola’s soda for people who distrusted advertising came in grey cans with a hotline and a manifesto. The hotline took more than a million calls. The drink sold about a million cases and never left its test markets.",
+  "blurb": "Coca-Cola’s soda for people who distrusted advertising came in gray cans with a hotline and a manifesto. The hotline took more than a million calls. The drink sold about a million cases and never left its test markets.",
   "stat": {
    "value": "1M",
    "label": "cases sold in its test markets before Coca-Cola phased it out"
@@ -80,7 +80,7 @@
  "findings": [
   {
    "title": "The brand came before the drink.",
-   "text": "Advertising Age reported five days after the announcement that Coca-Cola would bring to market “a new brand that’s admittedly not fully formed.”[^5] The Believer later reported that the ads were grey partly because the color of the liquid had not been decided.[^13]"
+   "text": "Advertising Age reported five days after the announcement that Coca-Cola would bring to market “a new brand that’s admittedly not fully formed.”[^5] The Believer later reported that the ads were gray partly because the color of the liquid had not been decided.[^13]"
   },
   {
    "title": "The campaign was the part that worked.",
@@ -96,7 +96,7 @@
   },
   {
    "title": "Nobody has brought it back.",
-   "text": "The trademark registration issued in 1997, after the drink was gone, and was cancelled in 2003.[^11] We found no re-release."
+   "text": "The trademark registration issued in 1997, after the drink was gone, and was canceled in 2003.[^11] We found no re-release."
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "kicker": "The people",
  "title": "Who made it, who backed it, who switched it off",
- "lede": "Titles are as given in the press at the time. Later careers are left out where we have no source we opened.",
+ "lede": "Titles come from the press coverage of the time. Where we opened no source for a later career, it is left out.",
  "people": [
   {
    "name": "Julie Uhrman",
@@ -31,7 +31,7 @@
   {
    "name": "Min-Liang Tan",
    "role": "Co-founder and CEO, Razer",
-   "text": "Bought Ouya’s catalogue, store and team in 2015 without its hardware, said Razer would honour the unpaid developer grants, and ran the store until 2019.[^25][^27][^30]"
+   "text": "Bought Ouya’s catalog, store and team in 2015 without its hardware, said Razer would honor the unpaid developer grants, and ran the store until 2019.[^25][^27][^30]"
   }
  ]
 }

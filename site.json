@@ -82,7 +82,7 @@
    "label": "A fad that faded"
   }
  ],
- "methodLede": "No figure appears without a source, and nothing is presented as fact that we could not check. The short version is below; the full rules are on the About page.",
+ "methodLede": "No figure appears without a source, and nothing is presented as fact that we could not check. The full rules are on the About page.",
  "method": [
   "Every figure links to a numbered source: SEC filings and court records first, then contemporary press, then the Internet Archive.",
   "Numbers we calculate are labeled **derived**. Estimates are labeled with where they came from. Claims we could not confirm are labeled **unverified**, or left out.",
@@ -92,7 +92,7 @@
  ],
  "about": {
   "title": "About and methodology",
-  "lede": "Spectre Brands is a collection of post-mortems: what a company was, what killed it, and what happened to its name afterward. This page explains how they are researched and the rules they follow.",
+  "lede": "Spectre Brands is a collection of post-mortems: what a company was, what killed it, and what happened to its name afterward.",
   "sections": [
    {
     "id": "what",

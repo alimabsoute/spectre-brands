@@ -27,7 +27,7 @@
  ],
  "place": "Clear cola · Purchase, New York",
  "title": "Crystal Pepsi (1992–1994): post-mortem · Spectre Brands",
- "description": "A clear cola, a Super Bowl launch and a rival that says it was built to fail: a sourced post-mortem of Crystal Pepsi, from PepsiCo’s annual reports and the press of 1992–1994 to the nostalgia re-releases.",
+ "description": "A clear cola, a Super Bowl launch and a rival that says it was built to fail, traced from PepsiCo’s annual reports and the press of 1992–1994 to the nostalgia re-releases.",
  "theme": {
   "accent": "#1d4f9c",
   "soft": "#e8f1fb"
@@ -50,7 +50,7 @@
  "hero": {
   "dates": "Test-marketed from April 1992. National in December 1992. Reformulated and renamed in 1994.",
   "standfirst": "The slogan was “You’ve never seen a taste like this.” A year later, most people had stopped looking.",
-  "deck": "Crystal Pepsi was a caffeine-free cola with no caramel coloring, launched nationally with an estimated $40 million of advertising and a Super Bowl spot. Pepsi projected more than 2% of a $47 billion market. By PepsiCo’s own account the brand helped one quarter, softened, and was sent back to be “refined.” This is the post-mortem, built from PepsiCo’s annual reports, the newspapers of the time and the company’s later re-releases.",
+  "deck": "Crystal Pepsi was a caffeine-free cola with no caramel coloring, launched nationally with an estimated $40 million of advertising and a Super Bowl spot. Pepsi projected more than 2% of a $47 billion market. By PepsiCo’s own account the brand helped one quarter, softened, and was sent back to be “refined.”",
   "art": "art/hero.svg",
   "artCaption": "Original illustration of a clear cola bottle. Not an official asset and not the trademarked label.",
   "motion": "fizz",

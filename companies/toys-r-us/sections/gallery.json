@@ -2,13 +2,13 @@
  "kicker": "Brand gallery",
  "title": "Rainbow stripes, a backward R and a giraffe",
  "label": "Brand gallery",
- "lede": "The brand was built to be read from a moving car: letters in six colours, a striped facade and a mascot tall enough to see over the shelves. Here it is as it survives in photographs and the archive, with our drawings in the same spirit.",
+ "lede": "The brand was built to be read from a moving car: letters in six colors, a striped facade and a mascot tall enough to see over the shelves. Here it is as it survives in photographs and the archive, with our drawings in the same spirit.",
  "archive": [
   {
    "image": "img/logo-2003.avif",
    "date": "Dec 2003",
    "caption": "The logo with a star behind the R, as it appeared on the home page in December 2003.",
-   "alt": "Toys R Us logo in multicoloured letters with a star behind the R",
+   "alt": "Toys R Us logo in multicolored letters with a star behind the R",
    "credit": "Cropped from an Internet Archive capture of toysrus.com.[^38] Shown for commentary; trademarks belong to their owners."
   },
   {
@@ -64,7 +64,7 @@
   {
    "art": "art/hero.svg",
    "title": "The storefront.",
-   "caption": "Stripes, a mansard roof and a long neck at the door. An original illustration, not an official asset."
+   "caption": "Stripes, a mansard roof and a long neck at the door, drawn for this page. Not an official asset."
   },
   {
    "art": "art/cart.svg",
@@ -104,5 +104,5 @@
    "label": "Logo green (approx.)"
   }
  ],
- "disclaimer": "Colours were sampled by eye from archived captures[^38] and are approximate. Toys “R” Us, Babies “R” Us and Geoffrey are trademarks of their owner and appear here in historical and editorial context. Drawings are original illustrations, not the trademarked logo or character."
+ "disclaimer": "Colors were sampled by eye from archived captures[^38] and are approximate. Toys “R” Us, Babies “R” Us and Geoffrey are trademarks of their owner and appear here in historical and editorial context. Drawings are original illustrations, not the trademarked logo or character."
 }
