@@ -112,5 +112,99 @@
   }
  ],
  "published": "2026-09-20",
- "updated": "2026-10-03"
+ "updated": "2026-10-03",
+ "kind": "company",
+ "listed": [
+  {
+   "exchange": "Nasdaq",
+   "ticker": "IPET",
+   "from": "2000-02-11",
+   "to": "2001-01-18",
+   "ledger": [
+    "pc-003",
+    "pc-008"
+   ]
+  }
+ ],
+ "signature": "stock",
+ "factFile": [
+  {
+   "key": "was",
+   "value": "Online retailer of pet products, combining product sales with expert information on pets and their care",
+   "src": [
+    40
+   ],
+   "ledger": [
+    "pc-027"
+   ]
+  },
+  {
+   "key": "founded",
+   "value": "Incorporated in California on Oct 7, 1998; began operating on Feb 17, 1999",
+   "src": [
+    1
+   ],
+   "ledger": [
+    "pc-001"
+   ]
+  },
+  {
+   "key": "peak",
+   "value": "A Nasdaq high of $14.00 in Q1 2000, the quarter of the Feb 11 IPO; 320 employees at Jun 30, 2000; nearly 570,000 customers by the company’s own count at the November 2000 wind-down",
+   "when": "2000",
+   "src": [
+    6,
+    3,
+    5
+   ],
+   "ledger": [
+    "pc-003",
+    "pc-113",
+    "pc-011"
+   ]
+  },
+  {
+   "key": "end",
+   "value": "The board adopted a plan of liquidation on Nov 4, 2000; stockholders approved it on Jan 16, 2001; the certificate of dissolution took effect on Jan 18, 2001",
+   "src": [
+    40,
+    6
+   ],
+   "ledger": [
+    "pc-028",
+    "pc-008"
+   ]
+  },
+  {
+   "key": "buyer",
+   "value": "No one. In its Nov 7, 2000 release the company said no party was prepared to provide capital or acquire it. PetSmart.com bought only the domain names and trademarks, in December 2000",
+   "src": [
+    5,
+    6
+   ],
+   "ledger": [
+    "pc-010",
+    "pc-018",
+    "pc-020",
+    "pc-038"
+   ]
+  },
+  {
+   "key": "remains",
+   "value": "The domain names went to PetSmart.com in December 2000, and a Wayback capture of Dec 28, 2025 shows pets.com redirecting to petsmart.com. The sock puppet rights went to Hakan Enterprises in 2001 for $125,000",
+   "asOf": "2025-12-28",
+   "src": [
+    6,
+    55,
+    17
+   ],
+   "ledger": [
+    "pc-018",
+    "pc-037",
+    "pc-130",
+    "pc-021",
+    "pc-030"
+   ]
+  }
+ ]
 }
