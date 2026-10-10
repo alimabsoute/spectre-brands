@@ -130,25 +130,16 @@ function renderCompany(c, all, site, V) {
   const related = [...all.filter(x => x.slug !== c.slug && x.category === c.category), ...all.filter(x => x.slug !== c.slug && x.category !== c.category)].slice(0, 3);
   const artOf = (x, f) => makeCtx(x).art(f);
   const og = fs.existsSync(path.join(ROOT, 'og', `${c.slug}.png`)) ? `/og/${c.slug}.png` : '/og/default.png';
-  const ld = { '@context': 'https://schema.org', '@type': 'Article', headline: c.title, description: c.description, image: [site.url + og], datePublished: c.published || site.published, dateModified: c.updated || c.published || site.published,
+  const ld = { '@context': 'https://schema.org', '@type': 'Article', headline: c.title, description: c.description, image: [site.url + og], datePublished: c.published || site.published, dateModified: c.updated || site.updated || c.published || site.published,
     author: { '@type': 'Organization', name: 'Spectre Brands', url: site.url + '/' }, publisher: { '@type': 'Organization', name: 'Spectre Brands', logo: { '@type': 'ImageObject', url: site.url + '/apple-touch-icon.png' } },
     mainEntityOfPage: `${site.url}/${c.slug}/`, about: { '@type': 'Organization', name: c.name }, articleSection: site.categories.find(k => k.id === c.category)?.label };
-  // Answer-engine structured data: a breadcrumb, and an FAQ whose answers are sentences already shown on the page
-  // (the hero deck, the Dead/Ghost explanation and the dated milestones), with footnote markers stripped.
-  const plain = t => String(t || '').replace(/\[\^[\w-]+\]/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '').replace(/\s+/g, ' ').trim();
+  // Structured data: the Article plus a breadcrumb. (An FAQPage was tried and dropped: its questions are not shown on the page.)
   const cat = site.categories.find(k => k.id === c.category);
   const crumbs = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Spectre Brands', item: site.url + '/' },
     { '@type': 'ListItem', position: 2, name: cat?.label, item: `${site.url}/category/${c.category}/` },
     { '@type': 'ListItem', position: 3, name: c.name, item: `${site.url}/${c.slug}/` }] };
-  const fmtDate = d => new Date(d + 'T12:00:00Z').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
-  const deck = plain(c.hero?.deck).split(/(?<=[.!?])\s+/).slice(0, 2).join(' ');
-  const faq = [
-    deck && [`What was ${c.name}?`, deck],
-    c.tierWhy && [c.tier === 'ghost' ? `Does ${c.name} still exist?` : `Is ${c.name} still in business?`, (c.tier === 'ghost' ? '' : 'No. ') + plain(c.tierWhy)],
-    c.dates?.length && [`When did ${c.name} open and close?`, c.dates.map(d => `${fmtDate(d.date)}: ${c.name} ${plain(d.text)}.`).join(' ')]].filter(Boolean);
-  const faqLd = faq.length ? { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) } : null;
-  const html = head({ site, title: c.title, description: c.description, path: `/${c.slug}/`, image: og, type: 'article', ld: [ld, crumbs, faqLd].filter(Boolean), version: V })
+  const html = head({ site, title: c.title, description: c.description, path: `/${c.slug}/`, image: og, type: 'article', ld: [ld, crumbs], version: V })
     + masthead(site, all, `/${c.slug}/`) + pageNav(used, labels, c.name)
     + `<main id="main" class="company" style="--brand:${esc(c.theme.accent)};--brand-soft:${esc(c.theme.soft)}">${body}
 <section id="more" class="more" aria-labelledby="more-h"><div class="wrap"><h2 id="more-h">More post-mortems</h2>${ledgerHead}<div class="ledger">${related.map(x => row(x, site, img)).join('\n')}</div><p class="more-all"><a href="/#index">Browse all ${all.length}<span aria-hidden="true"> →</span></a></p></div></section></main>`
