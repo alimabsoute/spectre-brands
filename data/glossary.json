@@ -91,12 +91,6 @@
     "def": "A report in which such a company furnishes news, such as press releases, to the SEC."
   },
   {
-    "id": "proposal",
-    "term": "proposal",
-    "aliases": [],
-    "def": "A Canadian procedure in which a company offers its creditors a deal to settle its debts, without being wound up."
-  },
-  {
     "id": "otc-bulletin-board",
     "term": "OTC Bulletin Board",
     "aliases": [],
