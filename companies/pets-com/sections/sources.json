@@ -158,6 +158,66 @@
   {
    "id": 39,
    "text": "Map data — U.S. Census Bureau cartographic boundary files (counties, 1:500k) and [us-atlas](https://github.com/topojson/us-atlas) (Census-derived TopoJSON). Rendered with d3-geo."
+  },
+  {
+   "id": 40,
+   "text": "SEC EDGAR — [IPET Holdings, Inc. Form 10-K, FY2001](https://www.sec.gov/Archives/edgar/data/1100683/000089161802001559/0000891618-02-001559.txt), 2002-03-29."
+  },
+  {
+   "id": 41,
+   "text": "SEC EDGAR — [IPET Holdings, Inc. Form 10-Q, Q3 2002](https://www.sec.gov/Archives/edgar/data/1100683/000089161802005198/0000891618-02-005198.txt), 2002-11-14."
+  },
+  {
+   "id": 42,
+   "text": "SEC EDGAR — [IPET Holdings, Inc. Form 8-K, change of certifying accountant](https://www.sec.gov/Archives/edgar/data/1100683/000109581101500680/0001095811-01-500680.txt), 2001-03-27."
+  },
+  {
+   "id": 43,
+   "text": "SEC EDGAR — [IPET Holdings, Inc. Form 10-K/A, FY2000 (audited statements)](https://www.sec.gov/Archives/edgar/data/1100683/000089161802003177/0000891618-02-003177.txt), 2002-07-10."
+  },
+  {
+   "id": 44,
+   "text": "SEC EDGAR — [PETsMART.com, Inc. Form S-1 registration statement](https://www.sec.gov/Archives/edgar/data/1088628/000089843000000265/0000898430-00-000265.txt), 2000-02-04."
+  },
+  {
+   "id": 46,
+   "text": "SEC EDGAR — [Petopia.com, Inc. Form S-1 registration statement](https://www.sec.gov/Archives/edgar/data/1100672/000092962400000350/0000929624-00-000350.txt), 2000-03-13."
+  },
+  {
+   "id": 48,
+   "text": "SEC EDGAR — [Pets.com, Inc. Form 8-K/A (Petstore.com financial statements and pro forma data)](https://www.sec.gov/Archives/edgar/data/1100683/000109581100003584/0001095811-00-003584.txt), 2000-09-26."
+  },
+  {
+   "id": 50,
+   "text": "SEC EDGAR — [Kozmo.com, Inc. Form S-1 registration statement](https://www.sec.gov/Archives/edgar/data/1075749/000091205700012562/0000912057-00-012562.txt), 2000-03-21."
+  },
+  {
+   "id": 51,
+   "text": "SEC EDGAR — [Amazon.com, Inc. Schedule 13G for Pets.com, Inc.](https://www.sec.gov/Archives/edgar/data/1100683/000103221001000225/0001032210-01-000225.txt), 2001-02-13."
+  },
+  {
+   "id": 53,
+   "text": "U.S. Patent and Trademark Office — Trademark Status and Document Retrieval (TSDR) status pages for Pets.com applications, [serial 75737216](https://tsdr.uspto.gov/statusview/sn75737216); [serial 75775667](https://tsdr.uspto.gov/statusview/sn75775667); [serial 75798507](https://tsdr.uspto.gov/statusview/sn75798507); [serial 75788039](https://tsdr.uspto.gov/statusview/sn75788039); [serial 75882177](https://tsdr.uspto.gov/statusview/sn75882177), retrieved 2026-10-10."
+  },
+  {
+   "id": 54,
+   "text": "Verisign (.com registry) — [RDAP record for PETS.COM](https://rdap.verisign.com/com/v1/domain/pets.com), 2026-10-10."
+  },
+  {
+   "id": 55,
+   "text": "Internet Archive — [Wayback Machine capture of http://pets.com/, Dec 28, 2025](https://web.archive.org/web/20251228183449/http://pets.com/), 2025-12-28."
+  },
+  {
+   "id": 56,
+   "text": "The RealReal, Inc. — [Form 8-K, Item 5.02](https://www.sec.gov/Archives/edgar/data/1573221/000119312522168900/d337456d8k.htm) and [press release (Ex. 99.1)](https://www.sec.gov/Archives/edgar/data/1573221/000119312522168900/d337456dex991.htm), Jun 7, 2022."
+  },
+  {
+   "id": 57,
+   "text": "SEC EDGAR — [Chewy, Inc. Q4 and FY2025 results (Ex. 99.1)](https://www.sec.gov/Archives/edgar/data/1766502/000176650226000033/chwyq42025exhibit991.htm), 2026-03-25."
+  },
+  {
+   "id": 58,
+   "text": "SEC EDGAR — [PETsMART, Inc. Form 10-K, fiscal 2000](https://www.sec.gov/Archives/edgar/data/863157/000095015301500407/p64912e10-k.htm), 2001-04-30."
   }
  ],
  "notes": [
@@ -192,6 +252,30 @@
   {
    "label": "Reported, not confirmed",
    "text": "PetSmart’s ~$3.35B price for Chewy (Recode/CNBC). Petopia’s ~60% layoff figure is from contemporary press."
+  },
+  {
+   "label": "Gross margin scope",
+   "text": "Pets.com’s filings put fulfillment in marketing and sales, not in cost of sales. We found no filing that records a change in that classification, and none that gives Pets.com’s own fulfillment cost in dollars. The only fulfillment dollars in the record are Petstore.com’s, from Pets.com’s own pro forma reclassification.[^48]"
+  },
+  {
+   "label": "First-year rivals",
+   "text": "The four first-period columns cover different spans: they begin between Jan 28 and Mar 9, 1999 and end between Dec 31, 1999 and Jan 2, 2000. PetSmart.com had development months before its store launched on Jun 29, 1999.[^44] Petstore.com’s figures are in dollars and include fulfillment in cost of sales; the others are in thousands.[^48]"
+  },
+  {
+   "label": "Stock quotes",
+   "text": "The Nasdaq ranges come from the FY2000 10-K.[^6] The 2001 quotes are over-the-counter prices after the delisting. The FY2001 10-K says they are inter-dealer prices that may not represent actual transactions.[^40] The two venues are drawn separately and not joined."
+  },
+  {
+   "label": "Current status",
+   "text": "The trademark statuses were read from USPTO TSDR on Oct 10, 2026, and the domain registration date from the .com registry on the same day.[^53][^54] The pets.com redirect is a Wayback capture of Dec 28, 2025.[^55] We could not connect to the live site, and TSDR cannot be searched by name or owner, so we checked only the five applications named. We found no source for who holds the sock puppet rights after 2002."
+  },
+  {
+   "label": "Hakan entities",
+   "text": "The 2000 representation agreement names Brian P. Hakan & Associates, Inc.; the 2001 buyer of the puppet rights is Hakan Enterprises, Inc. The filings do not say whether they are the same company, so this page keeps them apart."
+  },
+  {
+   "label": "Derived in the new text",
+   "text": "The phrase almost four years (Nov 21, 1994 to Oct 7, 1998), the phrase three days (Nov 4 to Nov 7, 2000) and the comparisons of Petstore.com’s fulfillment cost with its net sales and cost of sales are our arithmetic on sourced numbers."
   }
  ]
 }

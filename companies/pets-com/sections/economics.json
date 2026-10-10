@@ -205,6 +205,11 @@
    "source": "Model, not order data: Q4 1999 COGS of 224% and M&S of 594% of sales[^2]; Q3 2000 COGS 103% and M&S 157%[^4]; S-1 target 22.5% shipping + 77.5% product cost[^1]. M&S includes distribution and fulfillment, not just advertising."
   },
   {
+   "kind": "text",
+   "title": "What the gross margin counted",
+   "body": "Pets.com’s prospectus put fulfillment expenses in marketing and sales, not in cost of sales, which it defined as the cost of products plus outbound and inbound shipping.[^1] The Q3 2000 10-Q still lists distribution expenses and distribution payroll under marketing and sales.[^4] The gross margin that improved through 2000 therefore never carried the cost of picking and packing a box. Only the marketing view of the chart above does.\n\nPets.com did not disclose that cost in dollars. Its Petstore.com deal does show one rival’s. In a pro forma filing, Pets.com moved $2,959K of Petstore.com’s 1999 cost of goods sold, which was $5,161K as reported, into marketing and sales to match its own classification.[^48] Petstore.com’s net sales that year were 2,100,462 dollars, so the fulfillment cost alone was larger than its sales.[^48] For the first half of 2000 the move was $3,974K out of $10,163K, nearly as much as that half-year’s net sales.[^48]\n\nOther delivery companies drew the line elsewhere. Kozmo booked delivery, mostly payroll for its delivery staff, as an operating expense below gross profit.[^50] PetSmart.com defined its cost of net revenues as products, promotional products and shipping.[^44] Headline gross margins from the four are not like-for-like, and we found no filing in which Pets.com changed its own classification."
+  },
+  {
    "kind": "row",
    "blocks": [
     {
