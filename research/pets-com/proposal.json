@@ -1,0 +1,1398 @@
+{
+ "kind": "company",
+ "listed": [
+  {
+   "exchange": "Nasdaq",
+   "ticker": "IPET",
+   "from": "2000-02-11",
+   "to": "2001-01-18",
+   "ledger": [
+    "pc-003",
+    "pc-008",
+    "pc-117"
+   ],
+   "note": "After delisting the shares were quoted over the counter as IPETZ until the final distribution (see stock.otc). Source: FY2001 10-K item 5."
+  }
+ ],
+ "signature": {
+  "value": "scrolly",
+  "why": "The plan pilots a scroll-chapter stage on this page. An 8+ point employee series (9 dated points, 4 to 320 to 0) spans all five story chapters. The stock chart is proposed as a second block in the numbers section rather than the signature.",
+  "alternatives": [
+   "stock",
+   "rivals"
+  ]
+ },
+ "factFile": [
+  {
+   "key": "was",
+   "label": "Was",
+   "value": "Online retailer of pet products and pet-care information",
+   "src": [
+    6
+   ],
+   "ledger": [
+    "pc-027"
+   ]
+  },
+  {
+   "key": "founded",
+   "label": "Founded",
+   "value": "Incorporated in California on Oct 7, 1998; began operating Feb 17, 1999",
+   "when": "1998-10-07",
+   "src": [
+    1
+   ],
+   "ledger": [
+    "pc-001"
+   ]
+  },
+  {
+   "key": "peak",
+   "label": "Peak",
+   "value": "Nasdaq high of $14.00 in Q1 2000; 320 employees (June 30, 2000) and nearly 570,000 customers (Nov 2000)",
+   "when": "Feb 2000 – Nov 2000",
+   "src": [
+    6,
+    5,
+    3
+   ],
+   "ledger": [
+    "pc-003",
+    "pc-113",
+    "pc-009",
+    "pc-011"
+   ],
+   "note": "Q1 2000 is the quarter from the Feb 11 IPO; the filings give no date for the $14.00 high. 320 employees is also the Nov 7, 2000 figure."
+  },
+  {
+   "key": "end",
+   "label": "Ended",
+   "value": "Wind-down announced Nov 7, 2000; store stopped taking orders Nov 9; company dissolved Jan 18, 2001",
+   "when": "2000-11-07",
+   "src": [
+    5,
+    6,
+    36
+   ],
+   "ledger": [
+    "pc-009",
+    "pc-024",
+    "pc-028",
+    "pc-160"
+   ],
+   "note": "The farewell page says the store closed \"effective November 9, 2000\" (pc-024). The FY2000 10-K dates the closure effective November 10 (pc-160). Use Nov 9 for orders, mention Nov 10 only if a sentence needs the legal date."
+  },
+  {
+   "key": "buyer",
+   "label": "Bought the company",
+   "value": "No one. The company said no party was prepared to provide capital or acquire it; its assets were sold piece by piece",
+   "src": [
+    5
+   ],
+   "ledger": [
+    "pc-010"
+   ]
+  },
+  {
+   "key": "nameOwner",
+   "label": "Owns the name today",
+   "value": "PetSmart bought the pets.com domain names in Dec 2000; as of Dec 28, 2025 pets.com redirects to petsmart.com",
+   "asOf": "2025-12-28",
+   "src": [
+    6
+   ],
+   "ledger": [
+    "pc-018",
+    "pc-037",
+    "pc-038",
+    "pc-130"
+   ],
+   "note": "The registrant is not public (RDAP shows only the registrar, MarkMonitor). The Dec 2025 redirect is the evidence for current control; the live site could not be checked from the sandbox (gap pc-144). All five 1999 Pets.com trademark applications checked at the USPTO are abandoned (pc-121 to pc-127, pc-151, pc-152)."
+  },
+  {
+   "key": "remains",
+   "label": "What remains",
+   "value": "The domain, redirected to PetSmart. The sock puppet rights went to Hakan Enterprises in 2001 for $125,000",
+   "asOf": "2026-10-10",
+   "src": [
+    6,
+    17
+   ],
+   "ledger": [
+    "pc-020",
+    "pc-021",
+    "pc-030",
+    "pc-130"
+   ],
+   "note": "Who holds the puppet rights today is unknown (gap pc-146)."
+  }
+ ],
+ "stock": {
+  "title": "IPET: the price range, quarter by quarter",
+  "ticker": "IPET",
+  "exchange": "Nasdaq",
+  "unit": "USD",
+  "series": [
+   {
+    "q": "2000Q1",
+    "hi": 14.0,
+    "lo": 3.88,
+    "ledger": "pc-003",
+    "note": "from Feb 11, 2000"
+   },
+   {
+    "q": "2000Q2",
+    "hi": 4.63,
+    "lo": 1.88,
+    "ledger": "pc-004"
+   },
+   {
+    "q": "2000Q3",
+    "hi": 2.44,
+    "lo": 0.59,
+    "ledger": "pc-005"
+   },
+   {
+    "q": "2000Q4",
+    "hi": 0.81,
+    "lo": 0.06,
+    "ledger": "pc-006"
+   }
+  ],
+  "events": [
+   {
+    "q": "2000Q1",
+    "label": "Feb 11: IPO priced at $11.00",
+    "ledger": "pc-002"
+   },
+   {
+    "q": "2000Q3",
+    "label": "Jul 12: closing price $1.8125, used to value the Petstore.com purchase",
+    "ledger": "pc-093"
+   },
+   {
+    "q": "2000Q4",
+    "label": "Nov 7: wind-down announced",
+    "ledger": "pc-009"
+   },
+   {
+    "q": "2000Q4",
+    "label": "Dec 29: closes at $0.09375",
+    "ledger": "pc-007"
+   },
+   {
+    "q": "2001Q1",
+    "label": "Jan 18: delisted; last Nasdaq close $0.125",
+    "ledger": "pc-008"
+   }
+  ],
+  "otc": {
+   "venue": "Pink Sheets quotes (IPETZ)",
+   "series": [
+    {
+     "q": "2001Q1",
+     "hi": 0.2,
+     "lo": 0.047,
+     "ledger": "pc-155"
+    },
+    {
+     "q": "2001Q2",
+     "hi": 0.15,
+     "lo": 0.078,
+     "ledger": "pc-156"
+    },
+    {
+     "q": "2001Q3",
+     "hi": 0.17,
+     "lo": 0.14,
+     "ledger": "pc-157"
+    },
+    {
+     "q": "2001Q4",
+     "hi": 0.09,
+     "lo": 0.007,
+     "ledger": "pc-158"
+    }
+   ],
+   "caveat": "The 10-K says these are inter-dealer prices that may not represent actual transactions (pc-159). Draw them as a separate, labelled series, or leave them out. Do not join them to the Nasdaq range."
+  },
+  "gaps": [
+   "No daily series (pc-142). Quarters after 2000Q4 on Nasdaq do not exist (delisted Jan 18, 2001)."
+  ],
+  "note": "High-low ranges from the 10-K. The only quarter with a documented IPO-price anchor is Q1. Nothing is interpolated.",
+  "src": [
+   6,
+   40
+  ]
+ },
+ "rivalchart": {
+  "title": "Four pet e-tailers, first year: sales, spending and what the gross margin counted",
+  "metric": "Net sales, first reporting period (inception to year-end 1999)",
+  "unit": "USD thousands",
+  "series": [
+   {
+    "name": "PETsMART.com",
+    "period": "Feb 25, 1999 – Jan 2, 2000",
+    "points": [
+     {
+      "year": 1999,
+      "value": 10446,
+      "ledger": "pc-068"
+     }
+    ],
+    "also": {
+     "grossMargin": {
+      "value": -6293,
+      "ledger": "pc-069"
+     },
+     "marketingAndSales": {
+      "value": 33476,
+      "ledger": "pc-070"
+     },
+     "netLoss": {
+      "value": 47495,
+      "ledger": "pc-071"
+     }
+    },
+    "whatGrossMarginCounted": {
+     "text": "Products, promotional products, outbound and inbound shipping. Fulfillment and distribution support payroll sit in sales and marketing.",
+     "ledger": [
+      "pc-072",
+      "pc-073"
+     ]
+    },
+    "fulfillment": {
+     "text": "Substantially all sales fulfilled by PETsMART, Inc. under a May 1999 alliance.",
+     "ledger": [
+      "pc-075"
+     ]
+    },
+    "fate": {
+     "text": "S-1 withdrawn Nov 30, 2000; PetSmart took control (more than 81%) on Dec 20, 2000.",
+     "ledger": [
+      "pc-077",
+      "pc-137",
+      "pc-139"
+     ]
+    }
+   },
+   {
+    "name": "Pets.com",
+    "period": "Feb 17 – Dec 31, 1999",
+    "points": [
+     {
+      "year": 1999,
+      "value": 5787,
+      "ledger": "pc-061"
+     }
+    ],
+    "also": {
+     "grossMargin": {
+      "value": -7625,
+      "ledger": "pc-064"
+     },
+     "marketingAndSales": {
+      "value": 42491,
+      "ledger": "pc-062"
+     },
+     "netLoss": {
+      "value": 61778,
+      "ledger": "pc-063"
+     }
+    },
+    "whatGrossMarginCounted": {
+     "text": "Products plus outbound and inbound shipping. Fulfillment is in marketing and sales.",
+     "ledger": [
+      "pc-057",
+      "pc-058"
+     ]
+    }
+   },
+   {
+    "name": "Petopia",
+    "period": "Mar 9, 1999 – Jan 1, 2000",
+    "points": [
+     {
+      "year": 1999,
+      "value": 3452,
+      "ledger": "pc-079"
+     }
+    ],
+    "also": {
+     "grossMargin": {
+      "value": -2187,
+      "ledger": "pc-079"
+     },
+     "marketingAndSales": {
+      "value": 24215,
+      "ledger": "pc-080"
+     },
+     "netLoss": {
+      "value": 40865,
+      "ledger": "pc-079"
+     }
+    },
+    "whatGrossMarginCounted": {
+     "text": "\"Product and shipping costs\". The S-1 extract does not say where fulfillment was booked.",
+     "ledger": [
+      "pc-081"
+     ]
+    },
+    "fulfillment": {
+     "text": "PETCO was its exclusive online partner from July 1999.",
+     "ledger": [
+      "pc-083"
+     ]
+    },
+    "fate": {
+     "text": "S-1 withdrawal request filed Feb 2, 2001: assets sold, no longer doing business.",
+     "ledger": [
+      "pc-084"
+     ]
+    }
+   },
+   {
+    "name": "Petstore.com",
+    "period": "Jan 28 – Dec 31, 1999",
+    "points": [
+     {
+      "year": 1999,
+      "value": 2100.462,
+      "ledger": "pc-105"
+     }
+    ],
+    "also": {
+     "grossMargin": {
+      "value": -3060.791,
+      "ledger": "pc-106"
+     },
+     "marketingAndSales": {
+      "value": 22630.515,
+      "ledger": "pc-086"
+     },
+     "netLoss": {
+      "value": 45003.256,
+      "ledger": "pc-087"
+     }
+    },
+    "whatGrossMarginCounted": {
+     "text": "Fulfillment costs were inside cost of sales; Pets.com moved $2,959K of it into marketing and sales to conform in its pro forma.",
+     "ledger": [
+      "pc-089",
+      "pc-090"
+     ]
+    },
+    "owner": {
+     "text": "Majority-owned by Discovery Communications.",
+     "ledger": [
+      "pc-088"
+     ]
+    },
+    "fate": {
+     "text": "Assets bought by Pets.com for 5,243,752 shares (Jul 13, 2000).",
+     "ledger": [
+      "pc-094",
+      "pc-162"
+     ]
+    }
+   }
+  ],
+  "derived": [
+   {
+    "name": "gross margin %",
+    "formula": "gross margin / net sales",
+    "values": {
+     "PETsMART.com": -60.2,
+     "Pets.com": -131.8,
+     "Petopia": -63.4,
+     "Petstore.com (as reported)": -145.7,
+     "Petstore.com (fulfillment moved to marketing and sales, rounded inputs)": -4.8
+    },
+    "inputs": [
+     "pc-068",
+     "pc-069",
+     "pc-061",
+     "pc-064",
+     "pc-079",
+     "pc-105",
+     "pc-106",
+     "pc-090"
+    ]
+   },
+   {
+    "name": "marketing and sales per $1 of net sales",
+    "formula": "marketing and sales / net sales",
+    "values": {
+     "PETsMART.com": 3.2,
+     "Pets.com": 7.34,
+     "Petopia": 7.01,
+     "Petstore.com": 10.77
+    },
+    "inputs": [
+     "pc-068",
+     "pc-070",
+     "pc-061",
+     "pc-062",
+     "pc-079",
+     "pc-080",
+     "pc-105",
+     "pc-086"
+    ]
+   },
+   {
+    "name": "PETsMART.com sales relative to Pets.com",
+    "formula": "10,446 / 5,787",
+    "values": {
+     "ratio": 1.81
+    },
+    "inputs": [
+     "pc-068",
+     "pc-061"
+    ]
+   }
+  ],
+  "note": "Periods differ by a few days and by inception date, so these are first-year figures, not calendar 1999. Definitions of cost of sales are close for the three companies whose S-1 text is quoted, but Petstore.com's as-reported column included fulfillment. Chewy-era margins are not comparable to any of these.",
+  "src": [
+   1,
+   44,
+   46,
+   48
+  ]
+ },
+ "storemap": null,
+ "storemapReason": "Not a store chain. No state counts exist; it ran two distribution centers (Union City, CA and Greenwood, IN, already on the page).",
+ "stage": {
+  "metric": "Employees",
+  "unit": "people",
+  "variant": "scrolly",
+  "points": [
+   {
+    "year": "1999-03-31",
+    "value": 4,
+    "ledger": "pc-112",
+    "chapter": 0
+   },
+   {
+    "year": "1999-09-30",
+    "value": 123,
+    "ledger": "pc-112",
+    "chapter": 1
+   },
+   {
+    "year": "1999-11-30",
+    "value": 260,
+    "ledger": "pc-114",
+    "chapter": 1,
+    "new": true
+   },
+   {
+    "year": "1999-12-31",
+    "value": 270,
+    "ledger": "pc-112",
+    "chapter": 1
+   },
+   {
+    "year": "2000-03-31",
+    "value": 279,
+    "ledger": "pc-113",
+    "chapter": 2,
+    "new": true
+   },
+   {
+    "year": "2000-06-30",
+    "value": 320,
+    "ledger": "pc-113",
+    "chapter": 3,
+    "new": true
+   },
+   {
+    "year": "2000-11-07",
+    "value": 320,
+    "ledger": "pc-009",
+    "chapter": 3,
+    "note": "before the layoff of about 255"
+   },
+   {
+    "year": "2000-12-31",
+    "value": 26,
+    "ledger": "pc-012",
+    "chapter": 4
+   },
+   {
+    "year": "2001-01-16",
+    "value": 0,
+    "ledger": "pc-012",
+    "chapter": 4,
+    "note": "all remaining employees resigned after the stockholder vote"
+   }
+  ],
+  "note": "Chapter indexes follow story.json (0 Birth, 1 The sock, 2 The IPO, 3 Collapse, 4 The estate). The existing headcount bar chart has six of these nine points; Nov 30, 1999, Mar 31, 2000 and Jun 30, 2000 are new. No point is estimated: the headcount fell from 320 to 26 with no figure for the days between.",
+  "alternatives": "Cash at quarter end has five dated points (Sep 30, 1999 to Sep 30, 2000), fewer than the plan's 8-point rule."
+ },
+ "timelineAdd": [
+  {
+   "year": 1999,
+   "date": "1999-12-09",
+   "cat": "corporate",
+   "title": "S-1 filed with the SEC",
+   "text": "The registration statement for the IPO is filed. (The page now says only \"Dec 1999\".)",
+   "ledger": [
+    "pc-116"
+   ]
+  },
+  {
+   "year": 2000,
+   "date": "2000-02-16",
+   "cat": "money",
+   "title": "IPO closes",
+   "text": "Merrill Lynch, Bear Stearns, Thomas Weisel Partners and Warburg Dillon Read manage the offering.",
+   "ledger": [
+    "pc-117",
+    "pc-118"
+   ]
+  },
+  {
+   "year": 2000,
+   "date": "2000-03-20",
+   "cat": "marketing",
+   "title": "Sock puppet agent signed",
+   "text": "Pets.com signs an exclusive representation agreement with Brian P. Hakan & Associates. Six license agreements for the Pets.com name and logos follow between May 15 and Sep 1.",
+   "ledger": [
+    "pc-033",
+    "pc-034"
+   ]
+  },
+  {
+   "year": 2000,
+   "date": "2000-06-12",
+   "cat": "corporate",
+   "title": "Petstore.com deal signed",
+   "text": "The asset purchase agreement is dated June 12. It closes Jul 13, with 5,243,752 shares as the price.",
+   "ledger": [
+    "pc-161",
+    "pc-162",
+    "pc-094"
+   ]
+  },
+  {
+   "year": 2000,
+   "date": "2000-11-04",
+   "cat": "death",
+   "title": "Board adopts the liquidation plan",
+   "text": "The board votes unanimously, three days before the public announcement.",
+   "ledger": [
+    "pc-028"
+   ]
+  },
+  {
+   "year": 2000,
+   "date": "2000-12-20",
+   "cat": "death",
+   "title": "Asset sale signed; PetSmart takes control of its web unit",
+   "text": "The domain-and-trademark agreement with PETsMART.com is dated Dec 20. The same day PetSmart takes control of PETsMART.com.",
+   "ledger": [
+    "pc-038",
+    "pc-137",
+    "pc-139"
+   ]
+  },
+  {
+   "year": 2001,
+   "date": "2001-01-12",
+   "cat": "death",
+   "title": "Liquidation manager hired",
+   "text": "Diablo Management Group is engaged; Richard G. Couch becomes sole director four days before the stockholder vote.",
+   "ledger": [
+    "pc-029",
+    "pc-013"
+   ]
+  },
+  {
+   "year": 2001,
+   "date": "2001-02-13",
+   "cat": "death",
+   "title": "Amazon files its ownership",
+   "text": "A Schedule 13G puts Amazon at 24.5% as of Dec 31, 2000.",
+   "ledger": [
+    "pc-107",
+    "pc-136"
+   ]
+  },
+  {
+   "year": 2001,
+   "date": "2001-03-20",
+   "cat": "death",
+   "title": "Auditor declines to continue",
+   "text": "Ernst & Young declines to stand for reelection; Stempek Associates is engaged. The audited FY2000 statements arrive 16 months later.",
+   "ledger": [
+    "pc-051",
+    "pc-163"
+   ]
+  },
+  {
+   "year": 2001,
+   "date": "2001-08-31",
+   "cat": "death",
+   "title": "Estate sues its warehouse landlord",
+   "text": "Complaint filed in Alameda County Superior Court over the Union City sublease.",
+   "ledger": [
+    "pc-048"
+   ]
+  },
+  {
+   "year": 2002,
+   "date": "2002-06-12",
+   "cat": "marketing",
+   "title": "Estate sues a puppet licensee",
+   "text": "Complaint against Fun-4-All Corporation over past-due royalties; the licensee cross-complains.",
+   "ledger": [
+    "pc-032"
+   ]
+  },
+  {
+   "year": 2002,
+   "date": "2002-07-10",
+   "cat": "death",
+   "title": "Audited FY2000 statements filed",
+   "text": "A 10-K/A carries the audited Jan 1 – Nov 4, 2000 operating results.",
+   "ledger": [
+    "pc-163",
+    "pc-052"
+   ]
+  },
+  {
+   "year": 2002,
+   "date": "2002-08-06",
+   "cat": "death",
+   "title": "Warehouse lease ended by settlement",
+   "text": "The estate pays about $490,000 plus $60,000 in broker commissions to end a sublease that ran to August 2004.",
+   "ledger": [
+    "pc-049",
+    "pc-047"
+   ]
+  }
+ ],
+ "timelineAdd_optional": [
+  {
+   "year": 2001,
+   "date": "2001-11-06",
+   "title": "Transfer agent cancels escrow shares",
+   "text": "524,375 shares held in escrow for PLDC (Petstore.com) are cancelled by mistake and reinstated Nov 12.",
+   "ledger": [
+    "pc-120"
+   ],
+   "why optional": "Footnote-level detail; skip unless a section needs texture."
+  }
+ ],
+ "now": [
+  {
+   "type": "site",
+   "title": "pets.com",
+   "text": "The .com registry shows the domain was first registered in November 1994, four years before the company was incorporated. PetSmart.com bought the domain names in December 2000, and a Wayback capture of Dec 28, 2025 shows pets.com redirecting to petsmart.com. The sale list also included defensive names such as ihatepets.com and petscomsucks.com.",
+   "asOf": "2025-12-28",
+   "recheck": "90d",
+   "src": [
+    6,
+    54,
+    55
+   ],
+   "ledger": [
+    "pc-128",
+    "pc-018",
+    "pc-037",
+    "pc-130",
+    "pc-035",
+    "pc-036"
+   ],
+   "gap": "pc-144"
+  },
+  {
+   "type": "trademark",
+   "title": "The Pets.com trademarks",
+   "text": "All five 1999 applications checked at the USPTO (PETS.COM, BECAUSE PETS CAN'T DRIVE, MORE PRODUCTS THAN A SUPERSTORE. DELIVERY TO YOUR DOOR, KEEP IT COMIN' and EVERYTHING THEY NEED) are abandoned, from July 2000 to January 2002. The owner of record on PETS.COM is still Pets.com, Inc.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    53
+   ],
+   "ledger": [
+    "pc-121",
+    "pc-122",
+    "pc-123",
+    "pc-125",
+    "pc-127",
+    "pc-151",
+    "pc-152"
+   ],
+   "gap": "pc-145",
+   "note": "Do not write \"no one owns the trademark\": registrations filed later by others were not searchable (gap pc-145)."
+  },
+  {
+   "type": "brand",
+   "title": "The sock puppet",
+   "text": "Pets.com signed an exclusive agent in March 2000 and six licensees by September. In 2001 the estate collected $125,000 from Hakan Enterprises for all rights to the puppet. At the end of 2001 licensee Fun4All still owed $153,811 in royalties; the estate sued in June 2002. 1-800-Bar None launched the puppet as its spokesperson in May 2002.",
+   "asOf": "2026-10-10",
+   "recheck": "365d",
+   "src": [
+    17,
+    18,
+    40,
+    41
+   ],
+   "ledger": [
+    "pc-033",
+    "pc-034",
+    "pc-030",
+    "pc-021",
+    "pc-031",
+    "pc-032",
+    "pc-022"
+   ],
+   "gap": "pc-146"
+  },
+  {
+   "type": "company",
+   "title": "IPET Holdings, the estate",
+   "text": "Renamed IPET Holdings and dissolved Jan 18, 2001, with Diablo Management Group running the liquidation under Richard G. Couch. Net assets in liquidation fell from $58.7M at the start of liquidation to $9.6M at Dec 31, 2000 and $4.2M a year later. Stockholders received $0.09, $0.075 and $0.00747 a share, and the company terminated its registration with a Form 15 dated Jun 3, 2005.",
+   "asOf": "2005-06-03",
+   "recheck": "365d",
+   "src": [
+    6,
+    8,
+    9,
+    10,
+    23,
+    40
+   ],
+   "ledger": [
+    "pc-028",
+    "pc-013",
+    "pc-039",
+    "pc-014",
+    "pc-015",
+    "pc-016",
+    "pc-023"
+   ]
+  },
+  {
+   "type": "people",
+   "title": "Julie Wainwright",
+   "text": "The Pets.com CEO later founded The RealReal. She resigned as its CEO, chairperson and director on Jun 6, 2022, effective Jun 7, after 11 years, and stayed on as an adviser through the end of 2022.",
+   "asOf": "2022-06-07",
+   "recheck": "365d",
+   "src": [
+    37,
+    56
+   ],
+   "ledger": [
+    "pc-026",
+    "pc-131",
+    "pc-132"
+   ],
+   "gap": "pc-149"
+  },
+  {
+   "type": "company",
+   "title": "Amazon's stake",
+   "text": "Amazon held 8,973,029 shares: 40.7% before the IPO and 30.4% after it. Its Schedule 13G puts the same share count at 24.5% on Dec 31, 2000, after more shares were issued. An Amazon spokeswoman put the stake at \"about 30%\" at Oct 31 and its value at \"down to zero\".",
+   "asOf": "2001-02-13",
+   "recheck": "365d",
+   "src": [
+    1,
+    11,
+    51
+   ],
+   "ledger": [
+    "pc-110",
+    "pc-111",
+    "pc-107",
+    "pc-108",
+    "pc-109",
+    "pc-025"
+   ],
+   "correction": "See corrections[0]: the \"about 30%\" at Oct 31 does not reconcile with the 13G share count."
+  },
+  {
+   "type": "revival",
+   "title": "The idea, at Chewy",
+   "text": "Chewy reported fiscal 2025 net sales of $12.60 billion, a 29.8% gross margin and 21.3 million active customers. Autoship customers made up 83.3% of net sales, against 79.2% a year earlier.",
+   "asOf": "2026-03-25",
+   "recheck": "365d",
+   "src": [
+    19,
+    57
+   ],
+   "ledger": [
+    "pc-133",
+    "pc-134",
+    "pc-135"
+   ],
+   "replaces": "The existing Chewy card (FY2024 $11.86B, \"nearly 80%\")."
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Gross margin",
+   "def": "Sales minus the cost of goods sold, usually shown as a share of sales. What counts as a cost of goods sold varies by company."
+  },
+  {
+   "term": "Cost of goods sold",
+   "def": "The costs a company books directly against the products it sells. Whether shipping, warehouse labor and delivery belong here is a choice each company makes and discloses."
+  },
+  {
+   "term": "Fulfillment",
+   "def": "Storing, picking, packing and shipping orders. For an online retailer it is usually its own cost line or part of another one."
+  },
+  {
+   "term": "Liquidation basis of accounting",
+   "def": "Statements prepared for a company that is winding down. Assets are shown at what they are expected to fetch and there is no profit and loss, only changes in net assets."
+  },
+  {
+   "term": "Net assets in liquidation",
+   "def": "What is expected to be left for owners after the estate sells assets and pays its debts."
+  },
+  {
+   "term": "Certificate of dissolution",
+   "def": "The filing that legally ends a Delaware corporation, which can then only wind up its affairs."
+  },
+  {
+   "term": "Schedule 13G",
+   "def": "A short SEC filing in which a large shareholder reports how much of a company it owns."
+  },
+  {
+   "term": "Form S-1",
+   "def": "The registration statement a company files with the SEC before selling shares to the public."
+  },
+  {
+   "term": "Form 15",
+   "def": "The filing that ends a company's duty to file periodic reports with the SEC."
+  },
+  {
+   "term": "Pro forma",
+   "def": "Financial statements shown as if a deal had already happened, with adjustments to make two companies' books comparable."
+  },
+  {
+   "term": "Autoship",
+   "def": "Chewy's name for scheduled repeat deliveries. Pets.com, PETsMART.com and Petopia each described an equivalent program in their filings."
+  }
+ ],
+ "edges": [
+  {
+   "from": "Pets.com",
+   "to": "Petstore.com",
+   "type": "acquired",
+   "years": "2000",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-094"
+    },
+    {
+     "ledger": "pc-162"
+    }
+   ]
+  },
+  {
+   "from": "Discovery Communications",
+   "to": "Petstore.com",
+   "type": "owned",
+   "years": "1999–2000",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-088"
+    }
+   ]
+  },
+  {
+   "from": "Discovery Communications",
+   "to": "Pets.com",
+   "type": "investor",
+   "years": "2000",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-095"
+    }
+   ]
+  },
+  {
+   "from": "PETsMART.com",
+   "to": "Pets.com (name and domains)",
+   "type": "acquired",
+   "years": "2000",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-018"
+    },
+    {
+     "ledger": "pc-037"
+    },
+    {
+     "ledger": "pc-038"
+    }
+   ]
+  },
+  {
+   "from": "PetSmart, Inc.",
+   "to": "PETsMART.com",
+   "type": "owned",
+   "years": "2000–",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-137"
+    },
+    {
+     "ledger": "pc-138"
+    }
+   ]
+  },
+  {
+   "from": "Amazon.com",
+   "to": "Pets.com",
+   "type": "investor",
+   "years": "1999–2001",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-110"
+    },
+    {
+     "ledger": "pc-107"
+    }
+   ]
+  },
+  {
+   "from": "Hakan Enterprises",
+   "to": "Pets.com sock puppet",
+   "type": "acquired",
+   "years": "2001",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-021"
+    },
+    {
+     "ledger": "pc-030"
+    }
+   ]
+  },
+  {
+   "from": "Brian P. Hakan & Associates",
+   "to": "Pets.com",
+   "type": "licensed",
+   "years": "2000",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-033"
+    }
+   ],
+   "note": "The agreement names Brian P. Hakan & Associates, Inc.; the 2001 buyer is Hakan Enterprises, Inc. The sources do not say they are the same entity."
+  },
+  {
+   "from": "Fun-4-All Corporation",
+   "to": "Pets.com",
+   "type": "licensed",
+   "years": "2000–2002",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-034"
+    },
+    {
+     "ledger": "pc-032"
+    }
+   ]
+  },
+  {
+   "from": "1-800-Bar None",
+   "to": "Pets.com sock puppet",
+   "type": "licensed",
+   "years": "2002",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-022"
+    }
+   ]
+  },
+  {
+   "from": "Julie Wainwright",
+   "to": "Pets.com",
+   "type": "executive",
+   "years": "1999–2001",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-026"
+    }
+   ]
+  },
+  {
+   "from": "Julie Wainwright",
+   "to": "The RealReal",
+   "type": "executive",
+   "years": "2011–2022",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-131"
+    },
+    {
+     "ledger": "pc-132"
+    }
+   ]
+  },
+  {
+   "from": "Richard G. Couch (Diablo Management Group)",
+   "to": "IPET Holdings",
+   "type": "executive",
+   "years": "2001–2005",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-013"
+    },
+    {
+     "ledger": "pc-029"
+    },
+    {
+     "ledger": "pc-023"
+    }
+   ]
+  },
+  {
+   "from": "PETCO",
+   "to": "Petopia",
+   "type": "investor",
+   "years": "1999–2000",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-083"
+    }
+   ],
+   "note": "The S-1 extract says \"strategic alliance ... exclusive online partner\"; an equity stake is not shown in the passage logged."
+  },
+  {
+   "from": "Pets.com",
+   "to": "PETsMART.com",
+   "type": "rival",
+   "years": "1999–2000",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-068"
+    },
+    {
+     "ledger": "pc-061"
+    }
+   ]
+  },
+  {
+   "from": "Pets.com",
+   "to": "Petopia",
+   "type": "rival",
+   "years": "1999–2000",
+   "status": "proposed",
+   "evidence": [
+    {
+     "ledger": "pc-079"
+    },
+    {
+     "ledger": "pc-061"
+    }
+   ]
+  }
+ ],
+ "edgesNote": "All edges are proposals. Hummer Winblad, Disney (Catalyst) and Merrill Lynch edges exist in the page text but were not re-checked here; they need legacy ledger entries before they render.",
+ "insights": [
+  {
+   "id": "I1",
+   "summary": "Pets.com's gross margin never included fulfillment. Its filings book fulfillment and distribution in marketing and sales, so the improvement from −20% (Q2 2000) to −3% (Q3 2000) measured products plus shipping only, and Q3 also included a one-time shipping charge adjustment of about $631,000 (6.7% of Q3 net sales, derived; the filing does not say which way it moved the margin). A rival's books show how much that left out: Pets.com's own pro forma moved $2,959K of Petstore.com's 1999 fulfillment cost (57% of its cost of sales, 141% of its net sales) and $3,974K in H1 2000 (39% of cost of sales, 91% of net sales) out of cost of sales, which turned Petstore.com's 1999 gross margin from −146% to about −5%. Webvan and Kozmo draw the line differently again: Webvan kept $64.4M of 2000 warehouse and delivery costs in G&A (36% of its $178.5M sales; its 26.5% gross margin becomes about −10% if they are added to cost of goods sold, derived), and Kozmo's 43% 1999 gross profit sat above $3.3M of delivery payroll booked as an operating expense. So the three headline gross margins are not comparable, and Pets.com's true cost of getting a box to the door cannot be read from any of its filings (the filings give no fulfillment dollar amount; gap pc-143). No filing records a change in classification between 1999 and 2000 (gap pc-164), so the −132% to −3% move is not an accounting artifact, but it is not the full cost of delivery either.",
+   "ledger": [
+    "pc-057",
+    "pc-058",
+    "pc-059",
+    "pc-065",
+    "pc-066",
+    "pc-089",
+    "pc-090",
+    "pc-091",
+    "pc-092",
+    "pc-105",
+    "pc-106",
+    "pc-097",
+    "pc-098",
+    "pc-099",
+    "pc-100",
+    "pc-101",
+    "pc-102",
+    "pc-103",
+    "pc-104",
+    "pc-060",
+    "pc-062",
+    "pc-052"
+   ],
+   "derived": [
+    {
+     "what": "Petstore.com fulfillment as share of 1999 net sales",
+     "formula": "2,959 / 2,100.462",
+     "value": "140.9%"
+    },
+    {
+     "what": "... as share of 1999 cost of sales",
+     "formula": "2,959 / 5,161.253",
+     "value": "57.3%"
+    },
+    {
+     "what": "Petstore.com 1999 gross margin after the move",
+     "formula": "(−3,060.791 + 2,959) / 2,100.462",
+     "value": "−4.8% (inputs rounded to $K)"
+    },
+    {
+     "what": "Petstore.com H1 2000 fulfillment / net sales; / cost of sales",
+     "formula": "3,974 / 4,385; 3,974 / 10,163",
+     "value": "90.6%; 39.1%"
+    },
+    {
+     "what": "Petstore.com H1 2000 gross margin as reported; after the move",
+     "formula": "(4,385 − 10,163) / 4,385; (−5,778 + 3,974) / 4,385",
+     "value": "−131.8%; −41.1%"
+    },
+    {
+     "what": "Webvan 2000 warehouse and delivery costs in G&A / net sales",
+     "formula": "64.4 / 178.5",
+     "value": "36.1%"
+    },
+    {
+     "what": "Webvan 2000 gross margin with those costs in cost of goods sold",
+     "formula": "(0.265 × 178.5 − 64.4) / 178.5",
+     "value": "about −9.6% (26.5% is a rounded percentage)"
+    },
+    {
+     "what": "Kozmo 1999 gross profit / revenue; delivery expense / revenue",
+     "formula": "1,512 / 3,509; 3,265 / 3,509",
+     "value": "43.1%; 93.0%"
+    },
+    {
+     "what": "Pets.com 1999 non-advertising part of marketing and sales",
+     "formula": "42,491 − 26,934",
+     "value": "$15,557K (36.6%)"
+    },
+    {
+     "what": "Q3 2000 gross margin; one-time charge as share of Q3 sales",
+     "formula": "(9,365 − 9,642) / 9,365; 631 / 9,365",
+     "value": "−3.0%; 6.7%"
+    }
+   ],
+   "where": "economics section: replace or sit under the \"What $100 of sales cost\" chart as a \"what the margin counted\" strip; one sentence in the fact box. Answers the Codex question for this slug.",
+   "confidence": "High for the classification facts (verbatim filing text). Medium for the cross-company ratios: they depend on rounded filing inputs and on each company's own definitions."
+  },
+  {
+   "id": "I2",
+   "summary": "In 1999 three of the four pet e-tailers (Petstore.com's offering was not checked) ran scheduled repeat delivery, so a subscription program did not separate them from each other: Pets.com \"Keep It Comin'\", PETsMART.com \"You Sit, We Fetch\" and Petopia \"Bottomless Bowl\", which Petopia said produced a significant portion of its revenue. What separated them in their S-1s was how much they sold per dollar of marketing and how the product reached the door: PETsMART.com sold $10.4M against Pets.com's $5.8M (1.8×) with $33.5M against $42.5M of sales and marketing, and a gross margin of −60% against −132%, with substantially all orders fulfilled by its partner PETsMART, Inc. Even so PETsMART.com lost $47.5M in the year. The page's Chewy comparison (\"built on subscriptions\") should say that the subscription idea already appears in the three filings checked.",
+   "ledger": [
+    "pc-115",
+    "pc-076",
+    "pc-082",
+    "pc-126",
+    "pc-127",
+    "pc-061",
+    "pc-062",
+    "pc-064",
+    "pc-068",
+    "pc-069",
+    "pc-070",
+    "pc-071",
+    "pc-075",
+    "pc-079",
+    "pc-080",
+    "pc-137",
+    "pc-139",
+    "pc-140",
+    "pc-141",
+    "pc-133",
+    "pc-135"
+   ],
+   "derived": [
+    {
+     "what": "PETsMART.com net sales relative to Pets.com",
+     "formula": "10,446 / 5,787",
+     "value": "1.81"
+    },
+    {
+     "what": "Sales and marketing per $1 of net sales: PETsMART.com; Pets.com; Petopia; Petstore.com",
+     "formula": "expense / net sales",
+     "value": "3.20; 7.34; 7.01; 10.77"
+    }
+   ],
+   "where": "rivals section: replace the \"money raised\" comparison (which the page already says is not comparable) with this first-year operating table; add one sentence to the Pets.com vs Chewy block. Also feeds the dot-com-delivery pattern hub.",
+   "confidence": "High for the figures (S-1s and 424B4). The reading \"subscriptions did not differentiate\" is analysis, not a filing statement; keep it as one hedged sentence."
+  },
+  {
+   "id": "I3 (optional)",
+   "summary": "What the estate paid out against what it held. Net assets in liquidation were $58.7M when liquidation began on Nov 5, 2000. By Dec 31, 2000 they were $9.6M after $45.8M of net write-offs and disposals (fixed assets $18.9M, 5,243,752 shares recovered in settling an advertising agreement $8.1M, prepaid advertising $7.0M, inventory $4.8M, equity stakes $5.7M, other prepaids $2.5M) and about $3.3M of net cash use. Stockholders then received $0.172 a share in three payments, about $6.0M on 34.7M shares (derived), or 7.3% of the $82.5M raised in the IPO. During liquidation the estate also paid $4.2M of retention, severance and other compensation (Nov–Dec 2000), $1.0M on leases it was no longer using (2001) and about $550K to end the Union City sublease (2002). The 10-K's use-of-proceeds section separately reports $1.4M of retention bonuses and $1.4M of severance to ten officers.",
+   "ledger": [
+    "pc-039",
+    "pc-040",
+    "pc-041",
+    "pc-042",
+    "pc-043",
+    "pc-044",
+    "pc-014",
+    "pc-015",
+    "pc-016",
+    "pc-045",
+    "pc-046",
+    "pc-049",
+    "pc-153",
+    "pc-096",
+    "pc-165"
+   ],
+   "derived": [
+    {
+     "what": "Total distributions to stockholders",
+     "formula": "3,128,127 + 2,605,581 + 0.00747 × 34,741,080",
+     "value": "about $5.99M (final payment computed, not reported)"
+    },
+    {
+     "what": "Share of IPO gross proceeds",
+     "formula": "5.99M / 82.5M",
+     "value": "7.3%"
+    }
+   ],
+   "where": "story chapter 5 (\"Sold for parts\") or the afterlife company card, as a short list. Tone: neutral. State the amounts and who received them; do not characterize.",
+   "confidence": "High for line items (audited liquidation statements). The total is derived."
+  }
+ ],
+ "numbersAdd": [
+  {
+   "title": "Audited operating life, Feb 17, 1999 to Nov 4, 2000",
+   "rows": [
+    {
+     "label": "Net sales",
+     "value": "$34.4M",
+     "formula": "5,787 + 28,648 (thousands)",
+     "ledger": [
+      "pc-061",
+      "pc-052"
+     ]
+    },
+    {
+     "label": "Marketing and sales",
+     "value": "$109.0M",
+     "formula": "42,491 + 66,479",
+     "ledger": [
+      "pc-062",
+      "pc-053"
+     ]
+    },
+    {
+     "label": "Net loss",
+     "value": "$156.3M",
+     "formula": "61,778 + 94,504; the 10-K states an accumulated deficit of $156.3 million",
+     "ledger": [
+      "pc-063",
+      "pc-054",
+      "pc-056"
+     ]
+    },
+    {
+     "label": "Gross margin",
+     "value": "−45.6%",
+     "formula": "(−7,625 − 8,093) / (5,787 + 28,648)",
+     "ledger": [
+      "pc-064",
+      "pc-052"
+     ]
+    }
+   ],
+   "note": "The page currently stops at Sep 30, 2000 ($31.6M of sales, $103.1M of marketing and sales, $146.6M cumulative loss). These are audited figures through the day before liquidation accounting began (10-K/A filed Jul 10, 2002). A Oct 1 – Nov 4 stub is derivable only by subtracting unaudited 10-Q figures and was not logged (gap pc-150).",
+   "src": [
+    43,
+    1
+   ]
+  }
+ ],
+ "corrections": [
+  {
+   "id": "C1",
+   "where": "afterlife \"Amazon's stake\" (\"About 30% as of Oct 31, 2000\") and the cap-table prose",
+   "issue": "The cited LA Times article quotes an Amazon spokeswoman saying \"about 30%\" at Oct 31, 2000 (pc-025). Amazon's own Schedule 13G reports 8,973,029 shares, 24.5% of 36,660,961 shares outstanding at Nov 20, 2000 (pc-107, pc-108, pc-109). Amazon held the same 8,973,029 shares at the IPO (30.4%, pc-110). More shares were issued in July 2000 (Petstore.com, pc-094, pc-095), so about 30% at Oct 31 does not reconcile with the share count.",
+   "proposal": "Keep the quote with attribution (\"an Amazon spokeswoman said about 30%\") and add the 13G figure: 24.5% at Dec 31, 2000.",
+   "ledger": [
+    "pc-025",
+    "pc-107",
+    "pc-108",
+    "pc-109",
+    "pc-110",
+    "pc-094",
+    "pc-095"
+   ]
+  },
+  {
+   "id": "C2",
+   "where": "afterlife \"The idea\" and key finding 5 ($11.86B, nearly 80%)",
+   "issue": "Chewy's fiscal 2025 results (Mar 25, 2026) supersede FY2024: net sales $12.60B, Autoship 83.3% (FY2024 79.2% confirmed).",
+   "proposal": "Update with asOf 2026-03-25; keep FY2024 as the comparison year.",
+   "ledger": [
+    "pc-133",
+    "pc-135"
+   ]
+  },
+  {
+   "id": "C3",
+   "where": "timeline \"Jun 22, 2004: Final payout\"",
+   "issue": "The 8-K only gives an \"anticipated distribution date of June 22, 2004\" (pc-016). We found no filing confirming the payment date.",
+   "proposal": "Say \"scheduled\" or cite the 8-K date of Jun 10, 2004.",
+   "ledger": [
+    "pc-016"
+   ]
+  },
+  {
+   "id": "C4",
+   "where": "timeline \"Nov 9: The store closes\"",
+   "issue": "Not an error. The farewell page says closed effective Nov 9 with orders before 11am PT shipping (pc-024). The FY2000 10-K says closure and end of sales effective Nov 10 (pc-160).",
+   "proposal": "No change; optionally add \"(the 10-K dates the closure Nov 10)\".",
+   "ledger": [
+    "pc-024",
+    "pc-160"
+   ]
+  },
+  {
+   "id": "C5",
+   "where": "timeline title \"Seven years, 34 moments\"",
+   "issue": "Adding the proposed events changes the count and the period (the last event stays Jun 2005).",
+   "proposal": "Recount after the writing agent picks events.",
+   "ledger": []
+  }
+ ],
+ "legacyRechecks": {
+  "fn_opened_and_quoted": [
+   1,
+   5,
+   6,
+   8,
+   9,
+   10,
+   11,
+   17,
+   18,
+   23,
+   24,
+   36,
+   37
+  ],
+  "ledger_ids": [
+   "pc-001 to pc-026",
+   "pc-110",
+   "pc-111",
+   "pc-112"
+  ],
+  "note": "Every legacy value used in the fact file, stock block, stage, now cards and insights has a ledger entry with legacy true and its fn. All existing sources opened. Not re-checked because not used: the cap table other than Amazon, Q1/Q2 gross margins, customer counts before Nov 2000, rival funding figures, the Super Bowl ad cost."
+ }
+}
