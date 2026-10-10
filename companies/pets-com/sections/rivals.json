@@ -183,9 +183,122 @@
    "source": "Pets.com private rounds and IPO[^1]. Petopia’s two 1999 rounds[^28]. Petstore.com’s round as reported by Variety[^31]. PetSmart.com’s second round (“more than $50M”) plus each parent’s $10M cash contribution[^32][^33]. These are reported minimums."
   },
   {
+   "type": "rivalchart",
+   "title": "Pet e-tailers: net sales by reporting period",
+   "metric": "Net sales per reporting period",
+   "unit": "USD thousands",
+   "series": [
+    {
+     "name": "PetSmart.com",
+     "points": [
+      {
+       "year": 1999,
+       "value": 10446,
+       "ledger": "pc-068"
+      },
+      {
+       "year": 2000,
+       "value": null
+      }
+     ]
+    },
+    {
+     "name": "Pets.com",
+     "points": [
+      {
+       "year": 1999,
+       "value": 5787,
+       "ledger": "pc-061"
+      },
+      {
+       "year": 2000,
+       "value": 28648,
+       "ledger": "pc-052"
+      }
+     ]
+    },
+    {
+     "name": "Petopia",
+     "points": [
+      {
+       "year": 1999,
+       "value": 3452,
+       "ledger": "pc-079"
+      },
+      {
+       "year": 2000,
+       "value": null
+      }
+     ]
+    }
+   ],
+   "note": "The 1999 points are each company’s first reporting period, not calendar 1999: they begin between Feb 17 and Mar 9, 1999 and end between Dec 31, 1999 and Jan 2, 2000. Pets.com’s 2000 point is Jan 1 to Nov 4, 2000, the last day before liquidation accounting. The filings we read give no 2000 figure for the others, so their lines stop. Petstore.com reports in whole dollars and is in the table below.",
+   "src": [
+    44,
+    1,
+    46,
+    43
+   ]
+  },
+  {
+   "kind": "table",
+   "title": "First reporting period, as filed",
+   "subtitle": "USD thousands except Petstore.com, which reports whole dollars. Parentheses are negative.",
+   "columns": [
+    "Company",
+    "Net sales",
+    "Gross margin",
+    "Marketing and sales",
+    "Net loss"
+   ],
+   "rows": [
+    [
+     "PetSmart.com, Feb 25, 1999 – Jan 2, 2000[^44]",
+     "10,446",
+     "(6,293)",
+     "33,476",
+     "47,495"
+    ],
+    [
+     "Pets.com, Feb 17 – Dec 31, 1999[^1]",
+     "5,787",
+     "(7,625)",
+     "42,491",
+     "61,778"
+    ],
+    [
+     "Petopia, Mar 9, 1999 – Jan 1, 2000[^46]",
+     "3,452",
+     "(2,187)",
+     "24,215",
+     "40,865"
+    ],
+    [
+     "Petstore.com (dollars), Jan 28 – Dec 31, 1999[^48]",
+     "2,100,462",
+     "(3,060,791)",
+     "22,630,515",
+     "45,003,256"
+    ]
+   ],
+   "numeric": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "highlight": 1,
+   "source": "S-1 registration statements for PetSmart.com[^44] and Petopia[^46], the Pets.com prospectus[^1] and Petstore.com’s statements in a Pets.com 8-K/A[^48]. Petstore.com’s cost of sales includes fulfillment; the other three put fulfillment in marketing and sales."
+  },
+  {
    "kind": "text",
    "title": "Pets.com vs. Chewy",
    "body": "The same idea, a decade later. Chewy (founded 2011) built on subscriptions (Autoship) and positive gross margins."
+  },
+  {
+   "kind": "text",
+   "title": "Scheduled delivery was already common",
+   "body": "Subscriptions did not separate the rivals. Pets.com’s prospectus described Keep It Comin’, which let customers schedule ongoing deliveries of food and litter.[^1] PetSmart.com’s S-1 described an automatic replenishment service, You Sit, We Fetch.[^44] Petopia said a significant portion of its revenue came from its replenishment subscription service, the Bottomless Bowl.[^46]\n\nWhat the filings do show is how the first years differed. PetSmart.com sold more than Pets.com, spent less on marketing and sales, and still lost $47.495M. Substantially all of its sales were fulfilled by its partner PetSmart.[^44] On Dec 20, 2000 PetSmart took control of the unit.[^58]"
   },
   {
    "kind": "versus",
