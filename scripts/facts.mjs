@@ -16,7 +16,7 @@ function extract(files) {
     for (const s0 of ss) {
       if (/^(https?:|\/|#|var\()/.test(s0)) continue;
       const fn = s0.match(/\[\^[\w-]+\]/g) || []; notes.push(...fn); n += fn.length;
-      const s = s0.replace(/\[\^[\w-]+\]/g, '');
+      const s = s0.replace(/\[\^[\w-]+\]/g, '').replace(/\]\(\/[^)]*\)/g, ']');
       nums.push(...(s.match(/\$?\d[\d,]*(?:\.\d+)?(?:%|[MBK]\b)?/g) || []).map(x => x.replace(/,/g, '')));
       quotes.push(...(s.match(/“[^”]{3,}”/g) || []));
     }

@@ -1,0 +1,1008 @@
+{
+ "pages": {
+  "3do": {
+   "name": "3DO",
+   "url": "/3do/",
+   "category": "games",
+   "categoryUrl": "/category/games/",
+   "tier": "ghost",
+   "cause": "management",
+   "years": "1991 – 2003",
+   "blurb": "Trip Hawkins designed a console and let other companies build it and price it. It launched at $699. A decade and one reinvention later, everything 3DO owned sold for $4.6 million.",
+   "sameCategory": [
+    "atari",
+    "coleco",
+    "dreamcast",
+    "ouya"
+   ],
+   "sameCause": [
+    "atari",
+    "circuit-city",
+    "fao-schwarz",
+    "filmstruck",
+    "howard-johnsons",
+    "new-coke",
+    "ok-soda",
+    "quibi"
+   ],
+   "mentions": [
+    "atari"
+   ]
+  },
+  "aol": {
+   "name": "AOL",
+   "url": "/aol/",
+   "category": "dotcom",
+   "categoryUrl": "/category/dotcom/",
+   "tier": "ghost",
+   "cause": "disruption",
+   "years": "1985 – present",
+   "blurb": "It mailed America a free trial, charged $19.95 a month for the internet and used its share price to buy Time Warner. Broadband made the product unnecessary. The name is on its fifth owner.",
+   "sameCategory": [
+    "etoys",
+    "groupon",
+    "kozmo",
+    "pets-com",
+    "theglobe",
+    "webvan"
+   ],
+   "sameCause": [
+    "blockbuster",
+    "radioshack",
+    "redbox"
+   ],
+   "mentions": []
+  },
+  "atari": {
+   "name": "Atari",
+   "url": "/atari/",
+   "category": "games",
+   "categoryUrl": "/category/games/",
+   "tier": "ghost",
+   "cause": "management",
+   "years": "1972 – 1984",
+   "blurb": "It grew to about $2 billion in sales in six years under Warner, lost $538 million the year after, and was handed to a rival for no cash. The name has been sold on ever since.",
+   "sameCategory": [
+    "3do",
+    "coleco",
+    "dreamcast",
+    "ouya"
+   ],
+   "sameCause": [
+    "3do",
+    "circuit-city",
+    "fao-schwarz",
+    "filmstruck",
+    "howard-johnsons",
+    "new-coke",
+    "ok-soda",
+    "quibi"
+   ],
+   "mentions": [
+    "coleco"
+   ]
+  },
+  "blockbuster": {
+   "name": "Blockbuster",
+   "url": "/blockbuster/",
+   "category": "film",
+   "categoryUrl": "/category/film/",
+   "tier": "ghost",
+   "cause": "disruption",
+   "years": "1985 – 2010",
+   "blurb": "The biggest name in home video had 9,094 stores in 2004, a billion dollars of new debt and a rival it had declined to buy. One franchised store in Oregon still rents films under the sign.",
+   "sameCategory": [
+    "filmstruck",
+    "hollywood-video",
+    "quibi",
+    "redbox"
+   ],
+   "sameCause": [
+    "aol",
+    "radioshack",
+    "redbox"
+   ],
+   "mentions": [
+    "hollywood-video",
+    "redbox"
+   ]
+  },
+  "burger-chef": {
+   "name": "Burger Chef",
+   "url": "/burger-chef/",
+   "category": "restaurants",
+   "categoryUrl": "/category/restaurants/",
+   "tier": "dead",
+   "cause": "overexpansion",
+   "years": "1958 – 1982",
+   "blurb": "An Indianapolis equipment maker built the second-largest hamburger chain in America. General Foods bought it, doubled it in three years and wrote most of the investment off.",
+   "sameCategory": [
+    "chi-chis",
+    "howard-johnsons",
+    "sambos",
+    "steak-and-ale"
+   ],
+   "sameCause": [
+    "webvan",
+    "zany-brainy"
+   ],
+   "mentions": []
+  },
+  "chi-chis": {
+   "name": "Chi-Chi’s",
+   "url": "/chi-chis/",
+   "category": "restaurants",
+   "categoryUrl": "/category/restaurants/",
+   "tier": "ghost",
+   "cause": "debt",
+   "years": "1975 – 2004",
+   "blurb": "A Mexican restaurant that began in a corner of a Minnesota bar grew past 230 locations and changed owners three times. It was already bankrupt when green onions at one Pennsylvania restaurant infected 601 people.",
+   "sameCategory": [
+    "burger-chef",
+    "howard-johnsons",
+    "sambos",
+    "steak-and-ale"
+   ],
+   "sameCause": [
+    "hollywood-video",
+    "steak-and-ale",
+    "toys-r-us"
+   ],
+   "mentions": []
+  },
+  "child-world": {
+   "name": "Child World",
+   "url": "/child-world/",
+   "category": "retail",
+   "categoryUrl": "/category/retail/",
+   "tier": "dead",
+   "cause": "competition",
+   "years": "1962 – 1992",
+   "blurb": "A Massachusetts toy supermarket with castle turrets and a roller-skating panda, and for years the No. 2 toy chain in America. Squeezed by Toys “R” Us and loaded with its parent’s debt, it stopped paying its bills in December 1990 and liquidated in 1992.",
+   "sameCategory": [
+    "fao-schwarz",
+    "kb-toys",
+    "kiddie-city",
+    "toys-r-us",
+    "zany-brainy"
+   ],
+   "sameCause": [
+    "compusa",
+    "dreamcast",
+    "hhgregg",
+    "kb-toys",
+    "kiddie-city"
+   ],
+   "mentions": [
+    "toys-r-us"
+   ]
+  },
+  "circuit-city": {
+   "name": "Circuit City",
+   "url": "/circuit-city/",
+   "category": "electronics",
+   "categoryUrl": "/category/electronics/",
+   "tier": "ghost",
+   "cause": "management",
+   "years": "1949 – 2009",
+   "blurb": "It invented the electronics superstore and spun off CarMax. Then it dropped appliances, fired its best-paid salespeople and met the 2008 credit crisis with no cushion.",
+   "sameCategory": [
+    "compusa",
+    "hhgregg",
+    "radioshack",
+    "sharper-image"
+   ],
+   "sameCause": [
+    "3do",
+    "atari",
+    "fao-schwarz",
+    "filmstruck",
+    "howard-johnsons",
+    "new-coke",
+    "ok-soda",
+    "quibi"
+   ],
+   "mentions": [
+    "blockbuster",
+    "compusa",
+    "hhgregg",
+    "hollywood-video",
+    "radioshack"
+   ]
+  },
+  "coleco": {
+   "name": "Coleco",
+   "url": "/coleco/",
+   "category": "games",
+   "categoryUrl": "/category/games/",
+   "tier": "ghost",
+   "cause": "fad",
+   "years": "1932 – 1990",
+   "blurb": "A Connecticut leather firm turned toy maker that had the best home video game of 1982, the worst home computer of 1983 and the bestselling doll of the decade. Each hit was bigger than the last, and each faded faster. It went bankrupt in 1988.",
+   "sameCategory": [
+    "3do",
+    "atari",
+    "dreamcast",
+    "ouya"
+   ],
+   "sameCause": [
+    "crystal-pepsi",
+    "groupon",
+    "orbitz-drink",
+    "sharper-image",
+    "zima"
+   ],
+   "mentions": []
+  },
+  "compusa": {
+   "name": "CompUSA",
+   "url": "/compusa/",
+   "category": "electronics",
+   "categoryUrl": "/category/electronics/",
+   "tier": "dead",
+   "cause": "competition",
+   "years": "1984 – 2008",
+   "blurb": "The first chain of computer superstores sold $6.3 billion of PCs a year at its height. Then the PC turned into a cheap commodity that Best Buy, Dell and everyone else sold too.",
+   "sameCategory": [
+    "circuit-city",
+    "hhgregg",
+    "radioshack",
+    "sharper-image"
+   ],
+   "sameCause": [
+    "child-world",
+    "dreamcast",
+    "hhgregg",
+    "kb-toys",
+    "kiddie-city"
+   ],
+   "mentions": [
+    "circuit-city",
+    "radioshack",
+    "toys-r-us"
+   ]
+  },
+  "crystal-pepsi": {
+   "name": "Crystal Pepsi",
+   "url": "/crystal-pepsi/",
+   "category": "consumer",
+   "categoryUrl": "/category/consumer/",
+   "tier": "ghost",
+   "cause": "fad",
+   "years": "1992 – 1994",
+   "blurb": "Pepsi took the color out of cola, put about $40 million of advertising behind it and projected $1 billion in sales. Within a year the product was being reworked. The name now comes back for a few weeks at a time.",
+   "sameCategory": [
+    "new-coke",
+    "ok-soda",
+    "orbitz-drink",
+    "zima"
+   ],
+   "sameCause": [
+    "coleco",
+    "groupon",
+    "orbitz-drink",
+    "sharper-image",
+    "zima"
+   ],
+   "mentions": [
+    "new-coke"
+   ]
+  },
+  "dreamcast": {
+   "name": "Sega Dreamcast",
+   "url": "/dreamcast/",
+   "category": "games",
+   "categoryUrl": "/category/games/",
+   "tier": "dead",
+   "cause": "competition",
+   "years": "1998 – 2001",
+   "blurb": "The first console with a modem in the box had the biggest launch day the industry had seen. Sixteen months later Sega stopped making it and never built a console again.",
+   "sameCategory": [
+    "3do",
+    "atari",
+    "coleco",
+    "ouya"
+   ],
+   "sameCause": [
+    "child-world",
+    "compusa",
+    "hhgregg",
+    "kb-toys",
+    "kiddie-city"
+   ],
+   "mentions": []
+  },
+  "etoys": {
+   "name": "eToys",
+   "url": "/etoys/",
+   "category": "dotcom",
+   "categoryUrl": "/category/dotcom/",
+   "tier": "dead",
+   "cause": "unit-economics",
+   "years": "1997 – 2001",
+   "blurb": "An Idealab start-up that sold toys online from 1997. Its IPO was valued at $7.78 billion at the first day’s close. It spent more on marketing than it took in gross profit, missed its last Christmas forecast by almost half, and shut down in March 2001.",
+   "sameCategory": [
+    "aol",
+    "groupon",
+    "kozmo",
+    "pets-com",
+    "theglobe",
+    "webvan"
+   ],
+   "sameCause": [
+    "kozmo",
+    "ouya",
+    "pets-com",
+    "theglobe"
+   ],
+   "mentions": [
+    "kb-toys",
+    "toys-r-us"
+   ]
+  },
+  "fao-schwarz": {
+   "name": "FAO Schwarz",
+   "url": "/fao-schwarz/",
+   "category": "retail",
+   "categoryUrl": "/category/retail/",
+   "tier": "ghost",
+   "cause": "management",
+   "years": "1862 – 2015",
+   "blurb": "The toy store from “Big.” A small catalog retailer bought it with notes and stock in 2002, went bankrupt twice in 2003, and the name has been sold three more times since.",
+   "sameCategory": [
+    "child-world",
+    "kb-toys",
+    "kiddie-city",
+    "toys-r-us",
+    "zany-brainy"
+   ],
+   "sameCause": [
+    "3do",
+    "atari",
+    "circuit-city",
+    "filmstruck",
+    "howard-johnsons",
+    "new-coke",
+    "ok-soda",
+    "quibi"
+   ],
+   "mentions": [
+    "toys-r-us",
+    "zany-brainy"
+   ]
+  },
+  "filmstruck": {
+   "name": "FilmStruck",
+   "url": "/filmstruck/",
+   "category": "film",
+   "categoryUrl": "/category/film/",
+   "tier": "dead",
+   "cause": "management",
+   "years": "2016 – 2018",
+   "blurb": "Turner Classic Movies and the Criterion Collection made the streaming service film lovers had asked for. Its owner was bought by a phone company that wanted viewers for hours a day, and it was shut with 34 days’ notice.",
+   "sameCategory": [
+    "blockbuster",
+    "hollywood-video",
+    "quibi",
+    "redbox"
+   ],
+   "sameCause": [
+    "3do",
+    "atari",
+    "circuit-city",
+    "fao-schwarz",
+    "howard-johnsons",
+    "new-coke",
+    "ok-soda",
+    "quibi"
+   ],
+   "mentions": []
+  },
+  "groupon": {
+   "name": "Groupon",
+   "url": "/groupon/",
+   "category": "dotcom",
+   "categoryUrl": "/category/dotcom/",
+   "tier": "ghost",
+   "cause": "fad",
+   "years": "2008 – present",
+   "blurb": "Still open, still listed, and a fraction of its former size. The daily deal that turned down Google now sells with about a seventh of the staff and under a third of the customers it had at its peak.",
+   "sameCategory": [
+    "aol",
+    "etoys",
+    "kozmo",
+    "pets-com",
+    "theglobe",
+    "webvan"
+   ],
+   "sameCause": [
+    "coleco",
+    "crystal-pepsi",
+    "orbitz-drink",
+    "sharper-image",
+    "zima"
+   ],
+   "mentions": []
+  },
+  "hhgregg": {
+   "name": "hhgregg",
+   "url": "/hhgregg/",
+   "category": "electronics",
+   "categoryUrl": "/category/electronics/",
+   "tier": "ghost",
+   "cause": "competition",
+   "years": "1955 – 2017",
+   "blurb": "A family appliance store from Indianapolis that went public in 2007 and doubled its store count on flat-screen TVs. Its comparable-store sales fell every year from 2009, and the chain was liquidated in 2017.",
+   "sameCategory": [
+    "circuit-city",
+    "compusa",
+    "radioshack",
+    "sharper-image"
+   ],
+   "sameCause": [
+    "child-world",
+    "compusa",
+    "dreamcast",
+    "kb-toys",
+    "kiddie-city"
+   ],
+   "mentions": []
+  },
+  "hollywood-video": {
+   "name": "Hollywood Video",
+   "url": "/hollywood-video/",
+   "category": "film",
+   "categoryUrl": "/category/film/",
+   "tier": "ghost",
+   "cause": "debt",
+   "years": "1988 – 2010",
+   "blurb": "The No. 2 video rental chain survived its own dot-com disaster, then was sold in 2005 to a rival that paid mostly with borrowed money. Five years later every store was in liquidation.",
+   "sameCategory": [
+    "blockbuster",
+    "filmstruck",
+    "quibi",
+    "redbox"
+   ],
+   "sameCause": [
+    "chi-chis",
+    "steak-and-ale",
+    "toys-r-us"
+   ],
+   "mentions": [
+    "blockbuster",
+    "redbox"
+   ]
+  },
+  "howard-johnsons": {
+   "name": "Howard Johnson’s",
+   "url": "/howard-johnsons/",
+   "category": "restaurants",
+   "categoryUrl": "/category/restaurants/",
+   "tier": "ghost",
+   "cause": "management",
+   "years": "1925 – 2022",
+   "blurb": "Once the largest restaurant chain in America, with 28 flavors and an orange roof on every highway. It was sold twice in six years, split in two, and left to its franchisees.",
+   "sameCategory": [
+    "burger-chef",
+    "chi-chis",
+    "sambos",
+    "steak-and-ale"
+   ],
+   "sameCause": [
+    "3do",
+    "atari",
+    "circuit-city",
+    "fao-schwarz",
+    "filmstruck",
+    "new-coke",
+    "ok-soda",
+    "quibi"
+   ],
+   "mentions": []
+  },
+  "kb-toys": {
+   "name": "KB Toys",
+   "url": "/kb-toys/",
+   "category": "retail",
+   "categoryUrl": "/category/retail/",
+   "tier": "ghost",
+   "cause": "competition",
+   "years": "1922 – 2009",
+   "blurb": "The toy store in the mall. It had 1,322 stores when Walmart started selling the season’s hottest toys below cost, and a buyout that had already taken about $120 million out.",
+   "sameCategory": [
+    "child-world",
+    "fao-schwarz",
+    "kiddie-city",
+    "toys-r-us",
+    "zany-brainy"
+   ],
+   "sameCause": [
+    "child-world",
+    "compusa",
+    "dreamcast",
+    "hhgregg",
+    "kiddie-city"
+   ],
+   "mentions": [
+    "etoys",
+    "fao-schwarz",
+    "toys-r-us",
+    "zany-brainy"
+   ]
+  },
+  "kiddie-city": {
+   "name": "Kiddie City",
+   "url": "/kiddie-city/",
+   "category": "retail",
+   "categoryUrl": "/category/retail/",
+   "tier": "dead",
+   "cause": "competition",
+   "years": "1957 – 1993",
+   "blurb": "The company that made Lionel trains sold the trains and kept the toy stores. It went through Chapter 11 twice in nine years trying to keep up with Toys “R” Us.",
+   "sameCategory": [
+    "child-world",
+    "fao-schwarz",
+    "kb-toys",
+    "toys-r-us",
+    "zany-brainy"
+   ],
+   "sameCause": [
+    "child-world",
+    "compusa",
+    "dreamcast",
+    "hhgregg",
+    "kb-toys"
+   ],
+   "mentions": [
+    "atari",
+    "child-world",
+    "toys-r-us"
+   ]
+  },
+  "kozmo": {
+   "name": "Kozmo.com",
+   "url": "/kozmo/",
+   "category": "dotcom",
+   "categoryUrl": "/category/dotcom/",
+   "tier": "ghost",
+   "cause": "unit-economics",
+   "years": "1998 – 2001",
+   "blurb": "Orange-jacketed couriers brought New Yorkers a video and a pint of ice cream in under an hour, free, with no minimum. Its own IPO filing shows that in late 1999 delivery staff cost more per order than the order brought in.",
+   "sameCategory": [
+    "aol",
+    "etoys",
+    "groupon",
+    "pets-com",
+    "theglobe",
+    "webvan"
+   ],
+   "sameCause": [
+    "etoys",
+    "ouya",
+    "pets-com",
+    "theglobe"
+   ],
+   "mentions": [
+    "webvan"
+   ]
+  },
+  "new-coke": {
+   "name": "New Coke",
+   "url": "/new-coke/",
+   "category": "consumer",
+   "categoryUrl": "/category/consumer/",
+   "tier": "ghost",
+   "cause": "management",
+   "years": "1985 – 2002",
+   "blurb": "Nearly 200,000 taste tests said the new formula was better. Coca-Cola replaced the old one with it, took 1,500 calls a day, and reversed itself in 79 days. The new drink stayed on sale for years as Coke II.",
+   "sameCategory": [
+    "crystal-pepsi",
+    "ok-soda",
+    "orbitz-drink",
+    "zima"
+   ],
+   "sameCause": [
+    "3do",
+    "atari",
+    "circuit-city",
+    "fao-schwarz",
+    "filmstruck",
+    "howard-johnsons",
+    "ok-soda",
+    "quibi"
+   ],
+   "mentions": []
+  },
+  "ok-soda": {
+   "name": "OK Soda",
+   "url": "/ok-soda/",
+   "category": "consumer",
+   "categoryUrl": "/category/consumer/",
+   "tier": "dead",
+   "cause": "management",
+   "years": "1994 – 1995",
+   "blurb": "Coca-Cola’s soda for people who distrusted advertising came in grey cans with a hotline and a manifesto. The hotline took more than a million calls. The drink sold about a million cases and never left its test markets.",
+   "sameCategory": [
+    "crystal-pepsi",
+    "new-coke",
+    "orbitz-drink",
+    "zima"
+   ],
+   "sameCause": [
+    "3do",
+    "atari",
+    "circuit-city",
+    "fao-schwarz",
+    "filmstruck",
+    "howard-johnsons",
+    "new-coke",
+    "quibi"
+   ],
+   "mentions": [
+    "crystal-pepsi",
+    "new-coke"
+   ]
+  },
+  "orbitz-drink": {
+   "name": "Orbitz",
+   "url": "/orbitz-drink/",
+   "category": "consumer",
+   "categoryUrl": "/category/consumer/",
+   "tier": "dead",
+   "cause": "fad",
+   "years": "1996 – 1999",
+   "blurb": "Clearly Canadian’s 1996 drink with colored gel balls suspended in fruit-flavored water. It was a sensation with teenagers for a year; first-half sales fell from $9.4M in 1997 to $1.46M in 1998, and the company stopped making it.",
+   "sameCategory": [
+    "crystal-pepsi",
+    "new-coke",
+    "ok-soda",
+    "zima"
+   ],
+   "sameCause": [
+    "coleco",
+    "crystal-pepsi",
+    "groupon",
+    "sharper-image",
+    "zima"
+   ],
+   "mentions": []
+  },
+  "ouya": {
+   "name": "Ouya",
+   "url": "/ouya/",
+   "category": "games",
+   "categoryUrl": "/category/games/",
+   "tier": "dead",
+   "cause": "unit-economics",
+   "years": "2012 – 2019",
+   "blurb": "The $99 Android console raised $8.6 million on Kickstarter in a month. Its best-selling game sold about 7,000 copies, and the company was sold for parts two years after it reached stores.",
+   "sameCategory": [
+    "3do",
+    "atari",
+    "coleco",
+    "dreamcast"
+   ],
+   "sameCause": [
+    "etoys",
+    "kozmo",
+    "pets-com",
+    "theglobe"
+   ],
+   "mentions": []
+  },
+  "pets-com": {
+   "name": "Pets.com",
+   "url": "/pets-com/",
+   "category": "dotcom",
+   "categoryUrl": "/category/dotcom/",
+   "tier": "dead",
+   "cause": "unit-economics",
+   "years": "1998 – 2000",
+   "blurb": "The most famous mascot of the dot-com era, Amazon as its biggest shareholder, and a Super Bowl ad. It never sold a quarter’s goods for more than they cost to deliver.",
+   "sameCategory": [
+    "aol",
+    "etoys",
+    "groupon",
+    "kozmo",
+    "theglobe",
+    "webvan"
+   ],
+   "sameCause": [
+    "etoys",
+    "kozmo",
+    "ouya",
+    "theglobe"
+   ],
+   "mentions": []
+  },
+  "quibi": {
+   "name": "Quibi",
+   "url": "/quibi/",
+   "category": "film",
+   "categoryUrl": "/category/film/",
+   "tier": "dead",
+   "cause": "management",
+   "years": "2018 – 2020",
+   "blurb": "Hollywood’s studios and Wall Street put $1.75 billion into ten-minute shows for phones. The service launched into a lockdown, charged for what rivals gave away, and was gone in eight months.",
+   "sameCategory": [
+    "blockbuster",
+    "filmstruck",
+    "hollywood-video",
+    "redbox"
+   ],
+   "sameCause": [
+    "3do",
+    "atari",
+    "circuit-city",
+    "fao-schwarz",
+    "filmstruck",
+    "howard-johnsons",
+    "new-coke",
+    "ok-soda"
+   ],
+   "mentions": []
+  },
+  "radioshack": {
+   "name": "RadioShack",
+   "url": "/radioshack/",
+   "category": "electronics",
+   "categoryUrl": "/category/electronics/",
+   "tier": "ghost",
+   "cause": "disruption",
+   "years": "1921 – 2015",
+   "blurb": "Once a store within a short drive of almost every American. It kept the stores long after the reason to visit them had moved online.",
+   "sameCategory": [
+    "circuit-city",
+    "compusa",
+    "hhgregg",
+    "sharper-image"
+   ],
+   "sameCause": [
+    "aol",
+    "blockbuster",
+    "redbox"
+   ],
+   "mentions": [
+    "circuit-city"
+   ]
+  },
+  "redbox": {
+   "name": "Redbox",
+   "url": "/redbox/",
+   "category": "film",
+   "categoryUrl": "/category/film/",
+   "tier": "dead",
+   "cause": "disruption",
+   "years": "2002 – 2024",
+   "blurb": "A McDonald’s side project that put a dollar-a-night video store in front of 36,000 shops. It outlived Blockbuster by a decade, changed owners four times and was switched off by a bankruptcy judge.",
+   "sameCategory": [
+    "blockbuster",
+    "filmstruck",
+    "hollywood-video",
+    "quibi"
+   ],
+   "sameCause": [
+    "aol",
+    "blockbuster",
+    "radioshack"
+   ],
+   "mentions": [
+    "blockbuster"
+   ]
+  },
+  "sambos": {
+   "name": "Sambo’s",
+   "url": "/sambos/",
+   "category": "restaurants",
+   "categoryUrl": "/category/restaurants/",
+   "tier": "dead",
+   "cause": "management",
+   "years": "1957 – 1984",
+   "blurb": "A Santa Barbara pancake house became 1,117 coffee shops by selling its managers a share of the profits. When regulators questioned how that was booked, the plan ended, the managers left and the losses began.",
+   "sameCategory": [
+    "burger-chef",
+    "chi-chis",
+    "howard-johnsons",
+    "steak-and-ale"
+   ],
+   "sameCause": [
+    "3do",
+    "atari",
+    "circuit-city",
+    "fao-schwarz",
+    "filmstruck",
+    "howard-johnsons",
+    "new-coke",
+    "ok-soda"
+   ],
+   "mentions": []
+  },
+  "sharper-image": {
+   "name": "Sharper Image",
+   "url": "/sharper-image/",
+   "category": "electronics",
+   "categoryUrl": "/category/electronics/",
+   "tier": "ghost",
+   "cause": "fad",
+   "years": "1977 – 2008",
+   "blurb": "A San Francisco gadget catalog that became a mall fixture. By 2004 its Ionic Breeze air purifiers were 40% of revenue; when Consumer Reports panned them and sales fell away, the chain went bankrupt in 2008.",
+   "sameCategory": [
+    "circuit-city",
+    "compusa",
+    "hhgregg",
+    "radioshack"
+   ],
+   "sameCause": [
+    "coleco",
+    "crystal-pepsi",
+    "groupon",
+    "orbitz-drink",
+    "zima"
+   ],
+   "mentions": []
+  },
+  "steak-and-ale": {
+   "name": "Steak and Ale",
+   "url": "/steak-and-ale/",
+   "category": "restaurants",
+   "categoryUrl": "/category/restaurants/",
+   "tier": "ghost",
+   "cause": "debt",
+   "years": "1966 – 2008",
+   "blurb": "The Dallas steakhouse that trained a generation of restaurant founders was sold three times, shrank for two decades under a billionaire’s holding company and shut every door in one morning. Sixteen years later one came back, inside a Minnesota hotel.",
+   "sameCategory": [
+    "burger-chef",
+    "chi-chis",
+    "howard-johnsons",
+    "sambos"
+   ],
+   "sameCause": [
+    "chi-chis",
+    "hollywood-video",
+    "toys-r-us"
+   ],
+   "mentions": []
+  },
+  "theglobe": {
+   "name": "theglobe.com",
+   "url": "/theglobe/",
+   "category": "dotcom",
+   "categoryUrl": "/category/dotcom/",
+   "tier": "ghost",
+   "cause": "unit-economics",
+   "years": "1995 – 2001",
+   "blurb": "Two Cornell students built a site for free home pages and chat. Its shares rose 606% on their first day of trading in 1998. Less than three years later the site was switched off.",
+   "sameCategory": [
+    "aol",
+    "etoys",
+    "groupon",
+    "kozmo",
+    "pets-com",
+    "webvan"
+   ],
+   "sameCause": [
+    "etoys",
+    "kozmo",
+    "ouya",
+    "pets-com"
+   ],
+   "mentions": []
+  },
+  "toys-r-us": {
+   "name": "Toys “R” Us",
+   "url": "/toys-r-us/",
+   "category": "retail",
+   "categoryUrl": "/category/retail/",
+   "tier": "ghost",
+   "cause": "debt",
+   "years": "1957 – 2018",
+   "blurb": "The store that invented the toy superstore was still selling $11.5 billion of toys a year when it failed. Nearly every dollar it earned from operations went to interest on its own buyout.",
+   "sameCategory": [
+    "child-world",
+    "fao-schwarz",
+    "kb-toys",
+    "kiddie-city",
+    "zany-brainy"
+   ],
+   "sameCause": [
+    "chi-chis",
+    "hollywood-video",
+    "steak-and-ale"
+   ],
+   "mentions": [
+    "child-world",
+    "fao-schwarz",
+    "kb-toys"
+   ]
+  },
+  "webvan": {
+   "name": "Webvan",
+   "url": "/webvan/",
+   "category": "dotcom",
+   "categoryUrl": "/category/dotcom/",
+   "tier": "dead",
+   "cause": "overexpansion",
+   "years": "1996 – 2001",
+   "blurb": "Raised more than $1.2 billion, built warehouses for millions of orders, and stopped delivering on a Monday in July 2001.",
+   "sameCategory": [
+    "aol",
+    "etoys",
+    "groupon",
+    "kozmo",
+    "pets-com",
+    "theglobe"
+   ],
+   "sameCause": [
+    "burger-chef",
+    "zany-brainy"
+   ],
+   "mentions": [
+    "kozmo",
+    "pets-com"
+   ]
+  },
+  "zany-brainy": {
+   "name": "Zany Brainy",
+   "url": "/zany-brainy/",
+   "category": "retail",
+   "categoryUrl": "/category/retail/",
+   "tier": "ghost",
+   "cause": "overexpansion",
+   "years": "1991 – 2003",
+   "blurb": "A toy store with carpets, a reading corner and nothing violent on the shelves. It nearly doubled in size in one year by buying Noodle Kidoodle, lost $80.7M, and was in Chapter 11 five months after that Christmas.",
+   "sameCategory": [
+    "child-world",
+    "fao-schwarz",
+    "kb-toys",
+    "kiddie-city",
+    "toys-r-us"
+   ],
+   "sameCause": [
+    "burger-chef",
+    "webvan"
+   ],
+   "mentions": [
+    "etoys",
+    "fao-schwarz",
+    "toys-r-us"
+   ]
+  },
+  "zima": {
+   "name": "Zima",
+   "url": "/zima/",
+   "category": "consumer",
+   "categoryUrl": "/category/consumer/",
+   "tier": "ghost",
+   "cause": "fad",
+   "years": "1992 – 2008",
+   "blurb": "Coors filtered the colour and the taste out of a beer, added citrus and spent tens of millions telling America it was zomething different. Most drinkers tried it once.",
+   "sameCategory": [
+    "crystal-pepsi",
+    "new-coke",
+    "ok-soda",
+    "orbitz-drink"
+   ],
+   "sameCause": [
+    "coleco",
+    "crystal-pepsi",
+    "groupon",
+    "orbitz-drink",
+    "sharper-image"
+   ],
+   "mentions": [
+    "crystal-pepsi"
+   ]
+  }
+ },
+ "categories": {
+  "dotcom": "/category/dotcom/",
+  "electronics": "/category/electronics/",
+  "retail": "/category/retail/",
+  "consumer": "/category/consumer/",
+  "games": "/category/games/",
+  "film": "/category/film/",
+  "restaurants": "/category/restaurants/"
+ },
+ "about": "/about/",
+ "rules": "Use real mentions as anchors first (the brand name where it already appears in the prose), then same-category or same-cause comparisons. 3–6 contextual links per page, never in quotations, never inside a footnote, never two links to the same page. Anchor = the existing words, not new sentences."
+}
