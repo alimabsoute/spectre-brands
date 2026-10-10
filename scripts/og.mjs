@@ -12,14 +12,18 @@ const only = process.argv.slice(2);
 const site = JSON.parse(fs.readFileSync(path.join(ROOT, 'site.json'), 'utf8'));
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;');
 const font = f => `url(data:font/woff2;base64,${fs.readFileSync(path.join(ROOT, 'assets/fonts', f)).toString('base64')})`;
-const CSS = `@font-face{font-family:S;src:${font('source-serif-4.woff2')};font-weight:400 700}@font-face{font-family:I;src:${font('inter.woff2')};font-weight:400 700}
-*{margin:0;box-sizing:border-box}body{width:1200px;height:630px;background:#FCFBF8;color:#16161A;font-family:I;display:grid;grid-template-columns:1fr 440px}
-.t{padding:64px 0 56px 72px;display:flex;flex-direction:column}.b{display:flex;align-items:center;gap:12px;font-size:26px}.b b{font-weight:700}.b svg{width:26px;height:30px}
-h1{font:600 92px/1 S;letter-spacing:-.03em;margin-top:auto}h1.long{font-size:72px}h1.site{font-size:60px;line-height:1.06}
-.y{font-size:28px;color:#3B3B42;margin-top:18px;display:flex;gap:14px;align-items:center}.tag{background:#16161A;color:#fff;font-weight:600;font-size:22px;padding:4px 14px;border-radius:6px}.tag.ghost{background:#fff;color:#16161A;border:2.5px solid #16161A}
-.s{font:400 27px/1.35 S;color:#3B3B42;margin-top:22px;max-width:620px}
-.a{margin:40px 48px 40px 24px;border-radius:28px;display:flex;align-items:center;justify-content:center;padding:36px}.a svg{width:100%;height:auto;max-height:440px}`;
-const MARK = '<svg viewBox="0 0 24 28"><path d="M3 26.5V12a9 9 0 0 1 18 0v14.5l-3-2.6-3 2.6-3-2.6-3 2.6-3-2.6z" fill="#16161A"/><rect x="8" y="10" width="2.6" height="4.6" rx="1.3" fill="#fff"/><rect x="13.4" y="10" width="2.6" height="4.6" rx="1.3" fill="#fff"/></svg>';
+// Front Counter brand: paper ground, Fraunces + DM Sans, the strip-and-ghost logo, an orange tape edge.
+const b64 = f => fs.readFileSync(path.join(ROOT, f)).toString('base64');
+const CSS = `@font-face{font-family:S;src:${font('preview/fraunces-0.woff2')};font-weight:400 800}@font-face{font-family:I;src:${font('preview/dm-sans-0.woff2')};font-weight:400 700}
+*{margin:0;box-sizing:border-box}body{width:1200px;height:630px;background:#F6EFE0;color:#1B1815;font-family:I;display:grid;grid-template-columns:1fr 440px;border-bottom:16px solid #F2A33C;background-image:repeating-linear-gradient(90deg,rgba(90,70,40,.05) 0 2px,transparent 2px 46px)}
+.t{padding:56px 0 48px 72px;display:flex;flex-direction:column}.b img{height:58px;width:auto;display:block}
+h1{font:600 92px/1 S;letter-spacing:-.03em;margin-top:auto}h1.long{font-size:72px}h1.site{font-size:54px;line-height:1.08}
+.y{font-size:28px;color:#3E3731;margin-top:18px;display:flex;gap:14px;align-items:center}.tag{background:#1B1815;color:#F6EFE0;font-weight:700;font-size:20px;letter-spacing:.08em;text-transform:uppercase;padding:5px 14px;border-radius:4px}.tag.ghost{background:transparent;color:#1B1815;border:2px dashed #1B1815}
+.s{font:400 27px/1.35 S;color:#3E3731;margin-top:22px;max-width:620px}
+.a{margin:40px 48px 40px 24px;border-radius:10px;display:flex;align-items:center;justify-content:center;padding:36px;box-shadow:0 2px 0 rgba(27,24,21,.12),0 20px 40px -20px rgba(27,24,21,.4)}.a svg{width:100%;height:auto;max-height:440px}
+.hero{position:absolute;right:36px;top:170px;width:520px;transform:rotate(-4deg);filter:drop-shadow(0 18px 24px rgba(27,24,21,.35))}`;
+const MARK = `<img src="data:image/webp;base64,${b64('assets/homemix/strip/strip-logo-510.webp')}" alt="">`;
+const HERO = `<img class="hero" src="data:image/webp;base64,${b64('assets/homemix/hero-720.webp')}" alt="">`;
 const pages = [];
 for (const slug of fs.readdirSync(path.join(ROOT, 'companies'))) {
   if (slug.startsWith('_') || (only.length && !only.includes(slug))) continue;
@@ -28,9 +32,9 @@ for (const slug of fs.readdirSync(path.join(ROOT, 'companies'))) {
   const c = JSON.parse(fs.readFileSync(path.join(dir, 'company.json'), 'utf8'));
   const art = fs.existsSync(path.join(dir, c.hero.art)) ? fs.readFileSync(path.join(dir, c.hero.art), 'utf8').replace(/<\?xml[^>]*>/, '') : '';
   const cat = site.categories.find(k => k.id === c.category)?.label || '';
-  pages.push([slug, `<div class="t"><div class="b">${MARK}<span><b>Spectre</b> Brands</span></div><h1${c.name.length > 11 ? ' class="long"' : ''}>${esc(c.name)}</h1><div class="y"><span class="tag ${c.tier}">${c.tier === 'ghost' ? 'Ghost' : 'Dead'}</span>${esc(c.years)} · ${esc(cat)}</div><p class="s">${esc(c.card.stat.value)} ${esc(String(c.card.stat.label).replace(/\[\^\d+\]/g, ''))}</p></div><div class="a" style="background:${c.theme.soft}">${art}</div>`]);
+  pages.push([slug, `<div class="t"><div class="b">${MARK}</div><h1${c.name.length > 11 ? ' class="long"' : ''}>${esc(c.name)}</h1><div class="y"><span class="tag ${c.tier}">${c.tier === 'ghost' ? 'Ghost' : 'Dead'}</span>${esc(c.years)} · ${esc(cat)}</div><p class="s">${esc(c.card.stat.value)} ${esc(String(c.card.stat.label).replace(/\[\^\d+\]/g, ''))}</p></div><div class="a" style="background:${c.theme.soft}">${art}</div>`]);
 }
-if (!only.length || only.includes('default')) pages.push(['default', `<div class="t" style="grid-column:1/-1;padding-right:72px"><div class="b">${MARK}<span><b>Spectre</b> Brands</span></div><h1 class="site">Every brand dies twice: once when the money runs out, and again when people forget it.</h1><p class="s" style="max-width:900px">Sourced, illustrated post-mortems of dead and ghost brands.</p></div>`]);
+if (!only.length || only.includes('default')) pages.push(['default', `<div class="t" style="grid-column:1/-1;padding-right:610px"><div class="b">${MARK}</div><h1 class="site">Every brand dies twice: once when the money runs out, and again when people forget it.</h1><p class="s" style="max-width:900px">Sourced, illustrated post-mortems of dead and ghost brands.</p></div>${HERO}`]);
 fs.mkdirSync(path.join(ROOT, 'og'), { recursive: true });
 const b = await chromium.launch();
 const p = await b.newPage({ viewport: { width: 1200, height: 630 } });
