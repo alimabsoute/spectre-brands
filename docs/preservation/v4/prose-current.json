@@ -1,0 +1,3007 @@
+{
+ "totals": {
+  "docs": 39,
+  "words": 169568,
+  "error": 0,
+  "warn": 1,
+  "info": 313
+ },
+ "byRule": {
+  "hedge": {
+   "error": 0,
+   "warn": 1,
+   "info": 3
+  },
+  "ai-vocab": {
+   "error": 0,
+   "warn": 0,
+   "info": 7
+  },
+  "chatbot": {
+   "error": 0,
+   "warn": 0,
+   "info": 1
+  },
+  "cliche": {
+   "error": 0,
+   "warn": 0,
+   "info": 2
+  },
+  "colon-density": {
+   "error": 0,
+   "warn": 0,
+   "info": 2
+  },
+  "copula-soft": {
+   "error": 0,
+   "warn": 0,
+   "info": 4
+  },
+  "cross-doc-opener": {
+   "error": 0,
+   "warn": 0,
+   "info": 33
+  },
+  "duplicate-sentence": {
+   "error": 0,
+   "warn": 0,
+   "info": 1
+  },
+  "intensifier": {
+   "error": 0,
+   "warn": 0,
+   "info": 30
+  },
+  "intensifier-soft": {
+   "error": 0,
+   "warn": 0,
+   "info": 34
+  },
+  "long-sentence": {
+   "error": 0,
+   "warn": 0,
+   "info": 97
+  },
+  "not-just": {
+   "error": 0,
+   "warn": 0,
+   "info": 2
+  },
+  "not-only": {
+   "error": 0,
+   "warn": 0,
+   "info": 1
+  },
+  "not-x-but-y": {
+   "error": 0,
+   "warn": 0,
+   "info": 2
+  },
+  "signpost": {
+   "error": 0,
+   "warn": 0,
+   "info": 1
+  },
+  "site-template": {
+   "error": 0,
+   "warn": 0,
+   "info": 80
+  },
+  "soft-hedge": {
+   "error": 0,
+   "warn": 0,
+   "info": 12
+  },
+  "transition": {
+   "error": 0,
+   "warn": 0,
+   "info": 1
+  }
+ },
+ "docStats": [
+  {
+   "doc": "3do",
+   "words": 4885,
+   "sentences": 363,
+   "meanLen": 13.5,
+   "sdLen": 7.6,
+   "cv": 0.56,
+   "dashesPer1k": 0,
+   "colonsPer1k": 6.1
+  },
+  {
+   "doc": "aol",
+   "words": 4923,
+   "sentences": 372,
+   "meanLen": 13.2,
+   "sdLen": 8.2,
+   "cv": 0.62,
+   "dashesPer1k": 0,
+   "colonsPer1k": 4.5
+  },
+  {
+   "doc": "atari",
+   "words": 4993,
+   "sentences": 365,
+   "meanLen": 13.7,
+   "sdLen": 7.7,
+   "cv": 0.57,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.6
+  },
+  {
+   "doc": "blockbuster",
+   "words": 5710,
+   "sentences": 392,
+   "meanLen": 14.6,
+   "sdLen": 8.3,
+   "cv": 0.57,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.5
+  },
+  {
+   "doc": "burger-chef",
+   "words": 3801,
+   "sentences": 292,
+   "meanLen": 13,
+   "sdLen": 7.6,
+   "cv": 0.58,
+   "dashesPer1k": 0,
+   "colonsPer1k": 1.8
+  },
+  {
+   "doc": "chi-chis",
+   "words": 5268,
+   "sentences": 375,
+   "meanLen": 14,
+   "sdLen": 8.5,
+   "cv": 0.6,
+   "dashesPer1k": 0,
+   "colonsPer1k": 4.2
+  },
+  {
+   "doc": "child-world",
+   "words": 2043,
+   "sentences": 149,
+   "meanLen": 13.7,
+   "sdLen": 7.2,
+   "cv": 0.53,
+   "dashesPer1k": 0,
+   "colonsPer1k": 0.5
+  },
+  {
+   "doc": "circuit-city",
+   "words": 3928,
+   "sentences": 306,
+   "meanLen": 12.8,
+   "sdLen": 7.5,
+   "cv": 0.58,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.8
+  },
+  {
+   "doc": "coleco",
+   "words": 2078,
+   "sentences": 151,
+   "meanLen": 13.8,
+   "sdLen": 9,
+   "cv": 0.65,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.4
+  },
+  {
+   "doc": "compusa",
+   "words": 4703,
+   "sentences": 338,
+   "meanLen": 13.9,
+   "sdLen": 8.5,
+   "cv": 0.61,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3
+  },
+  {
+   "doc": "crystal-pepsi",
+   "words": 4839,
+   "sentences": 326,
+   "meanLen": 14.8,
+   "sdLen": 10,
+   "cv": 0.68,
+   "dashesPer1k": 0,
+   "colonsPer1k": 7
+  },
+  {
+   "doc": "dreamcast",
+   "words": 4070,
+   "sentences": 319,
+   "meanLen": 12.8,
+   "sdLen": 7.6,
+   "cv": 0.6,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.4
+  },
+  {
+   "doc": "etoys",
+   "words": 2126,
+   "sentences": 159,
+   "meanLen": 13.4,
+   "sdLen": 7.8,
+   "cv": 0.58,
+   "dashesPer1k": 0,
+   "colonsPer1k": 1.4
+  },
+  {
+   "doc": "fao-schwarz",
+   "words": 4990,
+   "sentences": 342,
+   "meanLen": 14.6,
+   "sdLen": 9.4,
+   "cv": 0.64,
+   "dashesPer1k": 0,
+   "colonsPer1k": 2.6
+  },
+  {
+   "doc": "filmstruck",
+   "words": 5717,
+   "sentences": 388,
+   "meanLen": 14.7,
+   "sdLen": 9.3,
+   "cv": 0.63,
+   "dashesPer1k": 0,
+   "colonsPer1k": 5.6
+  },
+  {
+   "doc": "groupon",
+   "words": 4314,
+   "sentences": 342,
+   "meanLen": 12.6,
+   "sdLen": 8.6,
+   "cv": 0.68,
+   "dashesPer1k": 0,
+   "colonsPer1k": 5.3
+  },
+  {
+   "doc": "hhgregg",
+   "words": 2176,
+   "sentences": 162,
+   "meanLen": 13.4,
+   "sdLen": 7.7,
+   "cv": 0.57,
+   "dashesPer1k": 0,
+   "colonsPer1k": 2.3
+  },
+  {
+   "doc": "hollywood-video",
+   "words": 4058,
+   "sentences": 318,
+   "meanLen": 12.8,
+   "sdLen": 7.3,
+   "cv": 0.57,
+   "dashesPer1k": 0,
+   "colonsPer1k": 2.5
+  },
+  {
+   "doc": "howard-johnsons",
+   "words": 4602,
+   "sentences": 369,
+   "meanLen": 12.5,
+   "sdLen": 6.8,
+   "cv": 0.54,
+   "dashesPer1k": 0,
+   "colonsPer1k": 4.8
+  },
+  {
+   "doc": "kb-toys",
+   "words": 4404,
+   "sentences": 339,
+   "meanLen": 13,
+   "sdLen": 7.5,
+   "cv": 0.58,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.2
+  },
+  {
+   "doc": "kiddie-city",
+   "words": 4501,
+   "sentences": 349,
+   "meanLen": 12.9,
+   "sdLen": 7.4,
+   "cv": 0.57,
+   "dashesPer1k": 0,
+   "colonsPer1k": 4.9
+  },
+  {
+   "doc": "kozmo",
+   "words": 4593,
+   "sentences": 350,
+   "meanLen": 13.1,
+   "sdLen": 7,
+   "cv": 0.54,
+   "dashesPer1k": 0,
+   "colonsPer1k": 4.4
+  },
+  {
+   "doc": "new-coke",
+   "words": 4442,
+   "sentences": 310,
+   "meanLen": 14.3,
+   "sdLen": 8.6,
+   "cv": 0.6,
+   "dashesPer1k": 0,
+   "colonsPer1k": 6.1
+  },
+  {
+   "doc": "ok-soda",
+   "words": 5385,
+   "sentences": 358,
+   "meanLen": 15,
+   "sdLen": 11.3,
+   "cv": 0.75,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.7
+  },
+  {
+   "doc": "orbitz-drink",
+   "words": 5508,
+   "sentences": 348,
+   "meanLen": 15.8,
+   "sdLen": 9.1,
+   "cv": 0.57,
+   "dashesPer1k": 0,
+   "colonsPer1k": 2.9
+  },
+  {
+   "doc": "ouya",
+   "words": 4542,
+   "sentences": 328,
+   "meanLen": 13.8,
+   "sdLen": 9.3,
+   "cv": 0.67,
+   "dashesPer1k": 0,
+   "colonsPer1k": 5.7
+  },
+  {
+   "doc": "pets-com",
+   "words": 6431,
+   "sentences": 542,
+   "meanLen": 11.9,
+   "sdLen": 7.1,
+   "cv": 0.6,
+   "dashesPer1k": 0,
+   "colonsPer1k": 9.3
+  },
+  {
+   "doc": "quibi",
+   "words": 5165,
+   "sentences": 374,
+   "meanLen": 13.8,
+   "sdLen": 9.1,
+   "cv": 0.66,
+   "dashesPer1k": 0,
+   "colonsPer1k": 6.2
+  },
+  {
+   "doc": "radioshack",
+   "words": 4459,
+   "sentences": 369,
+   "meanLen": 12.1,
+   "sdLen": 6.7,
+   "cv": 0.55,
+   "dashesPer1k": 0,
+   "colonsPer1k": 4.9
+  },
+  {
+   "doc": "redbox",
+   "words": 4406,
+   "sentences": 293,
+   "meanLen": 15,
+   "sdLen": 9.4,
+   "cv": 0.62,
+   "dashesPer1k": 0,
+   "colonsPer1k": 2.3
+  },
+  {
+   "doc": "sambos",
+   "words": 5176,
+   "sentences": 367,
+   "meanLen": 14.1,
+   "sdLen": 7.8,
+   "cv": 0.55,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.7
+  },
+  {
+   "doc": "sharper-image",
+   "words": 2135,
+   "sentences": 163,
+   "meanLen": 13.1,
+   "sdLen": 7.4,
+   "cv": 0.57,
+   "dashesPer1k": 0,
+   "colonsPer1k": 2.3
+  },
+  {
+   "doc": "steak-and-ale",
+   "words": 5479,
+   "sentences": 366,
+   "meanLen": 15,
+   "sdLen": 9.6,
+   "cv": 0.64,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.3
+  },
+  {
+   "doc": "theglobe",
+   "words": 2830,
+   "sentences": 210,
+   "meanLen": 13.5,
+   "sdLen": 8.2,
+   "cv": 0.61,
+   "dashesPer1k": 0,
+   "colonsPer1k": 2.8
+  },
+  {
+   "doc": "toys-r-us",
+   "words": 4466,
+   "sentences": 338,
+   "meanLen": 13.2,
+   "sdLen": 7.7,
+   "cv": 0.58,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.8
+  },
+  {
+   "doc": "webvan",
+   "words": 4859,
+   "sentences": 426,
+   "meanLen": 11.4,
+   "sdLen": 7.1,
+   "cv": 0.62,
+   "dashesPer1k": 0,
+   "colonsPer1k": 5.4
+  },
+  {
+   "doc": "zany-brainy",
+   "words": 5150,
+   "sentences": 372,
+   "meanLen": 13.8,
+   "sdLen": 8,
+   "cv": 0.58,
+   "dashesPer1k": 0,
+   "colonsPer1k": 3.5
+  },
+  {
+   "doc": "zima",
+   "words": 5034,
+   "sentences": 358,
+   "meanLen": 14.1,
+   "sdLen": 8.9,
+   "cv": 0.63,
+   "dashesPer1k": 0,
+   "colonsPer1k": 5.6
+  },
+  {
+   "doc": "site.json",
+   "words": 1379,
+   "sentences": 94,
+   "meanLen": 14.7,
+   "sdLen": 8.1,
+   "cv": 0.55,
+   "dashesPer1k": 0,
+   "colonsPer1k": 5.1
+  }
+ ],
+ "issues": [
+  {
+   "sev": "warn",
+   "rule": "hedge",
+   "doc": "ouya",
+   "where": "story.json chapters[2].body",
+   "msg": "hedge; commit or cite [H1]",
+   "excerpt": "ishing their takings: TowerFall, which MCV called arguably the console's most acclaimed exclusive, had sold "
+  },
+  {
+   "sev": "info",
+   "rule": "ai-vocab",
+   "doc": "blockbuster",
+   "where": "press.json clips[6].q",
+   "msg": "AI-overused word: leverage as a verb (use \"use\"; leveraged buyout and operating leverage are finance terms and fine) (inside a quotation: leave it) [W1]",
+   "excerpt": "ized Blockbuster will move forward better able to leverage its strong strategic position, including a well-e"
+  },
+  {
+   "sev": "info",
+   "rule": "ai-vocab",
+   "doc": "compusa",
+   "where": "press.json clips[0].q",
+   "msg": "AI-overused word: leverage as a verb (use \"use\"; leveraged buyout and operating leverage are finance terms and fine) (inside a quotation: leave it) [W1]",
+   "excerpt": " U.S., and represents a tremendous opportunity to leverage the management experience of Sanborns in the reta"
+  },
+  {
+   "sev": "info",
+   "rule": "ai-vocab",
+   "doc": "fao-schwarz",
+   "where": "press.json clips[6].q",
+   "msg": "AI-overused word (tier A) (inside a quotation: leave it) [W1]",
+   "excerpt": "ep this tradition alive by crafting fine toys and transformative retail experiences for generations to come."
+  },
+  {
+   "sev": "info",
+   "rule": "ai-vocab",
+   "doc": "filmstruck",
+   "where": "story.json chapters[1].body",
+   "msg": "AI-overused word (tier A) (inside a quotation: leave it) [W1]",
+   "excerpt": "oned it to November to, in its words, “complete a seamless registration process for subscribers.” The servi"
+  },
+  {
+   "sev": "info",
+   "rule": "ai-vocab",
+   "doc": "orbitz-drink",
+   "where": "website.json snips[0].text",
+   "msg": "AI-overused word (tier A) (inside a quotation: leave it) [W1]",
+   "excerpt": "“Set gravity aside and prepare to embark on a tour into the bowels of the Orbiterium, where a"
+  },
+  {
+   "sev": "info",
+   "rule": "ai-vocab",
+   "doc": "steak-and-ale",
+   "where": "website.json snips[1].text",
+   "msg": "AI-overused word (tier A) (inside a quotation: leave it) [W1]",
+   "excerpt": " English country inns of the 18th century, we are renowned for our tender, juicy steaks, broad selection of "
+  },
+  {
+   "sev": "info",
+   "rule": "ai-vocab",
+   "doc": "zany-brainy",
+   "where": "story.json chapters[0].body",
+   "msg": "AI-overused word (tier A) (inside a quotation: leave it) [W1]",
+   "excerpt": "was a free event every day. In 1994 the company “embarked on an aggressive store opening strategy”: 11 stores "
+  },
+  {
+   "sev": "info",
+   "rule": "chatbot",
+   "doc": "groupon",
+   "where": "timeline.json events[29].text",
+   "msg": "chatbot residue (inside a quotation: leave it) [S19]",
+   "excerpt": " a restructuring plan tied to rebuilding Groupon “as an AI-native company.”"
+  },
+  {
+   "sev": "info",
+   "rule": "cliche",
+   "doc": "circuit-city",
+   "where": "rivals.json blocks[2].body",
+   "msg": "cliche / empty closer (inside a quotation: leave it) [S13]",
+   "excerpt": "fter I left, my successors became very focused on the bottom line.” The company refused to sell video games because"
+  },
+  {
+   "sev": "info",
+   "rule": "cliche",
+   "doc": "etoys",
+   "where": "press.json clips[2].q",
+   "msg": "cliche / empty closer (inside a quotation: leave it) [S13]",
+   "excerpt": "Their TV advertising alone made eToys a household name, even though the households didn't necessarily ha"
+  },
+  {
+   "sev": "info",
+   "rule": "colon-density",
+   "doc": "crystal-pepsi",
+   "where": "",
+   "msg": "7.0 colons per 1,000 words [P2]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "colon-density",
+   "doc": "pets-com",
+   "where": "",
+   "msg": "9.3 colons per 1,000 words [P2]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "copula-soft",
+   "doc": "atari",
+   "where": "website.json captures[3].text",
+   "msg": "possible copula avoidance (fine if it names a real feature or offer) [S18]",
+   "excerpt": "game publisher's front page. The list on the left offers the 1980s arcade games Asteroids Deluxe, Battlezone a"
+  },
+  {
+   "sev": "info",
+   "rule": "copula-soft",
+   "doc": "burger-chef",
+   "where": "marketing.json lede",
+   "msg": "possible copula avoidance (fine if it names a real feature or offer) [S18]",
+   "excerpt": "Much of what a fast-food counter now offers appeared at Burger Chef early: the combination meal"
+  },
+  {
+   "sev": "info",
+   "rule": "copula-soft",
+   "doc": "circuit-city",
+   "where": "timeline.json events[21].title",
+   "msg": "possible copula avoidance (fine if it names a real feature or offer) [S18]",
+   "excerpt": "Blockbuster offers at least $6 a share"
+  },
+  {
+   "sev": "info",
+   "rule": "copula-soft",
+   "doc": "kb-toys",
+   "where": "website.json captures[2].text",
+   "msg": "possible copula avoidance (fine if it names a real feature or offer) [S18]",
+   "excerpt": "The store is gone. The page offers the asset purchase agreement and bid procedures for a"
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "17 docs",
+   "where": "",
+   "msg": "sentence opener \"filed for chapter…\" used in 17 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "11 docs",
+   "where": "",
+   "msg": "sentence opener \"original illustration in…\" used in 11 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "35 docs",
+   "where": "",
+   "msg": "sentence opener \"not an official…\" used in 35 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "34 docs",
+   "where": "",
+   "msg": "sentence opener \"the weights are…\" used in 34 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "15 docs",
+   "where": "",
+   "msg": "sentence opener \"how much each…\" used in 15 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "10 docs",
+   "where": "",
+   "msg": "sentence opener \"in december …\" used in 10 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "11 docs",
+   "where": "",
+   "msg": "sentence opener \"on may …\" used in 11 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "10 docs",
+   "where": "",
+   "msg": "sentence opener \"the new york…\" used in 10 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "35 docs",
+   "where": "",
+   "msg": "sentence opener \"what they said…\" used in 35 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "18 docs",
+   "where": "",
+   "msg": "sentence opener \"  …\" used in 18 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "12 docs",
+   "where": "",
+   "msg": "sentence opener \"the company was…\" used in 12 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "10 docs",
+   "where": "",
+   "msg": "sentence opener \"in october …\" used in 10 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "10 docs",
+   "where": "",
+   "msg": "sentence opener \"on september …\" used in 10 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "27 docs",
+   "where": "",
+   "msg": "sentence opener \"filter by thread…\" used in 27 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "17 docs",
+   "where": "",
+   "msg": "sentence opener \"click one to…\" used in 17 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "16 docs",
+   "where": "",
+   "msg": "sentence opener \"it would also…\" used in 16 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "29 docs",
+   "where": "",
+   "msg": "sentence opener \"original illustration of…\" used in 29 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "11 docs",
+   "where": "",
+   "msg": "sentence opener \"the associated press…\" used in 11 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "12 docs",
+   "where": "",
+   "msg": "sentence opener \"more than …\" used in 12 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "11 docs",
+   "where": "",
+   "msg": "sentence opener \"the  figure…\" used in 11 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "17 docs",
+   "where": "",
+   "msg": "sentence opener \"in march …\" used in 17 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "19 docs",
+   "where": "",
+   "msg": "sentence opener \"in  the…\" used in 19 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "14 docs",
+   "where": "",
+   "msg": "sentence opener \"on january …\" used in 14 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "13 docs",
+   "where": "",
+   "msg": "sentence opener \"in january …\" used in 13 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "16 docs",
+   "where": "",
+   "msg": "sentence opener \"we could not…\" used in 16 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "15 docs",
+   "where": "",
+   "msg": "sentence opener \"the company said…\" used in 15 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "15 docs",
+   "where": "",
+   "msg": "sentence opener \"we found no…\" used in 15 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "11 docs",
+   "where": "",
+   "msg": "sentence opener \"in february …\" used in 11 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "13 docs",
+   "where": "",
+   "msg": "sentence opener \"a later career…\" used in 13 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "13 docs",
+   "where": "",
+   "msg": "sentence opener \"in  it…\" used in 13 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "11 docs",
+   "where": "",
+   "msg": "sentence opener \"we did not…\" used in 11 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "10 docs",
+   "where": "",
+   "msg": "sentence opener \"it would not…\" used in 10 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "cross-doc-opener",
+   "doc": "11 docs",
+   "where": "",
+   "msg": "sentence opener \"on february …\" used in 11 documents [R2d]",
+   "excerpt": ""
+  },
+  {
+   "sev": "info",
+   "rule": "duplicate-sentence",
+   "doc": "webvan",
+   "where": "numbers.json blocks[2].source",
+   "msg": "sentence repeated verbatim (first at economics.json blocks[0].source) [R1]",
+   "excerpt": "Quarterly 10-Qs and 10-K405/10-K. Q4 1999 and Q4 2000 are derived by subtracting nine-month results from full-year total"
+  },
+  {
+   "sev": "info",
+   "rule": "hedge",
+   "doc": "circuit-city",
+   "where": "press.json clips[0].q",
+   "msg": "hedge; commit or cite (inside a quotation: leave it) [H1]",
+   "excerpt": "Firing 3,400 of arguably the most successful salespeople in the company co"
+  },
+  {
+   "sev": "info",
+   "rule": "hedge",
+   "doc": "circuit-city",
+   "where": "whatif.json forks[0].actual",
+   "msg": "hedge; commit or cite (inside a quotation: leave it) [H1]",
+   "excerpt": " Sanford C. Bernstein wrote that day that firing “arguably the most successful salespeople in the company co"
+  },
+  {
+   "sev": "info",
+   "rule": "hedge",
+   "doc": "steak-and-ale",
+   "where": "press.json clips[3].q",
+   "msg": "hedge; commit or cite (inside a quotation: leave it) [H1]",
+   "excerpt": "To some extent, they've become victims of their own success—a ma"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "aol",
+   "where": "press.json clips[5].q",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "e way in which we communicate with each other has profoundly changed."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "chi-chis",
+   "where": "press.json clips[1].q",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "It took Mexican food and really put in full-service quality with fast-food pricin"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "chi-chis",
+   "where": "story.json chapters[0].body",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "er summed up the offer: “It took Mexican food and really put in full-service quality with fast-food pricin"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "circuit-city",
+   "where": "press.json clips[5].q",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "We are extremely disappointed by this outcome."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "crystal-pepsi",
+   "where": "whatif.json forks[2].actual",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "who compared it with regular Pepsi wrote that it “really does taste like normal Pepsi. Well, kind of.”"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "dreamcast",
+   "where": "cause.json causes[2].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": " the result. Stolar also describes retailers who “really hated Sega” after the Saturn."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "filmstruck",
+   "where": "story.json chapters[1].pull.text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "At the same time, the website is genuinely terrible. It's clumsy, frustrating, unintuitive —"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "filmstruck",
+   "where": "story.json chapters[2].pull.text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "We never really thought about raising the price. We never went do"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "filmstruck",
+   "where": "website.json snips[4].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "“FilmStruck was truly a labor of love, and in a world with an abundance"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "filmstruck",
+   "where": "whatif.json forks[0].actual",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "7, 2020. Deadline wrote in November 2018 that it “really doesn't make sense to shutter the service so abru"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "kiddie-city",
+   "where": "press.json clips[6].q",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "Toy manufacturers have been extremely patient with the two companies, and they've just "
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "kiddie-city",
+   "where": "story.json chapters[3].body",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "he was re-evaluating the bid in view of Lionel's “extremely poor” operating results. In January 1990 Lionel p"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "kiddie-city",
+   "where": "timeline.json events[21].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "ie says it is re-evaluating its offer because of “extremely poor” operating results."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "kozmo",
+   "where": "website.json snips[1].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "sh it weren't so, Kozmo has closed operations. We truly enjoyed serving you and sincerely appreciate your"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "new-coke",
+   "where": "people.json people[7].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "he share figures of 1985. He called the reversal “absolutely” the result of the negative reaction."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "new-coke",
+   "where": "press.json clips[1].q",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "We feel that that is an absolutely magnificent figure."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "new-coke",
+   "where": "rivals.json blocks[3].body",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "hing else in the same decision: a market “getting incredibly diversified,” in which Coca-Cola had found a way "
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "new-coke",
+   "where": "story.json chapters[2].pull.text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "Does it (negative response) concern us? Absolutely. We like to please all of the people all of the t"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "orbitz-drink",
+   "where": "company.json findings[2].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "g advertising was “too mass for our products and, quite frankly, not affordable.”"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "orbitz-drink",
+   "where": "cause.json causes[2].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": " advertise its niche brands, calling advertising “quite frankly, not affordable.”"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "ouya",
+   "where": "website.json snips[1].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "ery game on OUYA is free to try, free to love and absolutely free to brag about.”"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "quibi",
+   "where": "afterlife.json items[3].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "neurs do, which is to “keep on going because they literally run out of money.”"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "quibi",
+   "where": "press.json clips[5].q",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "ost entrepreneurs just keep on going because they literally run out of money and we just didn't think that wa"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "redbox",
+   "where": "people.json people[3].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "Spoke for the buyer in 2016: “We are extremely excited for our funds to acquire Outerwall.”"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "sambos",
+   "where": "people.json people[5].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "ling. He said the Chapter 11 petition would “have absolutely no effect on the company's operations.”"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "sharper-image",
+   "where": "cause.json causes[2].text",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "ng new “that people overwhelmingly feel like they really need to own.”"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "sharper-image",
+   "where": "press.json clips[1].q",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "They just haven't really brought anything into the stores that people over"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "sharper-image",
+   "where": "press.json clips[1].q",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": " stores that people overwhelmingly feel like they really need to own."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "toys-r-us",
+   "where": "press.json clips[1].q",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "This is a profoundly sad day for us as well as the millions of kids an"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier",
+   "doc": "zany-brainy",
+   "where": "press.json clips[6].q",
+   "msg": "empty intensifier / sincerity marker (inside a quotation: leave it) [H3]",
+   "excerpt": "That really hurt them. They've been struggling for quite some"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "3do",
+   "where": "press.json clips[1].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "It's wonderful hardware, and it clearly raises the bar."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "aol",
+   "where": "press.json clips[0].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "AOL's marketing clearly got out ahead of its technological capacity."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "aol",
+   "where": "story.json chapters[1].body",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "d stop advertising for February. “AOL's marketing clearly got out ahead of its technological capacity,” sai"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "atari",
+   "where": "cause.json causes[3].text",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "ari “to cut prices on its home computers far more deeply than it could afford.” Texas Instruments, Mattel "
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "burger-chef",
+   "where": "press.json clips[6].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "a lot of room for expansion and look forward to a very exciting future."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "circuit-city",
+   "where": "press.json clips[2].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "This strategy strikes me as being quite cold."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "circuit-city",
+   "where": "rivals.json blocks[2].body",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "ence in 2012: “After I left, my successors became very focused on the bottom line.” The company refused "
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "compusa",
+   "where": "press.json clips[4].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "We believe the value of the CompUSA brand remains very high."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "dreamcast",
+   "where": "marketing.json blocks[0].body",
+   "msg": "mild intensifier (cut if deleting it changes nothing) [H3]",
+   "excerpt": "he answer was a run of 15-second spots that never quite said what the machine was. “It was mysterious,” h"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "filmstruck",
+   "where": "press.json clips[5].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "While FilmStruck has a very loyal fanbase, it remains largely a niche service"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "filmstruck",
+   "where": "story.json chapters[3].pull.text",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "While FilmStruck has a very loyal fanbase, it remains largely a niche service"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "groupon",
+   "where": "press.json clips[3].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "We hate that we offended people, and we're very sorry that we did — it's the last thing we wanted"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "groupon",
+   "where": "story.json chapters[2].body",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "ign. “We hate that we offended people, and we're very sorry that we did — it's the last thing we wanted"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "hollywood-video",
+   "where": "rivals.json blocks[3].text",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "pete with stores operated by Blockbuster, most in very close proximity."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "howard-johnsons",
+   "where": "press.json clips[5].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "It's definitely twilight time for Howard Johnson's."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "kiddie-city",
+   "where": "press.json clips[3].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "ntinue to have a desire to acquire Lionel but are deeply troubled by the decline in the operating performa"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "kozmo",
+   "where": "cause.json causes[0].title",
+   "msg": "mild intensifier (cut if deleting it changes nothing) [H3]",
+   "excerpt": "Free delivery of very small orders"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "new-coke",
+   "where": "press.json clips[3].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "ke is reintroducing its old formula because quite clearly the new formula was universally hated."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "new-coke",
+   "where": "press.json clips[3].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "ear Coke is reintroducing its old formula because quite clearly the new formula was universally hated."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "new-coke",
+   "where": "rivals.json blocks[3].body",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "ke is reintroducing its old formula because quite clearly the new formula was universally hated.” Beverage "
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "new-coke",
+   "where": "rivals.json blocks[3].body",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "ear Coke is reintroducing its old formula because quite clearly the new formula was universally hated.” B"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "new-coke",
+   "where": "story.json chapters[3].body",
+   "msg": "mild intensifier (cut if deleting it changes nothing) [H3]",
+   "excerpt": "acturing the original formula. Coca-Cola said the very first case would go to Mullins."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "ok-soda",
+   "where": "afterlife.json items[2].text",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "Daniel Clowes said in 2010 that the cans were “quite valuable.” The Believer found poster art selling "
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "ok-soda",
+   "where": "context.json blocks[2].text",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "People who are 19 years old are very accustomed to having been manipulated and knowing"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "ok-soda",
+   "where": "story.json chapters[5].body",
+   "msg": "mild intensifier (cut if deleting it changes nothing) [H3]",
+   "excerpt": "rt: people did not want to consume the drink, and very much wanted to consume the brand. We found no rev"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "orbitz-drink",
+   "where": "story.json chapters[2].body",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": " president, Bill O'Leary, said Orbitz was “moving very well” after that time. To handle the added work, "
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "ouya",
+   "where": "whatif.json forks[1].whatif",
+   "msg": "mild intensifier (cut if deleting it changes nothing) [H3]",
+   "excerpt": "ame conversion rates on someone else's box is not obviously a better business."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "pets-com",
+   "where": "press.json clips[5].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "I am deeply saddened by this event and regret that we will no"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "steak-and-ale",
+   "where": "rivals.json blocks[2].text",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "All these bar and grill concepts are very, very similar. They have the same kind of menu, d"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "steak-and-ale",
+   "where": "rivals.json blocks[2].text",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "All these bar and grill concepts are very, very similar. They have the same kind of menu, décor, "
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "toys-r-us",
+   "where": "story.json chapters[4].pull.text",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "I am very disappointed with the result, but we no longer ha"
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "zany-brainy",
+   "where": "press.json clips[6].q",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "hat really hurt them. They've been struggling for quite some time."
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "zima",
+   "where": "people.json people[1].text",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "ted the backlash, and that the brand was still “a very respectable piece of business that is making the "
+  },
+  {
+   "sev": "info",
+   "rule": "intensifier-soft",
+   "doc": "zima",
+   "where": "story.json chapters[2].body",
+   "msg": "mild intensifier (cut if deleting it changes nothing) (inside a quotation: leave it) [H3]",
+   "excerpt": "h a clear, citrus drink in a pretty bottle, “it's definitely not seen as a hardcore, traditionally masculine d"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "3do",
+   "where": "company.json tierWhy",
+   "msg": "52-word sentence",
+   "excerpt": "The 3DO Company sold its assets at a bankruptcy auction on August 14, 2003 and nothing is sold under the 3DO name today, but the name is sti"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "aol",
+   "where": "company.json tierWhy",
+   "msg": "54-word sentence",
+   "excerpt": "AOL still operates as a free web portal and e-mail service, owned since January 2, 2026 by Bending Spoons, but the business that made it, a "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "aol",
+   "where": "afterlife.json items[0].text",
+   "msg": "45-word sentence",
+   "excerpt": "Announcing its purchase in October 2025, Bending Spoons' chief executive said AOL had “around 8 million daily and 30 million monthly active "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "aol",
+   "where": "rivals.json blocks[2].body",
+   "msg": "46-word sentence",
+   "excerpt": "The 2002 annual report shows what happened instead: the Cable segment's revenue grew from $6.0 billion to $7.0 billion while AOL warned that"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "atari",
+   "where": "story.json chapters[0].body",
+   "msg": "53-word sentence",
+   "excerpt": "Atari was founded in 1972 by Nolan Bushnell, “whose first successful game was a coin-operated Ping-Pong game called Pong.” Bushnell had hire"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "blockbuster",
+   "where": "story.json chapters[3].body",
+   "msg": "51-word sentence",
+   "excerpt": "The divestiture ran through an exchange offer in September 2004: Viacom offered its shareholders 5.15 Blockbuster shares for each Viacom sha"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "burger-chef",
+   "where": "whatif.json forks[1].whatif",
+   "msg": "45-word sentence",
+   "excerpt": "An earn-out for the founders, or a separate restaurant management of the kind Pillsbury set up at Burger King when it hired Donald Smith in "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "chi-chis",
+   "where": "story.json chapters[0].body",
+   "msg": "48-word sentence",
+   "excerpt": "A former executive later summed up the offer: “It took Mexican food and really put in full-service quality with fast-food pricing.”\n\nA refer"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "circuit-city",
+   "where": "story.json chapters[1].body",
+   "msg": "54-word sentence",
+   "excerpt": "On June 16, 1999 the venture said it would shut down because it “did not obtain the studio support necessary for long-term success.”\n\nMeanwh"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "coleco",
+   "where": "story.json chapters[1].body",
+   "msg": "52-word sentence",
+   "excerpt": "Coleco introduced ColecoVision in August 1982, “taking advantage of consumers' dissatisfaction with existing systems.” It shipped 560,000 un"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "coleco",
+   "where": "story.json chapters[2].body",
+   "msg": "59-word sentence",
+   "excerpt": "The Adam shipped 60 to 90 days late, and “total shipments of ADAM in 1983 were limited to around 95,000 units,” the company admitted; early "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "coleco",
+   "where": "story.json chapters[3].body",
+   "msg": "57-word sentence",
+   "excerpt": "First-year sales of more than 3.2 million units made it, Coleco said, “the most successful new doll introduction in the industry's history.”"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "compusa",
+   "where": "company.json tierWhy",
+   "msg": "50-word sentence",
+   "excerpt": "The last 103 stores went into closing sales in December 2007, the buyer of the name stopped using it after October 2012, a 2018 revival as a"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "compusa",
+   "where": "cause.json causes[4].text",
+   "msg": "50-word sentence",
+   "excerpt": "Under Grupo Sanborns and its affiliates the chain lost money in 2000 and 2001, bought Good Guys in 2003 and, in the AP's words, “went throug"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "compusa",
+   "where": "story.json chapters[2].body",
+   "msg": "50-word sentence",
+   "excerpt": "The annual report said what had changed: buyers, “having gained familiarity with personal computers, require less assistance in making their"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "compusa",
+   "where": "story.json chapters[4].body",
+   "msg": "49-word sentence",
+   "excerpt": "Its chief executive, Roman Ross, described the closing stores as ones “with low performance or nonstrategic, old store layouts and locations"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "compusa",
+   "where": "story.json chapters[4].body",
+   "msg": "47-word sentence",
+   "excerpt": "Computerworld reported a third-quarter 2007 loss of $45.7M on revenue of about $425M, and, citing The Wall Street Journal, that Slim had tri"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "crystal-pepsi",
+   "where": "marketing.json blocks[1].body",
+   "msg": "71-word sentence",
+   "excerpt": "Eddie Van Halen told Guitar World in 1996 that the band agreed because Pepsi would otherwise have re-recorded the song with studio musicians"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "crystal-pepsi",
+   "where": "numbers.json blocks[2].source",
+   "msg": "47-word sentence",
+   "excerpt": "In 1993 they rose 3%, and “case sales of the Crystal Pepsi brands offset a decline in brands Pepsi and Diet Pepsi.” In 1994 they rose 6% des"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "crystal-pepsi",
+   "where": "numbers.json blocks[5].rows[1][1]",
+   "msg": "46-word sentence",
+   "excerpt": "Case sales “offset a decline in brands Pepsi and Diet Pepsi.” The products “particularly aided first quarter results, but did not significan"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "crystal-pepsi",
+   "where": "rivals.json blocks[2].body",
+   "msg": "64-word sentence",
+   "excerpt": "As quoted by Mental Floss, he said Tab Clear was meant to fail and to take Crystal Pepsi with it by making shoppers think a clear cola was a"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "crystal-pepsi",
+   "where": "story.json chapters[1].body",
+   "msg": "47-word sentence",
+   "excerpt": "The manager of an Albertson's in Dallas said the drink was selling well and would not last: “People are trained to drink a brown cola, and t"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "crystal-pepsi",
+   "where": "story.json chapters[2].body",
+   "msg": "49-word sentence",
+   "excerpt": "The campaign opened on the eve of President Clinton's inauguration and ran in the Super Bowl to Van Halen's “Right Now” under the line “You'"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "crystal-pepsi",
+   "where": "story.json chapters[3].body",
+   "msg": "47-word sentence",
+   "excerpt": "PepsiCo's annual report for the year was plain about it: the Crystal Pepsi products “particularly aided first quarter results, but did not s"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "crystal-pepsi",
+   "where": "story.json chapters[4].body",
+   "msg": "46-word sentence",
+   "excerpt": "In March 1994 The New York Times described the clear colas as “Pepsi's most recent gimmick,” one that “has been deemed a dud and is undergoi"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "dreamcast",
+   "where": "company.json hero.deck",
+   "msg": "45-word sentence",
+   "excerpt": "It also had the best sports games of its generation, and it came from a company that lost money in every year of the console's life, had los"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "fao-schwarz",
+   "where": "company.json tierWhy",
+   "msg": "60-word sentence",
+   "excerpt": "The company that ran the chain, FAO Inc., sold the name out of its second bankruptcy in January 2004, and the last original store, on Fifth "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "fao-schwarz",
+   "where": "cause.json causes[1].text",
+   "msg": "66-word sentence",
+   "excerpt": "The Associated Press said FAO Inc. filed “after struggling to compete with discount chains such as Wal-Mart that sold some of the same toys "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "fao-schwarz",
+   "where": "numbers.json blocks[5].source",
+   "msg": "47-word sentence",
+   "excerpt": "FAO Inc. 10-K and 10-Q. FAO Inc. did not file a report for the quarter to November 1, 2003; it filed a notice of late filing on December 16,"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "fao-schwarz",
+   "where": "story.json chapters[3].body",
+   "msg": "46-word sentence",
+   "excerpt": "On October 20 the company answered a New York Post report by saying it was “not experiencing a cash crunch.” On November 7 it said sales had"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "fao-schwarz",
+   "where": "story.json chapters[4].body",
+   "msg": "47-word sentence",
+   "excerpt": "On May 15, 2015 Toys “R” Us said the flagship would close on July 15, ahead of the end of its lease, because of “the continuing rising costs"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "filmstruck",
+   "where": "cause.json causes[0].text",
+   "msg": "54-word sentence",
+   "excerpt": "Its chief at WarnerMedia told staff the company needed viewers for “hours a day,” and on October 10 it told the SEC it would fund a large st"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "filmstruck",
+   "where": "numbers.json blocks[3].source",
+   "msg": "46-word sentence",
+   "excerpt": "Variety, February 26, 2018: “more than 600 classic Hollywood films each month” and a lineup of “more than 1,800 movies per month, up from ar"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "filmstruck",
+   "where": "story.json chapters[0].body",
+   "msg": "47-word sentence",
+   "excerpt": "On April 26, 2016 Turner, then a division of Time Warner, announced what it called its “first direct-to-consumer product in the U.S.”: a sub"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "filmstruck",
+   "where": "story.json chapters[0].body",
+   "msg": "50-word sentence",
+   "excerpt": "From November 11 FilmStruck would be its exclusive streaming home, and a premium tier called the Criterion Channel, programmed by Criterion'"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "filmstruck",
+   "where": "story.json chapters[1].body",
+   "msg": "49-word sentence",
+   "excerpt": "In July 2017 a Verge writer at the end of his free trial listed a Flash video player, a login button that vanished in narrow windows and a c"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "filmstruck",
+   "where": "story.json chapters[2].body",
+   "msg": "46-word sentence",
+   "excerpt": "Craig Hunegs of Warner Bros. said only that FilmStruck had “many times more.” As late as April 26, 2018 Coleman Breland, the Turner executiv"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "filmstruck",
+   "where": "story.json chapters[3].body",
+   "msg": "47-word sentence",
+   "excerpt": "On October 10 AT&T announced a new streaming service for the fourth quarter of 2019 and told the SEC how it would be paid for: “incremental "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "filmstruck",
+   "where": "story.json chapters[4].body",
+   "msg": "50-word sentence",
+   "excerpt": "Criterion answered the same morning: “Like many of you, we are disappointed by this decision.” Kevin Bahr started a Change.org petition, “Ke"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "groupon",
+   "where": "company.json tierWhy",
+   "msg": "59-word sentence",
+   "excerpt": "Groupon, Inc. is not defunct: it still operates and trades on the Nasdaq as GRPN, but its 2025 revenue of $498.4M is 84% below the $3.19B it"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "groupon",
+   "where": "numbers.json blocks[0].source",
+   "msg": "51-word sentence",
+   "excerpt": "2009 and 2010 from the IPO prospectus. 2011 to 2025 from the company's XBRL financial data on EDGAR, taking the most recently filed value fo"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "groupon",
+   "where": "story.json chapters[0].body",
+   "msg": "47-word sentence",
+   "excerpt": "The company was incorporated in Delaware on January 15, 2008 as ThePoint.com, Inc. In his letter to IPO investors, founder Andrew Mason wrot"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "groupon",
+   "where": "story.json chapters[0].body",
+   "msg": "48-word sentence",
+   "excerpt": "An archived page from November 2008 is headed “The Daily Groupon” and explains the rule: “You only get the discount if enough people join th"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "groupon",
+   "where": "story.json chapters[4].body",
+   "msg": "65-word sentence",
+   "excerpt": "It sold control of its Korean business in 2015, ceased operations in 13 countries that year, and by 2017 had cut its footprint “from 47 coun"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "groupon",
+   "where": "story.json chapters[5].body",
+   "msg": "53-word sentence",
+   "excerpt": "Its chief executive called the year a return “to growth in both billings and revenue for the first time in a decade.” In the first half of 2"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "hhgregg",
+   "where": "company.json hero.deck",
+   "msg": "46-word sentence",
+   "excerpt": "Private-equity owners recapitalized it in 2005 and took it public in 2007 with 79 stores, most of its sales in “premium video products.” It "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "hhgregg",
+   "where": "story.json chapters[0].body",
+   "msg": "46-word sentence",
+   "excerpt": "By the time it prepared to go public it was run by Jerry W. Throgmartin, its chairman and chief executive, and sold “premium video products,"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "kiddie-city",
+   "where": "cause.json causes[0].text",
+   "msg": "51-word sentence",
+   "excerpt": "The Times opened its 1991 bankruptcy report with “more than a decade of unsuccessfully competing with Toys 'R' Us.” Toys “R” Us had four tim"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "kiddie-city",
+   "where": "story.json chapters[0].body",
+   "msg": "45-word sentence",
+   "excerpt": "A Rochester reporter who visited one in 1979 wrote of “aisles piled 10 feet high with toys.”\n\nThe Lionel Corporation, the New York company f"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "kozmo",
+   "where": "company.json tierWhy",
+   "msg": "45-word sentence",
+   "excerpt": "Kozmo.com, Inc. shut down and began liquidating on April 11, 2001, but the name did not stay buried: Yummy Foods, LLC of Los Angeles registe"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "new-coke",
+   "where": "afterlife.json items[0].text",
+   "msg": "56-word sentence",
+   "excerpt": "In May 2019 it put New Coke, “the same recipe from 1985,” into 12-ounce cans sold in a bundle online and dispensed free from pop-up vending "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "new-coke",
+   "where": "marketing.json blocks[1].blocks[0].body",
+   "msg": "50-word sentence",
+   "excerpt": "Its own history describes “the youthful, leading-edge 'Catch the Wave' campaign for the new taste of Coke and the emotional 'Red, White and "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "new-coke",
+   "where": "rivals.json blocks[3].body",
+   "msg": "59-word sentence",
+   "excerpt": "On the day of the reversal a Pepsi spokesman told UPI: “We're not surprised to hear Coke is reintroducing its old formula because quite clea"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "new-coke",
+   "where": "story.json chapters[0].body",
+   "msg": "49-word sentence",
+   "excerpt": "Coca-Cola's own account of 1985 starts with a problem: its share lead over Pepsi, “in its flagship market, with its flagship product, had be"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ok-soda",
+   "where": "cause.json causes[0].text",
+   "msg": "47-word sentence",
+   "excerpt": "The first four people a reporter asked in Minneapolis each compared it to every fountain flavor mixed in one cup, and a 20-year-old said: “T"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ok-soda",
+   "where": "cause.json causes[3].text",
+   "msg": "55-word sentence",
+   "excerpt": "The press coverage was, in The Washington Post's words, “unrelentingly negative,” and a Minneapolis weekly called the campaign “sadly duplic"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ok-soda",
+   "where": "context.json blocks[0].body",
+   "msg": "106-word sentence",
+   "excerpt": "The New York Times described the American carbonated-beverage market in April 1994 as “lackluster,” and read OK as a move against the indepe"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ok-soda",
+   "where": "marketing.json blocks[1].body",
+   "msg": "58-word sentence",
+   "excerpt": "Callers could listen to other callers, leave a message or take the “OK Personality Inventory,” a true-or-false test read in what Time called"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ok-soda",
+   "where": "marketing.json blocks[2].body",
+   "msg": "52-word sentence",
+   "excerpt": "They promised the usual rewards of a chain letter in the brand's deadpan: a recipient in North Dakota who followed the instructions found wi"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ok-soda",
+   "where": "rivals.json blocks[2].body",
+   "msg": "57-word sentence",
+   "excerpt": "Fruitopia “drew on the sunnier side of indie culture,” with kaleidoscopic fruit and flavors called Strawberry Passion Awareness, and “remain"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ok-soda",
+   "where": "story.json chapters[1].body",
+   "msg": "45-word sentence",
+   "excerpt": "Five days later Advertising Age reported that Coca-Cola, “in its rush to develop new products,” would within 30 days bring to market “a new "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ok-soda",
+   "where": "story.json chapters[2].body",
+   "msg": "52-word sentence",
+   "excerpt": "It began with chain letters, mailed in the test markets about two weeks before the television and print ads, telling recipients to show the "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ok-soda",
+   "where": "story.json chapters[3].body",
+   "msg": "60-word sentence",
+   "excerpt": "On NPR a consultant who had worked for both Coke and Pepsi described it as “a little bit like going to a fountain and mixing a little bit of"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ok-soda",
+   "where": "story.json chapters[5].body",
+   "msg": "74-word sentence",
+   "excerpt": "In 1997 Time used OK as its example of how marketers had misread Generation X: “The nine-city campaign fizzled.” The cartoonist Daniel Clowe"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "orbitz-drink",
+   "where": "story.json chapters[0].body",
+   "msg": "60-word sentence",
+   "excerpt": "The company aimed it at 12- to 17-year-olds and talked about a “Jetsons mentality.”\n\nThe Associated Press called it “a lava lamp you can dri"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ouya",
+   "where": "story.json chapters[0].body",
+   "msg": "55-word sentence",
+   "excerpt": "On July 3, 2012 The Verge reported on a startup with no product and an unusual list of names: Julie Uhrman, a games executive from IGN, as f"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ouya",
+   "where": "story.json chapters[1].body",
+   "msg": "46-word sentence",
+   "excerpt": "Engadget measured a box about three inches on a side that drew roughly 4.5 watts in play, and concluded that the version then shipping “shou"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ouya",
+   "where": "story.json chapters[1].body",
+   "msg": "54-word sentence",
+   "excerpt": "On May 9 Ouya announced $15 million of venture funding led by Kleiner Perkins Caufield & Byers, with Mayfield Fund, Nvidia, Shasta Ventures "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "ouya",
+   "where": "story.json chapters[5].body",
+   "msg": "45-word sentence",
+   "excerpt": "The archived home page counted 1,112 games in August 2015 and 1,250 in June 2019; from at least January 2017 its copyright line read “Razer "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "pets-com",
+   "where": "afterlife.json now[2].text",
+   "msg": "67-word sentence",
+   "excerpt": "In 2001 the company collected $125,000 for assigning all its rights in the puppet to Hakan Enterprises, Inc. On Jun 12, 2002 it sued Fun-4-A"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "quibi",
+   "where": "marketing.json blocks[0].body",
+   "msg": "75-word sentence",
+   "excerpt": "Whitman had said a week earlier: “We have to build a brand—no one's heard of Quibi—and we have to build the use case.”\n\nVulture reported tha"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "quibi",
+   "where": "rivals.json blocks[2].body",
+   "msg": "83-word sentence",
+   "excerpt": "The Verge's post-mortem argued that the real competition was never the other subscription services: “Quibi didn't fail because TikTok existe"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "quibi",
+   "where": "whatif.json forks[0].actual",
+   "msg": "51-word sentence",
+   "excerpt": "Whitman said the team had weighed living-room apps and decided the use case was “7 in the morning 'til 7 at night while you were on the go.”"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "redbox",
+   "where": "afterlife.json items[0].text",
+   "msg": "63-word sentence",
+   "excerpt": "HPS Investment Partners, the secured lender, was given leave to foreclose on September 6, 2024 and gave notice of a sale on April 23, 2025 o"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "redbox",
+   "where": "numbers.json blocks[1].source",
+   "msg": "59-word sentence",
+   "excerpt": "2008 is Coinstar's DVD services segment, which included DVDXpress. 2009–2011 are the Redbox segment as shown in the FY2011 10-K; 2012 and 20"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "redbox",
+   "where": "story.json chapters[0].body",
+   "msg": "49-word sentence",
+   "excerpt": "The same fact sheet dates the start to “an initial launch of 12 kiosks in 2002.”\n\nIn June 2004 the trade press reported that McDonald's was "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "redbox",
+   "where": "story.json chapters[4].body",
+   "msg": "56-word sentence",
+   "excerpt": "Net revenue had gone from $858.4M in 2019 to $546.2M in 2020 and $288.5M in 2021; the kiosk count was down to 38,379; debt outstanding was $"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "sambos",
+   "where": "story.json chapters[0].body",
+   "msg": "57-word sentence",
+   "excerpt": "In facts agreed by both sides in a later federal case, Battistone's son suggested it because it “conjured up associations with pancakes and,"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "sharper-image",
+   "where": "story.json chapters[2].body",
+   "msg": "56-word sentence",
+   "excerpt": "In an order dated November 9, 2004, Judge Maxine Chesney in San Francisco granted Consumers Union's special motion to strike the complaint u"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "steak-and-ale",
+   "where": "afterlife.json items[1].text",
+   "msg": "52-word sentence",
+   "excerpt": "In mid-2026 the owners announced a franchised restaurant for Anderson, South Carolina, targeted for the first quarter of 2027, and listed Co"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "steak-and-ale",
+   "where": "numbers.json blocks[3].source",
+   "msg": "65-word sentence",
+   "excerpt": "1989: The New York Times. 2008: 58 Steak and Ale restaurants in late May, per The Dallas Morning News; 255 domestic Bennigan's, of which 159"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "steak-and-ale",
+   "where": "story.json chapters[1].body",
+   "msg": "49-word sentence",
+   "excerpt": "A reference history of Pillsbury says restaurants supplied 53% of its profit by 1984, and that by the mid-1980s Bennigan's success covered i"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "steak-and-ale",
+   "where": "story.json chapters[3].body",
+   "msg": "58-word sentence",
+   "excerpt": "The chain's site also carried a release saying it had won the steakhouse category of a trade magazine's consumer survey, in which its presid"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "steak-and-ale",
+   "where": "story.json chapters[4].body",
+   "msg": "77-word sentence",
+   "excerpt": "The Dallas Morning News reported that the 58 Steak and Ale restaurants operating in late May were “all corporately owned.” An analyst at Mor"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "theglobe",
+   "where": "company.json tierWhy",
+   "msg": "46-word sentence",
+   "excerpt": "The community site closed on August 15, 2001 and the last operating business was sold in 2008, but theglobe.com, inc. still exists as a shel"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "theglobe",
+   "where": "story.json chapters[3].body",
+   "msg": "73-word sentence",
+   "excerpt": "On August 3, 2001 the company said it would close the community at www.theglobe.com and the Webjump hosting service on August 15, and cut 60"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "toys-r-us",
+   "where": "cause.json causes[4].text",
+   "msg": "49-word sentence",
+   "excerpt": "The 10-K warned that vendors might demand advance payment if they doubted the company's credit, “including due to pending debt maturities.” "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "webvan",
+   "where": "company.json tierWhy",
+   "msg": "68-word sentence",
+   "excerpt": "Webvan Group stopped all deliveries on July 9, 2001, filed for Chapter 11 four days later and was sold off at auction; Amazon later owned th"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "zany-brainy",
+   "where": "afterlife.json items[0].text",
+   "msg": "45-word sentence",
+   "excerpt": "It sells a handful of Zany Brainy-branded items, among them a T-shirt, a backpack, a notebook and stickers, and its “Our Story” page speaks "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "zany-brainy",
+   "where": "cause.json causes[3].text",
+   "msg": "51-word sentence",
+   "excerpt": "The company had invested $11.8M in ZanyBrainy.com by April 26, 2000 and booked $11.5M of losses from it in fiscal 2000, and the annual repor"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "zima",
+   "where": "company.json tierWhy",
+   "msg": "46-word sentence",
+   "excerpt": "U.S. production ended on October 10, 2008, but the name never went fully out of use: MillerCoors sold limited runs in the summers of 2017 an"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "zima",
+   "where": "context.json blocks[1].body",
+   "msg": "48-word sentence",
+   "excerpt": "The same report asked whether the idea would work for beer, and mentioned that Coors “is testing a clear malt beverage, called Zima in three"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "zima",
+   "where": "marketing.json blocks[2].body",
+   "msg": "76-word sentence",
+   "excerpt": "It cast the comedian Roger Kabler as a stranger in a black hat who turned up in bars, swapped his S's for Z's and recommended “zomething dif"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "zima",
+   "where": "marketing.json blocks[4].body",
+   "msg": "47-word sentence",
+   "excerpt": "Its FAQ credits Modem Media of Westport, Connecticut, with “all the interactive initiatives via computer-based media.” Westword described th"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "zima",
+   "where": "story.json chapters[2].body",
+   "msg": "48-word sentence",
+   "excerpt": "The account executive at the agency put it plainly: with a clear, citrus drink in a pretty bottle, “it's definitely not seen as a hardcore, "
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "zima",
+   "where": "whatif.json forks[0].whatif",
+   "msg": "46-word sentence",
+   "excerpt": "The agency's own advice at the time was not to chase the drinker who had rejected the product: “Let him have his Sam Adams.” In Japan, where"
+  },
+  {
+   "sev": "info",
+   "rule": "long-sentence",
+   "doc": "site.json",
+   "where": "site.json about.sections[5].body",
+   "msg": "47-word sentence",
+   "excerpt": "They appear here for commentary, criticism, news reporting and historical record, at the size and in the amount needed to make the point: a "
+  },
+  {
+   "sev": "info",
+   "rule": "not-just",
+   "doc": "fao-schwarz",
+   "where": "press.json clips[3].q",
+   "msg": "\"not just X but Y\" construction (inside a quotation: leave it) [S1]",
+   "excerpt": "FAO Schwarz is more than just a toy store."
+  },
+  {
+   "sev": "info",
+   "rule": "not-just",
+   "doc": "fao-schwarz",
+   "where": "story.json chapters[4].pull.text",
+   "msg": "\"not just X but Y\" construction (inside a quotation: leave it) [S1]",
+   "excerpt": "FAO Schwarz is more than just a toy store."
+  },
+  {
+   "sev": "info",
+   "rule": "not-only",
+   "doc": "orbitz-drink",
+   "where": "press.json clips[1].q",
+   "msg": "\"not only X but also Y\" (fine once if both halves carry facts) (inside a quotation: leave it) [S1]",
+   "excerpt": "We want to give them something that's not only delicious but entertaining."
+  },
+  {
+   "sev": "info",
+   "rule": "not-x-but-y",
+   "doc": "3do",
+   "where": "story.json chapters[0].pull.text",
+   "msg": "\"It's not X, it's Y\" construction (inside a quotation: leave it) [S1]",
+   "excerpt": "This is not just kids' stuff, it's not just for nerds and hobbyists."
+  },
+  {
+   "sev": "info",
+   "rule": "not-x-but-y",
+   "doc": "filmstruck",
+   "where": "press.json clips[8].q",
+   "msg": "\"It's not X, it's Y\" construction (inside a quotation: leave it) [S1]",
+   "excerpt": "FilmStruck is not just a niche market, it is a massive archive dedicated to keeping art of the "
+  },
+  {
+   "sev": "info",
+   "rule": "signpost",
+   "doc": "ouya",
+   "where": "press.json clips[5].q",
+   "msg": "signposting / throat-clearing (inside a quotation: leave it) [H5]",
+   "excerpt": "The truth is, openness is hard."
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "24 docs",
+   "where": "",
+   "msg": "shared template text in 24/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"by the spectre brands editors\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "9 docs",
+   "where": "",
+   "msg": "shared template text in 9/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"and what became of it\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "9 docs",
+   "where": "",
+   "msg": "shared template text in 9/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the end of the year\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "8 docs",
+   "where": "",
+   "msg": "shared template text in 8/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"in the united states and\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "7 docs",
+   "where": "",
+   "msg": "shared template text in 7/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"how much each one contributed\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "7 docs",
+   "where": "",
+   "msg": "shared template text in 7/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the company filed for chapter\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "7 docs",
+   "where": "",
+   "msg": "shared template text in 7/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"at the dates a source gives\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "7 docs",
+   "where": "",
+   "msg": "shared template text in 7/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"with a net loss of\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "6 docs",
+   "where": "",
+   "msg": "shared template text in 6/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the symptoms how much each one\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "6 docs",
+   "where": "",
+   "msg": "shared template text in 6/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"only where we found a source\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "6 docs",
+   "where": "",
+   "msg": "shared template text in 6/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"continue as a going concern\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "6 docs",
+   "where": "",
+   "msg": "shared template text in 6/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"going out of business sales\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "6 docs",
+   "where": "",
+   "msg": "shared template text in 6/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"only where a source covers\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "6 docs",
+   "where": "",
+   "msg": "shared template text in 6/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"in the first quarter of\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "6 docs",
+   "where": "",
+   "msg": "shared template text in 6/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the company said it had\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "6 docs",
+   "where": "",
+   "msg": "shared template text in 6/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the new york times and\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "6 docs",
+   "where": "",
+   "msg": "shared template text in 6/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"and a net loss of\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the company was incorporated in\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"ability to continue as a going\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"dates a source gives a count\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"we could not establish who\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"told the los angeles times\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the los angeles times and\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the company said it would\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"roles and dates come from\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"saved it stored as images\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"it would also have meant\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"in the united states in\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"and what became of each\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"and what became of them\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"and dates come from the\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the new york times the\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"are not in our sources\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"was and what became of\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"are not like for like\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"stores at the end of\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"in the first half of\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "5 docs",
+   "where": "",
+   "msg": "shared template text in 5/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"in the u s and\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"base map u s census bureau via us atlas\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"date of the report not evenly spaced\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"a later career is listed only where\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"figures are rounded from thousands\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"as reported by the new york times\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"according to a reference history\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"how much each cause contributed\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"in the southern district of\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"only where a source states\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"finally received is not in\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"listed only where a source\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"where a source covers them\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"we could not confirm that\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"it would still have faced\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"come from the filings and\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"in the united states the\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"in the fourth quarter of\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"from the new york times\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"closed its first day at\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"revenue in the year to\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"store closed is not in\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the cdx api in october\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"is the derived sum of\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"takes the name of its\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"in the year to march\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "4 docs",
+   "where": "",
+   "msg": "shared template text in 4/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"a drawing of a real\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"nudged apart so they don't overlap a thin line joins a moved pin to its true location\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"reasonable readers could weigh them differently\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"and the rivals alongside filter by thread\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the securities and exchange commission\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"chairman president and chief executive\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the wall street journal reported that\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"original illustration not an official\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"company was incorporated in delaware\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"shareholders received nothing in the\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"later careers are listed only where\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"millions not adjusted for inflation\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"date of the count not evenly spaced\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the southern district of new york\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"a later career appears only where\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"the company's ability to continue\""
+  },
+  {
+   "sev": "info",
+   "rule": "site-template",
+   "doc": "3 docs",
+   "where": "",
+   "msg": "shared template text in 3/39 documents (fine if it is a deliberate label; vary it if it reads as prose) [R2a]",
+   "excerpt": "\"starts from a documented decision\""
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "circuit-city",
+   "where": "press.json clips[1].q",
+   "msg": "soft hedge (fine when it carries real uncertainty) (inside a quotation: leave it) [H1]",
+   "excerpt": "Unfortunately, a number of Associates are directly impacted by the actions, "
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "coleco",
+   "where": "story.json chapters[2].body",
+   "msg": "soft hedge (fine when it carries real uncertainty) (inside a quotation: leave it) [H1]",
+   "excerpt": "itted; early machines “caused users to experience various difficulties.” Costs “incurred in anticipation of"
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "dreamcast",
+   "where": "marketing.json blocks[0].body",
+   "msg": "soft hedge (fine when it carries real uncertainty) (inside a quotation: leave it) [H1]",
+   "excerpt": "Moore's brief was to “somewhat apologize for the past” while recalling what peop"
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "kb-toys",
+   "where": "whatif.json forks[1].whatif",
+   "msg": "soft hedge (fine when it carries real uncertainty) [H1]",
+   "excerpt": "of closeouts is limited, so this version of KB is perhaps a few hundred outlet and strip-center stores. Its"
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "ok-soda",
+   "where": "company.json hero.standfirst",
+   "msg": "soft hedge (fine when it carries real uncertainty) [H1]",
+   "excerpt": "to be OK.” For the people who called the hotline, perhaps. For the soda, no."
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "orbitz-drink",
+   "where": "rivals.json blocks[1].body",
+   "msg": "soft hedge (fine when it carries real uncertainty) [H1]",
+   "excerpt": " for 2002 names Hansen Natural Corp., producer of various natural sodas, smoothies, functional drinks, juic"
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "orbitz-drink",
+   "where": "story.json chapters[0].body",
+   "msg": "soft hedge (fine when it carries real uncertainty) [H1]",
+   "excerpt": "legm in a bottle.” A product consultant called it potentially “the pet rock of the beverage industry.” The comp"
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "ouya",
+   "where": "press.json clips[3].q",
+   "msg": "soft hedge (fine when it carries real uncertainty) (inside a quotation: leave it) [H1]",
+   "excerpt": "Retail sales for Ouya […] were relatively light for a new console."
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "ouya",
+   "where": "story.json chapters[2].body",
+   "msg": "soft hedge (fine when it carries real uncertainty) (inside a quotation: leave it) [H1]",
+   "excerpt": ". NPD, which tracks U.S. retail, said sales were “relatively light for a new console,” though its count left o"
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "ouya",
+   "where": "website.json captures[1].text",
+   "msg": "soft hedge (fine when it carries real uncertainty) (inside a quotation: leave it) [H1]",
+   "excerpt": "ph, the price and the free-to-try promise. NPD's “relatively light” assessment came nine days later."
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "pets-com",
+   "where": "numbers.json blocks[1].source",
+   "msg": "soft hedge (fine when it carries real uncertainty) [H1]",
+   "excerpt": "ncludes non-cash charges, so actual cash burn was somewhat lower."
+  },
+  {
+   "sev": "info",
+   "rule": "soft-hedge",
+   "doc": "sharper-image",
+   "where": "story.json chapters[1].body",
+   "msg": "soft hedge (fine when it carries real uncertainty) [H1]",
+   "excerpt": "ingle supplier in Asia made its air purifiers and a number of other products."
+  },
+  {
+   "sev": "info",
+   "rule": "transition",
+   "doc": "ok-soda",
+   "where": "story.json chapters[3].pull.text",
+   "msg": "mechanical transition at sentence start (keep one that states a real cause, condition or contrast) [W1]",
+   "excerpt": "which is our most popular size. Overall, I'd say it's not doing great."
+  }
+ ]
+}

@@ -1,0 +1,1203 @@
+{
+  "file": "spectre-tv-style-check-v3.html",
+  "widths": [
+    {
+      "width": 320,
+      "style": "a",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 538.59375,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 53.25
+        },
+        {
+          "name": "b",
+          "height": 53.25
+        },
+        {
+          "name": "c",
+          "height": 53.25
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 12.796875,
+        "y": 468.3125,
+        "width": 294.40625,
+        "height": 66.28125,
+        "top": 468.3125,
+        "right": 307.203125,
+        "bottom": 534.59375,
+        "left": 12.796875
+      },
+      "controlsBox": {
+        "x": 12.796875,
+        "y": 538.59375,
+        "width": 294.40625,
+        "height": 208.75,
+        "top": 538.59375,
+        "right": 307.203125,
+        "bottom": 747.34375,
+        "left": 12.796875
+      }
+    },
+    {
+      "width": 320,
+      "style": "b",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 538.59375,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 53.25
+        },
+        {
+          "name": "b",
+          "height": 53.25
+        },
+        {
+          "name": "c",
+          "height": 53.25
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 12.796875,
+        "y": 468.3125,
+        "width": 294.40625,
+        "height": 66.28125,
+        "top": 468.3125,
+        "right": 307.203125,
+        "bottom": 534.59375,
+        "left": 12.796875
+      },
+      "controlsBox": {
+        "x": 12.796875,
+        "y": 538.59375,
+        "width": 294.40625,
+        "height": 208.75,
+        "top": 538.59375,
+        "right": 307.203125,
+        "bottom": 747.34375,
+        "left": 12.796875
+      }
+    },
+    {
+      "width": 320,
+      "style": "c",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 538.59375,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 53.25
+        },
+        {
+          "name": "b",
+          "height": 53.25
+        },
+        {
+          "name": "c",
+          "height": 53.25
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 12.796875,
+        "y": 468.3125,
+        "width": 294.40625,
+        "height": 66.28125,
+        "top": 468.3125,
+        "right": 307.203125,
+        "bottom": 534.59375,
+        "left": 12.796875
+      },
+      "controlsBox": {
+        "x": 12.796875,
+        "y": 538.59375,
+        "width": 294.40625,
+        "height": 208.75,
+        "top": 538.59375,
+        "right": 307.203125,
+        "bottom": 747.34375,
+        "left": 12.796875
+      }
+    },
+    {
+      "width": 375,
+      "style": "a",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 557.046875,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 54.390625
+        },
+        {
+          "name": "b",
+          "height": 54.390625
+        },
+        {
+          "name": "c",
+          "height": 54.390625
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 15,
+        "y": 486.765625,
+        "width": 345,
+        "height": 66.28125,
+        "top": 486.765625,
+        "right": 360,
+        "bottom": 553.046875,
+        "left": 15
+      },
+      "controlsBox": {
+        "x": 15,
+        "y": 557.046875,
+        "width": 345,
+        "height": 213.890625,
+        "top": 557.046875,
+        "right": 360,
+        "bottom": 770.9375,
+        "left": 15
+      }
+    },
+    {
+      "width": 375,
+      "style": "b",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 557.046875,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 54.390625
+        },
+        {
+          "name": "b",
+          "height": 54.390625
+        },
+        {
+          "name": "c",
+          "height": 54.390625
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 15,
+        "y": 486.765625,
+        "width": 345,
+        "height": 66.28125,
+        "top": 486.765625,
+        "right": 360,
+        "bottom": 553.046875,
+        "left": 15
+      },
+      "controlsBox": {
+        "x": 15,
+        "y": 557.046875,
+        "width": 345,
+        "height": 213.890625,
+        "top": 557.046875,
+        "right": 360,
+        "bottom": 770.9375,
+        "left": 15
+      }
+    },
+    {
+      "width": 375,
+      "style": "c",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 557.046875,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 54.390625
+        },
+        {
+          "name": "b",
+          "height": 54.390625
+        },
+        {
+          "name": "c",
+          "height": 54.390625
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 15,
+        "y": 486.765625,
+        "width": 345,
+        "height": 66.28125,
+        "top": 486.765625,
+        "right": 360,
+        "bottom": 553.046875,
+        "left": 15
+      },
+      "controlsBox": {
+        "x": 15,
+        "y": 557.046875,
+        "width": 345,
+        "height": 213.890625,
+        "top": 557.046875,
+        "right": 360,
+        "bottom": 770.9375,
+        "left": 15
+      }
+    },
+    {
+      "width": 768,
+      "style": "a",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 646.578125,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 104.71875,
+        "y": 590.578125,
+        "width": 558.5625,
+        "height": 52,
+        "top": 590.578125,
+        "right": 663.28125,
+        "bottom": 642.578125,
+        "left": 104.71875
+      },
+      "controlsBox": {
+        "x": 104.71875,
+        "y": 646.578125,
+        "width": 558.5625,
+        "height": 151.5,
+        "top": 646.578125,
+        "right": 663.28125,
+        "bottom": 798.078125,
+        "left": 104.71875
+      }
+    },
+    {
+      "width": 768,
+      "style": "b",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 646.578125,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 104.71875,
+        "y": 590.578125,
+        "width": 558.5625,
+        "height": 52,
+        "top": 590.578125,
+        "right": 663.28125,
+        "bottom": 642.578125,
+        "left": 104.71875
+      },
+      "controlsBox": {
+        "x": 104.71875,
+        "y": 646.578125,
+        "width": 558.5625,
+        "height": 151.5,
+        "top": 646.578125,
+        "right": 663.28125,
+        "bottom": 798.078125,
+        "left": 104.71875
+      }
+    },
+    {
+      "width": 768,
+      "style": "c",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 646.578125,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 104.71875,
+        "y": 590.578125,
+        "width": 558.5625,
+        "height": 52,
+        "top": 590.578125,
+        "right": 663.28125,
+        "bottom": 642.578125,
+        "left": 104.71875
+      },
+      "controlsBox": {
+        "x": 104.71875,
+        "y": 646.578125,
+        "width": 558.5625,
+        "height": 151.5,
+        "top": 646.578125,
+        "right": 663.28125,
+        "bottom": 798.078125,
+        "left": 104.71875
+      }
+    },
+    {
+      "width": 1024,
+      "style": "a",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 651.625,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 234,
+        "y": 595.625,
+        "width": 556,
+        "height": 52,
+        "top": 595.625,
+        "right": 790,
+        "bottom": 647.625,
+        "left": 234
+      },
+      "controlsBox": {
+        "x": 234,
+        "y": 651.625,
+        "width": 556,
+        "height": 151.5,
+        "top": 651.625,
+        "right": 790,
+        "bottom": 803.125,
+        "left": 234
+      }
+    },
+    {
+      "width": 1024,
+      "style": "b",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 651.625,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 234,
+        "y": 595.625,
+        "width": 556,
+        "height": 52,
+        "top": 595.625,
+        "right": 790,
+        "bottom": 647.625,
+        "left": 234
+      },
+      "controlsBox": {
+        "x": 234,
+        "y": 651.625,
+        "width": 556,
+        "height": 151.5,
+        "top": 651.625,
+        "right": 790,
+        "bottom": 803.125,
+        "left": 234
+      }
+    },
+    {
+      "width": 1024,
+      "style": "c",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 651.625,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 234,
+        "y": 595.625,
+        "width": 556,
+        "height": 52,
+        "top": 595.625,
+        "right": 790,
+        "bottom": 647.625,
+        "left": 234
+      },
+      "controlsBox": {
+        "x": 234,
+        "y": 651.625,
+        "width": 556,
+        "height": 151.5,
+        "top": 651.625,
+        "right": 790,
+        "bottom": 803.125,
+        "left": 234
+      }
+    },
+    {
+      "width": 1280,
+      "style": "a",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 651.625,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 362,
+        "y": 595.625,
+        "width": 556,
+        "height": 52,
+        "top": 595.625,
+        "right": 918,
+        "bottom": 647.625,
+        "left": 362
+      },
+      "controlsBox": {
+        "x": 362,
+        "y": 651.625,
+        "width": 556,
+        "height": 151.5,
+        "top": 651.625,
+        "right": 918,
+        "bottom": 803.125,
+        "left": 362
+      }
+    },
+    {
+      "width": 1280,
+      "style": "b",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 651.625,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 362,
+        "y": 595.625,
+        "width": 556,
+        "height": 52,
+        "top": 595.625,
+        "right": 918,
+        "bottom": 647.625,
+        "left": 362
+      },
+      "controlsBox": {
+        "x": 362,
+        "y": 651.625,
+        "width": 556,
+        "height": 151.5,
+        "top": 651.625,
+        "right": 918,
+        "bottom": 803.125,
+        "left": 362
+      }
+    },
+    {
+      "width": 1280,
+      "style": "c",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 651.625,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 362,
+        "y": 595.625,
+        "width": 556,
+        "height": 52,
+        "top": 595.625,
+        "right": 918,
+        "bottom": 647.625,
+        "left": 362
+      },
+      "controlsBox": {
+        "x": 362,
+        "y": 651.625,
+        "width": 556,
+        "height": 151.5,
+        "top": 651.625,
+        "right": 918,
+        "bottom": 803.125,
+        "left": 362
+      }
+    },
+    {
+      "width": 1440,
+      "style": "a",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 651.625,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 442,
+        "y": 595.625,
+        "width": 556,
+        "height": 52,
+        "top": 595.625,
+        "right": 998,
+        "bottom": 647.625,
+        "left": 442
+      },
+      "controlsBox": {
+        "x": 442,
+        "y": 651.625,
+        "width": 556,
+        "height": 151.5,
+        "top": 651.625,
+        "right": 998,
+        "bottom": 803.125,
+        "left": 442
+      }
+    },
+    {
+      "width": 1440,
+      "style": "b",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 651.625,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 442,
+        "y": 595.625,
+        "width": 556,
+        "height": 52,
+        "top": 595.625,
+        "right": 998,
+        "bottom": 647.625,
+        "left": 442
+      },
+      "controlsBox": {
+        "x": 442,
+        "y": 651.625,
+        "width": 556,
+        "height": 151.5,
+        "top": 651.625,
+        "right": 998,
+        "bottom": 803.125,
+        "left": 442
+      }
+    },
+    {
+      "width": 1440,
+      "style": "c",
+      "checks": "overflow, label clipping,44px controls,loaded font,5 timeline states,stable caption height",
+      "controlsTop": 651.625,
+      "pageOverflow": false,
+      "overflow": [],
+      "clippedLabels": [],
+      "controls": [
+        {
+          "name": "a",
+          "height": 44
+        },
+        {
+          "name": "b",
+          "height": 44
+        },
+        {
+          "name": "c",
+          "height": 44
+        },
+        {
+          "name": "play",
+          "height": 44
+        },
+        {
+          "name": "replay",
+          "height": 44
+        },
+        {
+          "name": "seek",
+          "height": 44
+        },
+        {
+          "name": "Transcript",
+          "height": 44
+        }
+      ],
+      "font": true,
+      "captionBox": {
+        "x": 442,
+        "y": 595.625,
+        "width": 556,
+        "height": 52,
+        "top": 595.625,
+        "right": 998,
+        "bottom": 647.625,
+        "left": 442
+      },
+      "controlsBox": {
+        "x": 442,
+        "y": 651.625,
+        "width": 556,
+        "height": 151.5,
+        "top": 651.625,
+        "right": 998,
+        "bottom": 803.125,
+        "left": 442
+      }
+    }
+  ],
+  "interaction": [
+    "no autoplay;Play/Pause;Replay;style switch pauses;radio arrows;seek End/Home/Arrow;A/K/Space shortcuts;keyboard transcript;12s finite end;visibility handler"
+  ],
+  "reduced": [
+    {
+      "style": "a",
+      "dynamic": "enable pauses;three settled static frames;disable stays paused"
+    },
+    {
+      "style": "b",
+      "dynamic": "enable pauses;three settled static frames;disable stays paused"
+    },
+    {
+      "style": "c",
+      "dynamic": "enable pauses;three settled static frames;disable stays paused"
+    }
+  ],
+  "hf": [
+    {
+      "style": "a",
+      "duration": 12,
+      "paused": true,
+      "size": [
+        960,
+        720
+      ],
+      "seekFrames": 6
+    },
+    {
+      "style": "b",
+      "duration": 12,
+      "paused": true,
+      "size": [
+        960,
+        720
+      ],
+      "seekFrames": 6
+    },
+    {
+      "style": "c",
+      "duration": 12,
+      "paused": true,
+      "size": [
+        960,
+        720
+      ],
+      "seekFrames": 6
+    }
+  ],
+  "limits": [
+    "Chromium desktop engine with emulated viewports; no real mobile device or screen-reader session.",
+    "Visibility pause is tested by a synthetic visibility event; background OS scheduling is not measured."
+  ],
+  "text200": {
+    "width": 320,
+    "pageOverflow": false,
+    "overflow": [],
+    "clippedLabels": [],
+    "controls": [
+      {
+        "name": "a",
+        "height": 90.5
+      },
+      {
+        "name": "b",
+        "height": 90.5
+      },
+      {
+        "name": "c",
+        "height": 90.5
+      },
+      {
+        "name": "play",
+        "height": 44
+      },
+      {
+        "name": "replay",
+        "height": 44
+      },
+      {
+        "name": "seek",
+        "height": 44
+      },
+      {
+        "name": "Transcript",
+        "height": 48
+      }
+    ],
+    "font": true,
+    "captionBox": {
+      "x": 12.796875,
+      "y": 724.890625,
+      "width": 294.40625,
+      "height": 220.9375,
+      "top": 724.890625,
+      "right": 307.203125,
+      "bottom": 945.828125,
+      "left": 12.796875
+    },
+    "controlsBox": {
+      "x": 12.796875,
+      "y": 949.828125,
+      "width": 294.40625,
+      "height": 510.5,
+      "top": 949.828125,
+      "right": 307.203125,
+      "bottom": 1460.328125,
+      "left": 12.796875
+    }
+  },
+  "cls": {
+    "entries": [],
+    "total": 0
+  },
+  "noJS": "static storefront and native expandable transcript available",
+  "errors": [],
+  "externalRequests": [],
+  "ok": true
+}

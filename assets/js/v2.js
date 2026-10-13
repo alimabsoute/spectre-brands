@@ -15,6 +15,7 @@ export function openSources(link) {
 function revealAnchor(hash) {
   const target = document.getElementById(hash.slice(1));
   for (let el = target?.parentElement; el; el = el.parentElement) if (el.tagName === 'DETAILS') el.open = true;
+  target?.closest('[data-hx-tabs]')?.dispatchEvent(new CustomEvent('hx-reveal', { detail: target }));
   if (target) { target.setAttribute('tabindex', '-1'); target.focus({ preventScroll: true }); }
   target?.scrollIntoView({ block: 'center', behavior: 'instant' });
 }
@@ -149,9 +150,23 @@ $$('[data-hx-tabs]').forEach(root => {
     if (i < 0 || j == null) return; e.preventDefault(); select(j, true);
   });
   select(0);
+  root.addEventListener('hx-reveal', e => {
+    const panel = e.detail.closest('[role="tabpanel"]');
+    if (panel) select(panels.indexOf(panel));
+  });
+  root.closest('details')?.addEventListener('toggle', e => { if (e.target.open) place(tabs.find(t => t.getAttribute('aria-selected') === 'true')); });
   addEventListener('resize', () => place(tabs.find(t => t.getAttribute('aria-selected') === 'true')), { passive: true });
   document.fonts?.ready.then(() => place(tabs.find(t => t.getAttribute('aria-selected') === 'true')));
 });
+
+addEventListener('hashchange', () => { if (location.hash.startsWith('#cite-')) revealAnchor(location.hash); });
+if (location.hash.startsWith('#cite-')) requestAnimationFrame(() => revealAnchor(location.hash));
+let printDisclosures = [];
+addEventListener('beforeprint', () => {
+  printDisclosures = $$('.hero-x details').map(el => [el, el.open]);
+  printDisclosures.forEach(([el]) => { el.open = true; });
+});
+addEventListener('afterprint', () => { printDisclosures.forEach(([el, open]) => { el.open = open; }); });
 
 // ---- v2 charts: draw-in on scroll, pointer/tap tooltip with a crosshair, a keyboard scrubber, series toggles ----
 // Every value shown comes from the chart's own marks (data-* attributes written by the build), so the tooltip

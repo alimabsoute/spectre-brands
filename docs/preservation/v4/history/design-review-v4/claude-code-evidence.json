@@ -1,0 +1,183 @@
+[
+  {
+    "pass": "claude-integrated-film",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Glob",
+      "Grep",
+      "Read",
+      "Write"
+    ],
+    "toolCalls": 71,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  },
+  {
+    "pass": "claude-updates-list",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Glob",
+      "Grep",
+      "Read",
+      "Write",
+      "mcp__21st__get_component",
+      "mcp__21st__search"
+    ],
+    "toolCalls": 36,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  },
+  {
+    "pass": "claude-v4-wiring",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Glob",
+      "Grep",
+      "Read"
+    ],
+    "toolCalls": 57,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  },
+  {
+    "pass": "claude-updates-harden",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Glob",
+      "Grep",
+      "Read",
+      "Write"
+    ],
+    "toolCalls": 73,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  },
+  {
+    "pass": "claude-film-finish",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Grep",
+      "Read"
+    ],
+    "toolCalls": 38,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  },
+  {
+    "pass": "claude-v4-polish-escalated",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Glob",
+      "Grep",
+      "Read"
+    ],
+    "toolCalls": 55,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  },
+  {
+    "pass": "claude-audio-schema-fix",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Read"
+    ],
+    "toolCalls": 2,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  },
+  {
+    "pass": "claude-zoom-fix",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Read"
+    ],
+    "toolCalls": 4,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  },
+  {
+    "pass": "claude-nojs-motion-fix",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Read"
+    ],
+    "toolCalls": 2,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  },
+  {
+    "pass": "claude-final-visual-fix",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Read"
+    ],
+    "toolCalls": 13,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  },
+  {
+    "pass": "claude-zoom-container-finish",
+    "models": [
+      "claude-opus-5-5"
+    ],
+    "tools": [
+      "Edit",
+      "Read"
+    ],
+    "toolCalls": 2,
+    "completion": {
+      "subtype": "success",
+      "is_error": false
+    }
+  }
+]

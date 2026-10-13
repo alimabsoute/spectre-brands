@@ -1,0 +1,23 @@
+{
+ "totals": {
+  "docs": 1,
+  "words": 904,
+  "error": 0,
+  "warn": 0,
+  "info": 0
+ },
+ "byRule": {},
+ "docStats": [
+  {
+   "doc": "docs/preservation/v4/CHECKPOINT.md",
+   "words": 904,
+   "sentences": 71,
+   "meanLen": 12.7,
+   "sdLen": 7.1,
+   "cv": 0.56,
+   "dashesPer1k": 0,
+   "colonsPer1k": 2.2
+  }
+ ],
+ "issues": []
+}

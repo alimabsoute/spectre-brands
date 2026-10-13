@@ -1,0 +1,241 @@
+TAP version 13
+# {"event":"updates_unavailable","missing":["UPDATES_ENABLED"]}
+# {"event":"updates_unavailable","missing":["UPDATES_DB"]}
+# {"event":"updates_unavailable","missing":["RESEND_API_KEY"]}
+# {"event":"updates_unavailable","missing":["UPDATES_TOKEN_SECRET"]}
+# {"event":"updates_unavailable","missing":["UPDATES_ORIGIN"]}
+# {"event":"updates_unavailable","missing":["UPDATES_ENABLED","UPDATES_DB","RESEND_API_KEY","UPDATES_TOKEN_SECRET","UPDATES_ORIGIN"]}
+# {"event":"updates_unavailable","missing":["RESEND_API_KEY","UPDATES_TOKEN_SECRET"]}
+# Subtest: markup: three placements share one form with unique ids, labels, consent, honeypot and status
+ok 1 - markup: three placements share one form with unique ids, labels, consent, honeypot and status
+  ---
+  duration_ms: 17.5338
+  type: 'test'
+  ...
+# Subtest: top placement: a closed native disclosure that holds the unchanged form and works without the script
+ok 2 - top placement: a closed native disclosure that holds the unchanged form and works without the script
+  ---
+  duration_ms: 10.0234
+  type: 'test'
+  ...
+# Subtest: top disclosure: Escape with focus inside closes it and returns focus to the summary; only the summary is measured
+ok 3 - top disclosure: Escape with focus inside closes it and returns focus to the summary; only the summary is measured
+  ---
+  duration_ms: 182.0581
+  type: 'test'
+  ...
+# Subtest: timing constants match the client script, and shared text matches the site
+ok 4 - timing constants match the client script, and shared text matches the site
+  ---
+  duration_ms: 11.7013
+  type: 'test'
+  ...
+# Subtest: state pages: only a fresh confirmation is marked for celebration
+ok 5 - state pages: only a fresh confirmation is marked for celebration
+  ---
+  duration_ms: 3.3397
+  type: 'test'
+  ...
+# Subtest: emails: confirmation is transactional, welcome needs a configured postal address
+ok 6 - emails: confirmation is transactional, welcome needs a configured postal address
+  ---
+  duration_ms: 16.7542
+  type: 'test'
+  ...
+# Subtest: default Worker answers 503 until every setting is present
+ok 7 - default Worker answers 503 until every setting is present
+  ---
+  duration_ms: 166.5126
+  type: 'test'
+  ...
+# Subtest: an oversized body is cut off while it streams, with or without a content-length
+ok 8 - an oversized body is cut off while it streams, with or without a content-length
+  ---
+  duration_ms: 157.7873
+  type: 'test'
+  ...
+# Subtest: subscribe validates origin, content type, size, email and consent, and ignores bots quietly
+ok 9 - subscribe validates origin, content type, size, email and consent, and ignores bots quietly
+  ---
+  duration_ms: 58.9806
+  type: 'test'
+  ...
+# Subtest: subscribe stores a pending request only, sends one confirmation, and answers every case the same way
+ok 10 - subscribe stores a pending request only, sends one confirmation, and answers every case the same way
+  ---
+  duration_ms: 117.0622
+  type: 'test'
+  ...
+# Subtest: subscribe limits each client address to five requests an hour without storing the address
+ok 11 - subscribe limits each client address to five requests an hour without storing the address
+  ---
+  duration_ms: 174.9302
+  type: 'test'
+  ...
+# Subtest: a failed confirmation send stays queued, and a retry of the same request sends the same link under the same key
+ok 12 - a failed confirmation send stays queued, and a retry of the same request sends the same link under the same key
+  ---
+  duration_ms: 39.2067
+  type: 'test'
+  ...
+# Subtest: a provider outage answers known and unknown addresses identically
+ok 13 - a provider outage answers known and unknown addresses identically
+  ---
+  duration_ms: 266.8705
+  type: 'test'
+  ...
+# Subtest: a queued confirmation is never re-sent under an expired key, and a stale row gets a new link
+ok 14 - a queued confirmation is never re-sent under an expired key, and a stale row gets a new link
+  ---
+  duration_ms: 383.756
+  type: 'test'
+  ...
+# Subtest: two requests racing for a new address share one link
+ok 15 - two requests racing for a new address share one link
+  ---
+  duration_ms: 50.2677
+  type: 'test'
+  ...
+# Subtest: confirmation: GET changes nothing, POST confirms once, concurrent and repeated clicks send one welcome
+ok 16 - confirmation: GET changes nothing, POST confirms once, concurrent and repeated clicks send one welcome
+  ---
+  duration_ms: 145.9207
+  type: 'test'
+  ...
+# Subtest: a confirmation link expires after 24 hours and adds nobody
+ok 17 - a confirmation link expires after 24 hours and adds nobody
+  ---
+  duration_ms: 89.9978
+  type: 'test'
+  ...
+# Subtest: without a postal address the welcome is held, never sent, and released only after configuration
+ok 18 - without a postal address the welcome is held, never sent, and released only after configuration
+  ---
+  duration_ms: 108.5159
+  type: 'test'
+  ...
+# Subtest: an ambiguous welcome is retried only inside the idempotency window, then waits for provider review
+ok 19 - an ambiguous welcome is retried only inside the idempotency window, then waits for provider review
+  ---
+  duration_ms: 186.0829
+  type: 'test'
+  ...
+# Subtest: concurrent retries send a failed welcome once, and a row abandoned mid-send waits out its lease
+ok 20 - concurrent retries send a failed welcome once, and a row abandoned mid-send waits out its lease
+  ---
+  duration_ms: 121.1699
+  type: 'test'
+  ...
+# Subtest: a failed welcome is recorded, retried by hand, and cancelled if the reader has unsubscribed
+ok 21 - a failed welcome is recorded, retried by hand, and cancelled if the reader has unsubscribed
+  ---
+  duration_ms: 125.9318
+  type: 'test'
+  ...
+# Subtest: unsubscribe: GET reviews, POST is one-click, idempotent and signed; a new opt-in is possible afterwards
+ok 22 - unsubscribe: GET reviews, POST is one-click, idempotent and signed; a new opt-in is possible afterwards
+  ---
+  duration_ms: 388.165
+  type: 'test'
+  ...
+# (node:39540) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: logs never contain an address, an IP address or a token
+ok 23 - logs never contain an address, an IP address or a token
+  ---
+  duration_ms: 310.5274
+  type: 'test'
+  ...
+# Subtest: the Resend adapter sends one message with the sender, idempotency key and a category tag
+ok 24 - the Resend adapter sends one message with the sender, idempotency key and a category tag
+  ---
+  duration_ms: 3.8053
+  type: 'test'
+  ...
+# Subtest: D1 store: schema loads and the statements behave like the memory store
+ok 25 - D1 store: schema loads and the statements behave like the memory store
+  ---
+  duration_ms: 291.0056
+  type: 'test'
+  ...
+# Subtest: client: no copy claims what was stored, and the prompt eligibility helper is pure and inspectable
+ok 26 - client: no copy claims what was stored, and the prompt eligibility helper is pure and inspectable
+  ---
+  duration_ms: 103.7162
+  type: 'test'
+  ...
+# Subtest: citations retain marker positions and isolate paragraphs, rows, captions and list items
+ok 27 - citations retain marker positions and isolate paragraphs, rows, captions and list items
+  ---
+  duration_ms: 35.4223
+  type: 'test'
+  ...
+# Subtest: glossary skips protected text, limits six terms and respects aliases and opt-outs
+ok 28 - glossary skips protected text, limits six terms and respects aliases and opt-outs
+  ---
+  duration_ms: 14.0825
+  type: 'test'
+  ...
+# Subtest: reading time excludes source mappings and duplicate glossary copy
+ok 29 - reading time excludes source mappings and duplicate glossary copy
+  ---
+  duration_ms: 5.8452
+  type: 'test'
+  ...
+# Subtest: stock ranges preserve a missing quarter and stop at the last supplied range
+ok 30 - stock ranges preserve a missing quarter and stop at the last supplied range
+  ---
+  duration_ms: 250.5938
+  type: 'test'
+  ...
+# Subtest: rival lines break on nulls and missing years
+ok 31 - rival lines break on nulls and missing years
+  ---
+  duration_ms: 7.9384
+  type: 'test'
+  ...
+# Subtest: maps have fifty states and DC, distinct zeros and unknowns, and reconciliation warnings
+ok 32 - maps have fifty states and DC, distinct zeros and unknowns, and reconciliation warnings
+  ---
+  duration_ms: 12.996
+  type: 'test'
+  ...
+# Subtest: empty fact files render nothing; cause is computed and checks have calendar due dates
+ok 33 - empty fact files render nothing; cause is computed and checks have calendar due dates
+  ---
+  duration_ms: 52.8516
+  type: 'test'
+  ...
+# Subtest: additive facts reject removals, unsupported repetitions, markers and quotes
+ok 34 - additive facts reject removals, unsupported repetitions, markers and quotes
+  ---
+  duration_ms: 28.0978
+  type: 'test'
+  ...
+# Subtest: ledger references fail for proposed and missing IDs, including site data
+ok 35 - ledger references fail for proposed and missing IDs, including site data
+  ---
+  duration_ms: 102.2632
+  type: 'test'
+  ...
+# Subtest: ledger-only points inherit verified source IDs without using proposed entries
+ok 36 - ledger-only points inherit verified source IDs without using proposed entries
+  ---
+  duration_ms: 5.0459
+  type: 'test'
+  ...
+# Subtest: rechecks collect all dated items with source URLs and sort by due date
+ok 37 - rechecks collect all dated items with source URLs and sort by due date
+  ---
+  duration_ms: 221.3342
+  type: 'test'
+  ...
+1..37
+# tests 37
+# suites 0
+# pass 37
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 4888.3367

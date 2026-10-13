@@ -1,0 +1,26 @@
+[
+  {
+    "duration": 35.7,
+    "currentTime": 35.7,
+    "ended": true,
+    "quality": {
+      "totalVideoFrames": 1071,
+      "droppedVideoFrames": 4
+    },
+    "width": 1280,
+    "captionPositionRange": 0,
+    "cls": 0
+  },
+  {
+    "duration": 35.7,
+    "currentTime": 35.7,
+    "ended": true,
+    "quality": {
+      "totalVideoFrames": 1071,
+      "droppedVideoFrames": 2
+    },
+    "width": 375,
+    "captionPositionRange": 0,
+    "cls": 0.000022086008230452674
+  }
+]

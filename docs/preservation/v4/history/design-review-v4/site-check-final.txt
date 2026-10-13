@@ -1,0 +1,51 @@
+
+> check
+> node scripts/check.mjs
+
+1/3 build
+Built 38 post-mortems, 7 category pages, home and about into dist/
+pets-com [dead/dotcom]: 19 sections, 6 videos (2 inline), 12 charts, 10 infographics
+webvan [dead/dotcom]: 18 sections, 7 videos (3 inline), 8 charts, 8 infographics
+radioshack [ghost/electronics]: 18 sections, 7 videos (3 inline), 9 charts, 8 infographics
+circuit-city [ghost/electronics]: 14 sections, 6 videos (2 inline), 2 charts, 10 infographics
+toys-r-us [ghost/retail]: 14 sections, 8 videos (1 inline), 3 charts, 9 infographics
+kb-toys [ghost/retail]: 14 sections, 6 videos (2 inline), 2 charts, 10 infographics
+kiddie-city [dead/retail]: 14 sections, 6 videos (3 inline), 2 charts, 10 infographics
+groupon [ghost/dotcom]: 14 sections, 6 videos (2 inline), 4 charts, 9 infographics
+aol [ghost/dotcom]: 16 sections, 7 videos (3 inline), 4 charts, 9 infographics
+zima [ghost/consumer]: 16 sections, 6 videos (4 inline), 2 charts, 10 infographics
+crystal-pepsi [ghost/consumer]: 15 sections, 7 videos (5 inline), 2 charts, 8 infographics
+dreamcast [dead/games]: 15 sections, 6 videos (4 inline), 3 charts, 11 infographics
+atari [ghost/games]: 17 sections, 7 videos (3 inline), 5 charts, 11 infographics
+blockbuster [ghost/film]: 15 sections, 7 videos (2 inline), 3 charts, 11 infographics
+quibi [dead/film]: 15 sections, 6 videos (2 inline), 2 charts, 9 infographics
+howard-johnsons [ghost/restaurants]: 14 sections, 6 videos (2 inline), 2 charts, 8 infographics
+burger-chef [dead/restaurants]: 14 sections, 7 videos (2 inline), 2 charts, 8 infographics
+kozmo [ghost/dotcom]: 14 sections, 6 videos (2 inline), 2 charts, 9 infographics
+etoys [dead/dotcom]: 11 sections, 6 videos (4 inline), 1 charts, 6 infographics
+theglobe [ghost/dotcom]: 12 sections, 5 videos (1 inline), 1 charts, 6 infographics
+compusa [dead/electronics]: 14 sections, 8 videos (2 inline), 3 charts, 9 infographics
+hhgregg [ghost/electronics]: 11 sections, 6 videos (2 inline), 1 charts, 7 infographics
+sharper-image [ghost/electronics]: 11 sections, 6 videos (4 inline), 1 charts, 8 infographics
+fao-schwarz [ghost/retail]: 14 sections, 5 videos (2 inline), 1 charts, 10 infographics
+zany-brainy [ghost/retail]: 13 sections, 4 videos (2 inline), 2 charts, 10 infographics
+child-world [dead/retail]: 11 sections, 6 videos (3 inline), 1 charts, 6 infographics
+new-coke [ghost/consumer]: 14 sections, 6 videos (5 inline), 2 charts, 10 infographics
+ok-soda [dead/consumer]: 15 sections, 5 videos (4 inline), 1 charts, 8 infographics
+orbitz-drink [dead/consumer]: 16 sections, 5 videos (2 inline), 1 charts, 7 infographics
+3do [ghost/games]: 14 sections, 6 videos (3 inline), 2 charts, 9 infographics
+ouya [dead/games]: 14 sections, 6 videos (3 inline), 1 charts, 11 infographics
+coleco [ghost/games]: 11 sections, 5 videos (2 inline), 1 charts, 8 infographics
+hollywood-video [ghost/film]: 13 sections, 5 videos (1 inline), 3 charts, 11 infographics
+redbox [dead/film]: 13 sections, 8 videos (2 inline), 1 charts, 9 infographics
+filmstruck [dead/film]: 14 sections, 8 videos (2 inline), 2 charts, 11 infographics
+sambos [dead/restaurants]: 13 sections, 7 videos (3 inline), 2 charts, 9 infographics
+chi-chis [ghost/restaurants]: 13 sections, 7 videos (2 inline), 3 charts, 10 infographics
+steak-and-ale [ghost/restaurants]: 14 sections, 7 videos (3 inline), 1 charts, 10 infographics
+2/3 links
+   69 pages, 53400 internal references, 1916 external URLs
+3/3 browser smoke test (375, 1280)
+   68 pages ├ù 2 widths
+   keyboard, search, reduced motion, video facade, timeline, image viewer and no-JS tests
+
+check passed

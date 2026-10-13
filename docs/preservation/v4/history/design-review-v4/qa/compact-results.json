@@ -1,0 +1,112 @@
+{
+  "cases": [
+    {
+      "key": "blockbuster",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "pets-com",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "orbitz-drink",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "confirmation",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "welcome",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "forms",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "form-error",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "page-pending",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "page-confirmed",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "page-repeat",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "page-expired",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "page-unsubscribed",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "game",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "evidence",
+      "width": 1280,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "key": "blockbuster",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "key": "pets-com",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "key": "orbitz-drink",
+      "width": 320,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "external": [],
+  "movie": {
+    "file": "${LOCAL_DOWNLOADS}/spectre-blockbuster-opening-v4-720p.mp4",
+    "bytes": 7852529,
+    "sha256": "502de8e46f86f2b8d8461967bf6fb7dc7353095d7486a50953ce555a3ae757e8",
+    "playbackEvidence": "film/web-playback.json",
+    "identicalToFullyTestedWebEncode": true
+  }
+}

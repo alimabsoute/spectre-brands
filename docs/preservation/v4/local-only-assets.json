@@ -1,0 +1,432 @@
+{
+  "base": "2f066ae5047159a385584646bd9b975583eff4a0",
+  "scope": "High-quality masters, raw sources, large portable bundles and generated recordings are not in this Git commit. Existing copies remain untouched; manifests are not an off-device backup.",
+  "assets": [
+    {
+      "path": "assets/media/blockbuster-opening-v4-web.mp4",
+      "bytes": 7852529,
+      "sha256": "502de8e46f86f2b8d8461967bf6fb7dc7353095d7486a50953ce555a3ae757e8",
+      "state": "included in Git as the essential runtime encode"
+    },
+    {
+      "path": "assets/media/blockbuster-opening-v4.mp4",
+      "bytes": 30339232,
+      "sha256": "f6f9539b98ff15f08078929e461ef5e3a4b99142ca132c8d69022d9146a4c023",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/blockbuster-1280.webm",
+      "bytes": 627290,
+      "sha256": "46406e979e105a2782f617ab09f2d17fcf3b0f94add13cad4fae44007defa663",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/blockbuster-375.webm",
+      "bytes": 279946,
+      "sha256": "121ed8d219aa4f26718a276b0e0003b0acac4e4859004f16c25de17ada287065",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/orbitz-drink-1280.webm",
+      "bytes": 561798,
+      "sha256": "19b71d32456aa65ba85a6160e982839482bc4d7b20b7e75a255f81b0d195dcd1",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/orbitz-drink-375.webm",
+      "bytes": 307039,
+      "sha256": "7afe20f2c17fdf567de5680911ccc2c2d091185b5058b27e3be8ff3ba93a3175",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@08fb3dc7509c405812bbf8a3dae09794.webm",
+      "bytes": 200323,
+      "sha256": "59364c4920b9049da1f8920f8dff255a88324bd4c7267ac052952dd303ce46b6",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@1f5ad22ae1833d7ef3d7d203a3a10555.webm",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@222d64c1b6b770ae2f940df7234aaa63.webm",
+      "bytes": 279946,
+      "sha256": "121ed8d219aa4f26718a276b0e0003b0acac4e4859004f16c25de17ada287065",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@26376e35f9479eeb258ddc48012fd2c2.webm",
+      "bytes": 305728,
+      "sha256": "1eaefa073594b844e69edec667151d897fcc8530aaa512759bb55bf64935a777",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@2935a57e2a3fc54c8c0946ff8b90d6df.webm",
+      "bytes": 280166,
+      "sha256": "7176104853170029795b92e89f00d336080de925d6b6eccbe8e10f1e9cb0f9d9",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@2fd7923203113a818076faeda5f1d9ed.webm",
+      "bytes": 627290,
+      "sha256": "46406e979e105a2782f617ab09f2d17fcf3b0f94add13cad4fae44007defa663",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@6df55112259bd7f16afa5419d2157f30.webm",
+      "bytes": 292689,
+      "sha256": "0241e159c2c9ac6dc24a816f62f8141d96f16543b4ae1abc34633c4eee312a3c",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@6f8d90dde7823c4dbba77d6b51576457.webm",
+      "bytes": 307120,
+      "sha256": "2901e33626b9868092f64854fc943b3b971330441e1504c4b6f3989f55db4151",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@6fd23f84437c4bbda46e45aa6d92d60a.webm",
+      "bytes": 561798,
+      "sha256": "19b71d32456aa65ba85a6160e982839482bc4d7b20b7e75a255f81b0d195dcd1",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@6febeaee7056e1cc417493a841891751.webm",
+      "bytes": 307581,
+      "sha256": "3398e2e14d9f690c21417be8934d6dc9c8c2dfc655488052a8986c7d4f50bfbb",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@71e3d6a82c5f63d01462c1b18d57efa1.webm",
+      "bytes": 250334,
+      "sha256": "77811ffa80c4ec79d5d01d5aed1e73ccd8c03fdac8c2175ce1953069e1223d2f",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@71e88bde39b711b1e9390f44a82f962d.webm",
+      "bytes": 507911,
+      "sha256": "2726d51963ccd255437f968889e6746f91aff5ac0b957f85f0eb64cdda56f1bc",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@75add35965f00e6b780529899681224a.webm",
+      "bytes": 613706,
+      "sha256": "7c37779015cc9efa160371cfa2756c71340c23395994e80e633bee03148f9868",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@836c9e58e7f1d3a7b81e02603cf08bdf.webm",
+      "bytes": 381697,
+      "sha256": "9aeea68b551310b53eb83e89478cbef9fde795d899ca0cc6779ece5e4fd5f7e1",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@8837580baa551db2a71fd1733f6ff5ad.webm",
+      "bytes": 314506,
+      "sha256": "f36a582bc4c313a0e2f1db616c37f7eac8615da8c9564e79fb4e4fb4f98a13dd",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@8b9be51cdfee2a94bf5c56fc8bd574b7.webm",
+      "bytes": 307039,
+      "sha256": "7afe20f2c17fdf567de5680911ccc2c2d091185b5058b27e3be8ff3ba93a3175",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@91d31b9e388086153b65b2f0e10f3f5c.webm",
+      "bytes": 291820,
+      "sha256": "fca91f5c95d0c5944165a0bb310d7166ef3ef66b2b7b57dde4a8c058062595ea",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@a5e42317e45b3a283d9b5cc394198ee2.webm",
+      "bytes": 276100,
+      "sha256": "5c8dcb5528694652f2f5ded1897a15617d0924cca4ac68952e912f582cdc6f69",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@a6c57ea5082c21b1286567678a5cb2f2.webm",
+      "bytes": 591899,
+      "sha256": "85f2e188d510fc048fd182ad232d25485c1c2262acae298e346d29ce66674c5f",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@ae7904790c44928f0e16054bb4c43a92.webm",
+      "bytes": 294805,
+      "sha256": "8822bbf05caa13867beaf3f672c3f73e654a87dd81d62640db272e467957e663",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@b1b42adf4ae5d9348a0ac92027d8f9e1.webm",
+      "bytes": 527849,
+      "sha256": "ba1f8c3f0e43d5c4ca517cdc5debbeb714a3888c72156473c397139f0f386272",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/page@c3c2b2734b602ee6663dff139442ba37.webm",
+      "bytes": 360862,
+      "sha256": "573be3624bb4858188a026b80b48d90efe53b33b6c72672e9ba27d85edcf4384",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/pets-com-1280.webm",
+      "bytes": 613706,
+      "sha256": "7c37779015cc9efa160371cfa2756c71340c23395994e80e633bee03148f9868",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion/pets-com-375.webm",
+      "bytes": 305728,
+      "sha256": "1eaefa073594b844e69edec667151d897fcc8530aaa512759bb55bf64935a777",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/blockbuster-1280.webm",
+      "bytes": 734484,
+      "sha256": "285f44ed46186c0cb554976af67434d00575df0b261efcf6803ddecb76b63c2a",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/blockbuster-375.webm",
+      "bytes": 356330,
+      "sha256": "121a2daf6dfc6f2cc636bd000b98b84841c2e40402492005c080861e137b111d",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/orbitz-drink-1280.webm",
+      "bytes": 587901,
+      "sha256": "cf69a02ce459523f5f4bb4c06c8eb6925b477991b72e3256717a7680d7d60c4e",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/orbitz-drink-375.webm",
+      "bytes": 299824,
+      "sha256": "de7a4a915f01b9579550a25b890a330c8fd53d156d7b8b79dcdf6a57ae5e221d",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@179b3f49a23af649c7848bfe233f6954.webm",
+      "bytes": 299824,
+      "sha256": "de7a4a915f01b9579550a25b890a330c8fd53d156d7b8b79dcdf6a57ae5e221d",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@280b72989cbf788ed8c427f02f0b098c.webm",
+      "bytes": 595079,
+      "sha256": "8f032716d04a538421eb3464876d98e3f33c63e78a12d9d0234f1b6f93ac59aa",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@4f542d14dd0eb7ac0dfeedbe61b4575a.webm",
+      "bytes": 321846,
+      "sha256": "2173943be746a70a42befc82e4d95cee022b5bdbaebb2a97f38229433142922d",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@66a730fe85363ebccce5e2034dcfa506.webm",
+      "bytes": 341078,
+      "sha256": "5b32c9bb80ced483c53342cb55814854171e277268142d9a062ada7de0dd91d2",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@7dcdc384a52d25bad7dc6b26839cf3aa.webm",
+      "bytes": 587901,
+      "sha256": "cf69a02ce459523f5f4bb4c06c8eb6925b477991b72e3256717a7680d7d60c4e",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@9681eda809f6234fa3988b26f2d4d383.webm",
+      "bytes": 376159,
+      "sha256": "618c5d82a6221c35e24ac30a77c29e78f369a72c8d3aab9dff8d512d91dcb305",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@ab927b556c7073b223af9db39246f762.webm",
+      "bytes": 734484,
+      "sha256": "285f44ed46186c0cb554976af67434d00575df0b261efcf6803ddecb76b63c2a",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@ad2d2c8425ab4bfa54477a99937cc141.webm",
+      "bytes": 427725,
+      "sha256": "a10463aafd3679d1f6c377993ccf25f6f282eaedc57cbcc9ad996294cbbbc7c1",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@b52f9420a631b1e9bd279bb543517716.webm",
+      "bytes": 356330,
+      "sha256": "121a2daf6dfc6f2cc636bd000b98b84841c2e40402492005c080861e137b111d",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@cbd369bc3ea2a711df1d8676c235b11b.webm",
+      "bytes": 340887,
+      "sha256": "3027a1c641306d68636a6246e6bf0fd63a494176eed2bd06b5c30c9a25ed31e8",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@fd71ab35ab5fe6d36d89ce639c4c4aad.webm",
+      "bytes": 258744,
+      "sha256": "7f0a41524bb2ee5c0fea1644fc7148b490ebb2b4ec7aae7685c57a92104a981b",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/page@fe92bccfcd7201aa5670640dad277780.webm",
+      "bytes": 373648,
+      "sha256": "664b28bd6003cae323e48745f413961d55933c5ddb5f57977d0701e2b38cc5c5",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/pets-com-1280.webm",
+      "bytes": 595079,
+      "sha256": "8f032716d04a538421eb3464876d98e3f33c63e78a12d9d0234f1b6f93ac59aa",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/motion-before/pets-com-375.webm",
+      "bytes": 340887,
+      "sha256": "3027a1c641306d68636a6246e6bf0fd63a494176eed2bd06b5c30c9a25ed31e8",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/hero-review/spectre-hero-review.html",
+      "bytes": 16553792,
+      "sha256": "98f9bbf218bb67aa653843f202dfe4a8e1a6c31e7e8c5c56eb128135aaf7bfa4",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v3/qa-final/motion/page@031143e828ee7ded3339884d1c7e0e27.webm",
+      "bytes": 1241268,
+      "sha256": "b95aef87945846a83c044c3300f150cb15ab99228d0ddb450deb5180f0df1d41",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v3/qa-final/motion/page@21254478d91965e36429c34911eb1824.webm",
+      "bytes": 1188029,
+      "sha256": "a2f933c2e7f5a78789ffa4161ed70aca1fda5b600cc26daac36213b51ada7234",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v3/qa-final/motion/page@249e0fbf918658d91bfad41abf769918.webm",
+      "bytes": 1374546,
+      "sha256": "66f0a185c3d35308b2ab6b6fdb8a544c2bd8a8571284bc1413ba60c19d18a19a",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v3/qa-final/motion/page@294f00ce3a7e421a4ce98f9f8d767306.webm",
+      "bytes": 1277351,
+      "sha256": "214b3764ccf6cfb649a946bfb51228d2948addf19dd7d98860247a4035841482",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v3/qa-final/motion/page@6c2796e2abf41cef67253959daec256e.webm",
+      "bytes": 1300733,
+      "sha256": "882c6c1b12573340bf80771e1a83bdc0e3a33b18d42205861c51c8dcbdeabc75",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v3/qa-final/motion/page@f920ee58f9725ca0c1a664140456821d.webm",
+      "bytes": 1374534,
+      "sha256": "9fa84c19046375961b947df3808f377a146660ed1280ec7dcb7fde1e12fde3ff",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v3/qa-final/sample-a.webm",
+      "bytes": 1300733,
+      "sha256": "882c6c1b12573340bf80771e1a83bdc0e3a33b18d42205861c51c8dcbdeabc75",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v3/qa-final/sample-b.webm",
+      "bytes": 1188029,
+      "sha256": "a2f933c2e7f5a78789ffa4161ed70aca1fda5b600cc26daac36213b51ada7234",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v3/qa-final/sample-c.webm",
+      "bytes": 1374534,
+      "sha256": "9fa84c19046375961b947df3808f377a146660ed1280ec7dcb7fde1e12fde3ff",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v4/film/assets/01-the-sign.mp4",
+      "bytes": 30512713,
+      "sha256": "8f58b4a89117b56dfcbeb3db396f33d73959cdd2c6792d74da072516c61147d8",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v4/film/assets/02-the-receipt.mp4",
+      "bytes": 42099641,
+      "sha256": "7225d38b618481625f1c5850ef304eeb78596136c8b2f1e86245d495b4e3eb5e",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v4/film/assets/03-9094-lights.mp4",
+      "bytes": 42095177,
+      "sha256": "5c464dee69feabdc23c1297160959cfbb1b60e84627531d0ddb5882503af11e5",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v4/film/assets/04-struggling-not-to-laugh.mp4",
+      "bytes": 45368405,
+      "sha256": "2a05feac4736cb16c59fb9ef1e9a72f0373b2c9b6940335ef0009744bd6d5920",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v4/reserved-game/05-insert-coin.mp4",
+      "bytes": 9668026,
+      "sha256": "bdb1cc0e65a77b2bf9bbe3e4488c2463f71771d81ce5a18cf0d1c83a6d614683",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v4/spectre-blockbuster-opening-v4-720p.mp4",
+      "bytes": 7852529,
+      "sha256": "502de8e46f86f2b8d8461967bf6fb7dc7353095d7486a50953ce555a3ae757e8",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v4/spectre-compact-review-v4.html",
+      "bytes": 11316339,
+      "sha256": "ec05c8814cd905b68c49a5e9dd4ae20032760ef75e35d8a7d63ba6ffa4b82882",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "docs/design-review-v4/spectre-integrated-review-v4.html",
+      "bytes": 34677079,
+      "sha256": "76b0445660391d04bc7385ce28774fc971911172eeb66d72b3c65ba3d22246ca",
+      "state": "local-only; no new remote artifact backup in this task"
+    },
+    {
+      "path": "${SOURCE_FILMS_ROOT}/01-the-sign.mp4",
+      "bytes": 30512713,
+      "sha256": "8f58b4a89117b56dfcbeb3db396f33d73959cdd2c6792d74da072516c61147d8",
+      "state": "original source; local-only status in this checkpoint"
+    },
+    {
+      "path": "${SOURCE_FILMS_ROOT}/02-the-receipt.mp4",
+      "bytes": 42099641,
+      "sha256": "7225d38b618481625f1c5850ef304eeb78596136c8b2f1e86245d495b4e3eb5e",
+      "state": "original source; local-only status in this checkpoint"
+    },
+    {
+      "path": "${SOURCE_FILMS_ROOT}/03-9094-lights.mp4",
+      "bytes": 42095177,
+      "sha256": "5c464dee69feabdc23c1297160959cfbb1b60e84627531d0ddb5882503af11e5",
+      "state": "original source; local-only status in this checkpoint"
+    },
+    {
+      "path": "${SOURCE_FILMS_ROOT}/04-struggling-not-to-laugh.mp4",
+      "bytes": 45368405,
+      "sha256": "2a05feac4736cb16c59fb9ef1e9a72f0373b2c9b6940335ef0009744bd6d5920",
+      "state": "original source; local-only status in this checkpoint"
+    },
+    {
+      "path": "${SOURCE_FILMS_ROOT}/05-insert-coin.mp4",
+      "bytes": 9668026,
+      "sha256": "bdb1cc0e65a77b2bf9bbe3e4488c2463f71771d81ce5a18cf0d1c83a6d614683",
+      "state": "original source; local-only status in this checkpoint"
+    }
+  ]
+}

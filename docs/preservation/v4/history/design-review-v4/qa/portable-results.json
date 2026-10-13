@@ -1,0 +1,98 @@
+{
+  "cases": [
+    {
+      "key": "blockbuster",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "\"Barlow Condensed\", Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif"
+    },
+    {
+      "key": "pets-com",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "\"Varela Round\", Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif"
+    },
+    {
+      "key": "orbitz-drink",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "\"Bodoni Moda\", \"Source Serif 4\", \"Iowan Old Style\", Georgia, serif"
+    },
+    {
+      "key": "confirmation",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "Georgia, \"Times New Roman\", Times, serif"
+    },
+    {
+      "key": "welcome",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "Georgia, \"Times New Roman\", Times, serif"
+    },
+    {
+      "key": "forms",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "Fraunces, \"Source Serif 4\", \"Iowan Old Style\", Georgia, serif"
+    },
+    {
+      "key": "page-pending",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "Fraunces, \"Source Serif 4\", \"Iowan Old Style\", Georgia, serif"
+    },
+    {
+      "key": "page-confirmed",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "Fraunces, \"Source Serif 4\", \"Iowan Old Style\", Georgia, serif"
+    },
+    {
+      "key": "page-repeat",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "Fraunces, \"Source Serif 4\", \"Iowan Old Style\", Georgia, serif"
+    },
+    {
+      "key": "game",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "system-ui"
+    },
+    {
+      "key": "evidence",
+      "width": 1280,
+      "overflow": false,
+      "images": [],
+      "font": "system-ui"
+    },
+    {
+      "key": "blockbuster",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "key": "pets-com",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "key": "orbitz-drink",
+      "width": 320,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "external": []
+}

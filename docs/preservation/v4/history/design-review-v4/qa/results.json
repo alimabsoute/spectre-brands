@@ -1,0 +1,894 @@
+{
+  "matrix": [
+    {
+      "slug": "blockbuster",
+      "width": 320,
+      "scroll": 320,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 358.375
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 443.3125
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 388.015625
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 591.5
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 472.953125
+        },
+        {
+          "tag": "TABLE",
+          "cls": "cmp",
+          "right": 321.796875
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "right": 321.796875
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "right": 321.796875
+        }
+      ],
+      "topH": 45,
+      "mediaTop": 450.921875
+    },
+    {
+      "slug": "blockbuster",
+      "width": 320,
+      "case": "text200",
+      "scroll": 320,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "INPUT",
+          "cls": "",
+          "right": 532.171875
+        },
+        {
+          "tag": "TABLE",
+          "cls": "cmp",
+          "right": 595.640625
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "right": 595.640625
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "right": 595.640625
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "right": 595.640625
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "right": 352.625
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "right": 463.625
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "right": 595.640625
+        }
+      ],
+      "topH": 89,
+      "mediaTop": -623.1875
+    },
+    {
+      "slug": "blockbuster",
+      "width": 375,
+      "scroll": 375,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 443.3125
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 388.015625
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 591.5
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 472.953125
+        },
+        {
+          "tag": "TABLE",
+          "cls": "cmp",
+          "right": 443.828125
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "right": 443.828125
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "right": 443.828125
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "right": 443.828125
+        }
+      ],
+      "topH": 45,
+      "mediaTop": 426.234375
+    },
+    {
+      "slug": "blockbuster",
+      "width": 768,
+      "scroll": 768,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "SPAN",
+          "cls": "",
+          "right": 790.71875
+        },
+        {
+          "tag": "DIV",
+          "cls": "l-spark",
+          "right": 790.71875
+        },
+        {
+          "tag": "svg",
+          "cls": "[object SVGAnimatedString]",
+          "right": 790.71875
+        },
+        {
+          "tag": "path",
+          "cls": "[object SVGAnimatedString]",
+          "right": 788.4330444335938
+        },
+        {
+          "tag": "path",
+          "cls": "[object SVGAnimatedString]",
+          "right": 788.4330444335938
+        },
+        {
+          "tag": "circle",
+          "cls": "[object SVGAnimatedString]",
+          "right": 789.9873046875
+        },
+        {
+          "tag": "DIV",
+          "cls": "l-spark",
+          "right": 790.71875
+        },
+        {
+          "tag": "svg",
+          "cls": "[object SVGAnimatedString]",
+          "right": 790.71875
+        }
+      ],
+      "topH": 45,
+      "mediaTop": 477.03125
+    },
+    {
+      "slug": "blockbuster",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": false,
+      "offenders": [],
+      "topH": 45,
+      "mediaTop": 211
+    },
+    {
+      "slug": "blockbuster",
+      "width": 1280,
+      "scroll": 1280,
+      "overflow": false,
+      "offenders": [],
+      "topH": 45,
+      "mediaTop": 215
+    },
+    {
+      "slug": "blockbuster",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": false,
+      "offenders": [],
+      "topH": 45,
+      "mediaTop": 215
+    },
+    {
+      "slug": "pets-com",
+      "width": 320,
+      "scroll": 320,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 346.359375
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 457.21875
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 376
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 548.921875
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 486.859375
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 687.765625
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 578.5625
+        },
+        {
+          "tag": "TABLE",
+          "cls": "cmp",
+          "right": 413.875
+        }
+      ],
+      "topH": 45,
+      "mediaTop": 516.921875
+    },
+    {
+      "slug": "pets-com",
+      "width": 320,
+      "case": "text200",
+      "scroll": 320,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "INPUT",
+          "cls": "",
+          "right": 532.171875
+        },
+        {
+          "tag": "TABLE",
+          "cls": "kf rv compact",
+          "right": 393.4375
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "right": 393.4375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "right": 393.4375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "right": 393.4375
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "right": 393.4375
+        },
+        {
+          "tag": "A",
+          "cls": "srcs srcs-compact",
+          "right": 365.015625
+        },
+        {
+          "tag": "SPAN",
+          "cls": "",
+          "right": 365.015625
+        }
+      ],
+      "topH": 89,
+      "mediaTop": -509.96875
+    },
+    {
+      "slug": "pets-com",
+      "width": 375,
+      "scroll": 375,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 457.21875
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 548.921875
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 486.859375
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 687.765625
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 578.5625
+        },
+        {
+          "tag": "TABLE",
+          "cls": "cmp",
+          "right": 413.875
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "right": 413.875
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "right": 413.875
+        }
+      ],
+      "topH": 45,
+      "mediaTop": 492.234375
+    },
+    {
+      "slug": "pets-com",
+      "width": 768,
+      "scroll": 768,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "SPAN",
+          "cls": "",
+          "right": 790.71875
+        },
+        {
+          "tag": "DIV",
+          "cls": "l-spark",
+          "right": 790.71875
+        },
+        {
+          "tag": "svg",
+          "cls": "[object SVGAnimatedString]",
+          "right": 790.71875
+        },
+        {
+          "tag": "path",
+          "cls": "[object SVGAnimatedString]",
+          "right": 788.4330444335938
+        },
+        {
+          "tag": "path",
+          "cls": "[object SVGAnimatedString]",
+          "right": 788.4330444335938
+        },
+        {
+          "tag": "circle",
+          "cls": "[object SVGAnimatedString]",
+          "right": 789.9873046875
+        },
+        {
+          "tag": "DIV",
+          "cls": "l-spark",
+          "right": 790.71875
+        },
+        {
+          "tag": "svg",
+          "cls": "[object SVGAnimatedString]",
+          "right": 790.71875
+        }
+      ],
+      "topH": 45,
+      "mediaTop": 528.859375
+    },
+    {
+      "slug": "pets-com",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": false,
+      "offenders": [],
+      "topH": 45,
+      "mediaTop": 211
+    },
+    {
+      "slug": "pets-com",
+      "width": 1280,
+      "scroll": 1280,
+      "overflow": false,
+      "offenders": [],
+      "topH": 45,
+      "mediaTop": 215
+    },
+    {
+      "slug": "pets-com",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": false,
+      "offenders": [],
+      "topH": 45,
+      "mediaTop": 215
+    },
+    {
+      "slug": "orbitz-drink",
+      "width": 320,
+      "scroll": 320,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 386.375
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 496.359375
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 416.015625
+        },
+        {
+          "tag": "TABLE",
+          "cls": "cmp wide",
+          "right": 724
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "right": 724
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "right": 724
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "right": 408.6875
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "right": 724
+        }
+      ],
+      "topH": 45,
+      "mediaTop": 514.546875
+    },
+    {
+      "slug": "orbitz-drink",
+      "width": 320,
+      "case": "text200",
+      "scroll": 320,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "INPUT",
+          "cls": "",
+          "right": 532.171875
+        },
+        {
+          "tag": "DIV",
+          "cls": "chap-fig",
+          "right": 422.5625
+        },
+        {
+          "tag": "P",
+          "cls": "chap-n",
+          "right": 422.5625
+        },
+        {
+          "tag": "SPAN",
+          "cls": "chap-dots",
+          "right": 422.5625
+        },
+        {
+          "tag": "I",
+          "cls": "",
+          "right": 333
+        },
+        {
+          "tag": "I",
+          "cls": "",
+          "right": 377.78125
+        },
+        {
+          "tag": "I",
+          "cls": "",
+          "right": 422.5625
+        },
+        {
+          "tag": "P",
+          "cls": "big",
+          "right": 422.5625
+        }
+      ],
+      "topH": 89,
+      "mediaTop": -408.28125
+    },
+    {
+      "slug": "orbitz-drink",
+      "width": 375,
+      "scroll": 375,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 386.375
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "chip",
+          "right": 496.359375
+        },
+        {
+          "tag": "I",
+          "cls": "cdot",
+          "right": 416.015625
+        },
+        {
+          "tag": "TABLE",
+          "cls": "cmp wide",
+          "right": 724
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "right": 724
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "right": 724
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "right": 408.6875
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "right": 724
+        }
+      ],
+      "topH": 45,
+      "mediaTop": 514.546875
+    },
+    {
+      "slug": "orbitz-drink",
+      "width": 768,
+      "scroll": 768,
+      "overflow": false,
+      "offenders": [
+        {
+          "tag": "SPAN",
+          "cls": "",
+          "right": 790.71875
+        },
+        {
+          "tag": "DIV",
+          "cls": "l-spark",
+          "right": 790.71875
+        },
+        {
+          "tag": "svg",
+          "cls": "[object SVGAnimatedString]",
+          "right": 790.71875
+        },
+        {
+          "tag": "path",
+          "cls": "[object SVGAnimatedString]",
+          "right": 788.4330444335938
+        },
+        {
+          "tag": "path",
+          "cls": "[object SVGAnimatedString]",
+          "right": 788.4330444335938
+        },
+        {
+          "tag": "circle",
+          "cls": "[object SVGAnimatedString]",
+          "right": 789.9873046875
+        },
+        {
+          "tag": "DIV",
+          "cls": "l-spark",
+          "right": 790.71875
+        },
+        {
+          "tag": "svg",
+          "cls": "[object SVGAnimatedString]",
+          "right": 790.71875
+        }
+      ],
+      "topH": 45,
+      "mediaTop": 528.859375
+    },
+    {
+      "slug": "orbitz-drink",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": false,
+      "offenders": [],
+      "topH": 45,
+      "mediaTop": 211
+    },
+    {
+      "slug": "orbitz-drink",
+      "width": 1280,
+      "scroll": 1280,
+      "overflow": false,
+      "offenders": [],
+      "topH": 45,
+      "mediaTop": 215
+    },
+    {
+      "slug": "orbitz-drink",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": false,
+      "offenders": [],
+      "topH": 45,
+      "mediaTop": 215
+    }
+  ],
+  "interactions": [
+    {
+      "name": "blockbuster dark contrasts",
+      "value": [
+        {
+          "selector": "h1.name",
+          "fg": "rgb(135, 149, 184)",
+          "bg": "rgb(34, 30, 27)",
+          "ratio": 5.530530936527846,
+          "min": 3
+        },
+        {
+          "selector": ".standfirst",
+          "fg": "rgb(243, 235, 220)",
+          "bg": "rgb(34, 30, 27)",
+          "ratio": 13.963770119524458,
+          "min": 3
+        },
+        {
+          "selector": ".upd-top summary",
+          "fg": "rgb(243, 235, 220)",
+          "bg": "rgb(28, 25, 22)",
+          "ratio": 14.772948533137168,
+          "min": 4.5
+        },
+        {
+          "selector": ".film-cap-now",
+          "fg": "rgb(243, 235, 220)",
+          "bg": "rgb(34, 30, 27)",
+          "ratio": 13.963770119524458,
+          "min": 4.5
+        },
+        {
+          "selector": ".film-btn",
+          "fg": "rgb(34, 30, 27)",
+          "bg": "rgb(243, 235, 220)",
+          "ratio": 13.963770119524458,
+          "min": 4.5
+        },
+        {
+          "selector": ".upd-foot-p",
+          "fg": "rgb(221, 212, 196)",
+          "bg": "rgb(28, 25, 22)",
+          "ratio": 11.907310726006676,
+          "min": 4.5
+        }
+      ]
+    },
+    {
+      "name": "reduced motion next cue",
+      "value": "Dallas, October 19, 1985. The first store opens."
+    },
+    {
+      "name": "pets-com dark contrasts",
+      "value": [
+        {
+          "selector": "h1.name",
+          "fg": "rgb(243, 235, 220)",
+          "bg": "rgb(34, 30, 27)",
+          "ratio": 13.963770119524458,
+          "min": 3
+        },
+        {
+          "selector": ".standfirst",
+          "fg": "rgb(243, 235, 220)",
+          "bg": "rgb(34, 30, 27)",
+          "ratio": 13.963770119524458,
+          "min": 3
+        },
+        {
+          "selector": ".upd-top summary",
+          "fg": "rgb(243, 235, 220)",
+          "bg": "rgb(28, 25, 22)",
+          "ratio": 14.772948533137168,
+          "min": 4.5
+        },
+        {
+          "selector": ".upd-foot-p",
+          "fg": "rgb(221, 212, 196)",
+          "bg": "rgb(28, 25, 22)",
+          "ratio": 11.907310726006676,
+          "min": 4.5
+        }
+      ]
+    },
+    {
+      "name": "orbitz-drink dark contrasts",
+      "value": [
+        {
+          "selector": "h1.name",
+          "fg": "rgb(243, 235, 220)",
+          "bg": "rgb(34, 30, 27)",
+          "ratio": 13.963770119524458,
+          "min": 3
+        },
+        {
+          "selector": ".standfirst",
+          "fg": "rgb(243, 235, 220)",
+          "bg": "rgb(34, 30, 27)",
+          "ratio": 13.963770119524458,
+          "min": 3
+        },
+        {
+          "selector": ".upd-top summary",
+          "fg": "rgb(243, 235, 220)",
+          "bg": "rgb(28, 25, 22)",
+          "ratio": 14.772948533137168,
+          "min": 4.5
+        },
+        {
+          "selector": ".upd-foot-p",
+          "fg": "rgb(221, 212, 196)",
+          "bg": "rgb(28, 25, 22)",
+          "ratio": 11.907310726006676,
+          "min": 4.5
+        }
+      ]
+    },
+    {
+      "name": "native no-JS video/disclosures/form",
+      "value": true
+    },
+    {
+      "name": "synthetic pending, validation, retry, no celebration or stored address",
+      "value": true
+    },
+    {
+      "name": "engagement prompt and persisted dismissal",
+      "value": true
+    },
+    {
+      "name": "homepage signup placements",
+      "value": true
+    }
+  ],
+  "film": [],
+  "updates": [
+    {
+      "case": "actual engagement",
+      "state": {
+        "visible": true,
+        "focused": true,
+        "mediaPlaying": false,
+        "typing": false,
+        "overlayOpen": false,
+        "suppressed": true,
+        "activeMs": 45000,
+        "progress": 0.8874349477725136,
+        "placementSafe": true,
+        "shown": true,
+        "eligible": false,
+        "blockers": [
+          "suppressed"
+        ]
+      },
+      "shown": true
+    }
+  ],
+  "emails": [
+    {
+      "name": "confirmation",
+      "width": 320,
+      "scroll": 320,
+      "overflow": false,
+      "offenders": [],
+      "links": [
+        "https://preview.invalid/api/updates/confirm?t=PREVIEW-TOKEN-NOT-A-REAL-LINK",
+        "https://preview.invalid/api/updates/confirm?t=PREVIEW-TOKEN-NOT-A-REAL-LINK"
+      ]
+    },
+    {
+      "name": "confirmation",
+      "width": 600,
+      "scroll": 600,
+      "overflow": false,
+      "offenders": [],
+      "links": [
+        "https://preview.invalid/api/updates/confirm?t=PREVIEW-TOKEN-NOT-A-REAL-LINK",
+        "https://preview.invalid/api/updates/confirm?t=PREVIEW-TOKEN-NOT-A-REAL-LINK"
+      ]
+    },
+    {
+      "name": "welcome",
+      "width": 320,
+      "scroll": 320,
+      "overflow": false,
+      "offenders": [],
+      "links": [
+        "https://preview.invalid/",
+        "https://preview.invalid/api/updates/unsubscribe?t=PREVIEW-TOKEN-NOT-A-REAL-LINK"
+      ]
+    },
+    {
+      "name": "welcome",
+      "width": 600,
+      "scroll": 600,
+      "overflow": false,
+      "offenders": [],
+      "links": [
+        "https://preview.invalid/",
+        "https://preview.invalid/api/updates/unsubscribe?t=PREVIEW-TOKEN-NOT-A-REAL-LINK"
+      ]
+    }
+  ],
+  "errors": [],
+  "harnessCorrection": "Home URL corrected from double slash to slash; prior completed checks retained."
+}

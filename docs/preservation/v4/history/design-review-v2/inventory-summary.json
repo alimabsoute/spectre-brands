@@ -1,0 +1,47 @@
+{
+  "branch": "v2-pilot",
+  "head": "2f066ae5047159a385584646bd9b975583eff4a0",
+  "routes": [
+    "/blockbuster/",
+    "/pets-com/",
+    "/orbitz-drink/"
+  ],
+  "totals": [
+    {
+      "name": "Blockbuster",
+      "drawings": 4,
+      "archiveImages": 9,
+      "imageFallbacks": 9,
+      "videos": 7,
+      "timelineEvents": 48,
+      "pies": [],
+      "unreferenced": [],
+      "allAssetBytesUnchanged": true
+    },
+    {
+      "name": "Pets.com",
+      "drawings": 4,
+      "archiveImages": 5,
+      "imageFallbacks": 5,
+      "videos": 6,
+      "timelineEvents": 44,
+      "pies": [
+        "mixChart",
+        "capChart"
+      ],
+      "unreferenced": [],
+      "allAssetBytesUnchanged": true
+    },
+    {
+      "name": "Orbitz",
+      "drawings": 2,
+      "archiveImages": 7,
+      "imageFallbacks": 7,
+      "videos": 5,
+      "timelineEvents": 35,
+      "pies": [],
+      "unreferenced": [],
+      "allAssetBytesUnchanged": true
+    }
+  ]
+}

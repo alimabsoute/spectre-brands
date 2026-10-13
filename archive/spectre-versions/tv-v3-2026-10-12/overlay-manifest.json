@@ -1,0 +1,46 @@
+{
+  "base": "2f066ae5047159a385584646bd9b975583eff4a0",
+  "variant": "A/B/C source experiments; not the accepted v4 direction",
+  "files": [
+    {
+      "path": "docs/design-review-v3/build-samples.mjs",
+      "bytes": 28523,
+      "sha256": "ed65e20dbfba7f9fc61f75b7b451b6760e3a3cf3f1c1ffa7ea9e794ad9ba3a64"
+    },
+    {
+      "path": "docs/design-review-v3/vendor/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+    },
+    {
+      "path": "docs/design-review-v3/samples/a/index.html",
+      "bytes": 224424,
+      "sha256": "c436cef500580af6d0a4a05eda40d41fd7c00b4191d147854e471e7d6a7d405f"
+    },
+    {
+      "path": "docs/design-review-v3/samples/a/vendor/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+    },
+    {
+      "path": "docs/design-review-v3/samples/b/index.html",
+      "bytes": 224424,
+      "sha256": "ffae7365fa89094716d81c103a4531aa62650d0fb5b3a42c1cf13485d401c343"
+    },
+    {
+      "path": "docs/design-review-v3/samples/b/vendor/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+    },
+    {
+      "path": "docs/design-review-v3/samples/c/index.html",
+      "bytes": 224419,
+      "sha256": "966e922944e87b7b4d3d50d6ac3afed815416fba124b8ec73fb895c5edc223ff"
+    },
+    {
+      "path": "docs/design-review-v3/samples/c/vendor/gsap.min.js",
+      "bytes": 72779,
+      "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+    }
+  ]
+}

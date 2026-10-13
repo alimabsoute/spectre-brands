@@ -1,3 +1,31 @@
 dist/
 node_modules/
 .DS_Store
+
+# Local workflow context and generated delivery bundles are not public source.
+.claude-sample-context/
+.claude-sample-mcp.json
+CLAUDE_*.md
+scripts/design-mcp.py
+scripts/design-references.py
+scripts/portable-form-debug.mjs
+scripts/reference-inspect.mjs
+scripts/zoom-debug.mjs
+docs/hero-review/
+docs/design-review-v2/
+docs/design-review-v3/
+docs/design-review-v4/
+
+# Keep the small runtime encode and stills; masters/source films need separate backup.
+assets/media/*.mp4
+!assets/media/blockbuster-opening-v4-web.mp4
+
+# Credentials and machine state must never enter the public source checkpoint.
+.env
+.env.*
+!.env.example
+.dev.vars
+*.private.*
+*.log
+.vercel/
+.wrangler/

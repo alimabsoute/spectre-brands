@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "blockbuster",
+    "theme": "light",
+    "contrast": [
+      {
+        "selector": "h1.name",
+        "foreground": "rgb(27, 63, 148)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 8.393414607365902,
+        "minimum": 3,
+        "font": "\"Barlow Condensed\", Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 71.68
+      },
+      {
+        "selector": ".standfirst",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 3,
+        "font": "\"Source Sans 3\", Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 26.4
+      },
+      {
+        "selector": ".kicker",
+        "foreground": "rgb(95, 85, 74)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 6.35785474036875,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 13
+      },
+      {
+        "selector": ".hx-tape",
+        "foreground": "rgb(95, 85, 74)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 6.35785474036875,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      },
+      {
+        "selector": ".hx-story-link",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hx-dossier>summary",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hero-x .hx-credit summary",
+        "foreground": "rgb(252, 251, 248)",
+        "background": "rgb(27, 63, 148)",
+        "ratio": 9.286636054405083,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      }
+    ],
+    "textOverflow": {
+      "page": true,
+      "hero": false,
+      "heroWidth": 320,
+      "offenders": [
+        {
+          "tag": "DETAILS",
+          "cls": "hx-dossier",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+\nFirst store opened Oct 19, 1985. Fil"
+        },
+        {
+          "tag": "SUMMARY",
+          "cls": "",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "blockbuster",
+    "theme": "dark",
+    "contrast": [
+      {
+        "selector": "h1.name",
+        "foreground": "rgb(135, 149, 184)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 5.530530936527846,
+        "minimum": 3,
+        "font": "\"Barlow Condensed\", Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 71.68
+      },
+      {
+        "selector": ".standfirst",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 3,
+        "font": "\"Source Sans 3\", Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 26.4
+      },
+      {
+        "selector": ".kicker",
+        "foreground": "rgb(179, 168, 150)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 7.056186897930759,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 13
+      },
+      {
+        "selector": ".hx-tape",
+        "foreground": "rgb(179, 168, 150)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 7.056186897930759,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      },
+      {
+        "selector": ".hx-story-link",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hx-dossier>summary",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hero-x .hx-credit summary",
+        "foreground": "rgb(34, 30, 27)",
+        "background": "rgb(135, 149, 184)",
+        "ratio": 5.530530936527846,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      }
+    ],
+    "textOverflow": {
+      "page": true,
+      "hero": false,
+      "heroWidth": 320,
+      "offenders": [
+        {
+          "tag": "DETAILS",
+          "cls": "hx-dossier",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+\nFirst store opened Oct 19, 1985. Fil"
+        },
+        {
+          "tag": "SUMMARY",
+          "cls": "",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "pets-com",
+    "theme": "light",
+    "contrast": [
+      {
+        "selector": "h1.name",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 3,
+        "font": "\"Varela Round\", Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 58.88
+      },
+      {
+        "selector": ".standfirst",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 3,
+        "font": "\"Source Serif 4\", \"Iowan Old Style\", Georgia, serif",
+        "fontSize": 26.4
+      },
+      {
+        "selector": ".kicker",
+        "foreground": "rgb(95, 85, 74)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 6.35785474036875,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 13
+      },
+      {
+        "selector": ".hx-tape",
+        "foreground": "rgb(95, 85, 74)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 6.35785474036875,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      },
+      {
+        "selector": ".hx-story-link",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hx-dossier>summary",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hero-x .hx-credit summary",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(238, 243, 220)",
+        "ratio": 15.562131188073286,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      }
+    ],
+    "textOverflow": {
+      "page": true,
+      "hero": false,
+      "heroWidth": 320,
+      "offenders": [
+        {
+          "tag": "SPAN",
+          "cls": "url",
+          "width": 50,
+          "scrollWidth": 356,
+          "right": 240.609375,
+          "text": "Anniversary sale, Feb 2000"
+        },
+        {
+          "tag": "DETAILS",
+          "cls": "hx-dossier",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+\nBegan operating Feb 17, 1999. Announ"
+        },
+        {
+          "tag": "SUMMARY",
+          "cls": "",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "pets-com",
+    "theme": "dark",
+    "contrast": [
+      {
+        "selector": "h1.name",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 3,
+        "font": "\"Varela Round\", Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 58.88
+      },
+      {
+        "selector": ".standfirst",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 3,
+        "font": "\"Source Serif 4\", \"Iowan Old Style\", Georgia, serif",
+        "fontSize": 26.4
+      },
+      {
+        "selector": ".kicker",
+        "foreground": "rgb(179, 168, 150)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 7.056186897930759,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 13
+      },
+      {
+        "selector": ".hx-tape",
+        "foreground": "rgb(179, 168, 150)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 7.056186897930759,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      },
+      {
+        "selector": ".hx-story-link",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hx-dossier>summary",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hero-x .hx-credit summary",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(63, 42, 36)",
+        "ratio": 11.305856807269954,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      }
+    ],
+    "textOverflow": {
+      "page": true,
+      "hero": false,
+      "heroWidth": 320,
+      "offenders": [
+        {
+          "tag": "SPAN",
+          "cls": "url",
+          "width": 50,
+          "scrollWidth": 356,
+          "right": 240.609375,
+          "text": "Anniversary sale, Feb 2000"
+        },
+        {
+          "tag": "DETAILS",
+          "cls": "hx-dossier",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+\nBegan operating Feb 17, 1999. Announ"
+        },
+        {
+          "tag": "SUMMARY",
+          "cls": "",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "orbitz-drink",
+    "theme": "light",
+    "contrast": [
+      {
+        "selector": "h1.name",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 3,
+        "font": "\"Bodoni Moda\", \"Source Serif 4\", \"Iowan Old Style\", Georgia, serif",
+        "fontSize": 58.88
+      },
+      {
+        "selector": ".standfirst",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 3,
+        "font": "\"Source Serif 4\", \"Iowan Old Style\", Georgia, serif",
+        "fontSize": 26.4
+      },
+      {
+        "selector": ".kicker",
+        "foreground": "rgb(95, 85, 74)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 6.35785474036875,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 13
+      },
+      {
+        "selector": ".hx-tape",
+        "foreground": "rgb(95, 85, 74)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 6.35785474036875,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      },
+      {
+        "selector": ".hx-story-link",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hx-dossier>summary",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(246, 239, 224)",
+        "ratio": 15.43790071228084,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hero-x .hx-credit summary",
+        "foreground": "rgb(27, 24, 21)",
+        "background": "rgb(253, 238, 245)",
+        "ratio": 15.76054404939571,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      }
+    ],
+    "textOverflow": {
+      "page": true,
+      "hero": false,
+      "heroWidth": 320,
+      "offenders": [
+        {
+          "tag": "DIV",
+          "cls": "hx-media k-photo",
+          "width": 240,
+          "scrollWidth": 400,
+          "right": 280,
+          "text": "SP1996–1999Image creditAn unopened Raspberry Citrus bottle, photographed in"
+        },
+        {
+          "tag": "DIV",
+          "cls": "hx-orbits",
+          "width": 240,
+          "scrollWidth": 400,
+          "right": 280,
+          "text": ""
+        },
+        {
+          "tag": "DETAILS",
+          "cls": "hx-dossier",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+\nLaunched in 1996. Discontinued by 19"
+        },
+        {
+          "tag": "SUMMARY",
+          "cls": "",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "orbitz-drink",
+    "theme": "dark",
+    "contrast": [
+      {
+        "selector": "h1.name",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 3,
+        "font": "\"Bodoni Moda\", \"Source Serif 4\", \"Iowan Old Style\", Georgia, serif",
+        "fontSize": 58.88
+      },
+      {
+        "selector": ".standfirst",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 3,
+        "font": "\"Source Serif 4\", \"Iowan Old Style\", Georgia, serif",
+        "fontSize": 26.4
+      },
+      {
+        "selector": ".kicker",
+        "foreground": "rgb(179, 168, 150)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 7.056186897930759,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 13
+      },
+      {
+        "selector": ".hx-tape",
+        "foreground": "rgb(179, 168, 150)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 7.056186897930759,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      },
+      {
+        "selector": ".hx-story-link",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hx-dossier>summary",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(34, 30, 27)",
+        "ratio": 13.963770119524458,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 15
+      },
+      {
+        "selector": ".hero-x .hx-credit summary",
+        "foreground": "rgb(243, 235, 220)",
+        "background": "rgb(71, 43, 49)",
+        "ratio": 10.69340187035257,
+        "minimum": 4.5,
+        "font": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        "fontSize": 12
+      }
+    ],
+    "textOverflow": {
+      "page": true,
+      "hero": false,
+      "heroWidth": 320,
+      "offenders": [
+        {
+          "tag": "DIV",
+          "cls": "hx-media k-photo",
+          "width": 240,
+          "scrollWidth": 400,
+          "right": 280,
+          "text": "SP1996–1999Image creditAn unopened Raspberry Citrus bottle, photographed in"
+        },
+        {
+          "tag": "DIV",
+          "cls": "hx-orbits",
+          "width": 240,
+          "scrollWidth": 400,
+          "right": 280,
+          "text": ""
+        },
+        {
+          "tag": "DETAILS",
+          "cls": "hx-dossier",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+\nLaunched in 1996. Discontinued by 19"
+        },
+        {
+          "tag": "SUMMARY",
+          "cls": "",
+          "width": 240,
+          "scrollWidth": 254,
+          "right": 280,
+          "text": "Overview, facts & archiveOpen dossier+"
+        }
+      ]
+    }
+  }
+]

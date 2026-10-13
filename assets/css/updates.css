@@ -1,0 +1,184 @@
+/* Free email updates: the top disclosure, the mid-article prompt, the footer invitation and the backend's state pages.
+   Loaded after the site stylesheets. It reads the site tokens where a page defines them (--ink, --card, --line-2,
+   --c-blue, --serif, --sans, --wrap, --gutter) and falls back to the same Front Counter values where it does not
+   (the homepage, the Worker's pages). Nothing here restyles an existing selector. */
+
+/* ---------- tokens ---------- */
+.upd,.upd-page,.upd-confetti{
+  --u-bg:var(--card,#FCFBF8);--u-paper:var(--bg,#F6EFE0);--u-band:var(--pm-band,#EFE6D2);
+  --u-ink:var(--ink,#1B1815);--u-ink2:var(--ink-2,#3E3731);--u-mute:var(--mute,#5F554A);
+  --u-line:var(--line-2,#CDC1A6);--u-hair:var(--line,#E3D9C4);
+  --u-amber:#F2A33C;--u-amber-h:#FFC46B;--u-amber-ink:#1B1815;
+  --u-blue:var(--c-blue,#3B6EA8);--u-err:var(--c-red,#A8321F);
+  --u-display:'Fraunces',var(--serif,'Iowan Old Style',Georgia,serif);
+  --u-ui:'DM Sans',var(--sans,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif);
+  --u-ease:var(--ease,cubic-bezier(.2,.7,.2,1));
+}
+html[data-theme="dark"] .upd,html[data-theme="dark"] .upd-page,html[data-theme="dark"] .upd-confetti{
+  --u-bg:var(--card,#2E2925);--u-paper:var(--bg,#221E1B);--u-band:var(--pm-band,#1C1916);
+  --u-ink:var(--ink,#F3EBDC);--u-ink2:var(--ink-2,#DDD4C4);--u-mute:var(--mute,#B3A896);
+  --u-line:var(--line-2,#52493F);--u-hair:var(--line,#3D3631);--u-blue:var(--c-blue,#86ABE3);--u-err:var(--c-red,#EF8468);
+}
+/* the Worker's pages carry no theme attribute: follow the system there */
+@media (prefers-color-scheme:dark){
+  html:not([data-theme]) body.upd-doc .upd-page{--u-bg:#2E2925;--u-paper:#221E1B;--u-ink:#F3EBDC;--u-ink2:#DDD4C4;--u-mute:#B3A896;--u-line:#52493F;--u-hair:#3D3631;--u-blue:#86ABE3;--u-err:#EF8468}
+  html:not([data-theme]) body.upd-doc{background:#221E1B}
+}
+
+/* ---------- shared pieces ---------- */
+.upd,.upd *,.upd-page,.upd-page *{box-sizing:border-box}
+.upd[hidden],.upd [hidden],.upd-page [hidden]{display:none!important}
+.upd-sr{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+.upd-tape{display:block;width:3.75rem;height:3px;background:var(--u-amber);border-radius:1px}
+.upd-k{margin:0;font:600 .8125rem/1.3 var(--u-ui);letter-spacing:.06em;text-transform:uppercase;color:var(--u-mute)}
+
+.upd-form{margin:0;min-width:0;font-family:var(--u-ui);color:var(--u-ink)}
+.upd-fields{display:grid;gap:.5rem;min-width:0}
+.upd-row{display:flex;align-items:flex-end;gap:.5rem;min-width:0}
+.upd-field{display:grid;gap:.3rem;flex:1 1 12rem;min-width:0}
+.upd-field label{font:600 .8125rem/1.2 var(--u-ui);color:var(--u-ink2)}
+.upd-field input{width:100%;min-width:0;height:2.75rem;padding:0 .8rem;font:400 1rem/1.2 var(--u-ui);color:var(--u-ink);background:var(--u-bg);border:1px solid var(--u-line);border-radius:6px;appearance:none;-webkit-appearance:none;transition:border-color .15s var(--u-ease)}
+.upd-field input:hover{border-color:var(--u-mute)}
+.upd-field input[aria-invalid="true"]{border-color:var(--u-err);box-shadow:inset 0 0 0 1px var(--u-err)}
+.upd-field input[readonly]{color:var(--u-mute)}
+.upd-btn{flex:none;display:inline-flex;align-items:center;justify-content:center;min-height:2.75rem;min-width:2.75rem;padding:0 1.15rem;font:700 .9375rem/1 var(--u-ui);white-space:nowrap;color:var(--u-amber-ink);background:var(--u-amber);border:1px solid var(--u-amber);border-radius:6px;cursor:pointer;text-decoration:none;transition:background-color .15s var(--u-ease),border-color .15s var(--u-ease),transform .15s var(--u-ease)}
+.upd-btn:hover{background:var(--u-amber-h);border-color:var(--u-amber-h)}
+.upd-btn:active{transform:translateY(1px)}
+.upd-btn[disabled]{cursor:progress;background:var(--u-hair);border-color:var(--u-line);color:var(--u-mute)}
+.upd-consent{display:flex;align-items:flex-start;gap:.6rem;min-height:2.75rem;min-width:0}
+.upd-consent input{flex:none;width:1.25rem;height:1.25rem;margin:.75rem 0 0;accent-color:var(--u-ink);cursor:pointer}
+.upd-consent label{flex:1;min-width:0;padding:.7rem 0;font:400 .875rem/1.4 var(--u-ui);color:var(--u-ink2);cursor:pointer}
+.upd-err{margin:0;font:600 .875rem/1.4 var(--u-ui);color:var(--u-err)}
+.upd-err::before{content:"";display:inline-block;width:.5rem;height:.5rem;margin-right:.45rem;background:currentColor;border-radius:50%;vertical-align:.05em}
+.upd-status{margin:0;font:500 .9375rem/1.4 var(--u-ui);color:var(--u-ink)}
+.upd-status:empty{display:none}
+.upd-status[data-kind="error"]{color:var(--u-err);font-weight:600;margin-top:.5rem}
+.upd-status[data-kind="pending"]{display:flex;align-items:center;gap:.6rem;min-height:2.75rem;font:600 1.0625rem/1.3 var(--u-display)}
+.upd-status[data-kind="pending"]::before{content:"";flex:none;width:.6rem;height:.6rem;background:var(--u-blue);border-radius:50%}
+.upd-status:focus{outline:none}
+/* clipped where it stands, so it adds nothing to the page's scroll width */
+.upd-hp{position:absolute!important;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+.upd :focus-visible,.upd-page :focus-visible{outline:2px solid var(--u-ink);outline-offset:2px;border-radius:6px}
+
+/* ---------- top row: a native disclosure, closed until the reader opens it ---------- */
+.upd-top{position:relative;background:var(--u-band);border-bottom:1px solid var(--u-hair);color:var(--u-ink)}
+.upd-top .upd-in{max-width:var(--wrap,1160px);margin:0 auto;padding:.5rem var(--gutter,1.25rem)}
+.upd-top-s{display:block;list-style:none;cursor:pointer;font-family:var(--u-ui);-webkit-tap-highlight-color:transparent}
+.upd-top-s::-webkit-details-marker{display:none}
+.upd-top-s .upd-in{display:flex;align-items:center;gap:.6rem;min-height:2.75rem;padding-block:0}
+.upd-top-s .upd-tape{flex:none;width:1.25rem}
+.upd-top-t{font:600 .875rem/1.3 var(--u-ui);color:var(--u-ink)}
+.upd-top-c{display:none;min-width:0;font:400 .8125rem/1.3 var(--u-ui);color:var(--u-mute)}
+.upd-top-chev{flex:none;margin-left:auto;color:var(--u-mute);transition:transform .15s var(--u-ease)}
+.upd-top-s:hover .upd-top-chev{color:var(--u-ink)}
+.upd-top-d[open] .upd-top-chev{transform:rotate(180deg)}
+.upd-top-s:focus-visible{outline-offset:-3px}
+.upd-top-body{border-top:1px solid var(--u-hair)}
+@media (min-width:900px){.upd-top-c{display:inline}}
+.upd-top .upd-fields{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .9rem}
+.upd-top .upd-row{display:contents}
+.upd-top .upd-field{display:flex;align-items:center;gap:.6rem;flex:1 1 15rem;order:1}
+.upd-top .upd-consent{flex:1 1 20rem;order:2;align-items:center}
+.upd-top .upd-consent input{margin:0}
+.upd-top .upd-consent label{font-size:.8125rem;padding:.4rem 0}
+.upd-top .upd-btn{order:3}
+.upd-top .upd-err{order:4;flex:1 1 100%}
+.upd-top .upd-status[data-kind="pending"]{font-size:1rem}
+/* The summary sticks only once assets/js/updates.js has found room and measured the chapter nav (html.upd-sticky);
+   it sits below that nav and under its menus. The body then opens as a panel beneath the summary and scrolls
+   inside itself, so the sticky row stays one line tall. Elsewhere, and without the script, the row is in the page
+   flow: it scrolls away with the page and an open body pushes the page down. */
+html.upd-sticky .upd-top{position:sticky;top:var(--upd-nav-h,0px);z-index:40}
+html.upd-sticky .upd-top-body{position:absolute;left:0;right:0;top:100%;max-height:calc(100vh - var(--upd-nav-h,0px) - var(--upd-top-h,2.75rem) - .5rem);max-height:calc(100dvh - var(--upd-nav-h,0px) - var(--upd-top-h,2.75rem) - .5rem);overflow:auto;overscroll-behavior:contain;background:var(--u-band);border-bottom:1px solid var(--u-line);box-shadow:var(--shadow-2,0 12px 24px -16px rgba(27,24,21,.3))}
+html.upd-sticky{scroll-padding-top:calc(var(--upd-nav-h,0px) + var(--upd-top-h,0px) + 1rem)}
+@media (max-width:560px){
+  .upd-top .upd-field{flex-basis:100%}
+  .upd-top .upd-consent{flex-basis:100%}
+  .upd-top .upd-btn{flex:1 1 100%}
+}
+
+/* ---------- mid-article prompt ---------- */
+.upd-mid-slot{display:block;min-width:0}
+.upd-mid{position:relative;margin:var(--s-6,2rem) 0;padding:1.1rem 1.1rem 1rem;background:var(--u-bg);border:1px solid var(--u-line);border-radius:8px;color:var(--u-ink)}
+.upd-mid>.upd-tape{position:absolute;left:1.1rem;top:-2px}
+.upd-mid-h{margin:.35rem 2.75rem .75rem 0;font:600 1.1875rem/1.2 var(--u-display);letter-spacing:-.015em;color:var(--u-ink)}
+.upd-x{position:absolute;top:.25rem;right:.25rem;display:inline-flex;align-items:center;justify-content:center;width:2.75rem;height:2.75rem;padding:0;color:var(--u-mute);background:none;border:0;border-radius:6px;cursor:pointer}
+.upd-x:hover{color:var(--u-ink)}
+.upd-mid.upd-in-view{animation:upd-rise .28s var(--u-ease) both}
+@keyframes upd-rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+/* desktop: a corner card over the page margin; it scrolls inside itself before it would run off the viewport */
+@media (min-width:900px){
+  .upd-mid{position:fixed;right:max(1.25rem,env(safe-area-inset-right));bottom:max(1.25rem,env(safe-area-inset-bottom));z-index:70;width:min(23rem,calc(100vw - 2.5rem));max-height:calc(100vh - 2.5rem);max-height:calc(100dvh - 2.5rem);margin:0;overflow:auto;overscroll-behavior:contain;box-shadow:var(--shadow-3,0 2px 4px rgba(27,24,21,.07),0 18px 40px -16px rgba(27,24,21,.26))}
+  .upd-mid .upd-row{flex-wrap:wrap}
+  .upd-mid .upd-btn{flex:1 1 auto}
+}
+@media (max-width:420px){
+  .upd-mid .upd-row{flex-wrap:wrap}
+  .upd-mid .upd-btn{flex:1 1 100%}
+}
+
+/* ---------- footer invitation ---------- */
+.upd-foot{background:var(--u-band);border-top:1px solid var(--u-line);color:var(--u-ink)}
+.upd-foot .upd-in{display:grid;gap:var(--s-6,2rem);max-width:var(--wrap,1160px);margin:0 auto;padding:var(--s-8,4rem) var(--gutter,1.25rem)}
+.upd-foot .upd-k{display:grid;gap:1rem}
+.upd-foot-h{margin:.9rem 0 .9rem;font:600 clamp(1.85rem,1.25rem + 2vw,2.6rem)/1.08 var(--u-display);letter-spacing:-.022em;color:var(--u-ink);text-wrap:balance}
+.upd-foot-p{margin:0;max-width:34rem;font:400 1.0625rem/1.55 var(--serif,'Iowan Old Style',Georgia,serif);color:var(--u-ink2);text-wrap:pretty}
+.upd-foot-body{min-width:0;max-width:30rem}
+.upd-foot .upd-field input{height:3rem}
+.upd-foot .upd-btn{min-height:3rem}
+@media (min-width:900px){
+  .upd-foot .upd-in{grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);align-items:end;gap:var(--s-8,4rem)}
+  .upd-foot-body{justify-self:end;width:100%}
+}
+@media (max-width:420px){
+  .upd-foot .upd-row{flex-wrap:wrap}
+  .upd-foot .upd-btn{flex:1 1 100%}
+  .upd-foot .upd-in{padding-block:var(--s-7,3rem)}
+}
+
+/* ---------- state pages (confirm, confirmed, unsubscribe) ---------- */
+body.upd-doc{margin:0;background:#F6EFE0}
+.upd-page{min-height:100vh;min-height:100dvh;display:flex;flex-direction:column;align-items:center;gap:1.5rem;padding:clamp(1.5rem,6vh,4rem) 1.25rem 3rem;background:var(--u-paper);color:var(--u-ink);font-family:var(--u-ui)}
+.upd-brand{display:inline-flex;align-items:center;gap:.5rem;min-height:2.75rem;color:var(--u-ink);text-decoration:none;font:400 1.25rem/1 var(--u-display);letter-spacing:-.01em}
+.upd-brand .brand-mark{width:1.15rem;height:auto;flex:none}
+.upd-brand b{font-weight:700}
+.upd-card{position:relative;width:100%;max-width:34rem;padding:2.25rem clamp(1.25rem,5vw,2.25rem) 1.75rem;background:var(--u-bg);border:1px solid var(--u-line);border-radius:8px}
+.upd-card>.upd-tape{position:absolute;left:clamp(1.25rem,5vw,2.25rem);top:-2px}
+.upd-page-h{margin:.75rem 0 .9rem;font:600 clamp(1.75rem,1.3rem + 2vw,2.4rem)/1.1 var(--u-display);letter-spacing:-.022em;text-wrap:balance}
+.upd-page-p{margin:0 0 1.25rem;max-width:30rem;font:400 1.0625rem/1.6 var(--serif,'Iowan Old Style',Georgia,serif);color:var(--u-ink2)}
+.upd-page-form{margin:0 0 .5rem}
+.upd-page-form .upd-btn{min-height:3rem;padding:0 1.4rem;font-size:1rem}
+.upd-page-back{margin:0;font:500 .9375rem/1.4 var(--u-ui)}
+.upd-page-back a{display:inline-flex;align-items:center;min-height:2.75rem;color:var(--u-ink);text-underline-offset:.2em}
+/* the confirmed state's static ticket stubs: the whole celebration under reduced motion */
+.upd-stubs{display:flex;gap:.45rem;margin:0 0 1.25rem}
+.upd-stubs i,.upd-confetti i{display:block;width:.7rem;height:1.15rem;border-radius:2px;background:var(--u-amber)}
+.upd-stubs i.b,.upd-confetti i.b{background:var(--u-blue)}
+.upd-stubs i::after,.upd-confetti i::after{content:"";display:block;margin-top:.3rem;border-top:1px dashed rgba(27,24,21,.5)}
+.upd-stubs i:nth-child(2){transform:rotate(8deg)}.upd-stubs i:nth-child(4){transform:rotate(-10deg)}
+
+/* ---------- ticket-stub confetti: one finite burst, under 1.2 seconds, removed by the script ---------- */
+.upd-confetti{position:fixed;inset:0;z-index:90;overflow:hidden;pointer-events:none;contain:strict}
+.upd-confetti i{position:absolute;top:-1.5rem;left:var(--x,50%);opacity:0;will-change:transform,opacity;animation:upd-fall var(--t,.9s) cubic-bezier(.25,.6,.4,1) var(--d,0s) 1 both}
+@keyframes upd-fall{
+  0%{opacity:1;transform:translate3d(0,0,0) rotate(0)}
+  80%{opacity:1}
+  100%{opacity:0;transform:translate3d(var(--dx,0),72vh,0) rotate(var(--r,180deg))}
+}
+
+/* ---------- reduced motion: every state is static ---------- */
+@media (prefers-reduced-motion:reduce){
+  .upd-mid.upd-in-view{animation:none}
+  .upd-btn,.upd-field input,.upd-top-chev{transition:none}
+  .upd-btn:active{transform:none}
+  .upd-confetti{display:none}
+}
+html[data-upd-motion="reduce"] .upd-mid.upd-in-view{animation:none}
+html[data-upd-motion="reduce"] .upd-btn,html[data-upd-motion="reduce"] .upd-field input,html[data-upd-motion="reduce"] .upd-top-chev{transition:none}
+html[data-upd-motion="reduce"] .upd-confetti{display:none}
+
+@media (forced-colors:active){
+  .upd-btn{border-color:ButtonText}
+  .upd-tape,.upd-stubs i{forced-color-adjust:none}
+}
+@media print{.upd,.upd-mid-slot,.upd-confetti{display:none!important}}

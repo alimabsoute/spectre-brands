@@ -1,0 +1,212 @@
+{
+ "name": "Orbitz",
+ "number": "029",
+ "tier": "dead",
+ "tierWhy": "Clearly Canadian stopped making Orbitz by 1999 and said in 2015 that it no longer had the equipment to make it. Old bottles sell to collectors; we found no official revival.[^5]",
+ "category": "consumer",
+ "cause": "fad",
+ "years": "1996 – 1999",
+ "died": 1999,
+ "dates": [
+  {
+   "date": "1996-10-16",
+   "text": "was introduced to America by the Associated Press as “a lava lamp you can drink”"
+  },
+  {
+   "date": "1998-08-31",
+   "text": "was reported down almost 85% in a year"
+  },
+  {
+   "date": "1997-04-14",
+   "text": "announced the Canadian launch of the drink"
+  },
+  {
+   "date": "2008-12-08",
+   "text": "saw its ORBITZ trademark application abandoned"
+  }
+ ],
+ "published": "2026-10-08",
+ "place": "Non-carbonated fruit drink · Vancouver, British Columbia",
+ "title": "Orbitz (1996–1999): the drink with floating gel balls",
+ "description": "Orbitz was a fruit drink with floating gel balls from Clearly Canadian. It was a hit in 1997, its sales fell almost 85% in early 1998 and it was gone by 1999.",
+ "theme": {
+  "accent": "#e2347d",
+  "soft": "#fdeef5"
+ },
+ "card": {
+  "blurb": "Clearly Canadian’s 1996 drink with colored gel balls suspended in fruit-flavored water. It was a sensation with teenagers for a year; first-half sales fell from $9.4M in 1997 to $1.46M in 1998, and the company stopped making it.",
+  "stat": {
+   "value": "−84%",
+   "label": "Orbitz sales, first half of 1998 against first half of 1997 (derived)"
+  },
+  "spark": [
+   9.4,
+   1.46
+  ],
+  "peak": 0,
+  "logo": "img/bottle.avif",
+  "logoYear": "1990s bottle"
+ },
+ "hero": {
+  "treatment": "bottle",
+  "dates": "Launched in 1996. Discontinued by 1999.",
+  "standfirst": "A drink you could chew. Teenagers tried it once.",
+  "deck": "Orbitz was a [non-carbonated fruit drink](/category/consumer/) from Clearly Canadian, the Vancouver maker of flavored sparkling waters, and it had been discontinued by 1999. Its selling point was the small balls of gellan gum that hung, without sinking, in the liquid. Launched in 1996 for 12- to 17-year-olds, it sold a million cases in its first months, by the company’s account, and was a hit in 1997. In the first half of 1998 its sales fell by almost 85%. The company said this was the life cycle it had expected; by 1999 the drink was gone. It rests on [contemporary press and Clearly Canadian’s own SEC filings](#sources).",
+  "art": "art/hero.svg",
+  "artCaption": "Original illustration of a tall bottle with colored balls suspended in it and a ringed planet on the label. Not an official Orbitz asset.",
+  "motion": "flicker",
+  "archive": [
+   {
+    "image": "img/bottle.avif",
+    "caption": "An unopened Raspberry Citrus bottle, photographed in 2024. Photo: Candeadly, Wikimedia Commons, CC BY 4.0.",
+    "alt": "A 300 ml Orbitz bottle with a yellow planet logo and orange gel balls"
+   },
+   {
+    "image": "img/red-balls.avif",
+    "caption": "A Blueberry Melon Strawberry bottle in 2012. The balls, meant to float, have sunk. Photo: Scott Schiller, Wikimedia Commons, CC BY-SA 2.0.",
+    "alt": "An Orbitz bottle with red gel balls settled at the bottom"
+   }
+  ]
+ },
+ "keyNumbers": {
+  "caption": "The drink in four numbers",
+  "rows": [
+   {
+    "value": "1M",
+    "text": "cases sold by the end of 1996, according to the company[^1]"
+   },
+   {
+    "value": "$9.4M",
+    "text": "Orbitz sales in the first half of 1997[^4]"
+   },
+   {
+    "value": "$1.46M",
+    "text": "in the first half of 1998[^4]"
+   },
+   {
+    "value": "$1.09",
+    "text": "for a 10.14-ounce bottle in Spokane, January 1997[^2]"
+   }
+  ]
+ },
+ "findings": [
+  {
+   "title": "Built to be talked about, not repeated.",
+   "text": "Its spokesman said the aim was to make whoever brought Orbitz into a room “the center of attention for a few moments.”[^1] Reviewers called it a lava lamp, tapioca and worse.[^1][^2]"
+  },
+  {
+   "title": "The collapse was in the plan.",
+   "text": "When first-half sales fell from $9.4M to $1.46M, the marketing chief said: “Our expected life-cycle of the product is coming true.”[^4]"
+  },
+  {
+   "title": "No advertising budget to rescue it.",
+   "text": "Clearly Canadian relied on product placement, sampling and events, saying advertising was “too mass for our products and, quite frankly, not affordable.”[^4]"
+  },
+  {
+   "title": "The parent kept shrinking.",
+   "text": "Clearly Canadian’s revenue fell from $34.9M in 1998 to $20.5M in 2002, with losses in every year after 1998. Its own filings warned that beverage brands may last “a few years” before tastes change.[^6]"
+  }
+ ],
+ "kind": "product",
+ "listed": [],
+ "signature": "recreation",
+ "factFile": [
+  {
+   "key": "was",
+   "value": "A non-carbonated fruit drink with floating gel spheres, made by Clearly Canadian Beverage Corporation of Vancouver",
+   "src": [
+    4,
+    8,
+    1
+   ],
+   "ledger": [
+    "od-030",
+    "od-066",
+    "od-013"
+   ]
+  },
+  {
+   "key": "founded",
+   "label": "Launched",
+   "value": "Introduced in the United States in May 1996, according to Science World in October 1996; the Canadian launch was announced on April 14, 1997, with sales from May 1, 1997",
+   "when": "1996",
+   "src": [
+    9,
+    8
+   ],
+   "ledger": [
+    "od-067",
+    "od-055",
+    "od-056"
+   ]
+  },
+  {
+   "key": "peak",
+   "label": "Highest sales figure found",
+   "value": "$9.4M in the first half of 1997, a company figure reported by Strategy in 1998; the article does not name a currency",
+   "when": "H1 1997",
+   "src": [
+    4
+   ],
+   "ledger": [
+    "od-023"
+   ]
+  },
+  {
+   "key": "end",
+   "value": "Discontinued by 1999 (Gastro Obscura). A company-history reference says sales were suspended, with a significant writedown, in its account of the fall of 1999; no primary source gives a date.",
+   "when": "1999",
+   "src": [
+    5,
+    13
+   ],
+   "ledger": [
+    "od-031",
+    "od-094"
+   ]
+  },
+  {
+   "key": "buyer",
+   "value": "None: Orbitz was a product, not a company. Its maker filed a proposal to its creditors under Canada’s Bankruptcy and Insolvency Act on March 17, 2010. Fast Company reported in October 2024 that Robert R. Khan acquired the Clearly Canadian company in 2012.",
+   "when": "2010 – 2012",
+   "src": [
+    27,
+    24
+   ],
+   "ledger": [
+    "od-123",
+    "od-149"
+   ]
+  },
+  {
+   "key": "nameOwner",
+   "value": "No current owner found. The maker’s 2006 application for ORBITZ was abandoned in December 2008, and a 2014 application by a different applicant was abandoned on request. Fast Company reported in October 2024 that the old owners sold the trademark; it did not name a buyer.",
+   "src": [
+    22,
+    23,
+    24
+   ],
+   "ledger": [
+    "od-133",
+    "od-135",
+    "od-137",
+    "od-138",
+    "od-139",
+    "od-146"
+   ]
+  },
+  {
+   "key": "remains",
+   "value": "Unopened bottles for collectors: Gastro Obscura says one can sell for around $50 on eBay. Fast Company reported that the machine that made the spheres was sold for parts, and that Clearly Canadian itself resumed full-scale production in 2017.",
+   "src": [
+    5,
+    24
+   ],
+   "ledger": [
+    "od-033",
+    "od-146",
+    "od-151"
+   ]
+  }
+ ]
+}

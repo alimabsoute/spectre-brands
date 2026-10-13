@@ -1,0 +1,28 @@
+{
+  "_about": "Example settings for backend/updates-worker.mjs. Placeholders only: this file holds no credential and nothing here is deployed. Secrets are set with the platform's secret store, never committed.",
+  "name": "spectre-updates",
+  "main": "backend/updates-worker.mjs",
+  "compatibility_date": "2026-10-01",
+  "routes": [
+    { "pattern": "spectrebrands.com/api/updates/*", "zone_name": "spectrebrands.com" }
+  ],
+  "d1_databases": [
+    { "binding": "UPDATES_DB", "database_name": "REPLACE_WITH_D1_DATABASE_NAME", "database_id": "REPLACE_WITH_D1_DATABASE_ID" }
+  ],
+  "vars": {
+    "UPDATES_ENABLED": "false",
+    "UPDATES_ORIGIN": "https://spectrebrands.com",
+    "UPDATES_SENDER": "Spectre Brands <hello@spectrebrands.com>",
+    "UPDATES_CONSENT_VERSION": "2026-10-11",
+    "UPDATES_POSTAL_ADDRESS": ""
+  },
+  "_secrets": {
+    "RESEND_API_KEY": "REPLACE_WITH_SECRET_SET_OUTSIDE_THIS_FILE",
+    "UPDATES_TOKEN_SECRET": "REPLACE_WITH_SECRET_SET_OUTSIDE_THIS_FILE (32 characters or more, random)"
+  },
+  "_notes": {
+    "UPDATES_ENABLED": "The Worker answers 503 to every request until this is the string \"true\" and UPDATES_DB, RESEND_API_KEY, UPDATES_TOKEN_SECRET and UPDATES_ORIGIN are all set.",
+    "UPDATES_POSTAL_ADDRESS": "The sender's business mailing address, required in the welcome email. While it is empty, confirmations still work and each welcome email is held in updates_outbox with blocker postal_address_missing. Do not put a home or apartment address here.",
+    "triggers": "No Cron trigger. Held and failed welcome emails are retried only when someone calls retryOutbox()."
+  }
+}

@@ -110,7 +110,7 @@ test('ledger references fail for proposed and missing IDs, including site data',
     fs.writeFileSync(path.join(root, 'data/edges.json'), JSON.stringify([{ evidence: [{ ledger: 'missing' }] }]));
     const ledger = { all: new Map([['good', { status: 'verified', slug: 'example' }], ['proposed', { status: 'proposed', slug: 'example' }], ['foreign', { status: 'verified', slug: 'other' }]]) };
     const errors = ledgerReferences(root, ledger);
-    assert.equal(errors.length, 3); assert.ok(errors.some(e => /data\/edges.json/.test(e)));
+    assert.equal(errors.length, 3); assert.ok(errors.some(e => /data[\\/]edges.json/.test(e)));
   } finally { fs.rmSync(root, { recursive: true, force: true }); }
 });
 

@@ -1,0 +1,127 @@
+{
+  "base": "2f066ae5047159a385584646bd9b975583eff4a0",
+  "variant": "First-pass compact heroes before the integrated film/signup work",
+  "verification": "Historical first-pass validation only; not rerun as a separate version today.",
+  "files": [
+    {
+      "path": "assets/css/v2.css",
+      "bytes": 11238,
+      "sha256": "5969fa0e912c1a060b695003adeab3609f8785897690c7b41e15c6b067c1450f"
+    },
+    {
+      "path": "assets/js/v2.js",
+      "bytes": 16351,
+      "sha256": "66eca2ff8d509d3ea881ec0d6e8b8bc6568839d04e3ec97b7076b2d7e3fc52f8"
+    },
+    {
+      "path": "build.mjs",
+      "bytes": 23530,
+      "sha256": "72175963597687edc89aa5d657673ec7eb232a2e45f91c315af63c20ba3c091c"
+    },
+    {
+      "path": "companies/blockbuster/company.json",
+      "bytes": 7532,
+      "sha256": "5d2425bedf1d4c2347b467d1e0f159799ebdd53601dffbbaccd809cd461e2acf"
+    },
+    {
+      "path": "companies/blockbuster/sections/story.json",
+      "bytes": 11476,
+      "sha256": "aa01fe204b1c3616b68bd68cdac8e2086a4384ef634156f619a02661c6e96748"
+    },
+    {
+      "path": "companies/orbitz-drink/company.json",
+      "bytes": 7413,
+      "sha256": "725ac689fa58fa80cfcefee3af894faebaf786925f248768589678eaddf8df61"
+    },
+    {
+      "path": "companies/orbitz-drink/sections/afterlife.json",
+      "bytes": 6535,
+      "sha256": "98786ec2bbd794dc91270343a5dc49ec39be7fa593a6a657f497be696ccbef0e"
+    },
+    {
+      "path": "companies/orbitz-drink/sections/people.json",
+      "bytes": 3876,
+      "sha256": "0b41a05658b75f4ef9ed2cca8d8fe7ce290fd8a07157e472c5de4bb0546f951b"
+    },
+    {
+      "path": "companies/orbitz-drink/sections/story.json",
+      "bytes": 12512,
+      "sha256": "e5ca977fb09365be89643dec381bd79d58bdf0b7c59ff1568b20a619569efe51"
+    },
+    {
+      "path": "companies/pets-com/company.json",
+      "bytes": 6046,
+      "sha256": "c37ac420e0cb665d7cfd4dee5514f13e38ed578aecb87c04395633dc7d5272de"
+    },
+    {
+      "path": "companies/pets-com/sections/cause.json",
+      "bytes": 1809,
+      "sha256": "5acc67423e6c54df618b2c84e6ffe505909402a6fffefb640bf83a58f2a76fec"
+    },
+    {
+      "path": "companies/pets-com/sections/people.json",
+      "bytes": 2225,
+      "sha256": "1b52c7e93c55b13369c82838bad61975783646bf989dfde3e61bb095ccbd7d1c"
+    },
+    {
+      "path": "companies/pets-com/sections/story.json",
+      "bytes": 6374,
+      "sha256": "b30471adf11f8ef9ca469beb87bbb31a3a74d0088b07b3a733d263a3a3027bf4"
+    },
+    {
+      "path": "lib/citations.mjs",
+      "bytes": 3617,
+      "sha256": "81d95de443381c8a44c1ec2d7a7df5370db126470656c3306a90147d3b4ddc00"
+    },
+    {
+      "path": "lib/pmtransform.mjs",
+      "bytes": 9478,
+      "sha256": "98f3c19706970c6b4f39e3e2a3a15cb0635291d26766b21709048bf259ceccf5"
+    },
+    {
+      "path": "lib/sections.mjs",
+      "bytes": 33112,
+      "sha256": "6bd13ec2b80d41471d858a56c31525c5b58f59d10f495b7f3385303932417175"
+    },
+    {
+      "path": "lib/sitetheme.mjs",
+      "bytes": 4195,
+      "sha256": "73c2ae431d4f351b22b5e88827a01c78f052b1e1d2031d72f60e585cf6b355b9"
+    },
+    {
+      "path": "scripts/check-v2.mjs",
+      "bytes": 8480,
+      "sha256": "db20ea66c533a0d5aab97b16afbf8de35ca4df581e416acd7f85b44b9108d210"
+    },
+    {
+      "path": "tests/v2.test.mjs",
+      "bytes": 10631,
+      "sha256": "97e36f4132f2274120111170295e2bf5d1e7cf2807b8ea543820b64905c47d5e"
+    },
+    {
+      "path": "assets/css/hero-v2.css",
+      "bytes": 11352,
+      "sha256": "de9694b653199c095ef5f52b05149992c2e81d12ff488f322b92920871814905"
+    },
+    {
+      "path": "assets/fonts/hero/barlow-condensed-bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65"
+    },
+    {
+      "path": "assets/fonts/hero/barlowcondensed-OFL.txt",
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "path": "assets/fonts/hero/varelaround-OFL.txt",
+      "bytes": 4465,
+      "sha256": "45446732635812510428bf1bad902a8b133f3c7348ad8593ecca90895595b278"
+    },
+    {
+      "path": "PRODUCT.md",
+      "bytes": 1041,
+      "sha256": "d9d972a8317a728f41df903351579c882050aee4a95a642d4c411efbd7c588f4"
+    }
+  ]
+}

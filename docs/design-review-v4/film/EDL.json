@@ -1,0 +1,277 @@
+{
+  "id": "blockbuster-opening-v4",
+  "duration": 35.7,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "speed": 1,
+  "picture": "whole 16:9 frame, no crop",
+  "audio": {
+    "fadeSeconds": 0.08,
+    "defaultMuted": true
+  },
+  "output": {
+    "video": "/assets/media/blockbuster-opening-v4-web.mp4",
+    "masterVideo": "/assets/media/blockbuster-opening-v4.mp4",
+    "web": {
+      "width": 1280,
+      "height": 720,
+      "crf": 25,
+      "from": "/assets/media/blockbuster-opening-v4.mp4",
+      "video": "H.264, preset fast",
+      "audio": "copied from the master"
+    },
+    "poster": "/assets/media/blockbuster-opening-v4/poster.jpg",
+    "stills": [
+      "/assets/media/blockbuster-opening-v4/chapter-01.jpg",
+      "/assets/media/blockbuster-opening-v4/chapter-02.jpg",
+      "/assets/media/blockbuster-opening-v4/chapter-03.jpg",
+      "/assets/media/blockbuster-opening-v4/chapter-04.jpg",
+      "/assets/media/blockbuster-opening-v4/chapter-05.jpg",
+      "/assets/media/blockbuster-opening-v4/chapter-06.jpg",
+      "/assets/media/blockbuster-opening-v4/chapter-07.jpg",
+      "/assets/media/blockbuster-opening-v4/chapter-08.jpg",
+      "/assets/media/blockbuster-opening-v4/chapter-09.jpg"
+    ]
+  },
+  "sources": {
+    "sign": {
+      "file": "assets/01-the-sign.mp4",
+      "original": "renders/01-the-sign.mp4",
+      "sha256": "8f58b4a89117b56dfcbeb3db396f33d73959cdd2c6792d74da072516c61147d8"
+    },
+    "receipt": {
+      "file": "assets/02-the-receipt.mp4",
+      "original": "renders/02-the-receipt.mp4",
+      "sha256": "7225d38b618481625f1c5850ef304eeb78596136c8b2f1e86245d495b4e3eb5e"
+    },
+    "lights": {
+      "file": "assets/03-9094-lights.mp4",
+      "original": "renders/03-9094-lights.mp4",
+      "sha256": "5c464dee69feabdc23c1297160959cfbb1b60e84627531d0ddb5882503af11e5"
+    },
+    "anime": {
+      "file": "assets/04-struggling-not-to-laugh.mp4",
+      "original": "renders/04-struggling-not-to-laugh.mp4",
+      "sha256": "2a05feac4736cb16c59fb9ef1e9a72f0373b2c9b6940335ef0009744bd6d5920"
+    }
+  },
+  "reserved": {
+    "file": "../reserved-game/05-insert-coin.mp4",
+    "original": "renders/05-insert-coin.mp4",
+    "sha256": "bdb1cc0e65a77b2bf9bbe3e4488c2463f71771d81ce5a18cf0d1c83a6d614683",
+    "use": "held for a later feature; never part of the opening"
+  },
+  "poster": {
+    "source": "sign",
+    "at": 3.2,
+    "alt": "The Blockbuster sign lit over a rain-wet storefront with a neon OPEN sign."
+  },
+  "cuts": [
+    {
+      "n": 1,
+      "label": "The sign",
+      "source": "sign",
+      "in": 0.4,
+      "out": 3.4,
+      "start": 0,
+      "duration": 3,
+      "still": {
+        "at": 3.2,
+        "alt": "The Blockbuster sign lit over a rain-wet storefront with a neon OPEN sign."
+      },
+      "cues": [
+        {
+          "at": 0,
+          "summary": "A store within a short drive of most American homes.",
+          "text": "It had a store within a short drive of most American homes."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "label": "Dallas, 1985",
+      "source": "receipt",
+      "in": 0.45,
+      "out": 3,
+      "start": 3,
+      "duration": 2.55,
+      "still": {
+        "at": 2.9,
+        "alt": "A printed receipt headed Blockbuster Video, Store #0001, Dallas, Texas, Oct 19 1985."
+      },
+      "cues": [
+        {
+          "at": 3,
+          "summary": "Dallas, October 19, 1985. The first store opens.",
+          "text": "The first Blockbuster opened in Dallas on October 19, 1985.[^20]"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "label": "400 stores, 1988",
+      "source": "lights",
+      "in": 1.45,
+      "out": 5.6,
+      "start": 5.55,
+      "duration": 4.15,
+      "still": {
+        "at": 3.2,
+        "alt": "A disc of small lights labeled 1988, about 400 stores, 1 light = 1 store."
+      },
+      "cues": [
+        {
+          "at": 5.55,
+          "summary": "Some 400 stores by 1988. Late fees were $692.6M in 1999.",
+          "text": "By 1988 it had some 400 stores.[^20] In 1999 late fees were $692.6M, 15.5% of revenue.[^2]"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "label": "The meeting, 2000",
+      "source": "anime",
+      "in": 5.1,
+      "out": 13.3,
+      "start": 9.7,
+      "duration": 8.2,
+      "still": {
+        "at": 9.6,
+        "alt": "A cartoon executive hiding a laugh behind his fist. On-screen text: He was struggling not to laugh, as Marc Randolph tells it."
+      },
+      "cues": [
+        {
+          "at": 9.7,
+          "summary": "2000: Netflix asks $50M to be bought, in Marc Randolph’s account.",
+          "text": "By Marc Randolph’s account, Netflix offered itself to Blockbuster for $50M in September 2000.[^18]"
+        },
+        {
+          "at": 12.9,
+          "summary": "In Randolph’s account, Blockbuster turns the offer down.",
+          "text": "It was turned down. Randolph writes that John Antioco “was struggling not to laugh.”[^18]"
+        },
+        {
+          "at": 15.6,
+          "summary": "The meeting is Marc Randolph’s account.",
+          "text": "The meeting is Marc Randolph’s account."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "label": "9,094 stores, 2004",
+      "source": "lights",
+      "in": 7.7,
+      "out": 10.6,
+      "start": 17.9,
+      "duration": 2.9,
+      "still": {
+        "at": 9.6,
+        "alt": "A disc of lights labeled 2004, 9,094 stores in 25 countries, $905.6M paid out to shareholders with borrowed money, long-term debt $1,119.7M at the end of 2004."
+      },
+      "cues": [
+        {
+          "at": 17.9,
+          "summary": "2004: 9,094 stores across 25 countries.",
+          "text": "Blockbuster ended 2004 with 9,094 stores in 25 countries, the most it ever had.[^6]"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "label": "Payout and debt",
+      "source": "receipt",
+      "in": 9,
+      "out": 14.4,
+      "start": 20.8,
+      "duration": 5.4,
+      "still": {
+        "at": 12.8,
+        "alt": "A receipt listing the 2004 borrowing, $905.6M paid to shareholders, and long-term debt of $75.1M in 2003 and $1,119.7M in 2004."
+      },
+      "cues": [
+        {
+          "at": 20.8,
+          "summary": "2004: about $905.6M to shareholders, funded by borrowing.",
+          "text": "That year it paid shareholders about $905.6M, funded by new borrowing.[^5]"
+        },
+        {
+          "at": 22.6,
+          "summary": "Long-term debt rises from $75.1M to $1,119.7M in a year.",
+          "text": "Long-term debt rose from $75.1M to $1,119.7M in a year.[^6]"
+        },
+        {
+          "at": 24.4,
+          "summary": "Net losses in every year from 1997 to 2010 except 2006.",
+          "text": "It reported a net loss in every year from 1997 to 2010 except 2006.[^2][^6][^9][^10]"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "label": "Chapter 11, 2010",
+      "source": "sign",
+      "in": 11.6,
+      "out": 14.3,
+      "start": 26.2,
+      "duration": 2.7,
+      "still": {
+        "at": 12.8,
+        "alt": "The sign with most of its letters dark. On-screen text: 2010: Chapter 11, nearly $1 billion in debt."
+      },
+      "cues": [
+        {
+          "at": 26.2,
+          "summary": "September 23, 2010: Chapter 11, nearly $1 billion in debt.",
+          "text": "On September 23, 2010 it filed for Chapter 11 with nearly $1 billion of debt.[^11]"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "label": "The stores close",
+      "source": "lights",
+      "in": 13.5,
+      "out": 17.9,
+      "start": 28.9,
+      "duration": 4.4,
+      "still": {
+        "at": 16,
+        "alt": "The disc of lights almost dark, labeled 2014, about 50 franchised stores."
+      },
+      "cues": [
+        {
+          "at": 28.9,
+          "summary": "The corporate stores close by January 2014.",
+          "text": "Dish closed the corporate stores by January 2014.[^27]"
+        },
+        {
+          "at": 31.1,
+          "summary": "About 50 franchises remain, then close one by one.",
+          "text": "About 50 franchised stores stayed open.[^27][^28] They closed one by one.[^29][^30]"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "label": "Bend, Oregon",
+      "source": "sign",
+      "in": 17.6,
+      "out": 20,
+      "start": 33.3,
+      "duration": 2.4,
+      "still": {
+        "at": 19.2,
+        "alt": "The sign dark, the neon OPEN sign still lit. On-screen text: Bend, Oregon. Still open."
+      },
+      "cues": [
+        {
+          "at": 33.3,
+          "summary": "Bend, Oregon. One franchise still rents films.",
+          "text": "One franchised store in Bend, Oregon still rents films under the name.[^29][^31]"
+        }
+      ]
+    }
+  ]
+}

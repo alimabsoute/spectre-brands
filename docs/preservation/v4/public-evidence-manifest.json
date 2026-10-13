@@ -1,0 +1,329 @@
+{
+  "base": "2f066ae5047159a385584646bd9b975583eff4a0",
+  "copies": [
+    {
+      "source": "docs/hero-review/README.md",
+      "path": "docs/preservation/v4/history/hero-review/README.md",
+      "bytes": 7429,
+      "sha256": "ac2edbc0d7bf5c5184c6fa53130ad49322f5404ca20ec05166156853edffab43",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/hero-review/IMPECCABLE_AUDIT.md",
+      "path": "docs/preservation/v4/history/hero-review/IMPECCABLE_AUDIT.md",
+      "bytes": 5325,
+      "sha256": "938c84038bf382e0b18b20687c3075ae5bf365b996384d17e92aab8ffe5d87ad",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/hero-review/CHANGED_FILES.md",
+      "path": "docs/preservation/v4/history/hero-review/CHANGED_FILES.md",
+      "bytes": 1261,
+      "sha256": "9af30a9bef66870dccb249201bd8560e52fb1c89c4215788dd94d74cf96cde32",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v2/PATTERN_MAP.md",
+      "path": "docs/preservation/v4/history/design-review-v2/PATTERN_MAP.md",
+      "bytes": 6548,
+      "sha256": "09d1eca9a8107ef91e58609ac64ebff6e0879275c9077deba155949838314910",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v2/IMAGE_SELECTION.md",
+      "path": "docs/preservation/v4/history/design-review-v2/IMAGE_SELECTION.md",
+      "bytes": 2296,
+      "sha256": "e78defeee7e030625e50e993d5a52abf2092797b6e835aef5f32f9f8acb54ad3",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v3/FINAL_REVIEW.md",
+      "path": "docs/preservation/v4/history/design-review-v3/FINAL_REVIEW.md",
+      "bytes": 12868,
+      "sha256": "a1d4fe0abe4233178fbce98e4aa9da1595c3e0f4a389d80025c82e0ff7603f5a",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v3/SOURCES_AND_STYLES.md",
+      "path": "docs/preservation/v4/history/design-review-v3/SOURCES_AND_STYLES.md",
+      "bytes": 7161,
+      "sha256": "16a670ab7f3a7ca882d251f8848047a18f734ba935c9cf2f6a5f929af25b5e98",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v3/LATEST_DIRECTION.md",
+      "path": "docs/preservation/v4/history/design-review-v3/LATEST_DIRECTION.md",
+      "bytes": 2929,
+      "sha256": "5d37a520198b2eadc1574b0edca39bfeac81ed3bb5ed78a6a7af457be4823977",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/FINAL_VISUAL_REVIEW.md",
+      "path": "docs/preservation/v4/history/design-review-v4/FINAL_VISUAL_REVIEW.md",
+      "bytes": 9065,
+      "sha256": "586d6684d571088629622594642eff346ead2b80841c8ad2caa56aaa45d06ad7",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/CHANGED_FILES.md",
+      "path": "docs/preservation/v4/history/design-review-v4/CHANGED_FILES.md",
+      "bytes": 2759,
+      "sha256": "9c3e48b6f704c5b7dec42cd6d3e2db73f99b7a65af9834379ecd81ac971788a5",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/updates/README.md",
+      "path": "docs/preservation/v4/history/design-review-v4/updates/README.md",
+      "bytes": 22963,
+      "sha256": "4b60104acf9c6119ac95f64da705a75872f7d477efe151ca947650d8e443ad19",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/updates/21st-source.md",
+      "path": "docs/preservation/v4/history/design-review-v4/updates/21st-source.md",
+      "bytes": 3768,
+      "sha256": "a6aec145c00a0fc9de5bf9be6ec5cc6ca49c002ecdb2d1dcb596d540f6aa2d94",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/film/BRIEF.md",
+      "path": "docs/preservation/v4/history/design-review-v4/film/BRIEF.md",
+      "bytes": 2385,
+      "sha256": "801753750204017d514e691081e5e84be415c142eb4b7389dc35f7764c497f7e",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/film/STORYBOARD.md",
+      "path": "docs/preservation/v4/history/design-review-v4/film/STORYBOARD.md",
+      "bytes": 3652,
+      "sha256": "97345fceb091a8cdcf79b22ede34bd4e9b561bae50df976c64df6a04024d958e",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/film/DESIGN.md",
+      "path": "docs/preservation/v4/history/design-review-v4/film/DESIGN.md",
+      "bytes": 3979,
+      "sha256": "b83500e5b03918b209a6a3245d64019760eb6d1d28098fc2cc6fadf858509944",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/hero-review/content-check.json",
+      "path": "docs/preservation/v4/history/hero-review/content-check.json",
+      "bytes": 142,
+      "sha256": "3e296f2e50d4c3c80109f899d7a8902c0b0680a19acec5dec1e9b2d8e6fdb025",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/hero-review/audit-measurements.json",
+      "path": "docs/preservation/v4/history/hero-review/audit-measurements.json",
+      "bytes": 18259,
+      "sha256": "43b3a5a928d8e6d0b4c77aeaa16223809776fcc8693b6001295715acdec4128e",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/hero-review/baseline-content.json",
+      "path": "docs/preservation/v4/history/hero-review/baseline-content.json",
+      "bytes": 63792,
+      "sha256": "6906d63b6706aa2c76f55c0b730ee13f8d715ad1d717f5d2de2e1d79f077952f",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v2/inventory-summary.json",
+      "path": "docs/preservation/v4/history/design-review-v2/inventory-summary.json",
+      "bytes": 948,
+      "sha256": "d7df519a146f9f7eb9c6889a8962678a9fdc5f7c7f702b189beb22f8812d7902",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v2/asset-inventory.json",
+      "path": "docs/preservation/v4/history/design-review-v2/asset-inventory.json",
+      "bytes": 605080,
+      "sha256": "e2b51e83abe77c439f9d15e5dbbf034007dc97ac68e88aa79e28b96af9d3abbb",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v3/qa-final/qa-results.json",
+      "path": "docs/preservation/v4/history/design-review-v3/qa-final/qa-results.json",
+      "bytes": 25204,
+      "sha256": "6f6dbe94409b4ad4824733a3d2fac59d27ff79fa7da1b0e02b316d0f115a318b",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v3/qa-hyperframes-a.json",
+      "path": "docs/preservation/v4/history/design-review-v3/qa-hyperframes-a.json",
+      "bytes": 6889,
+      "sha256": "67565c0b426a57b46fcc8cf96242ee191d3edcf1afbbc3cd62e673df7ca96379",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v3/qa-hyperframes-b.json",
+      "path": "docs/preservation/v4/history/design-review-v3/qa-hyperframes-b.json",
+      "bytes": 6967,
+      "sha256": "d7092255b1ae0d3d857eb548306539368afe577e820efb3452b78545edbceab1",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v3/qa-hyperframes-c.json",
+      "path": "docs/preservation/v4/history/design-review-v3/qa-hyperframes-c.json",
+      "bytes": 9396,
+      "sha256": "e00c8b99296775b700b5296be71c8fa3f2a35f0e26919f74065550e93db9cb7d",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/qa/results.json",
+      "path": "docs/preservation/v4/history/design-review-v4/qa/results.json",
+      "bytes": 18937,
+      "sha256": "65a313ed1514b54c0f77d56b961baee53653ec4202a82144419a0e6f5771114d",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/qa/portable-results.json",
+      "path": "docs/preservation/v4/history/design-review-v4/qa/portable-results.json",
+      "bytes": 2258,
+      "sha256": "4e34930d46aafd53153a77eb8917c725994962622ef3bd1a0f518311e3730cb7",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/qa/compact-results.json",
+      "path": "docs/preservation/v4/history/design-review-v4/qa/compact-results.json",
+      "bytes": 2056,
+      "sha256": "83be953a91fa37b5e5d668fd5b039324c1e62711520af8913d5ba84deb96dcb9",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/film/web-playback.json",
+      "path": "docs/preservation/v4/history/design-review-v4/film/web-playback.json",
+      "bytes": 472,
+      "sha256": "5a88092696059096f65cecf37ac0ffff6ae86915657315b4821c10d37ba4f893",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/film/master-playback.json",
+      "path": "docs/preservation/v4/history/design-review-v4/film/master-playback.json",
+      "bytes": 170,
+      "sha256": "0f4bef29957006e584becc5e8f9377b31bdfc23fbd32129a897898f7bd039b70",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/film/hyperframes-check-final.json",
+      "path": "docs/preservation/v4/history/design-review-v4/film/hyperframes-check-final.json",
+      "bytes": 1183,
+      "sha256": "c752776d71927e8452dab96a7a1ed59e75e8f27700833929c2fc18af886b202b",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/film/hyperframes-lint-final.json",
+      "path": "docs/preservation/v4/history/design-review-v4/film/hyperframes-lint-final.json",
+      "bytes": 216,
+      "sha256": "371a72bb679ed0f95b8b5ad7ba9af4aed207cbde1c65a8133d7bb2a332d95c85",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/film/encoded-probe.json",
+      "path": "docs/preservation/v4/history/design-review-v4/film/encoded-probe.json",
+      "bytes": 420,
+      "sha256": "7621ffacab775310e977ed4dd525cc99f05d12b451f32f2fb0feab5b19a0bfab",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/claude-code-evidence.json",
+      "path": "docs/preservation/v4/history/design-review-v4/claude-code-evidence.json",
+      "bytes": 2912,
+      "sha256": "6ae2bfd912281a717d95a048aa3b8811900e974e462bd3ea1f21daf1b5b802b7",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/unit-final.txt",
+      "path": "docs/preservation/v4/history/design-review-v4/unit-final.txt",
+      "bytes": 9491,
+      "sha256": "1f221a13f047cad60266f86554a1b9718f9309e0d4047dac127bcfbd578b42d9",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/site-check-final.txt",
+      "path": "docs/preservation/v4/history/design-review-v4/site-check-final.txt",
+      "bytes": 3655,
+      "sha256": "84a15904194887b09f62b73b0856a05a8e44d3a5171d9409724838c65e3d2c06",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/design-review-v4/prose-final.json",
+      "path": "docs/preservation/v4/history/design-review-v4/prose-final.json",
+      "bytes": 105465,
+      "sha256": "d10464eaccb24c13046fd97fb1c6ad7b9d4809bd0e0bf371aabc5c33e870388d",
+      "privateMetadataSanitized": true
+    },
+    {
+      "source": "docs/hero-review/before/blockbuster-375-viewport.png",
+      "path": "docs/preservation/v4/screenshots/baseline-blockbuster-375.png",
+      "bytes": 191189,
+      "sha256": "2b4953783d03ec228bf19b0eac210c002959f35d969cd9cdf9b5565342466e83"
+    },
+    {
+      "source": "docs/design-review-v4/qa/blockbuster-375.png",
+      "path": "docs/preservation/v4/screenshots/final-blockbuster-375.png",
+      "bytes": 154985,
+      "sha256": "c2722732a0769cbd2642b18ac485cc6ebb02588cea2ffb90025a1206bb090e2a"
+    },
+    {
+      "source": "docs/hero-review/before/blockbuster-1280-viewport.png",
+      "path": "docs/preservation/v4/screenshots/baseline-blockbuster-1280.png",
+      "bytes": 455823,
+      "sha256": "4a26d3298d1642a3fbe951f26df76380d7efa208d6834851ce13b988f57636e8"
+    },
+    {
+      "source": "docs/design-review-v4/qa/blockbuster-1280.png",
+      "path": "docs/preservation/v4/screenshots/final-blockbuster-1280.png",
+      "bytes": 318797,
+      "sha256": "53c79e1e4d7dd6f7aefdf551a68ba64bef810305cbf637afdcd57eaff56ac042"
+    },
+    {
+      "source": "docs/hero-review/before/pets-com-375-viewport.png",
+      "path": "docs/preservation/v4/screenshots/baseline-pets-com-375.png",
+      "bytes": 152806,
+      "sha256": "e9f98fa014e032b97249c91b98e38d4b42d8c9f40b6dfe0d77c1dd61901e4e1f"
+    },
+    {
+      "source": "docs/design-review-v4/qa/pets-com-375.png",
+      "path": "docs/preservation/v4/screenshots/final-pets-com-375.png",
+      "bytes": 126939,
+      "sha256": "f43b9ff986bdf909914e2d9c04bb133b3b4b8cc3785836a656a5f5003368c9dd"
+    },
+    {
+      "source": "docs/hero-review/before/pets-com-1280-viewport.png",
+      "path": "docs/preservation/v4/screenshots/baseline-pets-com-1280.png",
+      "bytes": 325298,
+      "sha256": "ca1440e3d08af3a188a5bcfa116df677ec528423987b14f76b765f5424b00ca3"
+    },
+    {
+      "source": "docs/design-review-v4/qa/pets-com-1280.png",
+      "path": "docs/preservation/v4/screenshots/final-pets-com-1280.png",
+      "bytes": 250081,
+      "sha256": "fbddef17e224e5b4a6da21c749751ceb7ada95c22115a1f213bd5a0e8da5519a"
+    },
+    {
+      "source": "docs/hero-review/before/orbitz-drink-375-viewport.png",
+      "path": "docs/preservation/v4/screenshots/baseline-orbitz-drink-375.png",
+      "bytes": 131063,
+      "sha256": "f1af1e06939007a6492a008eb20be92ecf969c70b09c62f2b2f4533d477f2038"
+    },
+    {
+      "source": "docs/design-review-v4/qa/orbitz-drink-375.png",
+      "path": "docs/preservation/v4/screenshots/final-orbitz-drink-375.png",
+      "bytes": 81541,
+      "sha256": "2ad6d807a1e60ad0527bffcb794c8364a9c19c1cf16355c792304e1f99d603ea"
+    },
+    {
+      "source": "docs/hero-review/before/orbitz-drink-1280-viewport.png",
+      "path": "docs/preservation/v4/screenshots/baseline-orbitz-drink-1280.png",
+      "bytes": 357411,
+      "sha256": "7878f174d4ddb9ee7545b971e180c8fd00708d0445b1065147169c6d00dca0dd"
+    },
+    {
+      "source": "docs/design-review-v4/qa/orbitz-drink-1280.png",
+      "path": "docs/preservation/v4/screenshots/final-orbitz-drink-1280.png",
+      "bytes": 168909,
+      "sha256": "79281728ea2e9863de7208f0886558c3986a08b777b28535406728a83bea6fb8"
+    }
+  ]
+}

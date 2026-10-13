@@ -16,7 +16,7 @@ import { homeMixData, renderHomeMixes } from './lib/homemix.mjs';
 import { pmPreview } from './lib/pmpreview.mjs';
 import { pmTransform } from './lib/pmtransform.mjs';
 import { fnPreview } from './lib/fnpreview.mjs';
-import { themePage, homePage, cmdkCSS } from './lib/sitetheme.mjs';
+import { themePage, homePage, cmdkCSS, UPD_MID_MARK } from './lib/sitetheme.mjs';
 import { render as renderHomeC } from './lib/homemix/homec.mjs';
 import { categoryPage, aboutPage } from './lib/pages.mjs';
 import { row, ledgerHead, decadeOf } from './lib/cards.mjs';
@@ -129,12 +129,17 @@ function renderCompany(c, all, site, V) {
   // an act of one section needs no header of its own (Sources, usually); photographs go to the first and last headers
   const many = g => used.filter(x => SECTIONS[x].group === g).length > 1, headed = acts.filter(a => a.id !== 'story' && many(a.id)).map(a => a.id);
   const photoFor = Object.fromEntries([...new Set([headed[0], headed.at(-1)])].filter(Boolean).map((g, i) => [g, photos[i]]));
+  // the mid-article email prompt goes after the core section nearest the middle of the page (lib/sitetheme.mjs fills the marker)
+  const parts = used.slice(1), half = Math.max(0, Math.ceil(parts.length / 2) - 1);
+  const midAfter = parts.length > 2 ? parts.slice(half, -1).find(id => SECTIONS[id].core) || parts[half] : null;
   for (const id of used.slice(1)) {
     const g = SECTIONS[id].group, opens = headed.includes(g) && used.find(x => SECTIONS[x].group === g) === id;
     if (opens) body += actBreak(ctx, { id: g, label: acts.find(a => a.id === g).label, n: acts.findIndex(a => a.id === g) + 1, total: acts.length, parts: used.filter(x => SECTIONS[x].group === g).map(x => labels[x]), image: photoFor[g] });
     try { body += section(id, c.sections[id], ctx); } catch (e) { errors.push(`${c.slug}/${id}: ${e.message}`); }
+    if (id === midAfter) body += UPD_MID_MARK;
   }
-  body = citations(glossaryLinks(body, siteData.glossary, c.glossaryOff || []), c.sections.sources.list);
+  if (c.factFile?.length) body = body.replace(/ target="_blank"/g, '');
+  body = citations(glossaryLinks(body, siteData.glossary, c.glossaryOff || []), c.sections.sources.list, { compact: !!c.factFile?.length });
   c.stats = { infographics: ctx.count.infographics + (c.sections.cause?.causes?.reduce((a, x) => a + x.weight, 0) === 100 ? 1 : 0), videos: Object.keys(ctx.videos).length, inlineVideos: ctx.inlineVideos.size, charts: Object.keys(ctx.data.charts).length };
   const needsCharts = Object.keys(ctx.data.charts).length > 0, needsMap = !!ctx.data.map;
   const nasdaq = JSON.stringify(ctx.data).includes('"ref":"nasdaq"') ? readJSON(path.join(ROOT, 'data/nasdaq.json')) : null;
@@ -173,13 +178,18 @@ const dupes = companies.map(c => c.number).filter((n, i, a) => a.indexOf(n) !== 
 if (dupes.length) errors.push(`duplicate company "number": ${[...new Set(dupes)].join(', ')}`);
 
 // One stylesheet (tokens first), versioned by content hash so deploys never serve a stale file.
-const CSS = ['tokens.css', 'base.css', 'modules.css', 'infographics.css', 'map.css', 'home.css', 'v2.css'].map(f => rd(path.join(ROOT, 'assets/css', f))).join('\n');
+const CSS = ['tokens.css', 'base.css', 'modules.css', 'infographics.css', 'map.css', 'home.css', 'v2.css', 'hero-v2.css'].map(f => rd(path.join(ROOT, 'assets/css', f))).join('\n');
 copyDir(path.join(ROOT, 'assets'), path.join(OUT, 'assets'));
 fs.rmSync(path.join(OUT, 'assets/css'), { recursive: true, force: true });
 // light minification: comments and insignificant whitespace only
 const minCSS = CSS.replace(/\/\*[\s\S]*?\*\//g, '').replace(/\s*\n\s*/g, '').replace(/\s*([{};,])\s*/g, '$1').replace(/;}/g, '}');
 write('assets/site.css', minCSS);
+// The opening film and the email updates keep their own stylesheets (lib/sitetheme.mjs links them where a page
+// needs them; the updates backend's state pages link updates.css as well).
+const OWN_CSS = ['film.css', 'updates.css'];
+for (const f of OWN_CSS) write(`assets/css/${f}`, rd(path.join(ROOT, 'assets/css', f)));
 const hash = crypto.createHash('sha1').update(CSS);
+for (const f of [...OWN_CSS.map(f => `assets/css/${f}`), 'lib/updates.mjs', 'lib/film.mjs']) hash.update(rd(path.join(ROOT, f)));
 for (const f of fs.readdirSync(path.join(ROOT, 'assets/js'))) hash.update(rd(path.join(ROOT, 'assets/js', f)));
 for (const f of ['assets/pmpreview/sections.css', 'assets/pmpreview/sections.js', 'assets/homemix/mixc.css', 'assets/homemix/homec.js', 'lib/sitetheme.mjs']) hash.update(rd(path.join(ROOT, f)));
 const V = '?v=' + hash.digest('hex').slice(0, 8);

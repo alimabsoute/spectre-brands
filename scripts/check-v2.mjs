@@ -17,7 +17,7 @@ const server = http.createServer((req, res) => {
 });
 await new Promise(resolve => server.listen(0, '127.0.0.1', resolve));
 const base = `http://127.0.0.1:${server.address().port}`, browser = await chromium.launch();
-const errors = [], screenshots = '/tmp/spectre-v2-qa'; fs.mkdirSync(screenshots, { recursive: true });
+const errors = [], screenshots = path.join(ROOT, 'docs/hero-review/fixture'); fs.mkdirSync(screenshots, { recursive: true });
 try {
   for (const width of [375, 1280]) for (const theme of ['light', 'dark']) {
     const ctx = await browser.newContext({ viewport: { width, height: 900 } });
@@ -25,6 +25,7 @@ try {
     const page = await ctx.newPage();
     page.on('pageerror', e => errors.push(String(e)));
     await page.goto(`${base}/_template/`); await page.waitForSelector('.v2-ready');
+    await page.locator('.hx-dossier>summary').focus(); await page.keyboard.press('Enter');
     assert.equal(await page.locator('.factfile-row').count(), 6);
     assert.equal(await page.locator('.v2-storemap .v2-tile').count(), 102);
     assert.equal(await page.locator('.where-now .now-card').count(), 2);
@@ -86,9 +87,10 @@ try {
   }
   const nojs = await browser.newContext({ javaScriptEnabled: false, viewport: { width: 375, height: 900 } }), page = await nojs.newPage();
   await page.goto(`${base}/_template/`);
+  await page.locator('.hx-dossier>summary').focus(); await page.keyboard.press('Enter');
   assert.equal(await page.locator('.factfile sup.fn').first().evaluate(el => getComputedStyle(el).display), 'inline');
   assert.equal(await page.locator('.glossary-fallback').first().isVisible(), true);
-  await page.locator('.factfile .srcs').first().click(); assert.match(page.url(), /#sources$/);
+  await page.locator('.factfile sup.fn a').first().click(); assert.match(page.url(), /#src-\d+$/);
   await page.locator('.more-whatifs summary').focus(); await page.keyboard.press('Enter'); assert.equal(await page.locator('.more-whatifs').evaluate(d => d.open), true);
   assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1));
   await nojs.close();
